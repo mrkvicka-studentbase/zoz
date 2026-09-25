@@ -1,0 +1,214 @@
+[
+ {
+  "n": 247,
+  "otazka": "Jaký je tlak v hlavní potrubí při úplném provozním zabrzdění:",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "příl. 3 čl. 445"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "Základní pojmy, odd. D – Úplné provozní zabrzdění"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "příl. 2 čl. 436"
+   },
+   {
+    "predpis": "SR 15 (V)",
+    "clanek": "čl. 162 – brzdič DAKO-BS 2"
+   }
+  ],
+  "odpoved": "Tlak v hlavním potrubí klesne z provozního tlaku 5,0 bar na 3,5 bar; tím je nastaven nejvýše dosažitelný účinek průběžné brzdy vlaku.",
+  "plne_zneni": "ČD V15/I příl. 3 čl. 445: Při nouzovém ovládání a v průběhu další jízdy vlaku: provozní tlak průběžné brzdy 5,0 bar (tedy odbrzděná průběžná brzda) odpovídá zcela odvětraným brzdovým válcům hnacího vozidla; aa) zvyšováním tlaku v brzdových válcích hnacího vozidla se snižuje tlak v hlavním potrubí, čímž se uvádí do činnosti průběžná brzda; aaa) tlaku 4,0 bar v brzdových válcích hnacího vozidla odpovídá tlak nižší než 3,5 bar v hlavním potrubí (tedy úplné provozní zabrzdění).\n\nČD V15/I příl. 2 čl. 436: […] U ep-brzdy ovládané systémem UIC 558 se zkouška provede zavedením úplného provozního zabrzdění (na 3,5 bar v hlavním potrubí) a následným odbrzděním. Po 7-10 vteřinách musí tlak v hlavním potrubí dosáhnout hodnoty 5 bar.\n\nČD V15/I, Základní pojmy, odd. D (Obsluha a provozní stavy brzd):\n„Provozní tlak průběžné brzdy (5,0 bar) – tlak v hlavním potrubí, při kterém jsou brzdové válce zcela odvětrány (brzda vozidla je zcela odbrzděna), pomocný vzduchojem zcela naplněn a brzda je pohotová k brzdění maximálním účinkem.“\n„Úplné provozní zabrzdění – stav, kdy je nastaven nejvýše dosažitelný účinek brzdy vlaku snížením tlaku v hlavním potrubí průběžné brzdy z provozního tlaku na 3,5 bar nebo u dynamických brzd dosažením nejvyšší hodnoty brzdného proudu (elektrická), resp. tlaku oleje (hydraulická).“\n„Rychločinné zabrzdění – stav, kdy hlavní potrubí bylo z provozního stavu velmi rychle vyprázdněno. Velikost brzdícího účinku při rychločinném zabrzdění je stejná jako při úplném provozním zabrzdění, ale s kratší dobou dosažení jeho maximální hodnoty.“\n\nSR 15 (V), čl. 162 (brzdič DAKO-BS 2): „Při úplném provozním zabrzdění klesne tlak v řídicím vzduchojemu o obsahu 1,0 litr z 5,0 na 3,5 baru za dobu 3 ± 1 sekunda.“",
+  "distraktory": [
+   "Tlak v hlavním potrubí klesne z provozního tlaku 5,0 bar na 3,0 bar; tím je nastaven nejvýše dosažitelný účinek průběžné brzdy vlaku.",
+   "Tlak v hlavním potrubí klesne z provozního tlaku 5,0 bar na 4,5 bar; většího účinku se dosáhne až rychločinným zabrzděním."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Hodnotu 3,5 bar definují Základní pojmy předpisu ČD V15/I; v číslovaných článcích je uvedena v příloze 2 (čl. 436) a v příloze 3 (čl. 445). V hlavním (nepřílohovém) textu V15/I číslovaný článek s touto hodnotou není."
+ },
+ {
+  "n": 248,
+  "otazka": "Je možné provést zkoušku brzdy jen pomocí diagnostického displeje vozidla:",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 64"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 68"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 60"
+   }
+  ],
+  "odpoved": "Ano – jen na HV (soupravě) vybaveném automatickým režimem ověřování funkce brzdového systému; tímto zařízením lze vykonat ÚZB, JZB i ZBHV.",
+  "plne_zneni": "ČD V15/I čl. 64: Na HV (soupravě vlaku) vybaveným automatickým režimem ověřování funkce brzdového systému, je možné vykonat ÚZB nebo JZB nebo ZBHV s využitím tohoto zařízení.\n\nČD V15/I čl. 68: V případech, kdy je možno ověřit správnou funkci brzdy vozidel (přilehnutí a odlehnutí brzdových špalíků nebo zabrzdění a odbrzdění kotoučové brzdy) sledováním tlakových změn na manometru nebo jiném zobrazovacím zařízení na stanovišti strojvedoucího, odpovídá za provedení strojvedoucí tohoto HV.\n\nČD V15/I čl. 60: V provozu jsou pro ověření funkce brzdy vozidel používány následující postupy: Úplná zkouška brzdy (ÚZB); Jednoduchá zkouška brzdy (JZB); Zkouška brzdy hnacího vozidla (ZBHV) – podmínky a postup stanoví předpis ČD V 2; Ověření ovládání průběžné brzdy (OOPB); Ověření činnosti brzdy PMD (OČBPMD); Ověření činnosti brzdy posunového dílu (OČBP).",
+  "distraktory": [
+   "Ano – ale jen zkoušku brzdy hnacího vozidla (ZBHV); ÚZB a JZB musí vždy provést odborně způsobilý zaměstnanec kontrolou u jednotlivých vozidel.",
+   "Ne – diagnostický displej slouží pouze ke sledování tlakových změn, zkoušku brzdy je vždy nutné vykonat kontrolou účinku brzdy na vozidlech."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 249,
+  "otazka": "Jak se strojvedoucí vedoucího vozidla vlaku dorozumí s vedoucím obsluhy vlaku?",
+  "obrazky": [
+   "img/q249_1.png"
+  ],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 222"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 265"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 264"
+   }
+  ],
+  "odpoved": "Vedoucí obsluhy vlaku se mu ohlásí při nástupu na vlak; pro další vzájemnou komunikaci použijí aplikaci ČD Kontakty, pokyny před odjezdem se dávají návěstmi, popř. ústně.",
+  "plne_zneni": "ČD D2 čl. 222: Člen obsluhy vlaku, který má k výkonu dopravní služby přiřazena vozidla, ze kterých bude dávat návěst Souhlas k odjezdu, se při nástupu na vlak ohlásí strojvedoucímu. Pro další vzájemnou komunikaci použijí zaměstnanci doprovodu vlaku aplikaci ČD Kontakty.\n\nČD D2 čl. 265: Návěsti Výzva strojvedoucího, Výzva k pohotovosti, Pohotovi k odjezdu a Souhlas k odjezdu se nemusí používat, pokud je možno dát příslušný pokyn přímo ústně, příp. vnitřním komunikačním zařízením soupravy. Ústní pokyn musí vždy zaměstnanec vyjádřit názvem příslušné návěsti.\n\nČD D2 čl. 264: Návěst Souhlas k odjezdu (opisování písmena „T“ návěstním terčíkem drženém v dlani tak, aby byla viditelná strana se zelenou barvou [denní návěst] nebo ruční svítilnou s bílým světlem [noční návěst]) dává stanovený člen doprovodu vlaku a informuje o připravenosti vlaku k odjezdu. Strojvedoucí návěstní terčík nepoužívají.",
+  "distraktory": [
+   "Vedoucí obsluhy vlaku se mu ohlásí při nástupu na vlak; pro další vzájemnou komunikaci použijí vnitřní komunikační zařízení soupravy, kterým je vybavena.",
+   "Vedoucí obsluhy vlaku se mu ohlásí až před odjezdem z výchozí stanice; pro další vzájemnou komunikaci použijí rádiové spojení GSM-R volbou funkčního čísla vlaku."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Souprava na obrázku (motorový vůz ř. 810 + přípojný vůz) není vybavena vnitřním komunikačním zařízením ani systémem CODS, proto připadá v úvahu jen ohlášení a návěsti (popř. ústní pokyn s použitím názvu návěsti) a telefonická komunikace přes aplikaci ČD Kontakty (ČD D2 čl. 222). Pokud by tvůrce otázky mířil jen na pokyny před odjezdem, je odpovědí návěst Souhlas k odjezdu / Výzva strojvedoucího dle čl. 262–265."
+ },
+ {
+  "n": 250,
+  "otazka": "Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1499 v úseku Zálezlice - Bítov bez obsluhy vlaku. Dá strojvedoucí souhlas s takovou jízdou, pokud níže uvedená souprava je vybavena systémem CODS?",
+  "obrazky": [
+   "img/q250_1.png"
+  ],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 240"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 233"
+   }
+  ],
+  "odpoved": "Ano – podmínku systému dveří CODS souprava splňuje; souhlas udělí jen tehdy, může-li se ze stanoviště přesvědčit o ukončení výstupu a nástupu v celé délce soupravy.",
+  "plne_zneni": "ČD D2 čl. 240: Jsou-li splněny základní podmínky pro provoz vlaků s přepravou cestujících bez obsluhy vlaku, kromě podmínky uvedené v ustanovení čl. 233 písmene a), smí příslušný dispečer osobní dopravy ČD povolit odchylně od RODV jízdu vlaku bez obsluhy vlaku. Dispečer osobní dopravy ČD dovolí tento způsob doprovodu vlaku po souhlasu strojvedoucího uděleného pouze v případě, že se strojvedoucí může ze svého stanoviště přesvědčit o ukončení nástupu a výstupu cestujících v celé délce soupravy vzhledem k viditelnosti a směrovým poměrům (obloukům). Strojvedoucí udělí tento souhlas jen pro úsek trati, na kterém vede vlak. Souhlas strojvedoucího není nutný u vlaků vedených samostatným motorovým vozem. Odbavení vlaku provede zaměstnanec OŘOD, kterého určí příslušný dispečer osobní dopravy ČD.\n\nČD D2 čl. 233: Doprovod vlaků s přepravou cestujících může být zajišťován pouze jedním nebo více strojvedoucími, při současném splnění všech následujících podmínek: […] b) vedoucí vozidlo vlaku musí být vybaveno správně účinkujícím zařízením pro kontrolu bdělosti strojvedoucího a způsobujícím samočinné zastavení vlaku při ztrátě této kontroly; c) strojvedoucí vedoucího vozidla vlaku musí mít spojení telekomunikačním zařízením s osobou řídící drážní dopravu; d) nástupní dveře všech vozidel pro přepravu cestujících jsou ovládány v systému CODS, TB S, SSOD nebo LAT.",
+  "distraktory": [
+   "Ano – souhlas udělí vždy, protože systém CODS zajistí uzavření a kontrolu nástupních dveří indikací na stanovišti i bez přehlédnutí celé délky soupravy.",
+   "Ne – souhlas strojvedoucího se v tomto případě nevyžaduje, o mimořádné jízdě bez obsluhy vlaku rozhoduje výhradně dispečer osobní dopravy po projednání s OŘOD."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 251,
+  "otazka": "Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1599 v úseku Vranov - Bítov bez obsluhy vlaku. Může být vlak takto provozován, pokud níže uvedená souprava je provozována v systému TB 5?",
+  "obrazky": [
+   "img/q251_1.png"
+  ],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 233"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 240"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 237"
+   }
+  ],
+  "odpoved": "Ne – v systému TB 5 to nelze; nástupní dveře všech vozidel musí být ovládány v systému CODS, TB S, SSOD nebo LAT, jinak musí být vlak veden s obsluhou vlaku.",
+  "plne_zneni": "ČD D2 čl. 233: Doprovod vlaků s přepravou cestujících může být zajišťován pouze jedním nebo více strojvedoucími, při současném splnění všech následujících podmínek: a) provoz vlaků bez obsluhy vlaku musí být vždy schválen příslušnými odbornými útvary […]; b) vedoucí vozidlo vlaku musí být vybaveno správně účinkujícím zařízením pro kontrolu bdělosti strojvedoucího a způsobujícím samočinné zastavení vlaku při ztrátě této kontroly; c) strojvedoucí vedoucího vozidla vlaku musí mít spojení telekomunikačním zařízením s osobou řídící drážní dopravu; d) nástupní dveře všech vozidel pro přepravu cestujících jsou ovládány v systému CODS, TB S, SSOD nebo LAT.\n\nČD D2 čl. 240: Jsou-li splněny základní podmínky pro provoz vlaků s přepravou cestujících bez obsluhy vlaku, kromě podmínky uvedené v ustanovení čl. 233 písmene a), smí příslušný dispečer osobní dopravy ČD povolit odchylně od RODV jízdu vlaku bez obsluhy vlaku. […]\n\nČD D2 čl. 237: V případě, že je jízda vlaku bez obsluhy vlaku zavedena, ale není mimořádně k dispozici plánovaná řada vozidel, provede OŘOD při splnění podmínek nutných pro jízdu vlaku s přepravou cestujících bez obsluhy vlaku, vystavení kapacitně odpovídající náhradní soupravy. Pokud nelze tyto podmínky zajistit, musí být vlak veden s obsluhou vlaku.",
+  "distraktory": [
+   "Ano – vlak lze takto provozovat, udělí-li strojvedoucí souhlas a může-li se ze svého stanoviště přesvědčit o ukončení výstupu a nástupu v celé délce soupravy.",
+   "Ne – bez obsluhy vlaku smí být veden pouze vlak vedený samostatným motorovým vozem, u ostatních souprav nesmí dispečer osobní dopravy takovou jízdu povolit."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Jde o mimořádné vedení vlaku bez obsluhy vlaku dle čl. 240, kde musí být splněny všechny podmínky čl. 233 kromě písm. a) – tedy i písm. d) o systému dveří; TB 5 mezi dovolené systémy nepatří. Odlišný je případ čl. 246 (mimořádné vedení na části trati ze stanice obsazené určeným zaměstnancem do nejbližší stanice s pravidelným zastavením, kde na vlak nastoupí obsluha vlaku) – tam určený zaměstnanec uzavře u systému TB 5 nástupní dveře ručně (čl. 247)."
+ },
+ {
+  "n": 252,
+  "otazka": "Jak se strojvedoucí dozví o připravenosti k odjezdu soupravového vlaku s obsluhou vlaku?",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 293"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 294"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 362"
+   }
+  ],
+  "odpoved": "Připravenost mu ohlásí vedoucí obsluhy vlaku, a to návěstí Souhlas k odjezdu, ústně nebo vnitřním komunikačním zařízením soupravy; strojvedoucí ji musí vždy převzít.",
+  "plne_zneni": "ČD D2 čl. 293: Připravenost vlaku bez přepravy cestujících k odjezdu ohlásí strojvedoucímu: a) u vlaku s obsluhou vlaku vedoucí obsluhy vlaku návěstí Souhlas k odjezdu, ústně nebo vnitřním komunikačním zařízením soupravy; b) u vlaku bez obsluhy vlaku zaměstnanec určený technologickými postupy.\n\nČD D2 čl. 294: Připravenost vlaku bez přepravy cestujících k odjezdu se hlásí v těchto případech: a) výchozí vlak nebo vlak, u něhož se měnil druh vlaku z vlaku s přepravou cestujících na vlak bez přepravy cestujících; b) v nácestné stanici, pokud dochází k výměně členů doprovodu vlaku. V ostatních případech se připravenost vlaku bez přepravy cestujících k odjezdu neprovádí a doprovod vlaku postupuje dle předpisu příslušného provozovatele dráhy.\n\nČD D2 čl. 362 (postup před odjezdem vlaku bez přepravy cestujících, systém TB 5): Strojvedoucí: Po obdržení návěsti Souhlas k odjezdu od člena obsluhy vlaku/hlášení připravenosti vlaku k odjezdu od určeného zaměstnance, které musí vždy převzít, vyčká na pokyn k uvedení vlaku do pohybu dle předpisu provozovatele dráhy.",
+  "distraktory": [
+   "Připravenost mu ohlásí vedoucí obsluhy vlaku výhradně návěstí Souhlas k odjezdu; ústní ohlášení ani vnitřní komunikační zařízení soupravy u soupravového vlaku použít nelze.",
+   "Připravenost mu ohlásí zaměstnanec určený technologickými postupy, a to telekomunikačním zařízením nebo ústně; vedoucí obsluhy vlaku připravenost neohlašuje."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 253,
+  "otazka": "Strojvedoucí obdrží v čase 17:20 hod od obsluhy vlaku návěst „Souhlas k odjezdu“. Jaký bude další postup strojvedoucího?",
+  "obrazky": [
+   "img/q253_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 285"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 287 odst. (5)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 287 odst. (1)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 286"
+   }
+  ],
+  "odpoved": "Vlak nesmí uvést do pohybu před časem odjezdu podle TJŘ – vyčká do 17:22 a teprve pak, jsou-li splněny ostatní podmínky pro odjezd, vlak rozjede.",
+  "plne_zneni": "ČD D2 čl. 285: Strojvedoucí odpovídá za to, že vlak s přepravou cestujících neodjede před časem odjezdu podle jízdního řádu. Pokud je čas odjezdu v TJŘ uveden s půlminutovým časovým údajem, považuje se za čas odjezdu vždy celá minuta zaokrouhlená směrem dolů.\n\nSŽ D1 čl. 287 odst. (5): S náskokem nesmí odjet žádný vlak s přepravou cestujících, jehož doba odjezdu byla závazně oznámena veřejnosti. Odjezd vlaku s přepravou cestujících s náskokem je však dovolen: a) u vlaku ve stanici pravidelně projíždějícího; b) je-li v TJŘ vlaku před časovým údajem příjezdu značka „+“, vyjadřující zastavení z dopravních důvodů […]; c) je-li v TJŘ vlaku před časovým údajem příjezdu značka vyjadřující nezveřejněné zastavení […]; d) […] zastavení jen pro výstup cestujících.\n\nSŽ D1 čl. 287 odst. (1): Pod pojmem náskok se rozumí sjednaný, nařízený nebo dosažený příjezd, průjezd nebo odjezd vlaku dříve, než stanoví jeho TJŘ.\n\nČD D2 čl. 286: Všichni členové obsluhy vlaku u vlaku vedeného v systému TB 0 nebo TB 5 jsou povinni v době od dání návěsti Pohotovi k odjezdu nebo Souhlas k odjezdu do doby rozjezdu vlaku kontrolovat pohledem z otevřených dveří situaci na nástupišti, zda nedochází k ohrožení bezpečnosti cestujících.",
+  "distraktory": [
+   "Vlak smí uvést do pohybu ihned po obdržení návěsti, tj. v 17:20, protože návěst Souhlas k odjezdu nahrazuje čas odjezdu uvedený v TJŘ.",
+   "Vlak nesmí uvést do pohybu před časem odjezdu podle TJŘ – vyčká do 17:22 a před rozjezdem si vyžádá od obsluhy vlaku novou návěst Souhlas k odjezdu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "V TJŘ je u stanice Krašov ve sloupci 7 (odjezd) čas 17 22, sloupec 8 uvádí 80/68 (rychlost/brzdící procenta). Souhlas k odjezdu obdržený ve 17:20 tedy neopravňuje k odjezdu – vlak s přepravou cestujících nesmí odjet s náskokem."
+ }
+]

@@ -1,0 +1,533 @@
+                                                              úroveň přístupu
+                                  pokyn provozovatele dráhy
+                                                                    A
+
+
+
+
+SŽ PPD-01/2025
+
+
+
+Pokyn provozovatele dráhy k zajištění plynulé a bezpečné drážní
+dopravy pro ověřovací provoz nových návěstidel pro elektrický
+provoz
+
+
+
+
+účinnost od zveřejněním v eDAP
+
+
+
+
+Schváleno pod čj. 22665/2025-SŽ-GŘ-O24
+dne
+
+         Jiří Svoboda
+         30.06.2025 14:28
+         Podle podpisového řádu
+
+
+Bc. Jiří Svoboda, MBA
+generální ředitel
+SŽ PPD-01/2025                                                                          účinnost od zveřejněním v eDAP
+
+
+
+
+                                                    ANOTACE
+
+Správa železnic, státní organizace, vydává tento pokyn provozovatele dráhy pro zajištění
+bezpečnosti drážní dopravy během ověřovacího provozu nových návěstidel pro elektrický provoz.
+Tento pokyn je rozdělen do dvou částí, a to do části zabývající se ověřovacím provozem světelných
+návěstí pro elektrický provoz a částí zabývající se návěstmi pro drážní vozidla s možností nabíjení
+trakčních baterií pomocí sběrače. Místa umístění návěstidel zahrnutá v pokynu SŽ PPD-01/2025
+budou postupně doplněna v závislosti na termínu uvedení těchto návěstidel do ověřovacího
+provozu.
+
+
+                                               KLÍČOVÁ SLOVA
+
+návěstidlo; elektrický; provoz; trakční baterie
+
+
+
+
+SŽ PPD-01/2025
+Pokyn provozovatele dráhy k zajištění plynulé a bezpečné drážní dopravy pro ověřovací provoz
+nových návěstidel pro elektrický provoz
+
+
+gestorský útvar:       Správa železnic, státní organizace
+                       generální ředitelství
+                       odbor elektrotechniky a elektrotechniky
+                       Praha
+                       spravazeleznic.cz
+rok vydání:            2025
+náklad:                vydáno pouze v elektronické podobě
+
+© Správa železnic, státní organizace, 2025
+Tento dokument je duševním vlastnictvím státní organizace Správa železnic, na které se vztahuje zákon č. 121/2000 Sb.,
+o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění
+pozdějších předpisů. Státní organizace Správa železnic je v uvedené souvislosti rovněž vykonavatelem majetkových práv.
+Tento dokument smí fyzická osoba použít pouze pro svou osobní potřebu, právnická osoba pro svou vlastní vnitřní potřebu.
+Poskytování tohoto dokumentu nebo jeho části v jakékoli formě nebo jakýmkoli způsobem třetí osobě je bez svolení státní
+organizace Správa železnic zakázáno.
+
+
+
+
+2
+SŽ PPD-01/2025                                                         účinnost od zveřejněním v eDAP
+
+
+
+
+                          ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav
+a změn a za provedení příslušného záznamu.
+
+  oprava/změna a její                                                           opravu/změnu
+                               číslo jednací             účinnost od
+     pořadové číslo                                                               zapracoval
+
+
+
+
+                                                                                                   3
+SŽ PPD-01/2025                                                                                         účinnost od zveřejněním v eDAP
+
+
+
+
+                                                               OBSAH
+
+                                                                                                                                    strana
+
+ROZSAH ZNALOSTÍ........................................................................................................................... 5
+ZKRATKY A ZNAČKY.......................................................................................................................... 6
+1                ÚVODNÍ USTANOVENÍ .................................................................................................... 7
+2                VYMEZENÍ ZÁKLADNÍCH POJMŮ....................................................................................... 7
+3                SVĚTELNÁ NÁVĚSTIDLA PRO ELEKTRICKÝ PROVOZ ............................................................ 8
+3.1              Význam světelných návěstidel pro elektrický provoz ........................................................... 8
+3.2              Provedení světelných návěstidel pro elektrický provoz ........................................................ 8
+3.3              Světelné návěstidlo pro elektrický provoz ......................................................................... 9
+4                NÁVĚSTIDLA PRO VOZIDLA S TRAKČNÍ BATERIÍ PRO OZNAČENÍ NABÍJECÍCH MÍST
+                 V TRAKČNÍM VEDENÍ.................................................................................................... 10
+4.1              Význam návěstidel pro elektrický provoz......................................................................... 10
+4.2              Provedení návěstidel pro elektrický provoz ...................................................................... 11
+SOUVISEJÍCÍ DOKUMENTY ............................................................................................................... 13
+Příloha A (normativní) Seznamy úseků .............................................................................................. 14
+Příloha B (informativní) Příklady umístění světelných návěstidel pro elektrický provoz ............................. 16
+
+
+
+
+4
+SŽ PPD-01/2025                                                                  účinnost od zveřejněním v eDAP
+
+
+
+
+                                              ROZSAH ZNALOSTÍ
+
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci) nebo
+činnost, přičemž:
+
+•         informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+          dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen se podle
+          takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+
+•         úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+          dokumentu, zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen se podle
+          takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+
+•         doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který je v pří-
+          slušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu do příslušného
+          ustanovení samostatně reprodukovat.
+
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+
+                    pracovní činnost
+                                                                          znalost ustanovení
+                 nebo zařazení (funkce)
+
+    zaměstnanci SEE OŘ zabývající se                      úplná: celý pokyn
+    činnostmi souvisejícími s provozováním
+    dráhy
+
+    zaměstnanci organizující činnost výše                 informativní: celý pokyn
+    uvedených zaměstnanců
+
+    zaměstnanci, kteří organizují a řídí drážní           informativní: celý pokyn
+    dopravu v předmětných úsecích tratí
+
+    dopravci:
+
+    strojvedoucí, kteří řídí drážní vozidlo               úplná: celý pokyn
+    v předmětných úsecích tratě
+
+
+
+
+                                                                                                              5
+SŽ PPD-01/2025                                                            účinnost od zveřejněním v eDAP
+
+
+
+
+                                            ZKRATKY A ZNAČKY
+
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto předpisu. V seznamu se neuvádějí
+legislativní zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích,
+příkladech nebo tabulkách.
+
+eDAP............ elektronická knihovna dokumentů a předpisů
+
+SŽ ............... Správa železnic, státní organizace
+
+SEE ............. Správa elektrotechniky a energetiky
+
+OŘ ............... Oblastní ředitelství
+
+
+
+
+6
+SŽ PPD-01/2025                                                       účinnost od zveřejněním v eDAP
+
+
+
+
+Generální ředitel schválil podle čl. 14 odst. 1 a čl. 15 Statutu státní organizace Správa železnic
+tento předpis SŽ PPD-01/2025 Pokyn provozovatele dráhy k zajištění plynulé a bezpečné drážní
+dopravy (dále jen „Pokyn“).
+
+
+
+
+1           ÚVODNÍ USTANOVENÍ
+
+1.1         Správa železnic, státní organizace vydává tento Pokyn v souladu s ustanovením
+            § 22 odst. (3) písm. a) zákona č. 266/1994 Sb., o dráhách, ve znění pozdějších
+            předpisů.
+1.2         Tento Pokyn stanovuje základní provozní pravidla pro ověřovací provoz nových
+            návěstidel pro elektrický provoz v rámci ověřovacích provozů v úsecích uvedených
+            v Příloze A.
+1.3         Tento Pokyn je závazný pro dopravce, kteří provozují drážní dopravu v úsecích
+            uvedených v Příloze A.
+1.4         Tento Pokyn pro některé případy doplňuje ustanovení předpisu SŽ D1 ČÁST PRVNÍ
+            Dopravní a návěstní předpis pro tratě nevybavené evropským vlakovým
+            zabezpečovačem, v aktuálním znění (dále jen „SŽ D1 ČÁST PRVNÍ“).
+
+
+2           VYMEZENÍ ZÁKLADNÍCH POJMŮ
+
+2.1         Pro účely tohoto Pokynu jsou nadefinovány níže uvedené pojmy.
+2.2         Další pojmy použité v tomto Pokynu a neuvedené v této kapitole jsou definovány
+            v předpise SŽ D1 ČÁST PRVNÍ.
+2.3         Ověřovací provoz – způsob provozování dráhy a drážní dopravy, který slouží
+            k ověření parametrů bezporuchovosti, pohotovosti, udržovatelnosti nového nebo
+            změněného výrobku, subsystému nebo systému a jeho funkčních vlastností.
+2.4         Určený pracovník dopravce – zaměstnanec dopravce, který má znalost předpisu
+            SŽ D1 ČÁST PRVNÍ.
+2.5         Zpráva o hodnocení bezpečnosti – dokument vydaný podle požadavků ČSN EN
+            50129.
+
+
+
+
+                                                                                                 7
+SŽ PPD-01/2025                                                          účinnost od zveřejněním v eDAP
+
+
+
+
+3            SVĚTELNÁ NÁVĚSTIDLA PRO ELEKTRICKÝ PROVOZ
+
+3.1          Význam světelných návěstidel pro elektrický provoz
+
+3.1.1        Význam světelných návěstidel pro elektrický provoz je shodný s neproměnnými
+             návěstidly a indikátory pro elektrický provoz podle předpisu SŽ D1 ČÁST PRVNÍ.
+3.1.2        Světelná návěstidla pro elektrický provoz mohou zobrazovat návěsti nepřenosného
+             návěstidla pro elektrický provoz a výlukových návěstidel pro elektrický provoz.
+3.1.3        Světelná návěstidla pro elektrický provoz jsou nepřenosná návěstidla a umisťují se
+             podle stejných pravidel platných pro neproměnná návěstidla pro elektrický provoz
+             podle předpisu SŽ D1 ČÁST PRVNÍ.
+3.1.4        Světelná návěstidla pro elektrický provoz se nesmí umisťovat do sestavy trakčního
+             vedení.
+
+3.2          Provedení světelných návěstidel pro elektrický provoz
+
+3.2.1        Návěstidla jsou tvořena zobrazovací jednotkou se štítem z plastové desky matné
+             černé barvy osazené světelnými body, které při rozsvícení návěstidla zobrazí základní
+             plochu návěsti s příslušným symbolem návěsti pro elektrický provoz.
+3.2.2        Barevné provedení a symboly při rozsvícení světelné návěsti jsou shodné
+             s provedením návěstí pro elektrický provoz dle předpisu SŽ D1 ČÁST PRVNÍ.
+3.2.3        Základní plochu návěsti tvoří modrá, bíle nebo oranžově ohraničená plocha, ve které
+             jsou umístěny bíle svítící symboly vyjadřující příslušnou návěst. Základní plocha
+             návěsti je složena z optických čoček a LED diod s roztečí 20 mm.
+3.2.4        Návěstidlo je vybaveno automatickou regulací intenzity svítivosti zobrazovací
+             jednotky pro zajištění čitelnosti návěsti při osvětlení návěsti sluncem a omezení
+             možnosti oslnění v noci.
+
+
+
+
+                             obrázek 1 – rozmístění světelných bodů
+
+
+
+
+8
+SŽ PPD-01/2025                                                     účinnost od zveřejněním v eDAP
+
+
+
+
+3.3        Světelné návěstidlo pro elektrický provoz
+
+3.3.1      Varianty návěstí jsou shodné s provedením návěstí pro elektrický provoz dle předpisu
+           SŽ D1 ČÁST PRVNÍ.
+3.3.2      Příklad světelné návěsti s návěstí Stáhněte sběrač a výlukovým návěstidlem
+           s návěstí Stáhněte sběrač (čtvercová, na vrchol postavená modře svítící deska
+           s bílým, nebo oranžovým okrajem, uvnitř svítící vodorovný bílý pruh v úhlopříčce)
+           přikazuje strojvedoucímu vozidla závislé trakce jízdu se staženým sběračem
+           nejpozději v úrovni této návěsti.
+
+
+
+
+          obrázek 2 – rozmístění a barvy světelných bodů pro návěsti Stáhněte sběrač
+
+
+
+
+                                                                                               9
+SŽ PPD-01/2025                                                         účinnost od zveřejněním v eDAP
+
+
+
+
+4            NÁVĚSTIDLA PRO VOZIDLA S TRAKČNÍ BATERIÍ PRO OZNAČENÍ
+             NABÍJECÍCH MÍST V TRAKČNÍM VEDENÍ
+
+4.1          Význam návěstidel pro elektrický provoz
+
+4.1.1        Návěst Konec nabíjecího úseku (čtvercová, na vrcholu postavená modrá deska
+             s bílým okrajem, uvnitř symbol baterie přeškrtnutý červeným pruhem, spojujících
+             střed levé spodní strany se středem pravé horní strany) označuje konec úseku, ve
+             kterém je dovoleno dobíjet trakční baterii pomocí zdviženého sběrače.
+
+
+
+
+4.1.2        Návěst Začátek nabíjecího úseku (čtvercová, na vrcholu postavená modrá deska
+             s bílým okrajem, uvnitř symbol baterie) označuje začátek úseku, ve kterém je
+             dovoleno dobíjet trakční baterii pomocí zdviženého sběrače.
+
+
+
+
+4.1.3        V úseku vymezeném návěstmi Začátek nabíjecího úseku a Konec nabíjecího úseku
+             nesmí strojvedoucí hnacího vozidla s trakční baterií překročit při odběru proudu
+             z trakčního vedení přes zdvižený sběrač maximální hodnotu proudu, která je uvedena
+             pro daný nabíjecí úsek v ZDD.
+4.1.4        Návěst Nabíjecí bod (čtvercová, na vrcholu postavená modrá, vstřícně zavěšená
+             deska s bílým okrajem, uvnitř symbol baterie, pod modrou deskou je obdélníková na
+             delší straně postavená bílá deska s černým velkým písmenem A a číslem, označujícím
+             pořadí nabíjecího bodu) označuje střed nabíjecí armatury, na které je dovoleno
+             dobíjet trakční baterii pomocí zdviženého sběrače zvýšeným nabíjecím proudem.
+
+
+
+
+4.1.5        Při nabíjení zvýšeným proudem musí strojvedoucí zastavit zdviženým sběračem
+             v místě návěsti Nabíjecí bod a nesmí překročit při odběru proudu z trakčního vedení
+             přes zdvižený sběrač vozidla s trakční baterií maximální hodnotu proudu, která je
+             uvedena pro daný nabíjecí bod v ZDD.
+
+
+
+
+10
+SŽ PPD-01/2025                                                    účinnost od zveřejněním v eDAP
+
+
+
+
+4.2        Provedení návěstidel pro elektrický provoz
+
+4.2.1      Návěstidla jsou tvořena štítem z hliníkového plechu tloušťky 1,5 až 2,0 mm. Okraj
+           štítu nesmí být olemován.
+4.2.2      Základní plochu návěsti tvoří modrá, bíle ohraničená plocha, ve které jsou umístěny
+           bílé symboly, vyjadřující příslušnou návěst.
+4.2.3      Symboly na návěstidle musejí být tvořeny zásadně retroreflexní fólií III. třídy
+           odrazivosti příslušné barvy, popřípadě nereflexní fólií černé barvy, pokud není na
+           vzorovém listu uvedeno jinak. Tvar, barva a rozměry symbolů na návěstidlech jsou
+           uvedeny ve vzorových listech.
+
+
+
+
+                                                                                             11
+SŽ PPD-01/2025                                                        účinnost od zveřejněním v eDAP
+
+
+
+
+                                SOUVISEJÍCÍ DOKUMENTY
+
+Mezinárodní a národní právní předpisy, technické normy, ve znění pozdějších předpisů
+
+Vnitřní předpisy, v aktuálním znění
+
+SŽ D1 ČÁST PRVNÍ Dopravní a návěstní předpis pro tratě nevybavené evropským vlakovým
+zabezpečovačem Zákon č. 266/1994 Sb., Zákon o dráhách
+
+
+
+
+                                                                                                 13
+SŽ PPD-01/2025                                                         účinnost od zveřejněním v eDAP
+
+
+
+
+                                                                        Příloha A (normativní)
+
+
+                                       Seznamy úseků
+
+A.1         SEZNAM ÚSEKŮ, KDE SE PROVÁDÍ OVĚŘOVACÍ PROVOZ SVĚTELNÝCH
+            NÁVĚSTIDEL PRO ELEKTRICKÝ PROVOZ
+
+                    tabulka A.1 – Úseky s instalovanými světelnými návěstidly
+
+
+                 úsek                        umístění                        návěst
+
+            ŽST Grygov                   1. TK, km 198,250               Stáhněte sběrač
+
+
+
+
+14
+SŽ PPD-01/2025                                                       účinnost od zveřejněním v eDAP
+
+
+
+
+A.2         SEZNAM ÚSEKŮ, KDE PROBÍHÁ OVĚŘOVACÍ PROVOZ NÁVĚSTIDEL PRO
+            ELEKTRICKÝ PROVOZ PRO VOZIDLA S TRAKČNÍ BATERIÍ
+
+tabulka A.2 – Úseky s instalovanými návěstidly pro elektrický provoz pro vozidla s trakční baterií
+
+
+ úsek                               umístění                      návěst
+
+ ŽST Studénka, kol. skupina 5a      244,844                       Nabíjecí bod
+
+ ŽST Studénka, kol. skupina 5a      244,857                       Nabíjecí bod
+
+ ŽST Studénka, kol. skupina 8       244,705                       Nabíjecí bod
+
+ ŽST Ostrava hl. n., obvod Střed,
+                                    2,992                         Nabíjecí bod
+ kol. skupina 704
+
+
+
+
+                                                                                                15
+SŽ PPD-01/2025                                                              účinnost od zveřejněním v eDAP
+
+
+
+
+                                                                             Příloha B (informativní)
+
+
+           Příklady umístění světelných návěstidel pro elektrický provoz
+
+
+
+
+                 obrázek B.1 Elektrické dělení kryté indikátorem Stáhněte sběrač
+
+ Elektrické dělení kryté neproměnnými návěstmi pro elektrický provoz s Indikátorem Stáhněte sběrač –
+                uvedeno pro názornost rozdílu při použití indikátoru a světelného návěstidla
+
+
+
+
+ obrázek B.2 Elektrické dělení kryté světelnými a neproměnnými návěstmi pro elektrický provoz
+
+Elektrické dělení kryté světelnými a neproměnnými návěstmi pro elektrický provoz bude použito pouze pro
+  ověřovací provoz světelného návěstidla, kdy dojde k náhradě stávajícího indikátoru s návěstí Stáhněte
+                         sběrač, světelným návěstidlem s návěstí Stáhněte sběrač
+
+
+
+
+          obrázek B.3 Elektrické dělení kryté světelnými návěstmi pro elektrický provoz
+
+
+
+
+16
+SŽ PPD-01/2025                                                    účinnost od zveřejněním v eDAP
+
+
+
+
+          obrázek B.4 Neutrální úsek krytý světelnými návěstmi pro elektrický provoz
+
+
+
+
+      obrázek B.5 Elektrické dělení umístěné na záhlaví kryté světelnými a nepřenosnými
+                        neproměnnými návěstidly pro elektrický provoz
+
+
+
+
+                                                                                             17
+SŽ PPD-01/2025                                                            účinnost od zveřejněním v eDAP
+
+
+
+
+     obrázek B.6 Neutrální úsek umístěný na záhlaví železniční stanice, který je krytý světelnými
+                                  návěstidly pro elektrický provoz
+
+
+
+
+       obrázek B.7 Výluka napětí trakčního vedení celé železniční stanice s neutrálním úsekem
+          umístěným na záhlaví, který je krytý světelnými návěstidly pro elektrický provoz
+
+
+
+
+                        obrázek B.8 Dobíjecí bod umístěný v trakčním vedení
+
+
+
+
+                      obrázek B.9 Dobíjecí úsek na koleji bez trakčního vedení
+
+
+
+
+                                      obrázek B.10 Vysvětlivky
+
+
+
+
+18
+

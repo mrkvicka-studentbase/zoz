@@ -1,0 +1,356 @@
+[
+ {
+  "n": 182,
+  "otazka": "Pokud byl vlak zastaven dálkově radiovým zařízením SRD, jaký symbol rutinního příkazu svítí na displeji radiostanice?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha F, tab. F.1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 37 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 39 odst. (3)"
+   }
+  ],
+  "odpoved": "Na displeji (ovládací skříňce) vozidlové radiostanice svítí symbol kódovaného příkazu „! STOP !“, který znamená dálkové zastavení vlaku.",
+  "plne_zneni": "SŽ Z11 Příloha F, tab. F.1 – Kódované příkazy (výpravčí/dispečer ► strojvedoucí):\n„symbol příkazu … význam příkazu\n[…]\nV – V nejbližší stanici budete zastaven z důvodu předání dopravních dispozic (např. předání písemného rozkazu apod.)\n! STOP ! – Dálkové zastavení vlaku\n[…]“\n\nSŽ Z11 čl. 37 odst. (1): Výpravčí nebo dispečer může předávat kódované příkazy prostřednictvím SRD všem vlakům […].\n\nSŽ Z11 čl. 39 odst. (3): Pro zastavení provozu HDV v řízeném rádiovém úseku SRD musí být prioritně použit kódovaný příkaz G-STOP, který je určen pro zastavení všech HDV v dosahu ZR SRD.",
+  "distraktory": [
+   "Na displeji (ovládací skříňce) vozidlové radiostanice svítí symbol kódovaného příkazu „V“, který znamená dálkové zastavení vlaku.",
+   "Na displeji (ovládací skříňce) vozidlové radiostanice svítí symbol kódovaného hlášení „D“, doplněný prosvícením tlačítka „Výpravčí“."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Pojem „rutinní příkaz“ (na rozdíl od nouzového G-STOP) je z PŘ SRD, který ve složce chybí, ale samotný symbol „! STOP !“ s významem „Dálkové zastavení vlaku“ je doložen v SŽ Z11, Příloha F, tab. F.1."
+ },
+ {
+  "n": 183,
+  "otazka": "Volací číslo vozidlové radiové stanice v SRD vedoucího hnacího vozidla vlaku 951 je:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 30 odst. (8)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 30 odst. (10)"
+   }
+  ],
+  "odpoved": "000951 – jako první se zadá přídavná rozlišovací číslice 0 (vedoucí HV vlaku s max. pětimístným číslem) a za ni číslo vlaku doplněné zleva nulami.",
+  "plne_zneni": "SŽ Z11 čl. 30 odst. (8): Volací číslo VR, kterým je definována selektivní volba pro navázání spojení mezi ZR a VR, je šestimístný soubor čísel, kterým je každý účastník (VR) rádiové sítě specificky odlišen. Volací číslo tvoří jako první přídavná rozlišovací číslice a dále číslo vlaku (např. 058243) nebo celé šestimístné číslo vlaku, včetně rozlišovací číslice (např. 119620). Vlastní zadání volacího čísla se na příslušné radiostanici (ZR a VR) provádí zleva doprava. Přídavná rozlišovací číslice se zadává vždy jako první. Prázdné místo v čísle vlaku se doplňuje nulami (např. vedoucí HV vlaku 356 = 000356).\n\nSŽ Z11 čl. 30 odst. (10), tabulka 10 – Význam přídavných rozlišovacích číslic:\n„0 – vedoucí HV (řídicí vůz) vlaku s maximálně pětimístným číslem vlaku\n1 – vedoucí HV (řídicí vůz) vlaku s číslicí 1 na začátku šestimístného čísla vlaku\n[…]\n4 – vedoucí HV (řídicí vůz) vlaku provádějícího posun v obvodu dopravny\n5 – postrk\n7 – vedoucí HV nehodových pomocných prostředků\n8 – posun mezi dopravnami“",
+  "distraktory": [
+   "100951 – jako první se zadá přídavná rozlišovací číslice 1 (vedoucí HV vlaku) a za ni číslo vlaku doplněné zleva nulami.",
+   "951000 – číslo vlaku se zadává zleva doprava a zbývající volné pozice volacího čísla se doplní nulami zprava."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 184,
+  "otazka": "Jaké údaje musí vždy strojvedoucí zadat do elektronického rychloměru u vozidla bez ETCS?",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD V8/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 67"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "příl. 5 čl. 45"
+   }
+  ],
+  "odpoved": "Vždy kód dopravce (ČD 00), své osobní (SAP) číslo a číslo vlaku doplněné zleva nulami na 6 míst; ostatní údaje jen dle uvážení, jsou-li potřebné pro zařízení vozidla.",
+  "plne_zneni": "ČD V8/I čl. 67: Po přistavení vedoucího hnacího vozidla na vlak a získání údajů o vlaku strojvedoucí za klidu vozidla stiskne postupně tlačítka „0“ […] a „U“ […] a zadá (v pořadí vyžádaném displejem) dle skutečnosti a jeho odpovídajících pozic tyto povinné údaje (takto postupuje strojvedoucí i v případě jiných typů elektronických rychloměrů):\n- kód dopravce: ČD, a.s. – 00; ČD Cargo – 54; ZSSK – 56; DB Fernverkehr – 80; ÖBB – 81; PKP IC – 51 […];\n- číslo strojvedoucího: strojvedoucí ČD zadá své SAP číslo […];\n- číslo vlaku: xxxxxx … strojvedoucí zadá na vedoucím hnacím vozidle číslo každého vlaku, který vede ve směně dle skutečnosti; 4xxxxx … posunující záloha […]; 5xxxxx … vlakové vozidlo u vlaku s přípřeží, zavěšený postrk, vložené vozidlo […].\n[…] Kód dopravce a číslo strojvedoucího se zadává tak, aby byly zaplňovány pozice zprava a nadbytečné pozice vlevo se zaplní nulami. Při zadávání čísla vlaku se rovněž zaplňují pozice zprava a doplní případně nulami na celkových 6 míst.\nV případě, že v elektronickém rychloměru jsou některé z údajů (hmotnost, počet náprav, skutečné brzdící procento, režim brzdění atd.) podstatné pro činnost určitých zařízení vozidla, např. ARR apod., zadává strojvedoucí i tyto údaje dle svého uvážení s ohledem na jejich využití pro další jízdu.\n\nČD V2 příl. 5 čl. 45: Data do elektronického rychloměru jsou automaticky přenášena prostřednictvím zadávání provozních údajů do DMI dle předchozího článku. U vozidel s aktivním ETCS se obsluha elektronického rychloměru dle předpisu ČD V 8/I neprovádí, není-li stanoveno návodem k obsluze nebo jiným dokumentem ČD k danému vozidlu jinak (např. délka soupravy vlaku).",
+  "distraktory": [
+   "Vždy kód dopravce (ČD 00), své osobní (SAP) číslo, číslo vlaku a k tomu hmotnost vlaku, počet náprav a skutečné brzdící procento.",
+   "Vždy jen číslo vlaku doplněné zleva nulami na 6 míst; kód dopravce a osobní (SAP) číslo zadává pouze u vlaků s přepravou cestujících."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 185,
+  "otazka": "Jak bude postupovat strojvedoucí, zjistil-li při nástupu na vozidlo v domovském depu vozidla, že na rychloměru svítí červeně signalizace „Porucha“ a závadu se posléze nepodaří odstranit?",
+  "obrazky": [
+   "img/q185_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD V8/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 74"
+   },
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 72"
+   },
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 13"
+   }
+  ],
+  "odpoved": "Za klidu vypne jistič napájení LT a po cca 15 s jej znovu zapne; svítí-li dioda dál, uvědomí strojmistra a vozidlo nesmí převzít na výkon, kde by bylo samostatně řízeno (ani na posun).",
+  "plne_zneni": "ČD V8/I čl. 74: Zjistí-li strojvedoucí při nástupu na vozidlo, že při zapnutém napájení zařízení LT svítí červená nebo žlutá dioda LED, vypne zařízení vypnutím jističe napájení LT a po cca 15 s je znovu zapne (pouze za klidu vozidla). Pokud se již žádná dioda LED znovu nerozsvítí, pokračuje v dalším výkonu bez omezení. Rozsvítí-li se i potom některá dioda LED, je povinen uvědomit o tom neprodleně strojmistra, a pokud nebude závada odstraněna oprávněným odborným zaměstnancem a dioda LED nezhasne, nesmí převzít vozidlo na výkon, při němž by mělo být samostatně řízeno (byť i jen při posunu). Zjistí-li strojvedoucí svícení červené nebo žluté diody LED při nástupu na vozidlo mimo domovské pracoviště údržby vozidla, postupuje dle článku 14. tohoto předpisu.\n\nČD V8/I čl. 72: Pokud při nástupu strojvedoucího na vozidlo svítí nebo se během služby rozsvítí červená nebo žlutá dioda LED […], musí strojvedoucí stiskem tlačítka s písmenem „H“ […] zjistit příčinu z chybového hlášení na displeji. […] O svícení diody a příčině musí zaevidovat předepsaným způsobem (pomocí aplikace SH SAP apod.) a je povinen tuto skutečnost ohlásit strojmistrovi a lokomotivnímu dispečerovi osobní dopravy ČD.\n\nČD V8/I čl. 13: HDV činná a pohotová k službě ve smyslu předpisu ČD D 2 vystavovaná z domovského pracoviště údržby musí mít registrační a indikační rychloměry v pořádku.",
+  "distraktory": [
+   "Za klidu vypne jistič napájení LT a po cca 15 s jej znovu zapne; svítí-li dioda dál, uvědomí strojmistra a vozidlo smí převzít jen do nejbližšího průjezdu domovským pracovištěm údržby.",
+   "Za klidu vypne jistič napájení LT a po cca 15 s jej znovu zapne; svítí-li dioda dál, ohlásí to výpravčímu a pokračuje sníženou rychlostí do nejbližší stanice s výpravčím."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 186,
+  "otazka": "V jakém případě neprověřuje vlakový zabezpečovač periodicky bdělost strojvedoucího při jízdě na tratích nevybavených ETCS před návěstí hl. návěstidla v poloze „Volno“?",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "SŽDC (ČSD) T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 156"
+   },
+   {
+    "predpis": "ČD T108 – DU pro LS90",
+    "clanek": "čl. 17 a 26"
+   },
+   {
+    "predpis": "ČD T108 – DU pro LS90",
+    "clanek": "příl. 1 čl. 1"
+   }
+  ],
+  "odpoved": "Pouze na kódovaném úseku, kdy je přenášen kód zeleného světla – povolující návěstní znak nevyžaduje žádnou obsluhu; na nekódovaném úseku prověřuje bdělost vždy.",
+  "plne_zneni": "SŽDC (ČSD) T108 čl. 156: […] Při jízdě na trati s volicím přepínačem v poloze „Provoz“ kontroluje vlakový zabezpečovač bdělost strojvedoucího v případech, kdy přenášená návěst vyžaduje zvětšenou pozornost, jakož i v případech, kdy na vozidle není přenášená žádná návěst. Nereaguje-li strojvedoucí na výzvu k prokázání bdělosti, vlak samočinně zastaví.\n\nSŽDC (ČSD) T108 čl. 157: Zelené světlo – Nejbližší hlavní návěstidlo ukazuje návěst „Volno“.\n\nČD T108 – Doplňující ustanovení pro obsluhu LS90, čl. 17: Rozsvítí-li se na návěstním opakovači světlo povolujícího návěstního znaku (viz však čl. 18 a 19), nevyžaduje zařízení žádné obsluhy. Při nevyžadované (nežádoucí) obsluze tlačítka bdělosti se po dobu jeho stlačení uvede do činnosti akustická výstraha.\n\nČD T108 – DU pro LS90, čl. 26: Při jízdě na nekódovaných úsecích obsluhuje strojvedoucí ve funkčním intervalu tlačítko bdělosti, pokud nemanipuluje s příslušným ovladačem řízení. […] Po přechodu z kódované na nekódovanou trať, musí strojvedoucí alespoň jednou obsloužit tlačítko bdělosti.\n\nČD T108 – DU pro LS90, příl. 1 čl. 1: LS90 […] Kontroluje ve funkčním intervalu bdělost strojvedoucího při světle návěstního opakovače, nařizujícího snížení rychlosti nebo zastavení a při jízdě na nekódovaných úsecích. Nepotvrdí-li strojvedoucí v daném časovém intervalu svoji bdělost, dojde k samočinnému zabrzdění.",
+  "distraktory": [
+   "Pouze na nekódovaném úseku, kde strojvedoucí jede podle návěstí hlavních návěstidel a jejich předvěstí; na kódovaném úseku prověřuje bdělost vždy.",
+   "Pouze na kódovaném úseku s kódem zeleného světla a při rychlosti do 100 km/h; při vyšší rychlosti prověřuje bdělost i při zeleném světle."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Předpis neváže neprověřování bdělosti na návěst nepřenosného návěstidla, ale na přenášený kód – na nekódovaném úseku (např. ve stanici) prověřuje VZ bdělost i před návěstidlem s návěstí Volno."
+ },
+ {
+  "n": 187,
+  "otazka": "Součásti pro bezpečnostní brzdu (elektromagnetický ventil nebo jeho kryt, tlakový spínač a uzavírací kohout) jsou označeny barvou:",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD T108 – DU pro LS90",
+  "zdroje": [
+   {
+    "predpis": "ČD T108 – DU pro LS90",
+    "clanek": "příl. 1 čl. 11"
+   },
+   {
+    "predpis": "ČD T108 – DU pro LS90",
+    "clanek": "čl. 70"
+   }
+  ],
+  "odpoved": "Žlutou barvou – elektromagnetický ventil (nebo jeho kryt), tlakový spínač i uzavírací kohout v odbočce brzdového potrubí jsou natřeny žlutě.",
+  "plne_zneni": "ČD T108 – Doplňující ustanovení pro obsluhu LS90, příl. 1 čl. 11: Šoupátko pro bezpečnostní brzdu s elektromagnetickým ventilem a uzavíracím kohoutem v odbočce brzdového potrubí uzavírá výtok vzduchu hlavního potrubí průběžné brzdy tehdy, protéká-li cívkou jeho elektromagnetického ventilu proud. Není-li však obslouženo tlačítko bdělosti nebo EMP (pokud je jím hnací vozidlo vybaveno), přeruší se proud v cívce elektromagnetického ventilu a šoupátko pro bezpečnostní brzdu otevře výfuk vzduchu z hlavního potrubí samočinné brzdy. Tím se vlak samočinně zastaví.\nŠoupátko pro bezpečnostní brzdu je možno vyřadit z činnosti uzavíracím kohoutem v odbočce brzdového potrubí, který je v provozní poloze opatřen plombou na šňůrce.\nElektromagnetický ventil nebo jeho kryt (pokud je ventil zakrytován), tlakový spínač a uzavírací kohout v odbočce brzdového potrubí jsou natřeny žlutě.\n\nČD T108 – DU pro LS90, čl. 70: V případě, že […] nedojde k přítahu elektromagnetického ventilu a šoupátko pro bezpečnostní brzdu zůstane otevřeno, musí strojvedoucí sejmout bezpečnostní závěr, uzavřít uzavírací kohout v odbočce brzdového potrubí, vedoucího k šoupátku pro bezpečnostní brzdu a provést o tom zápis do Záznamníku, včetně udání důvodu.",
+  "distraktory": [
+   "Červenou barvou – elektromagnetický ventil (nebo jeho kryt), tlakový spínač i uzavírací kohout v odbočce brzdového potrubí jsou natřeny červeně.",
+   "Modrou barvou – elektromagnetický ventil (nebo jeho kryt) a tlakový spínač jsou modré, uzavírací kohout v odbočce brzdového potrubí je natřen červeně."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 188,
+  "otazka": "Za jízdy vlaku dojde bez zjevné příčiny k úplnému vypuštění vzduchu z hlavního potrubí. Jaký bude další postup strojvedoucího?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 243"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 244"
+   }
+  ],
+  "odpoved": "Musí předpokládat porušení celistvosti vlaku, popř. použití záchranné brzdy: přestaví ovladač brzdiče do polohy uzavírající vstup vzduchu do hlavního potrubí a vyčká zastavení.",
+  "plne_zneni": "ČD V15/I čl. 243: Strojvedoucí vedoucího vozidla vlaku je povinen za jízdy průběžně sledovat a vyhodnocovat: činnosti brzd vlastního hnacího vozidla; ukazatele stavu brzdových zařízení; hodnoty tlaku v hlavním vzduchojemu a v hlavním potrubí; průtokoměr (je-li jím HV vybaveno) a interval zapínání kompresorů; všechny další skutečnosti, které by mohly signalizovat samovolnou změnu v činnosti brzdy.\nDojde-li bez zásahu strojvedoucího vedoucího vozidla vlaku k poklesu tlaku v hlavním potrubí nebo k samovolnému rozsvícení průtokoměru bez zjevné příčiny, musí předpokládat porušení celistvosti vlaku, případně použití záchranné brzdy, a přestaví ovladač brzdiče (brzdič) průběžné brzdy do polohy, v níž je uzavřen vstup vzduchu do hlavního potrubí a vyčká zastavení vlaku. Je-li však povinen (v souladu s předpisem SŽ D1 nebo ČD D2) použít Překlenutí záchranné brzdy, tuto funkci použije.\nJeví-li brzda nesprávný účinek, je strojvedoucí povinen učinit neprodleně všechna dostupná opatření vedoucí k zastavení vlaku.",
+  "distraktory": [
+   "Musí předpokládat porušení celistvosti vlaku, popř. použití záchranné brzdy: přestaví ovladač brzdiče do polohy Rychločinné brzdění a vyčká zastavení vlaku.",
+   "Musí předpokládat netěsnost hlavního potrubí: ponechá ovladač brzdiče v jízdní poloze, zavede plnicí švih a dojede s vlakem do nejbližší stanice."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 189,
+  "otazka": "Jak lze odstranit nebo snížit skluz hnacích náprav kolejového vozidla?",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 125"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 126"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 124"
+   }
+  ],
+  "odpoved": "Neprodleným snížením výkonu (tažné síly) hnacího vozidla; pískovat je možné teprve tehdy, jsou-li hnací dvojkolí opět v trvalém záběru, poté se výkon postupně zvyšuje.",
+  "plne_zneni": "ČD V2 čl. 124: Výkon hnacího vozidla je nutno regulovat tak, aby při rozjezdu nedocházelo k prokluzu dvojkolí a prokluz dvojkolí byl minimalizován.\n\nČD V2 čl. 125: Adhezní poměry lze zlepšit včasným použitím pískovacího zařízení. Jestliže jsou dvojkolí hnacího vozidla již v prokluzu, musí lokomotivní četa neprodleně snížit výkon hnacího vozidla a pískovat je možné teprve tehdy, jsou-li hnací dvojkolí opět v trvalém záběru. Poté je možné postupně zvyšovat výkon hnacího vozidla, případně jedná podle návodu k obsluze.\n\nČD V2 čl. 126: Ke zmírnění skluzu se zakazuje používat přímočinnou brzdu a v následujících případech i pískovací zařízení: a) jestliže ke skluzu už došlo; b) v prostoru výhybek a kolejového křížení; c) v prostoru spádoviště […]; d) v místě, které nebude dále pojížděno dalšími vozidly téže soupravy; e) během brzdění při rychlosti nižší než 20 km/h. V případech, kdy je nutné okamžité zastavení hnacího vozidla nebo soupravy vlaku z důvodu odvrácení hrozícího nebezpečí, je však možné pískovací zařízení použít i ve výše uvedených případech.",
+  "distraktory": [
+   "Krátkodobým přibrzděním přímočinnou (přídavnou) brzdou spolu s pískováním; po obnovení trvalého záběru se výkon hnacího vozidla postupně zvyšuje.",
+   "Okamžitým pískováním při zachovaném výkonu hnacího vozidla; výkon se snižuje teprve tehdy, nevrátí-li se hnací dvojkolí do trvalého záběru."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 190,
+  "otazka": "Pod pojmem „inversní ventil“ se rozumí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "SR 15 (V)",
+  "zdroje": [
+   {
+    "predpis": "SR 15 (V)",
+    "clanek": "čl. 163 písm. h)"
+   },
+   {
+    "predpis": "SR 15 (V)",
+    "clanek": "čl. 164"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "Vysvětlení pojmů – „Dynamická brzda“"
+   }
+  ],
+  "odpoved": "Elektropneumatický ventil s obrácenou (fail-safe) logikou: je-li pod napětím, vzduch blokuje (odbrzděno); při ztrátě napětí vzduch propustí a vozidlo zabrzdí.",
+  "plne_zneni": "Inverzní (inversní) elektropneumatický ventil pracuje na principu obrácené logiky řízení (fail-safe režim):\n• je-li cívka ventilu pod napětím, ventil přívod vzduchu blokuje – vozidlo zůstává odbrzděno;\n• při ztrátě napětí (přerušení obvodu, porucha, výpadek zdroje) ventil vzduch propustí – dojde k zabrzdění.\nTím je zajištěno, že jakákoliv porucha napájení vede do bezpečného stavu (zabrzděno).\n\nSR 15 (V) čl. 163 písm. h): […] třícestné elektropneumatické ventily brzdiče DAKO-BSE jsou dvojího druhu – normální a inversní […]; čl. 164 popisuje účinkování ventilů YB a YZ.",
+  "distraktory": [
+   "Elektropneumatický ventil s běžnou logikou: je-li pod napětím, vzduch propustí a vozidlo zabrzdí; při ztrátě napětí vzduch blokuje a vozidlo zůstane odbrzděno.",
+   "Přepouštěcí ventil, který při poklesu tlaku v hlavním potrubí automaticky doplní vzduch z pomocného vzduchojemu a zabrání tak samovolnému zabrzdění vozidla."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Formální definici pojmu žádný z dostupných předpisů neobsahuje – jde o funkční popis: obrácená (fail-safe) logika, kdy ztráta napětí vede k zabrzdění."
+ },
+ {
+  "n": 191,
+  "otazka": "Rukojeť spojkového kohoutu hlavního brzdového potrubí je natřena barvou?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "SR 15 (V)",
+  "zdroje": [
+   {
+    "predpis": "SR 15 (V)",
+    "clanek": "čl. 144"
+   },
+   {
+    "predpis": "SR 15 (V)",
+    "clanek": "čl. 134"
+   }
+  ],
+  "odpoved": "Červenou barvou – spojkový kohout i hlavice hlavního potrubí jsou natřeny červeně (kohouty a hlavice napájecího potrubí jsou naopak žluté).",
+  "plne_zneni": "SR 15 (V) čl. 144: Spojkové kohouty typu AKH uzavírají hlavní potrubí průběžné brzdy nebo potrubí pro propojení hlavních vzduchojemů (napájecí potrubí) na čelech vozidel. […] Na čelech vozidla se umísťují tak, aby rukojeti kohoutů byly odvráceny od spřáhlového ústrojí. Kohout je otevřen tehdy, je-li jeho rukojeť ve směru osy hrdla. Směřuje-li kolmo na tuto osu (směrem vzhůru) je kohout v poloze uzavřené. […] Spojkový kohout a hlavice hlavního potrubí jsou natřeny červenou barvou.\nSpojkové kohouty na potrubí k propojení hlavních vzduchojemů u hnacích vozidel mají místo rukojeti čtyřhran (OK 27). Kohout i hlavice tohoto potrubí jsou natřeny žlutou barvou.\n\nSR 15 (V) čl. 134: Hlavní potrubí na hnacím vozidle je vyvedeno z brzdiče samočinné brzdy na obě čela hnacího vozidla a ukončeno spojkovými kohouty (AKH) a brzdovými spojkami s normální hlavicí. Pro kohouty a hlavice hlavního potrubí je předepsán červený nátěr.",
+  "distraktory": [
+   "Žlutou barvou – spojkový kohout i hlavice hlavního potrubí jsou natřeny žlutě (kohouty a hlavice napájecího potrubí jsou naopak červené).",
+   "Červenou barvou je natřena jen hlavice hlavního potrubí; rukojeť spojkového kohoutu je natřena modře, aby byla odlišena od kohoutu záchranné brzdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 192,
+  "otazka": "Jaký bude postup doprovodu vlaku v čase odjezdu po výpravě vlaku výpravčím? Souprava vlaku má centrální ovládání dveří strojvedoucími, ale jen zadní motorový vůz je obsazen vlakovou četou:",
+  "obrazky": [
+   "img/q192_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 302"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 301"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 264"
+   }
+  ],
+  "odpoved": "Vlaková četa dá ze zadního vozu návěst Pohotovi k odjezdu strojvedoucímu B; ten dveře centrálně uzavře, zkontroluje indikaci a dá strojvedoucímu A návěst Souhlas k odjezdu.",
+  "plne_zneni": "ČD D2 čl. 302: Jsou-li ve vlaku vozidla s nástupními dveřmi centrálně ovládanými jinými strojvedoucími než strojvedoucím vedoucího vozidla vlaku, dají návěst Pohotovi k odjezdu členové obsluhy vlaku, kterým jsou tato vozidla přidělena, směrem ke strojvedoucím ovládajícím nástupní dveře těchto vozidel. Tito strojvedoucí poté uzavřou centrálně ovládané nástupní dveře, zkontrolují pomocí indikace zajištění nástupních dveří a dají návěst Pohotovi k odjezdu směrem k členu (členům) obsluhy vlaku v přední části vlaku. Není-li před strojvedoucím vozidla s centrálně ovládanými nástupními dveřmi žádný člen obsluhy vlaku, dá tento strojvedoucí po uzavření a zkontrolování indikace zajištění nástupních dveří návěst Souhlas k odjezdu směrem ke strojvedoucímu vedoucího vozidla vlaku.\n\nČD D2 čl. 301 (postup při odjezdu vlaku s přepravou cestujících – strojvedoucí, bod 3): Po obdržení návěsti Souhlas k odjezdu od člena obsluhy vlaku obslouží ovládací prvek zavírání nástupních dveří do polohy „Obě strany uzavřeny“, zkontroluje signalizaci uzavření nástupních dveří a uvede vlak do pohybu.\n\nČD D2 čl. 264: Návěst Souhlas k odjezdu (opisování písmena „T“ návěstním terčíkem drženém v dlani tak, aby byla viditelná strana se zelenou barvou [denní návěst] nebo ruční svítilnou s bílým světlem [noční návěst]) dává stanovený člen doprovodu vlaku a informuje o připravenosti vlaku k odjezdu. Strojvedoucí návěstní terčík nepoužívají.",
+  "distraktory": [
+   "Vlaková četa dá ze zadního vozu návěst Souhlas k odjezdu přímo strojvedoucímu A; strojvedoucí B poté uzavře dveře svého vozu a dá návěst Pohotovi k odjezdu.",
+   "Vlaková četa dá ze zadního vozu návěst Pohotovi k odjezdu strojvedoucímu B; ten dveře centrálně uzavře a strojvedoucí A uvede vlak do pohybu bez další návěsti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 193,
+  "otazka": "Jakým způsobem oznámí strojvedoucí zadní jednotky strojvedoucímu předního HV ř. 714 připravenost k odjezdu?",
+  "obrazky": [
+   "img/q193_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 302"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 264"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 265"
+   }
+  ],
+  "odpoved": "Po centrálním uzavření dveří a kontrole jejich indikace dá návěst Souhlas k odjezdu (bez návěstního terčíku), popř. ji vyjádří ústně nebo vnitřním komunikačním zařízením soupravy.",
+  "plne_zneni": "ČD D2 čl. 302: Jsou-li ve vlaku vozidla s nástupními dveřmi centrálně ovládanými jinými strojvedoucími než strojvedoucím vedoucího vozidla vlaku, dají návěst Pohotovi k odjezdu členové obsluhy vlaku, kterým jsou tato vozidla přidělena, směrem ke strojvedoucím ovládajícím nástupní dveře těchto vozidel. Tito strojvedoucí poté uzavřou centrálně ovládané nástupní dveře, zkontrolují pomocí indikace zajištění nástupních dveří a dají návěst Pohotovi k odjezdu směrem k členu (členům) obsluhy vlaku v přední části vlaku. Není-li před strojvedoucím vozidla s centrálně ovládanými nástupními dveřmi žádný člen obsluhy vlaku, dá tento strojvedoucí po uzavření a zkontrolování indikace zajištění nástupních dveří návěst Souhlas k odjezdu směrem ke strojvedoucímu vedoucího vozidla vlaku.\n\nČD D2 čl. 264: Návěst Souhlas k odjezdu (opisování písmena „T“ návěstním terčíkem drženém v dlani tak, aby byla viditelná strana se zelenou barvou [denní návěst] nebo ruční svítilnou s bílým světlem [noční návěst]) dává stanovený člen doprovodu vlaku a informuje o připravenosti vlaku k odjezdu. Strojvedoucí návěstní terčík nepoužívají.\n\nČD D2 čl. 265: Návěsti Výzva strojvedoucího, Výzva k pohotovosti, Pohotovi k odjezdu a Souhlas k odjezdu se nemusí používat, pokud je možno dát příslušný pokyn přímo ústně, příp. vnitřním komunikačním zařízením soupravy. Ústní pokyn musí vždy zaměstnanec vyjádřit názvem příslušné návěsti.",
+  "distraktory": [
+   "Po centrálním uzavření dveří a kontrole jejich indikace dá návěst Pohotovi k odjezdu (bez návěstního terčíku), popř. ji vyjádří ústně nebo vnitřním komunikačním zařízením soupravy.",
+   "Po centrálním uzavření dveří a kontrole jejich indikace dá návěst Výzva strojvedoucího opisováním písmene „V“ dlaní, popř. ji vyjádří ústně vnitřním komunikačním zařízením."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Strojvedoucí zadní jednotky dává návěst Souhlas k odjezdu proto, že před ním není žádný člen obsluhy vlaku (jinak by dával návěst Pohotovi k odjezdu směrem k obsluze vlaku v přední části vlaku). Návěstní terčík strojvedoucí nepoužívá (ČD D2 čl. 264), návěst tedy dává rukou, resp. v noci ruční svítilnou s bílým světlem."
+ },
+ {
+  "n": 194,
+  "otazka": "Strojvedoucí vlaku s přepravou cestujících jedoucím v systému TB 5 obdržel návěst „Souhlas k odjezdu“. Dveře, ze kterých vlaková četa dává návěst zůstávají stále otevřené. Strojvedoucí se s vlakem rozjet:",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 360"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 359"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 286"
+   }
+  ],
+  "odpoved": "Smí – v systému TB 5 zůstávají dveře, z nichž vlaková četa dává návěst a kontroluje nástupiště, otevřené až do rozjezdu a obsluha vlaku je uzavře ihned po rozjezdu vlaku.",
+  "plne_zneni": "ČD D2 čl. 360: Nástupní dveře vozů umožňující centrální zavírání dveří obsluhou vlaku musí být uzavřeny vždy centrálně, a to bezprostředně před návěstí Souhlas k odjezdu, popř. Pohotovi k odjezdu (s výjimkou dveří, ze kterých dává člen obsluhy vlaku příslušnou návěst). CZD obsluhuje vždy člen obsluhy vlaku, který je nejblíže vedoucímu vozidlu vlaku.\n\nČD D2 čl. 359: Při používání systému TB 5 není funkční zelená smyčka, ani blokování nástupních dveří od nulové rychlosti. U vlaku provozovaného v systému TB 5 musí členové obsluhy vlaku provádět kontrolu situace na nástupišti z otevřených nástupních dveří do doby rozjezdu vlaku dle ustanovení čl. 286 tohoto předpisu.\n\nČD D2 čl. 286: Všichni členové obsluhy vlaku u vlaku vedeného v systému TB 0 nebo TB 5 jsou povinni v době od dání návěsti Pohotovi k odjezdu nebo Souhlas k odjezdu do doby rozjezdu vlaku kontrolovat pohledem z otevřených dveří situaci na nástupišti, zda nedochází k ohrožení bezpečnosti cestujících […]. Obsluha vlaku ihned po rozjezdu vlaku uzavře dveře, ze kterých prováděla kontrolu dle předchozího odstavce […].\n\nČD D2 čl. 361 (postup před odjezdem vlaku s přepravou cestujících, obsluha vlaku bod 2): a. po kontrole uzavření dveří dají předepsané návěsti před odjezdem vlaku; b. po rozjezdu uzavřou dveře (ručně nebo pomocí tlačítka „Zavřít“).",
+  "distraktory": [
+   "Nesmí – před uvedením vlaku do pohybu musí vždy vyčkat, až vlaková četa uzavře i dveře, ze kterých dávala návěst, a zkontrolovat signalizaci uzavření dveří.",
+   "Smí – ale až po dání návěsti Pozor a po vyčkání minimálně 5 vteřin od obdržení návěsti Souhlas k odjezdu, protože dveře nejsou blokovány od nulové rychlosti."
+  ],
+  "jistota": "vysoká"
+ }
+]

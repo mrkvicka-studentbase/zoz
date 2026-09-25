@@ -1,0 +1,299 @@
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+                                                Část čtvrtá
+
+                                     VLAKOVÝ ZABEZPEČOVAČ
+
+
+
+                         XIV. Návěstní opakovač na hnacím vozidle
+
+       156. Návěstní opakovač je součástí vlakového zabezpečovače na hnacím
+vozidle.
+       Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla
+následují za sebou na zábrzdnou vzdálenost, informuje strojvedoucího příslušným
+světlem o návěstním znaku návěstidla, k němuž se vlak blíží. V dopravách, kde
+hlavní návěstidla následují za sebou na nedostatečnou zábrzdnou vzdálenost,
+informuje strojvedoucího příslušným světlem o návěstním znaku hlavního
+návěstidla na konci zábrzdné vzdálenosti, resp. o návěstním znaku nejbližšího
+hlavního návěstidla s povážlivější návěstí.
+       Při práci na spádovišti informuje návěstní opakovač strojvedoucího
+o návěstním znaku spádovištního návěstidla.
+       Při jízdě na trati s volícím přepínačem v poloze „Provoz“ kontroluje
+vlakový zabezpečovač bdělost strojvedoucího v případech, kdy přenášená návěst
+vyžaduje zvětšenou pozornost, jakož i v případech, kdy na vozidle není přenášená
+žádná návěst. Nereaguje-li strojvedoucí na výzvu k prokázání bdělosti, vlak
+samočinně zastaví.
+
+          157. Světla návěstního opakovače mají tento význam:
+
+          Zelené světlo
+
+
+
+
+                                          Nejbližší hlavní návěstidlo ukazuje návěst 1, Volno
+
+
+
+
+                                                                                                       65
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+          Žluté světlo
+
+
+
+
+                                          Nejbližší hlavní návěstidlo ukazuje              návěst 26,
+                                          Výstraha, nebo některou z návěstí:
+                                           6, Očekávejte rychlost 100 km/h
+                                          11, Očekávejte rychlost 80 km/h
+                                          16, Očekávejte rychlost 60 km/h
+                                          21, Očekávejte rychlost 40 km/h
+
+
+
+       Stupeň návěstěné (předvěstěné) rychlosti zjistí strojvedoucí z návěsti
+nejbližšího hlavního návěstidla; je-li jím oddílové návěstidlo, které je zhaslé, musí
+vlak zmenšovat rychlost tak, aby mohl zastavit před hlavním návěstidlem na konci
+zábrzdné vzdálenosti, zakazujícím jízdu.
+
+          Přerušované červené světlo
+
+
+
+
+                                          Nejbližší hlavní    návěstidlo ukazuje                 návěst
+                                          „Opakování návěsti 26, Výstraha“
+
+
+
+
+       Vlak je v předposledním oddíle se čtyřznakovým automatickým blokem
+před návěstí 31, Stůj, a nachází se v první polovině zábrzdné vzdálenosti; musí
+zmenšovat rychlost tak, aby u následujícího návěstidla s návěstí 31, Stůj,
+spolehlivě zastavil. Strojvedoucí musí periodicky obsluhovat tlačítko bdělosti;
+zanedbá-li jeho obsluhu, vlak samočinně zastaví.
+
+
+
+
+66
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+          Červené světlo
+                                     Po rozsvícení červeného světla se rozezvučí houkačka
+                                     vlakového      zabezpečovače,       pokud     strojvedoucí
+                                     neobsluhuje tlačítko bdělosti ve stanoveném intervalu
+                                     a) Nejbližší oddílové nebo krycí návěstidlo ukazuje
+                                         návěst 31, Stůj, a vlak musí před ním zastavit
+                                     b) Vjezdové, cestové nebo odjezdové návěstidlo,
+                                         následující na zábrzdnou vzdálenost po předchozí
+                                         návěsti 26, Výstraha, ukazuje návěst 31, Stůj, a vlak
+                                         musí před ním zastavit
+                                     c) Nejbližší opakovací světelná předvěst, vjezdové,
+                                         cestové nebo odjezdové návěstidlo ukazuje návěst
+                                         „Opakování návěsti 26, Výstraha“ (příp. ve spojení
+                                         se zmenšením rychlosti spodním světlem), a vlak musí
+                                         za ním zastavit na nedostatečnou zábrzdnou
+                                         vzdálenost (před návěstí 31, Stůj, dalšího návěstidla)
+       Strojvedoucí musí až do zastavení vlaku periodicky obsluhovat tlačítko
+bdělosti; zanedbá-li obsluhu, vlak samočinně zastaví.
+          Žluté mezikruží
+
+                                     Po rozsvícení žlutého mezikruží se rozezvučí houkačka
+                                     vlakového      zabezpečovače,       pokud    strojvedoucí
+                                     neobsluhuje tlačítko bdělosti ve stanoveném intervalu.
+
+                                     Od hlavního návěstidla na konci zábrzdné vzdálenosti
+                                     a v obvodu výhybek přilehlém k návěstidlu musí vlak jet
+                                     zmenšenou rychlostí, určenou dvousvětlovou návěstí,
+                                     včetně světelných pruhů a číslic.
+
+          Modré světlo:
+
+
+                                     a) Volicí přepínač je poloze „Postrk“
+                                     b) Vybavovač samočinného brzdění při volícím
+                                        přepínači v poloze „Provoz“ byl vyloučen buď
+                                        prokázáním       bdělosti   strojvedoucího, nebo
+                                        automatickou výlukou
+
+
+
+
+                                                                                                       67
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+          Žádné světlo
+
+
+
+                                          Po zhasnutí světla návěstního opakovače se rozezvučí
+                                          houkačka     vlakového      zabezpečovače,    pokud
+                                          strojvedoucí neprokáže bdělost ve stanoveném
+                                          intervalu
+
+
+
+        Na návěstním opakovači nesvítí žádné světlo (popř. svítí jen modré světlo),
+a to z těchto příčin:
+          a) vlak je v obsazeném oddíle;
+          b) vlak vjel do oddílu automatického bloku na návěst dovolující jízdu
+             a došlo k poruše vlakového zabezpečovače na hnacím vozidle nebo na
+             traťové části vlakového zabezpečovače, popř. k jiné závadě na trati
+             (k lomu kolejnice, k náhlému obsazení oddílu vozidlem, k poruše
+             automatického bloku apod.).
+        V případech uvedených v a) nebo b) strojvedoucí neví, pro kterou
+z uvedených příčin došlo k zhasnutí světla na návěstním opakovači. Musí proto
+předpokládat překážku a jet podle rozhledových poměrů až k následujícímu
+hlavnímu návěstidlu. Od tohoto návěstidla smí jet vlak podle návěstních znaků na
+tomto návěstidle pouze tehdy, obnoví-li se přenos návěstí na návěstní opakovač.
+Jestliže na návěstním opakovači nadále nesvítí žádná světla, strojvedoucí neví
+ze kterých příčin nesvítí světlo návěstního opakovače a musí proto i nadále
+předpokládat překážku. Další jízdu musí upravit podle rozhledových poměrů viz
+výše uvedené. Periodicky obsluhuje tlačítko bdělosti, zanedbá-li jeho obsluhu,
+zařízení vyvolá zabrzdění vlaku.
+        Zjistí-li strojvedoucí, že jde o poruchu traťové části vlakového
+zabezpečovače, ohlásí to v nejbližší stanici, kde za tímto účelem zastaví.
+Projíždějící vlak v této stanici nemusí zastavit, je-li zpraven písemným rozkazem,
+radiotelefonním spojením nebo návěstí 85, Možno projet, že je porucha sousední
+stanici již ohlášena.
+          c) Hnací vozidlo je na nekódovaném úseku (ve stanici, na trati); takové
+             úseky musí strojvedoucí vždy znát. Strojvedoucí smí jet největší
+             dovolenou rychlostí podle návěstí hlavních návěstidel a jejich
+             předvěstí. Bdělost strojvedoucího je kontrolována a strojvedoucí ji
+             periodicky prokazuje obsluhou tlačítka bdělosti, změnou polohy
+             kontroléru nebo jiného ovládače; neprokáže-li bdělost ve stanoveném
+             intervalu, zařízení vyvolá zabrzdění vlaku.
+68
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+       158. Vlakový   zabezpečovač      nepřenáší    informace  samostatných
+opakovacích světelných předvěstí a opakování návěstí na vjezdových, cestových
+nebo vjezdových návěstidlech, postavených na začátku zábrzdné vzdálenosti. Na
+návěstním opakovači vlakového zabezpečovače se proto i při normální činnosti
+vlakového zabezpečovače a zabezpečovacího zařízení může objevit povážlivější
+znak než na nepřenosném návěstidle, k němuž se vlak blíží.
+       159. Pro přenos návěstí spádovištního návěstidla na hnací vozidlo, určené
+pro posun na spádovišti, je nahrazen normální kryt návěstního opakovače krytem
+pro vyjádření návěstních informací tohoto návěstidla. Takto upravené zařízení je
+jen zařízením informačním. Volící přepínač je v poloze „Postrk“ a hlavní vypínač
+v poloze „Zapnuto“. Vybavovač samočinného zabrždění je vypnut.
+       Světla upraveného návěstního opakovače mají při posunu na spádovišti
+zařízeném pro přenos návěstí tento význam:
+
+          Modré světlo
+
+
+
+
+                                          Návěstní opakovač je připraven k přenášení návěstí
+                                          spádovištního návěstidla, žádná návěst není
+                                          přenášena
+
+
+
+
+          Bílé světlo
+          svítící zároveň
+          se světlem modrým
+
+
+
+
+                                          Spádovištní návěstidlo ukazuje návěst 116, Sunout
+                                          rychleji, jedním bílým světlem
+
+
+
+
+                                                                                                       69
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+          Bílé světlo s vodorovným pruhem,
+          svítící zároveň se světlem modrým
+
+
+
+                                          Spádovištní návěstidlo ukazuje návěst 115, Sunout
+                                          pomalu, dvěma bílými světly, nebo návěst 118,
+                                          Přísun soupravy vozidel ke spádovišti, dvěma
+                                          přerušovanými bílými světly
+
+
+
+
+       Strojvedoucí musí v obou případech očekávat změnu návěsti na návěst 114,
+Sunout zakázáno (návěstní opakovač ukazuje červené světlo svítící zároveň se
+světlem modrým), a v tomto případě neprodleně zastavit sunutí posunujícího dílu.
+
+          Červené světlo svítící zároveň
+          se světlem modrým
+
+
+
+
+                                          Spádovištní návěstidlo ukazuje návěst 114, Sunout
+                                          zakázáno, červeným světlem
+
+
+
+
+          Bílé světlo s písmenem Z,
+          svítící zároveň se světlem modrým
+
+
+
+
+                                          Spádovištní návěstidlo ukazuje návěst 117, Zpět,
+                                          červeným světlem s bílým písmenem Z pod ním
+
+
+
+
+70
+SŽDC (ČD) T108 Změna č. 3 ve znění změny č. 1 předpisu ČSD D1 Návěstní předpisy      Účinnost od 27. 2. 1998
+a dokumentu Českých drah, s. o., Divize dopravní cesty, o. z., č. j. 55 453/98-O14
+
+
+
+
+          Žádné světlo
+
+
+
+
+                                          Návěstní opakovač neúčinkuje, protože zařízení není
+                                          zapnuto nebo je v poruše
+
+
+
+
+                                                                                                       71
+

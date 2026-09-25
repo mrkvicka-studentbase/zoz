@@ -1,0 +1,955 @@
+                                         Předpis
+                    o bezpečnosti a ochraně zdraví při práci
+                                   ČD Op16
+
+
+
+
+                                      Úroveň přístupu „A“
+
+
+
+
+                                     Č.j. 58 523/2014-O10
+
+
+
+
+Schváleno: usnesením Představenstva Českých drah, a.s.:
+
+Dne: 14. 10. 2014
+
+Účinnost od: 01. 11. 2014
+
+Ve znění změny č. 2 (účinnost od 01.09.2021)
+                                                                       Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+                                                                  Obsah
+1.    ÚVODNÍ USTANOVENÍ..........................................................................................................................7
+2.    ZÁKLADNÍ POJMY................................................................................................................................7
+3.    ZÁKLADNÍ USTANOVENÍ BOZP ............................................................................................................8
+4.    PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY.......................................................................................................10
+5.    PROVOZOVÁNÍ DRÁHY ......................................................................................................................15
+6.    ZÁVĚREČNÁ USTANOVENÍ .................................................................................................................18
+SOUVISEJÍCÍ PŘEDPISY A NORMY ....................................................................................................19
+
+
+
+
+                                                                        2
+                                                Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+                              ZÁZNAM O ZMĚNÁCH1
+Změna                                       Předpis
+Číslo č.j.           Účinnost od            Opravil                       Dne                    Podpis
+
+58 523/2014-O10 15.5.2015                   Milan Růžička                 6.5.2015               Růžička
+1195/2021-O10   01.09.2021                  Milan Růžička                 27.08.2021             Růžička
+
+
+
+
+1 Držitel tohoto výtisku je odpovědný za včasné a správné provedení schválených změn a provedení
+
+záznamu na této stránce.
+
+
+
+                                                 3
+                                                 Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+                                       OBSAH ZMĚN
+
+Změna č.                       Obsah změny2                                 Účinnost                   Změnu
+                                                                               od                      provedl3
+    1        Uvedení textu předpisu do souladu                             15.5.2015              Milan Růžička
+             s organizační strukturou platnou od 1.3.2015
+
+    2        Uvedení předpisu do souladu s organizační                    01.09.2021              Milan Růžička
+             strukturou ČD platnou od 01.07.2021
+
+
+
+
+2 Uvést výčet příslušného, příslušných ustanovení předpisu, u kterého/kterých proběhla změna (např..
+
+ změna v čl. ….., v kapitole ….. apod.).
+3 Gestor předpisu
+
+
+
+
+                                                  4
+                                              Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+                              ROZSAH ZNALOSTÍ
+
+          Útvar                                Funkce                                           Znalost
+
+                           Vedoucí úseků GŘ ČD (ředitel kanceláře                             Informativní
+                           předsedy představenstva, ředitelé kanceláří
+                           náměstků GŘ, ředitelé odborů)
+                           Pověření zaměstnanci řediteli kanceláří, odborů                       Úplná
+Organizační složka GŘ ČD
+                           OZO BOZP                                                              Úplná
+
+                           Ostatní zaměstnanci GŘ ČD                                  Kap. 1 – 3 úplná, ostatní
+                                                                                            informativně
+                           Vedoucí OJ ČD                                                        Úplná
+
+                           Pověření zaměstnanci vedoucím OJ ČD                                   Úplná
+
+Organizační jednotky ČD    Zaměstnanci vstupující do kolejiště za účelem                   Kap. 1 – 4 úplná
+                           provozování drážní dopravy
+                           Zaměstnanci vstupující do kolejiště za účelem                    Kap. 1 -5 úplná
+                           provozování dráhy
+                           Ostatní zaměstnanci                                        Kap. 1 – 3 úplná, ostatní
+                                                                                            informativně
+
+
+
+
+                                               5
+                                     Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+         SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+
+BOZP     -   Bezpečnost a ochrana zdraví při práci
+JPS      -   Jiný právní subjekt (firma, organizace, hnutí, OSVČ, atp.)
+CHV      -   Centrum historických vozidel Lužná u Rakovníka
+ČD       -   České dráhy, a. s.
+ČD O 2       Předpis pro vydávání Zaměstnaneckých průkazů ČD, a.s. a ostatních dokladů
+             opravňujících ke vstupu prostor ČD, a.s.
+ČSN      -   Česká technická norma (míněny i normy EN a ISO)
+GŘ       -   Generální ředitelství
+OOPP     -   Osobní ochranné pracovní prostředky
+OS       -   Organizační složka (dle organizační struktury ČD)
+OJ       -   Organizační jednotka (dle organizační struktury ČD)
+PŘ       -   Provozní řád
+RID      -   Řád pro mezinárodní železniční přepravu nebezpečných věcí
+SŽDC     -   Správa železniční dopravní cesty, s. o.
+TPP      -   Technologický postup práce
+ZAV      -   Zařízení automatického varování
+
+
+
+
+                                      6
+                                                  Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+             Předpis o bezpečnosti a ochraně zdraví při práci
+                               ČD Op16
+
+1.     Úvodní ustanovení
+1.1.   Péče o BOZP, stejně jako zlepšování pracovního prostředí a pracovních podmínek, je nedílnou
+       součástí plnění pracovních úkolů všech vedoucích zaměstnanců. Dodržování bezpečnostních
+       předpisů je povinností všech zaměstnanců a osob, které se zdržují s vědomím zaměstnavatele
+       na jeho pracovištích. Systém řízení celého úseku BOZP je realizován dle ČSN ISO 45001
+       (Systém managementu BOZP, dále též SM BOZP), v platném znění. Je bezpodmínečně nutné,
+       aby konání všech zúčastněných v pracovních i ostatních procesech bylo v souladu se všemi
+       bezpečnostními předpisy platnými v České republice.
+1.2.   Pro oblast BOZP jsou všechny platné právní, interní a bezpečnostní předpisy, ČSN a jiné normy
+       uvedeny v prováděcích dokumentech dostupných na intranetu ČD pod názvem „Požadavky
+       právních předpisů a jiné požadavky“. Tento seznam je pravidelně aktualizován a je platný pro
+       všechny činnosti. Seznam je součástí SM BOZP a není obsažen v tomto předpisu.
+1.3.   Tento předpis stanovuje základní podmínky a předpoklady k zajištění BOZP. Předpis je závazný
+       pro všechny zaměstnance ČD a pro ostatní osoby, které se s vědomím zaměstnavatele zdržují
+       na jeho pracovištích. Všechna ustanovení předpisu jsou součástí analýzy rizik, přičemž tvoří
+       základní rámec pro eliminaci nebo minimalizaci působení rizik na všechny zúčastněné. Tento
+       předpis nemůže obsáhnout všechny situace, proto zaměstnanci musí znát a dodržovat i další
+       související bezpečnostní předpisy, se kterými byli řádně seznámeni. Způsob organizace práce a
+       pracovních a technologických postupů a bližší požadavky na bezpečný provoz a používání
+       strojů, technických zařízení, dopravních prostředků, přístrojů a nářadí na pracovištích, v tomto
+       předpise neuvedené, se řídí příslušnými právními a ostatními předpisy.
+
+2.     Základní pojmy
+2.1.   Používané pojmy jsou převzaté z vyhlášky č. 173/1995 Sb., ve znění pozdějších předpisů,
+       předpisů SŽDC D1, D3, Bp1 a z předpisu ČD D2. Další pojmy jsou stanoveny zákonnými
+       ustanoveními a bezpečnostními předpisy. Pro účely tohoto předpisu jsou použity i další pojmy,
+       vysvětlené v následujících ustanoveních nebo zkratkách. V jednotlivých ustanoveních tohoto
+       předpisu jsou vymezeny a dále používány odborné pojmy, které se musí důsledně dodržovat.
+       Záměna určeného významu těchto pojmů není dovolena.
+
+       Bezpečnostní hlídka - jeden nebo více zaměstnanců určených ke střežení ostatních
+       zaměstnanců pracujících v provozované dopravní cestě.
+
+       Dopravní zaměstnanec – zaměstnanec řízení provozu dráhy (např. Správy železnic, s.o.,
+       ČD,…) nebo příslušný zaměstnanec, který je zodpovědný za organizování nebo řízení drážní
+       dopravy.
+
+       Drážní vozidlo – dopravní prostředek, který je závislý při svém pohybu na stanovené části
+       dráhy.
+
+       Hnací drážní vozidlo (dále jen „hnací vozidlo“) – drážní vozidlo, schopné vyvíjet tažnou a
+       brzdící sílu pro pohyb a brzdění vlastní a zpravidla i jiných drážních vozidel.
+
+       Jiný právní subjekt - je právnická nebo fyzická osoba, která není součástí ani zaměstnancem
+       ČD – používá se pouze zkratka JPS.
+
+       Kolejiště – organizačně a funkčně vymezený souhrn kolejí a jeho kolejové vybavení (kolejiště
+       stanice, nákladiště, vlečky apod.).
+       Odborně způsobilá osoba (zaměstnanec) – osoba určená provozovatelem dráhy nebo
+       dopravcem, zajišťující při provozování dráhy nebo drážní dopravy činnosti přímo ovlivňující
+       bezpečnost provozování dráhy a drážní dopravy, která je odborně způsobilá podle právního
+
+
+                                                   7
+                                                  Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+       předpisu a podle vnitřního předpisu provozovatele dráhy pro činnosti při provozování dráhy nebo
+       podle právního předpisu a podle vnitřního předpisu dopravce pro činnosti při provozování drážní
+       dopravy.
+
+       Osamělý zaměstnanec – zaměstnanec, který provádí práce na zařízení sám v provozované
+       dopravní cestě.
+
+       Posun – každá úmyslně a organizovaně prováděná jízda vozidel, nejde-li o jízdu vlaku nebo
+       posun mezi dopravnami.
+
+       Provozování dráhy – soubor činností, kterými se zabezpečuje a obsluhuje dráha a organizuje
+       drážní doprava.
+
+       Provozování drážní dopravy – je soubor činností, při kterých dopravce na základě právního
+       vztahu přepravuje osoby, zvířata nebo věci, případně uspokojuje vlastní provozní potřeby.
+
+       Průjezdný průřez – obrys obrazce v rovině kolmé k ose koleje, který vymezuje vzdálenost vně
+       ležících staveb, zařízení a předmětů od osy koleje.
+
+       Snížená viditelnost – viditelnost, při níž nejsou nejméně na vzdálenost 100 m zřetelně viditelné
+       předměty a osoby.
+
+       Stezka – část pláně tělesa železničního spodku nebo povrchu zapuštěného kolejového lože,
+       která slouží k pohybu zaměstnanců v železniční dopravní cestě.
+
+       Strojvedoucí (řidič drážního vozidla) – pro účely tohoto předpisu společný název pro osobu s
+       odbornou způsobilostí k řízení (speciálního) hnacího vozidla bez zřetele na jeho typ.
+
+       Trať – vymezená část dráhy, určená pro jízdu vlaku (PMD), rozdělená na úseky trati mezi
+       dopravnami s kolejovým rozvětvením a na koleje v dopravnách.
+
+       Vedoucí prací – zaměstnanec určený vedoucím zaměstnancem, který řídí činnost skupiny
+       zaměstnanců, popř. vedoucí zaměstnanec sám.
+
+       Vedoucí zaměstnanec – zaměstnanec pověřený zaměstnavatelem vedením na jednotlivých
+       stupních řízení.
+
+       Volný schůdný a manipulační prostor – prostor mezi stavbami, pevnými zařízeními nebo
+       jinými překážkami a průjezdným průřezem, který je stanoven pro přilehlou kolej a který musí být
+       zachován pro bezpečný pohyb osob a manipulaci s materiálem.
+
+3.     Základní ustanovení BOZP
+3.1.  Zásady pro BOZP vycházejí ze Zákona č. 262/2006 Sb., a Zákona 309/2006 Sb., ve znění
+      pozdějších předpisů, jejich prováděcích předpisů, Pracovního řádu ČD, a.s. a dalších
+      bezpečnostních předpisů. Součástí bezpečnostních předpisů jsou i všechny předpisy pro
+      provozování dráhy a drážní dopravy.
+3.2. Plní-li na jednom pracovišti úkoly zaměstnanci dvou a více zaměstnavatelů, musí být nejenom
+      prokazatelně předána rizika, ale také JPS musí být prokazatelně seznámen s místními poměry.
+      S předanými riziky JPS musí být seznámeni všichni zaměstnanci ČD vyskytující se na
+      společném pracovišti.
+3.3. Vedoucí zaměstnanci všech stupňů řízení odpovídají za zajištění BOZP v souladu se
+      Zákoníkem práce a platnými předpisy ČD, vztahujícími se k této problematice.
+3.4. Vedoucí zaměstnanci jsou povinni:
+    a. spolupracovat v oblasti BOZP s orgány státního odborného dozoru nad bezpečností práce,
+        požárního dozoru, orgány ochrany veřejného zdraví, životního prostředí a příslušnými
+        odborovými organizacemi,
+    b. vydávat příkazy, zavádět vhodná opatření potřebná pro zajištění BOZP,
+    c. věnovat pozornost nově přijatým nebo nově přiděleným zaměstnancům při jejich zařazování do
+        zácviku nebo výcviku k vybraným zaměstnancům,
+
+
+
+                                                   8
+                                                    Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+    d. stanovit četnost a obsah školení dle pokynů odboru personálního GŘ ČD a zajistit realizaci
+         těchto školení,
+    e. rozhodnout o mimořádném ověření znalostí z bezpečnostních předpisů, příslušných vyhlášek a
+         norem u zaměstnanců, kteří opakovaně porušili bezpečnostní předpisy nebo v průběhu
+         dvanácti měsíců utrpěli více než jeden pracovní úraz ze stejných příčin a s prokázanou
+         spoluodpovědností,
+    f. zajistit při vzniku úrazu na pracovišti řádné zdokumentování úrazu, vyšetření jeho příčin,
+         vedení dokumentace a ohlášení dle platných předpisů a nařízení,
+    g. kontrolovat dodržování zákazu požívání alkoholických nápojů a jiných návykových látek před a
+         v průběhu směny. Kontrolovat dodržování zákazu kouření.
+3.5. Vedoucí zaměstnanci, kteří přímo řídí zaměstnance při výkonu práce, odpovídají za jejich
+       bezpečnost a jsou povinni:
+    a. seznámit se před zahájením práce se všemi riziky, dodržovat opatření k jejich eliminaci nebo
+         minimalizaci, aktivně se účastnit procesu soustavného snižování rizik, provádět a
+         dokumentovat kontrolní činnost BOZP,
+    b. prokazatelně seznámit zaměstnance před započetím výkonu práce se všemi mimořádnostmi
+         týkajícími se jeho práce, novými riziky včetně opatření na jejich eliminaci či minimalizaci a dále
+         se změnami majícími přímý vliv na BOZP.
+    c. při provozování dráhy nebo drážní dopravy dbát, aby zaměstnanci, žáci a studenti byli při
+         výcviku a zácviku na pracovišti označeni žlutou páskou s logem nad loktem levé ruky,
+    d. dovolit zahájení práce pouze tehdy, je-li zajištěna dostatečná ochrana zaměstnanců před
+         působením rizik. Přednostně uplatňovat princip kolektivní ochrany (např. zábradlí, odsávání,
+         odhlučnění,…). Nelze-li realizovat dostatečnou kolektivní ochranu, zajistit vybavení
+         zaměstnanců OOPP podle druhu a povahy vykonávané práce a připustit práci jen při
+         používání těchto OOPP ochraňujících zaměstnance před konkrétními riziky nebo škodlivinami,
+    e. zajistit včasné odstranění nedostatků a závad na pracovišti, které by mohly být příčinou vzniku
+         pracovního úrazu, případně přijmout potřebná opatření k odstranění nebezpečí,
+    f. zajistit po skončení práce uvedení pracoviště do takového stavu, aby nebyla ohrožena
+         bezpečnost osob, které mají přístup do daného místa.
+3.6. Všichni zaměstnanci jsou povinni podle svých možností dbát o svou vlastní bezpečnost, o své
+       zdraví i o bezpečnost a zdraví ostatních osob, kterých se bezprostředně dotýká jejich jednání.
+       Jsou povinni dodržovat předpisy, bezpečnostní předpisy, technické normy, technologické
+       postupy a sami se aktivně podílet na řešení problematiky BOZP v systému soustavného
+       zlepšování.
+3.7. Dále jsou zaměstnanci povinni:
+     a. používat předepsaným způsobem přidělené OOPP, ochranná zařízení (např. kryty) a pracovní
+         pomůcky a zároveň je udržovat v dobrém a funkčním stavu. OOPP s překročenou užívací
+         dobou se nesmí používat,
+     b. při zjištění nebezpečí, nedostatků a závad, které ohrožují bezpečnost a ochranu zdraví při
+         práci, případně mohou způsobit úraz, ohlásit tyto skutečnosti ihned svému nadřízenému,
+     c. hlásit nadřízenému nebo na určené místo v OS všechny incidenty a podněty ke zlepšování
+         v oblasti BOZP,
+     d. zdržovat se jen na přikázaných pracovištích a nevzdalovat se z tohoto pracoviště bez souhlasu
+         bezprostředně nadřízeného zaměstnance. Při přerušení práce smí pokračovat v práci pouze
+         se svolením zaměstnance, který přerušení práce nařídil nebo povolil,
+     e. účastnit se školení BOZP včetně ověřování znalostí a dovedností,
+     f. ohlásit bezodkladně vznik úrazu v zaměstnání nadřízenému zaměstnanci a to i v případě kdy
+         úraz nemá za následek pracovní neschopnost. Vždy vypovídat pravdivě a umožnit vyšetření
+         příčin a průběhu úrazového děje,
+     g. udržovat pořádek a čistotu na svém pracovišti. Udržovat svěřená technická zařízení, stroje,
+         nástroje, nářadí, pomůcky, atp. v řádném technickém stavu a při obsluze dodržovat návody
+         k obsluze, technologické postupy práce, ČSN a další bezpečnostní předpisy,
+     h. poskytnout nebo zprostředkovat první pomoc každé osobě, která je v nebezpečí smrti nebo
+         jeví známky závažné poruchy zdraví. Počínat si při tom tak, aby sám nebyl ohrožen na životě
+         (např. vypnutím přívodu elektrické energie),
+     i. pohybovat se tak, aby svým počínáním nebyl zachycen kolejovými vozidly, silničními vozidly
+         nebo stroji či jinými zařízeními. Silniční vozidla provozovat tak, aby nemohlo dojít ke kolizi
+         s drážními vozidly nebo jinou technikou, osobami či objekty.
+
+
+
+
+                                                    9
+                                                    Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+3.8.  V obvodu OS nepřístupných veřejnosti jsou zaměstnanci povinni při cestě do a ze zaměstnání
+      používat určených přístupových cest, se kterými byli prokazatelně seznámeni.
+3.9. Přístupové a služební cesty musí být stále udržovány v dobrém a bezpečném stavu.
+      Nebezpečná místa musí být označena výstražnými tabulkami a označena bezpečnostními
+      nátěry dle příslušných předpisů. Přechody přes koleje musí svou úpravou odpovídat technickým
+      standardům a musejí být bezpečné.
+3.10. Při obsluze a práci na elektrických zařízeních a při činnosti nebo pobytu v jejich blízkosti je nutno
+      dodržovat bezpečnostní předpisy pro činnosti v oblasti elektrotechniky, zejména pak příslušná
+      opatření, normy (např. ČSN), stanovené technologické postupy práce, atd. V případě činností
+      v blízkosti trakčního vedení musí zaměstnanci přímo nebo pracovními pomůckami dodržet
+      minimální vzdálenost 1,5 m od živých částí trakčního vedení.
+3.11. Je zakázáno používat takové způsoby práce nebo činnosti, při kterých by hrozilo nebezpečí
+      úrazu elektrickým proudem.
+3.12. Pracovat se souvislým proudem vody do vzdálenosti 30 m od elektrických zařízení v kolejišti pod
+      napětím je zakázáno. Je zakázáno stříkání vodou tam, kde je nebezpečí postřiku částí trakčního
+      vedení nebo jiného nadzemního vedení elektrické energie pod napětím (např. jeřábové dráhy).
+      Postřikování komunikací, nástupišť a podobných vodorovných ploch je dovoleno jen zařízením
+      se spodním vývodem trysek a to pouze tak, aby byly dodrženy příslušné normativní požadavky
+      ochran proti účinkům elektrické energie.
+3.13. Cizí osoby mohou vstupovat do vyhrazených prostor ČD jen se souhlasem ČD. Vstupovat na
+      provozovanou dopravní cestu z hlediska BOZP mohou jen osoby s platnou zdravotní a odbornou
+      způsobilostí, popř. se zajištěním bezpečného pohybu (např. činnost JPS, exkurze, apod.).
+      Podrobnosti řeší předpis ČD O2 a vnitřní opatření OS. Pro vstup na dopravní cestu jiného
+      provozovatele dráhy je nutná prokazatelná znalost a dodržování jeho bezpečnostních opatření
+      (např. předpis SŽDC Bp1).
+3.14. Činnost JPS včetně jejich subdodavatelů musí být v souladu s tímto předpisem a ostatními
+      bezpečnostními předpisy. JPS smějí pracovat v prostorách ČD pouze na základě písemně
+      sjednané smlouvy (objednávky) mezi oběma zúčastněnými stranami. Smlouva musí obsahovat
+      také ustanovení vztahující se řešení konkrétní problematiky BOZP a předávání rizik. Za tuto část
+      odpovídá zaměstnanec, který uzavírá příslušnou smlouvu (objednávku) dle platných opatření
+      ČD.
+3.15. Zaměstnanci OS na všech stupních řízení, kteří doprovázejí JPS, ale i ostatní osoby (např.
+      exkurze) do uzavřených prostor ČD jsou povinni předem prokazatelně informovat tyto osoby o
+      všech rizicích možného ohrožení života a zdraví a o povinnosti vždy dbát všech pokynů
+      doprovázejícího zaměstnance.
+3.16. Povinnosti zaměstnanců při manipulaci a jízdě s dopravními vozíky:
+    a. zaměstnanci musí dodržovat návody k obsluze jednotlivých typů provozovaných vozíků a jejich
+        přídavného zařízení, musí být s nimi prokazatelně seznámeni a musí být prokazatelně
+        ověřeno, zda zaměstnanec umí vozík skutečně bezpečně obsluhovat,
+    b. zaměstnanci musí spolehlivě zajistit vozíky proti ujetí a dále tak, aby nemohlo dojít k jejich
+        zachycení vozidly nebo jinými zařízeními (např. točnou). Urovnat a upravit přepravované zboží
+        nebo materiál na vozících tak, aby nemohlo dojít k jeho pádu, posunutí nebo sesunutí,
+    c. zaměstnanci musí zastavit vozík v době, kdy po kolejích bezprostředně s ním sousedících jede
+        vozidlo,
+    d. je zakázáno přejíždět s vozíky přes kolejové přechody nebo přejezdy před blížícími se vozidly,
+        přejíždět kolejiště vozíkem mimo určená místa,
+    e. při jízdě s vozíkem nebo jeho řízení nejíst, nepít a dodržovat zákaz kouření,
+    f. při jízdě s vozíkem nebo jeho řízení na veřejně přístupných místech nebo v kolejišti (mimo
+        DKV a CHV) používat výstražný oděv nebo výstražnou vestu,
+    g. provoz motorových vozíků musí být v OS upraven vnitřním předpisem, který rozvede zákonné
+        a normativní požadavky do místních podmínek OS.
+3.17. BOZP pro nehodové pomocné prostředky se zajistí tak, že vedoucí práce po příjezdu vyhodnotí
+      situaci, určí technologické postupy jednotlivých prací a jejich pořadí. S postupy prací a
+      bezpečnostními opatřeními seznámí všechny zúčastněné osoby. Vedoucí práce zajistí a dohlíží
+      na to, aby byly práce prováděné bezpečně s minimalizací rizik na zaměstnance.
+
+
+4.     Provozování drážní dopravy
+4.1.   Pro zajištění bezpečnosti zaměstnanců pracujících při provozování dráhy nebo drážní dopravy
+       musí být koleje a stezky podél nich a mezi nimi bez překážek, schůdné a řádně osvětlené. V
+       zimním období musí být z užívaných cest a přechodů odstraněn sníh a led, není-li to z
+
+
+                                                    10
+                                                   Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+      technických důvodů možné, musí být ošetřeny vhodným posypem. Tam, kde je provozovatel
+      dráhy jiný než ČD, se postupuje dle jeho předpisů, opatření a pokynů. Odlišnosti při provozování
+      specifických činností (např. provoz historických vozidel) musí být řešeny samostatnými
+      bezpečnostními opatřeními vyplývajícími z provedené analýzy rizik.
+4.2. Všechna zařízení, pracovní pomůcky, nářadí a ostatní materiál musí být uloženy vždy tak, aby
+      nezasahovaly do průjezdného průřezu a volného schůdného a manipulačního prostoru.
+4.3. Při průjezdu drážních vozidel musí zaměstnanec zaujmout takové postavení, při kterém nebude
+      ohrožena jeho bezpečnost.
+4.4. Práce a pohyb v kolejišti vyžaduje od všech zaměstnanců zvýšenou pozornost. Proto je
+      zakázáno:
+    a. vstupovat do kolejiště bez soustředění se na provoz, zdržovat se v kolejišti bez důvodu,
+        přecházet koleje bez rozhlédnutí se na obě strany; přecházet koleje je dovoleno pouze kolmo
+        k ose koleje,
+    b. stoupat a sedat na hlavu kolejnic, srdcovku, přídržnici, jazyk nebo opornici výhybky,
+        přestavníky výhybek, námezníky, tlumivky a další zařízení v kolejišti,
+    c. podlézat bezdůvodně drážní vozidla (dále jen vozidla), přecházet koleje za stojícími vozidly ve
+        vzdálenosti menší než 5 m, procházet mezerami mezi vozidly, je-li vzdálenost mezi nimi menší
+        než 10 m a není-li jistota, že vozidla nebudou uvedena do pohybu, přecházet těsně před nebo
+        za jedoucími vozidly; v prostoru údržby kolejových vozidel může vzdálenosti upravit provozní
+        řád příslušné OJ ČD.
+    d. přecházet po náraznících, šroubovkách nebo samočinných spřáhlech vozidel, stát nebo sedět
+        na nich,
+    e. sedat na obvodové stěny nákladních vozů, stupačky a schůdky vozidel, zavěšovat se na
+        vozidla v pohybu, zdržovat se na jakýchkoli místech vozidel mimo místa určená k jejich
+        doprovodu, stát na podélnících a obsluhovat z nich pořádací brzdu,
+    f. vstupovat do prostoru mezi rampu a jedoucí vozidla, zdržovat se v tomto prostoru, jakož i
+        zdržovat se tam, kde není dodržen volný schůdný a manipulační prostor nebo průjezdný
+        průřez,
+    g. naskakovat na vozidla a seskakovat z vozidel pokud jsou v pohybu. Naskakovat a seskakovat
+        z vozidel za pohybu je dovoleno jen zaměstnancům zúčastněným při posunu vyjma
+        strojvedoucího, ale jen tehdy, je-li rychlost vozidel taková, že jim lze stačit krokem. Za
+        nepříznivého počasí (déšť, sněžení, hustá mlha, námraza apod.) je naskakování a
+        seskakování za pohybu vozidel zakázáno,
+    h. stát za jízdy vozidel na boční stupačce mimo jednoho zaměstnance posunové čety, který z ní
+        nesmí obsluhovat pořádací brzdu,
+    i. vystupovat, sestupovat, stát na brzdové plošině, schůdcích, boční stupačce vozu za pohybu i
+        za klidu, pokud není možno držet se pevně madla vozu,
+    j. tlačit nebo táhnout vozidla za nárazníky, případně šroubovky,
+    k. vkládat zarážku mezi nápravy vozidel, není-li určeno jiným bezpečnostním předpisem jinak.
+        Zarážku k zmírnění rychlosti vozidel nebo jejich zastavení je nutno položit na kolejnici tak včas
+        před jedoucím vozidlem, aby mohla být správně položena bez ohrožení bezpečnosti
+        zaměstnance. Přitom je nutno přihlížet ke sklonu koleje, počasí, rychlosti, hmotnosti a počtu
+        vozidel, která se mají zastavit, a při pokládání zarážky musí zaměstnanec být vždy čelem k
+        přijíždějícímu vozidlu. Po položení zarážky musí zaměstnanec ustoupit stranou a směrem k
+        blížícímu se vozidlu, aby nebyl zraněn při případném odskočení zarážky. Je rovněž zakázáno
+        odstraňovat zarážku z koleje těsně před jedoucím vozidlem,
+    l. bezdůvodně se dotýkat, stoupat nebo sedat na elektrická zařízení v kolejišti, nebo na ně
+        pokládat jakékoliv předměty,
+    m. odevzdávat a přejímat listiny a jiné předměty za jízdy vozidel s výjimkou použití speciálních
+        zařízení pro tento účel zřízených,
+    n. odbrzďovat vozidla táhlem odbrzďovače, jsou-li v pohybu,
+    o. čistit vozidla nebo upravovat náklady na vozidlech za pohybu. Opravovat vozidla za chodu bez
+        jejich zabezpečení proti samovolnému uvedení do pohybu,
+    p. vystupovat na střechy vozidel a jejich náklady na kolejích s trakčním vedením, není-li toto
+        vedení vypnuto a zajištěno,
+    q. vystupovat na vozidla výše jak 1,5 m od země bez použití k tomu určených pevných součástí
+        vozidel nebo žebříků odpovídajících bezpečnostním požadavkům.
+
+
+
+
+                                                   11
+                                                  Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+4.5.   Při posunu, obsluze strojů a zařízení v kolejišti musí zaměstnanci mít oděv dostatečně upnutý,
+       aby nemohl být příčinou zachycení vozidly, nákladem, apod. Obdobně musí být ochráněny i
+       vlasy.
+4.6. Všichni zaměstnanci při pohybu v kolejišti, kde mohou být ohroženi pohybujícími se vozidly
+       (mimo prostor přístupných veřejnosti), musí mít oděv, vestu nebo jiné oblečení přidělené
+       zaměstnavatelem výstražné barvy nebo opatřené prvky s vysokou viditelností. Za tímto účelem
+       všechny osoby pohybující se v kolejišti musí být nejpozději do 31. 12. 2015 těmito OOPP
+       dovybaveny. Jsou-li práce prováděny dodavatelsky, pak se ustanovení o používání výstražných
+       oděvů a vest týká pouze prací na a v blízkosti provozovaných kolejí. V kolejišti OJ ČD řeší
+       podrobnosti příslušné opatření.
+4.7. Podlézat vozidla v prostoru nárazníků je povoleno pouze za účelem svěšení nebo rozvěšení
+       vozidel.
+4.8. Při připojení vozidel na externí zdroj energie je nutno zajistit:
+     a. dostatečné a bezpečné krytí vozidla podle platných předpisů, za krytí vozidla odpovídá ten
+         zaměstnanec, který připojuje vozidla k externímu zdroji energie. Za jeho odstranění odpovídá
+         zaměstnanec, který vozidla od externího zdroje energie odpojuje,
+     b. pokud není odpojen externí zdroj energie, je jakákoliv manipulace s připojovacími i
+         propojovacími vedeními (např. elektrickými topnými spojkami) zakázána,
+     c. dodržovat další platné předpisy, návody a opatření, která řeší provozování konkrétních zařízení
+Povinnosti zaměstnanců řídících posun a vedoucích posunových čet:
+    a. seznámit všechny zúčastněné na posunu s plánem a postupem práce, zajistit soulad jejich
+         činností,
+    b. vyžadovat používání předepsaných OOPP u zaměstnanců jim podřízených. Nepovolit zahájení
+         posunu, pokud tyto nejsou užívány,
+    c. před zahájením posunu se přesvědčit, zda zaměstnanci pracující v provozované dopravní
+         cestě byli zpraveni o zamýšleném pohybu vozidel. Vyrozumět a vyzvat všechny osoby, které
+         jsou zúčastněny při nakládce nebo vykládce, k opuštění vozidel a vzdálení se od kolejí,
+    d. zajistit urychlené odstranění náhlé překážky, která by mohla ohrozit bezpečnost zaměstnanců
+         zúčastněných na posunu. Nelze-li tuto náhlou překážku odstranit, okamžitě zastavit posun a
+         vyrozumět všechny zaměstnance a vedoucího pracoviště.
+         Povinnosti uvedené v bodech a) a c) jsou platné pro vedoucího posunové čety, jen v případě,
+         že ho jimi zaměstnanec řídící posun pověřil. Povinnost v bodu b) se netýká strojvedoucích.
+4.9. Povinnosti zaměstnanců provádějících posun:
+     a. zjišťovat pohledem, zda jsou v pořádku stupátka a madla vozidel, nejsou-li u vozidel nebo
+         jejich nákladů přečnívající a vyčnívající části,
+     b. pohledem se přesvědčit o dobrém stavu tahadlového a narážecího ústrojí vozidel, tyčí k
+         vyvěšování a vyzkoušet si upotřebitelnost ručních brzd,
+     c. používat zarážky, kovové podložky, sochory, případně jiná zařízení určená k pracovní činnosti
+         nepoškozená a neopotřebovaná, plně funkční a opatřená případným bezpečnostním nátěrem,
+     d. klást zarážky zásadně na kolejnici vzdálenější od rampy,
+     e. dbát zvýšené opatrnosti při vyvěšování tyčí v místech, kde jsou umístěny sloupy, stožáry,
+         výhybky a jiné překážky,
+     f. být zvlášť opatrní a ostražití při posunu s vozidly, která jsou naložena nebezpečnými věcmi dle
+         RID a poloprázdnými cisternami nebo jednostranně loženými, poškozenými či opravovanými
+         vozidly.
+4.10. Zaměstnanci provádějící posun nesmějí:
+     a. rozvěšovat vozidla tyčí, pohybují-li se tak rychle, že jim nelze stačit krokem,
+     b. rozvěšovat vozidla nohou nebo rukou při posunu trhnutím,
+     c. rozvěšovat vozidla při spojeném vzduchovém a jiném potrubí, při spojených kabelech
+         elektrického topení a ovládání vozidel, při spuštěných přechodových můstcích apod.,
+     d. stát při doprovodu hnacích vozidel na schůdkách vedoucích přímo na stanoviště
+         strojvedoucího. Nelze-li zaujmout místo na jiné stupačce na straně strojvedoucího, musí být na
+         jeho stanovišti,
+     e. stát na stupátkách vozidel na straně rampy a pevných staveb, zasahujících do průjezdného
+         průřezu při jízdě kolem nich. Stát rozkročeni na stupačkách dvou sousedních vozidel, nebo
+         stát jednou nohou na stupačce a druhou se opírat o jinou část doprovázeného vozidla,
+     f. zdržovat se na nákladech a střechách vozidel,
+     g. pobývat na ložné ploše vozidel s částečně vyloženým nebo naloženým nákladem.
+4.11. Svěšování a rozvěšování vozidel:
+     a. vozidla se smějí ručně svěšovat a rozvěšovat jen když se nepohybují (výjimku tvoří posun
+         trhnutím a vyvěšování vozidel tyčí),
+
+
+
+                                                  12
+                                                  Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+     b. vstup před nebo mezi pohybující se vozidla za účelem jejich svěšení nebo rozvěšení je přísně
+        zakázán,
+     c. rozvěšovat vozidla za pohybu je dovoleno jen pomocí tyče při posunu na svážném pahrbku, při
+        odrazu a při posunu trhnutím,
+     d. při svěšování a rozvěšování vozidel se musí mezi vozidla vstupovat a z prostoru mezi vozidly
+        vystupovat vždy na straně předávání návěstí. To se nevztahuje na případy, kdy je pro řízení
+        posunu používáno rádiové zařízení, nebo kdy je na straně předávání návěstí překážka (např.
+        rampa, stavba, atd.) zasahující do průjezdného průřezu,
+     e. při najíždění na stojící vozidla musí zaměstnanec řídící posun nebo posunovač na straně
+        předávání návěstí vždy pozorně sledovat, zda svěšující nebo rozvěšující zaměstnanec
+        nevstoupil do koleje dříve, než vozidla zastavila. Stejnou povinnost má strojvedoucí, vidí-li ze
+        svého stanoviště na místo, kde se vozidla svěšují nebo rozvěšují. Zjistí-li tento nesprávný a
+        nebezpečný postup zaměstnanec zúčastněný na posunu, je povinen dát ihned návěst "Stůj,
+        zastavte všemi prostředky". Zjistí-li tento nesprávný a nebezpečný postup strojvedoucí, je
+        povinen učinit ihned opatření k zastavení posunujícího dílu. Další posun se smí uskutečnit až
+        po vystoupení zaměstnance z koleje,
+     f. po vstupu mezi stojící vozidla smí být dána návěst "Stlačit" jen tehdy, dotýkají-li se jejich
+        nárazníky,
+     g. před svěšením a rozvěšením vozidel pro přepravu cestujících se musí zaměstnanec vždy
+        přesvědčit o řádném zajištění jejich přechodových můstků, měchů a ochranných zábradlí. U
+        vozidel pro nákladní přepravu se musí zaměstnanec přesvědčit o zajištění čelních sklopných
+        stěn.
+     h. při vstupu mezi vozidla nestoupat na mokré nebo namrzlé pražce
+4.12. Ruční posun vozidel smí řídit pouze odborně způsobilý zaměstnanec:
+     a. vozidla musí být tlačena jen vně koleje, a to pouze v místech, kde to umožňují technické a
+        bezpečnostní podmínky,
+     b. při ručním posunu s vozidly bez brzd je nutno mít položeny zarážky v místě předpokládaného
+        zastavení vozidel již před zahájením posunu,
+     c. pro případné použití ocelového sochoru nesmí dojít k poškození jízdní plochy kol a musí být
+        zajištěno bezpečné zastavení vozidel (zarážka, obsazená funkční brzda, apod.)
+4.13. Posun vozidel vrátkem smí řídit pouze odborně způsobilý zaměstnanec:
+     a. při tomto posunu je zakázáno zdržovat se v blízkosti lana, otáčejících se lanových kladek a
+        navíjecích kotoučů, překračovat, podlézat nebo přejíždět tažné lano,
+     b. než se uvede vozidlo do pohybu, musí se v místě předpokládaného zastavení umístit zarážka,
+     c. obsluhující zaměstnanec při manipulaci s vrátkem musí zajistit dodržování opatření uvedená v
+        návodu pro provoz zařízení. Vrátek a tažné lano musí splňovat podmínky stanovené výrobcem
+        a příslušnými bezpečnostními předpisy,
+     d. po ukončení práce na pracovišti se samostatným vrátkem musí být tažné lano navinuto zpět
+        na buben vrátku a ovládací zařízení uzamčeno.
+4.14. Posun silničními vozidly smí řídit pouze odborně způsobilý zaměstnanec:
+     a. vozidla smí být tažena jen řetězem nebo lanem dlouhým alespoň 3 metry,
+     b. lano nebo řetěz se smí upevnit na silniční vozidlo jen na místo k tomu určené,
+     c. řidič silničního vozidla nesmí být současně zaměstnancem oprávněným řídit posun.
+4.15. Zaměstnanci nesmějí před přijíždějícími vozidly vstupovat do sousední koleje, zdržovat se v ní
+       nebo tuto kolej používat pro další chůzi.
+4.16. Zvýšené opatrnosti musí zaměstnanci dbát při zhoršených povětrnostních podmínkách, kdy je
+       snížena slyšitelnost a viditelnost.
+4.17. Zaměstnanci se nesmí věnovat při pohybu v kolejišti jakýmkoliv činnostem odvádějících
+       pozornost od soustředění na provoz drážních vozidel (např. poslouchání mp3, apod.).
+4.18. Jízda na kole, motocyklu či na jiném dopravním prostředku po trati a v kolejišti je zakázána.
+4.19. Pohyb v místech kolejiště, kde není dodržen volný schůdný a manipulační prostor, v tunelech a
+       na mostech, jakož i v místech se zvýšeným nebezpečím (např. nepřehledné zářezy,
+       protihlukové stěny, pevné stavby a zařízení dráhy) a dalších místech, kde zaměstnanci nemají
+       možnost okamžitě ustoupit do bezpečné vzdálenosti od jedoucích vozidel, je zakázán, není-li
+       opatřením provozovatele dráhy stanoveno jinak. Odpovědnost za vyhledání a označení těchto
+       míst v OS, která je provozovatelem dráhy, má vedoucí příslušné OS ve své působnosti. V rámci
+       dráhy jednotlivých OS musí být k dispozici seznam takovýchto míst a musí s ním být
+       prokazatelně seznámeni všichni v úvahu přicházející zaměstnanci.
+
+
+
+
+                                                  13
+                                                   Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+4.20. Na elektrizované trati je zakázáno vystupovat na střechy vozidel, na vyvýšené brzdové plošiny,
+       na kapoty hnacích vozidel, na nádržkové vozy, na náklady vozů za jakýmkoli účelem (oprav,
+       úpravy, apod.) bez vypnutí a zajištění bezpečného stavu trakčního vedení.
+4.21. Dlouhé vodivé předměty (např. kovové žebříky apod.) se nesmějí nosit vztyčené proti trakčnímu
+       vedení. Rovněž se nesmějí používat takové předměty a takové způsoby práce nebo činnosti, při
+       kterých by hrozilo nebezpečí úrazu elektrickým proudem z troleje nebo jiných zdrojů elektrické
+       energie. U parních lokomotiv je zakázáno stříkání uhlí nebo manipulace s hrably a ohňovými
+       háky mimo budku lokomotivy včetně přihrabování uhlí na kolejích pod trolejí nebo v její blízkosti.
+4.22. Povinnost zaměstnanců pracujících v kolejišti:
+     a. nosit ve službě přidělenou pracovní obuv (OOPP, akční oděv) nebo obuv ke stejnokroji. Osoby
+         bez osobního přídělu obuvi použijí vhodnou uzavřenou a pevnou obuv s podpatkem do 3cm
+         (ne sandál s otevřenou patou a špičkou nebo pantofel),
+     b. zaujmout takové postavení při jízdách vozidel, aby nebyli zachyceni uvolněným nákladem,
+         kladkami, řetězy, provazy nebo otevřenými dveřmi vozidel apod.,
+     c. postavit se po přestavení ručně stavěných výhybek nebo výkolejek čelem k předpokládané
+         jízdě vozidel.
+4.23. Povinnosti obsluhy vlaku:
+     a. zaměstnanci obsluhy vlaku nesmí prodlévat za jízdy u otevřených dveří, v otevřených dveřích
+         služebního vozu (oddílu) určených pro nakládku a vykládku nebo na schůdkách, naskakovat a
+         seskakovat z jedoucího vlaku nebo posunujícího dílu. Musí vyčkat, až vlak/posunující díl
+         zastaví, potom otevřít dveře a vystoupit,
+     b. zaměstnanci obsluhy vlaku nesmí při zastavení vlaku na širé trati dvoukolejné nebo
+         vícekolejné vstupovat do průjezdného průřezu sousední koleje (sousedních kolejí), aniž by se
+         rozhlédli na obě strany; je-li nutné tam vstoupit z provozních důvodů na zjištění závady apod.,
+         zdrží se tam co nejkratší dobu a stále pozorují trať z obou stran,
+     c. zaměstnanci obsluhy vlaku smějí dávat návěsti při odjezdu vlaku, až když je ukončen nástup a
+         výstup cestujících. Zavírat dveře osobních vozů musí vždy tak, aby nedošlo k ohrožení
+         cestujících,
+     d. zaměstnanci obsluhy vlaku musí zajistit přepravované zboží tak, aby jeho případným
+         uvolněním za jízdy vozidla, resp. vlaku nedošlo k úrazu nebo poškození zboží,
+     e. vedoucí obsluhy vlaku musí kontrolovat dodržování bezpečnostních předpisů a používání
+         OOPP u svých podřízených zaměstnanců.
+4.24. Povinnosti osob a zaměstnanců v obvodu OJ ČD:
+     a. při chůzi do a z depa kolejových vozidel smějí zaměstnanci používat pouze určené přístupové
+         cesty. Chůze (průchod) přes točny a přesuvny je zakázána. Stejně tak je zakázána chůze
+         mimo vyhrazené přechody,
+     b. vedou-li cesty v blízkosti kolejí, je nutno při chůzi neustále sledovat, zda se v některém směru
+         nepohybují vozidla. Montážní a prohlídkové jámy je zakázáno překračovat nebo přeskakovat,
+  c. jízda silničních vozidel je povolena pouze po vyhrazených komunikacích. Maximální rychlost
+     nesmí být vyšší než 20 km/hod. Příslušná OJ ČD může maximální rychlost snížit podle místních
+     poměrů, rychlost kolejových vozidel v obvodu OJ ČD určuje platný Provozní řád. Rychlost musí
+     být zvolena tak, aby byla vždy zajištěna bezpečnost.
+4.25. Posun v OJ ČD:
+     a. posun se řídí ustanovením o posunu čl. 4. 9. – 4.15. tohoto předpisu,
+     b. před zahájením jakéhokoliv pohybu s vozidlem je nutno se přesvědčit, zda se s vozidlem může
+         pohybovat a zda na něm nepracují zaměstnanci,
+     c. při použití ocelového sochoru pro zamýšlený pohyb vozidlem je nutno dbát na řádný stav
+         sochoru. Kolej pod sochorem musí být suchá, zbavená mastných nečistot. Je zakázáno
+         podkládat sochory kameny nebo jinými předměty, kromě upravených podložek. Zastavení
+         vozidla smí být provedeno pouze pomocí ruční brzdy nebo zarážky,
+     d. je zakázáno stát na stupačkách a schůdcích vozidel při vjíždění do hal a vyjíždění z nich.
+4.26. Bezpečný výkon práce strojvedoucích:
+     a. za jízdy je zakázáno ponechávat u hnacích vozidel otevřené dveře do kabiny nebo do
+         strojovny,
+     b. je nutno stále udržovat v čistotě stupátka a madla na hnacích vozidlech Není dovoleno
+         upevňovat na stupátka žádné textilie. Je zakázáno ponechávat čistící bavlnu a jiné textilie na
+         hnacím vozidle v jiných, než stanovených prostorách. Použité textilie se smí odkládat pouze do
+         určených nádob,
+     c. pro vystupování nebo sestupování z vozidel používat stanoveného postupu (přidržovat se
+         madel, dveře zavírat pouze klikou, při sestupování sledovat místo došlapu, atd.).
+     d. vstup do uzavřených částí strojoven elektrických hnacích vozidel pod napětím je zakázán,
+
+
+
+                                                   14
+                                                   Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+     e. při čištění hnacích vozidel se musí používat pomůcky a prostředky v dobrém technickém
+        stavu,
+     b. na kolejích pod trakčním vedením je zakázán výstup na kapoty a střechy hnacích vozidel. Při
+        čištění nebo údržbě hnacích vozidel se nesmí vystupovat na žebříky výš, než je ochoz nebo
+        podlaha kabiny hnacího vozidla. Je zakázáno při čištění používat proudu vody z hadice
+        připojené na zdroj vody nebo kartáčů, košťat a jiných předmětů, jimiž by mohlo dojít k přiblížení
+        k trakčnímu vedení na vzdálenost menší než 1,5 m. U parních lokomotiv je zakázáno stříkání
+        uhlí nebo manipulace s hrably a ohňovými háky mimo budku lokomotivy včetně přihrabování
+        uhlí.
+4.27. Točny a přesuvny:
+     a. točny a přesuvny musí být trvale udržovány v čistotě. Mastné zbytky, sníh a led je nutno
+        průběžně odstraňovat a při náledí kluzká místa krýt vhodným posypovým materiálem. Zábradlí
+        točen a přesuven musí být trvale v pořádku,
+     b. obsluhu těchto zařízení smí provádět pouze osoby k tomu určené, řádně proškolené a
+        přezkoušené. Mimo určené obsluhy nesmí na točnách a přesuvnách prodlévat jiné osoby. Je
+        zakázáno naskakovat a seskakovat na pohybující se točny a přesuvny, smí být přejížděny
+        pouze kolejovými vozidly.
+4.28. Hříže:
+     a. hříže smějí obsluhovat pouze zaměstnanci, kteří jsou s obsluhou řádně a prokazatelně
+        seznámeni a mající platné oprávnění. Při práci tito zaměstnanci odpovídají za bezpečnost
+        svých spoluzaměstnanců, pracujících na hřížích,
+     b. šachta a zařízení hříže musí být udržována v naprosté čistotě. Hřížová šachta musí být vždy
+        zakryta, zajištěna ochranným zábradlím nebo řetízkovým ohrazením a natřena výstražným
+        nátěrem,
+     c. zdržovat se na hříži, když se pohybuje, je dovoleno pouze při konečné montáži. Prodlévat v
+        šachetním prostoru po dobu používání hříže je zakázáno. Hlavní vypínač hříže, která je mimo
+        provoz, musí být ve vypnuté poloze uzamčen.
+     d. Pokud je mezera mezi stolem hříže a šachtou větší než 0,25m, musí být zaměstnanci zajištěni
+        proti pádu do volné hloubky.
+4.29. Čištění, opravy a údržba železničních kolejových vozidel a plnění vodojemů:
+     a. osoby provádějící opravy, údržbu nebo čištění musí být před započetím práce informováni o
+        zvláštnostech, které mohou ovlivnit jejich práci,
+     b. před zahájením práce je nutno zajistit bezpečnost zaměstnanců krytím vozidel (např.
+        přenosnou návěstí „STŮJ“). Po ukončení prací opět zruší krytí vozidel. Krytí zajistí i odstraní
+        ten, kdo čištění vozidel realizuje. Čištění vozidel při posunu je zakázáno,
+     c. při práci s chemickými čisticími prostředky a připravenými roztoky musí být dodržován
+        technologický postup práce uvedený v bezpečnostním listu či v dalších opatřeních,
+     d. při ručním mytí skříní a oken je zakázáno oplachovat vozy proudem vody na kolejích
+        s trakčním vedením pod napětím a při zapojeném elektrickém předtápění. U vozů, majících ve
+        vnitřním prostoru elektrické topné články, se mohou sedadla a podlahy při zapnutém
+        elektrickém předtápění jen vytírat vlhkým hadrem, a to tak, aby nedocházelo k rozlévání vody
+        ve voze. Pro strojní mytí musí být zpracován TPP, který řeší i bezpečnost práce.
+     e. vodojemy osobních vozů při elektrickém předtápění vozidel nebo na kolejích s trakčním
+        vedením pod napětím se smějí plnit jen za podmínek stanovených předpisem ČD V71.
+     f. čištění výhledových oken kabin strojvedoucího se provádí dle zásad BOZP a na základě
+        stanoveného bezpečného pracovního postupu.
+4.30. Pokud budou práce prováděny na vozidle pod trakčním vedením, nebo je ohrožena bezpečnost
+       osob úrazem elektrickým proudem, je povinností zaměstnance vyžádat si zajištění
+       beznapěťového stavu, případně další opatření podle místního pracovního a bezpečnostního
+       předpisu od odpovědných zaměstnanců příslušné OJ ČD. Práce, u nichž je nutno vystoupit na
+       kapotu či střechu lokomotivy, jsou pod trolejí pod napětím zakázány.
+
+5.     Provozování dráhy
+5.1.   Každá osoba zajišťující provozování, opravy, údržbu nebo kontrolu dráhy se musí pohybovat
+       v kolejišti jen s vědomím dopravních zaměstnanců a musí s nimi mít předem dohodnutý
+       spolehlivý a bezpečný způsob dorozumívání. Podrobnosti stanoví prokazatelně zpracované
+       technologické postupy prací, se kterými musí být všichni zúčastnění prokazatelně seznámeni.
+5.2.   Všechny neodstranitelné překážky v kolejišti nebo v jeho blízkosti, které zasahují do volného
+       schůdného a manipulačního prostoru kolejí – např. stožáry, sloupy, nosné konstrukce, překážky
+
+
+                                                   15
+                                                 Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+       přesahující úroveň kolejiště atd. musí být vzhledem k ohrožení bezpečnosti osob označeny
+       podle povahy překážky výstražnou bezpečnostní značkou nebo bezpečnostním výstražným
+       nátěrem v souladu s platnými bezpečnostními předpisy.
+5.3. Práce osamělého zaměstnance je dovolena pouze tehdy, je-li zajištěna jeho bezpečnost
+       v kolejišti. Osamělý zaměstnanec je takový, který pracuje sám na zařízení v kolejišti. Pracovní
+       skupina (dva a více zaměstnanců) musí mít vždy před zahájením prací určeného vedoucího
+       práce. Vedoucí práce je osobně odpovědný za zajištění bezpečnosti všech osob jeho skupiny.
+       Dva nebo více osamělých zaměstnanců, kteří pracují samostatně na jednom společném
+       pracovišti, netvoří pracovní skupinu ve smyslu tohoto předpisu.
+5.4. Bezpečnost zaměstnanců pracovní skupiny zajistí vedoucí práce osobně nebo prostřednictvím
+       určeného střežícího zaměstnance (bezpečnostní hlídky). Před započetím práce určí vždy
+       vedoucí práce stanoviště bezpečnostní hlídky, směr a místo vystoupení zaměstnanců z koleje,
+       způsob dorozumívání. Je-li určena bezpečnostní hlídka, zaujme takové místo, ze kterého může
+       dostatečně včas varovat všechny zúčastněné osoby v kolejišti, aby bylo zajištěno bezpečné
+       opuštění kolejiště a odstranění všech překážek v kolejišti bránících bezpečnému pohybu vozidel.
+       Bezpečnostní hlídka musí mít vždy se skupinou osob v kolejišti zajištěn spolehlivý způsob
+       dorozumívání.
+5.5. Osamělý zaměstnanec či vedoucí práce jsou povinni předem oznámit druh činnosti a konkrétní
+       místo práce dopravnímu zaměstnanci (dozorci depa, výpravčímu, signalistovi, apod.), v jehož
+       obvodu budou vykonávat práci nebo činnost. Změny pracovních míst je osamělý zaměstnanec
+       nebo vedoucí práce povinen průběžně oznamovat dopravnímu zaměstnanci. Způsob
+       vyrozumívání o pohybu vozidel, kterými by mohli být osamělý zaměstnanec nebo pracovní
+       skupina bezprostředně ohroženi, určí dopravní zaměstnanec. Při provozování vleček a dráhy
+       v areálu příslušné OJ ČD se upamatovávací pomůcka pro dopravní zaměstnance nemusí
+       používat, není-li technologickým postupem nebo provozním (vlečkovým) řádem stanoveno jinak.
+5.6. Dopravní zaměstnanec ve směně může čistit a mazat výhybky a další zařízení v kolejišti (včetně
+       odstraňování sněhu, ledu, zeminy, atp.) z provozních důvodů ve svém obvodu sám, se
+       souhlasem a za podmínek, které stanoví vedoucí směny nebo pověřený zaměstnanec ČD. Čas
+       souhlasu k provedení prací, podmínky a ukončení práce zapíší jak dopravní zaměstnanec, tak i
+       vedoucí směny nebo pověřený zaměstnanec ČD do určeného zápisníku.
+5.7. Z důvodů zvýšené bezpečnosti železniční dopravy a bezpečnosti zaměstnanců může být
+       pracovní místo nebo vozidla, která jsou používána na pracovním místě, vybavena zábleskovým
+       světlem nebo cyklicky rozsvěcovanými zábleskovými světly, viditelnými z obou směrů jízdy.
+       Světla se umísťují dle pravidel předpisu SŽDC D1.
+5.8. Zařízení automatického varování (ZAV) nahrazuje funkci bezpečnostní hlídky a předsunuté
+       bezpečnostní hlídky. Uvádí se do činnosti jízdou vozidel samočinně. Správná činnost zařízení
+       musí být pod trvalým dozorem určeného zaměstnance, prokazatelně seznámeného s funkcí
+       zařízení. V případě nesprávné činnosti zařízení je tento zaměstnanec povinen bezodkladně
+       vyrozumět vedoucího práce. Vedoucí práce je povinen přerušit probíhající práce. Pokračovat
+       v práci je povoleno po postavení bezpečnostních hlídek v dostatečném počtu. Zařízení
+       automatického varování musí být schváleno pro použití na ČD a musí být provozováno podle
+       návodu k obsluze.
+5.9. Za včasné a řádné odklizení nářadí z koleje před jedoucím vozidlem odpovídá nejen vedoucí
+       práce, ale i ten zaměstnanec (osoba), který s nářadím pracoval.
+5.10. Zvýšené opatrnosti musí zaměstnanci dbát při zhoršených povětrnostních podmínkách, kdy je
+       snížena slyšitelnost a viditelnost.
+5.11. Práce za snížené viditelnosti v kolejích a jejich blízkosti se mohou provádět jen z důvodu nutné
+       opravy, odstranění překážky nebo nesjízdného místa, ale předem musí být učiněna tato
+       opatření:
+     a. o práci musí vedoucí práce nebo osamělý zaměstnanec vždy zpravit dopravního zaměstnance
+         (vedoucího směny, pověřeného zaměstnance ČD) a dohodnout způsob dorozumívání,
+     b. vedoucí práce je povinen postavit z obou stran pracovního místa bezpečnostní hlídky, není-li
+         jiným způsobem zajištěna bezpečnost,
+     c. za tmy musí vedoucí práce zajistit osvětlení pracovního místa,
+     d. nemůže-li osamělý zaměstnanec splnit podmínky podle písmena a.) tohoto článku, nesmí
+         pracovat, pokud si nezajistí výluku koleje.
+5.12. Při chůzi po jednokolejné trati se musí používat zásadně stezky vedle koleje, na dvoukolejné
+       trati je nutno jít po stezce podél koleje ve směru proti předpokládané jízdě vozidel, na
+       vícekolejné trati vždy po stezce na vnější straně koleje. Zaměstnanec musí vždy předpokládat
+       jízdu vozidel. Přijíždějící vozidla očekává a sleduje v takové vzdálenosti, aby nebyla ohrožena
+
+
+
+                                                 16
+                                                 Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+       jeho bezpečnost. Stezky podél traťových kolejí musí být udržované, schůdné, aby byla zajištěna
+       bezpečná chůze zaměstnanců, případně jejich bezpečné vystoupení před přijíždějícími vozidly.
+5.13. Chůze přímo v koleji je dovolena pouze zaměstnancům vykonávajícím kontrolu stavu kolejí,
+       zařízení v kolejišti a je-li tato kontrola součástí jejich služebních povinností a dále
+       zaměstnancům při činnostech, které přímo souvisí s jejich pracovním zařazením.
+5.14. Jízda na kole, motocyklu či na jiném dopravním prostředku po trati a v kolejišti je zakázána.
+5.15. Při záchranných pracích, hrozí-li nebezpečí působení elektrické energie, musí být zajištěn
+       beznapěťový stav.
+5.16. Ubytovací, dílenské a podobné vozy se odstavují na elektrizovaných tratích na koleje bez
+       trakčního vedení. Je-li nutno odstavit tyto vozy na koleje s trakčním vedením, musí být o tom
+       všichni zaměstnanci vyrozuměni a poučeni svým nadřízeným zaměstnancem. Tohoto
+       zaměstnance vyrozumí a poučí vedoucí směny nebo pověřený zaměstnanec ČD. Používání
+       antén všech druhů je za jízdy, jakož i v době odstavení na kolejišti s trakčním vedením
+       zakázáno, výjimkou může být speciální anténa pro použití na elektrizovaných tratích.
+5.17. Povinnosti zaměstnanců při čištění a mazání výhybek a údržbě osvětlovacích těles:
+     a. upozornit zaměstnance obsluhujícího ústředně stavěné výhybky o zamýšlené práci na
+         výhybkách a počítat s možným přestavením výhybky. Vložit před čistěním ústředně stavěných
+         výhybek mezi odlehlý jazyk a opornici klín, aby náhlým přestavěním výhybky nebyli zraněni,
+     b. postupovat při manipulaci s osvětlovacími tělesy v kolejišti se zvýšenou opatrností s ohledem
+         na charakter osvětlovacího tělesa.
+5.18. Práce na zabezpečovacích zařízeních lze provádět za těchto podmínek:
+     a. stanovit TPP a všichni se s ním před započetí prací seznámí,
+     b. před výstupem na stožár je nutno prohlédnout patu návěstidla a poklepem zjistit, zda není
+         zrezivělé či jinak narušené. Příčle stožárového žebříku nesmí být kluzké, zaměstnanec musí
+         být způsobilý pro práce ve výškách. Je povinen používat OOPP pro zajištění proti pádu,
+         kterými musí být vybaven.,
+     c. tam, kde na návěstních lávkách a krakorcích jsou návěstní svítilny umístěny tak, že hlavice a
+         optická soustava je přístupná z lávky opatřené zábradlím, může čistění optik, nátěry hlavic,
+         výměnu žárovek a potřebná měření provádět zaměstnanec z lávky. Vyklání-li se však při této
+         činnosti, musí být zajištěn prostředkem osobního zajištění,
+     d. při výměně návěstních žárovek se musí používat vhodných rukavic,
+     e. o pracích, při kterých by pohyb drátových táhel mohl způsobit zranění, musí být vyrozuměn
+         zaměstnanec, který toto zařízení obsluhuje o tomto nebezpečí. Po dobu práce na zařízení
+         musí být drátovod zajištěn proti pohybu. V žádném případě si nesmí zaměstnanec uvázat drát
+         k tělu,
+     f. při přezkušování chodu přestavníků, závorníků, výměn a výkolejek musí zaměstnanec dbát,
+         aby nebyl zraněn jejich pohyblivými částmi. Při přezkušování elektromotorických přestavníků a
+         závorníků se zaměstnanec nesmí dotýkat živých částí elektrického vedení, aby nebyl zasažen
+         elektrickým proudem. Provádí-li se tyto práce za provozu, nesmí být zahájeny bez vědomí
+         zaměstnance, který toto zařízení obsluhuje,
+     g. provádí-li zaměstnanec vnitřní prohlídku nebo opravu přestavníku, závorníku nebo výkolejky,
+         musí provést jejich bezpečné zapevnění nebo zajištění proti nežádoucí obsluze.
+5.19. Výkopové a zemní práce v kolejišti:
+     a. vedoucí práce musí být ve stálém styku s dopravním zaměstnancem, který dává souhlas k
+         zahájení prací a k jejich ukončení. Před zahájením výkopových a jiných zemních prací v
+         kolejišti musí vedoucí práce oznámit všem zúčastněným zaměstnancům a osobám postup
+         práce a sjednat s nimi potřebná bezpečnostní opatření,
+     b. používat vhodné OOPP zejména výstražné oděvy nebo vesty,
+     c. před započetím práce na kabelech v oblasti nebezpečných vlivů vedení elektrické energie
+         úrovně vysokého napětí a výše (včetně trakčního vedení) musí se pancéřování a kovový plášť
+         kabelu uzemnit a v případě dělení kabelu musí být provedeno předem propojení obou částí k
+         zachování kontinuity pláště a pancéřování kabelu.
+
+
+
+
+                                                 17
+                                                        Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+6.         Závěrečná ustanovení
+6.1.       Účinnost tohoto předpisu je od 1. 11. 2014
+6.2.       Dnem účinnosti tohoto předpisu se ruší v plném rozsahu:
+           ČD Op 16 Předpis o bezpečnosti a ochraně zdraví při práci č. j. 59 875/2005-O10,
+           výnos č. 1 k Předpisu SŽDC (ČD) Op16, účinný od 1. června 2010,
+           všechny k výše uvedeným dokumentům vztažná nařízení, opatření, vysvětlivky a výklady
+            vydané do data počátku účinnosti tohoto předpisu.
+
+
+
+
+                                                        18
+                                               Předpis ČD Op16 – účinnost od 1. 11. 2014, ve znění změny č. 2
+
+
+
+
+                        SOUVISEJÍCÍ PŘEDPISY A NORMY
+
+
+a)   obecně závazné právní předpisy
+
+
+
+Zákon č. 262/2006 Sb.                Zákoník práce, v platném znění
+
+Zákon č. 309/2006 Sb.                Zákon, kterým se upravují další požadavky bezpečnosti a
+                                     ochrany zdraví při práci v pracovněprávních vztazích a o
+                                     zajištění bezpečnosti a ochrany zdraví při činnosti nebo
+                                     poskytování služeb mimo pracovněprávní vztahy (zákon o
+                                     zajištění dalších podmínek bezpečnosti a ochrany zdraví při
+                                     práci), v platném znění
+
+Nařízení vlády č. 495/2001 Sb.       Nařízení vlády, kterým se stanoví rozsah a bližší podmínky
+                                     poskytování OOPP, mycích, čistících a dezinfekčních
+                                     prostředků
+
+Nařízení vlády č. 168/2002 Sb.       Nařízení vlády, kterým se stanoví způsob organizace práce a
+                                     pracovních postupů, které je zaměstnavatel povinen zajistit při
+                                     provozování dopravy dopravními prostředky
+
+
+
+
+b)   technicko-normativní předpisy
+
+
+
+SŽDC Bp1                             Předpis o bezpečnosti a ochraně zdraví při práci
+
+SŽDC D1                              Dopravní a návěstní předpis
+
+SŽDC D3                              Předpis pro zjednodušené řízení drážní dopravy
+
+ČD D2                                Předpis pro provozování drážní dopravy dopravce ČD, a.s.
+
+
+ČD M36                               Předpis pro poskytování osobních ochranných a ostatních
+                                     pracovních prostředků zaměstnancům ČD, a.s.
+
+ČD O2                                Předpis pro vydávání Zaměstnaneckých průkazů ČD, a.s., a
+                                     ostatních dokladů opravňujících ke vstupu do prostor ČD, a.s.
+
+ČD Ok2                               Výcvikový a zkušební řád ČD, a.s.
+
+
+
+
+                                               19
+

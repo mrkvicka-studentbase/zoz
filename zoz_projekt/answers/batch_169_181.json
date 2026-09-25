@@ -1,0 +1,402 @@
+[
+ {
+  "n": 169,
+  "otazka": "Strojvedoucí vjíždí do stanice. V úrovni vjezdového návěstidla uvidí výlukové návěstidlo s návěstí „Stáhněte sběrač“. Na písemném rozkaze není v této stanici žádná výluka trakčního vedení uvedena. Jak bude strojvedoucí postupovat?",
+  "obrazky": [
+   "img/q169_1.png"
+  ],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (8)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (41)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (12)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (9)"
+   }
+  ],
+  "odpoved": "Podle možností dodrží pokyny výlukových návěstidel, tedy pojede se staženým sběračem, závadu oznámí telekomunikačním zařízením výpravčímu a řídí se jeho pokyny.",
+  "plne_zneni": "SŽ D1 čl. 434 odst. (8): Pokud strojvedoucí v čele vlaku (PMD, posunového dílu) nebo zaměstnanec v čele sunutého vlaku (PMD, posunového dílu) zjistí, že jsou umístěna výluková návěstidla pro elektrický provoz a o jízdě se staženými sběrači není zpraven písemným rozkazem, musí podle možností dodržet pokyny k jízdě se staženými sběrači dávané výlukovými návěstidly pro elektrický provoz a tuto závadu oznámit telekomunikačním zařízením výpravčímu. Dále postupuje podle pokynů výpravčího.\n\nSŽ D1 čl. 434 odst. (9): Výpravčí (dirigující dispečer), kterému byla oznámena závada podle odst. (7) a (8) tohoto článku, závadu neprodleně ohlásí elektrodispečerovi, který musí zajistit odstranění této závady. Do doby odstranění závady musí elektrodispečer určit podmínky jízdy drážních vozidel závislé trakce v dotčeném úseku.\n\nSŽ D1 čl. 396 odst. (41): U výlukových návěstidel pro elektrický provoz je modrá deska ohraničena oranžovým okrajem (viz obrázek 231). Význam návěstí je stejný, jako u návěstidel nepřenosných.\n\nSŽ D1 čl. 396 odst. (12): Stáhněte sběrač – čtvercová, na vrcholu postavená modrá deska s bílým okrajem, uvnitř vodorovný bílý pruh v úhlopříčce […] • přikazuje strojvedoucímu vozidla závislé trakce jízdu se staženým sběračem nejpozději v úrovni této návěsti.\n\nSŽ D1 čl. 396 odst. (46): Pokud strojvedoucí vozidla závislé trakce dostal při napěťové výluce trakčního vedení pokyn ke stažení sběrače výlukovým návěstidlem pro elektrický provoz, může sběrač zdvihnout pouze na návěst výlukového návěstidla pro elektrický provoz, popř. na pokyn výpravčího, daný písemným rozkazem nebo telekomunikačním zařízením.",
+  "distraktory": [
+   "Podle možností dodrží pokyny výlukových návěstidel, tedy pojede se staženým sběračem, závadu oznámí telekomunikačním zařízením elektrodispečerovi a řídí se jeho pokyny.",
+   "Návěstidlo pro něj neplatí, protože o jízdě se staženými sběrači není zpraven rozkazem; stanicí projede se zdviženým sběračem a závadu ohlásí až po zastavení."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku jsou výluková návěstidla pro elektrický provoz (modrá deska s oranžovým okrajem): Připravte se ke stažení sběrače, Zdvihněte sběrač (svislý pruh) a Stáhněte sběrač (vodorovný pruh) spolu s vjezdovým návěstidlem S s návěstí Výstraha; obrázek je společný pro otázky 169 a 170 a jde o ilustraci druhů návěstidel, ne o přesné pořadí ve směru jízdy."
+ },
+ {
+  "n": 170,
+  "otazka": "Strojvedoucí byl zpraven písemným rozkazem o mimořádné jízdě se staženými sběrači: „Ve Velimi při vjezdu projeďte beznapěťový úsek se staženými sběrači.“. Jak bude strojvedoucí postupovat při jízdě kolem výlukových návěstidel pro elektrický provoz?",
+  "obrazky": [
+   "img/q170_1.png"
+  ],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 433 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (10)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (7)"
+   }
+  ],
+  "odpoved": "Musí se jimi řídit vždy: sběrač stáhne nejpozději v úrovni návěsti „Stáhněte sběrač“ a zvedne jej až na návěst „Zdvihněte sběrač“; km vymezení v rozkaze je jen orientační.",
+  "plne_zneni": "SŽ D1 čl. 434 odst. (3): Strojvedoucí hnacího vozidla závislé trakce se musí řídit výlukovými návěstidly pro elektrický provoz vždy, když je zpraven o jízdě se staženými sběrači a v čase vymezení platnosti uvedené v písemném rozkaze.\n\nSŽ D1 čl. 433 odst. (2) (závěr): V případě, že jsou umístěna výluková návěstidla pro elektrický provoz, platí pro jízdu vozidla závislé trakce tato návěstidla a kilometrické vymezení (i čísla trakčních podpěr) je pouze orientační informací o beznapěťovém úseku.\n\nSŽ D1 čl. 434 odst. (10): Pokud strojvedoucí vozidla závislé trakce obdržel pokyn ke stažení sběrače, nesmí jej zvednout, dokud k tomu nedostane příslušný pokyn: a) výlukovým návěstidlem pro elektrický provoz; b) písemným rozkazem, kde je uvedena km poloha místa, kde je možné zdvihnout sběrač; c) od výpravčího (dirigujícího dispečera).\n\nSŽ D1 čl. 434 odst. (7): Zjistí-li strojvedoucí hnacího vozidla závislé trakce, který je zpraven písemným rozkazem o jízdě se staženými sběrači, že některá výluková návěstidla pro elektrický provoz nejsou umístěna, musí podle možností dodržet pokyny k jízdě se staženými sběrači uvedené v písemném rozkaze a tuto závadu oznámit telekomunikačním zařízením výpravčímu. Dále postupuje podle pokynů výpravčího.\n\nSŽ D1 čl. 431 odst. (4): Při napěťové výluce trakčního vedení musí vozidla závislé trakce jedoucí se zdviženými sběrači podle sklonových poměrů vypnutou (nesjízdnou) částí projet (vjet do ní) se staženými sběrači setrvačností nebo být dopravována vozidlem nezávislé trakce.",
+  "distraktory": [
+   "Musí se jimi řídit vždy: sběrač stáhne nejpozději v úrovni návěsti „Stáhněte sběrač“ a zvedne jej až na návěst „Zdvihněte sběrač“; přednost má však km vymezení uvedené v rozkaze.",
+   "Řídí se přednostně písemným rozkazem; výlukovými návěstidly se řídí jen tehdy, jsou-li zvýrazněna bílým zábleskovým světlem nebo doplněna návěstí Zkrácená vzdálenost."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 171,
+  "otazka": "Jak postupuje strojvedoucí u návěsti „Úsekový dělič“?",
+  "obrazky": [
+   "img/q171_1.png"
+  ],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (28)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (31)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (30)"
+   }
+  ],
+  "odpoved": "Přes přilehlý úsekový dělič musí projet se staženým sběračem; za děličníkem jej nesmí zvednout, dostal-li pokyn ke stažení sběračů i jiným způsobem.",
+  "plne_zneni": "SŽ D1 čl. 396 odst. (28): Úsekový dělič – žlutý nepravidelný elipsoid, na kterém musí být uprostřed dva žluté vodorovné pruhy z reflexního materiálu\n• přikazuje strojvedoucímu vozidla závislé trakce jízdu se staženým sběračem přes přilehlý úsekový dělič\n• strojvedoucímu vozidla závislé trakce je zakázáno za úsekovým děličem s děličníkem zvednout sběrač, pokud dostal pokyn ke stažení sběračů i jiným způsobem: 1. jiným návěstidlem než děličníkem, nebo 2. písemným rozkazem, nebo 3. ústně nebo 4. telekomunikačním zařízením.\n\nSŽ D1 čl. 396 odst. (30): Děličník musí být umístěn u úsekového děliče oddělující trakční vedení manipulační koleje, která je v základní stavu bez napětí trakčního vedení.\n\nSŽ D1 čl. 396 odst. (31): Pokud je strojvedoucí vozidla závislé trakce zpraven výpravčím přímo nebo prostřednictvím odborně způsobilého zaměstnance určeného dopravcem (při posunu s posunovou četou) o neplatnosti děličníku, nemusí jet přes přilehlý úsekový dělič se staženým sběračem.",
+  "distraktory": [
+   "Přes přilehlý úsekový dělič musí projet se zdviženým sběračem, ale bez odběru trakčního proudu (setrvačností); odebírat smí znovu, až tuto návěst mine celý vlak.",
+   "Přes přilehlý úsekový dělič musí projet se staženým sběračem rychlostí nejvýše 50 km/h; zvednout sběrač smí až na návěst „Zdvihněte sběrač“ nebo na pokyn výpravčího."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 172,
+  "otazka": "Jakým způsobem pojede strojvedoucí v úseku od návěsti „Vypněte trakční odběr“?",
+  "obrazky": [
+   "img/q172_1.png"
+  ],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (7)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (8)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (9)"
+   }
+  ],
+  "odpoved": "Se zdviženým sběračem, ale bez odběru trakčního proudu (na střídavé soustavě i bez rekuperace); odebírat smí znovu, až vozidlo mine návěst „Zapněte proud“.",
+  "plne_zneni": "SŽ D1 čl. 396 odst. (7): Vypněte trakční odběr – čtvercová, na vrcholu postavená modrá deska s bílým okrajem, uvnitř modrobílá šachovnice s devíti poli, jejíž rohová pole jsou bílá\n• přikazuje strojvedoucímu vozidla závislé trakce ukončit nejpozději v úrovni této návěsti odběr trakčního proudu\n• na střídavé trakční soustavě současně přikazuje ukončit rekuperaci elektrické energie do trakční sítě.\n\nSŽ D1 čl. 396 odst. (8): Zapněte proud […] • byl-li pokyn k vypnutí proudu návěstěn návěstí Vypněte trakční odběr, dovoluje strojvedoucímu vozidla závislé trakce začít odebírat trakční proud (zahájit rekuperaci elektrické energie do trakční sítě, pokud je tato v předmětném úseku dovolena), když toto vozidlo minulo tuto návěst.\n\nSŽ D1 čl. 396 odst. (9): V úseku vymezeném návěstmi Vypněte proud a Zapněte proud nebo návěstmi Vypněte trakční odběr a Zapněte proud je zakázáno stání vozidel závislé trakce se zdviženým sběračem. Zvednutí sběračů je možné pouze se svolením elektrodispečera prostřednictvím výpravčího.\n\nSŽ D1 čl. 399 odst. (7): Při námraze na troleji je možná jízda vedoucího vozidla závislé trakce se dvěma zdviženými sběrači do rychlosti 50 km/h mimo jízdy: a) přes výhybky, b) přes neutrální pole kryté návěstmi Vypněte proud a Vypněte trakční odběr, je však možná pouze s jedním zdviženým sběračem.",
+  "distraktory": [
+   "Se zdviženým sběračem, ale bez odběru trakčního proudu (na střídavé soustavě i bez rekuperace); odebírat smí znovu, až návěst „Zapněte proud“ mine celý vlak.",
+   "Se staženým sběračem, tedy úsek projede setrvačností; sběrač smí zvednout, až vozidlo mine návěst „Zdvihněte sběrač“ nebo na pokyn elektrodispečera."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 173,
+  "otazka": "Jak strojvedoucí postupuje za jízdy vlaku při zjištění poškození sběrače?",
+  "obrazky": [],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (5)"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 191 písm. e)"
+   }
+  ],
+  "odpoved": "Musí stáhnout sběrače a ihned zastavit; po zastavení zjistí pohledem ze stanoviště stav sběračů a troleje v dohledné vzdálenosti a zjištěné skutečnosti oznámí výpravčímu.",
+  "plne_zneni": "SŽ D1 čl. 402 odst. (1): Pokud strojvedoucí zjistí jakékoliv poškození sběrače nebo trakčního vedení nebo má podezření na vznik takového poškození (záblesky, vyjma záblesků způsobených námrazou na trakčním vedení, a dále rozkmitání trakčního vedení, prověšení vodičů apod.), musí stáhnout sběrače a ihned zastavit (popř. musí zůstat stát). Po zastavení zjistí stav sběračů pohledem ze stanoviště strojvedoucího a stav trakčního vedení v dohledné vzdálenosti od hnacího vozidla.\n\nSŽ D1 čl. 402 odst. (2): Zjištěné skutečnosti oznámí strojvedoucí výpravčímu. Uvede rovněž úsek, ve kterém se zjištěná závada (nebo příznaky závady) s možným vlivem na sjízdnost tratě projevovala, ale nebylo možno stav prověřit vzhledem k viditelnosti nebo délce dráhy, ujeté do zastavení.\n\nSŽ D1 čl. 402 odst. (5): Vozidla závislé trakce nesmí pokračovat v jízdě na jiný sběrač, než byl původně při jízdě použit, pokud není poškození sběrače i trakčního vedení zcela vyloučeno.\n\nSŽ D1 čl. 402 odst. (6): Nemůže-li strojvedoucí pokračovat v další jízdě, vyžádá si pomocné hnací vozidlo. Při sjednávání pomoci musí uvést, zda je nutné vyslat vozidlo nezávislé trakce.\n\nSŽ D1 čl. 399 odst. (1): V žádném případě nesmí být použit při jízdě ani stání vozidla závislé trakce poškozený nebo nefunkční sběrač (např. vadné obložení sběrače, nevyhovující přítlačná síla sběrače).\n\nČD V2 čl. 191: Lokomotivní četa elektrického hnacího vozidla je dále povinna: […] e) při zjištění poškození sběrače, trakčního vedení, nebo je-li podezření, že k tomuto poškození došlo, postupovat podle ustanovení předpisu provozovatele dráhy a přílohy 9 tohoto předpisu.",
+  "distraktory": [
+   "Musí stáhnout sběrače a zastavit až v nejbližší stanici; tam zjistí pohledem ze stanoviště stav sběračů a troleje a zjištěné skutečnosti oznámí výpravčímu.",
+   "Musí stáhnout poškozený sběrač, zvednout druhý sběrač a pokračovat v jízdě podle rozhledových poměrů nejvýše 40 km/h; poškození oznámí výpravčímu za jízdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 174,
+  "otazka": "Jak se provede kontrola sběrače a trolejového vedení po výpadku napětí u vlaku řízeného z řídícího vozu?",
+  "obrazky": [],
+  "tema": "Elektrický provoz",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 196"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (5)"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+    "clanek": "kap. 8A.0"
+   }
+  ],
+  "odpoved": "Stejně jako u vlaku řízeného z HV – pohledem ze stanoviště řídicího vozu se ověří, že sběrač ani trolejové vedení nevykazují zjevné poškození a diagnostika nehlásí poruchu.",
+  "plne_zneni": "ČD V2 čl. 196: Při zjištění výpadku napětí v trakčním vedení se postupuje dle ustanovení předpisu provozovatele dráhy. Za zjištění bezporuchového stavu sběrače se považuje stav, kdy sběrač ve zdvižené poloze ani trakční vedení pohledem ze stanoviště strojvedoucího nevykazují zjevné poškození (záblesky, rozkmitání trakčního vedení, prověšení vodičů, apod.) a případná diagnostika sběrače nehlásí jeho poruchu. Tento postup se uplatňuje jak u vlaku (posunového dílu) řízeného z HV, tak u vlaku (posunového dílu) řízeného z řídicího vozu nebo el. jednotky (jednotek).\n\nSŽ D1 čl. 402 odst. (3): Při zjištění výpadku napětí v trakčním vedení při jízdě hnacího vozidla závislé trakce musí strojvedoucí vozidla zastavit. Pokud by však měl vlak zastavit v tunelu, v úseku neutrálního pole, v beznapěťovém úseku nebo na mostě, může strojvedoucí podle možnosti s vlakem dojet až za toto místo […].\n\nSŽ D1 čl. 402 odst. (5): Vozidla závislé trakce nesmí pokračovat v jízdě na jiný sběrač, než byl původně při jízdě použit, pokud není poškození sběrače i trakčního vedení zcela vyloučeno.\n\nSŽ D1 čl. 402 odst. (7): Dojde-li po výpadku napětí v trakčním vedení k jeho obnovení, smí se rozjet na trati stojící vlaky pouze se souhlasem výpravčího.\n\nČD Opatření ředitele O18 č. 36/2025, kap. 8A.0 (Postup při výpadku napětí v TV, porucha TV nebo sběrače – „Jedu z řídícího vozu…“): Stáhnu sběrač a zastavím vlak (provozním nebo rychločinným brzděním) mimo tunel, most apod. – Pohledem ze stanoviště strojv. ŘV zjistím stav sběrače a trolejového vedení. – Trolejové vedení je v pořádku? – Vidím na sběrač? (není-li vidět: Jde zdvihnout původní sběrač?) – Sběrač je v pořádku? – Diagnostika sběrače nehlásí jeho poruchu? – Oznámím výpravčímu důvod zastavení. – Dostal jsi souhlas od výpravčího k další jízdě? ANO = JEDU. NEZVEDÁM JINÝ SBĚRAČ!",
+  "distraktory": [
+   "Ze stanoviště řídicího vozu ji provést nelze – strojvedoucí musí dojít k hnacímu vozidlu a stav sběrače i trolejového vedení zkontrolovat pohledem ze země.",
+   "Stejně jako u vlaku řízeného z HV, stav sběrače i trolejového vedení však vždy ověřuje zaměstnanec dopravce (vlakvedoucí) ze stanoviště hnacího vozidla."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Není-li ze stanoviště řídicího vozu na sběrač vidět, je podle kap. 8A.0 Opatření O18 č. 36/2025 rozhodující, zda lze zdvihnout původní sběrač a zda diagnostika nehlásí poruchu; jiný sběrač se nezvedá a další jízda je možná až se souhlasem výpravčího."
+ },
+ {
+  "n": 175,
+  "otazka": "Vykonává se součinnost přídavné a průběžné brzdy na stanovišti řídícího vozu v soupravě vlaku?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 106"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 140–142 (OOPB)"
+   }
+  ],
+  "odpoved": "Ano – u ucelené sestavy strojvedoucí při ZBHV na řídicím voze ověří zabrzdění, odbrzdění a součinnost přímočinné (přídavné) a samočinné brzdy na příslušných manometrech.",
+  "plne_zneni": "ČD V2 čl. 106, bod II. Ucelená sestava vozidel: U hnacího vozidla se postupuje dle tohoto článku bodu I. a u řídicího vozu strojvedoucí ověří zabrzdění, odbrzdění, součinnost přímočinné a samočinné brzdy na příslušných manometrech, viz odrážka g) předchozího bodu I. Ostatní činnosti při zkoušce brzdy na tažených vozidlech se provádí dle ustanovení předpisu ČD V 15/I.\n\nČD V2 čl. 106, bod I. písm. g): ověří součinnost přímočinné přídavné a samočinné brzdy, je-li jimi hnací vozidlo vybaveno. Toto strojvedoucí provede takto: • zabrzdí ovladačem samočinné brzdy o cca 0,5 bar a zkontroluje zvýšení tlaku v brzdových válcích; • zabrzdí ovladačem přímočinné přídavné brzdy na plný tlak v brzdových válcích a zkontroluje zvýšení tlaku v brzdových válcích; • zcela odbrzdí ovladačem přímočinnou přídavnou brzdu a zkontroluje, že zůstal tlak v brzdových válcích na původní hodnotě nastavené ovladačem samočinné brzdy; • odbrzdí ovladačem samočinné brzdy a zkontroluje vyprázdnění tlaku v brzdových válcích; • zabrzdí ovladačem přímočinné přídavné brzdy na cca 2 bary v brzdových válcích; • zabrzdí ovladačem samočinné brzdy na úplné provozní zabrzdění a zkontroluje zvýšení tlaku v brzdových válcích; • zcela odbrzdí ovladačem samočinnou brzdu a zkontroluje, že zůstal tlak v brzdových válcích na původní hodnotě nastavené ovladačem přímočinné přídavné brzdy.\n\nČD V2 čl. 106 (úvod): […] Po aktivaci řízení stanoviště strojvedoucího na opačném čele soupravy se provede ověření ovládání průběžné brzdy dle předpisu ČD V 15/I.",
+  "distraktory": [
+   "Ne – na stanovišti řídicího vozu se ověřuje jen ovládání průběžné brzdy; součinnost přímočinné přídavné a samočinné brzdy se ověřuje pouze na hnacím vozidle.",
+   "Ano – u řídicího vozu se součinnost obou brzd ověřuje jen tehdy, je-li vybaven ep-brzdou; jinak stačí kontrola přilehnutí a odlehnutí špalíků u prvního vozu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 176,
+  "otazka": "Kdy provádí strojvedoucí funkční zkoušku zařízení SRD (vozidlové radiostanice)?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 10 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 10 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 10 odst. (5)"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 102"
+   }
+  ],
+  "odpoved": "Při uvádění HDV do provozu, a to po zapnutí vozidlové radiostanice; je-li na HDV více ovládacích terminálů, provede zkoušku na každém z nich samostatně před jeho použitím.",
+  "plne_zneni": "SŽ Z11 čl. 10 odst. (3): Strojvedoucí musí provést funkční zkoušku VR při uvádění HDV do provozu po jejím zapnutí. Pokud je na HDV více ovládacích terminálů, provádí zkoušku spojení na každém z nich samostatně, a to před jejich použitím.\n\nSŽ Z11 čl. 10 odst. (1): Funkční zkouškou se v souladu s Návodem ověřuje provozuschopnost radiostanice pro její použití v příslušné rádiové síti, kontrola napájení (lze-li zjistit), funkce ovládacích prvků, reproduktoru nebo sluchátek, funkce informačního nebo ovládacího displeje (je-li jím radiostanice vybavena), činnost indikačních prvků, včetně jejich barevné specifikace (je-li jimi radiostanice vybavena), a to pouze v základním režimu provozu radiostanice (neověřují se prvky pro indikaci poruchy apod.).\n\nSŽ Z11 čl. 10 odst. (5): V případě, že funkční zkouškou byla zjištěna porucha radiostanice, postupuje obsluhující zaměstnanec v souladu s ustanovením čl. 13 a dle podmínek uvedených v PŘ pro příslušnou rádiovou síť.\n\nČD V2 čl. 102: […] Následně uvede přidělené vozidlo do provozu dle návodu k obsluze […] a úkony související s obsluhou rychloměru, VZ, RDST apod.",
+  "distraktory": [
+   "Při uvádění HDV do provozu, a to po zapnutí vozidlové radiostanice; je-li na HDV více ovládacích terminálů, postačí zkoušku provést na terminálu obsazeného stanoviště.",
+   "Vždy jen při prvním použití radiostanice v rámci pracovní směny a dále po každé změně kanálové skupiny podle návěsti radiovníku nebo po přeladění na jiný simplexní kanál."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 177,
+  "otazka": "Při odstavení osobních vozů a zajištění proti ujetí započítáváme brzdící váhu podle kterého údaje na voze?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 85"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 74"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 86"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 166"
+   }
+  ],
+  "odpoved": "Podle nápisu o brzdicí váze (zajišťovací síle) zajišťovací – ruční – brzdy vozu, nejvýše však do jeho dopravní hmotnosti; hodnota v tunách se převede v poměru 1 t = 1 kN.",
+  "plne_zneni": "ČD D2 čl. 85: Jako zajišťovací síla zajišťovací brzdy se uvažuje hodnota vyznačená příslušným nápisem na taženém vozidle, pokud nepřekračuje jeho dopravní hmotnost, jinak nejvýše dopravní hmotnost vozidla. Dopravní hmotnost nebo brzdící váha zajišťovací brzdy uvedená v tunách se vždy převede v poměru 1:1 (1 tuna = 1 kN) na zajišťovací sílu v kN.\n\nČD D2 čl. 74: Za zajišťovací brzdu se považují: • ruční brzdy včetně pořádacích (vyjma pákových brzd); • brzdy, které vyvíjejí brzdící účinek nezávisle na obsluze či dodávce energie z vnějšího zdroje (např. magnetická zajišťovací brzda s permanentním magnetem nebo pružinová střadačová brzda). Zajišťovací brzda smí být použita k zajištění vozidel, je-li na vozidle uveden nápis o zajišťovací síle této brzdy dle předpisu ČD V 15/I a vozidlo není označeno správkovou nálepkou se symboly nepoužitelné zajišťovací brzdy.\n\nČD D2 čl. 86: K zajištění tažených vozidel proti ujetí se nesmí započítat zajišťovací brzdy hnacích vozidel. Strojvedoucí použije ke stanovení zajišťovací síly odstavovaných tažených vozidel prioritně „Funkci výpočtu zajišťovací síly“ v aplikaci ETD […].\n\nČD V15/I čl. 166: Brzdící účinek zajišťovací brzdy se na vozidlech pro osobní dopravu vyznačuje hodnotou brzdící váhy nebo hodnotou zajišťovací síly dle přílohy 2 tohoto předpisu.",
+  "distraktory": [
+   "Podle nápisu o brzdicí váze v aktuálně nastaveném režimu brzdění (P, R) uvedeného na skříni vozu nebo na přestavovači, nejvýše však do jeho dopravní hmotnosti.",
+   "Podle nápisu o brzdicí váze zajišťovací brzdy vozu; k zajištění tažených vozidel lze navíc započítat i zajišťovací brzdy přivěšených hnacích vozidel."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 178,
+  "otazka": "Brzdící váha vlaku je 100 tun při jeho hmotnosti 200 tun. Korekční součinitel kappa je roven 1. Jaké je skutečné brzdící procento vlaku?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 199"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 200"
+   }
+  ],
+  "odpoved": "Padesát procent: skutečné brzdicí procento = κ × celková brzdicí váha × 100 / celková hmotnost vlaku, tedy 1 × 100 × 100 / 200 = 50 %.",
+  "plne_zneni": "ČD V15/I čl. 199: Skutečné brzdící procento se stanoví výpočtem podle následujícího vzorce a výsledek se zaokrouhlí na nejbližší nižší celé číslo:\nSkutečné brzdící procento = κ × (Celková brzdící váha vlaku × 100) / Celková hmotnost vlaku.\nKoeficient κ zohledňuje délku soupravy brzděného vlaku, jehož hodnoty jsou uvedeny v příloze 5 tohoto předpisu (odpovídají Vyhl. č. 173/1995 Sb., ve znění pozdějších předpisů). Celková brzdící váha vlaku se stanovuje dle ustanovení oddílu A.3 této kapitoly. Celková hmotnost vlaku se stanoví jako součet dopravních hmotností jednotlivých vozidel zaokrouhlený na celé tuny směrem k nejbližší vyšší hodnotě.\n\nVýpočet: 1 × (100 t × 100) / 200 t = 50 → skutečné brzdící procento je 50 %.\n\nČD V15/I čl. 200: Skutečné brzdící procento vlaku stanovené dle čl. 199 této kapitoly musí mít stejnou nebo vyšší hodnotu než hodnota potřebných brzdících procent tohoto vlaku (viz však čl. 202 a 203 tohoto oddílu).",
+  "distraktory": [
+   "Dvě stě procent: skutečné brzdicí procento = κ × celková hmotnost vlaku × 100 / celková brzdicí váha vlaku, tedy 1 × 200 × 100 / 100 = 200 %.",
+   "Dvacet pět procent: do vzorce se brzdicí váha vlaku započítává jen z poloviny, tedy 1 × 50 × 100 / 200 = 25 %."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 179,
+  "otazka": "Do jaké polohy se přestaví přestavovače brzdy na vlacích osobní dopravy?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 52"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 53"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 54"
+   }
+  ],
+  "odpoved": "Do polohy, kdy je nastaven režim s nejvyšším brzdným účinkem, kterým je vozidlo vybaveno (R+Mg, popř. R nebo P), nebrání-li tomu porucha nebo jiné příčiny.",
+  "plne_zneni": "ČD V15/I čl. 52: Rukojeti přestavovačů nastaví zaměstnanec, který svěšuje vozidla při sestavě soupravy vlaku, již v rámci přípravy vlaků ke zkoušce brzdy do poloh, kdy je nastaven příslušný režim s nejvyšším brzdným účinkem, kterým je vozidlo vybaveno, nebrání-li tomu porucha nebo jiné příčiny (ustanovení předpisů apod.).\n\nČD V15/I čl. 53: V soupravě vlaku je dovoleno použít a kombinovat tyto režimy brzdění: vlak s přepravou cestujících – P (P+Mg), R, R+Mg. U činných HV včetně doplňkových dynamických brzd (P+E, R+E, P+H apod.); vlak bez přepravy cestujících – G, P (P+Mg), R, R+Mg […]. V soupravovém vlaku osobní dopravy brzděného I. způsobem brzdění je dovoleno použít režim G maximálně u 2 vozidel v soupravě, do tohoto počtu se započítává i HV v čele soupravy.\n\nČD V15/I čl. 54: Za nastavení brzdových zařízení na HV zařazených v soupravě je odpovědný strojvedoucí vedoucího vozidla vlaku nebo příslušného HV.\n\nČD V15/I příloha 2 čl. 420: Všechny přestavovače na voze mají na obou stranách stejnou orientaci, tj. že odleva jsou jednotlivé polohy řazeny v pořadí G – P – R – R+Mg.",
+  "distraktory": [
+   "Do polohy P (P+Mg), i když je vozidlo vybaveno vyšším režimem; režim R se nastavuje jen u vlaků se stanovenou rychlostí vyšší než 120 km/h.",
+   "Do polohy, kdy je nastaven režim s nejvyšším brzdným účinkem, kterým je vozidlo vybaveno; u nejvýše dvou vozidel soupravy se však vždy nastaví režim G."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Přestavovač „rovina – pohoří“ (P–M, R–G) je podle přílohy 2 čl. 419 na tratích ČD provozován pouze v poloze rovina, tj. P (R)."
+ },
+ {
+  "n": 180,
+  "otazka": "Zkoušku spojení v SRD provádí strojvedoucí hnacího vozidla kódovaným hlášením:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 32 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 32 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha F, tab. F.2"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha E"
+   }
+  ],
+  "odpoved": "Kódovaným hlášením „D“ – při vzniku vlaku (PMD) po zapnutí VR a nastavení volacího čísla, při každé změně čísla vlaku nebo rozlišovací číslice a na základě návěsti radiovníku.",
+  "plne_zneni": "SŽ Z11 čl. 32 odst. (2): Zkoušku spojení VR provádí strojvedoucí příslušného HDV odesláním kódovaného hlášení „D“ v těchto případech: a) při vzniku vlaku/PMD (po prvotním zapnutí VR a nastavení volacího čísla) v obvodu dopravny nebo na trati vybavené SRD; b) při každé změně čísla vlaku nebo změně rozlišovacího čísla (týká se vedoucího HDV); c) na základě návěsti radiovníku.\n\nSŽ Z11 čl. 32 odst. (3): Zkoušku spojení VR provádí strojvedoucí s výpravčím (dispečerem), v jehož rádiovém úseku se nalézá, nebo do kterého bude vjíždět. Provedení zkoušky spojení se nezapisuje, registrace je vedena automaticky na příslušném záznamovém zařízení.\n\nSŽ Z11 Příloha F, tab. F.2 – Kódovaná hlášení (strojvedoucí ► výpravčí/dispečer): „D“ = Zkouška spojení.\n\nSŽ Z11 Příloha E: (1) Podmínkou pro provedení zkoušky spojení je volný kanál! […] (4) Provedení zkoušky: Zkouška spojení s výpravčím: • strojvedoucí zvedne mikrotelefon a • stiskne tlačítko kódovaného hlášení „D“ a tlačítko „Výpravčí“. Zkouška spojení s dispečerem: • lze provést i se zavěšeným mikrotelefonem; • stiskne tlačítko kódovaného hlášení „D“ a tlačítko „Dispečer“.\n\nSŽ Z11 čl. 32 odst. (4): Nelze-li provést zkoušku spojení kódovaným hlášením „D“, naváže strojvedoucí hlasové spojení s výpravčím (dispečerem), a tím provede zkoušku spojení. Jestliže se nemožnost provedení zkoušky spojení kódovaným hlášením „D“ opakuje, jedná se o poruchu.",
+  "distraktory": [
+   "Kódovaným hlášením „V“ – při vzniku vlaku (PMD) po zapnutí VR a nastavení volacího čísla, při každé změně čísla vlaku nebo rozlišovací číslice a na základě návěsti radiovníku.",
+   "Kódovaným hlášením „D“ – vždy před odjezdem z každé stanice, ve které vlak zastavuje, a dále při každém vjezdu do dalšího rádiového úseku téže kanálové skupiny."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 181,
+  "otazka": "Co je simplexní kanál?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 16 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 16 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 21 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 21 odst. (5)"
+   }
+  ],
+  "odpoved": "Rádiový kanál (jeden kmitočet), na kterém probíhá komunikace vždy jen v jednom směru – v daném okamžiku jeden účastník vysílá a ostatní mohou pouze poslouchat.",
+  "plne_zneni": "SŽ Z11 čl. 16 odst. (2): Simplexní rádiový provoz je režim rádiového provozu, kdy rádiová komunikace probíhá vždy na jednom rádiovém kanálu v jednom směru a radiostanice může zprávy buď jen přijímat, nebo jen vysílat (jeden účastník může hovořit a ostatní jen poslouchat).\n\nSŽ Z11 čl. 16 odst. (3): Rádiový kanál je číselné označení konkrétního rádiového kmitočtu dle kmitočtového spektra, které spravuje Centrum techniky a diagnostiky (dále jen „CTD“).\n\nSŽ Z11 čl. 21 odst. (1): Rádiový úsek je zpravidla obvod jednoho obslužného zaměstnance definovaný v příslušném PŘ jedním až třemi kmitočty z kanálové skupiny (SRD) nebo simplexním kanálem (SRV).\n\nSŽ Z11 čl. 21 odst. (5): Duplexní kanál jsou kmitočty SRD ve dvojicích AD, BD a CD z kanálové skupiny (z kmitočtové čtveřice) pro duplexní spojení. Radiostanice může v tomto případě komunikovat, tzn. vysílat i přijímat současně (duplexní provoz).\n\nSŽ Z11 čl. 8 odst. (7) písm. a): Simplexní provoz (jeden účastník hovoří a ostatní mohou pouze poslouchat) platí pro: všechny místní rádiové sítě (MRS); síť radiodispečerskou vlakovou (SRV) bez selektivní volby […]; síť radiodispečerskou (SRD) při navazování spojení bez použití volacího čísla HDV; síť GSM-R při použití skupinového spojení (SKP).",
+  "distraktory": [
+   "Rádiový kanál tvořený dvojicí kmitočtů, na kterém mohou oba účastníci spojení vysílat a přijímat současně, takže se zprávy neoddělují slovem „příjem“.",
+   "Čtveřice kmitočtů A-B-C-D přidělená rádiovému úseku a označená číslem rádiové stuhy, z níž kmitočet D je vysílací frekvencí vozidlové radiostanice."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Pojem „simplexní kanál“ není v SŽ Z11 definován samostatnou definicí; odpověď je odvozena z definice simplexního rádiového provozu (čl. 16 odst. (2)) a rádiového kanálu (čl. 16 odst. (3)), v kontrastu s duplexním kanálem SRD (čl. 21 odst. (5)). Simplexní kanály se používají v MRS a SRV, SRD pracuje s kanálovou skupinou (kmitočtovou čtveřicí)."
+ }
+]

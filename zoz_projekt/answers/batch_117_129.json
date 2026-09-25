@@ -1,0 +1,400 @@
+[
+  {
+    "n": 117,
+    "otazka": "Jak musí být PMD označen?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 256 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 167 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 167 odst. (5)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 167 odst. (10)"
+      }
+    ],
+    "odpoved": "Každý PMD musí být označen návěstmi jako vlak – v čele návěst Začátek vlaku (tři bílá světla), na konci návěst Konec vlaku (dvě červená světla nebo dvě koncovky).",
+    "plne_zneni": "SŽ D1 čl. 256 odst. (2): Každý PMD musí být označen návěstmi jako vlak.\n\nSŽ D1 čl. 167 odst. (1): Začátek vlaku – na přední straně hnacího vozidla v čele vlaku nebo PMD tři rozsvícená bílá světla ve tvaru rovnoramenného trojúhelníku; upozorňuje zaměstnance na začátek vlaku nebo PMD.\n\nSŽ D1 čl. 167 odst. (2): První vozidlo ve směru jízdy vlaku (PMD) musí být označeno návěstí Začátek vlaku.\n\nSŽ D1 čl. 167 odst. (4): Za návěst Začátek vlaku se považuje i rozsvícení dvou bílých světel ve stejné výši v těchto případech: a) u taženého vlaku (popř. PMD) v případě, že 1. hnací vozidlo není vybaveno horním světlem nebo 2. svícením horního světla by docházelo k oslňování […]; b) u prvního vozidla sunutého vlaku, popř. PMD […]; c) u prvního vozidla vlaku (popř. PMD), který se nepovažuje podle ustanovení tohoto předpisu za sunutý vlak […]\n\nSŽ D1 čl. 167 odst. (5) a (6): Konec vlaku – dvě červená světla, umístěná ve stejné výši na zadní straně hnacího vozidla, popř. na zadní straně posledního vozidla vlaku nebo PMD; upozorňuje zaměstnance na konec vlaku nebo PMD.\n\nSŽ D1 čl. 167 odst. (7): Konec vlaku – dvě obdélníkové, na kratší straně postavené nebo čtvercové desky, které jsou tvořeny dvěma vstřícnými červenými a bílými trojúhelníky, umístěné ve stejné výši na zadní straně posledního vozidla vlaku nebo PMD.\n\nSŽ D1 čl. 167 odst. (8): Je zakázáno kombinovat návěst Konec vlaku jedním světlem a jednou koncovkou.\n\nSŽ D1 čl. 167 odst. (10): Návěstí Konec vlaku musí být označeno vždy poslední vozidlo vlaku (PMD).",
+    "distraktory": [
+      "Každý PMD musí být označen návěstmi jako posunový díl – v čele návěst Začátek vlaku (tři bílá světla), na konci postačí jedno červené světlo nebo jedna koncovka.",
+      "Označení návěstmi jako vlak se vyžaduje jen u PMD jedoucího do sousední stanice; při jízdě do km na širé trati postačí označit poslední vozidlo návěstí Konec vlaku."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 118,
+    "otazka": "Musí být strojvedoucí PMD informován o vjezdu na obsazenou kolej?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (8)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (7)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (6)"
+      }
+    ],
+    "odpoved": "Nemusí – je-li vjezd PMD dovolen návěstí Souhlas k jízdě, telekomunikačním zařízením nebo písemným rozkazem, smí vjet i na obsazenou kolej bez zpravení.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (8): Je-li vjezd PMD dovolován návěstí Souhlas k jízdě, telekomunikačním zařízením nebo písemným rozkazem, je jízda PMD možná i na manipulační kolej nebo na staniční kolej obsazenou jinými vozidly, aniž by strojvedoucí byl o této skutečnosti zpraven.\n\nSŽ D1 čl. 257 odst. (7): Je-li vjezd PMD dovolován návěstí Souhlas k jízdě, telekomunikačním zařízením nebo písemným rozkazem, návěstidla platná pro posun pro jeho jízdu platí a PMD musí zastavit před návěstí zakazující posun na nepřenosném návěstidle. Není-li přímo u vjezdové koleje návěstidlo platné pro posun, musí PMD zastavit nejdále před námezníkem, výkolejkou nebo hrotem jazyka výhybky na konci vjezdové koleje.\n\nSŽ D1 čl. 257 odst. (6): Je-li vjezd PMD dovolován návěstí dovolující jízdu vlaku (včetně PN): a) musí být dodrženy všechny podmínky jako pro vjezd vlaku do stanice, b) seřaďovací návěstidla ve vjezdové jízdní cestě neplatí a c) PMD musí zastavit nejdále před hlavním návěstidlem v poloze Stůj nebo před návěstí Konec vlakové cesty.",
+    "distraktory": [
+      "Musí – o vjezdu na obsazenou staniční kolej musí být strojvedoucí PMD zpraven písemným rozkazem vždy, i když je vjezd dovolen návěstí Souhlas k jízdě.",
+      "Nemusí – je-li vjezd PMD dovolován návěstí dovolující jízdu vlaku, smí vjet i na obsazenou nebo manipulační kolej, aniž by o tom byl jakkoli zpraven."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Platí pro vjezd na Souhlas k jízdě, telekomunikačním zařízením nebo písemným rozkazem. Je-li vjezd PMD dovolován návěstí dovolující jízdu vlaku (včetně PN), musí být podle čl. 257 odst. (6) písm. a) dodrženy všechny podmínky jako pro vjezd vlaku – tedy i zpravení o vjezdu na obsazenou kolej."
+  },
+  {
+    "n": 119,
+    "otazka": "PMD při návratu z trati musí zastavit nejdále:",
+    "obrazky": [
+      "img/q119_1.png"
+    ],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (6)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 138 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (7)"
+      }
+    ],
+    "odpoved": "Vjezd je dovolen přivolávací návěstí, tj. návěstí dovolující jízdu vlaku – PMD musí zastavit nejdále před hlavním návěstidlem v poloze Stůj nebo před návěstí Konec vlakové cesty.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (6): Je-li vjezd PMD dovolován návěstí dovolující jízdu vlaku (včetně PN): a) musí být dodrženy všechny podmínky jako pro vjezd vlaku do stanice, b) seřaďovací návěstidla ve vjezdové jízdní cestě neplatí a c) PMD musí zastavit nejdále před hlavním návěstidlem v poloze Stůj nebo před návěstí Konec vlakové cesty.\n\nSŽ D1 čl. 138 odst. (1): Přivolávací návěst – přerušované bílé světlo […] strojvedoucímu ostatních vlaků dovoluje jízdu kolem návěstidla, u kterého nelze rozsvítit návěsti dovolující jízdu vlaku, nařizuje jízdu podle rozhledových poměrů […]\n\nSŽ D1 čl. 138 odst. (2): PN může být na návěstidle společně s návěstí Stůj. Přerušované bílé světlo může být pod nebo nad červeným světlem.\n\nSŽ D1 čl. 257 odst. (7): Je-li vjezd PMD dovolován návěstí Souhlas k jízdě, telekomunikačním zařízením nebo písemným rozkazem, návěstidla platná pro posun pro jeho jízdu platí a PMD musí zastavit před návěstí zakazující posun na nepřenosném návěstidle. Není-li přímo u vjezdové koleje návěstidlo platné pro posun, musí PMD zastavit nejdále před námezníkem, výkolejkou nebo hrotem jazyka výhybky na konci vjezdové koleje.",
+    "distraktory": [
+      "Vjezd je dovolen přivolávací návěstí – PMD musí zastavit nejdále před seřaďovacím návěstidlem s návěstí Posun zakázán, které ve vjezdové jízdní cestě zůstává v platnosti.",
+      "Vjezd je dovolen přivolávací návěstí – PMD musí zastavit nejdále před námezníkem (výkolejkou, hrotem jazyka výhybky) na konci vjezdové koleje, návěstidla neplatí."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je vjezdové návěstidlo S s červeným světlem a přerušovaným bílým světlem (kresleno s paprsky) = přivolávací návěst; za ním trpasličí seřaďovací návěstidlo s modrým světlem (Posun zakázán), které při vjezdu na PN neplatí, a dále odjezdová návěstidla S1/S3 s návěstí Stůj. Kdyby bílé světlo bylo stálé (návěst Posun dovolen), šlo by o vjezd podle čl. 257 odst. (7) a PMD by zastavil před seřaďovacím návěstidlem s návěstí Posun zakázán."
+  },
+  {
+    "n": 120,
+    "otazka": "Nepředpokládaný návrat vlaku (PMD) z trati je bez souhlasu výpravčího:",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 264 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 264 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 268 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 268 odst. (2)"
+      }
+    ],
+    "odpoved": "Zakázán – návrat je možný pouze se souhlasem výpravčího stanice, do které se má vlak vrátit, a ten jej udělí až po zpravení všech závorářů a strážníků oddílu.",
+    "plne_zneni": "SŽ D1 čl. 264 odst. (1): Za nepředvídaný návrat vlaku ze širé trati se považují všechny případy, kdy se jedná o zpětný pohyb vlaku, jehož čelo minulo úroveň vjezdového návěstidla pro opačný směr jízdy, tj. vjelo na širou trať a tento návrat není stanoven jeho JŘ, a to bez využití pomocného hnacího vozidla. Nepředvídaný návrat vlaku ze širé trati je možný pouze se souhlasem výpravčího stanice, do které se má vlak vrátit.\n\nSŽ D1 čl. 264 odst. (3): O nepředvídaném návratu vlaku ze širé trati zpraví výpravčí nejprve všechny závoráře a strážníky oddílu, jichž se návrat vlaku ze širé trati týká, a teprve potom může udělit strojvedoucímu souhlas k návratu vlaku. O nepředvídaném návratu vlaku ze širé trati výpravčí informuje neprodleně příslušného provozního dispečera CDP.\n\nSŽ D1 čl. 268 odst. (1) a (2): Za nepředvídaný návrat PMD ze širé trati se považují všechny případy, kdy se jedná o jízdu PMD, která nebyla jako nepředvídaný návrat PMD sjednána (bez ohledu na směr nově požadované jízdy PMD). Nepředvídaný návrat PMD ze širé trati, který zcela opustil obvod stanice, musí být vždy sjednán jako nová jízda PMD.",
+    "distraktory": [
+      "Dovolen – strojvedoucí smí vlak (PMD) vrátit i bez souhlasu výpravčího, jede-li podle rozhledových poměrů, a souhlas si vyžádá dodatečně po zastavení ve stanici.",
+      "Dovolen za podmínky, že čelo vlaku (PMD) neminulo úroveň vjezdového návěstidla pro opačný směr jízdy o více než 250 m a vlak se vrací sjednaným směrem."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 121,
+    "otazka": "PMD se uskutečňuje z důvodu zjištění volnosti a průjezdnosti tratě. Smí tento PMD přepravovat cestující?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 255 odst. (12)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 255 odst. (8)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 255 odst. (9)"
+      }
+    ],
+    "odpoved": "Nesmí – tento účel jízdy není mezi případy, kdy smí PMD přepravovat cestující (odvoz uvázlého vlaku, jízda vlaku po částech, nepředpokládaný návrat vlaku apod.).",
+    "plne_zneni": "SŽ D1 čl. 255 odst. (12): PMD smí přepravovat cestující jen při: a) odvozu uvázlého vlaku; b) jízdě vlaku po částech; c) nepředpokládaném návratu vlaku ze širé trati; d) jízdě následného vlaku ze širé tratě pro uvázlý vlak; e) evakuaci osob jiným drážním vozidlem; f) nebo v případech uvedených v odst. (9) tohoto článku.\n\nSŽ D1 čl. 255 odst. (8): Jízdy PMD se mohou uskutečňovat: a) pro potřeby SŽ pro zajištění provozuschopnosti nebo rozvoje infrastruktury […]; b) pro zjištění volnosti a průjezdnosti tratě; c) pro zjištění příčiny nedojetí vlaku (PMD) do sousední (vlastní) dopravny; d) pro uvázlý vlak (PMD); e) při jízdě vlaku po částech; f) při nepředpokládaném návratu vlaku ze širé trati; g) pro zásah HZS Správy železnic.\n\nSŽ D1 čl. 255 odst. (9): Jízda PMD se může uskutečňovat i pro účely: a) jízdy historických drážních vozidel […]; b) jízdy za účelem natáčení filmů, propagačních nebo bezpečnostních materiálů; c) cvičení IZS; […] PMD může přepravovat cestující. Bezpečnost přepravovaných cestujících a osob podle tohoto odstavce musí zajistit dopravce.",
+    "distraktory": [
+      "Smí – přeprava cestujících je při jízdě PMD pro zjištění volnosti a průjezdnosti tratě dovolena, zajistí-li dopravce bezpečnost přepravovaných cestujících.",
+      "Smí, ale pouze do nejbližší nácestné zastávky nebo k přejezdu, kde lze provést bezpečnou evakuaci cestujících z vozidel PMD do náhradní dopravy."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 122,
+    "otazka": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD označník?",
+    "obrazky": [
+      "img/q122_1.png"
+    ],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 247 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 247 odst. (3)"
+      }
+    ],
+    "odpoved": "Neplatí – označník v provedení neproměnného návěstidla pro odjezd PMD ze stanice neplatí; pro jízdu PMD platí nepřenosná návěstidla platná pro posun.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (1): Pro jízdu PMD ze stanice na širou trať platí nepřenosná návěstidla platná pro posun. Pro odjezd PMD ze stanice neplatí označník v provedení neproměnného návěstidla (viz čl. 247 odst. (1)). Pro jízdu PMD kolem neobsluhovaných návěstidel platných pro posun platí ustanovení čl. 225.\n\nSŽ D1 čl. 247 odst. (1): Posun zakázán – bílý sloupek s modrou hlavicí nebo bílá obdélníková deska, postavená na užší straně, s modrou horní částí; deska je z reflexního materiálu; zakazuje při posunu směrem z dopravny s kolejovým rozvětvením posunovat za úroveň tohoto návěstidla.\n\nSŽ D1 čl. 247 odst. (3): Funkci označníku může plnit: a) světelné seřaďovací návěstidlo; b) světelné hlavní návěstidlo platné pro jízdu vlaků i posun; c) odjezdová stop značka.",
+    "distraktory": [
+      "Platí – PMD smí posunovat pouze do úrovně označníku a jízdu za označník mu smí výpravčí dovolit až po udělení souhlasu telekomunikačním zařízením.",
+      "Neplatí – pro odjezd PMD ze stanice na širou trať neplatí žádná návěstidla platná pro posun, jízdu dovoluje pouze písemný rozkaz pro PMD."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je označník v provedení neproměnného návěstidla (bílá deska s modrou částí); odjezdové návěstidlo L1 má návěst Posun dovolen (bílé světlo), L2 návěst Stůj."
+  },
+  {
+    "n": 123,
+    "otazka": "Jak bude zpraven strojvedoucí PMD, pokud mají pro odjezd PMD ze stanice platit návěsti odjezdových (cestových) návěstidel?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 259 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1/1",
+        "clanek": "Rozkaz 59, pokyn 59.30"
+      }
+    ],
+    "odpoved": "Písemným rozkazem (Rozkaz 59, pokyn 59.30) o tom, že pro jeho jízdu platí návěsti pro jízdu vlaku v obvodu stanice; pak pro něj neplatí návěstidla platná pro posun.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (2): V případě, že lze odjezdovou jízdní cestu od konce PMD zabezpečit jako vlakovou cestu s rozsvícením návěsti dovolující jízdu vlaku (včetně PN nebo Stop značka ETCS a PN), může PMD odjet na tuto návěst v případě, že je strojvedoucí zpraven písemným rozkazem o skutečnosti, že pro jeho jízdu platí návěsti pro jízdu vlaku v obvodu stanice. Je-li strojvedoucí zpraven písemným rozkazem o skutečnosti, že pro jeho jízdu platí návěsti pro jízdu vlaku, neplatí pro jeho jízdu návěsti platné pro posun.\n\nSŽ D1 čl. 259 odst. (1): Strojvedoucí PMD musí být o jízdě PMD zpraven písemným rozkazem, ve kterém musí být vždy stanoveno: […] f) zda pro odjezd PMD platí návěsti platné pro jízdu vlaku; […]\n\nSŽ D1/1 Rozkaz 59, pokyn 59.30 – Odjezd PMD na návěsti dovolující jízdu vlaku: Stanovuje platnost návěstí dovolujících jízdu vlaku při odjezdu PMD z dopravny. Označí se křížkem, pokud odjezd PMD bude z dopravny dovolován návěstmi pro jízdu vlaku. (související předpis SŽ D1 – 257 (2); 259 (1); 265 (4))",
+    "distraktory": [
+      "Písemným rozkazem o tom, že pro jeho jízdu platí návěsti pro jízdu vlaku v obvodu stanice; návěstidla platná pro posun přitom zůstávají pro jeho jízdu v platnosti.",
+      "Ústně telekomunikačním zařízením při sjednávání jízdy PMD; zápis do písemného rozkazu pro PMD se v tomto případě nevyžaduje, stačí zápis do dopravní dokumentace."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 124,
+    "otazka": "PMD se blíží k oddílovému návěstidlu s návěstí „Stůj“. Platí oddílové návěstidlo pro PMD?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1/1",
+        "clanek": "Rozkaz 59, pokyn 59.50"
+      }
+    ],
+    "odpoved": "Neplatí – na širé trati platí pro PMD pouze vjezdová návěstidla a vjezdové stop značky; oddílové návěstidlo platí jen tehdy, byl-li o tom zpraven písemným rozkazem.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (3): Na širé trati pro jízdu PMD platí pouze vjezdová návěstidla a vjezdové stop značky. Nemá-li příslušná traťová kolej vjezdové návěstidlo, musí být v písemném rozkaze stanoven způsob vjezdu do stanice (odbočky). V případě, že pro strojvedoucího PMD platí oddílové návěstidlo, krycí návěstidlo, návěstidlo dopravny Portál nebo oddílová stop značka, musí být o této skutečnosti zpraven písemným rozkazem. V případě, že je za oddílovým návěstidlem nebo krycím návěstidlem: a) výhybka, kterou toto návěstidlo kryje, může výpravčí dovolit jízdu PMD na trať, až když zjistí, že všechny výhybky, které toto návěstidlo kryje, jsou přestaveny a zajištěny pro jízdu PMD; b) PZZ, které toto návěstidlo kryje a výpravčí nemá indikaci stavu přejezdu, musí strojvedoucímu nařídit písemným rozkazem jízdu se zvýšenou opatrností přes dotčený přejezd.\n\nSŽ D1/1 Rozkaz 59, pokyn 59.50 – Mezistaniční úsek s oddílovým nebo krycím návěstidlem, návěstidlem dopravny Portál nebo oddílovou stop značkou. Informuje o platnosti výše uvedených návěstidel. Označí se křížkem, pokud je nutné informovat strojvedoucího o platnosti návěstidel na trati; doplní se označení a kilometrická poloha návěstidla, které bude pro jízdu PMD platit.",
+    "distraktory": [
+      "Platí – oddílové návěstidlo platí pro PMD vždy; strojvedoucí musí před návěstí Stůj zastavit a další jízdu si vyžádat od výpravčího přední stanice.",
+      "Neplatí – na širé trati platí pro PMD pouze vjezdová návěstidla a vjezdové stop značky; oddílové návěstidlo neplatí pro jízdu PMD v žádném případě."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 125,
+    "otazka": "Jak je prováděn návrat vlaku z trati, který zcela opustil obvod stanice?",
+    "obrazky": [],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 264 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 264 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 260 odst. (1)"
+      }
+    ],
+    "odpoved": "Vždy jako PMD, a to jen se souhlasem výpravčího; vlak se mění v PMD okamžikem sepsání písemného rozkazu strojvedoucím nebo jeho doručením.",
+    "plne_zneni": "SŽ D1 čl. 264 odst. (2): Návrat vlaku ze širé trati, který při odjezdu zcela neopustil obvod stanice, se provádí podle ustanovení platných pro posun. Návrat vlaku ze širé trati, který zcela opustil obvod stanice, je vždy prováděn jako PMD. Vlak se mění v PMD okamžikem sepsání písemného rozkazu strojvedoucím nebo jeho doručením.\n\nSŽ D1 čl. 264 odst. (1): […] Nepředvídaný návrat vlaku ze širé trati je možný pouze se souhlasem výpravčího stanice, do které se má vlak vrátit.\n\nSŽ D1 čl. 264 odst. (6): Je-li na konci vlaku hnací vozidlo (činné, pohotové k službě), převezme pro návrat ze širé trati toto hnací vozidlo povinnosti vedoucího vozidla a PMD se nepovažuje za sunutý.\n\nSŽ D1 čl. 260 odst. (1): Strojvedoucí vedoucího vozidla musí výpravčímu ohlásit uvolnění traťové koleje […] Ustanovení tohoto odstavce platí i pro případ: a) nepředvídaného návratu vlaku ze širé trati […]",
+    "distraktory": [
+      "Vždy jako PMD; vlak se mění v PMD okamžikem, kdy strojvedoucí obdrží od výpravčího souhlas k návratu telekomunikačním zařízením, písemný rozkaz se nesepisuje.",
+      "Podle ustanovení platných pro posun; vlak se mění v posunový díl okamžikem, kdy jeho čelo mine úroveň vjezdového návěstidla pro opačný směr jízdy."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 126,
+    "otazka": "Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo PMD 865432?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "Příloha I, tab. I.2"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 47 odst. (1)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 47 odst. (2)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 47 odst. (3)"
+      }
+    ],
+    "odpoved": "Funkční číslo 2 865432 01 – typ volání 2 (FN vlaku/PMD), šestimístné číslo PMD 865432 a funkční kód 01 pro vedoucí HDV.",
+    "plne_zneni": "SŽ Z11 Příloha I, tab. I.2 – Sestava FN PMD registrovaného v síti GSM-R CZ: Volání na vedoucí HDV PMD 800 387 – CT 2, číslo PMD 800387, FC 01, celé FN „2 800387 01“.\n\nSŽ Z11 čl. 47 odst. (1): Pro sestavení spojení s účastníkem sítě GSM-R prostřednictvím FN se používají tzv. čísla evropské integrované železniční rádiové sítě (EIRENE) s tímto formátem: CT – typ volání; UIN – identifikační číslo účastníka (číslo vlaku, číslo HDV apod.); FC – funkční kód účastníka.\n\nSŽ Z11 čl. 47 odst. (2), tabulka 16 – Typy volání: 2 = FN vlaku; 3 = FN HDV; 4 = FN vozu; 6 = týmy v oblasti činnosti posunu a údržby; 7 = čísla výpravčích a dispečerů.\n\nSŽ Z11 čl. 47 odst. (3), tabulka 17 – Funkční kódy: 01 = vedoucí HDV na vlaku; 02 = vlakové HDV na vlaku s přípřežním HDV nebo vložené HDV; 05 = postrkové HDV; 10 = vedoucí obsluhy vlaku.\n\nSŽ D1 čl. 256 odst. (5): Číslo PMD je šestimístné ve formátu 8xx xxx a musí být uváděno ve všech hlášeních týkajících se jízdy PMD.",
+    "distraktory": [
+      "Funkční číslo 3 865432 01 – typ volání 3 (FN hnacího vozidla), šestimístné číslo PMD 865432 a funkční kód 01 pro vedoucí HDV.",
+      "Funkční číslo 8 865432 – rozlišovací číslici 8 pro PMD a šestimístné číslo PMD; funkční kód se u jízdy PMD nedoplňuje."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 127,
+    "otazka": "Strojvedoucí vedoucího vozidla vlaku, z něhož je ovládáno brzdění při PMD, zadá na radiostanici v systému GSM-R:",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 56 odst. (2)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "Příloha I, tab. I.2"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 51 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 256 odst. (6)"
+      }
+    ],
+    "odpoved": "Volací číslo PMD, které mu oznámí výpravčí, a zaregistruje funkční číslo ve tvaru 2 + šestimístné číslo PMD + funkční kód 01 (vedoucí HDV).",
+    "plne_zneni": "SŽ Z11 čl. 56 odst. (2): Před odjezdem ze ŽST nebo z místa na trati nastaví strojvedoucí volací číslo PMD, které mu výpravčí oznámí dle interních předpisů SŽ a následně zaregistruje správné FN.\n\nSŽ Z11 čl. 56 odst. (5): Zásady pro číslování PMD v rádiové síti GSM-R CZ, tedy určení a správné použití CT, TN a FC, jsou uvedeny v čl. 51.\n\nSŽ Z11 čl. 51 odst. (3): Strojvedoucí vlaku (PMD) provede registraci FN vlaku s funkčním kódem (FC) odpovídajícím jeho provozní pozici a podle pokynů platných DAP v těchto případech: […] při jízdě PMD do úseku trati vybaveného GSM-R CZ (je-li HDV vybaveno VR příp. MT umožňující komunikaci v GSM-R CZ).\n\nSŽ Z11 Příloha I, tab. I.2: Volání na vedoucí HDV PMD 800 387 – CT 2, číslo PMD 800387, FC 01, celé FN „2 800387 01“.\n\nSŽ D1 čl. 256 odst. (6): Na tratích s vlakovým rádiovým systémem musí být vedoucí vozidlo PMD přihlášeno do základního rádiového spojení přiděleným číslem PMD.\n\nSŽ D1 čl. 22 odst. (5): Vedoucí vozidlo vlaku (PMD, posunového dílu) je vozidlo (činné hnací vozidlo, speciální hnací vozidlo nebo řídicí vůz), ze kterého se ovládá jízda vlaku (PMD, posunového dílu).",
+    "distraktory": [
+      "Původní číslo vlaku, které mu bylo přiděleno před jízdou PMD, a zaregistruje funkční číslo ve tvaru 2 + pětimístné číslo vlaku + funkční kód 01 (vedoucí HDV).",
+      "Volací číslo PMD, které mu oznámí výpravčí, a zaregistruje funkční číslo ve tvaru 2 + šestimístné číslo PMD + funkční kód 05 (postrkové HDV)."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Otázka je formulována nepřesně – „vozidlo, z něhož je ovládáno brzdění (jízda)“ je podle SŽ D1 čl. 22 odst. (5) vedoucí vozidlo PMD; to musí být přihlášeno do základního rádiového spojení přiděleným číslem PMD, tj. FN s CT 2, číslem PMD a FC 01."
+  },
+  {
+    "n": 128,
+    "otazka": "Jak bude strojvedoucí jednat při jízdě PMD k oddílovému návěstidlu s návěstí Stůj?",
+    "obrazky": [
+      "img/q128_1.png"
+    ],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 256 odst. (7)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 259 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 23 odst. (4)"
+      }
+    ],
+    "odpoved": "Nebyl-li o jeho platnosti zpraven písemným rozkazem, oddílové návěstidlo pro PMD neplatí – projede kolem bez zastavení a jede dál podle rozhledových poměrů, nejvýše 40 km/h.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (3): Na širé trati pro jízdu PMD platí pouze vjezdová návěstidla a vjezdové stop značky. […] V případě, že pro strojvedoucího PMD platí oddílové návěstidlo, krycí návěstidlo, návěstidlo dopravny Portál nebo oddílová stop značka, musí být o této skutečnosti zpraven písemným rozkazem. V případě, že je za oddílovým návěstidlem nebo krycím návěstidlem: […] b) PZZ, které toto návěstidlo kryje a výpravčí nemá indikaci stavu přejezdu, musí strojvedoucímu nařídit písemným rozkazem jízdu se zvýšenou opatrností přes dotčený přejezd. Tato skutečnost musí být uvedena v ZDD.\n\nSŽ D1 čl. 256 odst. (7): Při jízdě PMD musí strojvedoucí vždy dodržet podmínky pro jízdu podle rozhledových poměrů, a to i v případě, že je mu jízda povolována návěstmi platnými pro jízdu vlaku. […] rychlost jízdy PMD nejvíce: a) 40 km/h, je-li tažen nebo jedná-li se o samotné hnací vozidlo […]; b) 30 km/h, je-li sunut […]\n\nSŽ D1 čl. 259 odst. (1) písm. g): […] další důležité okolnosti týkající se konkrétní jízdy [např. jízda za vlakem, nařízení jízdy se zvýšenou opatrností přes přejezd s PZZ (centrální přechod s VZPK), případné omezení rychlosti apod.].\n\nSŽ D1 čl. 23 odst. (4): Jízda se zvýšenou opatrností je takový způsob jízdy, při kterém musí strojvedoucí: a) od vzdálenosti alespoň 250 m před přejezdem […] dávat opakovaně návěst Pozor, dokud čelo vlaku (PMD, posunového dílu) nemine přejezd […] a zároveň b) v úseku alespoň 60 m před přejezdem […] jet rychlostí nejvíce 10 km/h.",
+    "distraktory": [
+      "Nebyl-li o jeho platnosti zpraven písemným rozkazem, návěstidlo pro něj neplatí – projede kolem bez zastavení, přes přejezd za ním však vždy nejvýše rychlostí 30 km/h.",
+      "Návěstidlo pro něj platí i bez zpravení písemným rozkazem – musí před ním zastavit a pokračovat smí až na pokyn výpravčího, kterému se ohlásí po uplynutí 5 minut."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Obrázek ukazuje oddílové návěstidlo s návěstí Stůj a hned za ním přejezd s PZS (výstražník). O platnosti oddílového návěstidla i o jízdě se zvýšenou opatrností přes přejezd musí být strojvedoucí zpraven písemným rozkazem (SŽ D1/1 Rozkaz 59, pokyny 59.50 a 59.60); bez tohoto zpravení oddílové návěstidlo pro PMD neplatí a jízda se zvýšenou opatrností přes přejezd (250 m návěst Pozor, 60 m rychlost nejvýše 10 km/h) platí jen tehdy, je-li mu rozkazem nařízena."
+  },
+  {
+    "n": 129,
+    "otazka": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD návěstidlo Se 5 ve funkci označníku?",
+    "obrazky": [
+      "img/q129_1.png"
+    ],
+    "tema": "PMD",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 257 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 247 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 220 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 220 odst. (14)"
+      }
+    ],
+    "odpoved": "Platí – světelné seřaďovací návěstidlo je nepřenosné návěstidlo platné pro posun, proto musí PMD před návěstí Posun zakázán zastavit a dál smí až na návěst Posun dovolen.",
+    "plne_zneni": "SŽ D1 čl. 257 odst. (1): Pro jízdu PMD ze stanice na širou trať platí nepřenosná návěstidla platná pro posun. Pro odjezd PMD ze stanice neplatí označník v provedení neproměnného návěstidla (viz čl. 247 odst. (1)). Pro jízdu PMD kolem neobsluhovaných návěstidel platných pro posun platí ustanovení čl. 225.\n\nSŽ D1 čl. 247 odst. (3): Funkci označníku může plnit: a) světelné seřaďovací návěstidlo; b) světelné hlavní návěstidlo platné pro jízdu vlaků i posun; c) odjezdová stop značka.\n\nSŽ D1 čl. 220 odst. (4): Posun zakázán – modré světlo; zakazuje posun; čelo posunového dílu musí zastavit ještě před návěstidlem. Kde takové návěstidlo není přímo u koleje, musí čelo posunového dílu zastavit před námezníkem (hrotem jazyka výhybky, výkolejkou) na konci příslušné koleje.\n\nSŽ D1 čl. 220 odst. (5): Posun dovolen – bílé světlo; dovoluje posun; je-li na návěstidle platném jen pro jednu kolej: 1. informuje o postavené posunové cestě za tímto návěstidlem, 2. je souhlasem k posunu.\n\nSŽ D1 čl. 220 odst. (14): Plní-li světelné seřaďovací návěstidlo funkci označníku, platí pro posun za toto návěstidlo veškerá ustanovení jako pro posun za označník.\n\nSŽ D1 čl. 248 odst. (2) a (6): Posun za označník nebo za návěstidlo, které plní funkci označníku, je dovolen jen se souhlasem výpravčího. Ustanovení o posunu za označník platí i pro posun za světelné seřaďovací (popř. hlavní) návěstidlo, které plní funkci označníku.",
+    "distraktory": [
+      "Neplatí – plní-li světelné seřaďovací návěstidlo funkci označníku, neplatí pro odjezd PMD ze stanice stejně jako označník v provedení neproměnného návěstidla.",
+      "Platí jen jako informace – PMD smí kolem návěstidla Se 5 projet i na návěst Posun zakázán, jede-li podle rozhledových poměrů rychlostí nejvýše 40 km/h."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je Se 5 (světelné seřaďovací návěstidlo) s modrým světlem – návěst Posun zakázán – umístěné ve funkci označníku; odjezdové návěstidlo L1 má návěst Posun dovolen (bílé světlo)."
+  }
+]

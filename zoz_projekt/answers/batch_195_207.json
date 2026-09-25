@@ -1,0 +1,386 @@
+[
+ {
+  "n": 195,
+  "otazka": "Strojvedoucí v čase pravidelného odjezdu po provedené výpravě vlaku dá vlakové četě návěst „Výzva strojvedoucího“ přes zpětné zrcátko. Vlaková četa nereaguje. Strojvedoucí dále postupuje takto:",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 284"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 262"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 265"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273"
+   }
+  ],
+  "odpoved": "Dávání návěstí strojvedoucím přes zpětné zrcátko je zakázáno; návěst musí dát znovu z bočního okna (dveří) stanoviště, popř. pokyn ústně nebo vnitřním komunikačním zařízením.",
+  "plne_zneni": "ČD D2 čl. 284: Přebírání návěstí strojvedoucím pomocí zpětných zrcátek (kamerovým systémem) je dovoleno v případě, že strojvedoucí, kterému jsou návěsti určeny, zajistí podmínky, aby návěsti mohl správně vnímat a řídit se jimi. Dávání návěstí strojvedoucím pomocí zpětných zrcátek je zakázáno. […]\n\nČD D2 čl. 262: Návěst Výzva strojvedoucího (opisování písmene V dlaní [denní návěst] nebo ruční svítilnou s bílým světlem [noční návěst]) dává strojvedoucí vedoucího vozidla vlaku a vyzývá členy doprovodu vlaku k oznámení připravenosti vlaku k odjezdu. Tuto návěst dává strojvedoucí z bočního okna nebo bočních dveří stanoviště strojvedoucího na příslušné straně.\n\nČD D2 čl. 265: Návěsti Výzva strojvedoucího, Výzva k pohotovosti, Pohotovi k odjezdu a Souhlas k odjezdu se nemusí používat, pokud je možno dát příslušný pokyn přímo ústně, příp. vnitřním komunikačním zařízením soupravy. Ústní pokyn musí vždy zaměstnanec vyjádřit názvem příslušné návěsti.\n\nČD D2 čl. 273 písm. b): […] Obsluha vlaku smí dát návěsti Pohotovi k odjezdu a Souhlas k odjezdu v případech dle bodu aa) tohoto článku až po návěsti Výzva strojvedoucího nebo Výzva k pohotovosti danou strojvedoucím vedoucího vozidla vlaku.",
+  "distraktory": [
+   "Dávání návěstí strojvedoucím přes zpětné zrcátko je dovoleno; nereaguje-li četa, zopakuje návěst zrcátkem a po 1 minutě uvede vlak do pohybu i bez návěsti Souhlas k odjezdu.",
+   "Návěst daná přes zpětné zrcátko platí jen v noční době; ve dne ji musí strojvedoucí nahradit návěstí Výzva k pohotovosti danou lokomotivní houkačkou s tónem vyšší intenzity."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Vlaková četa nereaguje oprávněně – návěst daná zrcátkem je neplatná (zakázaná). Vlak smí být uveden do pohybu až po návěsti Souhlas k odjezdu (příp. po ústním pokynu dle čl. 265)."
+ },
+ {
+  "n": 196,
+  "otazka": "Vlak vedený HV ř. 841 zastavil pro výstup a nástup cestujících ve 22:42 hod. ve stanici s výlukou dopravní služby výpravčího. V čase pravidelného odjezdu postupuje strojvedoucí takto:",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 272"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (1)"
+   }
+  ],
+  "odpoved": "Vlak nevypravuje výpravčí: strojvedoucí dá vždy návěst, v noční době (22:00–6:00) přednostně Výzva strojvedoucího, a to nejdříve 20 s před pravidelným odjezdem.",
+  "plne_zneni": "ČD D2 čl. 273 písm. a): strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. Návěst Výzva strojvedoucího nebo Výzva k pohotovosti smí dát nejdříve 20 sekund před časem pravidelného odjezdu vlaku při zhodnocení technologického času uzavírání nástupních dveří dle použitého systému ovládání nástupních dveří na vlaku. […] aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti. […] V noční době (22:00 – 6:00) použije strojvedoucí přednostně návěst Výzva strojvedoucího. V případě nutnosti dání návěsti Výzva k pohotovosti, použije strojvedoucí k vyjádření této návěsti výhradně píšťalku. U vozidel s obtížným výhledem z malých bočních oken stanoviště strojvedoucího (např. řada 844, 847 apod.) se předešlý odstavec neuplatňuje a strojvedoucí může použít k vyjádření návěsti Výzva k pohotovosti, píšťalku, lokomotivní houkačku s tónem nižší intenzity nebo lokomotivní píšťalu.\n\nČD D2 čl. 273 písm. b) a d): po výstupu a nástupu cestujících a uzavření nástupních dveří […] dávají členové obsluhy vlaku postupně od konce vlaku směrem k vedoucímu vozidlu vlaku návěst Pohotovi k odjezdu. Poté dá člen obsluhy vlaku nejblíže ke strojvedoucímu návěst Souhlas k odjezdu; […] d) po obdržení návěsti Souhlas k odjezdu strojvedoucí vedoucího vozidla vlaku postupuje dle technologie uvedené pro konkrétní systém ovládání nástupních dveří.\n\nSŽ D1 čl. 359 odst. (1): Po zastavení vlaku z důvodu výstupu a nástupu cestujících na zastávce (a to i na zastávce v obvodu stanice nebo odbočky), ve stanici s výlukou dopravní služby výpravčího nebo po zastavení pro výstup nebo nástup zaměstnance Správy železnic v místě mimo prostor pro výstup a nástup cestujících, musí doprovod vlaku před uvedením vlaku do pohybu dodržet postup stanovený dopravcem.",
+  "distraktory": [
+   "Ve stanici s výlukou dopravní služby dá strojvedoucí návěst jen v případě potřeby, v noční době (22:00–6:00) přednostně Výzva k pohotovosti danou lokomotivní houkačkou.",
+   "Ve stanici s výlukou dopravní služby vypravuje vlak rádiem výpravčí sousední stanice; návěst Výzva strojvedoucího smí dát nejdříve 60 s před časem pravidelného odjezdu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Výjimka čl. 273 pro vozidla s obtížným výhledem z malých bočních oken je v předpisu uvedena příkladmo („např. řada 844, 847 apod.“) – je-li řada 841 takto posouzena, smí strojvedoucí i v noci vyjádřit Výzvu k pohotovosti píšťalkou, lokomotivní houkačkou s tónem nižší intenzity nebo lokomotivní píšťalou."
+ },
+ {
+  "n": 197,
+  "otazka": "Strojvedoucí měl klíče od odstaveného HV nepřetržitě u sebe. Kdy se ZBHV nemusí vykonat?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 108"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "příloha 4 čl. 2"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 34/2022",
+    "clanek": "kap. II (postupy P3, P4)"
+   }
+  ],
+  "odpoved": "Nepřekročilo-li odstavení 12 hodin a týž strojvedoucí měl vozidlo přidělené po celou tu dobu (checklist P3, P4) – ZBHV zůstává platná; provede se jen OOPB.",
+  "plne_zneni": "ČD V2 čl. 108: Pokud je hnací vozidlo nepřetržitě v provozu, tj. hnací vozidlo nebylo odstaveno dle checklistu pro odstavení, dochází tedy mezi strojvedoucími vždy jen ke střídání na ose a pokud strojvedoucí nezpozoroval nestandardní chování při brzdění, tak se ZBHV považuje za stále platnou, tj. bez časového omezení do doby jeho odstavení dle checklistu pro odstavení.\nPokud tentýž strojvedoucí měl drážní vozidlo přidělené po celou dobu jeho odstavení a doba jeho odstavení nepřekročila 12 hodin, tak se ZBHV považuje za stále platnou, tj. bez časového omezení do doby odstavení hnacího vozidla dle checklistů pro odstavení.\nV obou výše uvedených případech musí být pravidelně prováděno ověření ovládání průběžné brzdy po změně řízení na stanovišti strojvedoucího nebo ověření účinku průběžné brzdy při střídání na ose dle předpisu ČD V 15/I.\n\nČD V2 příloha 4 čl. 2: […] P3 – převzetí po úplném odstavení – doba odstavení nepřesáhla 12 hodin a strojvedoucí má drážní vozidlo přidělené po celou dobu jeho odstavení; P4 – převzetí vozidla po aktivním odstavení – doba odstavení nepřesáhla 12 hodin a strojvedoucí má drážní vozidlo přidělené po celou dobu jeho odstavení.\n\nČD OŘ O18 č. 34/2022, kap. II: P3 – převzetí vozidla po úplném odstavení (vozidlová baterie vypnuta) – strojvedoucí měl klíče od vozidla po dobu jeho odstavení, nejdéle však 12 hodin, nepřetržitě u sebe; P4 – převzetí vozidla po aktivním odstavení – strojvedoucí měl klíče od vozidla po dobu jeho odstavení, nejdéle však 12 hodin, nepřetržitě u sebe.",
+  "distraktory": [
+   "Měl-li týž strojvedoucí vozidlo přidělené po celou dobu odstavení a odstavení nepřekročilo 24 hodin – ZBHV zůstává platná až do konce směny strojvedoucího.",
+   "Jde-li o vozidlo odstavené aktivně; po úplném odstavení s vypnutou vozidlovou baterií se ZBHV musí vykonat vždy, bez ohledu na dobu odstavení a držení klíčů."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 198,
+  "otazka": "Vykonává se pravidelně zkouška těsnosti na soupravách vlaků osobní dopravy?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 84"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 85"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 86"
+   }
+  ],
+  "odpoved": "Ne, pravidelně se nevykonává – jen po odstranění závady v těsnosti potrubí a před ÚZB při pochybnostech o účinku brzdy nebo po MU s projetím návěstidla zakazujícího jízdu.",
+  "plne_zneni": "ČD V15/I čl. 84: Strojvedoucí vedoucího vozidla vlaku osobní dopravy vykoná zkoušku těsnosti hlavního potrubí soupravy pouze v případě, že:\n– došlo k odstranění závad v těsnosti hlavního nebo napájecího potrubí (bližší popis závad viz čl. 460 přílohy 4 tohoto předpisu);\n– má být vykonána ÚZB: ba) na žádost strojvedoucího, který má pochybnosti o správném účinkování brzdy vlaku nebo mu jsou takové pochybnosti sděleny odstupujícím strojvedoucím; bb) po MU, při které došlo k nedovolené jízdě drážního vozidla za návěstidlo s návěstí zakazující jízdu dle předpisu ČD D 17.\n\nČD V15/I čl. 85: Zkouška těsnosti průběžné brzdy (hlavního potrubí) se provede tak, že […] brzda se považuje za těsnou, pokud úbytek tlaku v hlavním potrubí za 2 minuty činí nejvýše 0,5 bar; při poklesu tlaku o více než 0,5 bar za 2 minuty se brzda považuje za netěsnou, netěsné místo se najde a odstraní. Po opravě se opakuje zkouška těsnosti.\n\nČD V15/I čl. 86: Zkoušku těsnosti napájecího potrubí soupravy vlaku osobní dopravy vykoná strojvedoucí vedoucího vozidla vlaku v případě, že má pochybnost o jeho těsnosti […].",
+  "distraktory": [
+   "Ano, vykonává se pravidelně před každou úplnou zkouškou brzdy; brzda se považuje za těsnou, činí-li úbytek tlaku v hlavním potrubí nejvýše 0,5 bar za 2 minuty.",
+   "Ne, pravidelně se nevykonává – provede se jen jednou za 24 hodin společně s úplnou zkouškou brzdy a dále vždy po změně stanoviště, ze kterého je vlak řízen."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 199,
+  "otazka": "Dle jakého dokumentu se provádí u jednotek ZBHV?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 106"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "příloha 4 čl. 1 a 4"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 60"
+   }
+  ],
+  "odpoved": "Podle příslušného checklistu pro přípravu dle přílohy 4 předpisu ČD V2 (u jednotek ř. 680 dle OŘ O18 č. 6/2019); pořadí úkonů zkoušky brzdy musí být přesně dodrženo.",
+  "plne_zneni": "ČD V2 čl. 106: Zkouška brzdy hnacího vozidla (ZBHV) se provádí podle příslušného checklistu pro přípravu dle přílohy 4 tohoto předpisu před odjezdem z místa odstavení. […] Je-li v soupravě řazeno více jednotek nebo hnacích vozidel zapojených do vícenásobného řízení, pak se zabrzdění a odbrzdění kontroluje po celé soupravě a na jednotlivých vnitřních stanovištích strojvedoucího se nic neprovádí. Při provádění ZBHV musí být dodržen chronologický postup dle příslušného checklistu. Po aktivaci řízení stanoviště strojvedoucího na opačném čele soupravy se provede ověření ovládání průběžné brzdy dle předpisu ČD V 15/I. Zápis o této zkoušce brzdy se provádí elektronicky dle Opatření ředitele O18 č. 38/2020 „Provozní aplikace pro strojvedoucí“ a přílohy 1 tohoto předpisu. Není-li zpracován checklist pro přípravu, postupuje strojvedoucí takto: I. Samostatná lokomotiva nebo motorový vůz nebo jednotka: a) až h) […]. Je-li hnací vozidlo vybaveno vlastním systémem pro zkoušku brzdy (např. test brzd), postupuje se podle návodu k obsluze.\n\nČD V2 příloha 4 čl. 1 a 4: Checklisty pro přípravu a odstavení podrobně stanovují činnosti při zprovoznění nebo odstavení vybraných vozidel […]. Strojvedoucí při převzetí nebo odstavení přiděleného vozidla musí vykonat všechny činnosti uvedené v příslušném checklistu, jednotlivé pořadí činností je doporučeno. V případě provádění zkoušky brzdy musí být pořadí úkonů přesně dodrženo. […] čl. 8: Z důvodu specifického odstavování el. jednotek ř. 680 jsou checklisty pro převzetí nebo odstavení vydány v Opatření ředitele O18 č. 6/2019 – Provoz jednotek ř. 680.\n\nČD V15/I čl. 60: V provozu jsou pro ověření funkce brzdy vozidel používány následující postupy: […] Zkouška brzdy hnacího vozidla (ZBHV) – podmínky a postup stanoví předpis ČD V 2 […].",
+  "distraktory": [
+   "Podle přílohy 3 předpisu ČD V15/I (Obsluha brzdových zařízení na hnacích vozidlech); pořadí jednotlivých úkonů zkoušky brzdy je u jednotek pouze doporučené.",
+   "Podle Zprávy o brzdění vystavené pro první vlak dané jednotky; samostatný checklist pro přípravu se u elektrických a motorových jednotek nezpracovává."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 200,
+  "otazka": "Co se musí provést při změně stanoviště řízení HV?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 140"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 141"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 142"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 106"
+   }
+  ],
+  "odpoved": "Ověření ovládání průběžné brzdy (OOPB): po aktivaci řízení nového stanoviště se na manometrech zajištěného vozidla ověří zabrzdění snížením tlaku v HP o cca 0,5 bar a odbrzdění.",
+  "plne_zneni": "ČD V15/I čl. 140: Ověření ovládání průběžné brzdy (dále také OOPB) je úkon, kterým strojvedoucí před uvedením vozidel do pohybu ověřuje správnou funkci ovládání brzdového zařízení HV ze stanoviště strojvedoucího mimo případy, kdy je vyžadována ZBHV.\n\nČD V15/I čl. 141: OOPB se provede vždy po aktivaci řízení na stanovišti strojvedoucího, ze kterého bude vozidlo ovládáno (např. nástup na vozidlo, změna stanoviště řízení, odstup přípřeže apod.).\n\nČD V15/I čl. 142: OOPB se provede tak, že se na manometrech vozidla zajištěného proti ujetí ověří, že: po zabrzdění snížením tlaku v hlavním potrubí o cca 0,5 bar došlo k poklesu tlaku v hlavním potrubí a nárůstu tlaku v brzdových válcích o hodnotu odpovídající nastavenému stupni zabrzdění; nastavený tlak vzduchu v hlavním potrubí se nemění; po odbrzdění došlo k opětovnému nárůstu tlaku v hlavním potrubí na hodnotu provozního tlaku a vyprázdnění brzdových válců, tzn. odbrzdění brzdy tohoto ŽKV.\n\nČD V2 čl. 106: […] Po aktivaci řízení stanoviště strojvedoucího na opačném čele soupravy se provede ověření ovládání průběžné brzdy dle předpisu ČD V 15/I.",
+  "distraktory": [
+   "Nová zkouška brzdy hnacího vozidla (ZBHV) podle příslušného checklistu pro přípravu, včetně zápisu místa a času jejího ukončení do Knihy předávky HV.",
+   "Jednoduchá zkouška brzdy na jednom vozidle za novým stanovištěm řízení; u ucelené sestavy vozidel postačí ověření činnosti brzdy posunového dílu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Platí pro změnu stanoviště na lokomotivě, motorovém/elektrickém voze nebo ucelené sestavě (jednotce). Dojde-li ke změně stanoviště, ze kterého se řídí vlak, který není ucelenou sestavou vozidel, vyžaduje ČD V15/I čl. 62 navíc zkoušku brzdy (zpravidla JZB)."
+ },
+ {
+  "n": 201,
+  "otazka": "Jaká zkouška brzdy se provádí při rozpojení vlaku na více než dvou místech?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 130"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 121"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 122"
+   }
+  ],
+  "odpoved": "Jednoduchá zkouška brzdy – provede se na jednom (jakémkoli) vozidle za nejvzdálenějším místem rozpojení; nejsou-li splněny podmínky pro JZB, musí být vykonána ÚZB.",
+  "plne_zneni": "ČD V15/I čl. 130: JZB se na soupravě vlaku provádí na jednom (jakémkoli) vozidle za nejvzdálenějším místem rozpojení od vozidla, z kterého je ovládána brzda vlaku. Zabrzdění a odbrzdění na zkoušku a způsob kontroly účinku brzdy (bez ověření vysokého stupně a protismykového zařízení) tohoto vozidla je shodný s ÚZB. […]\n\nČD V15/I čl. 121: JZB musí být provedena v případech, kdy je dle čl. 62 tohoto předpisu vyžadována zkouška brzdy a není tímto předpisem nařízeno vykonání ÚZB. JZB se smí provést u vlaků, u nichž: je k dispozici platný údaj o poslední provedené ÚZB (předchozí platná Zpráva o brzdění); všechna vozidla v soupravě vlaku mají provedenu ÚZB (ZBHV) nebo byla zkouška brzdy na přidávaných vozidlech provedena nejpozději po jejich zařazení do soupravy současně s provedením JZB.\n\nČD V15/I čl. 122: Nejsou-li splněny všechny podmínky předchozího článku, musí být vždy provedena ÚZB. Je však zakázáno vyžadovat vykonání ÚZB tehdy, jsou-li splněny podmínky pro vykonání jen JZB.",
+  "distraktory": [
+   "Úplná zkouška brzdy – provede se vždy na všech vozidlech soupravy, je-li vlak rozpojen na více než dvou místech, i když je k dispozici platná Zpráva o brzdění.",
+   "Jednoduchá zkouška brzdy – provede se na prvním vozidle za nejbližším místem rozpojení od vozidla, z něhož je ovládána průběžná brzda vlaku."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Platné znění ČD V15/I (změna č. 0 od 14. 12. 2025) počet míst rozpojení nijak neomezuje – otázka zřejmě vychází z dřívějšího znění, kde bylo použití JZB vázáno na rozpojení nejvýše na dvou místech (podle platného předpisu je správně JZB)."
+ },
+ {
+  "n": 202,
+  "otazka": "Jaká je nová stanovená rychlost vlaku pro vlak Sp 1565 v úseku Rakovník - Lužná u Rakovníka?",
+  "obrazky": [
+   "img/q202_1.png"
+  ],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 203"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 291 odst. (17)"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 200"
+   }
+  ],
+  "odpoved": "Skutečných 95 % nedosahuje potřebných 107 %, proto se rychlost sníží o rozdíl 12 km/h – nová stanovená rychlost v úseku Rakovník – Lužná u Rakovníka je 88 km/h.",
+  "plne_zneni": "ČD V15/I čl. 203: Není-li u vlaku nejedoucího pod dohledem ETCS v módu Plný dohled (FS), ve výchozí nebo nácestné stanici dosažena hodnota předepsaných brzdících procent a pro rychlost stanovenou v TJŘ vlaku pro následující traťový úsek skutečná brzdící procenta nedostačují, je strojvedoucí povinen před uvedením vlaku do pohybu stanovit nejvyšší rychlost vlaku odpovídající skutečnému brzdícímu procentu v předmětném úseku tratě. Novou nejvyšší rychlost vlaku strojvedoucí stanoví použitím alternativního postupu výpočtu rychlostního omezení tak, že: provede porovnání hodnoty skutečných brzdících procent s hodnotami uvedenými pro jednotlivé traťové úseky ve sloupci 8 TJŘ daného vlaku; pro úseky s nedostatkem brzdících procent stanoví rozdíl předepsaných a skutečných brzdících procent a o tuto hodnotu sníží rychlost uvedenou ve sloupci 8 TJŘ pro dotčený traťový úsek. Příklad: v ZOB – Brzdící procento – Skut.: 82 / potř.: 103 / chyb.: 21; TJŘ, sloupec 8: úsek A-B 100/85: výpočet 82 – 85 = -3 -> rychlost se sníží o 3 km/h na 97 km/h […]; je-li hodnota skutečných brzdících procent 45 nebo nižší, sníží strojvedoucí rychlost uvedenou ve sloupci 8 TJŘ pro traťový úsek s nedostatkem brzdících procent o dvojnásobek rozdílu předepsaných a skutečných brzdících procent.\n\nSŽ D1 čl. 291 odst. (17): Skutečné brzdící procento vlaku musí být vyšší nebo alespoň rovno potřebnému brzdícímu procentu, které je pro konkrétní traťový úsek a pro konkrétní vlak uvedeno ve sloupci 8 TJŘ, popř. v jiném dokumentu Správy železnic […].\n\nVýpočet dle obrázku: TJŘ sloupec 8 pro úsek Rakovník – Lužná u Rakovníka = 100/107; ZOB: potř. 107, skut. 95, chyb. 12; 95 – 107 = -12 -> 100 – 12 = 88 km/h (skutečná procenta jsou vyšší než 45, dvojnásobek rozdílu se neuplatní).",
+  "distraktory": [
+   "Skutečných 95 % nedosahuje potřebných 107 %, proto se rychlost sníží o dvojnásobek rozdílu, tj. o 24 km/h – nová stanovená rychlost v úseku je 76 km/h.",
+   "Skutečných 95 % nedosahuje potřebných 107 %, proto vlak pojede v úseku Rakovník – Lužná u Rakovníka nejvýše 60 km/h podle údaje ve sloupci 8 pro předchozí úsek."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 203,
+  "otazka": "Jaká je nová stanovená rychlost vlaku pro vlak Os 9710 v úseku Kralupy nad Vltavou - Olovnice?",
+  "obrazky": [
+   "img/q203_1.png"
+  ],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 203"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 291 odst. (17)"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 200"
+   }
+  ],
+  "odpoved": "Skutečná brzdící procenta jsou 45, tedy 45 nebo nižší – rychlost se v úseku Kralupy nad Vltavou – Olovnice sníží o dvojnásobek rozdílu (2 × 17 km/h) z 80 na 46 km/h.",
+  "plne_zneni": "ČD V15/I čl. 203: […] pro úseky s nedostatkem brzdících procent stanoví rozdíl předepsaných a skutečných brzdících procent a o tuto hodnotu sníží rychlost uvedenou ve sloupci 8 TJŘ pro dotčený traťový úsek; […] je-li hodnota skutečných brzdících procent 45 nebo nižší, sníží strojvedoucí rychlost uvedenou ve sloupci 8 TJŘ pro traťový úsek s nedostatkem brzdících procent o dvojnásobek rozdílu předepsaných a skutečných brzdících procent dle bodu b) tohoto článku. Příklad: v ZOB – Brzdící procento – Skut.: 33 / potř.: 51 / chyb.: 18; TJŘ, sloupec 8: úsek A-B 80/51: výpočet 33 – 51 = -18 -> rychlost se sníží o 2x 18 km/h na 44 km/h; úsek B-C 60/40: výpočet 33 – 40 = -7 -> rychlost se sníží o 2x 7 km/h na 46 km/h.\n\nSŽ D1 čl. 291 odst. (17): Skutečné brzdící procento vlaku musí být vyšší nebo alespoň rovno potřebnému brzdícímu procentu, které je pro konkrétní traťový úsek a pro konkrétní vlak uvedeno ve sloupci 8 TJŘ […].\n\nVýpočet dle obrázku: TJŘ sloupec 8 pro úsek Kralupy nad Vltavou – Olovnice = 80/62; ZOB: potř. 62, skut. 45, chyb. 17; skutečná procenta 45 -> snížení o 2 × 17 = 34 km/h; 80 – 34 = 46 km/h.",
+  "distraktory": [
+   "Skutečná brzdící procenta jsou 45, rychlost se proto sníží o rozdíl 17 km/h z 80 na 63 km/h, vlak však nesmí překročit rychlost uvedenou ve Zprávě o brzdění.",
+   "Skutečná brzdící procenta jsou 45, vlak proto nesmí do doplnění brzdících procent překročit rychlost 30 km/h až do nejbližší stanice s možností posílení brzdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 204,
+  "otazka": "Za ŽST Starý Plzenec dojde k poruše národního vlakového zabezpečovače. Jak bude strojvedoucí pokračovat další v jízdě?",
+  "obrazky": [
+   "img/q204_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 442"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 444"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 443"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 41 písm. m)"
+   }
+  ],
+  "odpoved": "Poruchu ohlásí dispečerovi osobní dopravy ČD a výpravčímu a jede nejvýše 30 km/h do nejbližší stanice (Nezvěstice); po obsazení stanoviště dalším zaměstnancem smí jet nejvýše 100 km/h.",
+  "plne_zneni": "ČD D2 čl. 442: Dojde-li během jízdy vlaku na trati k poruše zařízení kontroly bdělosti strojvedoucího u vedoucího vozidla vlaku, ohlásí strojvedoucí poruchu telekomunikačním zařízením dispečerovi osobní dopravy ČD a výpravčímu, a dále pokračuje v jízdě rychlostí nejvíce 30 km/h až do nejbližší stanice, kde zastaví. O obsazení vedoucího vozidla vlaku dalším zaměstnancem rozhodne dispečer osobní dopravy ČD. Nebude-li možné pro další jízdu obsadit vedoucí vozidlo vlaku dalším zaměstnancem, dispečer osobní dopravy ČD vyrozumí dispečera SŽ a dohodne s ním, zda vlak bude pokračovat v další jízdě až po výměně hnacího vozidla (se zařízením kontroly bdělosti v činnosti) nebo bude pokračovat v další jízdě rychlostí nejvíce 30 km/h do stanice, kde bude možné obsadit vedoucí vozidlo vlaku dalším zaměstnancem. Takto lze postupovat až do cílové stanice vlaku.\n\nČD D2 čl. 443: Ve všech případech, kdy na stanoviště strojvedoucího přechází jiný zaměstnanec, poučí ho strojvedoucí o způsobu zastavení vlaku, zajištění hnacího vozidla proti ujetí a obsluze vozidlové radiostanice za účelem nouzového volání. […] Při další jízdě nesmí být překročena: nejvyšší dovolená rychlost zobrazená na DMI u vedoucího vozidla vlaku jedoucího s aktivní mobilní částí ETCS v úrovni 2 (L2); rychlost 100 km/h u vedoucího vozidla vlaku jedoucího s aktivní mobilní částí ETCS v úrovni NTC (STM) nebo jedoucího s vypnutou mobilní částí ETCS či nevybaveného mobilní částí ETCS.\n\nČD D2 čl. 444: Dle předchozího článku se musí postupovat i v případě, není-li vedoucí vozidlo vlaku vlakovým zabezpečovačem vybaveno.\n\nČD V2 čl. 41 písm. m): […] Postup při poruše vlakového zabezpečovače nebo provoz HV nevybaveného vlakovým zabezpečovačem je stanoven v předpise ČD D 2.",
+  "distraktory": [
+   "Poruchu ohlásí dispečerovi osobní dopravy ČD a výpravčímu a pokračuje nezmenšenou rychlostí až 100 km/h do nejbližší stanice pravidelného zastavení (Nezvěstice).",
+   "Poruchu ohlásí výpravčímu a jede nejvýše 40 km/h podle rozhledových poměrů do stanice, kde bude vyměněno hnací vozidlo; obsazení stanoviště dalším zaměstnancem není nutné."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Stanovená rychlost R 665 je dle sloupce 8 TJŘ 100/103, tj. po obsazení stanoviště poučeným zaměstnancem lze jet až stanovenou rychlostí 100 km/h. ČD D2 čl. 442 je formulován pro zařízení kontroly bdělosti; na poruchu (resp. absenci) vlakového zabezpečovače jej rozšiřuje čl. 444 a odkaz ČD V2 čl. 41 písm. m)."
+ },
+ {
+  "n": 205,
+  "otazka": "HV má poruchu národního VZ. Na stanoviště strojvedoucího přichází člen obsluhy vlaku (p. Novák). Jak provede strojvedoucí zápis do Knihy předávky HV?",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "příloha 1 čl. 4 (sloupec 8)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 443"
+   }
+  ],
+  "odpoved": "Do sloupce 8 Knihy předávky HV zapíše větu „Poučen o nouzovém zastavení“ a připojí svůj podpis; poučený zaměstnanec (p. Novák) zápis spolupodepíše. Poučení platí jen pro tuto jízdu.",
+  "plne_zneni": "ČD V2 příloha 1 čl. 4, sloupec 8 – informace o průběhu směny (strojvedoucí zapisuje pouze stanovené zápisy): […] poučení zaměstnance, který není odborně způsobilý k zastavení vlaku při poruše VZ – strojvedoucí zapíše větu „Poučen o nouzovém zastavení“ a připojí svůj podpis, poučovaný zaměstnanec následně tento zápis spolupodepíše.\n\nČD D2 čl. 443: Ve všech případech, kdy na stanoviště strojvedoucího přechází jiný zaměstnanec, poučí ho strojvedoucí o způsobu zastavení vlaku, zajištění hnacího vozidla proti ujetí a obsluze vozidlové radiostanice za účelem nouzového volání. Poučení není třeba, přejde-li na hnací vozidlo zaměstnanec, který je odborně způsobilý k obsluze hnacího vozidla (řídicího vozu) příslušné řady nebo k nouzovému zastavení vlaku a obsluze vozidlové radiostanice. Poučení platí pouze pro tuto jízdu a zapíše se do „Knihy předávky“ na hnacím vozidle takto: „Poučení o nouzovém zastavení.“ Záznam podepíší strojvedoucí i poučený zaměstnanec.",
+  "distraktory": [
+   "Do sloupce 8 zapíše „Poučen o nouzovém zastavení – Novák“ a připojí svůj podpis; podpis poučeného zaměstnance se nevyžaduje a zápis platí po celou směnu strojvedoucího.",
+   "Do sloupce 8 zapíše slovo „Pilot“, čísla všech vlaků, nástupní a cílovou stanici; zápis provede a podepíše p. Novák a strojvedoucí jej pouze spolupodepíše."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Znění zápisu se mezi předpisy nepatrně liší: ČD V2 příloha 1 uvádí „Poučen o nouzovém zastavení“, ČD D2 čl. 443 „Poučení o nouzovém zastavení“ – význam je shodný. Poučení (a tedy i zápis) není třeba, je-li příchozí zaměstnanec odborně způsobilý k nouzovému zastavení vlaku a obsluze radiostanice."
+ },
+ {
+  "n": 206,
+  "otazka": "Jakým průkazem se musí osoba požadující jízdu na stanovišti strojvedoucího z důvodu poznání traťových poměrů strojvedoucímu prokázat?",
+  "obrazky": [],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 214 písm. b)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "příloha 11"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 66"
+   }
+  ],
+  "odpoved": "Pověřením k vykonání poznání tratě (příloha 11 ČD D2) – strojvedoucí navíc licencí strojvedoucího, ostatní zaměstnanci Kartou oprávnění; bez platného pověření nesmí na stanoviště.",
+  "plne_zneni": "ČD D2 čl. 214: Na stanovišti strojvedoucího, z něhož je hnací vozidlo řízeno, mohou jet nejvýše čtyři osoby včetně strojvedoucího […]. Takto mohou na stanovišti strojvedoucího jet: […] b) osoby, které se prokáží příslušným Pověřením k vykonání poznání tratě dle přílohy č. 11 tohoto předpisu a žádají o jízdu na stanovišti strojvedoucího z důvodu vykonání předepsaných jízd ve stanovených traťových úsecích; […] Od osob uvedených v písmenech a), b) je strojvedoucí povinen požadovat, aby se prokázaly příslušným oprávněním k jízdě na hnacím vozidle ještě před vstupem na stanoviště strojvedoucího. V případě, že se zaměstnanec neprokáže platným Pověřením k vykonání poznání, nesmí mu být povolen vstup ani jízda na stanovišti strojvedoucího ČD.\n\nČD D2 příloha 11 bod 2: Zaměstnanec se před vstupem na vedoucí vozidlo prokáže: a) strojvedoucí – Licencí strojvedoucího a vydaným „Pověřením k vykonání poznání tratě pro zaměstnance ČD“; b) ostatní zaměstnanci – Kartou oprávnění a vydaným „Pověřením k vykonání poznání tratě pro zaměstnance ČD“. (Zaměstnanec ČD Cargo: strojvedoucí Licencí strojvedoucího, ostatní Služebním průkazem, vždy s příslušným Pověřením.)",
+  "distraktory": [
+   "Kartou oprávnění vydanou GŘ O18, na jejíž zadní straně je uvedeno „Převzetí řízení HV“; jiný doklad se pro poznání traťových poměrů nevyžaduje.",
+   "Krátkodobým Povolením k jízdě na stanovišti strojvedoucího ČD vydaným ředitelem OŘOD; strojvedoucí je oprávněn je požadovat až v průběhu jízdy vlaku."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 207,
+  "otazka": "Kolik osob smí být přítomno na stanovišti strojvedoucího z něhož je hnací vozidlo řízeno?",
+  "obrazky": [],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 214"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 216"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 81"
+   }
+  ],
+  "odpoved": "Nejvýše čtyři osoby včetně strojvedoucího, a to jen pokud prostor tohoto stanoviště umožňuje nerušené řízení hnacího vozidla.",
+  "plne_zneni": "ČD D2 čl. 214: Na stanovišti strojvedoucího, z něhož je hnací vozidlo řízeno, mohou jet nejvýše čtyři osoby včetně strojvedoucího, pokud prostor tohoto stanoviště umožňuje nerušené řízení hnacího vozidla. Takto mohou na stanovišti strojvedoucího jet: a) osoby, které se prokáží příslušným oprávněním k jízdě na stanovišti strojvedoucího dle předpisu ČD V 2 […]; b) osoby, které se prokáží příslušným Pověřením k vykonání poznání tratě […]; c) zaměstnanci ČD při obsluze dalších manipulačních míst […]; d) členové doprovodu vlaku ČD […]; e) zaměstnanci ČD, kteří zde plní služební povinnosti (např. zaměstnanec při poruše zařízení kontroly bdělosti strojvedoucího, pro přenášení návěstí, apod.); f) strojvedoucí v přípravě, zaměstnanci údržby vozidel […]; g) lékaři, zdravotníci a ostatní osoby IZS […]; h) zaměstnanci SŽ ve službě […]; i) příslušníci Policie České republiky […]. Osoby, které se prokáží povolením s oprávněním pouze ke vstupu na hnací vozidlo, se nesmí na stanovišti zdržovat za pohybu vozidla (při jízdě vlaku, posunu).\n\nČD D2 čl. 216: Osoby přepravované na stanovišti strojvedoucího nesmějí žádným způsobem rušit strojvedoucího ve výkonu služby a musí uposlechnout všech jeho pokynů. […]\n\nČD V2 čl. 81: Na stanovišti strojvedoucího, ze kterého se řídí přidělené vozidlo, musí za jízdy pobývat celá lokomotivní četa, včetně zaměstnanců provádějících poznání traťových a místních poměrů.",
+  "distraktory": [
+   "Nejvýše tři osoby včetně strojvedoucího, a to jen pokud prostor tohoto stanoviště umožňuje nerušené řízení hnacího vozidla.",
+   "Nejvýše čtyři osoby mimo lokomotivní četu; počet osob na stanovišti, z něhož je hnací vozidlo řízeno, předpis jinak neomezuje."
+  ],
+  "jistota": "vysoká"
+ }
+]

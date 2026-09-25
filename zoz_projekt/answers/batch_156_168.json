@@ -1,0 +1,363 @@
+[
+ {
+  "n": 156,
+  "otazka": "Jak zní závazné slovní znění návěsti „Stlačit“ dávané pomocí rádiové stanice strojvedoucímu vlaku 9820?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (1) – tabulka 5"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (9)"
+   }
+  ],
+  "odpoved": "„Vlak 9820 ve stanici (v dopravně / mezi stanicemi) … na koleji … stlač.“ – vždy se doplní místo a číslo koleje.",
+  "plne_zneni": "SŽ Z11 čl. 19 odst. (1): Pro předávání pokynů při provádění posunu prostřednictvím simplexních rádiových sítí je nutno dodržet následující zásady: přesná identifikace účastníka rádiového provozu prováděná slovním zněním; přesná definice směru pohybu HDV; přesně definovaná činnost vyplývající z dohodnuté technologie posunu. […] V níže uvedené tabulce 5 je přehled doporučených slovních znění, kterými se dává pokyn k uvedení posunového dílu do pohybu nebo se jimi pohyb posunového dílu ovlivňuje, a které mohou být při provádění posunu použity.\n\ntabulka 5 – Doporučená slovní znění pokynů nahrazujících ruční návěsti pro posun:\nStlačit – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … na koleji … stlač.“\n\nSŽ Z11 čl. 19 odst. (5): Jako minimální hodnota opakovací doby potřebné pro bezpečné předání pokynu je časový interval 5 sekund.\n\nSŽ D1 čl. 227 odst. (9): Stlačit – […] slyšitelná návěst: dva krátké zvuky píšťalky rychle za sebou • přikazuje strojvedoucímu stlačit vozidla, aby mohla být svěšena nebo rozvěšena • při vjezdu vlaku na obsazenou kolej informuje strojvedoucího o možnosti najetí na stojící vozidla za účelem svěšení bez zastavení.",
+  "distraktory": [
+   "„Vlak 9820 ve stanici (v dopravně / mezi stanicemi) … z koleje … směrem … stlač.“ – vždy se doplní místo a směr posunu.",
+   "„Pozor, pozor, vlak 9820 na příjmu, stlač, stlač.“ – vždy se doplní označení vlaku a číslo koleje."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "SŽ Z11 označuje znění v tabulce 5 jako doporučená (závazná slovní znění tabulky 1 obsahují pouze návěsti Stůj, zastavte všemi prostředky a Souhlas k jízdě). Otázka zřejmě používá pojem „závazné“ nepřesně."
+ },
+ {
+  "n": 157,
+  "otazka": "Jak zní závazné slovní znění návěsti „Stůj“ dávané pomocí rádiové stanice?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (1) – tabulka 5"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 4 odst. (19) – tabulka 1"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (13)"
+   }
+  ],
+  "odpoved": "„Vlak / záloha / posun / PMD ve stanici (v dopravně / mezi stanicemi) … na koleji … stůj.“ – doplní se označení dílu, místo a číslo koleje.",
+  "plne_zneni": "SŽ Z11 čl. 19 odst. (1), tabulka 5 – Doporučená slovní znění pokynů nahrazujících ruční návěsti pro posun:\nStůj – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … na koleji … stůj.“\n\nSŽ Z11 čl. 4 odst. (19), tabulka 1 – Definice závazných slovních znění prostřednictvím rádiové sítě:\nStůj, zastavte všemi prostředky – „Pozor, pozor, všechny vlaky na příjmu, stop, stop“. Poznámky k tabulce 1: zastavení provozu se vždy týká všech HDV v dosahu radiostanice bez rozdílu (tedy všech vlaků, posunu a PMD); strojvedoucí dotčených HDV musí neprodleně zahájit rychločinné brzdění i v případech, kdy uslyší i jen část ze slovního znění pokynu pro tuto návěst.\n\nSŽ D1 čl. 227 odst. (13): Stůj – […] slyšitelná návěst: tři krátké zvuky píšťalky • přikazuje strojvedoucímu neprodleně zastavit pohyb vozidel.",
+  "distraktory": [
+   "„Vlak / záloha / posun / PMD ve stanici (v dopravně / mezi stanicemi) … z koleje … směrem … stůj.“ – doplní se označení dílu, místo a směr posunu.",
+   "„Vlak / záloha / posun / PMD ve stanici (v dopravně / mezi stanicemi) … na koleji … zastavte.“ – doplní se označení dílu, místo a číslo koleje."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Otázka neuvádí, zda jde o ruční návěst pro posun Stůj (Z11 tab. 5 – doporučené znění, viz i otázka 156 „Stlačit“), nebo o návěst Stůj, zastavte všemi prostředky (Z11 tab. 1 – závazné znění „Pozor, pozor, všechny vlaky na příjmu, stop, stop“). Vzhledem k návaznosti na otázku 156 je odpovězeno podle tabulky 5; závazné znění tabulky 1 je uvedeno v plném znění."
+ },
+ {
+  "n": 158,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q158_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (5)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (6)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Vzdálit – přikazuje pohyb vozidel směrem od zaměstnance, který návěst dává; doplňuje se jedním dlouhým zvukem píšťalky.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (5): Vzdálit – denní návěst: svislé dlouhé pohyby červeným praporkem; noční návěst: svislé dlouhé pohyby ruční svítilnou s bílým světlem; slyšitelné doplnění návěsti: podle potřeby doplněné o jeden dlouhý zvuk píšťalky • přikazuje pohyb vozidel směrem od zaměstnance, který tuto návěst dává.\n\nSŽ D1 čl. 227 odst. (6): Slyšitelný pokyn smí strojvedoucí uposlechnout, jen když je dáván současně s viditelnou návěstí Vzdálit.\n\nSŽ D1 čl. 227 odst. (4): Je-li pohyb vozidel řízen ručními návěstmi pro posun, musí být tyto návěsti dávány po celou potřebnou dobu jízdy. Toto ustanovení neplatí pro návěsti Stlačit, Odraz nebo Souhlas k jízdě.",
+  "distraktory": [
+   "Ruční návěst pro posun Přiblížit – přikazuje pohyb vozidel směrem k zaměstnanci, který návěst dává; doplňuje se dvěma dlouhými zvuky píšťalky.",
+   "Ruční návěst pro posun Popotáhnout – přikazuje strojvedoucímu kratší pohyb vozidel; doplňuje se jedním nebo dvěma dlouhými zvuky píšťalky."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 159,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q159_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (7)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (8)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Přiblížit – přikazuje pohyb vozidel směrem k zaměstnanci, který návěst dává; doplňuje se dvěma dlouhými zvuky píšťalky.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (7): Přiblížit – denní návěst: vodorovné dlouhé pohyby červeným praporkem; noční návěst: vodorovné dlouhé pohyby ruční svítilnou s bílým světlem; slyšitelné doplnění návěsti: podle potřeby doplněné o dva dlouhé zvuky píšťalky • přikazuje pohyb vozidel směrem k zaměstnanci, který tuto návěst dává.\n\nSŽ D1 čl. 227 odst. (8): Slyšitelný pokyn smí strojvedoucí uposlechnout, jen když je dáván současně s viditelnou návěstí Přiblížit.",
+  "distraktory": [
+   "Ruční návěst pro posun Vzdálit – přikazuje pohyb vozidel směrem od zaměstnance, který návěst dává; doplňuje se jedním dlouhým zvukem píšťalky.",
+   "Ruční návěst pro posun Odraz – přikazuje rychlý pohyb vozidel k zaměstnanci, který návěst dává; doplňuje se jedním dlouhým a jedním krátkým zvukem."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 160,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q160_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (9)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (4)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Stlačit – přikazuje strojvedoucímu stlačit vozidla, aby mohla být svěšena nebo rozvěšena; slyšitelně dva krátké zvuky rychle za sebou.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (9): Stlačit – denní návěst: vodorovné krátké pohyby rukama k sobě a od sebe, v jedné ruce drží zaměstnanec červený praporek; noční návěst: vodorovné krátké pohyby rukama k sobě a od sebe, v jedné ruce drží zaměstnanec ruční svítilnu s bílým světlem; slyšitelná návěst: dva krátké zvuky píšťalky rychle za sebou • přikazuje strojvedoucímu stlačit vozidla, aby mohla být svěšena nebo rozvěšena • při vjezdu vlaku na obsazenou kolej informuje strojvedoucího o možnosti najetí na stojící vozidla za účelem svěšení bez zastavení.\n\nSŽ D1 čl. 227 odst. (4): […] Toto ustanovení (dávání návěsti po celou dobu jízdy) neplatí pro návěsti Stlačit, Odraz nebo Souhlas k jízdě.",
+  "distraktory": [
+   "Ruční návěst pro posun Popotáhnout – přikazuje strojvedoucímu kratší pohyb vozidel potřebný ke svěšení; slyšitelně dva krátké zvuky rychle za sebou.",
+   "Ruční návěst pro posun Pomalu – přikazuje strojvedoucímu snížit rychlost vozidel na nejvýše 5 km/h; slyšitelně opakovaně dlouhý zvuk píšťalky."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 161,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q161_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (10)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Popotáhnout – přikazuje strojvedoucímu kratší pohyb vozidel; doplňuje se jedním nebo dvěma dlouhými zvuky podle požadovaného směru.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (10): Popotáhnout – denní návěst: svislé krátké pohyby rukama zdviženýma vzhůru, v jedné ruce drží zaměstnanec červený praporek; noční návěst: svislé krátké pohyby rukama zdviženýma vzhůru, v jedné ruce drží zaměstnanec ruční svítilnu s bílým světlem; slyšitelné doplnění návěsti: o jeden dlouhý zvuk nebo o dva dlouhé zvuky píšťalky • přikazuje strojvedoucímu kratší pohyb vozidel • v případě stojících vozidel se viditelná návěst Popotáhnout musí vždy doplnit jedním nebo dvěma dlouhými zvuky (jako u návěsti Vzdálit nebo Přiblížit) podle požadovaného směru pohybu vozidel.",
+  "distraktory": [
+   "Ruční návěst pro posun Stlačit – přikazuje strojvedoucímu stlačit vozidla ke svěšení; doplňuje se dvěma krátkými zvuky píšťalky rychle za sebou.",
+   "Ruční návěst pro posun Vzdálit – přikazuje pohyb vozidel směrem od zaměstnance, který návěst dává; doplňuje se jedním dlouhým zvukem píšťalky."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 162,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q162_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (11)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (12)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Pomalu – přikazuje snížit rychlost vozidel na nejvýše 5 km/h a předvěstí ruční návěst pro posun Stůj; slyšitelně opakovaně dlouhý zvuk.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (11): Pomalu – denní návěst: šikmo vzhůru ruka s červeným praporkem; noční návěst: šikmo vzhůru ruka s ruční svítilnou s bílým světlem; slyšitelná návěst: opakovaně dlouhý zvuk píšťalky • přikazuje strojvedoucímu snížit rychlost vozidel na nejvýše 5 km/h • předvěstí ruční návěst pro posun Stůj.\n\nSŽ D1 čl. 227 odst. (12): Ruční návěst pro posun Pomalu musí být dávána v posledních 100 m (odhadem) před místem zastavení sunutého posunového dílu, pokud strojvedoucí před započetím posunu nerozhodne jinak. Bude-li sunutí prováděno na vzdálenost kratší než 100 m, musí zaměstnanec řídící posun na tuto skutečnost strojvedoucího upozornit. Nenásleduje-li bezprostředně po návěsti Pomalu snížení rychlosti vozidel, je zaměstnanec posunové čety povinen dát neprodleně návěst Stůj, zastavte všemi prostředky.",
+  "distraktory": [
+   "Ruční návěst pro posun Pomalu – přikazuje snížit rychlost vozidel na nejvýše 10 km/h a předvěstí ruční návěst pro posun Stůj; slyšitelně opakovaně dlouhý zvuk.",
+   "Ruční návěst pro posun Stlačit – přikazuje stlačit vozidla, aby mohla být svěšena nebo rozvěšena; slyšitelně dva krátké zvuky píšťalky rychle za sebou."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 163,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q163_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (13)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (2)"
+   }
+  ],
+  "odpoved": "Ruční návěst pro posun Stůj – přikazuje strojvedoucímu neprodleně zastavit pohyb vozidel; slyšitelnou návěstí jsou tři krátké zvuky píšťalky.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (13): Stůj – denní návěst: kruhové pohyby nataženou rukou s červeným praporkem; noční návěst: kruhové pohyby nataženou rukou s ruční svítilnou s bílým světlem; slyšitelná návěst: tři krátké zvuky píšťalky • přikazuje strojvedoucímu neprodleně zastavit pohyb vozidel.\n\nSŽ D1 čl. 145 odst. (2) a (3) (pro odlišení): Stůj, zastavte všemi prostředky – denní návěst: kroužení praporkem, jakýmkoli předmětem nebo jen rukou; noční návěst: kroužení svítilnou se světlem jakékoli barvy mimo zelené; slyšitelná návěst: tři krátké zvuky několikrát opakované, dávané píšťalkou, houkačkou nebo lokomotivní houkačkou • přikazuje zastavit pohyb vozidel všemi dostupnými prostředky.",
+  "distraktory": [
+   "Ruční návěst pro posun Stůj – přikazuje strojvedoucímu neprodleně zastavit pohyb vozidel; slyšitelnou návěstí je opakovaně dlouhý zvuk píšťalky.",
+   "Návěst Stůj, zastavte všemi prostředky – přikazuje zastavit pohyb vozidel všemi dostupnými prostředky; slyšitelně tři krátké zvuky několikrát opakované."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Obrázek patří do řady ručních návěstí pro posun (čl. 227) – červený praporek, svítilna s bílým světlem a právě tři krátké zvuky (neopakované), proto jde o návěst Stůj. Vizuálně podobná návěst Stůj, zastavte všemi prostředky (čl. 145) se dává kroužením jakýmkoli předmětem a tři krátké zvuky se několikrát opakují."
+ },
+ {
+  "n": 164,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q164_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (15)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 227 odst. (16)"
+   }
+  ],
+  "odpoved": "Návěst Souhlas k jízdě – dává ji výhybkář, informuje zaměstnance řídícího posun o postavené posunové cestě a je souhlasem k posunu.",
+  "plne_zneni": "SŽ D1 čl. 227 odst. (15): Souhlas k jízdě – denní návěst: opisování svislé osmičky červeným praporkem; noční návěst: opisování svislé osmičky ruční svítilnou s bílým světlem • dává výhybkář • informuje zaměstnance řídícího posun o postavené posunové cestě • je souhlasem k posunu.\n\nSŽ D1 čl. 227 odst. (16): Návěstí Souhlas k jízdě může dát člen doprovodu vlaku pokyn k jízdě vlaku, popř. PMD do (z) dopravny D3 nebo dopravny RB. Podmínky jsou stanoveny předpisem D3 nebo předpisem D4.\n\nSŽ D1 čl. 227 odst. (4): […] Toto ustanovení neplatí pro návěsti Stlačit, Odraz nebo Souhlas k jízdě.",
+  "distraktory": [
+   "Ruční návěst pro posun Odraz – přikazuje rychlý pohyb vozidel k zaměstnanci, který návěst dává; doplňuje se jedním dlouhým a jedním krátkým zvukem píšťalky.",
+   "Návěst Souhlas k jízdě – dává ji strojvedoucí a potvrzuje jí zaměstnanci řídícímu posun, že přijal pokyn k uvedení posunového dílu do pohybu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 165,
+  "otazka": "Za jízdy elektrického hnacího vozidla dojde k výpadku napětí v troleji a lokomotiva nesignalizuje závadu sběrače. Jak bude strojvedoucí dále postupovat?",
+  "obrazky": [],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (7)"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 196"
+   }
+  ],
+  "odpoved": "Musí zastavit (tunel, neutrální pole, beznapěťový úsek a most projede), pohledem ze stanoviště ověří sběrač i trolej a výpadek ohlásí výpravčímu; rozjede se jen s jeho souhlasem.",
+  "plne_zneni": "SŽ D1 čl. 402 odst. (3): Při zjištění výpadku napětí v trakčním vedení při jízdě hnacího vozidla závislé trakce musí strojvedoucí vozidla zastavit. Pokud by však měl vlak zastavit v tunelu, v úseku neutrálního pole, v beznapěťovém úseku nebo na mostě, může strojvedoucí podle možnosti s vlakem dojet až za toto místo; přitom musí pozorně sledovat vlastní soupravu vozidel, popř. i soupravy vlaků na sousedních kolejích, není-li na vlaku závada ohrožující bezpečnost provozování dráhy a drážní dopravy. Ustanovení tohoto odstavce neplatí v případě, že byl strojvedoucí o možnosti výpadku napětí trakčního vedení informován elektrodispečerem (výpravčím).\n\nSŽ D1 čl. 402 odst. (4): Výpadek napětí, včetně případné závady na vlaku nebo na trakčním vedení, oznámí strojvedoucí výpravčímu.\n\nSŽ D1 čl. 402 odst. (5): Vozidla závislé trakce nesmí pokračovat v jízdě na jiný sběrač, než byl původně při jízdě použit, pokud není poškození sběrače i trakčního vedení zcela vyloučeno.\n\nSŽ D1 čl. 402 odst. (7) a (8): Dojde-li po výpadku napětí v trakčním vedení k jeho obnovení, smí se rozjet na trati stojící vlaky pouze se souhlasem výpravčího. Po obnovení napětí a vydání pokynu k rozjezdu nesmí strojvedoucí vozidla závislé trakce, které je vybaveno rekuperační brzdou, po dobu pěti minut používat rekuperaci.\n\nČD V2 čl. 196: Při zjištění výpadku napětí v trakčním vedení se postupuje dle ustanovení předpisu provozovatele dráhy. Za zjištění bezporuchového stavu sběrače se považuje stav, kdy sběrač ve zdvižené poloze ani trakční vedení pohledem ze stanoviště strojvedoucího nevykazují zjevné poškození (záblesky, rozkmitání trakčního vedení, prověšení vodičů apod.) a případná diagnostika sběrače nehlásí jeho poruchu.",
+  "distraktory": [
+   "Musí zastavit (tunel, neutrální pole, beznapěťový úsek a most projede), pohledem ze stanoviště ověří sběrač i trolej a výpadek ohlásí výpravčímu; po obnovení napětí se rozjede sám.",
+   "Nemusí zastavit, pokračuje setrvačností do nejbližší stanice a výpadek napětí i stav sběrače a trolejového vedení ohlásí výpravčímu až po zastavení ve stanici."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 166,
+  "otazka": "Při jízdě elektrického hnacího vozidla strojvedoucí zjistí rozkmitání troleje a výpadek napětí v troleji. Další postup strojvedoucího bude:",
+  "obrazky": [],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 402 odst. (5)"
+   }
+  ],
+  "odpoved": "Rozkmitání troleje je podezření na poškození – musí stáhnout sběrače a ihned zastavit, poté zjistit pohledem ze stanoviště stav sběračů i troleje a ohlásit to výpravčímu.",
+  "plne_zneni": "SŽ D1 čl. 402 odst. (1): Pokud strojvedoucí zjistí jakékoliv poškození sběrače nebo trakčního vedení nebo má podezření na vznik takového poškození (záblesky, vyjma záblesků způsobených námrazou na trakčním vedení, a dále rozkmitání trakčního vedení, prověšení vodičů apod.), musí stáhnout sběrače a ihned zastavit (popř. musí zůstat stát). Po zastavení zjistí stav sběračů pohledem ze stanoviště strojvedoucího a stav trakčního vedení v dohledné vzdálenosti od hnacího vozidla.\n\nSŽ D1 čl. 402 odst. (2): Zjištěné skutečnosti oznámí strojvedoucí výpravčímu. Uvede rovněž úsek, ve kterém se zjištěná závada (nebo příznaky závady) s možným vlivem na sjízdnost tratě projevovala, ale nebylo možno stav prověřit vzhledem k viditelnosti nebo délce dráhy, ujeté do zastavení.\n\nSŽ D1 čl. 402 odst. (5) a (6): Vozidla závislé trakce nesmí pokračovat v jízdě na jiný sběrač, než byl původně při jízdě použit, pokud není poškození sběrače i trakčního vedení zcela vyloučeno. Nemůže-li strojvedoucí pokračovat v další jízdě, vyžádá si pomocné hnací vozidlo.",
+  "distraktory": [
+   "Rozkmitání troleje je podezření na poškození – musí stáhnout sběrače a ihned zastavit, poté zvednout druhý sběrač a pokračovat; závadu ohlásí až v nejbližší stanici.",
+   "Musí ponechat sběrače zdvižené, snížit rychlost na nejvýše 40 km/h a jet podle rozhledových poměrů k nejbližší stanici, kde závadu ohlásí výpravčímu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 167,
+  "otazka": "Jak bude strojvedoucí postupovat při jízdě elektrického hnacího vozidla úsekem s napěťovou výlukou označeným dle obrázku? Strojvedoucí je zpraven o umístění výlukových návěstidel pro elektrický provoz.",
+  "obrazky": [
+   "img/q167_1.png"
+  ],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (46)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 396 odst. (41)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 434 odst. (10)"
+   }
+  ],
+  "odpoved": "Řídí se jen výlukovými návěstidly (oranžový okraj): sběrač stáhne u návěsti Stáhněte sběrač a zdvihne jej až za výlukovou návěstí Zdvihněte sběrač; nepřenosná uvnitř výluky neplatí.",
+  "plne_zneni": "SŽ D1 čl. 396 odst. (46): Pokud strojvedoucí vozidla závislé trakce dostal při napěťové výluce trakčního vedení pokyn ke stažení sběrače výlukovým návěstidlem pro elektrický provoz, může sběrač zdvihnout pouze na návěst výlukového návěstidla pro elektrický provoz, popř. na pokyn výpravčího, daný písemným rozkazem nebo telekomunikačním zařízením. Návěst Zdvihněte sběrač na nepřenosném návěstidle pro elektrický provoz v úseku napěťové výluky trakčního vedení neplatí.\n\nSŽ D1 čl. 396 odst. (41): U výlukových návěstidel pro elektrický provoz je modrá deska ohraničena oranžovým okrajem (viz obrázek 231). Význam návěstí je stejný, jako u návěstidel nepřenosných.\n\nSŽ D1 čl. 434 odst. (3): Strojvedoucí hnacího vozidla závislé trakce se musí řídit výlukovými návěstidly pro elektrický provoz vždy, když je zpraven o jízdě se staženými sběrači a v čase vymezení platnosti uvedené v písemném rozkaze.\n\nSŽ D1 čl. 434 odst. (10): Pokud strojvedoucí vozidla závislé trakce obdržel pokyn ke stažení sběrače, nesmí jej zvednout, dokud k tomu nedostane příslušný pokyn: a) výlukovým návěstidlem pro elektrický provoz; b) písemným rozkazem, kde je uvedena km poloha místa, kde je možné zdvihnout sběrač; c) od výpravčího (dirigujícího dispečera).\n\nSŽ D1 čl. 396 odst. (44): V úseku vymezeném návěstí Stáhněte sběrač […] a návěstí Zdvihněte sběrač je zakázáno stání vozidel závislé trakce se zdviženým sběračem.",
+  "distraktory": [
+   "Řídí se jen výlukovými návěstidly (oranžový okraj): sběrač stáhne u návěsti Stáhněte sběrač a zdvihne jej už u první nepřenosné návěsti Zdvihněte sběrač uvnitř výluky.",
+   "Řídí se nepřenosnými návěstidly pro elektrický provoz, ta mají přednost; výluková návěstidla s oranžovým okrajem platí jen pro posun a pro jízdu PMD."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Obrázek ukazuje úsek napěťové výluky ohraničený výlukovými návěstidly (modrá deska s oranžovým okrajem) s nepřenosnými návěstidly (modrá deska s bílým okrajem) uvnitř – situace čl. 396 odst. (46). POZOR: v kresbě jsou symboly prohozeny proti SŽ D1 – svislý bílý pruh je zde použit pro Stáhněte sběrač a vodorovný pro Zdvihněte sběrač, podle čl. 396 odst. (12) a (13) je to naopak. Na obsah odpovědi to nemá vliv."
+ },
+ {
+  "n": 168,
+  "otazka": "Jak se strojvedoucí dozví o umístění výlukových návěstidel pro elektrický provoz?",
+  "obrazky": [],
+  "tema": "Elektrický provoz",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 433 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 433 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 433 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1/1",
+    "clanek": "rozkaz č. 58 Omezení elektrického napájení trakčního vedení"
+   }
+  ],
+  "odpoved": "Prokazatelným zpravením: u předpokládané výluky Seznamem plánovaných omezení od dopravce, u nepředpokládané písemným rozkazem výpravčího s km polohou návěstidel.",
+  "plne_zneni": "SŽ D1 čl. 433 odst. (1): O jízdě se staženými sběrači musí být strojvedoucí všech vozidel závislé trakce (činných a pohotových k službě a zaměstnanci obsluhy měřícího vozu) zpraveni prokazatelně. Za zpravení odpovídá: a) u předpokládané napěťové výluky dopravce (Seznam plánovaných omezení v provozování dráhy a změn stavebně technických parametrů dráhy); b) u nepředpokládané výluky: 1. výpravčí stanice s vypnutým (nesjízdným) trakčním vedením ve stanici nebo 2. výpravčí stanice bezprostředně před místem s vypnutým (nesjízdným) trakčním vedením na širé trati; 3. dirigující dispečer na trati D3.\n\nSŽ D1 čl. 433 odst. (2): Pokud je strojvedoucí zpravován písemným rozkazem musí tento rozkaz obsahovat: a) název dopravny s kolejovým rozvětvením nebo mezistaniční úsek; b) kilometrické vymezení (viz obrázek 247 tohoto předpisu km poloha umístění prvního návěstidla s návěstí Stáhněte sběrač a posledního návěstidla s návěstí Zdvihněte sběrač ve směru jízdy vlaku); c) číslo první a poslední trakční podpěry (určuje OSPD); d) zda se jedná o jízdu se staženými sběrači při vjezdu, odjezdu, jízdě po koleji […]; e) časové vymezení platnosti písemného rozkazu […]; f) že se strojvedoucí v daném úseku musí řídit výlukovými návěstidly pro elektrický provoz. V případě, že jsou umístěna výluková návěstidla pro elektrický provoz, platí pro jízdu vozidla závislé trakce tato návěstidla a kilometrické vymezení (i čísla trakčních podpěr) je pouze orientační informací o beznapěťovém úseku.\n\nSŽ D1 čl. 433 odst. (3): Při nepředpokládané výluce musí být, do doby umístění výlukových návěstidel pro elektrický provoz, text písemného rozkazu doplněn o informaci, že výluková návěstidla pro elektrický provoz nejsou umístěna.",
+  "distraktory": [
+   "Prokazatelným zpravením: u předpokládané výluky písemným rozkazem výpravčího, u nepředpokládané jen ústně, vždy s km polohou návěstidel Zdvihněte sběrač.",
+   "Umístění výlukových návěstidel se nezpravuje – je uvedeno v tabulkách traťových poměrů, strojvedoucí se o něm dozví z TTP a ze Zvláštních ustanovení pro dopravnu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "SŽ PPD-01/2025 (nová/světelná návěstidla pro elektrický provoz) způsob zpravování neupravuje – řeší jen ověřovací provoz světelných návěstidel a návěstidel pro vozidla s trakční baterií; zpravování zůstává podle SŽ D1 čl. 433 (písemný rozkaz podle D1/1 – rozkaz č. 58, popř. SPO)."
+ }
+]

@@ -1,0 +1,1654 @@
+                                                    Generální ředitelství
+                                                    Praha
+                                                    číslo jednací   118550/2025-SŽ-GŘ-O11
+
+                                                    účinnost od     14. prosince 2025
+
+                                                    změna č.        1
+
+                                                    účinnost od     1.června 2026
+
+                                                    počet stran     28
+
+
+
+
+Provozní řád
+
+traťové rádiové sítě
+GSM-R CZ
+
+
+
+
+             Ing. JIŘÍ ČERNÝ
+             15.05.2026 14:54
+             Podepsáno elektronicky
+
+
+
+                                      Ing. Jiří Černý
+Schválil:
+                                      ředitel O11
+
+                                      Zdeněk Joza
+Zpracoval:
+                                      kontrolní operatér obsluhy dráhy
+
+
+
+
+                                               1
+ PŘ GSM-R CZ                                                                    účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                                účinnost od 1.června 2026
+
+
+
+                             ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav a změn
+a za provedení příslušného záznamu.
+
+  oprava/změna a její                                                                opravu/změnu
+                                    číslo jednací              účinnost od
+     pořadové číslo                                                                    zapracoval
+
+
+               1              83861/2026-SŽ-GŘ-O11            1.června 2026            Zdeněk Joza
+
+
+
+
+                                                    2
+    PŘ GSM-R CZ                                                                                              účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                                                           účinnost od 1.června 2026
+
+
+
+                                                                  OBSAH
+                                                                                                                                       strana
+ROZSAH ZNALOSTÍ................................................................................................................................ 4
+ZKRATKY A ZNAČKY............................................................................................................................... 5
+1     ZÁKLADNÍ USTANOVENÍ .................................................................................................................... 7
+2     PROVOZOVANÉ RÁDIOVÉ SÍTĚ ........................................................................................................... 7
+3     ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ ...................................................... 7
+4     ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ ......................................................................................................... 7
+5     PORUCHY RÁDIOVÉHO PROVOZU A ZAŘÍZENÍ ...................................................................................... 8
+6     ZÁSADY POUŽITÍ RÁDIOVÝCH SÍTÍ ................................................................................................... 10
+7     NÁVODY K OBSLUZE RÁDIOVÉHO ZAŘÍZENÍ ...................................................................................... 12
+8     ULOŽENÍ DOKUMENTACE ................................................................................................................. 12
+9     MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE ........................................................................ 13
+Příloha A       Skupinová spojení pro posun dopravců v lokalitě ŽST Bohumín ................................................ 14
+Příloha B       Adresné zkrácené volby platné pro specifická rádiová spojení ................................................... 15
+Příloha C       Místní opatření pro provoz sítě GSM-R CZ............................................................................... 24
+
+
+
+
+                                                                        3
+    PŘ GSM-R CZ                                                                       účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                                   účinnost od 1.června 2026
+
+
+
+                                           ROZSAH ZNALOSTÍ
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci) nebo činnost,
+přičemž:
+•     informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+      dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen se podle takového
+      ustanovení samostatně řídit nebo podle něj samostatně konat;
+•     úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto dokumentu,
+      zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen se podle takového ustanovení
+      samostatně řídit nebo podle něj samostatně konat;
+•     doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který
+      je v příslušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu
+      do příslušného ustanovení samostatně reprodukovat.
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+
+
+
+             pracovní činnost nebo zařazení (funkce)                           znalost ustanovení
+
+
+    Vrchní kontrolní operátor (VKO)                                úplná: celý předpis
+
+    Kontrolní operatér SŽ (KOO, KOR, KOT)
+                                                                   úplná: celý předpis
+    Kontrolní operatér dopravce (KOD) *)
+
+    Hlavní operatér (HLO) – SŽ; AŽD; CPS                           úplná
+    Hlavní operatér (HLO) dopravce *)                              (v rozsahu své působnosti)
+
+    Odpovědný operatér (ODO) – SŽ; AŽD; CPS                        úplná
+    Odpovědný operatér (ODO) dopravce *)                           (v rozsahu své působnosti)
+
+    Provozní operatér (PRO) – SŽ; AŽD; CPS                         úplná
+    Provozní operatér (PRO) dopravce *)                            (v rozsahu své působnosti)
+
+    Zaměstnanci pověření kontrolní činností na úseku               úplná
+    provozování dráhy a drážní dopravy                             (v rozsahu své působnosti)
+
+*) platí pro dopravce, kteří používají ŽDC v uvedené oblasti / trati dle působnosti tohoto PŘ
+
+
+
+
+                                                        4
+ PŘ GSM-R CZ                                                                             účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                                          účinnost od 1.června 2026
+
+
+
+                                               ZKRATKY A ZNAČKY
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto dokumentu. V seznamu se neuvádějí legislativní
+zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích, příkladech nebo
+tabulkách.
+AŽD .............    AŽD Praha, s.r.o. – provozovatel dráhy; provozovatel drážní dopravy v uvedeném úseku trati
+BSC .............    ovladač základnové radiostanice (z angl. Base Station Controller)
+BTS .............    základnová radiostanice sítě GSM-R (z angl. Base Transceiver Station)
+CDP .............    Centrální dispečerské pracoviště
+CPŘP ............    Centrum podpory řízení provozu
+CPS .............    cizí právní subjekt
+CTD .............    Centrum techniky a diagnostiky
+DAP .............    dokumenty a předpisy
+DOZ .............    dálkové ovládání zabezpečovacího zařízení
+DT ...............   dotykový terminál
+DŽDC ...........     dispečer železniční dopravní cesty
+DŽIn ............    dispečer železniční infrastruktury
+ETCS............     evropský vlakový zabezpečovač (z angl. Europen Train Control System)
+FN ...............   funkční číslo (z angl. functional number)
+GSM-R .........      železniční mobilní telefonní síť (z angl. Global System for Mobile Communication – Railway)
+G-STOP ........      generální STOP
+GŘ ...............   generální ředitelství
+HLO .............    hlavní operatér
+HV ...............   hnací vozidlo
+HDV .............    hnací drážní vozidlo
+KAC .............    Kontrolně analytické centrum
+KOD .............    kontrolní operatér dopravce
+KOO.............     kontrolní operatér obsluhy dráhy
+KOR .............    kontrolní operatér regionu
+MT ...............   mobilní telefon
+ODO ............     odpovědný operatér
+OŘ ...............   oblastní ředitelství
+OS ...............   organizační složka
+OJ ...............   organizační jednotka
+PA ...............   provozní aplikace
+PA ISOŘ .......      provozní aplikace informačního systému operativního řízení
+PMD .............    posun mezi dopravnami
+PPV ..............   pohotovostní pracoviště výpravčích
+PRO .............    provozní operatér
+PŘ ...............   Provozní řád
+RDP .............    Regionální dispečerské pracoviště
+ŘS ...............   řídící stavědlo
+SHV .............    speciální hnací vozidlo
+
+
+
+
+                                                           5
+ PŘ GSM-R CZ                                                                  účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                              účinnost od 1.června 2026
+
+
+SKP .............    skupinové spojení
+SROV ...........     složka rozkazů o výluce
+SŽ ...............   Správa železnic, státní organizace
+TD ...............   traťový dispečer
+TRS .............    traťová rádiová síť
+TTP ..............   tabulka traťových poměrů
+ÚS ...............   ústřední stavědlo
+VKO .............    vrchní kontrolní operatér
+VNPN ...........     výstraha při nedovoleném projetí návěstidla
+VR ...............   vozidlová radiostanice
+ZDD .............    základní dopravní dokumentace
+ZP ...............   záložní pracoviště
+ZR ...............   základnová radiostanice
+ZV ...............   zkrácená volba koncového terminálu určitého pracoviště
+ŽDC .............    železniční dopravní cesta
+ŽST .............    železniční stanice
+
+
+
+
+                                                          6
+ PŘ GSM-R CZ                                                               účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                           účinnost od 1.června 2026
+
+
+
+1       ZÁKLADNÍ USTANOVENÍ
+1.1     Úvodní ustanovení
+        Provozní řád traťové rádiové sítě GSM-R CZ (dále jen „PŘ“) je zpracován ve smyslu Vyhlášky
+        173/1995 Sb. v platném znění; předpisu SŽ Z11, předpisu SŽ T7, předpisu SŽ D5-3 a dalších
+        vztažných obecně právních a rezortních předpisů. Všichni zaměstnanci používající při výkonu
+        pracovních povinností rádiovou síť GSM-R CZ musí bezpodmínečně dodržovat všechna
+        ustanovení tohoto PŘ.
+        Změny tohoto PŘ provádí KOO (GŘ O11) na základě podkladů dodaných od KOR, VKO (GŘ
+        O14), CTD, příslušné OJ Správy železnic, státní organizace (dále jen „SŽ“), dopravce nebo
+        CPS.
+1.2     Obvod působnosti PŘ
+        Všechny tratě provozované SŽ vybavené traťovou rádiovou sítí GSM-R CZ. Seznam aktuálně
+        vybavených tratí je uveden v samostatné příloze, která je uložena ve společné složce s tímto
+        PŘ na Portálu provozování dráhy (dále jen „PPD“).
+1.3     Jiná závazná opatření
+        Síť GSM-R CZ dle čl. 1.2, je provozována na základě individuálního oprávnění, vydaného
+        Českým telekomunikačním úřadem pod číslem 269703/TI.
+
+2       PROVOZOVANÉ RÁDIOVÉ SÍTĚ
+        Rádiová síť GSM-R CZ, používaná jako železniční mobilní telefonní síť pro základní rádiové
+        spojení, je určena pro dále definovaná rádiová spojení účastníků zajišťujících řízení
+        a organizování drážní dopravy ve vyjmenovaných dopravnách i mezistaničních úsecích tratí
+        (dle čl. 1.2), popř. se podílejících na jejím zajištění přímo nebo nepřímo.
+        Od 10. 12. 2019 došlo k propojení organizování rádiového provozu na sítí GSM-R CZ
+        v majetku státu společností SŽ a AŽD Praha, s.r.o. (dále jen „AŽD“) s tím, že pro obě
+        společnosti platí tento PŘ.
+        Pokud není v textu rozlišeno jinak, platí ustanovení PŘ pro rádiová zařízení v majetku SŽ
+        i AŽD.
+
+3       ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ
+        ➢      vrchní kontrolní operatér SŽ GŘ O14 (VKO);
+        ➢      kontrolní operatér obsluhy dráhy SŽ GŘ O11 (KOO);
+        ➢      kontrolní operatér regionu CPŘP, HZS SŽ a SŽG (KOR);
+        ➢      kontrolní operatér dopravce (KOD);
+        ➢      hlavní operatér pro OJ v obvodu působnosti tohoto PŘ (HLO);
+        ➢      odpovědný operatér pro OJ v obvodu působnosti tohoto PŘ (ODO).
+        Aktuální jmenovitý seznam VKO, KOO, KOR, KOD, HLO a ODO, včetně kontaktů, je k dispozici
+        na PPD ve složce „RÁDIOVÝ PROVOZ“.
+        ➢      provozní operatér:
+               dle pracovního zařazení zaměstnanců SŽ, dopravců a CPS obslužně využívající rádiový
+               provoz sítě GSM-R CZ.
+
+4       ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ
+4.1     Specifikace servisní organizace ZR
+        Údržbu a servis systému GSM-R CZ (BTS) a koncových pevných terminálů ve správě SŽ
+        zajišťuje servisní organizace na základě smluvního vztahu se správcem zařízení (CTD).
+        Údržbu a servis systému GSM-R CZ (BTS) a koncových pevných terminálů ve správě AŽD
+        zajišťuje AŽD.
+
+
+
+
+                                                  7
+ PŘ GSM-R CZ                                                                  účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                              účinnost od 1.června 2026
+
+
+
+4.2     Specifikace servisní organizace PR
+        Servis koncových mobilních terminálů GSM-R CZ (PR) ve správě SŽ zajišťuje servisní
+        organizace na základě smluvního vztahu se správcem zařízení (CTD).
+        Servis koncových mobilních terminálů GSM-R CZ (PR) ve správě AŽD zajišťuje a provádí AŽD.
+4.3     Specifikace servisní organizace VR
+        Údržba a opravy VR v majetku SŽ jsou prováděny dle interních opatření příslušné OS SŽ.
+        Pro servis a údržbu VR dopravců (mimo SŽ) platí ustanovení PŘ RS příslušného dopravce.
+
+5       PORUCHY RÁDIOVÉHO PROVOZU A ZAŘÍZENÍ
+5.1     Poruchu sítě GSM-R CZ v majetku SŽ ohlásí obsluhující zaměstnanec neprodleně
+        na telefonní číslo 972 110 000.
+        Poruchu koncového dotykového terminálu (dále jen „DT“) pro obsluhu systému GSM-R
+        CZ ohlásí obsluhující zaměstnanec správci DT – zpravidla příslušné SSZT.
+5.2     Poruchu sítě systému GSM-R v majetku AŽD (DT nebo sítě GSM-R CZ) ohlásí obsluhující
+        zaměstnanec na MT +420 601 305 085 (Lovosice), resp. +420 601 305 082 (Kopidlno).
+5.3     Zaměstnanec, obsluhující koncový pevný terminál GSM-R CZ v majetku SŽ, oznámí
+        vznik poruchy v souladu s postupy při ohlašování poruch zařízení ve správě udržující složky
+        příslušného OŘ, resp. CDP, a provede o této poruše zápis do Záznamníku poruch
+        na sdělovacím a zabezpečovacím zařízení dle ustanovení předpisu SŽ T100.
+5.4     Zaměstnanec obsluhující koncový pevný nebo mobilní terminál GSM-R CZ v majetku
+        AŽD zajistí ohlášení vzniku poruchy KOR AŽD prostřednictvím zaměstnance údržby AŽD,
+        kterému poruchu ohlásil a provede o této poruše zápis do Záznamníku poruch na sdělovacím
+        a zabezpečovacím zařízení.
+5.5     Zaměstnanec SŽ obsluhující koncový mobilní terminál GSM-R CZ oznámí vznik
+        poruchy příslušnému zaměstnanci, který organizuje a řídí železniční provoz v dané lokalitě
+        (výpravčí, traťový dispečer). Dále postupuje podle interních pokynů vlastní organizace.
+5.6     Zaměstnanec dopravce obsluhující koncový mobilní terminál GSM-R CZ oznámí vznik
+        poruchy určenému zaměstnanci vlastní organizace a příslušnému zaměstnanci SŽ, který
+        organizuje a řídí železniční provoz v dané lokalitě (výpravčí, traťový dispečer). Dále postupuje
+        podle interních pokynů (vnitřních předpisů) vlastní organizace.
+5.7     Zaměstnanec pracoviště trvalého dohledu GSM-R oznámí neprodleně každou poruchu
+        rádiové sítě GSM-R CZ, včetně jejího rozsahu, místa výskytu (např. úsek trati, ŽST, celá síť)
+        a přesně stanoveným výčtem omezení, která mají přímý (i dílčí) vliv na provoz mandatorních
+        funkcí sítě GSM-R CZ takto:
+        V případě poruch s malým rozsahem (např. porucha pouze jedné BTS nebo porucha
+        i několika BTS, které se ale nachází na stejné trati nebo ve stejném obvodu), a to telefonicky
+        na pracoviště:
+        •   provozního dispečera příslušného CDP dle obvodu jeho působnosti;
+        •   dispečera ETCS příslušného CDP dle obvodu jeho působnosti;
+        •   dispečera železniční infrastruktury (DŽIn) příslušného OŘ dle obvodu jeho působnosti;
+        •   dispečera DOZ AŽD (Lovosice) a výpravčího pro trať AŽD (Kopidlno) dle obvodu jeho
+            působnosti a pokud se porucha týká tratě, který tento dispečer / výpravčí AŽD řídí.
+            (přehled všech dispečerů SŽ a AŽD je k dispozici v samostatných přílohách, které jsou
+            uloženy na PPD ve společné složce s tímto PŘ).
+        Následně tuto telefonickou informaci potvrdí i formou e-mailové zprávy na výše uvedená
+        pracoviště, a v kopii i na adresu VKO, KOO a HLO CDP (dle obvodu jeho působnosti).
+
+
+
+
+                                                   8
+ PŘ GSM-R CZ                                                                  účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                              účinnost od 1.června 2026
+
+
+
+        V případě rozsáhlých poruch s přesahem do více obvodů provozních dispečerů (např.
+        nemožnost funkční registrace v celé síti GSM-R, porucha BSC, nefunkční roamingové služby),
+        a to telefonicky na pracoviště:
+        •    vedoucího dispečera příslušného CDP;
+        •    dispečera ETCS příslušného CDP;
+        •    dispečera železniční infrastruktury (DŽIn) příslušného CDP.
+             (přehled všech dispečerů je k dispozici v samostatných přílohách, které jsou uloženy
+             na PPD ve společné složce s tímto PŘ).
+        Následně tuto informaci potvrdí i formou e-mailové zprávy na tato pracoviště a v kopii
+        na adresu VKO, KOO a HLO CDP. Vedoucí dispečer zajistí předání informace o poruše všem
+        provozním dispečerům ve svém řízeném obvodu.
+        Dispečer ETCS zajistí bezodkladné předání informace o každé výše uvedené poruše vždy
+        příslušnému dispečerovi železniční dopravní cesty (DŽDC) dle obvodu jejich působnosti.
+5.8     Nastane-li porucha DT výpravčího nebo traťového dispečera, na kterého je
+        směrována ZV2 (1300), postupuje tento zaměstnanec v souladu s ustanovením čl. 5.1 až
+        5.3 a dále musí zajistit ve svém obvodu působnosti zpravování strojvedoucích o této poruše
+        písemným rozkazem podle čl. 5.11.
+5.9     Nastane-li porucha DT provozního dispečera, postupuje tento dispečer v souladu
+        s ustanovením čl. 5.1 až 5.3 a poruchu oznámí i vedoucímu dispečerovi.
+5.10    Nastane-li porucha sítě GSM-R CZ nebo částečná porucha infrastrukturní části
+        (porucha napájení BTS), je provozní dispečer informován podle čl. 5.7 tohoto PŘ. Provozní
+        dispečer následně zajistí informování všech dotčených výpravčích a traťových dispečerů
+        ve svém obvodu o příslušné poruše systému GSM-R CZ.
+        Výpravčí (traťoví dispečeři) poté dle možností informují i ostatní zaměstnance infrastruktury
+        a neprodleně zajistí ve svém obvodu působnosti zpravování strojvedoucích o této poruše
+        písemným rozkazem podle čl. 5.12.
+5.11    Zpravování strojvedoucích při poruše DT zaměstnance řídícího provoz dle bodu 5.8
+        tohoto PŘ:
+        V případě, že se jedná o poruchu DT, musí být příslušným dopravním zaměstnancem
+        zajištěno operativní zpravování strojvedoucích vlaků písemným rozkazem o této
+        mimořádnosti dle níže uvedených pokynů.
+        A)     Na pracovišti s poruchou DT je k dispozici mobilní terminál GSM-R
+               Strojvedoucí musí být zpraven písemným rozkazem o těchto skutečnostech:
+               •   název dopravny nebo vymezení úseku;
+               •   nemožnost spojení s výpravčím zkrácenou volbou v síti GSM-R CZ;
+               •   nouzové rádiové spojení v síti GSM-R a jeho číslo (např. 959 800 899).
+        B) Na pracovišti s poruchou DT není k dispozici mobilní terminál GSM-R
+               Strojvedoucí musí být zpraven písemným rozkazem o těchto skutečnostech:
+               •   název dopravny nebo vymezení úseku;
+               •   nedostupnost výpravčího v síti GSM-R CZ;
+               •   náhradní rádiové spojení (pokud je dle TTP k dispozici);
+               •   nouzové spojení (konkrétní telefonní číslo nebo podle údajů v TTP, vždy přednostně
+                   zaznamenávané).
+
+
+
+
+                                                    9
+ PŘ GSM-R CZ                                                               účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                           účinnost od 1.června 2026
+
+
+
+5.12    Vzory zpravování vlaků při poruše sítě GSM-R pro zaměstnance řídící provoz
+        dle bodu 5.10 tohoto PŘ:
+        V případě, že se jedná o poruchu sítě GSM-R CZ, musí být příslušným dopravním
+        zaměstnancem zajištěno operativní zpravování strojvedoucích vlaků písemným rozkazem
+        o nedostupnosti základního rádiového spojení dle níže uvedených pokynů.
+        Strojvedoucí musí být zpraven písemným rozkazem o těchto skutečnostech:
+        •   název dopravny nebo vymezení úseku;
+        •   nedostupnost základního rádiového spojení;
+        •   náhradní rádiové spojení (pokud je dle TTP k dispozici);
+        •   nouzové spojení (konkrétní telefonní číslo nebo podle údajů v TTP, vždy přednostně
+            zaznamenávané);
+        •   nepřekročení rychlosti 100 km/h (při použití pouze nouzového spojení);
+        Vzory zpravování jsou uvedeny ve SROV pro každou BTS.
+5.13    Texty zpravování strojvedoucích mohou být na základě informace od zaměstnance
+        servisní organizace nebo zaměstnance dohledového pracoviště GSM-R doplněny i o další
+        související specifikaci poruchy (např. že jsou omezeny některé funkce sítě, není možná
+        registrace a deregistrace v systému apod).
+        Pokud není stanoveno jinak (na základě informace zaměstnance servisní organizace v rámci
+        ohlášení poruchy), je v případě poruchy DT výpravčího nebo traťového dispečera
+        funkcionalita VNPN dle čl. 9.3 nadále funkční bez omezení.
+5.14    Ukončení poruchy oznámí zaměstnanec udržující OS ve smyslu předpisu SŽ T100.
+
+6       ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ
+6.1     Všeobecné zásady
+        Rádiový provoz, se kromě ustanovení předpisů SŽ pro rádiový a telefonní provoz a jeho
+        obsluhu, řídí i ustanovením tohoto PŘ;
+        Seznam odborně způsobilých zaměstnanců (provozních operatérů) dopravců nebo CPS, kteří
+        mohou používat tuto síť na základě smluvního vztahu, uzavřeného se SŽ, musí být uveden
+        v příslušném PŘ rádiových sítí těchto organizací.
+        •   Zásady komunikace zaměstnanců prostřednictvím telekomunikačního zařízení a používání
+            rádiové sítě GSM-R CZ jsou uvedeny v předpisu SŽ Z11 v platném znění.
+        •   Podrobnosti pro obsluhující zaměstnance koncových pevných terminálů GSM-R CZ s příp.
+            funkcí „telefonní zapojovač“ jsou uvedené v návodu k obsluze konkrétního typu DT.
+        •   Provozovatelé HDV, kteří chtějí využít automatické funkce STOP i v digitální traťové
+            rádiové síti GSM-R CZ, musí splnit podmínky, které jsou uvedené v Technické specifikaci
+            TS č. 3/2014 v platném znění.
+6.2     Napájení rádiových stanic a zařízení, která je ovládají
+        •   Základní napájení ZR (BTS) zajišťuje správce technologie (CTD) z příslušného napájecího
+            zdroje. Náhradní napájení je zajištěno bezobslužně po dobu minimálně 6 hodin.
+        •   Základní napájení koncových pevných terminálů SŽ zajišťuje správce zařízení (OŘ)
+            z příslušného napájecího zdroje. V případě vzniku požáru je vypínač napájení umístěn
+            v rozvodné skříni. Ohlášení požáru se řídí dokumentací požární ochrany.
+        •   Koncové mobilní terminály (PR) jsou napájené z bateriových zdrojů, které jsou jejich
+            součástí. Dobíjení a provozuschopnost zdrojů zajišťují provozní operatéři, kterým byly
+            terminály přiděleny.
+        •   Vozidlové radiostanice jsou napájené z napájecího zdroje příslušného vozidla.
+            Provozuschopnost zdroje a opatření pro odpojení napájecího zdroje v případě vzniku
+            požáru zajišťuje provozní operatér (strojvedoucí).
+
+
+
+
+                                                  10
+ PŘ GSM-R CZ                                                                účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                            účinnost od 1.června 2026
+
+
+
+6.3     Provozní ošetřování
+        Provozní ošetřování koncových pevných a mobilních terminálů GSM-R provádí obsluhující
+        zaměstnanec ve službě. Pokud není v ZDD, DAP nebo v interních předpisech dopravce
+        stanoveno jinak, provádí se provozní ošetřování dle návodu pro obsluhu příslušných zařízení.
+6.4     Seznam volacích značek a kombinace selektivní volby
+6.4.1. Při navazování komunikace jsou všichni uživatelé sítě GSM-R CZ povinni dodržovat zásady
+       a podmínky stanovené předpisem SŽ Z11 v aktuálním znění.
+        •   Při provádění posunu s použitím posunových skupin (SKP 501 až 529) je nutné dodržovat
+            základní zásady a podmínky stanovené předpisem SŽ Z11 pro používání radiostanic
+            v simplexním provozu.
+6.4.2. Volací značky (identifikace) zaměstnanců SŽ, kteří obsluhují koncové pevné terminály
+       a koncové mobilní terminály (PR) musí být v souladu s ustanovením předpisu SŽ Z11
+       v platném znění.
+6.4.3. Vozidlové radiostanice dopravce SŽ:
+        Strojvedoucí vlaku (PMD) dopravce SŽ s přiděleným číslem používá volací značku v souladu
+        s předpisem SŽ Z11.
+        Strojvedoucí na HDV dopravce SŽ bez přiděleného čísla vlaku (PMD) použije místo výkonu
+        práce ve volací značce takto:
+        •   „typ HDV“ (možné uvést i tzv. zažitý název – např. muvka) nebo
+        •   „číslo HDV“ nebo
+        •   „název OJ SŽ“ nebo
+        •   „název OS SŽ“ nebo
+        •   „název odborné správy SŽ“ nebo
+        •   „název střediska“.
+        V případě HDV bez přiděleného čísla vlaku (PMD) dopravce SŽ musí strojvedoucí uvést i číslo
+        (označení) koleje / úseku mezi dopravnami, na které / ve kterém se HDV aktuálně nachází.
+        Vzorové příklady volacích značek strojvedoucích jsou uvedeny v Příloze A předpisu SŽ Z11.
+6.4.4. Radiostanice dopravců a CPS:
+        Volací značky provozních operatérů dopravců a CPS musí být vytvořeny a používány
+        v souladu s ustanovením předpisu SŽ Z11. Pracovní zařazení zaměstnanců musí být uvedena
+        v příslušném Provozním řádu rádiových sítí těchto organizací.
+6.5     Záznamová zařízení
+        Záznam hlasové i datové komunikace v rádiové síti GSM-R CZ je prováděn centrálními
+        záznamovými zařízeními v prostorách ústředen. Nahrávány jsou všechny kanály
+        na jednotlivých BSC a také současně na dotykových terminálech (pokud je volání do sítě
+        GSM-R CZ uskutečňováno těmito terminály).
+        Kopie záznamů z externích záznamových jednotek jsou centrálně ukládány v provozní
+        aplikaci Kontrolně analytickém centru (dále jen PA KAC).
+6.6     Opatření pro používání zkrácené volby ZV2 nebo adresné zkrácené volby
+        •   V případě, kdy se při použití ZV2 dovolá strojvedoucí na nesprávné pracoviště (důvod je
+            specifikován v prvním odstavci Přílohy B), je povinnost zaměstnance řízení provozu, který
+            takový hovor přijal, jej přesměrovat na požadované pracoviště prostřednictvím DT
+            (tlačítko „předat hovor“ nebo „GSM-R kontakty“ apod.), a to dle specifikace příslušného
+            terminálu a manuálu k jeho obsluze.
+
+
+
+
+                                                 11
+ PŘ GSM-R CZ                                                                        účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                                      účinnost od 1.června 2026
+
+
+
+        •     V případě, že se strojvedoucí při použití ZV2 nebo adresné ZV (např. 1341) dovolá
+              na nesprávné pracoviště z důvodu své chybné obsluhy, a to v úseku nebo místě, kde je
+              pro požadované pracoviště nastavena adresná ZV (dle Přílohy C), nemusí zaměstnanec
+              řízení provozu hovor přesměrovávat, ale oznámí strojvedoucímu, aby použil správnou
+              adresnou ZV pro požadované pracoviště (dle Přílohy B) a pokud mu v tom nebrání jiné
+              okolnosti (např. nedostupnost údajů o ZV pro poruchu datové sítě) sdělí mu správné číslo.
+6.7     Opatření pro stanovení správné příčiny narušení JŘ pro provozní dispečery
+        •     pro zjištění správné příčiny narušení JŘ (kódu narušení) v případě aktivace skupinového
+              spojení 299 pro nouzové volání (SKP 299) nebo jednosměrného volání 499 pro aktivaci
+              povelu G-STOP (JSM 499) v traťové rádiové síti GSM-R CZ, je stanoven následný postup
+              provozního dispečera (dále jen „PD“) pro případy, kdy mu je nahlášena aktivace některé
+              z uvedených skupin:
+              1. PD ověří dotazem, pokud to bude časově a technicky možné, zda byla aktivace SKP
+                   299 nebo JSM 499 v příslušné oblasti provedena z DT traťového dispečera nebo
+                   výpravčího;
+              2. v případě, že nebude zjištěn důvod aktivace dle bodu 1. a nouzové volání nebylo
+                   aktivováno z pohyblivého terminálu v souladu s podmínkami pro jeho použití (není
+                   možné zjistit kdo spojení aktivoval a není znám důvod použití nouzového volání),
+                   nařídí PD traťovému dispečerovi (CDP PRE) / záložnímu dispečerovi (CDP PHA)
+                   provedení zápisu události (poruchy) do Záznamníku poruch na sdělovacím
+                   a zabezpečovacím zařízení a nahlášení příslušnému DŽDC; v případě tratě řízené
+                   z RDP nařídí provedení zápisu výpravčímu DOZ a nahlášení příslušnému DŽIN;
+              3. událost poté PD oznámí prostřednictvím elektronické pošty HLO CDP (v případě tratě
+                   řízené z CDP) nebo KOR příslušného OŘ (v případě tratě řízené z RDP), který zahájí
+                   vlastní šetření příčin vzniku události;
+              4. vzniklá událost může být uzavřena teprve poté, až příčinu jejího vzniku oznámí HLO
+                   CDP, resp. KOR OŘ na pracoviště analýzy JŘ CDP.
+        •     dodržení uvedeného postupu je zásadní pro stanovení odpovědnosti za narušení JŘ.
+
+7       NÁVODY K OBSLUZE RÁDIOVÉHO ZAŘÍZENÍ
+        Obsluha schválených koncových pevných a mobilních terminálů systému GSM-R CZ
+        pro použití na ŽDC v majetku státu, se provádí podle „Návodů k obsluze“ konkrétního
+        dodavatele rádiového zařízení, které jsou součástí ZDD.
+        Obsluha schválených koncových pevných a mobilních terminálů systému GSM-R CZ
+        pro použití na ŽDC v majetku společnosti AŽD se provádí podle „Návodů k obsluze“
+        konkrétního dodavatele rádiového zařízení“, které jsou uloženy dle interního opatření
+        společnosti.
+        Požadované parametry rádiových zařízení schválených pro používání na ŽDC a další užitečné
+        informace z oblasti rádiového provozu jsou umístěné na webových stránkách SŽ na adrese:
+        https://www.spravazeleznic.cz/dodavatele-odberatele/zajisteni-provozuschopnosti-
+        drahy/radiove-site.
+
+8       ULOŽENÍ DOKUMENTACE
+                                        tabulka 1 – Uložení dokumentace
+
+               název dokumentu                                     místo uložení:
+            Povozní řád GSM-R CZ         GŘ SŽ O11 – KOO; elektronická verze uložena na adrese:
+            a jeho samostatné přílohy    https://provoz.spravazeleznic.cz/Portal/ViewArticle.aspx?oid=1874801
+            OZR a OVKS                   CTD
+                                         Pracoviště provozních operatérů    dle   ZDD,    zpravidla   pracoviště
+            Záznamník poruch
+                                         výpravčích a traťových dispečerů
+            Pozn. k tabulce 1:
+            Oprávnění ke zřízení radiostanic (OZR) a oprávnění k využívání kmitočtů a sítí (OVKS) k pevným
+            rádiovým vysílacím zařízením rádiové sítě GSM-R CZ společnosti AŽD je uloženo na CTD. Záznamník
+            poruch na sdělovacím a zabezpečovacím zařízení společnosti AŽD, je uložen na pracovišti dispečera
+            v ŽST Lovosice, resp. na pracovišti výpravčího v ŽST Kopidlno.
+
+
+
+
+                                                       12
+ PŘ GSM-R CZ                                                              účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                          účinnost od 1.června 2026
+
+
+
+9       MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE
+9.1     Technické specifikace sítě
+        Použití sítě: základní rádiové spojení při organizaci a řízení drážní dopravy na trati
+        a v přilehlých dopravnách.
+        Použité kmitočty: v síti GSM-R CZ použití konkrétních kmitočtů pro vlastní práci účastníků
+        sítě není podstatné. Systém pracuje s již přednastavenými kmitočty pásma 900 MHz.
+9.2     Technologická opatření
+9.2.1. Návěsti pro rádiový provoz sítě GSM-R CZ jsou v jednotlivých traťových úsecích osazeny
+       v souladu s ustanovením DAP a TTP.
+9.2.2. Přehled a dosažitelnost dispečerů CDP Praha, CDP Přerov, RDP Olomouc, dispečerů železniční
+       infrastruktury (DŽIn) a dispečerů / výpravčích společnosti AŽD je k dispozici v samostatných
+       přílohách, které jsou trvale uloženy na Portálu provozování dráhy ve společné složce s tímto
+       PŘ.
+9.2.3. Přehled lokalit aktuálně vybavených skupinovým spojením (SKP 500 až 529) pro posun
+       dopravců je uveden v Příloze A tohoto PŘ.
+9.2.4. Adresné zkrácené volby platné pro specifická rádiová spojení jsou uvedeny v Příloze B. Tato
+       příloha je platná do doby uvedení kontaktů zaměstnanců řízení provozu pro příslušná
+       telekomunikační zařízení v TTP (v nové samostatné tabulce pro příslušnou trať – „spojení se
+       zaměstnanci řízení provozu“). Po dobu platnosti přílohy B je povinnost strojvedoucích
+       uvedené adresné ZV v příslušné oblasti (obvodu) pro spojení s příslušným pracovištěm řízení
+       provozu používat.
+9.3     Dopravny vybavené technologií VNPN
+        Seznam dopraven vybavených technologií „Výstraha při nedovoleném projetí
+        návěstidla“(VNPN) s vazbou na síť GSM-R je uveden v samostatné příloze, která je trvale
+        uložena na PPD ve společné složce s tímto PŘ.
+9.4     Opatření místního významu
+        Související opatření místního významu v příslušných lokalitách (obvodech územních správ
+        řízení provozu) jsou uvedena v Příloze C tohoto PŘ.
+
+
+
+
+                                                13
+PŘ GSM-R CZ                                                                     účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                 účinnost od 1.června 2026
+
+
+
+                                                                                             Příloha A
+       Skupinová spojení pro posun dopravců v lokalitě ŽST Bohumín.
+       Pro potřeby vyhodnocení zkušebního provozu, je při souběhu se simplexními kmitočty
+       v jednotlivých lokalitách použití SKP v systému GSM-R CZ vždy prioritní.
+
+       ŽST Bohumín (oblast 30103):
+                                                                             dopravce/označení HV +
+    SKP              technologická náplň posunovacích lokomotiv
+                                                                                   poznámka
+
+                 Slouží pro komunikaci výpravčí (dispečer) - strojvedoucí   Musí být na všech terminálech
+    500
+                 pro sjednání / ukončení posunu *)                          a HV
+
+                 Organizace a řízení posunu 1. posunující zálohy v ŽST.
+                                                                            ČD / 1. posunující záloha ČD,
+    501          Přestavování souprav, vyřazování správek, přistavování
+                                                                            pouze denní směny
+                 souprav, řazení vozů apod.
+
+                 Organizace a řízení posunu 2. posunovací lokomotiva na
+                                                                            ČD Cargo / 2. posunující
+    502          seřaďovacím nádraží Bohumín Vrbice, ve stanici a při
+                                                                            záloha
+                 obsluze vleček
+
+                                                                            Číslo SKP určuje dispečer CDP
+    503          Posun bez posunové čety; jiný posun
+                                                                            / výpravčí
+
+                 Organizace a řízení posunu 4. posunující zálohy v ŽST.
+                                                                            ČD / 4. posunující záloha ČD,
+    504          Přestavování souprav, vyřazování správek, přistavování
+                                                                            pouze denní směny
+                 souprav, řazení vozů apod.
+
+                                                                            Číslo SKP určuje dispečer CDP
+505 až 510       Posun bez posunové čety; jiný posun
+                                                                            / výpravčí
+
+                 Organizace a řízení posunu 1. posunující zálohy v ŽST.
+                                                                            ČD / 1. posunující záloha ČD,
+    511          Přestavování souprav, vyřazování správek, přistavování
+                                                                            pouze noční směny
+                 souprav, řazení vozů apod.
+
+                                                                            Číslo SKP určuje dispečer CDP
+512 až 513       Posun bez posunové čety; jiný posun
+                                                                            / výpravčí
+
+                 Organizace a řízení posunu 4. posunující zálohy v ŽST.
+                                                                            ČD / 4. posunující záloha ČD,
+    514          Přestavování souprav, vyřazování správek, přistavování
+                                                                            pouze noční směny
+                 souprav, řazení vozů apod.
+
+                 Organizace a řízení posunu 5. posunující zálohy v ŽST.
+                                                                            ČD / 5. posunující záloha ČD,
+    515          Přestavování souprav, vyřazování správek, přistavování
+                                                                            pouze noční směny
+                 souprav, řazení vozů apod.
+
+                 Rezerva, použití pouze se svolením dispečera CDP /         Číslo SKP určuje dispečer CDP
+516 až 523
+                 výpravčího                                                 / výpravčí
+
+
+                 Posun bez posunové čety; jiný posun, posun                 Číslo SKP určuje dispečer CDP
+524 až 526
+                 v mimořádných situacích                                    / výpravčí
+
+
+                 Rezerva, použití pouze se svolením dispečera CDP /         Nutný souhlas dispečera CDP
+527 až 529
+                 výpravčího                                                 / výpravčího
+
+
+*) po navolení módu posun, musí strojvedoucí před sjednáním/ukončením posunu (SKP 500) na VR zadat číslo
+oblasti (30103 – Bohumín)
+
+
+
+
+                                                       14
+PŘ GSM-R CZ                                                                   účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                               účinnost od 1.června 2026
+
+
+
+                                                                                           Příloha B
+       Adresné zkrácené volby platné pro specifická rádiová spojení
+       V obvodu velkých železničních uzlů a také v případě souběhu tratí vybavených sítí GSM-
+       R CZ dochází, ve vztahu k potřebné prostorové koncentraci základnových radiostanic (BTS),
+       k silnému překrytí kmitočtů sítě a tím i k možnému nepřesnému směrování požadovaného
+       rádiového spojení při používání zkrácených voleb „1300“ (ZV2).
+       Z tohoto důvodu dochází k optimalizaci rádiového spojení GSM-R CZ v železničních uzlech
+       nebo dopravnách a úsecích trati se složitým pokrytím signálem sítě GSM-R CZ (více BTS)
+       pomocí tzv. „dílčích adresných“ zkrácených voleb.
+       Dílčí zkrácené volby „1331 až 1360“ lze použít na spojení již z hranice obvodu celého
+       železničního uzlu (úseku trati DOZ). Použitím adresných zkrácených voleb je zajištěná
+       jednoznačná adresnost volaného. Každá ŽST v uzlu (na trati), pokud to dopravní hledisko
+       vyžaduje a technické možnosti sítě GSM-R CZ dovolí, má zkrácenou volbu „1300“ s výjimkou
+       stanic v obvodu DOZ (CDP), kdy v každém příslušném řízeném úseku DOZ je zkrácená volba
+       1300 nebo 13xx směrována zpravidla na příslušného výpravčího DOZ, traťového nebo
+       úsekového dispečera CDP.
+       Zavedení adresných zkrácených voleb je dočasné řešení problémů s přesným směrováním
+       požadovaných hovorů od strojvedoucího na výpravčího nebo traťového dispečera.
+       Adresné zkrácené volby platí do doby, než budou všechna HDV nebo zabezpečovací zařízení
+       poskytovat informace o poloze vlaku (tzv. eLDA).
+       Po dobu platnosti této přílohy dle čl. 9.2.4 pro příslušnou trať (tratě) je samostatný seznam
+       níže uvedených adresných ZV k dispozici na Portálu provozování dráhy ve společné složce
+       s tímto PŘ.
+
+
+
+    oblast           ZV   obslužné pracoviště             obvod působnosti                     pozn.
+
+                          PPV
+                1360                             Lichkov st.hr. - Ústí n. O. (mimo)
+                          Lichkov
+                          PPV                    Česká Třebová (mimo) –
+                1360
+                          Ústí nad Orlicí        Choceň (mimo)
+                1360      PPV Choceň             Choceň – Pardubice hl.n. (mimo)
+                1360      PPV Pardubice 1        ŽST Pardubice hl.n.
+                                                 Pardubice hl.n. (mimo) - Kolín
+                1360      PPV Pardubice 2
+                                                 (mimo)                                   Platí pouze
+                                                 Pardubice hl.n. (mimo) / Medlešice       v případě
+ CDP            1360      PPV Pardubice 3        (mimo) – Opatovice n.L.-Pohřebačka       zpravování
+ Praha                                           (mimo)                                   písemným
+                1360      PPV Kolín              ŽST Kolín                                rozkazem při
+                                                                                          poruše DOZ
+                          PPV Kolín pro úsek
+                1360                             Kolín (mimo) – Úvaly
+                          Velim – Úvaly
+                          PPV
+                1360                             Úvaly (mimo) – Praha-Libeň
+                          Praha–Libeň
+                          PPV Praha              ŽST Praha Masarykovo nádraží –
+                1360
+                          Masarykovo nádraží     Praha-Bubny
+                                                 Praha-Hostivař (mimo) – Praha-
+                1361      PPV Praha-Vršovice
+                                                 Vršovice, Praha-Malešice
+
+
+
+
+                                                15
+PŘ GSM-R CZ                                                                         účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                       účinnost od 1.června 2026
+
+
+
+    oblast           ZV       obslužné pracoviště               obvod působnosti                      pozn.
+
+                             PPV Praha hl. 1            Praha-Vršovice (mimo) – Praha hl.n.
+                  1361
+                             PPV Praha hl. 2            – výhybna Skály
+                             PPV Kralupy nad            Praha-Libeň (mimo) – Kralupy
+                  1360
+                             Vltavou                    n/Vltavou (mimo)
+                  1360       PPV Čerčany                Čerčany – Praha-Uhříněves (mimo)
+                             PPV Plzeň 1 – trať +       Zdice – Zbiroh – Rokycany – Ejpovice
+                  1360
+                             D3                         – Plzeň Doubr.
+                             PPV Praha-                 Praha-Uhříněves –
+                  1360
+                             Uhříněves                  Praha-Hostivař
+                                                        Lysá nad Labem (mimo) – výhybna
+                  1360       PPV Lysá nad Labem
+                                                        Skály (mimo)
+                                                        Plzeň hl. n. (přidělený obvod –
+                  1360       PPV Plzeň 2
+                                                        východ)
+                                                        Plzeň hl. n. (přidělený obvod –
+                  1361       PPV Plzeň 3
+                                                        západ)
+                                                        Cheb (sever), Brod nad Tichou –
+                  1360       PPV Cheb 1
+                                                        Lipová u Chebu                           Platí pouze
+                  1361       PPV Cheb 2                 Cheb (jih), Plzeň-Křimice – Pavlovice    v případě
+ CDP                         PPV                        Praha – Smíchov (mimo) - Hostivice       zpravování
+ Praha            1360                                                                           písemným
+                             Praha-Zličín               (mimo)
+                                                                                                 rozkazem při
+                  1360       PPV Beroun                 Beroun os. nádraží
+                                                                                                 poruše DOZ
+                  1360       PPV Tábor                  Tábor – Čerčany (mimo)
+                             PPV České
+                  1360       Budějovice (profil 2       Veselí nad Lužnicí – Tábor (mimo)
+                             obvod sever) - *)
+                             PPV České
+                                                        Nemanice (mimo) – Veselí nad
+                  1360       Budějovice (profil 2
+                                                        Lužnicí (mimo)
+                             obvod jih) - *)
+                             PPV České
+                             Budějovice (profil 1
+                  1360       řízení ŽST České           České Budějovice (obvod sever)
+                             Budějovice obvod
+                             sever)
+                             PPV České
+                             Budějovice (profil 1
+                  1361       řízení ŽST České           České Budějovice (obvod jih)
+                             Budějovice obvod
+                             jih) - *)
+
+       Poznámka:
+       *
+           ) – aktivace bude provedena 15.června 2026
+
+
+
+
+                                                        16
+PŘ GSM-R CZ                                                                     účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                 účinnost od 1.června 2026
+
+
+
+    oblast           ZV    obslužné pracoviště               obvod působnosti                    pozn.
+
+                1360      PPV Bohumín                 Bohumín – Dolní Lutyně
+                          PPV Petrovice u
+                1360                                  Dětmarovice – Petrovice u Karviné
+                          Karviné
+                1360      PPV Český Těšín             Karviná hl. n. – Český Těšín
+                1360      PPV Návsí                   Třinec – Mosty u Jablunkova
+                          PPV St. Město u             Staré Město u Uherského Hradiště
+                1360
+                          Uherského Hradiště          – Přerov (mimo)
+                          PPV Hranice na              Hranice na Moravě – Přerov (mimo)
+                1360
+                          Moravě                      – Dluhonice (mimo)
+                                                      Moravská Nová Ves –                   Platí pouze
+                1360      PPV Břeclav 2
+                                                      Nedakonice                            v případě
+ CDP                                                  Lanžhot – Břeclav – výhybna           zpravování
+                1360      PPV Břeclav 1
+ Přerov                                               Hrušky                                písemným
+                          PPV Brno-Horní                                                    rozkazem při
+                1360                                  Modřice – Podivín                     poruše DOZ
+                          Heršpice
+                                                      ŽST Olomouc hl.n.; Grygov –
+                1360      PPV Olomouc hl.n.
+                                                      Dluhonice
+                          PPV Zábřeh na               Zábřeh na Moravě – Olomouc hl.n.
+                1360
+                          Moravě                      (mimo)
+                          PPV Třebovice v
+                1360                                  Hoštejn – Třebovice v Čechách
+                          Čechách
+                                                      ŽST Ostrava-Svinov;
+                1360      PPV Ostrava-Svinov
+                                                      Polanka nad Odrou – Polom
+
+
+
+
+                                                 17
+PŘ GSM-R CZ                                                                          účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                      účinnost od 1.června 2026
+
+
+
+
+     uzel            ZV    obslužné pracoviště                    obvod působnosti                    pozn.
+
+                          Praha hl. n.
+                1331      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha Masarykovo n.
+                1332      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Libeň
+                1333      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Holešovice
+                1334      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Bubny
+                1335      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Vršovice
+                1337      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Vysočany
+                1338      (řízeno a směrováno na
+                          DOZ CDP Praha)
+                          Praha-Malešice                  Nastaveno na všech BTS v uzlu
+ Praha          1339      (řízeno a směrováno na          Praha – dovolatelnost v celém uzlu
+                          DOZ CDP Praha)                  (mimo dílčí ZV 1337 a 1359)
+                          Praha-Malešice –                                                       Nastaveno jen
+                          pouze pro spojení                                                      na BTS Praha
+                                                                                                 Malešice a BTS
+                1359      posunových dílů                                                        v navazujících
+                          s výpravčím místního                                                   mezistaničních
+                          řízení                                                                 úsecích
+                1340      Praha-Smíchov
+                          Praha jih vjezd –
+                1341
+                          výpravčí ČD
+                          Praha jih odjezd –
+                1342
+                          výpravčí ČD
+                          SS Praha-Vršovice –
+                1380
+                          strojmistr
+                1381      Praha jih – strojmistr
+                          SS Praha-Vršovice –
+                1382
+                          stanoviště „U“
+                          SS Praha-Vršovice –
+                1383
+                          vedoucí posunu
+                1384      Praha jih St1
+                          PP Praha hl.n. -
+                1385
+                          strojmistr
+                1331      Brno hl. n. výpravčí „A“
+                1332      Brno hl. n. výpravčí „B“
+                1333      Brno hl. n. výpravčí „C“
+                1334      Brno-Horní Heršpice
+                1335      Brno dolní nádraží
+                                                          z. Popovice u Rajhradu –
+                1336      Brno-Židenice
+                                                          Brno-Královo Pole / z. Bílovice nad
+                1337      Brno jih
+                                                          Svitavou;
+ Brno           1338      Brno-Maloměřice
+                1339      Brno-Černovice
+                                                          Nastaveno na všech BTS v uzlu
+                          CDP Přerov – řídící             Brno – dovolatelnost v celém uzlu
+                1340
+                          dispečer 1E
+                1800      četař TSV Brno hl. n.
+                1801      strojmistr Brno hl. n.
+                                                                                                 ČD, a.s.
+                1802      strojmistr Maloměřice
+                1803      strojmistr Heršpice
+
+
+
+
+                                                     18
+PŘ GSM-R CZ                                                                           účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                        účinnost od 1.června 2026
+
+
+
+
+     uzel            ZV    obslužné pracoviště                     obvod působnosti                    pozn.
+                                                           Olomouc hl. n.; Štěpánov, Grygov
+                          CDP Přerov;                      Nastaveno na všech BTS v uzlu
+ Olomouc        1333
+                          úsekový dispečer 2C              Olomouc – dovolatelnost v celém
+                                                           uzlu
+                          Ostrava hl. n.
+                1331
+                          (disp. výpravčí)
+                          Ostrava-Svinov                                                          použít pouze
+                1333      (výpravčí – opavský                                                     v ŽST Ostrava-
+                          dispečer)                        Ostrava Svinov – celý obvod;           Svinov
+                1334      Ostrava Střed                    Ostrava hl. n.;
+                1335      Ostrava-Kunčice                  Polanka;
+                1336      Ostrava-Vítkovice                Ostrava Vítkovice;
+ Ostrava                  Ostrava hl. n.                   Ostrava Kunčičky;
+                1337
+                          (ŘS – výpravčí-Sever)
+                          Ostrava hl. n.                   Nastaveno na všech BTS v uzlu
+                1338      (ŘS – výpravčí-levé              Ostrava – dovolatelnost v celém
+                          nádr.)                           uzlu
+                          Ostrava hl.n. - obvod
+                1339
+                          báňské nádraží-výpravčí
+                          Ostrava hl.n.
+                1340
+                          (ŘS – výpravčí – Jih)
+                1331      Plzeň-Koterov
+                          Plzeň hl. n.                     Plzeň Doubravka;
+                1332      (řízeno a směrováno na           Plzeň hl. n.;
+                          TD 512 CDP Praha)                Plzeň Koterov;
+ Plzeň                    Plzeň hl. n.                     Plzeň – Jižní předměstí;
+                1333      (řízeno a směrováno na
+                          TD 513 CDP Praha)                Nastaveno na všech BTS v uzlu
+                          Plzeň US Triangl –               Plzeň – dovolatelnost v celém uzlu
+                1336
+                          výpravčí pro místní práci
+
+
+
+
+                                                      19
+PŘ GSM-R CZ                                                              účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                           účinnost od 1.června 2026
+
+
+
+
+      trať dle TTP /
+                        ZV    obslužné pracoviště         obvod působnosti                 pozn.
+        ŽST (úsek)
+                              CDP Přerov
+                       1341
+                              řídící dispečer 1G
+                                                      Ostrava hl. n.; Bohumín
+ 301B                         CDP Přerov
+                       1342                           Dolní Lutyně; Dětmarovice;
+ Bohumín                      úsekový dispečer 3G
+                                                      Petrovice u Karviné
+                              CDP Přerov
+                       1343
+                              úsekový dispečer 2G
+ 301                   1331   Dětmarovice             Dětmarovice;
+ Odb. Koukolná –       1332   Petrovice u Karviné     Petrovice u Karviné;
+ Odb. Závada           1333   Karviná                 Karviná;
+                       1334   Louky nad Olší          Louky nad Olší
+                       1331   Dětmarovice             Dětmarovice;
+ 301B
+                       1332   Petrovice u Karviné     Petrovice u Karviné;
+ Petrovice u Karviné
+                       1333   Karviná                 Karviná
+ 301B
+                       1334   Louky nad Olší          Karviná – Český Těšín
+ Karviná – Č. Těšín
+                              CDP Přerov;
+                       1331
+                              úsekový dispečer 3E
+                              CDP Přerov;
+                       1332
+                              úsekový dispečer 2E
+                              CDP Přerov;             Břeclav st. hr. / Lanžhot st.
+                       1333
+ 320A + 320D + 316A           úsekový dispečer 1E     hr. – Podivín / Hrušky
+ Břeclav                      Břeclav přednádraží
+                       1334
+                              – venkovní výpravčí
+                              Břeclav ÚS –
+                       1335
+                              pohotovostní výpravčí
+                              Břeclav – RCC CZ        Břeclav st. hr. – Podivín /
+                       1801
+                              koordinátor přeprav     Hrušky;
+ 305B                  1331   CDP Přerov – řídící
+                                                      Prosenice
+ Prosenice -           1332   dispečer 1D Dluhonice
+ Přerov                1332   Dluhonice               Přerov
+ 305F                         CDP Přerov – řídící
+                       1331                           Říkovice
+ Říkovice                     dispečer 1D
+ 309A
+                       1331   CDP Přerov – řídící
+ Brodek u Př. –                                       Rokytnice u Přerova
+                       1332   dispečer 1D Dluhonice
+ Přerov
+ 311C                                                 Nový Malín dřevosklad –
+                       1360   ZP Uničov
+ Nový Malín                                           Olomouc hl.n. (mimo)
+ dřevosklad –                                         zastávka Štarnov – Olomouc       Podrobnosti
+                       1340   Výpravčí DOZ A
+ Olomouc hl.n.                                        hl.n. (mimo)                     v příloze C
+ 501A                         CDP Praha traťový       Pardubice hl.n.- přidělený
+                       1331
+ Pardubice                    dispečer 125            obvod
+                              Česká Třebová St
+                       1331
+                              019 - hl. výpravčí
+                              Česká Třebová St
+                       1332   019 - výpravčí
+                              panelista sever
+                              Česká Třebová St
+                                                      Třebovice v Č. (včetně)
+ 501A + 501B + 309A    1333   019 - výpravčí
+                                                      Česká Třebová;
+ Česká Třebová                panelista jih
+                                                      Odbočka Zádulka;
+                              Česká Třebová St
+                       1334
+                              014
+                       1335   Odb. Zádulka
+                       1336   Třebovice v Čechách
+                              Česká Třebová St
+                       1337
+                              039
+ 502A
+                       1331   Odb. Babín              Poděbrady
+ Poděbrady
+
+
+
+
+                                            20
+PŘ GSM-R CZ                                                                    účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                                účinnost od 1.června 2026
+
+
+
+
+ 502A
+                         1331   Velký Osek               Kolín (mimo) – Velký Osek
+ Velký Osek
+ 502A
+                         1331   Libice nad Cidlinou      Libice n/C.
+ Libice n/C.
+ 503A + 503B
+                         1349   Liběchov                 Mělník – Liběchov
+ Mělník – Štětí
+                         1336   Ústí n.L. západ St. 1
+                         1341   Štětí
+                         1342   Litoměřice
+                         1343   Velké Žernoseky
+ 503A + 503B             1344   Sebuzín
+                                                         Štětí – Děčín východ
+ Štětí – Děčín východ           Ústí n/L.-Střekov St.
+                         1345
+                                3
+                         1346   Boletice nad Labem
+                         1347   Děčín východ St. 1
+                         1348   Děčín východ hor.n.
+ 504A + 504E + 504F      1331   Most
+ +529 +531D + 535C       1332   Most n. n. St. 1         Most – Třebušice;
+ Most
+ Most n.n.                                               Obrnice – Most;
+ Třebušice               1333   Most n. n. St. 5         Most n.n. – Lom u Mostu –
+ Louka u Litvínova                                       Litvínov
+ Litvínov
+                         1336   Ústí n.L. záp. St. 1
+                         1335   Ústí n.L. záp. St. 5
+ 504A
+                                Teplice v Č. výpravčí    Ústí n. L. hl. n. –
+ Ústí n. L. hl.n. -      1333
+                                3                        Oldřichov u D.
+ Oldřichov u D.
+                                Teplice v Č. výpravčí
+                         1334
+                                4
+ 504C                           Teplice v Č. výpravčí
+                         1333                            Úpořiny
+ Úpořiny                        3
+ 505C                           Hradec Králové hl.n.
+                         1331                            Hradec Králové hl.n.
+ Hr.Králové hl.n.               staniční výpravčí
+ 512B
+                         1331   Dolní Lipka              Dolní Lipka
+ Dolní Lipka
+ 521B
+                         1331   Zadní Třebaň             Řevnice – Zadní Třebaň
+ Zadní Třebaň
+                         1340   Kralupy nad Vltavou
+ 527A
+                         1331   Nelahozeves              Kralupy n/V. – Dolní
+ Kralupy n/V. – Dolní
+                         1332   Vraňany                  Beřkovice
+ Beřkovice
+                         1333   Dolní Beřkovice
+                         1334   Hněvice
+                         1335   Roudnice nad Labem
+                         1336   Ústí n.L. západ St. 1
+ 527A                           Lovosice ÚS* -
+                         1337
+ Hněvice – Malé                 ÚS V2 traťový            Hněvice – Malé Žernoseky;
+ Žernoseky                      Lovosice ÚS* -
+                         1338
+                                ÚS V1 jih
+                         1339   Hrobce
+                         1350   Bohušovice nad Ohří
+                         1331   Ústí n/L. ÚS* 2 - trať
+                                Ústí n/L. ÚS* 3 -
+                         1332
+                                staniční
+                         1333   Děčín ÚS* jih
+ 527A + 527B +           1334   Děčín hl. n.
+ 544A + 544B
+                         1335   Děčín ÚS* sever
+ Prackovice n. L. –
+                         1336   Ústí n.L. západ St. 1
+ Dolní Žleb;                                             Prackovice nad Labem –
+                                Děčín východ St1 –
+ Ústí n.L. hl.n. jih –   1337                            Dolní Žleb;
+                                signalista
+ Ústí n.L. západ;
+ Děčín východ –                 Děčín východ St3 –
+                         1338
+ Děčín Prostřední               signalista
+ Žleb                           Děčín východ St1 –
+                         1347
+                                výpravčí
+                         1348   Děčín východ hor. n.
+                         1349   Dolní Žleb
+
+
+
+
+                                               21
+PŘ GSM-R CZ                                                               účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                           účinnost od 1.června 2026
+
+
+
+
+                              CDP Praha
+ 528A
+                              traťový dispečer TD
+ Praha Smíchov                                       Praha Smíchov (mimo) –
+                       1344   591, Praha Smíchov
+ (mimo) – Praha                                      Praha Žvahov (mimo)
+                              (mimo) – Hostivice
+ Žvahov (mimo)
+                              (mimo)
+ 528B
+                       1331   Unhošť                 Unhošť – Kladno (mimo)
+ Unhošť – Kladno
+                       1331   Chomutov město
+ 531F
+                       1332   Chomutov vnější        Chomutov – Březno u
+ Chomutov – Březno
+                       1333   Chomutov seř. n.       Chomutova
+ u Chomutova
+                       1335   Chomutov
+                              Cheb výpravčí
+ 533A                                                                                   Podrobnosti
+                       1340   (řízeno a směrováno    Cheb; Fr.Lázně; Podhoří
+ Tršnice – Cheb                                                                         v příloze C
+                              na DOZ CDP Praha)
+                       1331   K. Vary výpravčí 1
+ 533A + 536C
+                       1332   K. Vary výpravčí 2
+ Dalovice – Chodov;                                  Dalovice – Chodov;
+                       1333   K. Vary výpravčí 3
+ K.Vary d.n. – Stará                                 K.Vary d.n. – Stará Role
+                       1334   K. Vary výpravčí 4
+ Role
+                       1335   K. Vary dol. n.
+ 533A + 536B
+ Nové Sedlo u L. –                                   Nové Sedlo – Sokolov
+ Sokolov (mimo);       1336   Nové Sedlo u Lokte     (mimo);
+ Nové Sedlo u L. –                                   Nové Sedlo – Loket
+ Loket
+                       1331   Chomutov město
+                       1332   Chomutov vnější
+                                                     Chomutov – Málkov
+ 533A                  1333   Chomutov seř. n.
+ Chomutov –            1334   Odb. Dubina
+ Klášterec nad Ohří    1335   Chomutov
+                              Kadaň-Prunéřov
+                       1336                          Klášterec nad Ohří
+                              výpravčí 1
+ 539B                  1339   Liběšice
+                                                     Lovosice – Liběšice
+ Lovosice – Liběšice   1340   Lovosice DOZ 2
+ 702B                  1342   Balkova Lhota
+                                                                                        platí od
+                              Hluboká nad Vltavou
+                       1331                                                             15.června
+                              Zámostí                                                   2026
+                                                     Nemanice (mimo) – Veselí
+                       1332   Chotýčany              nad Lužnicí (mimo)
+                       1333   Ševětín
+ 704                   1334   Dynín
+                       1335   Veselí nad Lužnicí
+                                                     Veselí nad Lužnicí – Tábor
+                       1337   Soběslav
+                                                     (mimo)
+                       1338   Planá nad Lužnicí
+                       1339   Tábor
+                                                     Tábor – Čerčany (mimo)
+                       1341   Chotoviny
+                                                     České Budějovice (mimo) –
+ 705A                  1335   České Velenice
+                                                     České Velenice
+                                                     České Velenice – Nová Ves
+ 705C                  1336   Nová Ves nad Lužnicí
+                                                     nad Lužnicí
+                       1333   Rybník
+                       1334   Horní Dvořiště         České Budějovice (mimo) –
+ 706A                  1343   Včelná                 Horní Dvořiště
+                                                                                        FN –
+                       1360   PPV Horní Dvořiště                                        7 75223 02
+
+
+
+
+                                            22
+ PŘ GSM-R CZ                                                                    účinnost od 14. prosince 2025
+
+ ve znění změny č.1                                                                účinnost od 1.června 2026
+
+
+
+
+                             1331      Plzeň-Koterov          Plzeň hl.n. – Starý Plzenec
+                             1332      Starý Plzenec          Plzeň Koterov – Nezvěstice
+                             1333      Nezvěstice             Starý Plzenec – Blovice
+                             1334      Blovice                Nezvěstice – Ždírec u Plzně
+                             1335      Ždírec u Plzně         Blovice – Srby
+                             1336      Nepomuk                Ždírec u Plzně – Pačejov
+                                                              Nepomuk – Horažďovice
+                             1337      Pačejov
+                                                              předměstí
+                                       Horažďovice
+                             1338                             Nepomuk – Strakonice
+                                       předměstí
+                             1339      Střelské Hoštice       Horažďovice předměstí –
+                             1340      Katovice               Strakonice
+                                                              Horažďovice předměstí –
+                             1331      Strakonice
+                                                              Protivín
+                             1332      Putim                  Ražice – Protivín
+                             1333      Čejetice               Strakonice – Protivín
+     709A + 709B             1334      Ražice                 Strakonice – Číčenice
+                             1335      Protivín               Strakonice – Dívčice
+                             1336      Číčenice               Ražice – České Budějovice
+                             1337      Dívčice
+                                                              Protivín – České Budějovice
+                             1338      Zliv
+                             1339      Hluboká nad Vltavou    Číčenice – České Budějovice
+                                                              Záblatíčko – České
+                             1340      Nemanice
+                                                              Budějovice
+                                       PPV České
+                                       Budějovice obvod jih
+                             1331
+                                       (řízeno a směrováno
+                                       na TD 714 CDP Praha)   Nemanice –
+                                       PPV České              České Budějovice –
+                                       Budějovice obvod       Odb. Rožnov
+                             1332      sever (řízeno a
+                                       směrováno na TD 713
+                                       CDP Praha)
+                                                                                              směrováno na
+                             1331      Cheb sever             Cheb – Lipová (mimo)            TD 523 CDP
+                             1332      Pňovany
+                             1333      Planá u M.L.           Lipová – Plzeň-Křimice
+                             1334      Mariánské Lázně
+     720A + 720B + 543A
+                                       Plzeň Triangl –
+     Plzeň hl.n. – Cheb
+                             1336      výpravčí pro místní    Plzeň hl. n.
+                                       práci
+                                       Dirigující dispečer
+                                                                                              pracoviště
+                             1341      D3 Pňovany –           Pňovany                         Plzeň hl. n.
+                                       Bezdružice
+
+Poznámky k tabulkám:
+ -    zkratka ÚS = ústřední stavědlo
+ -    zkratka ŘS = řídící stavědlo
+
+
+
+
+                                                     23
+    PŘ GSM-R CZ                                                                 účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                             účinnost od 1.června 2026
+
+
+
+                                                                                             Příloha C
+Místní opatření pro provoz sítě GSM-R CZ
+
+
+C1. OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU ZÁPADNÍ ČECHY
+
+
+Místní opatření pro použití zkrácených voleb pro trať 709B / 220 00:
+•     při místním řízení ŽST Ždírec u Plzně nelze využít zkrácené volby 1300 z pohyblivého terminálu –
+      volání na příslušného výpravčího. V případě místního řízení stanice výpravčím je nutné použít dílčí
+      zkrácené volby 1335. Zkrácená volba 1300 je přesměrována trvale na výpravčího ŽST Nepomuk;
+•     při místním řízení ŽST Plzeň-Koterov nelze využít zkrácené volby 1300 z pohyblivého terminálu –
+      volání na příslušného výpravčího. V případě místního řízení stanice výpravčím je nutné použít dílčí
+      zkrácené volby 1331. Zkrácená volba 1300 je trvale přesměrována na pracoviště traťového
+      dispečera 512 CDP Praha nebo PPV Plzeň 3 – západ s ohledem na aktuální způsob řízení
+      navazujícího obvodu ŽST Plzeň hl. n.
+
+
+Uložení přenosných terminálů (MT) pro trať 713A / 360 00:
+•     MT k zapůjčení dopravcům dle Obsluhovacího řádu Tunelu Ejpovice (pro zajištění jízd vlaků, které
+      nemohou být vybaveny VR/PR s GSM-R nebo mají VR v poruše), jsou uloženy v počtu 2 ks v ŽST
+      Plzeň hl. n. na pracovišti výpravčího vnější služby a v počtu 2 ks na pracovišti dozorce výhybek
+      ŽST Rokycany.
+
+
+Místní opatření pro použití zkrácených voleb pro trať 533A / 120 00:
+•     v úseku trati 533A mezi ŽST Tršnice a Cheb (od km 234,690 ve směru od ŽST Tršnice) nelze
+      z technických důvodů zajistit správnou adresaci volání při použití ZV 1300 (ZV2) na pracoviště
+      výpravčího ŽST Cheb z VR (v případě dálkového ovládání ŽST je hovor směrován na TD CDP
+      Praha).
+      Za tímto účelem je pracoviště výpravčího ŽST Cheb (TD CDP Praha) nově doplněno o adresnou
+      ZV 1340, která by měla být při hlasovém spojení z VR v tomto úseku použita prioritně!
+
+
+C.2 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU SEVEROZÁPADNÍ ČECHY
+
+
+Místní opatření pro provoz GSM-R na trati Čížkovice – Obrnice:
+•     traťový úsek je řízen z pracoviště ŽST Lovosice DOZ1;
+•     základním rádiovým spojením v úseku trati Čížkovice (mimo) – Obrnice, jejímž provozovatelem
+      je společnost AŽD, je síť GSM-R CZ;
+•     ve směru jízdy ze ŽST Čížkovice do ŽST Obrnice (trať 539C) jsou radiovníky pro síť GSM-R CZ
+      umístěny takto:
+      -   v km 0,955 – návěst Připravte rádiové zařízení GSM-R k registraci;
+      -   v km 1,555 – návěst Začátek traťové rádiové sítě GSM-R.
+•     úsek od km 33, 200 až do km 32,830 (provozovatel dráhy AŽD) není z technický důvodů pokryt
+      sítí GSM-R CZ. Z tohoto důvodu jsou v obou směrech jízdy osazeny radiovníky takto:
+      ve směru jízdy vlaku z Obrnic do Čížkovic:
+      -   km 34,530 – návěst Konec traťové rádiové sítě GSM-R
+      -   km 33,200 – návěst Připravte rádiové zařízení GSM-R k registraci
+      -   km 32,600 – návěst Začátek traťové rádiové sítě GSM-R
+
+
+
+
+                                                    24
+    PŘ GSM-R CZ                                                              účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                          účinnost od 1.června 2026
+
+
+
+      ve směru jízdy vlaku z Čížkovic do Obrnic:
+      -    km 33,200 – návěst Konec traťové rádiové sítě GSM-R
+      -    km 33,830 – návěst Připravte rádiové zařízení GSM-R k registraci
+      -    km 34,530 – návěst Začátek traťové rádiové sítě GSM-R
+      V uvedeném úseku je možné použít pouze nouzové spojení dle TTP.
+
+
+C.3 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU JIŽNÍ ČECHY
+
+
+Místní opatření pro použití zkrácených voleb pro trať 709B / 220 00:
+•     v ŽST Protivín nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím
+      v ŽST Protivín je nutno použít zkrácené volby 1335;
+•     zkrácená volba 1300 z pohyblivého terminálu – volání příslušného výpravčího pro ŽST Pačejov
+      (oblast 60935 Mileč – Velký Bor) je trvale přesměrována na dotykový terminál IP TOP1 výpravčího
+      v ŽST Horažďovice předměstí. V případě místního řízení ŽST Pačejov výpravčím je nutné použít
+      zkrácené volby 1337.
+
+
+Místní opatření pro použití zkrácených voleb pro trať 706A / 240 00:
+•     v ŽST Horní Dvořiště nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení
+      s výpravčím v ŽST Horní Dvořiště je nutno použít zkrácené volby 1334;
+•     v ŽST Včelná nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím
+      DOZ HD1 je nutno použít zkrácené volby 1343.
+
+
+Místní opatření pro použití zkrácených voleb pro trať 715A / 363 00:
+•     v ŽST Putim nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím
+      v ŽST Putim je nutno použít zkrácené volby 1332.
+
+
+Opatření místního významu pro dopravce ČD, a.s. v ŽST Tábor:
+•     vlaky dopravce ČD a.s. jedoucí ve směru od Bechyně (trať 702C / 281 00) a vjíždějící v ŽST
+      Tábor do obvodu místního nádraží nemusí u návěsti v km 5,695 „Připravte rádiové zařízení GSM-
+      R k registraci“ zahájit její přípravu a u návěsti v km 5,280 „Začátek rádiového systému GSM-R“
+      provádět komunikaci v rádiové síti GSM-R;
+•     do obvodu místního nádraží ŽST Tábor mohou tyto vlaky vjíždět s traťovým rádiovým spojením
+      SRV pro trať Tábor – Bechyně;
+•     po vjezdu vlaku a po dobu jeho pobytu v ŽST Tábor v obvodu místního nádraží přepne
+      strojvedoucí VR na síť STE4 – simplexní kanál 30;
+•     při jízdě opačným směrem, tedy po odjezdu vlaku ve směru ze ŽST Tábor z obvodu místního
+      nádraží na trať směr Bechyně, se strojvedoucí řídí návěstí pro rádiový provoz SRV.
+
+
+C.4 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU STŘEDNÍ ČECHY
+
+
+A)        Místní opatření pro trať Kralupy nad Vltavou – Neratovice (532A/482 00) při aktivaci
+          funkce generální STOP:
+•     pracoviště výpravčích v ŽST Chvatěruby a Úžice jsou vybavena pouze mobilním terminálem (MT)
+      bez možnosti aktivace funkce generální STOP. V případě nutnosti použít funkci generální STOP
+      k zastavení vlaků v příslušné oblasti v souladu s ustanovením předpisu SŽ Z11 je určen pro
+      pracoviště výpravčích ŽST Chvatěruby, Úžice, Kralupy nad Vltavou a Neratovice následující
+      postup:
+
+
+                                                   25
+PŘ GSM-R CZ                                                                 účinnost od 14. prosince 2025
+
+ve znění změny č.1                                                             účinnost od 1.června 2026
+
+
+
+     výpravčí ŽST Chvatěruby nebo ŽST Úžice
+     1.   aktivuje na MT GSM-R v souladu s návodem k obsluze nouzové volání SKP 299,
+     2.   v souladu s ustanovením předpisu SŽ Z11 vyzve hlasem na aktivovaném nouzovém spojení
+          všechny vlaky k zastavení a ihned poté nařídí na tomto spojení výpravčím ŽST Neratovice
+          a Kralupy nad Vltavou, kteří jsou vybaveni dotykovým terminálem, aktivovat funkci
+          generální STOP pro danou oblast na dotykovém terminálu,
+     výpravčí ŽST Kralupy nad Vltavou a Neratovice
+     3.   neprodleně potvrdí na vyvolaném nouzovém spojení pokyn k obsluze funkce G-STOP slovy
+          „výpravčí stanice ………………… rozumí“,
+     4.   obsluhou DT na záložce „GSM-R nouze“ stanoveným způsobem aktivuje funkci G-STOP,
+          a to stlačením ovládacího prvku STOP VLAK pro tuto oblast (je nutné, aby aktivaci povelu
+          STOP aktivoval minimálně jeden z těchto výpravčích),
+     výpravčí ŽST Chvatěruby nebo ŽST Úžice
+     5.   vyčká na probíhajícím nouzovém spojení na přehrání automatického hlášení, které bylo
+          aktivováno v rámci použití povelu G-STOP,
+     6.   v souladu s ustanovením předpisu SŽ Z11 zajistí zpravení strojvedoucích o důvodu
+          zastavení,
+     7.   po provedení všech stanovených úkonů požádá výpravčí, který aktivoval nouzové volání
+          SKP 299 na MT o jeho ukončení, a to výpravčího, který na jeho příkaz funkci generální STOP
+          aktivoval. Výzvu provede slovy: „výpravčí stanice ……… ukončí nouzové volání.“ Převzetí
+          pokynu potvrdí výpravčí, který byl vyzván slovy: „výpravčí stanice ……… rozumí“,
+     výpravčí na trati Kralupy nad Vltavou – Neratovice
+     8.   zajistí zpravení strojvedoucích o opatřeních k další jízdě ve svém řízeném obvodu v souladu
+          s ustanovením předpisu SŽ Z11
+     Poznámka:
+     Ukončení nouzového volání z MT, aktivovaného z důvodu dle bodu 2 tohoto postupu, není
+     dovoleno!
+     Kontakty pro komunikaci v síti GSM-R s výpravčím v ŽST Chvatěruby a Úžice:
+     •    ŽST Chvatěruby       výpravčí        MT GSM-R        FN – 7 54 406 52
+     •    ŽST Úžice            výpravčí        MT GSM-R        FN – 7 54 606 52
+     Používání ZV dle předpisu SŽ Z11 v trati Kralupy nad Vltavou – Neratovice:
+     •    ZV 1200, 1300 a 1400 fungují standardním způsobem;
+     •    z MT GSM-R výpravčích v ŽST Chvatěruby a Úžice nelze v případech, kdy se strojvedoucí
+          při použití ZV2 dovolá na nesprávné pracoviště, přesměrovat hovor na jiné pracoviště
+          výpravčího.
+
+
+B)   Místní opatření pro úsek tratě 528B (387 00) Unhošť – Kladno (mimo) při aktivaci
+     funkce generální STOP (platí ode dne aktivace GSM-R):
+     •    pracoviště výpravčího v ŽST Unhošť je vybaveno pouze mobilním terminálem (MT)
+          bez možnosti aktivace funkce generální STOP. V případě nutnosti použít funkci generální
+          STOP k zastavení vlaků v příslušné oblasti v souladu s ustanovením předpisu SŽ Z11 je
+          určen pro pracoviště výpravčích ŽST Unhošť a Kladno následující postup:
+     výpravčí ŽST Unhošť
+     1.   aktivuje na MT GSM-R v souladu s návodem k obsluze nouzové volání SKP 299,
+     2.   v souladu s ustanovením předpisu SŽ Z11 vyzve hlasem na aktivovaném nouzovém spojení
+          všechny vlaky k zastavení a ihned poté nařídí na tomto spojení výpravčímu ŽST Kladno,
+          aktivovat funkci generální STOP pro danou oblast na svém dotykovém terminálu
+
+
+
+
+                                                 26
+    PŘ GSM-R CZ                                                                   účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                               účinnost od 1.června 2026
+
+
+
+          výpravčí ŽST Kladno
+          3.    neprodleně potvrdí na vyvolaném nouzovém spojení pokyn k obsluze funkce G-STOP slovy
+                „výpravčí stanice Kladno rozumí“,
+          4.    obsluhou DT na záložce „GSM-R nouze“ stanoveným způsobem aktivuje funkci G-STOP,
+                a to stlačením ovládacího prvku STOP VLAK pro tuto oblast,
+          výpravčí ŽST Unhošť
+          5.    vyčká na probíhajícím nouzovém spojení na přehrání automatického hlášení, které bylo
+                aktivováno v rámci použití povelu G-STOP,
+          6.    v souladu s ustanovením předpisu SŽ Z11 zajistí zpravení strojvedoucích o důvodu
+                zastavení,
+          7.    po provedení všech stanovených úkonů požádá výpravčí, který aktivoval nouzové volání
+                SKP 299 na MT o jeho ukončení. Výzvu provede slovy: „výpravčí stanice Kladno ukončí
+                nouzové volání“. Převzetí pokynu potvrdí výpravčí slovy: „výpravčí stanice Kladno rozumí“,
+          výpravčí ŽST Unhošť
+          8.    zajistí zpravení strojvedoucích o opatřeních k další jízdě ve svém řízeném obvodu v souladu
+                s ustanovením předpisu SŽ Z11.
+          Poznámka:
+          Ukončení nouzového volání z MT, aktivovaného z důvodu dle bodu 2 tohoto postupu, není
+          dovoleno!
+          Kontakty pro komunikaci v síti GSM-R s výpravčím v ŽST Unhošť:
+          •     ŽST Unhošť           výpravčí        MT GSM-R        FN – 7 53 626 52
+          Používání ZV dle předpisu SŽ Z11 v trati Unhošť – Kladno (mimo):
+          •     ZV 1200 a 1300 fungují standardním způsobem;
+          •     z MT GSM-R výpravčího v ŽST Unhošť nelze v případech, kdy se strojvedoucí při použití ZV2
+                dovolá na nesprávné pracoviště, přesměrovat hovor na jiné pracoviště výpravčího.
+
+
+C.5 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU SEVERNÍ ČECHY
+
+
+Místní opatření pro provoz GSM-R Dolní Bousov (mimo) – Kopidlno (mimo):
+•     základním rádiovým spojením v úseku trati Dolní Bousov (mimo) – Kopidlno (mimo), jejímž
+      provozovatelem je společnost AŽD, je síť GSM-R CZ;
+•     ve směru jízdy ze ŽST Dolní Bousov do ŽST Kopidlno (trať 542D) jsou radiovníky pro síť GSM-R
+      CZ umístěny takto:
+      -        v km 22,374 – návěst Připravte rádiové zařízení GSM-R k registraci;
+      -        v km 21,974 – návěst Začátek traťové rádiové sítě GSM-R.
+•     ve směru jízdy ze ŽST Kopidlno do ŽST Dolní Bousov (trať 542D) jsou radiovníky pro síť GSM-R
+      CZ umístěny takto:
+      -        v km 0,006 – návěst Připravte rádiové zařízení GSM-R k registraci;
+      -        v km 0,406 – návěst Začátek traťové rádiové sítě GSM-R
+
+
+C.6 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU VÝCHODNÍ ČECHY
+
+
+Obecné opatření pro posun (s posunovou četou i bez posunové čety):
+Úprava povinností pro navázání spojení pro následný posun po ukončení jízdy vlaku s účastníkem
+mimo GSM-R CZ v obvodu ŽST (staničním výpravčím ve vyjmenovaných ŽST) je uvedena v PŘ MRS
+PO Hradec Králové.
+
+
+
+                                                       27
+    PŘ GSM-R CZ                                                               účinnost od 14. prosince 2025
+
+    ve znění změny č.1                                                           účinnost od 1.června 2026
+
+
+
+C.7 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU STŘEDNÍ MORAVA
+
+
+Místní opatření pro použití zkrácených voleb pro trať 311C / 778 00:
+•     v úseku trati 311C mezi zastávkou Štarnov – Olomouc hl.n. (mimo) nelze z technických důvodů
+      zajistit správnou adresaci volání při použití ZV 1300 (ZV2) na pracoviště výpravčího DOZ A (RDP
+      Olomouc). Za tímto účelem je pracoviště výpravčího DOZ A nově doplněno o adresnou ZV 1340,
+      která by měla být při hlasovém spojení z VR v tomto úseku použita prioritně! V případě, že nebude
+      příchozí hovor prostřednictvím ZV 1340 do 10 sekund přijat výpravčím DOZ A, bude automaticky
+      přesměrován na pracoviště výpravčího DOZ B.
+      Ukončení tohoto místního opatření a předání pokynu o opětovném správném fungování ZV 1300
+      (ZV2) z VR bude na základě zprávy CTD zajištěno z OŘ Ostrava formou depeše, včetně zajištění
+      zpravování dotčených vlaků (PMD) písemným rozkazem.
+
+
+C.8 OBVOD ÚZEMNÍ SPRÁVY ŘÍZENÍ PROVOZU JIŽNÍ MORAVA
+
+
+Pro sjednání posunu s výpravčím v síti GSM-R CZ se v obvodu ŽST Brno-Maloměřice použije
+adresné zkrácené volby 1338.
+
+
+
+
+                                                   28
+

@@ -1,0 +1,370 @@
+[
+ {
+  "n": 208,
+  "otazka": "Strojvedoucí odstaví lokomotivu vybavenou jednou ruční brzdou ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 79"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 72"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 307"
+   }
+  ],
+  "odpoved": "Utažením této ruční brzdy a na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy).",
+  "plne_zneni": "ČD D2 čl. 79: Zásady pro zajišťování odstavených HV proti ujetí, platné na všech dráhách, není-li provozním řádem pracoviště nebo předpisem provozovatele dráhy stanoveno jinak:\na) hnací vozidla vybavená zajišťovací brzdou nezávislou na vnějším zdroji energie […] se zajistí pouze touto brzdou;\nb) hnací vozidlo vybavené jednou ruční brzdou se zajistí proti ujetí utažením této ruční brzdy a:\n   ba) na rovině nebo spádu do 2,5 promile včetně podložením dvěma klíny z obou stran jednoho kola, pokud to umožňuje konstrukce vozidla, nebo dvěma klíny co nejblíže krajním kolům z vnitřní strany jednoho podvozku.\n   bb) na spádu větším než 2,5 promile na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy);\nc) hnací vozidlo vybavené dvěma ručními brzdami se proti ujetí zajistí:\n   ca) na rovině nebo spádu do 2,5 promile včetně vždy utažením obou ručních brzd.\n   cb) na spádu větším než 2,5 promile vždy utažením obou ručních brzd a na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy).\nJe zakázáno hnací vozidlo vybavené dvěma upotřebitelnými ručními brzdami zajistit proti ujetí na spádu do 2,5 promile včetně utažením pouze jedné ruční brzdy a podložením dvěma klíny z obou stran jednoho kola.\nKlíny se pokládají na hlavu kolejnice svojí nejdelší stranou a co nejblíže ke kolu.\nZa zajištění hnacích vozidel proti ujetí odpovídá zaměstnanec, který vozidlo odstavuje.\n\nČD D2 čl. 72: Hnací vozidla odstavená a neobsazená strojvedoucím musí být vždy zajištěna proti ujetí. […] Pro zajištění vozidel proti ujetí musí být použito zajišťovacích brzd, příp. i v kombinaci s dalšími stanovenými zajišťovacími prostředky.\n\nČD V15/I čl. 307: Podmínky a způsob zajištění ŽKV proti ujetí jsou uvedeny v předpise ČD D 2 v platném znění.",
+  "distraktory": [
+   "Utažením této ruční brzdy a podložením dvěma klíny z obou stran jednoho kola, popř. co nejblíže krajním kolům jednoho podvozku.",
+   "Utažením této ruční brzdy a na straně spádu podložením jedním klínem pod krajní kolo prvního podvozku ve směru spádu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 209,
+  "otazka": "Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 79"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 72"
+   }
+  ],
+  "odpoved": "Vždy utažením obou ručních brzd a navíc na straně spádu podložením dvěma klíny pod dvěma koly na jedné kolejnici (pod dvě různé nápravy).",
+  "plne_zneni": "ČD D2 čl. 79: Zásady pro zajišťování odstavených HV proti ujetí, platné na všech dráhách, není-li provozním řádem pracoviště nebo předpisem provozovatele dráhy stanoveno jinak:\na) hnací vozidla vybavená zajišťovací brzdou nezávislou na vnějším zdroji energie […] se zajistí pouze touto brzdou;\nb) hnací vozidlo vybavené jednou ruční brzdou se zajistí proti ujetí utažením této ruční brzdy a:\n   ba) na rovině nebo spádu do 2,5 promile včetně podložením dvěma klíny z obou stran jednoho kola, pokud to umožňuje konstrukce vozidla, nebo dvěma klíny co nejblíže krajním kolům z vnitřní strany jednoho podvozku.\n   bb) na spádu větším než 2,5 promile na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy);\nc) hnací vozidlo vybavené dvěma ručními brzdami se proti ujetí zajistí:\n   ca) na rovině nebo spádu do 2,5 promile včetně vždy utažením obou ručních brzd.\n   cb) na spádu větším než 2,5 promile vždy utažením obou ručních brzd a na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy).\nJe zakázáno hnací vozidlo vybavené dvěma upotřebitelnými ručními brzdami zajistit proti ujetí na spádu do 2,5 promile včetně utažením pouze jedné ruční brzdy a podložením dvěma klíny z obou stran jednoho kola.\nKlíny se pokládají na hlavu kolejnice svojí nejdelší stranou a co nejblíže ke kolu.\nZa zajištění hnacích vozidel proti ujetí odpovídá zaměstnanec, který vozidlo odstavuje.\n\nČD D2 čl. 72: Hnací vozidla odstavená a neobsazená strojvedoucím musí být vždy zajištěna proti ujetí. […] Pro zajištění vozidel proti ujetí musí být použito zajišťovacích brzd, příp. i v kombinaci s dalšími stanovenými zajišťovacími prostředky.",
+  "distraktory": [
+   "Vždy utažením obou ručních brzd; klíny se u hnacího vozidla se dvěma upotřebitelnými ručními brzdami již nepodkládají.",
+   "Utažením jen jedné ruční brzdy a na straně spádu podložením dvěma klíny pod dvěma koly na jedné kolejnici (pod dvě různé nápravy)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 210,
+  "otazka": "Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami v obvodu depa. Jak provede zajištění vozidla proti ujetí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 79"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 173"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 72"
+   }
+  ],
+  "odpoved": "Podle provozního řádu příslušného pracoviště (depa); nestanoví-li jinak, utažením obou ručních brzd, na spádu nad 2,5 ‰ i dvěma klíny na straně spádu.",
+  "plne_zneni": "ČD D2 čl. 79: Zásady pro zajišťování odstavených HV proti ujetí, platné na všech dráhách, není-li provozním řádem pracoviště nebo předpisem provozovatele dráhy stanoveno jinak:\na) hnací vozidla vybavená zajišťovací brzdou nezávislou na vnějším zdroji energie […] se zajistí pouze touto brzdou;\nb) hnací vozidlo vybavené jednou ruční brzdou se zajistí proti ujetí utažením této ruční brzdy a:\n   ba) na rovině nebo spádu do 2,5 promile včetně podložením dvěma klíny z obou stran jednoho kola, pokud to umožňuje konstrukce vozidla, nebo dvěma klíny co nejblíže krajním kolům z vnitřní strany jednoho podvozku.\n   bb) na spádu větším než 2,5 promile na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy);\nc) hnací vozidlo vybavené dvěma ručními brzdami se proti ujetí zajistí:\n   ca) na rovině nebo spádu do 2,5 promile včetně vždy utažením obou ručních brzd.\n   cb) na spádu větším než 2,5 promile vždy utažením obou ručních brzd a na straně spádu podložením dvěma klíny umístěnými pod dvěma koly na jedné kolejnici (pod dvě různé nápravy).\nJe zakázáno hnací vozidlo vybavené dvěma upotřebitelnými ručními brzdami zajistit proti ujetí na spádu do 2,5 promile včetně utažením pouze jedné ruční brzdy a podložením dvěma klíny z obou stran jednoho kola.\nKlíny se pokládají na hlavu kolejnice svojí nejdelší stranou a co nejblíže ke kolu.\nZa zajištění hnacích vozidel proti ujetí odpovídá zaměstnanec, který vozidlo odstavuje.\n\nČD V2 čl. 173: […] Zajistí HV proti ujetí dle předpisu ČD D 2, popřípadě připojí vozidlo ke stabilnímu zdroji energie dle pokynu pracoviště ČD a přidělené vozidlo uzamkne. […]\n\nČD D2 čl. 72: Hnací vozidla odstavená a neobsazená strojvedoucím musí být vždy zajištěna proti ujetí. […] Pro zajištění vozidel proti ujetí musí být použito zajišťovacích brzd, příp. i v kombinaci s dalšími stanovenými zajišťovacími prostředky.",
+  "distraktory": [
+   "Podle provozního řádu příslušného pracoviště (depa); nestanoví-li jinak, utažením jedné ruční brzdy a podložením dvěma klíny z obou stran jednoho kola.",
+   "V obvodu depa se hnací vozidlo zajišťuje vždy jen dvěma zarážkami položenými pod krajní nápravy; ruční brzdy se neutahují."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Otázka neuvádí spád v místě odstavení; ČD D2 čl. 79 platí, „není-li provozním řádem pracoviště nebo předpisem provozovatele dráhy stanoveno jinak“, takže v obvodu depa má přednost provozní řád pracoviště."
+ },
+ {
+  "n": 211,
+  "otazka": "Dojde-li za jízdy vlaku Os 25906 u HV s mechanickým rychloměrem k poruše rychloměru za zastávkou Praha Jinonice. Kam smí vlak pokračovat v jízdě?",
+  "obrazky": [
+   "img/q211_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD V8/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 27"
+   },
+   {
+    "predpis": "ČD V8/I",
+    "clanek": "čl. 26"
+   }
+  ],
+  "odpoved": "Jen sníženou rychlostí zajišťující bezpečnost provozu, a to do nejbližší stanice obsazené výpravčím – podle TJŘ až do Hostivic.",
+  "plne_zneni": "ČD V8/I čl. 27: S poruchou rychloměru podle článku 26. tohoto předpisu smí vlak pokračovat v jízdě sníženou rychlostí zajišťující zachování bezpečnosti železničního provozu. Takto smí dojet jen do nejbližší železniční stanice obsazené výpravčím. Je-li však na stanovišti strojvedoucího, z něhož je vozidlo řízeno, ještě jiný správně fungující ukazatel skutečné rychlosti (např. zařízení ARR), snížení rychlosti se neuplatňuje. […] v nejbližší stanici proto vlak zastaví a hnací vozidla se podle možnosti přeřadí (i při ohlášení poruchy radiostanicí). HDV s poruchou rychloměru nesmí ze stanice, kde byla porucha ohlášena, pokračovat ve výkonu, při kterém by z něho měla být řízena rychlost vozidla a ovládána průběžná brzda.\n\nČD V8/I čl. 26: Dojde-li během služby strojvedoucího k zjevné poruše indikace rychlosti na stanovišti, ze kterého je ovládána rychlost jízdy nebo průběžná brzda, oznámí to strojvedoucí neprodleně výpravčímu, lokomotivnímu dispečerovi osobní dopravy ČD a strojmistrovi. Při nejbližším zastavení strojvedoucí poruchu rychloměru zaeviduje předepsaným způsobem […].",
+  "distraktory": [
+   "Jen sníženou rychlostí zajišťující bezpečnost provozu, a to do nejbližší zastávky – podle TJŘ do zastávky Praha-Cibulka.",
+   "Sníženou rychlostí nejvýše 40 km/h smí dojet až do cílové stanice vlaku; poruchu ohlásí strojmistrovi až po ukončení směny."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "V přiloženém TJŘ jsou jako dopravny (tučně) uvedeny jen Praha hl.n., Výh Praha-Vyšehrad, Praha-Smíchov spol.n. a Hostivice – Praha-Zličín je zastávka (má jen pobyt 0,5 min), nejbližší stanicí obsazenou výpravčím ve směru jízdy jsou tedy Hostivice."
+ },
+ {
+  "n": 212,
+  "otazka": "K soupravě vlaku se připojí postrková lokomotiva. Jaký úkon se musí provést po propojení hlavního potrubí se soupravou vlaku?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 62"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 134"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 121"
+   }
+  ],
+  "odpoved": "Musí se vykonat zkouška brzdy – zpravidla jednoduchá (JZB): na postrkovém HV se brzdič dá do závěru a účinek se ověří z manometrů HP a brzdových válců.",
+  "plne_zneni": "ČD V15/I čl. 62: Zkouškou brzdy musí být ověřena funkce průběžné brzdy vlaku před odjezdem vlaku z výchozí dopravny, nebo dopravny, kde došlo: ke změně stanoviště, ze kterého se vlak řídí […]; k rozpojení vlaku […]; k přivěšení dalšího drážního vozidla s propojeným průběžným potrubím do soupravy vlaku.\n\nČD V15/I čl. 121: JZB musí být provedena v případech, kdy je dle čl. 62 tohoto předpisu vyžadována zkouška brzdy a není tímto předpisem nařízeno vykonání ÚZB. JZB se smí provést u vlaků, u nichž: je k dispozici platný údaj o poslední provedené ÚZB (předchozí platná Zpráva o brzdění); všechna vozidla v soupravě vlaku mají provedenu ÚZB (ZBHV) […].\n\nČD V15/I čl. 134: V případě spojení více vlaků (ucelených sestav vozidel) se zařazeným dalším HV se vykoná JZB následovně: na dalším HV (vloženém, postrkovém apod.) se brzdič nastaví do polohy závěr a po zabrzdění z vedoucího vozidla vlaku snížením tlaku v hlavním potrubí o cca 0,5 bar se ověří, že: aa) Manometr hlavního potrubí […] zobrazuje odpovídající snížení hodnoty oproti provoznímu tlaku; ab) Manometr brzdových válců […] zobrazí jejich naplnění […]; současně se na vedoucím vozidle vlaku uzavře spojení mezi brzdičem a hlavním potrubím a na manometru hlavního potrubí se ověří napájení hlavního potrubí jen z tohoto HV jeho sledováním trvajícím minimálně 10 sekund, že tlak vzduchu v tomto potrubí se nezvyšuje; Po odbrzdění a naplnění hlavního potrubí na provozní tlak z vedoucího vozidla se na stanovišti strojvedoucího dalšího ve vlaku zařazeného HV ověří, že: ca) Manometr hlavního potrubí […] zobrazuje hodnotu provozního tlaku; cb) Manometr brzdových válců […] zobrazí jejich vyprázdnění […].",
+  "distraktory": [
+   "Musí se vykonat úplná zkouška brzdy (ÚZB) celé soupravy vlaku, protože přivěšením postrkového HV vzniklo nové místo spojení soupravy.",
+   "Musí se provést pouze zkouška těsnosti hlavního potrubí trvající 2 minuty, při níž pokles tlaku nesmí překročit 0,5 bar."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 213,
+  "otazka": "Sunutý vlak je připraven k odjezdu ze stanice Klatovy. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího vozidla vlaku dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?",
+  "obrazky": [
+   "img/q213_1.png"
+  ],
+  "tema": "Sunuté vlaky",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 392"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 272"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (5)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 393"
+   }
+  ],
+  "odpoved": "Zaměstnanec v čele sunutého vlaku mu musí telekomunikačním zařízením ohlásit návěst odjezdového návěstidla dovolující jízdu; strojvedoucí ji zopakuje a potvrdí.",
+  "plne_zneni": "ČD D2 čl. 272: […] Ve stanici obsazené výpravčím smí strojvedoucí vedoucího vozidla vlaku zahájit činnosti dle následujících ustanovení pouze za podmínky, dostal-li od výpravčího pokyn k uvedení vlaku do pohybu, obdržel souhlas k posunu nebo má příslušné oprávnění k jízdě v oblasti ETCS úrovně 2 (L2).\n\nČD D2 čl. 392: Nad rámec ustanovení předpisu SŽ Z11 postupují zaměstnanci při sunutí vlaku a při rádiové komunikaci na sunutém vlaku takto: před odjezdem sunutého vlaku provede zaměstnanec v čele sunutého vlaku zkoušku spojení se strojvedoucím vedoucího vozidla vlaku; zaměstnanec v čele sunutého vlaku: musí jet na prvním sunutém vozidle […]; musí zajistit takové podmínky, aby mohl přehlédnout kolej před vozidly a dávat potřebné pokyny tak, aby byly dodrženy podmínky pro bezpečnou jízdu […]; je dále povinen ihned po zpozorování ohlásit strojvedoucímu všechny návěsti nebo okolnosti, které ovlivňují jízdu vlaku. Návěsti vztažné k traťové rychlosti vyšší než 30 km/h se strojvedoucímu vedoucího vozidla vlaku nehlásí; zjistí-li, že jím dané pokyny nejsou plněny, musí použít všech dostupných prostředků k zastavení sunutého vlaku; strojvedoucí vedoucího vozidla vlaku: musí mít na vozidlové radiostanici […] nastaveno základní rádiové spojení dle TTP […]; musí obdrženou informaci o návěstním znaku (návěsti) nepřenosných návěstidel (hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, traťové rychlosti, radiovníku apod.) vždy zopakovat zaměstnanci v čele sunutého vlaku a převzetí této informace vždy potvrdit.\n\nSŽ D1 čl. 356 odst. (5): Strojvedoucí, může obdržet informaci o skutečnosti, že: a) hlavní návěstidlo dovoluje jízdu i následovně: 1. návěstí předchozího hlavního návěstidla nebo 2. návěstí samostatné předvěsti nebo 3. návěstí samostatné opakovací předvěsti nebo 4. návěstí návěstního napodobovače nebo 5. přenosem kódu národního vlakového zabezpečovače nebo 6. telekomunikačním zařízením.\n\nSŽ D1 čl. 356 odst. (7): U sunutého vlaku výpravčí vypravuje vždy strojvedoucího vedoucího vozidla. Dopravce svým vnitřním předpisem musí mít stanoven způsob komunikace mezi strojvedoucím a zaměstnancem v čele sunutého vlaku.\n\nČD D2 čl. 393 (tabulka): Návěstní znak hlavního návěstidla – „Vlak (uvede se číslo vlaku) na návěstidle (uvede se označení návěstidla nebo jeho určení vjezdové, cestové, odjezdové, oddílové, krycí) je návěst (uvede se název návěsti).“",
+  "distraktory": [
+   "Zaměstnanec v čele sunutého vlaku mu musí telekomunikačním zařízením ohlásit návěst odjezdového návěstidla; její zopakování a potvrzení se nevyžaduje.",
+   "Postačí, že zaměstnanec v čele sunutého vlaku sám vidí na odjezdovém návěstidle návěst dovolující jízdu; strojvedoucímu ji hlásit nemusí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 214,
+  "otazka": "Sunutý vlak je připraven k odjezdu ze stanice Klatovy a na odjezdové návěstidlo doprovod vlaku nevidí. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího hnacího vozidla dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?",
+  "obrazky": [
+   "img/q214_1.png"
+  ],
+  "tema": "Sunuté vlaky",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 362 odst. (6)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 272"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (10)"
+   }
+  ],
+  "odpoved": "Musí si od výpravčího vyžádat a obdržet pokyn k uvedení vlaku do pohybu; po rozjezdu nesmí překročit 40 km/h, dokud návěst bezpečně nezjistí.",
+  "plne_zneni": "SŽ D1 čl. 362 odst. (6): Ve stanicích, kde je dovolena výprava vlaků z dopravní koleje návěstí hlavního návěstidla, se dále postupuje podle těchto ustanovení: a) vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (nebo tuto skutečnost zjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), uvede po provedení dopravcem předepsaných úkonů vlak do pohybu. b) nevidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (a ani tuto skutečnost nezjistil […]), vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu. Strojvedoucí po uvedení vlaku do pohybu: 1. musí za odjezdu vlaku předpokládat, že návěstidlo, na které nevidí, dovoluje jízdu vlaku rychlostí 40 km/h (popř. PN) a tuto rychlost nesmí překročit. Jakmile strojvedoucí bezpečně zjistí, jakou návěstí je dovolena jízda vlaku, jedná podle této návěsti; 2. postupuje podle informací na DMI, má-li vlak oprávnění k jízdě (MA).\n\nSŽ D1 čl. 356 odst. (10): Strojvedoucí, který byl: a) vypraven výpravkou nebo b) vypraven písemným rozkazem nebo c) informován telekomunikačním zařízením o skutečnosti, že hlavní návěstidlo dovoluje jízdu nebo d) informován návěstním napodobovačem […] a nevidí na hlavní návěstidlo, které dovoluje jeho jízdu, nesmí překročit rychlost 40 km/h. Jakmile strojvedoucí bezpečně zjistí, jakou návěstí je dovolena jízda vlaku, jedná podle této návěsti.\n\nČD D2 čl. 272: […] Ve stanici obsazené výpravčím smí strojvedoucí vedoucího vozidla vlaku zahájit činnosti dle následujících ustanovení pouze za podmínky, dostal-li od výpravčího pokyn k uvedení vlaku do pohybu, obdržel souhlas k posunu nebo má příslušné oprávnění k jízdě v oblasti ETCS úrovně 2 (L2).",
+  "distraktory": [
+   "Musí si od výpravčího vyžádat a obdržet pokyn k uvedení vlaku do pohybu; po rozjezdu nesmí překročit 30 km/h, dokud návěst bezpečně nezjistí.",
+   "Zaměstnanec v čele sunutého vlaku musí dojít až k odjezdovému návěstidlu, zjistit jeho návěst a tu teprve ohlásit strojvedoucímu vedoucího vozidla."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 215,
+  "otazka": "Jaké návěsti pomocí telekomunikačního zařízení předává strojvedoucímu vedoucího hnacího vozidla zaměstnanec v čele sunutého vlaku?",
+  "obrazky": [],
+  "tema": "Sunuté vlaky",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 392"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 393"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (3)"
+   }
+  ],
+  "odpoved": "Ihned po zpozorování všechny návěsti a okolnosti ovlivňující jízdu vlaku; návěsti vztažné k traťové rychlosti vyšší než 30 km/h se nehlásí.",
+  "plne_zneni": "ČD D2 čl. 392: Nad rámec ustanovení předpisu SŽ Z11 postupují zaměstnanci při sunutí vlaku a při rádiové komunikaci na sunutém vlaku takto: před odjezdem sunutého vlaku provede zaměstnanec v čele sunutého vlaku zkoušku spojení se strojvedoucím vedoucího vozidla vlaku; zaměstnanec v čele sunutého vlaku: musí jet na prvním sunutém vozidle […]; musí zajistit takové podmínky, aby mohl přehlédnout kolej před vozidly a dávat potřebné pokyny tak, aby byly dodrženy podmínky pro bezpečnou jízdu […]; je dále povinen ihned po zpozorování ohlásit strojvedoucímu všechny návěsti nebo okolnosti, které ovlivňují jízdu vlaku. Návěsti vztažné k traťové rychlosti vyšší než 30 km/h se strojvedoucímu vedoucího vozidla vlaku nehlásí; zjistí-li, že jím dané pokyny nejsou plněny, musí použít všech dostupných prostředků k zastavení sunutého vlaku; strojvedoucí vedoucího vozidla vlaku: musí mít na vozidlové radiostanici […] nastaveno základní rádiové spojení dle TTP […]; musí obdrženou informaci o návěstním znaku (návěsti) nepřenosných návěstidel (hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, traťové rychlosti, radiovníku apod.) vždy zopakovat zaměstnanci v čele sunutého vlaku a převzetí této informace vždy potvrdit.\n\nČD D2 čl. 393: Při dávání pokynů k sunutí vlaku prostřednictvím přenosné rádiové stanice se používají nad rámec ustanovení předpisu SŽ Z11 tato závazná slovní znění: Návěstní znak hlavního návěstidla – „Vlak (uvede se číslo vlaku) na návěstidle (uvede se označení návěstidla nebo jeho určení vjezdové, cestové, odjezdové, oddílové, krycí) je návěst (uvede se název návěsti).“; Návěstní znak samostatné (opakovací) předvěsti – „Vlak (uvede se číslo vlaku) na samostatné (opakovací) předvěsti je návěst (uvede se název návěsti).“; Návěsti na trati, zvláštního určení, neproměnná návěstidla, pro pomalou jízdu, varovná návěstidla – „Vlak (uvede se číslo vlaku a název návěsti, případně doplněné o údaj uvedený na návěstidle).“ Příklad: „Vlak XY očekávejte traťovou rychlost 20 km/h.“\n\nSŽ Z11 čl. 19 odst. (3): V případě provádění rádiové komunikace při sunutí vlaku musí mít OS nebo dopravce definována i další komunikační pravidla, která musí respektovat podmínky provozu rádiových sítí (např. přenos návěstí proměnných a neproměnných návěstidel, které ovlivňují jízdu sunutého vlaku mezi zaměstnancem v čele soupravy a strojvedoucím).",
+  "distraktory": [
+   "Ihned po zpozorování všechny návěsti a okolnosti ovlivňující jízdu vlaku; návěsti vztažné k traťové rychlosti vyšší než 40 km/h se nehlásí.",
+   "Pouze návěsti hlavních návěstidel a samostatných předvěstí; návěsti na trati a neproměnná návěstidla si strojvedoucí zjistí sám z TTP."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 216,
+  "otazka": "Jak zajistíte soupravu vlaku proti ujetí na širé trati při neschopnosti hnacího vozidla (porucha kompresoru)?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 75"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 307"
+   }
+  ],
+  "odpoved": "Zabrzděním průběžné brzdy snížením tlaku v hlavním potrubí na 3,5 bar a úplným zabrzděním přímočinné brzdy HV; nelze-li to, všemi zajišťovacími brzdami.",
+  "plne_zneni": "ČD D2 čl. 75: Při neschopnosti vedoucího vozidla vyvíjet tažnou sílu (porucha kompresoru) se vlak, který nebyl přetržen, zajistí proti pohybu zabrzděním průběžné brzdy snížením tlaku v hlavním potrubí na 3,5 bar a úplným zabrzděním přímočinné brzdy HV. Nelze-li provést zabrzdění vlaku pomocí průběžné brzdy, provede se neprodleně zabrzdění všech zajišťovacích brzd na všech vozidlech v soupravě vlaku. Jestliže došlo k přetržení vlaku, zajistí se přední část (propojená s HV) dle prvního odstavce a odtržená část zabrzděním zajišťovacích brzd všech vozidel v této části vlaku. Nelze-li předpokládat obnovení provozního stavu do 30 minut, provede se neprodleně zabrzdění všech zajišťovacích brzd na všech vozidlech v soupravě vlaku.\n\nČD V15/I čl. 307: Podmínky a způsob zajištění ŽKV proti ujetí jsou uvedeny v předpise ČD D 2 v platném znění.",
+  "distraktory": [
+   "Zabrzděním průběžné brzdy snížením tlaku v hlavním potrubí na 4,5 bar a úplným zabrzděním přímočinné brzdy HV; nelze-li to, všemi zajišťovacími brzdami.",
+   "Rychločinným zabrzděním s úplným odvětráním hlavního potrubí a podložením dvou klínů pod krajní nápravy posledního vozu soupravy vlaku."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Nelze-li předpokládat obnovení provozního stavu do 30 minut, musí se neprodleně zabrzdit všechny zajišťovací brzdy na všech vozidlech soupravy."
+ },
+ {
+  "n": 217,
+  "otazka": "Jaký bude správný postup doprovodu vlaku před odjezdem vlaku ze zastávky v obvodu stanice. HV je řady 810, obsluha vlaku je u dveří vedle strojvedoucího a návěsti si budou uvedení zaměstnanci předávat ústně:",
+  "obrazky": [
+   "img/q217_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 265"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 272"
+   }
+  ],
+  "odpoved": "Strojvedoucí dá vždy (nejdříve 20 s před odjezdem) ústně návěst „Výzva strojvedoucího“ nebo „Výzva k pohotovosti“; teprve pak dá obsluha vlaku návěst „Souhlas k odjezdu“.",
+  "plne_zneni": "ČD D2 čl. 273: Doprovod vlaku postupuje takto: a) strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. Návěst Výzva strojvedoucího nebo Výzva k pohotovosti smí dát nejdříve 20 sekund před časem pravidelného odjezdu vlaku […]. aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti. ab) při odjezdu vlaku ze zastávky (včetně zastávky v obvodu odbočky) […] dá strojvedoucí návěst Výzva strojvedoucího nebo Výzva k pohotovosti jen v případě potřeby. […] b) po výstupu a nástupu cestujících a uzavření nástupních dveří (kromě vozidel provozovaných v systému CODS) dávají členové obsluhy vlaku postupně od konce vlaku směrem k vedoucímu vozidlu vlaku návěst Pohotovi k odjezdu. Poté dá člen obsluhy vlaku nejblíže ke strojvedoucímu návěst Souhlas k odjezdu; Obsluha vlaku smí dát návěsti Pohotovi k odjezdu a Souhlas k odjezdu v případech dle bodu aa) tohoto článku až po návěsti Výzva strojvedoucího nebo Výzva k pohotovosti danou strojvedoucím vedoucího vozidla vlaku; […] d) po obdržení návěsti Souhlas k odjezdu strojvedoucí vedoucího vozidla vlaku postupuje dle technologie uvedené pro konkrétní systém ovládání nástupních dveří.\n\nČD D2 čl. 265: Návěsti Výzva strojvedoucího, Výzva k pohotovosti, Pohotovi k odjezdu a Souhlas k odjezdu se nemusí používat, pokud je možno dát příslušný pokyn přímo ústně, příp. vnitřním komunikačním zařízením soupravy. Ústní pokyn musí vždy zaměstnanec vyjádřit názvem příslušné návěsti.\n\nČD D2 čl. 272: […] Ve stanici obsazené výpravčím smí strojvedoucí vedoucího vozidla vlaku zahájit činnosti dle následujících ustanovení pouze za podmínky, dostal-li od výpravčího pokyn k uvedení vlaku do pohybu, obdržel souhlas k posunu nebo má příslušné oprávnění k jízdě v oblasti ETCS úrovně 2 (L2).",
+  "distraktory": [
+   "Strojvedoucí dá vždy (nejdříve 20 s před odjezdem) ústně návěst „Výzva strojvedoucího“; obsluha vlaku mu pak předá pouze návěst „Pohotovi k odjezdu“ a nastoupí.",
+   "Obsluha vlaku dá po uzavření dveří ústně návěst „Souhlas k odjezdu“; návěst „Výzva strojvedoucího“ dává strojvedoucí ze zastávky jen v případě potřeby."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Je-li na vlaku jen jeden člen obsluhy vlaku (nejblíže strojvedoucímu), dává pouze návěst Souhlas k odjezdu; ústně se musí vyjádřit názvem příslušné návěsti."
+ },
+ {
+  "n": 218,
+  "otazka": "Jak musí být při vzdálení se ze stanoviště strojvedoucího při střídání na ose zajištěna souprava vlaku proti ujetí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 87"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 174"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "Vysvětlení pojmů – „Úplné provozní zabrzdění“"
+   }
+  ],
+  "odpoved": "Zabrzděním samočinnou brzdou na úplné provozní zabrzdění (3,5 bar) s brzdičem ponechaným v poloze doplňující ztráty vzduchu v HP, tj. bez závěru brzdiče.",
+  "plne_zneni": "ČD V2 čl. 87: Lokomotivní četa smí opustit stanoviště strojvedoucího za dodržení následujících postupů: Vzdálení se ze stanoviště strojvedoucího – přechodné opuštění stanoviště strojvedoucího bez ohledu na jeho vzdálenost za předpokladu, že lokomotivní četa má přidělené vozidlo (za toto je považováno i střídání strojvedoucích na ose) a doba vzdálení se ze stanoviště strojvedoucího nepřesáhne 30 min. Za nepřekročení této doby je odpovědný strojvedoucí. Lokomotivní četa musí před vzdálením se ze stanoviště strojvedoucího vykonat na tomto stanovišti tyto úkony: a) zajistit napájení hlavního vzduchojemu; b) zabrzdit zajišťovací brzdu; c) zabrzdit přímočinnou brzdu; d) zabrzdit soupravu vlaku samočinnou brzdou na úplné provozní zabrzdění a rukojeť brzdiče nebo ovladače brzdiče ponechat v poloze, ve které je zajištěno doplňování ztrát vzduchu v hlavním potrubí, tj. není aktivován závěr brzdiče. Pokud je automaticky zaveden závěr brzdiče a nelze jej deaktivovat (např. u řad 640, 650) ponechá se závěr brzdiče v činnosti; e) zajistit stanoviště strojvedoucího proti vstupu cizí osoby; f) v případě, že bude prováděno orientační vyšetření […] informovat vedoucího obsluhy vlaku. […] Přesáhne-li doba pro vzdálení se ze stanoviště strojvedoucího 30 min., postupuje se podle ustanovení článku 173 tohoto předpisu.\n\nČD V2 čl. 174: Při střídání na ose je odstupující lokomotivní četa povinna provést následující úkony: a) pokud střídání neprobíhá přímo na stanovišti strojvedoucího, provedou se úkony dle článku 87 tohoto předpisu; […] Lokomotivní četa smí opustit přidělené vozidlo teprve po jeho řádném a úplném předání nastupující lokomotivní četě.\n\nČD V15/I, Základní pojmy – Úplné provozní zabrzdění: stav, kdy je nastaven nejvýše dosažitelný účinek brzdy vlaku snížením tlaku v hlavním potrubí průběžné brzdy z provozního tlaku na 3,5 bar […].",
+  "distraktory": [
+   "Zabrzděním samočinnou brzdou na úplné provozní zabrzdění (3,5 bar) s brzdičem vždy nastaveným do polohy závěr, aby se ztráty vzduchu nedoplňovaly.",
+   "Zabrzděním samočinnou brzdou rychločinným zabrzděním s úplným odvětráním hlavního potrubí; zajišťovací a přímočinná brzda HV se přitom nepoužijí."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na hnacím vozidle se navíc zajistí napájení hlavního vzduchojemu a zabrzdí zajišťovací i přímočinná brzda (čl. 87 písm. a) až c))."
+ },
+ {
+  "n": 219,
+  "otazka": "Vzdálením se ze stanoviště strojvedoucího se rozumí stav, kdy:",
+  "obrazky": [],
+  "tema": "Doprovod vlaku",
+  "predpis": "ČD V2",
+  "zdroje": [
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 87"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 174"
+   }
+  ],
+  "odpoved": "Jde o přechodné opuštění stanoviště bez ohledu na vzdálenost, má-li lokomotivní četa přidělené vozidlo a doba nepřesáhne 30 minut.",
+  "plne_zneni": "ČD V2 čl. 87: Lokomotivní četa smí opustit stanoviště strojvedoucího za dodržení následujících postupů: Vzdálení se ze stanoviště strojvedoucího – přechodné opuštění stanoviště strojvedoucího bez ohledu na jeho vzdálenost za předpokladu, že lokomotivní četa má přidělené vozidlo (za toto je považováno i střídání strojvedoucích na ose) a doba vzdálení se ze stanoviště strojvedoucího nepřesáhne 30 min. Za nepřekročení této doby je odpovědný strojvedoucí. Lokomotivní četa musí před vzdálením se ze stanoviště strojvedoucího vykonat na tomto stanovišti tyto úkony: a) zajistit napájení hlavního vzduchojemu; b) zabrzdit zajišťovací brzdu; c) zabrzdit přímočinnou brzdu; d) zabrzdit soupravu vlaku samočinnou brzdou na úplné provozní zabrzdění a rukojeť brzdiče nebo ovladače brzdiče ponechat v poloze, ve které je zajištěno doplňování ztrát vzduchu v hlavním potrubí, tj. není aktivován závěr brzdiče. Pokud je automaticky zaveden závěr brzdiče a nelze jej deaktivovat (např. u řad 640, 650) ponechá se závěr brzdiče v činnosti; e) zajistit stanoviště strojvedoucího proti vstupu cizí osoby; f) v případě, že bude prováděno orientační vyšetření […] informovat vedoucího obsluhy vlaku. […] Přesáhne-li doba pro vzdálení se ze stanoviště strojvedoucího 30 min., postupuje se podle ustanovení článku 173 tohoto předpisu.\n\nČD V2 čl. 174 písm. a): Při střídání na ose […] pokud střídání neprobíhá přímo na stanovišti strojvedoucího, provedou se úkony dle článku 87 tohoto předpisu.",
+  "distraktory": [
+   "Jde o přechodné opuštění stanoviště bez ohledu na vzdálenost, má-li lokomotivní četa přidělené vozidlo a doba nepřesáhne 60 minut.",
+   "Jde o opuštění stanoviště do vzdálenosti nejvýše 100 m od hnacího vozidla, a to i tehdy, nemá-li lokomotivní četa vozidlo přidělené."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 220,
+  "otazka": "Jakou rychlostí pojede vlak dle obrázku (max. rychlost ř. 844 je 120 km/h) v úseku A od návěsti „Traťová rychlost“?",
+  "obrazky": [
+   "img/q220_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 177 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 177 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 176 odst. (1)"
+   }
+  ],
+  "odpoved": "Nejvýše 120 km/h podle horního rychlostníku N – řada 844 má rychlostní profil PASS 2 a splňuje podmínky pro jeho využití.",
+  "plne_zneni": "SŽ D1 čl. 177 odst. (1): Traťová rychlost – bílá, na delší straně postavená obdélníková deska a na ní černé číslo […] • přikazuje strojvedoucímu nepřekročit od tohoto návěstidla rychlost udanou číslem.\n\nSŽ D1 čl. 177 odst. (2): Při umístění dvou rychlostníků N nad sebou přikazuje strojvedoucímu nepřekročit od tohoto návěstidla rychlost udanou číslem horního rychlostníku N, jestliže: a) všechna vozidla vlaku jsou schopná průjezdu obloukem při působícím nedostatku převýšení 130 mm nebo vyšším, nesplňují-li podmínky stanovené odst. (12) tohoto článku; b) jsou u všech hnacích vozidel řazených ve vlaku splněny podmínky dané v aplikaci IS REVOZ (např. sloupec 2 tabulka 1j předpisu D2/1); c) jsou splněny podmínky stanovené výrobcem vozidla.\n\nSŽ D1 čl. 177 odst. (7): Dva rychlostníky N umístěné nad sebou musí být umístěny tak, aby mezi nimi nebyla mezera […], jsou považovány za jedno návěstidlo.\n\nSŽ D1 čl. 176 odst. (1): Očekávejte traťovou rychlost – žlutý, na vrcholu postavený trojúhelníkový štít, na štítu černé číslo, mající hodnotu desetiny čísla následující traťové rychlosti […] • předvěstí strojvedoucímu snížení rychlosti od předvěstěného rychlostníku N.",
+  "distraktory": [
+   "Nejvýše 100 km/h podle dolního rychlostníku N – horní rychlostník N platí jen pro soupravy s naklápěcími skříněmi.",
+   "Nejvýše 120 km/h, avšak až od okamžiku, kdy rychlostník mine konec vlaku; do té doby platí rychlost 100 km/h."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Dva předvěstníky N (10 a 12) potvrzují, že horní rychlostník N není se svislými černými pruhy (ty se dle čl. 177 odst. (5) dvěma předvěstníky nepředvěstí), a ř. 844 splňuje podmínky čl. 177 odst. (2) – tabulka u ní uvádí platnost i přísnějšího horního rychlostníku N se svislými pruhy."
+ }
+]

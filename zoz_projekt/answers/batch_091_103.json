@@ -1,0 +1,432 @@
+[
+ {
+  "n": 91,
+  "otazka": "V průběhu jízdy prostorovým oddílem kódované tratě dojde k náhlé změně světla na návěstním opakovači, a to ze žlutého na červené. Nejedná se o krátkodobé prokmitnutí červeného světla a na další návěstidlo není vidět. Strojvedoucí bude dále postupovat takto:",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "SŽDC (ČSD) T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 151"
+   },
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 157 – Červené světlo"
+   },
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 152"
+   },
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 153"
+   },
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 105"
+   }
+  ],
+  "odpoved": "Musí předpokládat překážku a řídit se světlem opakovače – červené světlo znamená Stůj na nejbližším návěstidle, před kterým musí zastavit; do zastavení obsluhuje tlačítko bdělosti.",
+  "plne_zneni": "SŽDC (ČSD) T108 čl. 151: Vjede-li vlak do prostorového oddílu na návěst dovolující jízdu a návěstní opakovač neodpovídá očekávané návěsti nepřenosného návěstidla, nebo návěstní opakovač zhasne, musí strojvedoucí předpokládat vždy překážku (lom kolejnice, náhlé obsazení oddílu vozidlem, náhlá porucha automatického bloku apod.); změní-li se za jízdy oddílem náhle světlo návěstního opakovače na světlo odpovídající povážlivějšímu návěstnímu znaku (např. ze žlutého světla na červené, ze zeleného světla na žluté apod.), řídí se strojvedoucí vždy světly návěstního opakovače ve smyslu Návěstních předpisů.\n\nSŽDC (ČSD) T108 čl. 157 (Červené světlo): Po rozsvícení červeného světla se rozezvučí houkačka vlakového zabezpečovače, pokud strojvedoucí neobsluhuje tlačítko bdělosti ve stanoveném intervalu.\na) Nejbližší oddílové nebo krycí návěstidlo ukazuje návěst 31, Stůj, a vlak musí před ním zastavit;\nb) Vjezdové, cestové nebo odjezdové návěstidlo, následující na zábrzdnou vzdálenost po předchozí návěsti 26, Výstraha, ukazuje návěst 31, Stůj, a vlak musí před ním zastavit;\nc) Nejbližší opakovací světelná předvěst, vjezdové, cestové nebo odjezdové návěstidlo ukazuje návěst „Opakování návěsti 26, Výstraha“ (příp. ve spojení se zmenšením rychlosti spodním světlem), a vlak musí za ním zastavit na nedostatečnou zábrzdnou vzdálenost (před návěstí 31, Stůj, dalšího návěstidla).\nStrojvedoucí musí až do zastavení vlaku periodicky obsluhovat tlačítko bdělosti; zanedbá-li jeho obsluhu, vlak samočinně zastaví.\n\nSŽDC (ČSD) T108 čl. 152: V případech uvedených v předchozím článku zjistí strojvedoucí teprve při jízdě v následujícím prostorovém oddílu, jedná-li se o poruchu traťové nebo mobilní části VZ. Jestliže se porucha neopakuje, jedná se pravděpodobně o poruchu traťové části VZ; v případě, že se porucha opakuje, jedná se pravděpodobně o poruchu mobilní části VZ.\n\nSŽDC (ČSD) T108 čl. 153: Za poruchu mobilní části VZ se nepovažuje krátkodobé zhasnutí, případně prokmitnutí různých světel na návěstním opakovači do 5 s. […]\n\nSŽDC (ČSD) T108 čl. 105: Rozsvítí-li se na návěstním opakovači žluté mezikruží nebo červené světlo, na trati s čtyřznakovým autoblokem červené kmitavé světlo, a nebo zhasne-li návěstní opakovač, ozve se elektrická houkačka. Strojvedoucí musí do 4 s stlačit tlačítko bdělosti, které dále obsluhuje ve funkčním intervalu, jinak dojde k samočinnému zabrzdění.",
+  "distraktory": [
+   "Musí předpokládat překážku a jet podle rozhledových poměrů nejvýše 30 km/h až k následujícímu hlavnímu návěstidlu; do zastavení obsluhuje tlačítko bdělosti.",
+   "Považuje změnu za poruchu traťové části VZ, pokračuje v jízdě podle návěstí hlavních návěstidel a poruchu ohlásí až při nejbližším zastavení ve stanici."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 92,
+  "otazka": "Vlak zastavil ve stanici Praha-Libeň. V jaký čas může odjet?",
+  "obrazky": [
+   "img/q092_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "Vysvětlení zkratek a značek v TJŘ (od 14. 12. 2025)",
+    "clanek": "sloupec 7 „odjezd“"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 287 odst. (5) e)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 285"
+   }
+  ],
+  "odpoved": "Ihned po ukončení výstupu cestujících – značka u času odjezdu dovoluje odjezd s náskokem; čas pravidelného příjezdu ani odjezdu není rozhodující.",
+  "plne_zneni": "Vysvětlení zkratek a značek v TJŘ (Správa železnic, platí od 14. prosince 2025) – Sloupec 7 „odjezd“:\n• odjezd vlaku s přepravou cestujících s náskokem ihned po výstupu cestujících\n• odjezd vlaku s přepravou cestujících s náskokem, nejdříve však v čase pravidelného příjezdu\n• nenavazující čas příjezdu a odjezdu\n\nSŽ D1 čl. 287 odst. (2): Vyžaduje-li to hospodárnost provozu nebo dopravní situace, může se vlak ze stanice vypravit s náskokem, tj. před dobou stanovenou jeho TJŘ.\n\nSŽ D1 čl. 287 odst. (5): S náskokem nesmí odjet žádný vlak s přepravou cestujících, jehož doba odjezdu byla závazně oznámena veřejnosti. Odjezd vlaku s přepravou cestujících s náskokem je však dovolen: […] e) je-li v TJŘ vlaku před časovým údajem odjezdu značka „[dvojitá značka]“, vyjadřující možnost odjezdu vlaku s přepravou cestujících s náskokem ihned po výstupu cestujících nebo „[jednoduchá značka ⊥]“, vyjadřující možnost odjezdu vlaku s náskokem nejdříve však v čase pravidelného příjezdu; […] (Pozn.: obě značky se v textové verzi předpisu nezobrazují; v TJŘ na obrázku je před časem odjezdu jedna značka.)\n\nSŽ D1 čl. 269 odst. (5): Značky používané v TJŘ musí mít jednotný vzhled a význam pro všechny podoby TJŘ a pro všechny tratě provozované Správou železnic. […]\n\nČD D2 čl. 285: Strojvedoucí odpovídá za to, že vlak s přepravou cestujících neodjede před časem odjezdu podle jízdního řádu. Pokud je čas odjezdu v TJŘ uveden s půlminutovým časovým údajem, považuje se za čas odjezdu vždy celá minuta zaokrouhlená směrem dolů.",
+  "distraktory": [
+   "Nejdříve ve 22:47 – značka u času odjezdu dovoluje odjezd s náskokem, nejdříve však v čase pravidelného příjezdu.",
+   "Nejdříve ve 22:48, tedy až v čase pravidelného odjezdu podle TJŘ; dřívější odjezd vlaku s přepravou cestujících dovolen není."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Ve sloupci 7 TJŘ jsou dvě různé značky: jedna dovoluje odjezd s náskokem ihned po výstupu cestujících (tento případ), druhá odjezd s náskokem nejdříve v čase pravidelného příjezdu (srovnej otázku 10)."
+ },
+ {
+  "n": 93,
+  "otazka": "Vlak Os 14569 stojí na zastávce na širé trati, která má přístup na nástupiště pomocí úrovňového přejezdu, který je v činnosti. Po 1. TK proti správnému směru ho předjíždí Ex 51. Jaký bude postup strojvedoucího Ex 51 při průjezdu zastávkou až k přejezdu?",
+  "obrazky": [
+   "img/q093_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 148 odst. (3) h)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 148 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 335 odst. (2)"
+   }
+  ],
+  "odpoved": "Jede dále podle návěstidel, ale musí opakovaně dávat návěst Pozor, a to až do doby, než čelo jeho vlaku mine úrovňový přejezd (přechod) u zastávky.",
+  "plne_zneni": "SŽ D1 čl. 148 odst. (1): Pozor – jeden dlouhý zvuk lokomotivní houkačkou (píšťalou) • upozorňuje osoby pohybující se v kolejišti na pohyb vozidel […]\n\nSŽ D1 čl. 148 odst. (2): Tato návěst může být dávána opakovaně.\n\nSŽ D1 čl. 148 odst. (3): K varování osob musí strojvedoucí dát návěst Pozor: […] h) Při jízdě vlaku proti správnému směru nebo po nesprávné koleji, zastavuje-li nebo stojí-li na sousední koleji v zastávce s úrovňovým přejezdem (přechodem) vlak s přepravou cestujících, a to až do doby, než čelo vlaku mine přejezd (přechod).\n\nSŽ D1 čl. 335 odst. (2): Má-li nástupiště zastávky úrovňový přístup přes kolej a cestující nejsou výstražným zařízením informováni o jízdě vlaku po této koleji (PZZ nebo VZPK), a vlaky s přepravou cestujících, které v zastávkách pravidelně nebo mimořádně zastavují, jedou proti správnému směru, jsou jízdy vlaků a PMD po sousední nevyloučené koleji zakázány.",
+  "distraktory": [
+   "Jede dále podle návěstidel, ale musí snížit rychlost na 10 km/h a dávat návěst Pozor, dokud čelo jeho vlaku nemine úrovňový přejezd u zastávky.",
+   "Jede podle rozhledových poměrů nejvýše 40 km/h a návěst Pozor dá jedenkrát v úrovni začátku nástupiště zastávky; opakovat ji již nemusí."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Přejezd (přechod) k nástupišti je v činnosti (PZZ), takže cestující jsou o jízdě výstražným zařízením informováni a jízda Ex 51 po sousední koleji není podle SŽ D1 čl. 335 odst. (2) zakázána; zůstává povinnost dávat návěst Pozor."
+ },
+ {
+  "n": 94,
+  "otazka": "Strojvedoucí vede vlak na trati s automatickým blokem dle svého TJŘ nejvyšší stanovenou rychlostí 160 km/h a vzhledem ke skutečným brzdícím procentům rozkládá svoji zábrzdnou dráhu na dvě zábrzdné vzdálenosti. Na návěstním opakovači se po minutí oddílového návěstidla AB rozsvítí žluté světlo. Na jakou novou rychlost musí strojvedoucí snížit rychlost vlaku u následujícího oddílového návěstidla AB?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 291 odst. (19) b)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 291 odst. (18)"
+   }
+  ],
+  "odpoved": "Na 140 km/h – u následujícího hlavního návěstidla musí být rychlost nejméně o 20 km/h nižší, než je stanovená rychlost vlaku.",
+  "plne_zneni": "SŽ D1 čl. 291 odst. (18): Na tratích se zábrzdnou vzdáleností 1000 m může být u vlaků s nejvyšší dovolenou rychlostí vyšší než 120 km/h, a to až do rychlosti 160 km/h včetně, využita dolní hodnota potřebných brzdících procent za podmínky, že návěst Výstraha nebo návěsti, které předvěstí sníženou rychlost, jsou přenášeny na vedoucí vozidlo vlaku prostřednictvím národního vlakového zabezpečovače již od předchozího návěstidla tak, aby informace o návěsti umožnila strojvedoucímu zastavit vlak na vzdálenost rovnající se dvojnásobku zábrzdné vzdálenosti. Národní vlakový zabezpečovač musí zajišťovat registraci příjmu návěstí, nařizujících snižování rychlosti.\n\nSŽ D1 čl. 291 odst. (19): Pokud je u vlaku, využívajícího dolní hodnotu potřebných brzdících procent […], přenášen na návěstní opakovač VZ kód, vyjadřující, že na následujícím hlavním návěstidle je návěst:\na) Volno, smí jet strojvedoucí stanovenou rychlostí;\nb) Výstraha nebo návěsti, které předvěstí sníženou rychlost, musí strojvedoucí snižovat rychlost tak, aby u následujícího hlavního návěstidla byla nejméně o 20 km/h nižší, než je stanovená rychlost vlaku.\nPodrobnosti stanoví předpis SŽDC (ČSD) T108 Obsluha vlakového zabezpečovacího zařízení.",
+  "distraktory": [
+   "Na 120 km/h – u následujícího hlavního návěstidla musí být rychlost nejméně o 40 km/h nižší, než je stanovená rychlost vlaku.",
+   "Na 100 km/h – při rozkladu zábrzdné dráhy na dvě zábrzdné vzdálenosti nesmí být u následujícího oddílového návěstidla překročena rychlost 100 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 95,
+  "otazka": "Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?",
+  "obrazky": [
+   "img/q095_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "Vysvětlení zkratek a značek v TJŘ (od 14. 12. 2025)",
+    "clanek": "sloupec 1 „Dopravny, stanoviště“"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (2) a (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 340 odst. (1) a (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (1)"
+   }
+  ],
+  "odpoved": "Ne – úsek Bálkov–Cvrkov není v TJŘ označen klikatou čarou, není to tedy úsek, na němž je organizována jízda vlaků po nesprávné koleji.",
+  "plne_zneni": "Vysvětlení zkratek a značek v TJŘ (Správa železnic, platí od 14. prosince 2025) – Sloupec 1 „Dopravny, stanoviště“, značky před názvy dopraven:\n• (klikatá čára) vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji\n\nSŽ D1 čl. 334 odst. (1): Je-li některá kolej, popř. všechny koleje dvou nebo vícekolejné trati vybavena traťovým zabezpečovacím zařízením pro obousměrný provoz, zabezpečují se jízdy vlaků činností tohoto zařízení […]. Jízdy vlaků, které na těchto tratích jedou po koleji určené TTP pro jízdu vlaků příslušného směru, se nazývají jízdy po správné koleji, jízdy vlaků po jiné než správné koleji se nazývají jízdy proti správnému směru.\n\nSŽ D1 čl. 334 odst. (2): Není-li některá kolej (popř. všechny koleje) dvou nebo vícekolejné trati vybavena zabezpečovacím zařízením pro obousměrný provoz, je jízda vlaku po této koleji ve směru, pro který je vybavena zabezpečovacím zařízením, jízdou po správné koleji; jízda vlaku po této koleji ve směru, pro který není vybavena zabezpečovacím zařízením, je jízdou po nesprávné koleji.\n\nSŽ D1 čl. 334 odst. (3): Mezistaniční úseky a koleje, na nichž jsou organizovány jízdy vlaků po nesprávné koleji, jsou uvedeny v TTP a v JŘ.\n\nSŽ D1 čl. 334 odst. (5): O jízdách proti správnému směru nebo po nesprávné koleji se musí výpravčí obou sousedních stanic vždy dohodnout. […]\n\nSŽ D1 čl. 340 odst. (1): Při nepředpokládaných jízdách vlaků po nesprávné koleji se strojvedoucí o jízdě po nesprávné koleji zpravují písemným rozkazem ve stanici, kde vlak přechází na nesprávnou kolej.\n\nSŽ D1 čl. 340 odst. (2): Při předpokládaných jízdách vlaků po nesprávné koleji podle VR se strojvedoucí zpravují pokynem v „Seznamu plánovaných omezení v provozování dráhy a změn stavebně technických parametrů dráhy“.",
+  "distraktory": [
+   "Ano – po dvoukolejné trati lze opačným směrem pojíždět vždy; strojvedoucí musí být jen zpraven písemným rozkazem ve stanici Bálkov.",
+   "Ano – opačným směrem lze jet po dohodě výpravčích obou stanic, nejvýše však rychlostí 100 km/h podle rozhledových poměrů."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Sjednoceno s pomůckou „Vysvětlení zkratek a značek v TJŘ“ (Pavel, 20. 9. 2026): klikatá čára v levém sloupci TJŘ vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji (SŽ D1 čl. 334 odst. 3) – nejde tedy o kolej s obousměrným zabezpečovacím zařízením. V TJŘ u otázky 95 značka chybí (srovnej otázky 96 a 97, kde je)."
+ },
+ {
+  "n": 96,
+  "otazka": "Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?",
+  "obrazky": [
+   "img/q096_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "Vysvětlení zkratek a značek v TJŘ (od 14. 12. 2025)",
+    "clanek": "sloupec 1 „Dopravny, stanoviště“"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (2) a (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 340 odst. (1) a (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (1)"
+   }
+  ],
+  "odpoved": "Ano – úsek je v TJŘ označen jako úsek s organizovanou jízdou po nesprávné koleji; o té musí být strojvedoucí zpraven písemným rozkazem, u plánovaných jízd pokynem v SPO.",
+  "plne_zneni": "Vysvětlení zkratek a značek v TJŘ (Správa železnic, platí od 14. prosince 2025) – Sloupec 1 „Dopravny, stanoviště“, značky před názvy dopraven:\n• (klikatá čára) vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji\n\nSŽ D1 čl. 334 odst. (1): Je-li některá kolej, popř. všechny koleje dvou nebo vícekolejné trati vybavena traťovým zabezpečovacím zařízením pro obousměrný provoz, zabezpečují se jízdy vlaků činností tohoto zařízení […]. Jízdy vlaků, které na těchto tratích jedou po koleji určené TTP pro jízdu vlaků příslušného směru, se nazývají jízdy po správné koleji, jízdy vlaků po jiné než správné koleji se nazývají jízdy proti správnému směru.\n\nSŽ D1 čl. 334 odst. (2): Není-li některá kolej (popř. všechny koleje) dvou nebo vícekolejné trati vybavena zabezpečovacím zařízením pro obousměrný provoz, je jízda vlaku po této koleji ve směru, pro který je vybavena zabezpečovacím zařízením, jízdou po správné koleji; jízda vlaku po této koleji ve směru, pro který není vybavena zabezpečovacím zařízením, je jízdou po nesprávné koleji.\n\nSŽ D1 čl. 334 odst. (3): Mezistaniční úseky a koleje, na nichž jsou organizovány jízdy vlaků po nesprávné koleji, jsou uvedeny v TTP a v JŘ.\n\nSŽ D1 čl. 334 odst. (5): O jízdách proti správnému směru nebo po nesprávné koleji se musí výpravčí obou sousedních stanic vždy dohodnout. […]\n\nSŽ D1 čl. 340 odst. (1): Při nepředpokládaných jízdách vlaků po nesprávné koleji se strojvedoucí o jízdě po nesprávné koleji zpravují písemným rozkazem ve stanici, kde vlak přechází na nesprávnou kolej.\n\nSŽ D1 čl. 340 odst. (2): Při předpokládaných jízdách vlaků po nesprávné koleji podle VR se strojvedoucí zpravují pokynem v „Seznamu plánovaných omezení v provozování dráhy a změn stavebně technických parametrů dráhy“.",
+  "distraktory": [
+   "Ano – úsek je v TJŘ označen jako úsek s organizovanou jízdou po nesprávné koleji; zpravení se nevyžaduje, jízdu dovolí návěst odjezdového návěstidla.",
+   "Ne – opačným směrem se smí jet teprve po vyloučení správné koleje, a to rychlostí nejvýše 40 km/h podle rozhledových poměrů."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Sjednoceno s pomůckou „Vysvětlení zkratek a značek v TJŘ“ (Pavel, 20. 9. 2026): klikatá čára v levém sloupci TJŘ vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji (SŽ D1 čl. 334 odst. 3) – nejde tedy o kolej s obousměrným zabezpečovacím zařízením. Klikatá čára je zde u úseků Bálkov – Cvrkov – Liptákov, v otázce 95 chybí."
+ },
+ {
+  "n": 97,
+  "otazka": "Strojvedoucí na trati s pravostranným provozem projíždí stanicí Cvrkov. Vlaková cesta je postavena na 2. TK ve směru Liptákov. Jaký bude další postup strojvedoucího, pokud není zpraven žádným písemným rozkazem?",
+  "obrazky": [
+   "img/q097_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "Vysvětlení zkratek a značek v TJŘ (od 14. 12. 2025)",
+    "clanek": "sloupec 1 „Dopravny, stanoviště“"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (2) a (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 340 odst. (1) a (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 334 odst. (1)"
+   }
+  ],
+  "odpoved": "Jde o jízdu po nesprávné koleji – musí o ní být zpraven písemným rozkazem ve stanici Cvrkov; nebyl-li zpraven, zastaví a vyžádá si zpravení od výpravčího.",
+  "plne_zneni": "Vysvětlení zkratek a značek v TJŘ (Správa železnic, platí od 14. prosince 2025) – Sloupec 1 „Dopravny, stanoviště“, značky před názvy dopraven:\n• (klikatá čára) vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji\n\nSŽ D1 čl. 334 odst. (1): Je-li některá kolej, popř. všechny koleje dvou nebo vícekolejné trati vybavena traťovým zabezpečovacím zařízením pro obousměrný provoz, zabezpečují se jízdy vlaků činností tohoto zařízení […]. Jízdy vlaků, které na těchto tratích jedou po koleji určené TTP pro jízdu vlaků příslušného směru, se nazývají jízdy po správné koleji, jízdy vlaků po jiné než správné koleji se nazývají jízdy proti správnému směru.\n\nSŽ D1 čl. 334 odst. (2): Není-li některá kolej (popř. všechny koleje) dvou nebo vícekolejné trati vybavena zabezpečovacím zařízením pro obousměrný provoz, je jízda vlaku po této koleji ve směru, pro který je vybavena zabezpečovacím zařízením, jízdou po správné koleji; jízda vlaku po této koleji ve směru, pro který není vybavena zabezpečovacím zařízením, je jízdou po nesprávné koleji.\n\nSŽ D1 čl. 334 odst. (3): Mezistaniční úseky a koleje, na nichž jsou organizovány jízdy vlaků po nesprávné koleji, jsou uvedeny v TTP a v JŘ.\n\nSŽ D1 čl. 334 odst. (5): O jízdách proti správnému směru nebo po nesprávné koleji se musí výpravčí obou sousedních stanic vždy dohodnout. […]\n\nSŽ D1 čl. 340 odst. (1): Při nepředpokládaných jízdách vlaků po nesprávné koleji se strojvedoucí o jízdě po nesprávné koleji zpravují písemným rozkazem ve stanici, kde vlak přechází na nesprávnou kolej.\n\nSŽ D1 čl. 340 odst. (2): Při předpokládaných jízdách vlaků po nesprávné koleji podle VR se strojvedoucí zpravují pokynem v „Seznamu plánovaných omezení v provozování dráhy a změn stavebně technických parametrů dráhy“.",
+  "distraktory": [
+   "Jde o jízdu po nesprávné koleji – zpraven o ní bude písemným rozkazem až ve stanici Liptákov; do té doby jede podle rozhledových poměrů nejvýše 40 km/h.",
+   "Pokračuje v jízdě podle návěstidel platných pro 2. TK – jde o jízdu proti správnému směru na koleji s obousměrným zabezpečovacím zařízením, rozkaz se nevydává."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Sjednoceno s pomůckou „Vysvětlení zkratek a značek v TJŘ“ (Pavel, 20. 9. 2026): klikatá čára v levém sloupci TJŘ vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků po nesprávné koleji (SŽ D1 čl. 334 odst. 3) – nejde tedy o kolej s obousměrným zabezpečovacím zařízením. Úsek Cvrkov – Liptákov je klikatou čarou označen, jízda po 2. TK ve směru Liptákov je tedy jízdou po nesprávné koleji; zpravení se podle čl. 340 odst. (1) provádí ve stanici, kde vlak na nesprávnou kolej přechází, tj. v Cvrkově."
+ },
+ {
+  "n": 98,
+  "otazka": "Čím se řídí strojvedoucí vlaku jedoucího po objízdné trase ve stanici?",
+  "obrazky": [],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 269 odst. (7)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 269 odst. (8)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 271 g)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 35 odst. (2)"
+   }
+  ],
+  "odpoved": "Podmínkami, které pro objízdnou trasu stanoví Správa železnic v tabulkách pro objízdné trasy; o jízdě je informován telekomunikačním zařízením nejpozději u vjezdového návěstidla.",
+  "plne_zneni": "SŽ D1 čl. 269 odst. (7): Objízdná trasa je trasa vlaku potřebná pro jízdu vlaku do jiného obvodu stanice (nádraží), než stanoví jeho TJŘ. Vlak jedoucí po objízdné trase jede pod svým původním číslem podle podmínek, stanovených Správou železnic v tabulkách pro objízdné trasy.\n\nSŽ D1 čl. 269 odst. (8): O jízdě vlaku po objízdné trase je strojvedoucí: a) informován telekomunikačním zařízením, nejpozději u vjezdového návěstidla stanice, ve které bude objízdná trasa uskutečněna; b) písemným rozkazem (nařizuje-li to VR).\n\nSŽ D1 čl. 271: Správa železnic pro výkon dopravní služby vydává tyto pomůcky JŘ: a) tabelární jízdní řády (TJŘ); […] g) objízdné trasy; […]\n\nSŽ D1 čl. 35 odst. (2): […] Znalostí místních poměrů se rozumí poznání charakteru stanic (včetně v úvahu přicházejících objízdných tras), odboček, dopraven D3, dopraven RB, nákladišť, vleček a jiných obslužných pracovišť, jejich vybavení a zabezpečení v rozsahu nezbytném pro požadovanou pracovní činnost. Souhrn těchto informací je obsažen v ZDD, případně v TTP.",
+  "distraktory": [
+   "Podmínkami stanovenými v tabulkách pro objízdné trasy; o jízdě po objízdné trase však musí být vždy zpraven písemným rozkazem ve stanici, kde na ni vjíždí.",
+   "Novým TJŘ, který je pro objízdnou trasu sestaven Správou železnic, a jede pod jiným číslem vlaku, které je pro tuto objízdnou trasu přiděleno."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Konkrétní podmínky objízdných tras jednotlivých stanic jsou v pomůcce JŘ „Objízdné trasy“ a v ZDD příslušné stanice – tyto dokumenty ve složce k dispozici nejsou, uvedené články jsou obecný předpisový základ. Pozor na odlišení od provozního odklonu (SŽ D1 čl. 269 odst. (9)), kde se jede podle zvláštního TJŘ a vždy na písemný rozkaz."
+ },
+ {
+  "n": 99,
+  "otazka": "Strojvedoucí při spatření této návěsti:",
+  "obrazky": [
+   "img/q099_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (5)"
+   }
+  ],
+  "odpoved": "Musí zastavit pohyb vozidel všemi dostupnými prostředky – jde o návěst Stůj, zastavte všemi prostředky; důvod jejího dávání zjistí až po zastavení.",
+  "plne_zneni": "SŽ D1 čl. 145 odst. (4): Stůj, zastavte všemi prostředky – jedno červené světlo svítilny na hnacím vozidle, podle možnosti doplňované o přerušované rozsvěcování reflektorové svítilny nebo horního návěstního světla hnacího vozidla • viditelná návěst • přikazuje zastavit pohyb vozidel všemi dostupnými prostředky.\n\nSŽ D1 čl. 145 odst. (1): Návěst Stůj, zastavte všemi prostředky musí znát každý zaměstnanec. Tuto návěst je povinen dát vždy, když je ohrožena bezpečnost provozování drážní dopravy nebo lidské životy všemi dostupnými prostředky (telekomunikačním zařízením, rukou, praporkem, svítilnou, píšťalkou, houkačkou, lokomotivní houkačkou a světly hnacího vozidla [včetně řídicího vozu]).\n\nSŽ D1 čl. 145 odst. (5): Zaměstnanec, dávající návěst Stůj, zastavte všemi prostředky, běží (jde) podle možností co nejdále od místa ohrožení vstříc vlaku nebo posunovému dílu, který je nutno zastavit; po zastavení oznámí strojvedoucímu důvod dávání návěsti. Strojvedoucí vlaku (PMD, posunového dílu), který zjistil nesjízdné místo na sousední koleji (kolejích) […], musí učinit opatření k zastavení ostatních pohybujících se vozidel a na hnacím vozidle rozsvítit návěst Stůj, zastavte všemi prostředky.\n\nSŽ D1 čl. 145 odst. (6): Návěst Stůj, zastavte všemi prostředky se podle možnosti a potřeby dává současně jako viditelná a slyšitelná, avšak i každá z nich sama o sobě je platná.",
+  "distraktory": [
+   "Musí snížit rychlost a jet podle rozhledových poměrů nejvýše 40 km/h až k následujícímu hlavnímu návěstidlu; jde o návěst upozorňující na překážku.",
+   "Musí zastavit pohyb vozidel všemi dostupnými prostředky, ale až poté, co mu dávající zaměstnanec sdělí důvod telekomunikačním zařízením."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku je na čele hnacího vozidla jedno rozsvícené červené světlo doplněné přerušovaným (blikajícím – nakresleno s paprsky) rozsvěcováním horního návěstního světla, což je vzhled návěsti Stůj, zastavte všemi prostředky podle SŽ D1 čl. 145 odst. (4)."
+ },
+ {
+  "n": 100,
+  "otazka": "Po projetí odjezdového návěstidla v poloze „Stůj“ z důvodu náhlé změny návěstního znaku je strojvedoucí povinen:",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 360 odst. (2)"
+   },
+   {
+    "predpis": "ČD D17",
+    "clanek": "čl. 30"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 190"
+   }
+  ],
+  "odpoved": "Neprodleně po zastavení informovat výpravčího, a to včetně údaje, zda čelo vlaku zastavilo před, nebo za návěstidlem; dál smí jet až po dovolení výpravčího.",
+  "plne_zneni": "SŽ D1 čl. 360 odst. (2): Pokud došlo po výpravě vlaku hlavním návěstidlem a jeho rozjezdu nebo jízdě k: a) náhlé změně návěsti dovolující jízdu vlaku na návěst zakazující jízdu vlaku nebo b) náhlému zhasnutí návěstidla, musí strojvedoucí neprodleně po zastavení vlaku o této skutečnosti informovat výpravčího, včetně informace, zda čelo vlaku zastavilo před nebo za tímto návěstidlem.\nPokud čelo vlaku zastavilo za návěstidlem, může výpravčí dovolit další jízdu vlaku telekomunikačním zařízením pouze tehdy, jsou-li splněny podmínky pro další jízdu vlaku např. takto: • „Vlaku 881 je další jízda směr Bor dovolena.“\nStrojvedoucí může po tomto souhlasu pokračovat v další jízdě podle návěsti, která svítila na příslušném návěstidle před náhlou změnou návěsti dovolující jízdu na návěst zakazující jízdu. V případě, že neví, jaká návěst svítila na příslušném návěstidle, musí dodržet při další jízdě vlaku podmínky jízdy na PN.\nV případě, že u vlaku s aktivním ETCS došlo k přechodu do módu Nedovolené projetí (TR), postupuje výpravčí i strojvedoucí podle ustanovení čl. 190.\n\nČD D17 čl. 30: Nedovolená jízda drážního vozidla za návěstidlo zakazující jízdu je projetí návěstidla zakazujícího jízdu a a) ohrožení dovolené jízdy jiného drážního vozidla, b) bez ohrožení jízdy jiného drážního vozidla. […] Za projetí návěstidla se nepovažují případy, kdy vozidlo bez připojené trakční jednotky nebo vlak bez obsluhy projedou návěstidla zakazující jízdu, nebo případy, kdy z jakéhokoli důvodu není návěst změněna na zákaz jízdy včas tak, aby mohl strojvedoucí vlak před návěstidlem zastavit.",
+  "distraktory": [
+   "Neprodleně po zastavení informovat výpravčího a poté pokračovat v jízdě podle rozhledových poměrů nejvýše 40 km/h až k následujícímu hlavnímu návěstidlu.",
+   "Zastavit, ohlásit mimořádnou událost ohlašovacímu pracovišti a do příchodu pověřené osoby nesmí s vlakem pohnout ani jej vrátit před návěstidlo."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Nejde-li návěst změnit na zákaz jízdy včas tak, aby strojvedoucí mohl před návěstidlem zastavit, nepovažuje se to podle ČD D17 čl. 30 za projetí návěstidla (MU skupiny C6). Podle ČD OŘ O18 č. 36/2025 (kap. 10.A.0) jde o případ „MU, kdy není zapotřebí vaší další účasti“ – po splnění ohlašovacích povinností dovolí výpravčí další jízdu (popř. rozkazem PsD1)."
+ },
+ {
+  "n": 101,
+  "otazka": "Při srážce vlaku se zvěří nedošlo ke zranění osob ve vlaku, ale došlo k poškození a neschopnosti vozidla. Strojvedoucí je povinen:",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "ČD D17",
+  "zdroje": [
+   {
+    "predpis": "ČD D17",
+    "clanek": "čl. 42"
+   },
+   {
+    "predpis": "ČD D17",
+    "clanek": "čl. 17 a čl. 20"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 471 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 464 odst. (4)"
+   },
+   {
+    "predpis": "ČD 1/D17",
+    "clanek": "skupiny MU – kategorie B3/C3"
+   }
+  ],
+  "odpoved": "Neprodleně ohlásit mimořádnou událost (srážka s překážkou v průjezdném průřezu) na ohlašovací pracoviště a pro neschopné vozidlo si vyžádat pomocné hnací vozidlo.",
+  "plne_zneni": "ČD D17 čl. 42: Každý zaměstnanec nebo osoba ve smluvním vztahu k provozovateli dráhy nebo drážní dopravy, je povinen neprodleně ohlásit MU, kterou sám způsobil, které je účastníkem, kterou zjistil nebo se o ní věrohodným způsobem dozvěděl, na ohlašovací pracoviště dle ohlašovacího rozvrhu. […] Pokud došlo k MU na vícekolejné trati nebo souběhu tratí a následky zasahují do jiné koleje, informuje zaměstnanec dispečera nebo výpravčího, aby se zabránilo dalším škodám.\n\nČD D17 čl. 17: Překážka v průjezdném průřezu je předmět nebo zvíře (domácí nebo divoké) nacházející se v průjezdném průřezu.\nČD D17 čl. 20: Srážka drážních vozidel je případ nedovoleného najetí DV na jiné DV bez ohledu na směr pohybu vozidel; srážkou DV se rozumí i případ najetí vozidla na překážku na dopravní cestě dráhy.\n\nČD 1/D17 (definice skupin MU): B3 – srážka drážního vozidla s překážkou v průjezdném průřezu s následky menšími než u vážné nehody; C3 – srážka drážního vozidla s překážkou v průjezdném průřezu s následky menšími než u vážné nehody a nehody.\n\nSŽ D1 čl. 471 odst. (1): Při ohlašování mimořádné události je zaměstnanec povinen ohlásit: a) svoje příjmení, pracovní zařazení, organizační složku a místo, odkud volá; b) místo vzniku mimořádné události a popis jejího průběhu; c) povětrnostní podmínky. Kromě toho […] d) druh a čísla postižených vlaků; e) následky mimořádné události […]; f) rozsah nesjízdnosti kolejí; g) zda je nutné vypnout napětí trakčního vedení […]; h) upozornění na místní zvláštnosti.\n\nSŽ D1 čl. 464 odst. (4): Pokud si strojvedoucí vyžádá pomocné hnací vozidlo, nesmí pokračovat v další jízdě bez souhlasu výpravčího přední stanice.",
+  "distraktory": [
+   "Neprodleně ohlásit mimořádnou událost výpravčímu; protože ke zranění osob nedošlo, může po ohlášení pokračovat v jízdě až do nejbližší vhodné stanice.",
+   "Srážku se zvěří zapsat do Knihy oprav a ohlásit ji strojmistrovi až po skončení jízdy; jako mimořádná událost se srážka se zvěří neohlašuje."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Srážka se zvěří je najetím na překážku v průjezdném průřezu, tedy srážka DV; s následkem poškození a neschopnosti vozidla jde o MU (skupina C3, při značné škodě B3) a platí ohlašovací povinnost. Podle ČD OŘ O18 č. 36/2025 (kap. 10.A.0) se ohlašuje přednostně regionálnímu dispečerovi ČD, při MU na dráze SŽ výpravčímu (dispečerovi) dle Tab. 3b TTP; do vydání souhlasu se zahájením odklizovacích prací je zakázáno pohybovat zúčastněnými vozidly."
+ },
+ {
+  "n": 102,
+  "otazka": "Strojvedoucí zjistí poruchu vozidlové radiostanice v systému GSM-R. Jak bude dále postupovat?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 13 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 70 odst. (2)"
+   },
+   {
+    "predpis": "Provozní řád GSM-R",
+    "clanek": "kap. 5.6"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 13 odst. (5)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 69 odst. (2)"
+   }
+  ],
+  "odpoved": "Ohlásí ji podle vnitřních předpisů dopravce a vždy neprodleně i příslušnému výpravčímu (dispečerovi); dál smí jet jen do nejbližší vhodné stanice, podle rozkazu nejvýše 100 km/h.",
+  "plne_zneni": "SŽ Z11 čl. 13 odst. (3): Poruchu VR ohlašuje strojvedoucí dle vnitřních předpisů dopravce a pokyny pro její ohlášení musí být uvedeny v příslušném PŘ RS. O poruše VR musí strojvedoucí vždy neprodleně informovat příslušného výpravčího (dispečera). V případě poruchy VR při jízdě vlaku (PMD) jsou další podmínky uvedeny v čl. 70.\n\nSŽ Z11 čl. 13 odst. (5): Závadou se pro potřeby tohoto předpisu rozumí takový stav radiostanice, k němuž mohlo dojít chybnou obsluhou, výpadkem napájením apod. a lze ji uvést do základního stavu obslužným úkonem (např. vypnutím a opětovným zapnutím) obsluhujícím zaměstnancem. V případě, že nelze obslužný úkon použít nebo radiostanice vykazuje stav závady opakovaně (dvakrát a více během jedné směny), postupuje obsluhující zaměstnanec […] jako při poruše.\n\nSŽ Z11 čl. 69 odst. (2): Dojde-li k náhlé ztrátě funkčnosti základního nebo náhradního rádiového spojení v době, kdy je vlak (PMD) používá, je strojvedoucí povinen o této skutečnosti neprodleně informovat příslušného výpravčího, který řídí úsek, v němž se vlak (PMD) nachází […]\n\nSŽ Z11 čl. 70 odst. (2): Strojvedoucí po odjezdu vlaku z výchozí ŽST oznámil poruchu základního rádiového spojení na HDV prostřednictvím nouzového spojení: Výpravčí […] a) ohlásí zjištěné skutečnosti provoznímu dispečerovi a projedná s ním jízdu vlaku do nejbližší vhodné ŽST […]; b) nařídí strojvedoucímu sepsání písemného rozkazu, ve kterém mu nařídí nepřekročit rychlost 100 km/hod (pokud je rychlost vlaku vyšší); c) jízda vlaku může být následně dovolena nejdále do nejbližší vhodné ŽST.\n\nProvozní řád GSM-R kap. 5.6: Zaměstnanec dopravce obsluhující koncový mobilní terminál GSM-R CZ oznámí vznik poruchy určenému zaměstnanci vlastní organizace a příslušnému zaměstnanci SŽ, který organizuje a řídí železniční provoz v dané lokalitě (výpravčí, traťový dispečer). Dále postupuje podle interních pokynů (vnitřních předpisů) vlastní organizace.",
+  "distraktory": [
+   "Ohlásí ji podle vnitřních předpisů dopravce a neprodleně i příslušnému výpravčímu; dál smí jet až do cílové stanice, nejvýše však rychlostí 100 km/h.",
+   "Radiostanici vypne a znovu zapne; nepodaří-li se závadu odstranit, ohlásí ji až po ukončení jízdy strojmistrovi a zapíše ji do Knihy předávky HV."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 103,
+  "otazka": "Strojvedoucí zjistil za jízdy na trati požár ve vlaku. Jak bude dále postupovat?",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 474 odst. (1) a (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 474 odst. (3) a (4)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 431"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 432"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 474 odst. (7) a (8)"
+   }
+  ],
+  "odpoved": "Zastaví vlak na vhodném místě (ne v tunelu ani tam, kde by byla ztížena evakuace či zásah), zajistí HV proti ujetí a požár neprodleně ohlásí výpravčímu sousední stanice.",
+  "plne_zneni": "SŽ D1 čl. 474 odst. (1): Strojvedoucí musí při požáru vozidla (vozidel) zastavit vlak, PMD nebo posunový díl.\nodst. (2): Při zastavení vlaku, PMD nebo posunového dílu z důvodu požáru vozidla (vozidel), musí strojvedoucí (popř. i obsluha vlaku) dbát na to, aby pokud možno nezastavil v tunelu ani na jiném místě, kde by byla ztížena případná evakuace osob nebo zásah záchranných složek. Stejně tak musí jednat, může-li při použití záchranné brzdy ovlivnit místo zastavení vlaku (např. překlenutím záchranné brzdy).\nodst. (3): Požár vozidel ohlásí strojvedoucí (popř. obsluha vlaku) neprodleně výpravčímu jedné ze sousedních stanic přímo nebo prostřednictvím jiného zaměstnance.\nodst. (4): Po zastavení vlaku, PMD nebo posunového dílu a zajištění hnacího vozidla proti ujetí ohlásí strojvedoucí […] výpravčímu jedné ze sousedních stanic kromě údajů, ohlašovaných při vzniku mimořádné události, ještě: a) příčinu zastavení; b) místo zastavení; c) zda došlo k zastavení vlaku v tunelu; d) rozsah požáru; e) co hoří; f) kde hoří.\nodst. (7): Po uhašení požáru vozidel na širé trati strojvedoucí (nebo odpovědný zástupce dopravce) posoudí stav vozidel zařazených ve vlaku (PMD) a vyžádá si od výpravčího přední stanice pokyny pro další jízdu vlaku (PMD).\nodst. (8): Nemůže-li strojvedoucí pokračovat v další jízdě z důvodu neschopnosti vedoucího vozidla, vyžádá si pomocné hnací vozidlo.\n\nČD D2 čl. 431: V případě signalizace požáru zjistí strojvedoucí, zda je signalizace oprávněná. Za tímto účelem je nutno jedoucí vlak zastavit co nejdříve na vhodném místě, a pokud je přítomen člen obsluhy vlaku, strojvedoucí ho informuje o důvodu zastavení. Vzniklo-li nebezpečí ohrožení přepravovaných osob, rozhodne doprovod vlaku, zda bude umožněno těmto osobám bezpečně opustit prostory soupravy ihned, tedy provést evakuaci cestujících bez pokynu IZS, nebo zda je možno dojet na místo vhodné pro výstup cestujících (zastávka, ŽST).\n\nČD D2 čl. 432: Dle zjištěného rozsahu požáru a okolností pak strojvedoucí rozhodne o dalším postupu tak, aby byla zohledněna potřeba rychlé likvidace požáru dostupnými prostředky a současně minimalizován dopad na plynulost železničního provozu. Pokud nastane potřeba hasebního zásahu nad rámec možností doprovodu vlaku a není ohrožena bezpečnost osob přepravovaných ve vlaku, je nutno dojet se soupravou na takové místo, aby byly vytvořeny co nejlepší podmínky pro přístup přivolané hasební techniky (vhodné místo na širé trati nebo až nejbližší ŽST).",
+  "distraktory": [
+   "Zastaví vlak neprodleně v místě, kde požár zjistil, zajistí HV proti ujetí a požár ohlásí výpravčímu sousední stanice až po jeho uhašení.",
+   "Pokračuje v jízdě do nejbližší stanice, kde požár ohlásí výpravčímu; na širé trati smí zastavit jen na pokyn výpravčího nebo při použití záchranné brzdy."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Podle ČD OŘ O18 č. 36/2025 (kap. 10.A.0) se při požáru volá i IZS (112) a událost se ohlašuje na ohlašovací pracoviště; požár nebo exploze v drážním vozidle je MU skupiny B7 (nejméně značná škoda), jinak C7."
+ }
+]

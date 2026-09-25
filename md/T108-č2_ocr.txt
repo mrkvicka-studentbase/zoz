@@ -1,0 +1,878 @@
+=== STRANA 1 ===
+ČESKÉ DRÁHY
+
+T 108
+
+OBSLUHA
+VLAKOVÉHO ZABEZPEČOVACÍHO ZAŘÍZENÍ
+
+ZMĚNA č. 2
+
+Doplňující ustanovení k předpisu ČD T 108
+pro obsluhu vlakového zabezpečovače typu
+LS90
+
+Schváleno generálním ředitelem Českých drah
+dne 19. června 1996 ( č.j. 57 096/96-S14 )
+
+Účinnost od 1. 1. 1997
+=== STRANA 2 ===
+I. ÚVOD
+
+1. Toto doplňující ustanovení (včetně jeho přílohy č. 1)
+je nedílnou součástí předpisu ČD T 108.
+
+Ve smyslu článku 4 předpisu ČD T 108 určuje způsob obsluhy
+a používání mobilní části vlakového zabezpečovače typu LS90 (dá-
+le jen LS90), který je odchylný od způsobu obsluhy a používání
+vlakového zabezpečovače, dosud používaného na hnacích vozidlech.
+
+2. Pro účely obsluhy a používání LS90 na hnacích vozidlech
+JoVU:
+a) platné tyto části a přílohy předpisu ČD T 108:
+- část první "Základní ustanovení",
+- část druhá "Všeobecná ustanovení“,
+—- přílohy č. 1, 3 a 4.
+b) neplatné tyto části a příloha předpisu ČD T 108:
+- část třetí "Provoz a obsluha zařízení V2Z",
+= část čtvrtá "Přezkušování mobilní části VZ,
+- část pátá "Provoz a obsluha zařízení VZ za mimořádných
+okolností",
+- příloha č. 2.
+
+části a přílohy označené ad b) jako neplatné jsou
+
+nahrazeny příslušnými kapitolami a přílohou tohoto doplňujícího
+ustanovení.
+
+3. — 4. neobsazeno
+=== STRANA 3 ===
+II. PROVOZ A OBSLUHA LS 90
+
+A. Společná ustanovení
+
+5. LS90 vedoucího drážního vozidla vlaku musí být vždy
+v činnosti a zapnutá s ovládacím přepínačem v poloze "Provoz"
+resp. "Stanoviště 1“ nebo "Stanoviště 2"“. To platí i pro samos-
+tatné jízdy hnacích drážních vozidel (dále jen hnacích vozidel).
+
+6. Je zakázáno vystavovat z depa kolejových vozidel (nebo
+jeho podřízené provozní jednotky) na vlak hnací vozidlo s vadným
+LS90. Toto ustanovení se netýká případů, kdy hnací vozidlo nebu-
+de během celého výkonu vedoucím hnacím vozidlem vlaku.
+
+Ve výjímečných případech lze k zajištění plynulosti dopravy
+hnací vozidlo s vadným LS90 obsadit osobou řídící drážní vozidlo
+(dále jen strojvedoucí) a dalším zaměstnancem (poučeným o způso-
+bu zastavení a zajištění vlaku pro případ neschopnosti strojve-
+doucího) á to po dohodě lokomotivního dispečera s vlakovým dis-
+pečerem, který vydá rozhodnutí formou dispečerského příkazu.
+
+7. Je vždy zakázáno přistavovat na vlak hnací vozidlo,
+které má vadné LS90, obsazené jen strojvedoucím. Další podrob-
+nosti určují Dopravní předpisy.
+
+8. LS90 smí obsluhovat jen strojvedoucí, který je ve služ-
+bě na příslušném hnacím vozidle.
+
+9. Pří převzetí hnacího vozidla překontroluje strojvedoucí
+stav bezpečnostních uzávěrů, přesvědčí se, zda byly odstraněny
+předtím zaznamenané poruchy a dále postupuje takto:
+
+a) přesvědčí se, že návěstní opakovač vyhovuje pro
+
+příslušný výkon,
+
+b) při převzetí na ose se přesvědčí, zda ovládací prvky
+jsou ve správné poloze,
+
+c) při převzetí po provozním ošetření, periodické prohlídce
+hnacího vozidla nebo neplánované opravě LS90 zkontrolu-
+je Záznamník a přesvědčí se, zda zařízení LS90 je pře-
+zkoušeno (článek 44 tohoto doplňujícího ustanovení) a je
+v pořádku. Víz též předpis ČD V 2 EM.
+
+Je zakázáno převzít na výkon hnací vozidlo, u kterého po
+provozním ošetření nebo periodické prohlídce nebylo LS90 pře-
+zkoušeno a shledáno v pořádku.
+
+10. Strojvedoucí musí zapsat do Záznamníku:
+
+a) poruchu LS90,
+
+b) jízdu vedoucího hnacího vozidla vlaku (nezavěšeného
+postrku) s nezapnutým LS90,
+
+c) údaje podle článku 70 předpisu ČD T 108 a článků 28, 44
+a 48 tohoto doplňujícího ustanovení.
+
+11. Vlakový zabezpečovač na hnacím vozidle se zapíná vždy až
+po zapnutí lokomotivní baterie, u motorových hnacích vozidel až
+po spuštění spalovacího motoru (pokud na hnacím vozidle nebyla
+provedena úprava napájení cívky šoupátka pro bezpečnostní brzdu
+k zajištění startu spalovacího motoru při provozu vz). Jiný
+postup je zakázán.
+=== STRANA 4 ===
+12. Při odstavení hnacího vozidla přeloží strojvedoucí
+ovládací přepínač do polohy "Vypnuto".
+
+13. Při obsluze LS90 nesmí být manipulace s přepínači, tla-
+čítky a ostatními ovládacími prvky prováděna násilnými pohyby
+a jejich případný těžký chod překonáván násilím.
+
+Takovou závadu je třeba zjistit a případně odstranit, např.
+opakováním obsluhy, kontrolou polohy přepínačů, tlačítek a pod.
+
+Němůže-li obsluhující zaměstnanec sám závadu odstranit, po-
+stupuje ve smyslu IV. kapitoly tohoto doplňujícího ustanovení.
+
+Tlačítka musí být stlačována až na doraz.
+
+Veškerá vratná tlačítka se zakazuje jakýmkoliv způsobem
+zapevňovat ve funkční poloze (stlačené i vytažené). Při
+překládání přepínačů je nutno dbát na řádné přeložení do
+požadované polohy.
+
+Obsluha přepínačů, tlačítek a ostatních ovládacích prvků
+pomocí různých mechanických pomůcek nebo pomocí jakéhokoliv
+nářadí se zakazuje. Obdobně se zakazuje jejích bezdůvodné
+ovládání.
+
+Zasahovat jakýmkoliv způsobem do zařízení LS90, kromě pře-
+depsané obsluhy, se obsluhujícím zaměstnancům zakazuje.
+
+B. Obsluha LS90
+
+14. Po vjezdu vlaku na kódovaný úsek se na návěstním
+opakovačí nejpozději do 3 s od přijetí kódu VZ rozsvítí světlo
+odpovídající návěstnímu znaku následujícího nepřenosného návěs-
+tidla.
+
+15. Význam jednotlivých světel | návěstního opakovače
+stanovují Návěstní předpisy.
+
+16. Strojvedoucí je povinen © sledovat soulad | návěstí
+nepřenosných návěstidel se světly návěstního opakovače a správný
+sled návěstí.
+
+17% Rozsvítí-li se na návěstním | opakovači světlo
+povolujícího návěstního znaku (viz však čl. 18 a 19), nevyžaduje
+zařízení žádné obsluhy.
+
+Při nevyžadované (nežádoucí) obsluze tlačítka bdělosti se po
+dobu jeho stlačení uvede -do činnosti akustická výstraha.
+
+18. Rozsvítí-li se na návěstním opakovači světlo omezujícího
+návěstního znaku nebo  návěstního znaku zakazujícího jízdu
+popřípadě zhasne-li návěstní opakovač, ozve se nejdéle za 5,5 s
+akustická výstraha.
+
+Strojvedoucí musí pak do 4 s od začátku akustické výstrahy
+stlačit tlačítko bdělosti, které dále obsluhuje ve funkčním in-
+tervalu (viz čl. 22), jinak dojde k samočinnému zabrzdění.
+
+19. V případě, že je hnací vozidlo vybaveno rychloměrem LT,
+dojde k samočinnému zabrzdění i tehdy, není-li pohyb hnacího vo-
+zidla v souladu s nastavením jeho ovládacích prvků.
+
+K samočinnému zabrzdění takto vybaveného hnacího vozidla
+nedojde v případě, že hnací vozidlo couvá v souladu s nastavením
+příslušných ovládacích prvků. Po dobu tohoto couvání však ustane
+přenos kódu. Pokud nejsou splněny podmínky automatické výluky,
+musí strojvedoucí ve funkčním intervalu obsluhovat tlačítko bdě-
+losti.
+
+4
+=== STRANA 5 ===
+20. Je-li hnací Vozidlo vybaveno rychloměrem klasického
+provedení, jsou ve smyslu © článku 15. | světly povolujících
+návěstních znaků světlo zelené a světlo žluté.
+
+21. Je-li hnací vozidlo vybaveno rychloměrem LT, zařízení
+LS90 zajišťuje v závislosti na něm rychlostně podmíněné určení
+povolujících návěstních znaků. Vztah mezi povolujícím návěstním
+znakem a rychlostí hnacího vozidla je následující:
+
+- při rychlosti nad V, není ry ze znaků povolujícím,
+
+- při rychlosti 120 ken tr až je povolujícím znakem
+svícení zeleného světla návěstntŘS o "opakovač e
+
+- při rychlosti 40 až 120 km.h"“je povolujícím znakem svícení
+zeleného nebo žlutého světla návěstního opakovače,
+
+= při rychlosti pod 40 km.h'“ je povolujícím znakem svícení
+světla zeleného, žlutého nebo žlutého mezikruží.
+
+Je-li některá z uvedených rychlostí (40 km.h“*, 120 km.h““)
+Vyšší Než Vponstr: Platí místo ní Vponstr-
+
+22. Modré světlo na návěstním opakovači, které svítí, ať již
+ve spojení s některým jiným světlem nebo samostatně, upozorňuje
+strojvedoucího, že po tuto dobu nedojde bez obsluhy tlačítka
+1 k akustické výstraze, ani zapůsobení samočinného zabr2-
+dění.
+
+Svícení modrého světla je registrováno.
+
+23. Je-li registrační zařízení rychloměru vybaveno pisátky,
+správnou funkci pisátka (pisátek) rychloměru (výluka a obsluha
+tlačítek bdělosti, popř. záznam červeného světla), je povinen
+strojvedoucí zkontrolovat při odevzdání rychloměrných proužků
+
+le záznamu na proužku.
+V případě závady postupuje podle předpisu ČD V 8.
+
+24. Tlačítko bdělosti se stlačí na dobu 0,2 - 2 s a potom
+se musí ihned pustit. Jeho trvalé stlačení nevyloučí z činnosti
+akustickou výstrahu ani samočinné zabrzdění.
+
+Po obsloužení (tlačítka bdělosti ustane akustická výstraha,
+na návěstním opakovači se asi na 4 s rozsvítí modré světlo.
+Akustická výstraha se opakuje za 11 až 18 s od předchozího ob-
+sloužení tlačítka bdělosti.
+
+25. Automatická výluka LS90 nastane součinností rychlostního
+spínače a tlakového spínače, závislého na obsluze přímočinné
+(přídavné nebo parkovací) brzdy. Na kódovaných úsecích svítí na-
+víc k modrému světlu některé další světlo návěstního opakovače.
+Současně je vyloučena z činnosti akustická výstraha, která však
+zazní po dobu stlačení tlačítka bdělosti (nežádoucí obsluha).
+
+26. Při jízdě na nekódovaných úsecích obsluhuje strojvedoucí
+ve funkčním intervalu tlačítko bdělosti, pokud nemanipuluje s
+příslušným ovladačem řízení. Obsluha příslušného ovladače řízení
+hnacího vozidla, který ovlivňuje elektromechanický převodník
+(EMP, pokud je jím hnací vozidlo vybaveno), nahrazuje při jízdě
+na nekódovaných tratích vždy funkci tlačítka bdělosti v plném
+rozsahu. Po přechodu z kódované na nekódovanou trať, musí stroj-
+vedoucí alespoň jednou obsloužit tlačítko bdělosti.
+=== STRANA 6 ===
+27. Pokud je hnací vozídlo vybaveno přepínačem kmitočtu
+50/75 Hz musí strojvedoucí v místech, kde přechází hnací vozidlo
+z kódovaného úseku 50 Hz na úsek 75 Hz nebo opačně (označených
+návěstí 44 "Přepněte VZ na kmítočet 50 Hz" nebo návěstí 45
+"Přepněte VZ na kmitočet 75 Hz"), přeložit přepínač kmitočtu
+50/75 Hz do odpovídající polohy.
+
+Návěstidla pro označení | místa změny kmitočtu napájení
+tratové části VZ jsou uvedena v Návěstních předpisech. Umístění
+návěstidel je uvedeno v Dodatku.
+
+28. U elektrických | lokomotiv | pro napájecí soustavy
+stejnosměrné/střídavé 50 Hz, je přepínání signálních kmitočtů VZ
+50/75 Hz, odvozeno od lokomotivn ovladače tak, že pří zapnuté
+střídavé trakcí se přijímá použe kód o kmitočtu 75 Hz, při zap-
+nuté stejnosměrné trakci se přijímá kód 50 i 75 Hz.
+
+29. Je-li činné hnací vozidlo zařazeno jinde než v čele
+vlaku, popřípadě je-li hnací vozidlo v závěsu nebo k službě
+pohotové, musí strojvedoucí přeložit ovládací přepínač do polohy
+"Vypnuto" (viz však článek 29). Postup obsluhy je popsán
+v oddílech C a D této kapitoly.
+
+To platí i pro hnací vozidla, která jsou provozována na
+tratích se sklonem větším než 50 promile nebo která dopravují
+kolejová pole na podvozcích Vz 53. V tomto případě musí být
+hnací vozidlo obsazeno strojvedoucím a dalším zaměstnancem,
+poučeným o způsobu zastavení vlaku a zajištění hnacího vozidla
+pro případ neschopnosti strojvedoucího.
+
+30. U hnacích vozidel dopravovaných jako "nečinná“ se
+nezapíná lokomotivní baterie. Strojvedoucí vypne LS90 přepnutím
+ovládacího přepínačé do polohy "Vypnuto", uzavře zavírací kohout
+v odbočce brzdového potrubí a poznamená to do Záznamníku.
+
+Před oopětovným nasazením hnacího vozidla ona o vlak
+strojvedoucí otevře uzavírací kohout v odbočce brzdového potrubí
+a je-li v místě Stanoviště VZ požádá o jeho zaplombování.
+
+Není-lí uzavírací kohout zaplombován, odpovídá strojvedoucí
+za jeho přestavení do polohy "Otevřeno".
+
+Zaplombování uzavíracího kohoutu musí zajistit strojvedoucí
+při nejbližší vhodné příležitosti.
+
+31. U nezavěšených postrků se přeloží ovládací přepínač do
+polohy "Provoz" resp. "Stanoviště 1“ nebo "Stanoviště 2"
+a strojvedoucí obsluhuje tlačítko bdělosti.
+
+32. Je-lí hnací vozidlo | používáno jako posunovací na
+spádovišti, jehož výtažná kolej je vybavena přenosem návěstních
+znaků spádovištních návěstidel, postupuje se takto:
+
+a) depo kolejových vozidel požádá stanoviště VZ o výměnu
+traťového návěstního opakovače za návěstní opakovač
+spádovištní a potřebnou úpravu v přístrojové skříni.
+avěetní opakovač spádovištní zajistí depo kolejových
+vozidel.
+
+b) ovládací přepínač se přepne do polohy "Start“
+
+©) po rozsvícení indikace "Start" na ovládací jednotce se
+přepne ovládací přepínač do polohy "Provoz" resp.
+"Stanoviště 1" nebo "Stanoviště 2", na návěstním
+opakovači svítí trvale modré světlo.
+
+Při jízdě po výtažné koleji se přenášejí návěstní znaky
+
+spádovištních návěstidel, tlačítko bdělosti se neobsluhuje.
+=== STRANA 7 ===
+33. Pří zpětném přechodu hnacího vozidla na traťový provoz
+provede stanoviště VZ na žádost depa kolejových vozidel:
+a) výměnu Yoh návěstního opakovače za návěstní
+opakovač traťový
+b) bezpodmínečně provede potřebnou úpravu v přístrojové
+skříni LS90.
+
+34. Při posunu vlakovým: hnacím vozidlem obsluhuje
+strojvedoucí LS90 jako v případech, kdy je hnací vozidlo zařaze-
+no jinde než v čele vlaku (viz článek 27).
+
+C.Postup obsluhy ovládací jednotky dvoukabinové
+
+35. U LS90 hnacích vozidel, která jsou vybavena ovládacími
+jednotkami dvoukabínovými, je výchozí polohou ovládacích přepí-
+načů "Vypnuto".
+
+Při uvádění LS90 s ovládací jednotkou- dvoukabinovou do čin-
+nosti musí strojvedoucí:
+
+a) zajistit podmínky pro napájení .VZ podle článku 9,
+
+b) hnací vozidlo v klidu zabrzdit přímočinnou brzdou na tlak
+minimálně 1,5 bar,
+
+©) na stanovišti podle požadovaného směru jízdy přeložit ov-
+ládací přepínač do polohy "Start". Po rozsvícení kontrol-
+ky "Start" přeložit ovládací přepínač do polohy "Provoz".
+Nerozsvítí-lí se v poloze "Start" kontrolka "Start" do
+asi 1,5 s, vrátí přepínač do polohy "Vypnuto" a postup se
+opakuje.
+
+Na návěstním opakovačí se musí rozsvítit modré světlo. Tím
+je uvedeno zařízení LS90 na daném stanovišti do provozního stavu.
+
+Tento postup je nutno dodržet i při obnovení provozního
+stavu LS90 po případném samočinném zabrzdění.
+
+36. Při přechodu na opačné stanoviště musí strojvedoucí
+zachovat tento postup:
+a) na stávajícím stanovišti přeložit ovládací přepínač do
+polohy "Vypnuto",
+b) na nově zvoleném stanovišti (při splnění podmínek podle
+článku 33 bod a),b) postupovat podle článku 33 bod c).
+
+D. Postup obsluhy ovládací jednotky jednokabinové
+
+37. U LS90 hnacích vozidel, která jsou vybavena ovládacími
+jednotkami jednokabinovými, je výchozí polohou ovládacích přepí-
+načů "Vypnuto".
+
+Při uvádění LS90 s ovládací jednotkou jednokabinovou do čín-
+nosti musí strojvedoucí:
+
+a) zajistit podmínky pro napájení VZ podle článku 9,
+
+b) hnací vozidlo v klidu zabrzdit přímočinnou brzdou na tlak
+
+minimálně 1,5 bar.
+
+c) přeložit ovládací přepínač do polohy "Start". Po rozsví-
+
+7
+=== STRANA 8 ===
+cení kontrolky "Start" přeložit ovládací přepínač podle
+požadovaňého směru jízdy do polohy "Stanoviště 1" nebo
+"stanoviště 2". Nerozsvítí-li se v poloze "Start“ kon-
+trolka "Btárt" do asi 1,5 s, vrátí se přepínač do polohy
+"Vypnuto" a postup se opakuje. Na návěstním opakovači
+zvoleného stanoviště se rozsvítí modré světlo,
+Tím je uvedeno LS90 do provozního stavu.
+Tento postup je nutno dodržet i při obnovení provozního
+stavu LS90 po případném samočinném zabrzdění.
+
+38. Při změně směru jízdy přeloží strojvedoucí ovládací pře-
+pínač do polohy, odpovídající nově zvolenému směru jízdy.
+
+39. - 40. neobsazeno
+
+III. PŘEZKUŠOVÁNÍ LS90
+A. Společná ustanovení
+
+41. Zařízení LS90 přezkušuje strojvedoucí (podle předpisu ČD
+V 2 EM) nebo určený zaměstnanec depa kolejových vozidel. Obdobně
+se postupuje také při periodických opravách.
+
+Toto ustanovení neplatí v případě, že hnací vozidlo je
+vystavováno na vlak po přezkoušení £LS90 pracovníkem stanoviště
+VZ, provedeného podle předpisu ČD T 128.
+
+Při přezkušování LS90 na hnacím vozidle zajistí depo kolejo-
+vých vozidel naplnění vzduchového potrubí tlakové brzdy.
+
+42. Přezkušování LS90 se uskutečňuje na zkušebním zařízení
+mobilní části VZ. Seznam míst se zkušebním zařízením je uveden
+vw Dodatku.
+
+43. Registrační zařízení rychloměru přezkušuje určený
+zaměstnanec depa kolejových vozidel při periodické prohlídce
+nebo po periodické opravě hnacího vozidla.
+
+44. Přezkoušení registračního zařízení rychloměru se provádí
+při každé výměně registračního rychloměru a na odůvodněnou žádost
+zaměstnance stanoviště VZ.
+
+B. Postup přezkušování LS90
+
+45. Zařízení LS90 na hnacím vozidle se přezkušuje takto:
+
+a) hnací vozidlo se zajistí proti ujetí způsobem, který
+znemožní jeho ujetí i při odbrzdění přímočinné brzdy,
+
+b) zajistí se podmínky pro napájení LS90 podle článku 9,
+
+c) hnací vozidlo se zabrzdí přímočinnou brzdou tak, aby v
+jejím okruhu byl tlak nejméně 1,5 bar,
+
+d) ovládací přepínač se přepne z polohy "Vypnuto" do polohy
+"Start"“, po rozsvícení kontrolky "Start" se přepne ovlá-
+dací přepínač ©do polohy "Provoz" | resp. do polohy
+"stanoviště 1" nebo "Stanoviště 2" - na návěstním opako-
+vači se rozsvítí modré světlo,
+=== STRANA 9 ===
+e) odbrzdí se přímočinná brzda, při zmenšení tlaku v
+brzdových válcích na méně než 0,5 bar zhasne modré světlo
+a za 3 až 5,5 s od jeho zhasnutí se spustí akustická
+výstřaha, do 4 s se musí stlačit tlačítko bdělosti,
+
+£) při následném zaznění akustické výstrahy se vyzkouší
+funkce EMP (pokud je jím hnací Vozidlo vybaveno),
+
+g) při každé obsluze tlačítka bdělosti nebo příslušného
+řídícího prvku hnacího vozidla ustane akustická výstraha
+a na asi 4 s se rozsvítí modré světlo na návěstním opako-
+vači - k dalšímu zaznění akustické výstrahy dojde za 11
+až 18 s po obsluze tlačítka bdělosti nebo EMP (kontroléru
+apod.),
+
+h) při dalším zaznění akustické Výstrahy se ponechá zařízení
+bez obsluhy. V rozmezí 11 - I8 s od předchozího obslouže-
+ní tlačítka | bdělosti se Spustí | akustická výstraha
+a v rozmezí 18 až 22 s od předchozího obsloužení tlačítka
+bdělosti se uvede do činnosti elektromagnetický ventil
+a musí zaúčinkovat samočinná tlaková brzda. přitom je
+nutno sledovat podle tlakoměru, zda se žmenšíl tlak
+v hlavním potrubí průběžné brzdy na méně než 3,5 baru,
+
+i) ovládací přepínač se přeloží do polohy "Vypnuto",
+
+j) spouštěcím tlačítkem se uvede do činnosti zkušební zaří-
+zení mobilní části VZ,
+
+k) u hnacích vozidel, která jsou vybavena přepínači kmitočtu
+
+50/75 Hz se musí před dalším zkoušením nastavit poloha
+tohoto přepínače na kmitočet shodný s momentálně zvoleným
+kmitočtem ve zkušební smyčce zkušebního zařízení.
+U hnacích vozidel, která mají přepínač kmitočtu a u hna-
+cích vozidel stejnosměrné elektrické trakce se přezkušuje
+zařízení LS90 pří obou kmitočtech kódových proudů zkušeb-
+ního zařízení VZ. U vozidel střídavé elektrické trakce se
+LS90 přezkušuje jen při kmitočtu 75 Hz,
+
+1) obnoví se provozní stav zařízení LS90, t.j.opakuje se po-
+stup podle bodu c) tohoto článku, odbrzdí se přímočinnou
+brzdou. Při zmenšení tlaku v brzdových válcích na méně
+než 0,5 baru zhasne modré světlo na návěstním opakovači,
+
+m) přezkouší se soulad světel zkušebního návěstidla se svět-
+ly na návěstním opakovači. při svícení červeného světla,
+kmitavého červeného světla, žlutého mezikruží a v inter-
+valů bez kódu musí v rozmezí 11 až 18 s začít akustícké
+výstraha, která ustane vždy po obsluze tlačítka bdělosti.
+
+n) zařízení se přepne předepsaným způsobem (viz články 34.,
+resp.36.) pro činnost na opačném stanovišti a postup pod-
+le odstavců c) až m) se opakuje. ustane-li během přezku-
+šování činnost zkušebního zařízení, stlačí se znovu
+spouštěcí tlačítko zkušebního zařízení.
+
+46. Zařízení LS90 je způsobilé k provozu, vyhoví-li ustano-
+vení článku 41.
+
+47. Zjistí-li strojvedoucí při zkoušení LS90 jeho nesprávnou
+činnost (např. nesouhlasí-li světlo na návěstním opakovači se
+světlem na zkušebním návěstidle, nehouká-li houkačka apod.), oz-
+námí to strojmistrovi, který zařídí odstranění závady.
+
+48. Výsledek přezkoušení LS90 podle článku 41 se zapíše do
+Záznamníku.
+
+49. — 50. neobsazeno
+=== STRANA 10 ===
+IV. PROVOZ A OBSLUHA ZAŘÍZENÍ
+LS 90 ZA MIMOŘÁDNÝCH OKOLNOSTÍ
+
+A. Společná ustanovení
+
+51. Vjede-li vlak do prostorového oddílu na návěst dovolují-
+cí jízdu a světlo návěstního opakovače neodpovídá očekávané ná-
+věsti nepřenosného návěstidla nebo návěstní opakovač zhasne, mu-
+sí strojvedoucí předpokládat vždy překážku (lom kolejnice, náhlé
+obsazení oddílu vozidlem, náhlá porucha automatického bloku
+apod.). Změní-li se za jízdy oddílem náhle světlo návěstního
+opakovače na světlo odpovídající povážlivějšímu návěstnímu znaku
+(např. ze žlutého světla na červené, ze zeleného světla na žluté
+a pod.), řídí se strojvedoucí vždy světly návěstního opakovače
+ve smyslu Návěstních předpisů.
+
+52. V případech, uvedených v předchozím článku, zjistí
+strojvedoucí teprve při jízdě v následujícím prostorovém oddílu,
+jedná-li se o poruchu traťové nebo mobilní části VZ.
+
+Jestliže se porucha neopakuje, jedná se pravděpodobně o
+poruchu traťové části VZ. V případě, že se porucha opakuje,
+jedná se pravděpodobně o poruchu LS90.
+
+53. Za poruchu LS90 se nepovažuje krátkodobé zhasnutí popří-
+padě prokmitnutí různých světel na návěstním opakovači v trvání
+do 5 s. Rovněž se nepovažuje za poruchu LS90 rozsvícení nebo
+prokmitnutí světel návěstního opakovače při jízdě na nekódovaném
+úseku.
+
+54. Strojvedoucí zapíše do Záznamníku každý projev poruchy.
+Rovněž zapíše do Záznamníku sejme-li bezpečnostní závěr LS90.
+
+55. Při poruše nebo sejmutí bezpečnostního závěru na LS90
+předá strojvedoucí po příjezdu do domovského depa kolejových vo-
+zidel Záznamník strojmistrovi nebo jinému zaměstnanci, určeného
+provozním řádem depa.
+
+Ten vyrozumí ihned zaměstnance stanoviště pro údržbu VZ
+a předá mu Záznamník.
+
+Jméno zaměstnance stanoviště VZ a čas jeho vyrozumění zapíše
+strojmistr nebo určený zaměstnanec depa kolejových vozidel do
+Záznamníku.
+
+56. Zjistí-li zaměstnanec stanoviště VZ poruchu na částech
+LS90, které udržuje depo kolejových vozidel, vyrozumí o tom ur-
+čeného zaměstnance a zapíše tuto závadu do Záznamníku.
+
+57. Ve vratných železničních stanicích, ve vratných depech
+kolejových vozidel, stanovištích pro provozní ošetřování hnacích
+vozidel apod., kde je zřízeno stanoviště VZ, vyrozumí strojve-
+doucí příslušného strojmistra o závadě, který podle místních po-
+měrů a podmínek zařídí opravu LS90.
+
+58. Stanoviště VZ je povinno po oznámení strojmistra
+odstranit poruchu, která na LS90 vznikla.
+
+10
+=== STRANA 11 ===
+59. V případě, že poruchu na LS90 nelze odstranit, oznámí to
+zaměstnanec stanoviště VZ strojmistrovi. Důvody a stav zařízení
+zapíše do Záznamníku.
+
+B. Poruchy tratové části VZ
+
+60. | Po zjištění poruchy na traťové části VZ musí
+strojvedoucí v následující stanici zastavit a poruchu ohlásit
+výpravčímu.
+
+Zastavit nemusí v případě, může-li poruchu ohlásit radiosta-
+nicí výpravčímu nebo vlakovému dispečerovi. V hlášení oznámí
+prostorový oddíl (místo) v němž poruchu zjistil a jak se proje-
+wila.
+
+Je-li strojvedoucí na poruchu traťové části VZ předem upo-
+zorněn, postupuje podle příslušných ustanovení Návěstních a Do-
+pravních předpisů,
+
+61. Výpravčí | nebo dispečer, který přijal zprávu
+strojvedoucího o poruše traťové části VZ, musí o tom neprodleně
+zpravit výpravčího sousední stanice z opačné strany místa
+poruchy a ohlásit ji ve smyslu předpisu ČD T 100.
+
+62. Výpravčí ve stanici před místem poruchy traťové části VZ
+zpravují o této poruše všechny vlaky. Zastavující vlaky zpravují
+rozkazem "V“, projíždějící vlaky zpravují návěstí 85 "Možno
+projet"“.
+
+Na tratích s dálkovým zabezpečovacím zařízením zpravuje
+o tom strojvadoucího dispečer radiovým spojením.
+
+63. Strojvedoucí, který byl zpraven o poruše traťové části
+vz, řídí jízdu vlaku podle ustanovení Návěstních předpisů.
+
+64. Vlaky se zpravují o poruše traťové části VZ podle
+ustanovení článku 56 tak dlouho, dokud udržující zaměstnanec
+neoznámí zápisem nebo telefonicky, že traťová část VZ je v
+pořádku. Teprve potom se ukončí zpravování vlaků a to po vzájem-
+né dohodě výpravčích obou sousedních stanic
+
+65. Při jízdě vlaků za poruchy automatického bloku a při
+jízdě vlaku v úseku za hlavním návěstidlem, které není možné pro
+poruchu nebo z jiné příčiny přestavit na návěst dovolující
+jízdu, postupuje strojvedoucí při obsluze LS90 ve smyslu ustano-
+vení článku 16.
+
+66. Blíží-li se hnací vozidlo k oddílovému návěstidlu
+automatického | bloku, které je zhaslé, nebo pokračuje-li
+strojvedoucí v jízdě kolem oddílového návěstidla automatického
+bloku, ukazujícího návěst "stůj“, je © povinen jet podle
+Návěstních předpisů (část první, druhá.a čtvrtá).
+
+11
+=== STRANA 12 ===
+C. Poruchy LS90
+
+67. Vznikne-li porucha LS90 během jízdy vlaku, řídí se další
+jízda při obsazení vedoucího hnacího vozidla vlaku jen strojve-
+doucím, ustanovením Dopravních předpisů.
+
+U hnacích vozidel,obsazených dvoučlennou lokomotivní četou,
+pokračuje vlak v dajší jízdě nezmenšenou rychlostí (nejvýše však
+rychlostí 120 km.h““). :
+
+Po výpadku přenosu návěstí (když návěstní opakovač zhasne
+nebo svítí (jen modré světlo) musí však strojvedoucí postupovat
+podle ustanovení článku 157 Návěstních předpisů.
+
+Výpravčí, který přijal zprávu o poruše LS90, vyrozumí o tom
+ihned vlakového dispečera, který rozhodne o dalším postupu (víz
+Dopravní předpisy).
+
+Na | nedispečerizovaných tratích | nahrazuje rozhodnutí
+vlakového dispečera provozní dispečer pro obvod trati, na níž je
+porucha.
+
+68. Došlo-li na LS90 k poruše, při které je znemožněn pouze
+přenos návěstí a ostatní funkce zařízení jsou zachovány, nesmí
+strojvedoucí pro další jízdu vypínat LS90. Zařízení obsluhuje
+jako při jízdě na nekódovaných úsecích a pří jízdě se řídí ná-
+věstmí hlavních návěstidel.
+
+69.v případě, že se vyskytla porucha, při které je potřebné
+ut LS90, musí strojvedoucí přeložit ovládací přepínač na
+ovládací jednotce LS90 do polohy "Vypnuto“.
+
+70. V případě, že postupem podle článku 63.nedojde k přítahu
+elektromagnetického ventilu a šoupátko pro bezpečnostní brzdu
+zůstane otevřeno, musí strojvedoucí sejmout bezpečnostní závěr,
+uzavřít uzavírací kohout v odbočce brzdového potrubí, vedoucího
+k šoupátku pro bezpečnostní brzdu a provést o tom zápis do Záz-
+namníku, včetně udání důvodu.
+
+12
+=== STRANA 13 ===
+PŘÍLOHA Čč. 1
+
+k doplňujícímu ustanovení předpisu ČD T108
+pro obsluhu LS90.
+
+Popis zařízení LS90
+
+1. LS90 je umístěno na hnacím vozidle. Přijímá a vyhodnocuje
+kódy traťové části Vz. Kontroluje ve funkčním intervalu bdělost
+strojvedoucího při světle návěstního opakovače, nařizujícího
+snížení rychlosti nebo zastavení a při jízdě na nekódovaných
+úsecích. Nepotvrdí-lí strojvedoucí v daném časovém intervalu
+svojí bdělost, dojde k samočinnému zabrzdění.
+
+2. V LS90 jsou ve funkční součinnosti:
+
+a) snímače,
+
+b) přístrojová skříň,
+
+c) ovládací jednotka (jednotky),
+
+d) návěstní opakovače,
+
+e) tlačítka bdělosti,
+
+£) elektromechanický převodník,
+
+g) rychlostní spínač,
+
+h) tlakový spínač,
+
+i) šoupátko pro bezpečnostní brzdu s elektromagnetickým
+ventilem a uzavíracím kohoutem v odbočce brzdové potrubí,
+
+j) registrační zařízení rychloměru,
+
+k) přepínač kmitočtu 50/75 Hz.
+
+3. Snímač je cívka s ferromagnetickým jádrem. Snímače jsou
+umístěny na hnacím vozidle nad oběma kolejnicovými pásy ve výši
+asi 200 mm nad temenem kolejnic a jsou chráněny smetadly nebo
+pluhem.
+
+Snímač zachycuje magnetické pole, vznikající působením
+kódovaných proudů v kolejnicích nebo kódovacích smyčkách.
+
+4. Přístrojová skříň obsahuje elektronické zařízení, které
+vyhodnocuje proudy ze snímačů a vytváří potřebné závislosti.
+Její umístění se řídí typem hnacího vozidla.
+
+5. Ovládací jednotka je umístěna na každém stanovišti stroj-
+vedoucího. V závislosti na typu hnacího vozidla se používají dva
+druhy ovládacích jednotek:
+
+a) ovládací jednotka dvoukabinová,
+
+b) ovládací jednotka jednokabinová.
+
+Ovládací jednotka dvoukabinová (obr. 1) obsahuje:
+
+= ovládací přepínač s polohami "Vypnuto","Start" a "Provoz"“,
+
+= kontroiku "Start",
+
+- reproduktor akustické výstrahy s regulátorem hlasitosti.
+
+Ovládací jednotka jednokabinová (obr. 2) obsahuje:
+
+- ovládací přepínač s polohami "Vypnuto" , "Start",
+"Stanoviště 1" a "Stanoviště 2",
+
+= kontrolku "Start"
+
+- reproduktor akustické výstrahy s regulátorem hlasitosti.
+
+6. Návěstní opakovač je umístěn na každém stanovišti stroj-
+vedoucího. Používají se dva druhy návěstních opakovačů:
+
+a) návěstní opakovač traťový (obr. 3),
+
+b) návěstní opakovač spádovíštní (obr. 4).
+
+13
+=== STRANA 14 ===
+Návěstní opakovače jsou pánelového provedení. Tělesa
+opakovačů je možno podle potřeby strojvedoucího otočit do poža-
+dované polohy tak, aby byla zajištěna optimální viditelnost svě-
+tel. Světla návěstního opakovače jsou tvořena svítivými diodami
+LED. Intensita jejích svitu je v širokém rozsahu nastavitelná
+regulátorem, který je součástí návěstního opakovače.
+
+7. Tlačítka bdělosti slouží k ověřování bdělosti strojvedou-
+cího na kódovaných i nekódovaných úsecích. Obsluha tlačítka bdě-
+losti může být na nekódovaných úsecích nahražena obsluhou ovla-
+dače řízení (popř. jiného stanoveného ovladače) s EMP (pokud je
+jím hnací vozidlo vybaveno) při řízení vozidla.
+
+8. Elektromechanický převodník (EMP) je zařízení, ovládané
+pohybem kontroléru nebo jinými řídícími prvky a svojí činností
+nahrazuje funkci tlačítka bdělosti v případech jízdy na nakódo-
+vaných úsecích.
+
+9. Rychlostní spínač sepne pří poklesu rychlosti hnacího vo-
+zidla pod 10 km. h'“. Rozepne pří rychlosti 15 km.h “ a vyšší.
+
+10. Tlakový spínač sepne při tlaku vzduchu v brzdových
+válcích 1,5 bar a vyšším. Rozepne pří tlaku 0,5 bar a nižším.
+Jeho činnost je závislá na zabrzdění hnacího vozidla přímočinnou
+(přídavnou nebo parkovací) brzdou. Je namontován v potrubí mezi
+dvojitým zpětným ventilem a brzdičem přímočinné brzdy.
+
+11. Šoupátko pro bezpečnostní brzdu s elektromagnetickým
+ventilem a uzavíracím kohoutem v odbočce brzdového potrubí
+uzavírá výtok vzduchu hlavního potrubí průběžné brzdy tehdy,
+protéká-li cívkou jeho | elektromagnetického ventilu proud.
+Není-li však obslouženo tlačítko bdělosti nebo EMP (pokud je jím
+hnací vozidlo vybaveno), přeruší se proud v cívce elektromagne-
+tického ventilu a šoupátko pro bezpečnostní brzdu otevře výfuk
+vzduchu z hlavního potrubí samočinné brzdy. Tím se vlak samočin-
+ně zastaví.
+
+Šoupátko pro bezpečnostní brzdu je možno vyřadit z činnosti
+uzavíracím kohoutem v odbočce brzdového potrubí, který je v
+provozní poloze opatřen plombou na šňůrce.
+
+Elektromagnetický ventil nebo jeho kryt (pokud je ventil
+zakrytován), tlakový spínač a uzavírací kohout v odbočce
+brzdového potrubí jsou natřeny žlutě.
+
+12. Registrační zařízení rychloměru klasického provedení
+zaznamenává svícení modrého, červeného, popř. i jiného světla
+návěstního opakovače.
+
+Registrační zařízení rychloměru LT zaznamenává zapnuté sta-
+noviště, obsluhu tlačítka bdělosti a svícení všech světel ná-
+věstního opakovače.
+
+13. Přepínač kmitočtu 50/75 Hz (pokud je jím hnací vozidlo
+vybaveno) je umístěn na stanovišti strojvedoucího a přepíná se
+jím LS90 pro jízdu na kódovaných úsecích podle druhu signálního
+kmitočtu traťové části Vz.
+
+14
+=== STRANA 15 ===
+Obr. 1 Obr. 2
+
+Ovládací jednotka Ovládací jednotka
+dvoukabinová Jednokabínová
+
+ŽLUM BÍLX 3 PRUHEM
+ČERYBNA ČERVENÁ
+ZBLENK BILX
+
+ŽLUTÉ BILÁ
+MEZIKRUŽI S PÍSMENEM *2"
+AODRK MODRA
+REGULÁTOR REGULÁTOR
+
+INTRNZITY SVITU INTENZITY SVITU
+
+Obr. 3 Obr. 4
+Návěstní opakovač Návěstní opakovač
+tratový spádovištní
+
+15
+=== STRANA 16 ===
+OBSAH
+
+I. ÚvoD . . 0.0.0 000060 6600 00 0 00 06 6 2
+II. PROVOZ A OBSLUHA IL890 ..... . « « « « « « « + « + « + 3
+KE PROJSSNÉ AEoROVNÉ m see mom bin ce 2 o seno 3
+
+B. Obsluha LS90 .. . . . . ... . 4
+C. Postup obsluhy ovládací jednotky dvoukabinové čce 2
+D. Postup obsluhy ovládací jednotky jednokabinové ... 7
+III. PŘEZKUŠOVÁNÍ 1990 ...... < + +.+.+.+.+ ++.: 8
+A. Společná ustanovení . . <. , + ++ + + + ++ ++ ++ 8
+
+B. Postup přezkušování LS90 . . . « + « + « « « + + « B
+IV. PROVOZ A OBSLUHA ZAŘÍZENÍ LS90 ZA MIMOŘÁDNÝCH .„ . . . 10
+
+UDÁLOSTÍ
+
+A. Společná ustanovení . .. . úho€
+
+B. Poruchy traťové části VZ. a: 6 © ano
+C. Poruchy LS90 . . . « « s « « 6 6. č
+
+Příloha č.1 - Popis zařízení LS90 ....... « + « « « « « 13
+
+ČD T 108, změna 8.2
+
+OBSLURA. VLAKOVÉHO ZABEZPRČOVACÍHO ZAŘÍZENÍ
+
+Doplňující ustanovení k předpisu ČD T 108
+pro obsluhu vlakového zabezpečovače typu LS90
+
+Zpracoval: Techiiická ústředna dopravní cesty,
+sekce sdělovací a zabezpečovací techniky,
+Italská 45, 121 31 Praha 2
+
+Vydal: TÚDC Praha
+
+Vytiskl: CONDOR plus
+
+Náklad: 20 000 ks
+
+16

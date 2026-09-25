@@ -1,0 +1,464 @@
+                             Správa železniční dopravní cesty, státní organizace
+                             Dlážděná 1003/7
+
+                             110 00 PRAHA 1
+
+                                                                                              Oblastní ředitelství
+                                                                                                   Ústí nad Labem
+
+číslo jednací   12667/2017-SŽDC-OŘ UNL-NŘP                   vydání č.                    1
+                                                             účinnost od                  17. 08. 2016
+                                                             změna č.                     1
+                                                             účinnost změny od            10. 5. 2017
+                                                             celkový počet stran          11
+
+
+
+
+                Příloha č. 24 pro ŽST (ODB)
+                                 - Bílina
+                                 - Oldřichov u Duchcova
+                                 - Světec
+                                 - Obrnice
+                                 - Most
+                                 - České Zlatníky
+
+                    Pokyny pro obsluhu
+                  vyhodnocovacích zařízení
+                jméno                    funkce                          datum            podpis
+
+                                         systémový specialista
+zpracovali      Mgr. Ing. Jan Šmok                                          25. 4. 2017   Mgr. Ing. Jan Šmok v.r.
+                                         OŘ Ústí nad Labem
+
+                                         systémový specialista
+                Miroslav Zubík                                              25. 4. 2017   Miroslav Zubík v.r.
+                                         OŘ Ústí nad Labem
+
+odsouhlasili    Ing. Miroslav Čepek      přednosta PO Most                  25. 4. 2017   Ing. Miroslav Čepek v.r.
+
+                                         přednosta PO
+                Pavel Venkrbec                                              25. 4. 2017   Pavel Venkrbec v.r.
+                                         Ústí nad Labem
+                                         Náměstek ředitele
+schválil        Ing. Eduard Tržil, MPA   pro řízení provozu                 27. 4. 2017   Ing. Eduard Tržil, MPA v.r.
+                                         OŘ Ústí nad Labem
+        SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                              příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+
+
+
+        SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+GŘ         Generální ředitelství
+GSM        Globální systém mobilní komunikace
+GSM-R      Železniční mobilní telefonní síť
+IHL        Indikace horkého ložiska
+IHO        Indikace horkých obručí a brzd
+INJ        Indikace nekorektnosti jízdy
+K          Stupeň poplachu (Kontrola): nižší stupeň
+ODB        Odbočka
+OŘ         Oblastní ředitelství
+PMD        Posun mezi dopravnami
+SEE        Správa elektrotechniky a energetiky
+SSZT       Správa sdělovací a zabezpečovací techniky
+STOP       Stupeň poplachu: vyšší stupeň
+SZO        Sdělovací a zabezpečovací obvod
+SŽDC       Správa železniční dopravní cesty, státní organizace
+TRS        Traťový rádiový systém
+TÚDC       Technická ústředna dopravní cesty
+ZPZ        Zkouška praktické způsobilosti
+ŽST        Železniční stanice
+
+
+
+
+                                          2
+           SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                 příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+
+
+
+                             ROZSAH ZNALOSTÍ
+
+       ŽST(odb.)            pracovní činnost                          znalost
+České Zlatníky                     výpravčí                     úplná celé přílohy
+
+Most                               výpravčí                    úplná částí 1, 2 a 4
+
+Obrnice                            výpravčí                    úplná částí 1, 2 a 4
+
+Bílina                             výpravčí                    úplná částí 1, 2 a 4
+
+Světec                             výpravčí                    úplná částí 1, 2 a 4
+
+Oldřichov u Duchcova               výpravčí                    úplná částí 1, 2 a 4
+
+
+
+
+                                              3
+           SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                 příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+
+
+
+      Organizační a technické zabezpečení provozu
+          diagnostiky závad jedoucích vozidel
+
+       Opatření pro obsluhu indikátorů závad jedoucích
+                     železničních vozidel
+
+
+
+
+1. Stručný popis činnosti zařízení
+
+
+    Zařízení pro horkoběžnost ložisek (IHL) a horkých obručí a disků kotoučových
+brzd (IHO) je funkční pro oba směry pojíždění.
+    Zařízení pro indikování závad železničních vozidel včetně jejich ložení (INJ) je
+funkční jen při pojíždění správným směrem, tj. od ŽST Bílina do odbočky České
+Zlatníky.
+    Při indikaci závady se na stanovišti obsluhy po projetí vlaku (PMD) zobrazí
+diagnostická zpráva s daným druhem a stupněm poplachu.
+
+Přehled druhů a stupňů poplachů daných diagnostických zpráv:
+       a) červený podklad hlášení („červené hlášení“):
+           IHL STOP – Okamžité zastavení vlaku (PMD)
+
+
+       b) žlutý podklad hlášení („žluté hlášení“):
+             IHL K (Kontrola) – Zastavení vlaku ve stanici
+             IHO STOP – Zastavení vlaku ve stanici
+             IHO K (Kontrola) – Zastavení vlaku ve stanici
+             INJ STOP – Zastavení vlaku ve stanici
+             INJ K (Kontrola) – Zastavení vlaku ve stanici
+
+Při stupni poplachu podle odstavce b) (žlutý podklad hlášení) a jízdě vlaku ve
+správném směru přes traťovou část Diagnostiky jsou vhodnými stanicemi pro
+zastavení vlaku ŽST Most nebo ŽST Obrnice (dle směru další jízdy vlaku). Při jízdě
+vlaku proti správnému směru přes traťovou část Diagnostiky jsou vhodnými stanicemi
+pro zastavení vlaku ŽST Oldřichov u Duchcova nebo ŽST Světec (dle směru další
+jízdy vlaku). V případě, že se jedná o vlak, u kterého je z jakéhokoliv důvodu
+plánováno zastavení v ŽST Bílina, je vhodnou stanicí pro zastavení vlaku ŽST Bílina.
+
+
+
+
+                                             4
+         SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                               příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+2. Umístění zařízení
+
+ 2.1 Traťová část Diagnostiky
+       Traťová část Diagnostiky je umístěna v mezistaničním úseku ŽST Bílina –
+  odbočka České Zlatníky ve druhé traťové koleji v km 35,606.
+
+
+ 2.2 Stanoviště obsluhy Diagnostiky
+         Stanoviště obsluhy je vybaveno samostatným počítačem s tiskárnou a je
+  umístěné v dopravní kanceláři odbočky České Zlatníky. Zaměstnancem
+  obsluhujícím stanoviště obsluhy Diagnostiky je výpravčí odbočky České Zlatníky
+  (dále jen výpravčí).
+
+
+
+
+3. Povinnosti obsluhy
+
+
+  Výpravčí:
+      při obsluze Diagnostiky postupuje dle Pokynů pro obsluhu diagnostiky
+       kolejových vozidel ASDEK;
+      provádí výměnu papíru u tiskárny na stanovišti obsluhy;
+      při odevzdávce dopravní služby překontroluje provozní stav Diagnostiky
+       a zapíše aktuální stav do dokumentu „Odevzdávka dopravní služby“ –
+       bodu 25 – „Jiné důležité údaje týkající se výkonu dopravní služby:“ Další
+       kontrolu provede nejméně 1x za směnu;
+
+
+
+
+                                           5
+           SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                 příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+4. Postup při vyhodnocení vozidla Diagnistikou
+
+
+ 4.1. Diagnostická zpráva IHL stupně STOP
+
+     Povinnosti výpravčího:
+     a) vyrozumí strojvedoucího prostřednictvím telekomunikačního zařízení
+        o poplachu IHL stupně STOP a nutnosti okamžitého zastavení vlaku,
+        závazně takto: „Vlak (číslo vlaku), indikováno horké ložisko stupně
+        STOP, okamžitě zastavte!“;
+     b) není-li vyrozumění strojvedoucího pomocí telekomunikačního zařízení
+        úspěšné, použije k zastavení vlaku následující úkony:
+        - použití nouzového volání v základním nebo náhradním rádiovém
+           spojení podle tabulek traťových poměrů (dle přílohy 21 SŘ),
+        - vypnutí trakčního vedení v příslušné traťové koleji,
+        - přestavení příslušných návěstidel na návěst zakazující jízdu.
+
+          K zastavení vlaku však výpravčí nesmí použít generálního ani adresného
+          stopu příslušné rádiové sítě, neodvrací-li zároveň jiné nebezpečí. Pokud
+          se vlak nepodaří zastavit na trati, je doporučeno, aby do stanice nevjížděl
+          vedlejším směrem.
+
+     c)   po zastavení vlaku oznámí strojvedoucímu prostřednictvím
+       telekomunikačního zařízení číslo nápravy od začátku/konce vlaku (pořadí
+       nápravy vlaku) a stranu vlaku;
+     d) ve spolupráci se strojvedoucím (případně jiným zástupcem dopravce,
+       kterého strojvedoucí oznámí) doplní diagnostickou zprávu:
+       - číslem vlaku, názvem dopravce a číslem vozidla, pokud již tyto údaje
+          nejsou v Diagnostice vyplněny automaticky,
+       - nálezem (zjištěnou skutečností) a uvedením příjmení strojvedoucího
+          nebo jiného zástupce dopravce, který detekovanou závadu na místě
+          posoudil.
+
+    Vyrozumění strojvedoucího při jízdě proti správnému směru lze zajistit
+    i prostřednictvím výpravčího ŽST Bílina.
+
+
+
+
+                                             6
+        SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                              příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+4.2 Diagnostická zpráva IHL stupně K a diagnostická zpráva IHO
+    stupně STOP
+4.2.1. Povinnosti výpravčího při indikování závady při jízdě vlaku ve správném
+       směru:
+       a) vyrozumí strojvedoucího prostřednictvím telekomunikačního zařízení
+          o zjištěném druhu a stupni poplachu, například takto: „Vlak (číslo vlaku),
+          indikováno horké ložisko stupně K, zastavte v ŽST Most (ŽST
+          Obrnice)!“;
+       b) zajistí zastavení vlaku ve stanici Most (Obrnice) a informuje výpravčího
+          ŽST Most (Obrnice) o zastavení vlaku v ŽST a důvodu jeho zastavení,
+          včetně informace o číslu nápravy od začátku/konce vlaku (pořadí
+          nápravy vlaku) a straně vlaku.
+       c) po zastavení vlaku ve stanici oznámí strojvedoucímu (přímo nebo
+          prostřednictvím výpravčího ŽST Most (Obrnice) číslo nápravy od
+          začátku/konce vlaku (pořadí nápravy vlaku) a stranu vlaku;
+       d) ve spolupráci se strojvedoucím (případně jiným zástupcem dopravce,
+          kterého strojvedoucí oznámí) doplní diagnostickou zprávu:
+          - číslem vlaku, názvem dopravce a číslem vozidla, pokud již tyto údaje
+             nejsou Diagnostikou automaticky vyplněny,
+          - nálezem (zjištěnou skutečností) a uvedením příjmení strojvedoucího
+             nebo jiného zástupce dopravce, který detekovanou závadu na místě
+             posoudil.
+
+
+4.2.2. Povinnosti výpravčího při indikování závady při jízdě vlaku proti
+       správnému směru:
+       a) vyrozumí strojvedoucího prostřednictvím telekomunikačního zařízení
+          o zjištěném druhu a stupni poplachu, například takto: „Vlak (číslo vlaku),
+          indikováno horké ložisko stupně K, zastavte v ŽST Oldřichov
+          u Duchcova (Světec – podle směru další jízdy);
+       b) oznámí výpravčímu ŽST Oldřichov u Duchcova (Světec) Diagnostikou
+          zjištěný druh závady;
+       c) informuje výpravčího ŽST Bílina o zastavení vlaku v ŽST Oldřichov u
+          Duchcova (Světec), a to z důvodu možného zastavení vlaku např. z
+          dopravních důvodů v ŽST Bílina.
+
+Výpravčí ŽST Oldřichov u Duchcova (Světec) zajistí zastavení vlaku a oznámí
+strojvedoucímu stranu vlaku a číslo nápravy od začátku/konce vlaku na základě
+informací od výpravčího.
+
+Výpravčí dále zajistí doplnění diagnostické zprávy:
+      - číslem vlaku, názvem dopravce a číslem vozidla, pokud již tyto údaje
+         nejsou Diagnostikou automaticky vyplněny,
+      - nálezem (zjištěnou skutečností) a uvedením příjmení strojvedoucího
+         nebo jiného zástupce dopravce, který detekovanou závadu na místě
+         posoudil.
+
+Byl-li vlak zastaven v ŽST Bílina (např. z dopravních důvodů), provede se
+prohlídka vlaku v ŽST Bílina.
+
+
+                                          7
+      SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                            příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+4.3 Diagnostická zpráva IHO stupně K
+   Výpravčí provede standardní úkony pro zastavení vlaku ve vhodné stanici
+   (dle směru jízdy vlaku) a pomocí telekomunikačního zařízení vyrozumí
+   strojvedoucího, například takto: „Vlak 604, indikována horká obruč 8/12 nebo
+   brzda stupně K, zastavte v ŽST Most!“.
+
+   Při potvrzení strojvedoucím o nestandardním průběhu jízdy přes Diagnostiku
+   a na základě rozhodnutí strojvedoucího umožní výpravčí další jízdu vlaku
+   přes odbočku bez nutnosti kontroly a zastavení vlaku. Tato skutečnost se
+   zapíše do diagnostické zprávy. Pokud strojvedoucí nepotvrdí nestandardní
+   průběh jízdy přes Diagnostiku a rozhodne se pro kontrolu a zastavení vlaku,
+   postupuje obdobně dle článků 4.2.1. a 4.2.2.
+
+
+4.4 Diagnostická zpráva INJ stupně STOP (platí pouze pro jízdu ve
+    správném směru)
+   Povinnosti výpravčího:
+   a) vyrozumí strojvedoucího prostřednictvím telekomunikačního zařízení
+      o poplachu INJ stupně STOP, například takto: „Vlak 606, indikována
+      nekorektní jízda stupně STOP, zastavte v ŽST Most !“;
+   b) zajistí zastavení vlaku ve stanici;
+   c) po zastavení vlaku ve stanici oznámí strojvedoucímu číslo nápravy od
+      začátku/konce vlaku (pořadí nápravy vlaku);
+   d) ve spolupráci se strojvedoucím (případně jiným zástupcem dopravce,
+      kterého strojvedoucí oznámí) doplní diagnostickou zprávu:
+   - číslem vlaku, názvem dopravce a číslem vozidla, pokud již tyto údaje
+      nejsou Diagnostikou automaticky vyplněny,
+   - nálezem (zjištěnou skutečností) a uvedením příjmení strojvedoucího nebo
+      jiného zástupce dopravce, který detekovanou závadu na místě posoudil.
+
+
+4.5 Diagnostická zpráva INJ stupně K (platí pouze pro jízdu ve
+    správném směru)
+    Výpravčí vyrozumí strojvedoucího o druhu poplachu, stupni poplachu a
+    čísle nápravy. Na základě rozhodnutí strojvedoucího zajistí zastavení vlaku
+    ve stanici Most (Obrnice) pro kontrolu, nebo umožní další jízdu vlaku bez
+    nutnosti zastavení a kontroly vlaku.
+
+    V případě zastavení vlaku ve stanici pro kontrolu se postupuje obdobně dle
+    článku 4.2.1.
+
+    V případě, že se strojvedoucí rozhodne nezastavovat vlak ve stanici pro
+    kontrolu, zapíše výpravčí tuto skutečnost do diagnostické zprávy.
+
+    Jedná-li se o opakované vyhodnocení stejného druhu poplachu na stejné
+    nápravě při jízdě jednoho vlaku je strojvedoucí povinen zastavit vlak ve
+    stanici pro kontrolu.
+
+
+                                        8
+           SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                 příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+   4.6 Opatření pro jízdy PMD
+
+       Při indikování závady při jízdách PMD postupuje výpravčí obdobně jako při
+       indikování závady při jízdě vlaku.
+
+
+   4.7 Telekomunikační spojení
+       Veškeré hovory mezi výpravčími a strojvedoucím (případně jiným zástupcem
+       dopravce,    kterého   strojvedoucí   oznámí),   nejsou-li   vedeny    na
+       telekomunikačním zařízení s funkčním záznamem, musí být dokumentovány
+       v Telefonním zápisníku příslušného výpravčího.
+
+
+
+   Telekomunikační spojení na jednotlivá pracoviště:
+
+
+Výpravčí odbočky České Zlatníky                                         9724 25638
+
+                                                                        9724 25455
+výpravčí ŽST Most
+                                                                        724 220 439
+
+výpravčí ŽST Obrnice                                                    9724 25555
+
+                                                                        9724 25855
+výpravčí ŽST Bílina
+                                                                        9724 25854
+
+výpravčí ŽST Oldřichov u Duchcova                                       9724 20111
+
+                                                                        9724 25833
+výpravčí ŽST Světec
+                                                                        724 220 567
+
+                                                                        972 036 402
+
+elektrodispečer 2 OŘ Ústí nad Labem                                     972 424 227
+
+                                                                        606 606 028
+
+
+
+
+                                             9
+              SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                    příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+5. Evidence diagnostikovaných závad
+
+
+    Evidence diagnostikovaných závad IHL, IHO a INJ je přehlednou evidencí závad
+na jedoucích železničních vozidlech za určené období. Slouží k systematickému
+sledování a vyhodnocování činnosti Diagnostiky a je podkladem k případné změně
+nastavení úrovně stupňů poplachu.
+
+
+
+    Výpravčí odbočky České Zlatníky:
+ ukládá všechny vytištěné diagnostické zprávy do složky s označením „ASDEK“,
+  po skončení každého měsíce je archivuje po dobu dalších 6 měsíců;
+ údaje z diagnostických zpráv vyplňuje do tabulky č. 1 Přehled závad, kterou po
+  skončení měsíce elektronicky zasílá na GŘ SŽDC O5 (Odbor smluvních vztahů)
+  a na TÚDC Praha, elektronicky na adresy: Ing. Pavel Prchal, prchal@szdc.cz
+  a Ing. Dana Faitová, dana.faitova@tudc.cz.
+
+
+
+    Tabulka č. 1 Přehled závad
+                                                               Číslo
+                    Čas                                                                     Posouzení
+         Čas                 Číslo    Název                  nápravy od   Druh    Příznak
+ Datum          vyrozumění                      Číslo vozu                                   závady -
+       indikace              vlaku   dopravce                 začátku   poplachu poplachu
+                 dopravce                                                                   Poznámka
+                                                               vlaku
+
+
+
+
+                                                   10
+           SŘ ŽST Bílina, Oldřichov u Duchcova, Světec, Obrnice, Most, ObŘ ODB České Zlatníky
+                                                 příloha 24 – 1. změna - Účinnost od 10. 5. 2017
+
+6. Ostatní opatření k zařízení Diagnostiky
+
+
+   Na stanovišti obsluhy Diagnostiky je indikována:
+ porucha Diagnostiky během vyhodnocování při průjezdu vlaku diagnostickou
+  zprávou: „Nespolehlivý výsledek Diagnostiky“;
+ technologická porucha Diagnostiky fialovým čtverečkem „Porucha“.
+ zpráva o neoprávněném vstupu do traťového objektu (technologického domku)
+  Diagnostiky.
+
+
+   Výpravčí odbočky České Zlatníky:
+  v případě technologické poruchy Diagnostiky nebo při neoprávněném vstupu do
+   traťového objektu (technologického domku) oznámí tuto skutečnost udržujícímu
+   zaměstnanci OŘ SSZT Ústí nad Labem, SZO Bílina, v pracovní době na tel.
+   972 425 892, v mimopracovní době na tel. 724 223 704.
+
+ V případě neoprávněného vstupu do traťového objektu (technologického domku)
+   oznámí výpravčí odbočky České Zlatníky tuto skutečnost Policii České republiky.
+
+
+
+   Je-li traťová část Diagnostiky vypnuta z činnosti, neprovádí se žádná
+dopravní opatření.
+
+
+
+
+7. Vyškolení a poučení zaměstnanců provádějících obsluhu
+
+
+    Výpravčí odbočky České Zlatníky musí být před zařazením k samostatnému
+výkonu dopravní služby vyškolen a poučen z obsluhy Diagnostiky. Proškolení
+a poučení těchto zaměstnanců je součástí Zkoušky praktické způsobilosti ZPZ.
+
+
+
+
+                                             11
+

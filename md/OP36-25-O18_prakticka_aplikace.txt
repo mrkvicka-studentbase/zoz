@@ -1,0 +1,1417 @@
+                                                                                                                        OP 36/25/O18
+
+
+
+Interní
+
+
+
+
+Opatření ředitele O18 č. 36/2025 – Praktická aplikace
+předpisových ustanovení v praxi
+
+
+
+Číslo jednací                                                        Změna č.                             č.j. změny
+4218/25 –O18                                                         0
+
+
+
+Schváleno
+
+
+Ing. Jan Blažek                                                Ředitel O18               14. 12. 2025 Ing. Jan Blažek, v.r.
+
+
+
+
+Datum platnosti
+14. 12. 2025
+
+Účinnost od
+14. 12. 2025
+
+Úroveň přístupu / Klasifikace informací
+C
+
+
+Gestor
+
+
+Ing. Lukáš Gahai
+
+
+
+
+                  České dráhy, a.s., Generální ředitelství               IČO 70994226 | DIČ CZ70994226
+                  nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1        zapsaná ve veřejném – obchodním rejstříku
+                  T 221 111 122, IDDS e52cdsf, www.cd.cz                 u Městského soudu v Praze pod sp. zn. B 8039       Strana 1 / 3
+                                                                                                                     OP 36/25/O18
+                                                                                                                    14. 12. 2025
+
+Interní                                                                                                     Číslo jednací 4218/25 –O18
+
+
+
+
+Pro snazší orientaci v některých předpisových ustanoveních a zjednodušení práce strojvedoucího při výkonu jeho
+povolání, převážně v provozních situacích, se kterými nepřichází každodenně do styku, vydáváme následující
+opatření.
+Toto opatření nenahrazuje platné předpisy, které má strojvedoucí v rámci své platné odborné zkoušky V-08 ve
+znalostech, pouze prakticky zobrazuje použití jejich ustanovení v praxi.
+ Toto opatření nahrazuje Opatření Ř O18 č. 32/2020 - Praktická aplikace předpisových ustanovení v praxi,
+č. j.: 1799/22-O18, které ruší v plném rozsahu.
+Vypracovaná témata jsou rozdělena dle níže uvedené tabulky tak, že každý list má vedle svého názvu také ozna-
+čení verze, která se skládá takto:
+
+                                                                     1A.0
+
+            Pořadové číslo tématu                           Písmenné označení listu                       Číslo změny
+
+Toto opatření je sdíleno strojvedoucím pomocí aplikace MAPSIS. Změny jednotlivých listů nejsou barevně odli-
+šeny. Jednotlivá témata, která jsou zařazena jako příloha tohoto opatření:
+          Název tématu                Název listu                 Verze         Platnost předpisů             Účinnost od
+                                    Výprava vlaku                 1A.0               SŽ D1                    14. 12. 2025
+                                Zastávky v obvodu sta-
+          Výprava a od-                                           1B.0                 SŽ D1                  14. 12. 2025
+                                          nice
+           jezd vlaku
+                                Návěsti před odjezdem
+                                                                  1C.0                ČD D 2                  14. 12. 2025
+                                         vlaku
+          Jízda vlaku ko-         Přivolávací návěst              2A.0                                       14. 12. 2025
+          lem hl. návěsti-     Jízda vlaku kolem neob-                                 SŽ D1
+                                                                  2B.0                                       14. 12. 2025
+            del v poruše       sluhovaného návěstidla
+           nebo při jízdě      Postup u oddíl. návěsti-
+           na obsazenou          del AB, AH a krycích             2C.0                 SŽ D1                  14. 12. 2025
+                kolej                náv. + štít Op
+                                                                                      SŽ D1
+              Posun                          x                    3A.0                                        14. 12. 2025
+                                                                                      ČD D 2
+                                  Druhy zkoušek brzd              4A.0
+                                                                                     ČD V15/I
+                                      ÚZB a JZB                   4B.0                                        14. 12. 2025
+                                        OOPB                      4C.0                ČD V 2
+          Brzdění vlaků
+                                                                                      SŽ D1
+                                Nedostatek skutečných
+                                                                  4D.0                ČD D 2                  14. 12. 2025
+                                  brzdících procent
+                                                                                     ČD V15/I
+      Místo zastavení                        x                    5A.0                SŽ D1                  14. 12. 2025
+      Rychlostní pro-
+      fily/horní rych-                       x                    6A.0                 SŽ D1                 14. 12. 2025
+           lostník
+                                                                                      SŽ D1
+          Posun mezi do-
+                                             x                    7A.0                ČD D 2                  14. 12. 2025
+            pravnami
+                                                                                     ČD V15/I
+          Výpadek napětí
+           v TV, porucha
+                                             x                    8A.0                 SŽ D1                  14. 12. 2025
+           TV nebo sbě-
+               rače
+
+
+
+
+                České dráhy, a.s., Generální ředitelství             IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1      zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz               u Městského soudu v Praze pod sp. zn. B 8039         Strana 2 / 3
+                                                                                                                     OP 36/25/O18
+                                                                                                                    14. 12. 2025
+
+Interní                                                                                                     Číslo jednací 4218/25 –O18
+
+
+
+
+          Název tématu                 Název listu                Verze         Platnost předpisů             Účinnost od
+                                                                                      SŽ D1
+      Provozní odklon                        x                    9A.0           Opatření Ř O18               14. 12. 2025
+                                                                                    č.38/2020
+            Postup při                                                                SŽ D1
+                                             x                    10A.0                                       14. 12. 2025
+            vzniku MU                                                                ČD D 17
+                                Indikace horkoběžnosti
+                                                                  11A.0
+                                        ložisek
+          Diagnostika zá-                                                           ČD V 62
+                               Indikace horkých obručí
+           vad jedoucích                                          11B.0             ČD V 2                    14. 12. 2025
+                                         a brzd
+              vozidel                                                             PPD č. 4/2017
+                                Indikace nekorektnosti
+                                                                  11C.0
+                                          jízdy
+                                                                                      SŽ D1
+                                 Všeobecné provozní
+                                                                  12A.0               SŽ Z8                   14. 12. 2025
+                                  zkušenosti ETCS
+                                                                                     SŽ D1/1
+                                Řešení vybraných pro-                                 SŽ D1
+                                vozních situací ETCS -            12B.0               SŽ Z8                   14. 12. 2025
+                                        obecně                                       SŽ D1/1
+          Evropský vla-
+                                Řešení vybraných pro-
+          kový zabezpe-                                                               SŽ D1
+                                vozních situací ETCS –
+              čovač                                               12C.0               SŽ Z8                   14. 12. 2025
+                                 trať bez dodatečných
+                                                                                     SŽ D1/1
+                                        opatření
+                                Řešení vybraných pro-
+                                                                                      SŽ D1
+                                vozních situací ETCS–
+                                                                  12D.0               SŽ Z8                   14. 12. 2025
+                               trať s dodatečnými opat-
+                                                                                     SŽ D1/1
+                                         řeními
+
+
+
+
+                České dráhy, a.s., Generální ředitelství             IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1      zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz               u Městského soudu v Praze pod sp. zn. B 8039         Strana 3 / 3
+                                           1A.0 - Výprava vlaku
+Vlak vypravuje vždy výpravčí, nikoliv strojvedoucí nebo obsluha vlaku. Tito zaměstnanci provádějí pouze
+úkony dopravce před odjezdem vlaku (čl. 261 - 264 D 2)
+                         souhlas k uvedení vlaku do pohybu ve stanici (např. od cestového návěstidla
+Výprava vlaku            k odjezdovému návěstidlu)
+                         pokyn k průjezdu vlaku stanicí
+Pokud je vlak vypraven výpravčím jiným způsobem než návěstí hl. návěstidla (, písemný rozkaz) nebo
+informován telekomunikačním zařízením (návěstním napodobovačem) o skutečnosti, že hlavní
+návěstidlo dovoluje jízdu - nesmí strojvedoucí překročit rychlost 40 km/h dokud neuvidí návěst dovolující
+jízdu nejbližšího hl. návěstidla, poté jedná dle jeho návěsti (čl. 356 D1)
+                                          STANICE OZNAČENÉ V TJŘ 
+A1) Vlak
+s přepravou
+cestujících stojí
+u nástupiště
+(čl. 361, 364 SŽ
+D1)
+                               Vlak musí být vypraven výpravčím výpravkou, popř. písemným rozkazem
+A2) Vlak
+s přepravou
+cestujících stojí
+mimo
+nástupiště
+(čl. 361, 362 SŽ
+D1)                                    Vlak je vypraven návěstí „Volno“ odjezdového návěstidla
+
+A3) Vlak
+s přepravou
+cestujících
+mimořádně
+zastavil u
+nástupiště
+(čl. 361, 364 SŽ                Vlak musí být vypraven výpravčím výpravkou, popř. písemný rozkazem
+D1)
+A4) Vlak bez
+přepravy
+cestujících stojí
+u nástupiště
+(čl. 361, 362 SŽ
+D1)
+                                       Vlak je vypraven návěstí „Volno“ odjezdového návěstidla
+            VÝPRAVA VLAKU NÁVĚSTÍ ODJEZDOVÉHO NÁVĚSTIDLA (STR nevidí na návěstidlo L1)
+B1) Strojvedoucí
+výchozího vlaku
+(čl. 362 SŽ D1)
+
+
+
+                    Vlak musí být vypraven výpravčím jiným způsobem než návěstí hl. návěstidla (, písemný rozkaz)
+                    nebo informován telekomunikačním zařízením o skutečnosti, že hlavní návěstidlo dovoluje jízdu
+B2) Strojvedoucí
+po zastavení
+vlaku ve stanici
+se závislými
+návěstidly
+(čl. 362 SŽ D1)
+                      Vlak je vypraven návěstí dovolující jízdu odjezdového návěstidla (tato návěst je předvěstěna
+                                                       vjezdovým návěstidlem L)
+B3) Strojvedoucí
+výchozího vlaku
+(čl. 362 SŽ D1)
+
+
+
+
+                   Vlak je vypraven návěstí „Volno“ odjezdového návěstidla (tato návěst je přenášena návěstním
+                                                        opakovačem na HV)
+                                1B.0 - Zastávka v obvodu stanice
+E1) Vlak po
+zastavení
+pro nástup
+a výstup
+cestujících
+pokračuje
+v jízdě
+stejným
+směrem
+
+(čl. 359 SŽ
+D1)
+
+
+
+
+               Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu L1
+                          (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává)
+E2)
+Vlak po
+zastavení
+pro nástup
+a výstup
+cestujících
+pokračuje
+v jízdě
+opačným
+směrem
+(čl. 359 SŽ
+D1)
+              Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu S101
+                          (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává)
+
+E3)
+Vlak po
+zastavení
+pro nástup
+a výstup
+cestujících
+pokračuje
+v jízdě
+opačným
+směrem
+
+(čl. 359 SŽ
+D1)
+
+
+
+
+                  Strojvedoucí si musí před uvedením vlaku do pohybu vyžádat vždy pokyny k jízdě od výpravčího
+                          1C.0 - Návěsti před odjezdem vlaku
+      Stanice
+  Stanice s výlukou
+ služby výpravčího
+                         VŽDY NÁVĚST „VÝZVA K POHOTOVOSTI“ NEBO „VÝZVA STROJVEDOUCÍHO“
+    Dopravna D3
+ Zastávka v obvodu
+       stanice
+                         NÁVĚST „VÝZVA K POHOTOVOSTI“ NEBO „VÝZVA STROJVEDOUCÍHO“ POUZE
+Zastávka na širé trati
+                                                 V PŘÍPADĚ POTŘEBY
+        Kdo                  Komu                              Jak                      Článek
+    Strojvedoucí          Obsluze vlaku     Návěst "Výzva k pohotovosti" - slyšitelná 261 ČD D 2
+
+
+
+
+                                             Návěst "Výzva strojvedoucího" - viditelná     262 ČD D 2
+
+
+
+
+                                             Vnitřní komunikační zařízení soupravy:        265 ČD D 2
+                                             „Výzva k pohotovosti“
+                                             Ústně: „Výzva k pohotovosti“                  265 ČD D 2
+   Obsluha vlaku         Strojvedoucímu      Návěst „Souhlas k odjezdu“                    264 ČD D 2
+nejbližší k vedoucímu
+    vozidlu vlaku
+
+
+                                             Vnitřní komunikační zařízení soupravy:        265 ČD D 2
+                                             „Souhlas k odjezdu“
+                                             Ústně: „Souhlas k odjezdu“                    265 ČD D 2
+                         Nástupiště u přímé koleje nebo ve vnitřním oblouku
+    Strojvedoucí          Obsluze vlaku       V případě potřeby návěst „Převzetí pokynu“   165 SŽ D1,
+                                                      a uvedení vlaku do pohybu            283 ČD D 2
+                                   Nástupiště ve vnějším oblouku
+    Strojvedoucí          Obsluze vlaku          Vždy návěst „Převzetí pokynu“, vyčkat     165 SŽ D1,
+                                                 minimálně 5 vteřin a uvedení vlaku do     283 ČD D2
+                                                                pohybu
+                              2A.0 - Přivolávací návěst
+Vysvětlivky:          jízda podle rozhledových poměrů             vmax = 40 km/h
+                                     ODJEZDOVÉ NÁVĚSTIDLO
+
+A1) Trať bez
+oddíl.
+návěstidel AB
+(čl. 23, 138 SŽ D1)
+
+
+
+A2) Trať
+s oddíl.
+návěstidly AB
+(čl. 23, 138 SŽ D1)
+
+
+
+                                       CESTOVÉ NÁVĚSTIDLO
+B1)
+S obvodem
+výhybek
+přilehlých
+k hl.
+návěstidlu (čl.
+23, 138 SŽ D1)
+B2) Bez
+obvodu
+výhybek
+přilehlých
+k hl.
+návěstidlu (čl.
+23, 138 SŽ D1)
+
+                                      VJEZDOVÉ NÁVĚSTIDLO
+
+
+C1)
+
+(čl. 23, 138 SŽ D1)
+
+
+
+
+C2)
+
+(čl. 23, 138 SŽ D1)
+
+
+
+
+C3) Vjezd
+vlaku na
+obsaz. kolej (čl.
+23, 138, 353 SŽ D1)
+
+                               Nedostanu-li návěst Stlačit, nesmím najet na vozidlo
+ 2B.0 - Jízda vl. kolem neobsluhovaného hl. náv. na pís. rozkaz
+Vysvětlivky:       jízda podle rozhled. poměrů             vmax = 40 km/h
+                                        ODJEZDOVÉ NÁVĚSTIDLO
+D1)
+Trať bez
+oddíl.
+návěstidel
+AB
+
+(čl. 23, 138,
+141, 142 SŽ D1,
+SŽ D1/1-pokyn
+1.)
+                  Vlak je vypraven písemným rozkazem, nejdříve v čase odjezdu může vlak odjet.
+D2)
+Trať bez
+oddíl.
+návěstidel
+AB
+(čl. 23, 138,
+141, 142 SŽ D1
+SŽ D1/1-pokyn
+1.)
+
+                  Vlak je vypraven písemným rozkazem, nejdříve v čase odjezdu může vlak odjet.
+D3)
+Trať
+s oddíl.
+návěstidly
+AB
+(čl. 23, 138,
+141, 142 SŽ D1
+SŽ D1/1-pokyn
+1.)
+                  Vlak je vypraven písemným rozkazem, nejdříve v čase odjezdu může vlak odjet.
+                                         VJEZDOVÉ NÁVĚSTIDLO
+
+
+
+
+E1)
+(čl. 23, 138,
+141, 142 SŽ D1
+SŽ D1/1-pokyn
+1.)
+
+E2)
+(čl. 23, 138,
+141, 142 SŽ D1
+SŽ D1/1-pokyn
+1.)
+
+E3)
+Vjezd vlaku
+na obsaz.
+kolej(čl. 23,
+138, 141, 142
+,353 SŽ D1 SŽ
+D1/1-pokyn 1.)
+                                Nedostanu-li návěst Stlačit, nesmím najet na vozidlo
+2C.0 - Postup strojvedoucího u oddílových návěstidel AB, AH a
+                  krycích návěstidel + štít Op
+                    „POVOLUJE JÍZDU“ včetně „PN“                              „STŮJ“
+
+
+
+
+  Hradlo                   SŽ D1, čl. 112, 138                            SŽ D1, čl. 105
+                                                         1. Zastavit.
+  Hláska
+                                                         2. Není-li možná domluva se strážníkem oddílu
+                                                            – ihned volat výpravčího
+             jízda traťovou rychlostí                        a. Dovolá - po svolení výpravčího
+                                                                pokračovat v jízdě.
+                                                            b.   Nedovolá - zůstat stát
+
+
+                           SŽ D1, čl. 112, 138                            SŽ D1, čl. 106
+ Oddílové
+návěstidlo
+                                                         Zastavit. Po 5 minutách volat výpravčího (přední
+   AH                                                    stanice, zadní stanice)
+                                                             a. Dovolá – pokyn k další jízdě od
+             jízda traťovou rychlostí
+                                                                 výpravčího
+                                                             b. Nedovolá – zůstat stát
+
+
+
+
+                           SŽ D1, čl. 112, 138                            SŽ D1, čl. 107
+ Oddílové                                                1. Zastavit.
+návěstidlo                                               2. Není-li vidět v násl. traťovém oddílu drážní
+                                                            vozidlo, pokračovat dle rozhledových
+   AB                                                       poměrů V max= 40 km/h
+                                                         3. Je-li vidět v násl. traťovém oddílu drážní
+             jízda traťovou rychlostí
+                                                            vozidlo = zůstat stát, dokud vozidlo
+             (PN, nelze návěstit)
+                                                            neodjede z dohledu. Poté pokračovat dle
+                                                            rozhledových poměrů V max= 40 km/h
+    +
+                                                         4. Je-li štít Op = v následujícím traťovém oddílu
+                                                            jet se zvýšenou opatrností přes dotčené
+                                                            přejezdy.
+
+                           SŽ D1, čl. 112, 138                            SŽ D1, čl. 108
+ Oddílové
+návěstidlo
+                                                         Zastavit. Po 5 minutách volat výpravčího (přední
+   AB                                                    stanice, zadní stanice)
+             jízda traťovou rychlostí                        a. Dovolá – pokyn k další jízdě od
+                                                                 výpravčího
+                                                             b. Nedovolá – zůstat stát
+
+
+
+
+                           SŽ D1, čl. 112, 138                            SŽ D1, čl. 109
+  Krycí
+                                                         Zastavit. Po 5 minutách volat výpravčího (přední
+návěstidlo                                               stanice, zadní stanice)
+             jízda traťovou rychlostí
+                                                             a. Dovolá – pokyn k další jízdě od
+             PN = přes výhybky, které návěstidlo kryje
+                                                                 výpravčího
+             max. 40 km/h
+                                                             b. Nedovolá – zůstat stát
+                                                3A.0 - POSUN
+Co                Kdo           Komu           Jak                                                           Články
+Jízda na vlak                                  Sjednání posunu
+Odstup od vlaku                   Zaměst.      „Strojvedoucí vlaku 123 Českých drah, strojvedoucí             104, 106 ČD
+                                                                                                                   D2
+Objíždění            STR         Správ. žel.   Spak, s hnacím vozidlem motorové trakce objedu bez            229, 234, 235,
+                                  (VÝPR)       posunové čety soupravu na třetí koleji, zde sestavím             SŽ D1
+                                               soupravu vlaku 456. Posun provedeme v GSM-R.“
+                                               Sjednání posunu
+VŽDY POSUN                                     „Hnací vozidlo vlaku 123 z třetí koleje do výtažné koleje
+                   Zaměst.
+BEZ POSUNOVÉ                                   za návěstidlo Se 15, po první koleji na jižní zhlaví za
+                  Správ. žel.       STR
+ČETY                                           návěstidlo Sc 1 a zpět na třetí kolej na soupravu. Použijte
+                   (VÝPR)
+                                               funkční kód 01.“
+
+                                               Nesmí uvést posunový díl do pohybu dokud neobdrží
+                         strojvedoucí                                                                        234, 235, 236
+                                               Souhlas k posunu                                                 SŽ D1
+                                               po Souhlasu k posunu smím dále posunovat:
+                   Zaměst.
+                  Správ. žel.
+                                    STR
+                   (VÝPR,
+                   VÝHYB)
+                                               „Lok od vlaku 123 ve stanici Cheb ze třetí koleje
+                                               k návěstidlu L3 posun dovolen“
+Posun se           Vedoucí posunové čety (posunovač, vozmistr, dozorce depa) = zaměstnanec
+soupravou                             řídící posun jsou tito zaměstnanci
+
+                  Vedoucí posunové čety (vedoucí obsluhy vlaku) = zaměstnanec řídící posun je
+POSUN
+                                              vždy strojvedoucí
+S POSUNOVOU
+ČETOU                                         Sjednání posunu
+                                    Zaměst.                                                                  104,105,107
+                    Zaměst.                   „Vlak 123 Českých drah, vozmistr Lodr, s hnacím                   ČDD2
+                                     Správ.
+                     řídící                   vozidlem elektrické trakce s posunovou četou                   229, 234, 235
+                                      žel.                                                                      SŽ D1
+                     posun                    potřebujeme odstavit soupravu stojící na třetí koleji.
+                                    (VÝPR)
+                                              Posun provedeme v Simplexu.“
+                                              Sjednání posunu
+                   zaměst.       zaměst.                                                                     234, 235, 236
+                                              „Souprava vlaku 123 s HV el. trakce ze třetí koleje na
+                  Správ. žel.  řídící posun                                                                     SŽ D1
+                                              brněnské zhlaví za návěstidlo Lc 103 a poté na osmou
+                   (VÝPR)         + STR
+                                              kolej na odstavení. Nalaďte si simplexní kanál č. 29.“
+                    STR uvede posunový díl po pohybu pouze dle pokynů zaměst. řídícího posun
+                                                                                                              244 SŽ D1
+                                            (vedoucího posunové čety)
+                                              4A.0 - Druhy zkoušek brzd
+                                              Příklady druhů zkoušek a ověření brzd
+                                                                                                                  Článek
+                                         Situace                                           Činnost
+                                                                                                                 ČD V15/I
+Sestavení vlaku
+                                                                                          ÚZB          90 - 92, 100 - 112
+                  +                 +                 +
+Přidání přípřežního HV
+                                                                                          JZB          68, 134
+
+                                                          +
+Výměna HV v čele vlaku
+
+                                     x
+                                                                                          JZB          130
+
+
+                                     +
+Odpojení přípřežního HV
+                                                                                          OOPB         141, 142
+                                                      x
+Připojení vozidel na konec vlaku
+                                                                                          JZB          130
+                             +
+Připojení HV na konec vlaku
+                                                                                          JZB*         68, 134
+                             +
+Vložení vozidel do vlaku
+
+
+                                                  x
+                                    1x x                                                  JZB          130
+
+
+
+                                 ? bez ÚZB?
+
+Spojení dvou EJ / MJ (např. 471, 814 apod.)
+
+                                                                                          JZB*         68, 134
+
+                                                +
+Změna stanoviště na ucelené samostatné jednotce (jednotkách), lokomoti-
+vě, motorovém nebo elektrickém vozu jedoucí jako vlak nebo jako posun
+
+                                                                                          OOPB         141, 142
+
+
+
+
+Obrat vlaku s objetím hnacího vozidla na konec soupravy
+
+                      x                                                                   JZB          130
+                                                              +
+
+* po přidání činného HV na konec vlaku se vykoná JZB, ale s využitím možnosti kontroly funkce brzdy tohoto HV jen pomocí manometrů (brzda HV
+byla dosud v činnosti)
+                                              4B.0 - ÚZB a JZB
+                                        Základní pokyny pro zkoušky brzd
+Zabrzdění a odbrzdění vždy jen na pokyn OZZ (čl. 66)
+Nelze vyžadovat ÚZB, jsou-li splněny podmínky pro JZB (odpovídá OZZ, ne strojvedoucí)
+(čl. 121, 122, 130)
+Je-li možné ověření brzdícího účinku provést dle manometrů nebo diagnostiky na HV, vykoná toto vždy příslušný
+strojvedoucí (čl. 64, 68)
+
+                                                        ÚZB
+musí být vykonána
+   •   na všech v soupravě zařazených vozidlech (čl. 90, 91)
+           a. po sestavení vlaku (mimo případy dle čl. 92), nebo není-li k dispozici platný údaj o poslední prove-
+               dené ÚZB (čl. 121)
+           b. u vlaků s připojenými vozy jednou za 24 hodin, do 24 hodin po předchozí ÚZB
+           c. na žádost strojvedoucího:
+                     ✓pochybnost o účinku brzdy
+                     ✓nemá platnou ZOB
+           d. po MU – projetí návěstidla s návěstí „Stůj“ („Hranice dopravny“)
+           e. u vlaku se zařazenými nečinnými HV, u kterých nebyla vykonána ZBHV
+tímto způsobem:
+                     Režim P, R                                                 Režim R+Mg
+   1. naplnit HP na předepsaný tlak (čl. 82)                  1. naplnit HP na předepsaný tlak (čl. 82)
+   2. zkouška těsnosti HP (čl. 84) pouze v případě:           2. zkouška těsnosti HP (čl. 84) pouze v případě:
+      ✓ netěsnosti,                                               ✓ netěsnosti,
+      ✓ pochybnosti o účinku brzdy,                               ✓ pochybnosti o účinku brzdy,
+      ✓ projetí návěstidla                                        ✓ projetí návěstidla
+   3. zabrzdit - na pokyn o cca 0,5 bar (čl. 66, 100)         3. zabrzdit - na pokyn o cca 0,5 bar (čl. 66, 100)
+   4. ověřit zabrzdění, případně funkci vyššího               4. ověřit zabrzdění a funkci vyššího stupně brzdění (čl.
+      stupně brzdění v režimu R (čl. 101 – 104)                   101 – 104)
+   5. odbrzdit - na pokyn (čl. 66, 106)                       5. rychločinně zabrzdit - na pokyn (čl. 66, 105)
+   6. zkontrolovat odbrzdění (čl. 107)                        6. zkontrolovat činnost Mg brzdy (čl. 105)
+   7. ohlášení výsledku zkoušky brzdy – strojve-              7. odbrzdit - na pokyn (čl. 66, 106)
+      doucí potvrdí (čl. 66, 110)                             8. zkontrolovat odbrzdění (čl. 107)
+   8. pokud je na vlaku předepsané překlenutí zá-             9. ohlášení výsledku zkoušky brzdy – strojvedoucí
+      chranné brzdy a/nebo ep-brzda - zapnout a                   potvrdí (čl. 66, 110)
+      vykonat zkoušku těchto zařízení (čl. 111)               10. pokud je na vlaku předepsané překlenutí záchran-
+                                                                  né brzdy a/nebo ep-brzda - zapnout a vykonat
+                                                                  zkoušku těchto zařízení (čl. 111)
+
+                                               JZB
+se provede postupem platným pro ÚZB v režimu P (body 1, 3 – 7 výše) v případě, že:
+   •   je k dispozici platná ZOB (čl. 121),
+   •   všechna vozidla mají provedenou ÚZB, případně ZBHV (čl. 121), na jednom (jakémkoli) vozidle za nejvzdá-
+       lenějším místem rozpojení od vozidla, z něhož je ovládána brzda vlaku
+                                                        4C.0 - OOPB
+                                                               OOPB
+HV na konec vlaku => JZB* (čl. 68, 134)
+Vedoucí HV: zabrzdit + závěr => tlak v HP se nesmí zvyšovat
+Postrkové HV: závěr – zabrzdit a odbrzdit z vedoucího HV => v HP = provozní tlak, v BV = 0 bar
+Vlakové HV po odstupu přípřeže (čl. 142)
+Zabrzdit = pokles tlaku v HP (tlak se nemění) + odbrzdit => nárůst tlaku      v HP (provozní tlak)
+Nástup na HV nebo změna stanoviště (čl. 142)
+ovládaná vozidla zajistit proti pohybu
+Manometr HP: Zabrzdit = pokles tlaku v HP + závěr beze změny tlaku + odbrzdit = nárůst tlaku v HP (prov. tlak)
+Manometr BV: Zabrzdit = nárůst tlaku v BV + odbrzdit = pokles tlaku v BV (0 bar)
+
+* po přidání činného HV na konec vlaku se vykoná JZB, ale s využitím možnosti kontroly funkce brzdy tohoto HV jen pomocí manometrů (brzda HV
+byla dosud v činnosti)
+
+
+                                 Definice některých pojmů (ČD V15/I – vysvětlení pojmů)
+Ucelená sestava vozidel             souprava řazená z hnacích a tažených vozidel, u níž se na každém konci soupravy
+                                    nachází stanoviště strojvedoucího. Umožňuje změnu směru jízdy vlaku bez nutnos-
+                                    ti rozpojení soupravy vlaku.
+Netrakční jednotka                  v provozu nerozpojitelná sestava vozidel bez vlastního pohonu. Je-li po připojení
+                                    HV k netrakční jednotce na obou koncích soupravy stanoviště strojvedoucího, jed-
+                                    ná se o ucelenou sestavu vozidel.
+Místo spojení soupravy              Místo spojení soupravy je místo:
+                                    a) přivěšení nových vozidel
+                                    b) otevření kohoutů hlavního potrubí
+                                    Zařazení vozidel doprostřed soupravy = spojení na jednom místě.
+Místo rozpojení soupravy            Místo rozpojení soupravy je místo v soupravě, kde došlo:
+                                    a) odvěšení vozidel nebo rozpojení hlavního potrubí;
+                                    b) uzavření kohoutů hlavního potrubí
+                                    Místo rozpojení soupravy není místo odvěšení vozidla na konci soupravy.
+               4D.0 - Nedostatek skutečných brzdících procent
+Pamatuj!!!       Pouze pro vlak nejedoucí pod plným dohledem ETCS v módu Plný dohled (FS)
+                 •       1 chybějící brzd. % = snížení rychlosti o 1 km/h
+                 •       hodnota skutečných brzd. % 45 a méně = odečítá se rychlost o dvojnásobek chybějících brzd. %
+                 •       pro možnost rozkladu musí být provedený výpočet vždy vyšší nebo roven 120 km/h
+                 •       oznam dispečerovi osobní dopravy snížení rychlosti
+
+Řešení           Výsledek                                                                             Podle čeho
+                                 skutečná brzd. % jsou nižší než potřebná brzd. %                     ČD V15/I
+1)                                                                                                      čl. 203
+Alternativní         A) TJŘ:                 ZOB:                                                     ČD D2
+výpočet                                                                                                 čl. 178
+rychlosti
+
+                     •    odečti chybějící hodnotu brzdících % od původní stanovené rychlosti:
+                          50 − 46 = 4%
+                                  70 – 4 = 66 km/h = nová stanovená rychlost
+                     B) je-li hodnota brzdících % 45 nebo nižší
+                          TJŘ:                 ZOB:
+
+
+
+
+                     •    odečti chybějící hodnotu brzdících % od původní stanovené rychlosti:
+                          50 − 45 = 5%
+                          POZOR! – sniž rychlost o dvojnásobek chybějících brzd. %
+                                  70 – 10 = 60 km/h = nová stanovená rychlost
+                     C) vlaky s rychl. 120 km/h a více - dvě hodnoty brzdících %
+                          TJŘ:                  ZOB:
+
+
+
+
+                     •    odečti chybějící hodnotu brzdících % od původní stanovené rychlosti:
+                          160 – 12 = 148
+                     •    proveď výpočet pro použití rozkladu:        148 – 20 = 128
+                     •    porovnej výsledek 120 < 128 => lze použít rozklad
+                                            nová stanovená rychlost 148 km/h
+                                           u návěsti Výstraha max. 128 km/h !!!
+                     D) vlaky s rychl. 120 km/h a více - dvě hodnoty brzdících %
+                          TJŘ:                  ZOB:
+
+
+
+                     •    odečti chybějící hodnotu brzdících % od původní stanovené rychlosti:
+                          160 – 27 = 133
+                     •    proveď výpočet pro použití rozkladu:      133 – 20 = 113
+                     •    porovnej výsledek - 120 > 113 - NELZE použít rozklad
+                                           nová stanovená rychlost 113 km/h !!!
+                                                                                                      ČD V15/I
+ U vlaku jedoucího pod dohledem ETCS úrovně 2 (L2) postupujte při stanovení nejvyšší                    čl. 204
+ dovolené rychlosti vlaku dle předpisu provozovatele dráhy (např. SŽ D1) a předpisu ČD V 2
+ v platném znění.
+                                      5A.0 - Místo zastavení
+               VLAK PRAVIDELNĚ ZASTAVUJE PRO VÝSTUP A NÁSTUP CESTUJÍCÍCH
+A1)
+Nepřenosné
+místo
+zastavení
+(čl. 373,374
+SŽ D1)
+
+
+
+A2)
+Přenosné
+místo
+zastavení
+(čl. 373,374
+SŽ D1)
+
+
+A3) Ruční
+návěst Stůj,
+(čl. 373,374
+SŽ D1)
+
+
+
+
+A4)            „Vlak 12542, zde výpravčí Buková, zastavte čelem vlaku před dopravní kanceláří“
+Určení místa
+zastavení
+vlaku tel.
+zařízením
+(čl. 373,374
+SŽ D1)
+
+
+
+
+                 PRAVIDELNĚ PROJÍŽDĚJÍCÍ VLAK JE MIMOŘÁDNĚ ZASTAVEN V ŹST
+B1)
+Nepřenosné
+místo
+zastavení
+(čl. 373,374
+SŽ D1)
+          6A.0 – Rychlostní profil/horní rychlostníky N
+vlaková    PASS 1           = spodní rychlostníky (nedostatek převýšení 100 mm)
+data       PASS 2           = horní rychlostníky (nedostatek převýšení 130 mm)
+           PASS 3           = nedostatek převýšení 150 mm (např. HV 650.2, 847)
+           TILT 6           = nedostatek převýšení 275 mm (např. HV 680)
+Co        Podmínky         Kde zjistím         Jak zjistím podmínky                            Články
+                                                                                                  čl. 177 SŽ D1,
+                           Tabulky s tech.                                                      Příloha 2 k ČD D 2
+                              údaji HV -
+                              dokument
+                              v aplikaci
+                              MAPSIS +
+          Hnací vozidlo      ve Zprávě o
+                           brzdění musí být
+                               v kolonce
+                              Rychlostní
+                            profil uveden
+                                  údaj                      PASS 2 (PASS 3)
+                             Ve Zprávě o                                                       Příloha 2 k ČD D 2
+           Vůz osobní
+                           brzdění musí být
+             dopravy
+                               v kolonce                           PASS 2
+          s kotoučovou
+                              Rychlostní
+             brzdou,
+                            profil uveden
+          a vůz DDm915
+                                  údaj
+                                                                                               čl. 177 SŽ D1,
+                                                                                               Příloha 2 k ČD D 2
+                                Tabulky
+                            s technickými
+                                údaji na
+               navíc        stanovišti HV -
+            podmínka,         dokument
+            že všechna         v aplikaci
+           vozidla max.         MAPSIS
+              18 t na
+             nápravu
+                                                                                               Příloha 2 k ČD D 2
+
+          Je-li ve vlaku zařazeno i jen jediné vozidlo nevyhovující některé z výše uvedených
+          podmínek, platí pro jízdu vlaku dolní rychlostník N = v ZOB PASS 1
+                                  7A.0 - Posun mezi dopravnami
+PMD ze stanice jen bez cestujících, označení návěstmi jako vlak, ověření činnosti brzdy pro PMD.
+Základní rádiové spojení pod číslem PMD (8xxxxx) - čl. 255-257, 259-268 SŽ D1, čl. 126-132 ČD D 2, čl. 150-153 ČD
+V15/I
+Za jízdy podmínky jako při posunu: (čl. 256, 257 SŽ D1)
+    • podle rozhledových poměrů;
+    • rychlost max. 40 km/h (při sunutí 30 km/h), při jízdě pro uvázlý vlak rychlost max. 20 km/h v celém úseku mimo
+        obvod stanice;
+    • Na širé trati platí pouze vjezdová návěstidla;
+    •   Oddílová a krycí návěstidla platí pouze po zpravení písemným rozkazem.
+
+    Co           Kdo      Komu                                     Jak                                       Články
+Jízda pro                                                                                               259 SŽ D1, pokyn 59 SŽ
+                Zaměst.             Rozkaz PsD1 – Pokyn 59– odkud, kam, podmínky a omezení pro
+uvázlý vlak                                                                                             D1/1
+                  SŽ        STR     jízdu
+                (VÝPR)
+(ze stanice
+nebo z                              Ve stanici platí nepřenosná návěstidla pro posun a všechna          257 SŽ D1
+oddílu za          strojvedoucí     vztažná ustanovení o posunu v dopravně s kolejovým rozvětvením.
+uváznutým                           Neproměnný označník neplatí
+vlakem)                                                                                                 257 SŽ D1
+                                    •   Odjezd cestou posunu – nutný souhlas k posunu (včetně
+                                        návěsti Posun dovolen na seřaďovacím návěstidle ve funkci
+                Zaměst.
+                                        označníku)
+                  SŽ        STR
+                                    •   Odjezd na návěsti odjezdových (cestových) návěstidel
+                (VÝPR)
+                                        dovolující jízdu vlaku – zpravení od výpravčího písemným
+                                        rozkazem PsD1
+
+                                    Po pokynu k najetí od strojvedoucího stojícího vozidla – svěšení    150-153 ČD V15/I
+                                    vozidel a ověření činnosti brzdy pro PMD
+                                    Vjezd do stanice na návěsti dovolující jízdu vlaku (včetně PN!) –   257 SŽ D1
+                   strojvedoucí     seřaďovací návěstidla neplatí
+                                    Vjezd dovolen návěstí SOUHLAS K JÍZDĚ – seřaďovací
+                                    návěstidla platí
+                                    Vjezd je možný i na obsazenou kolej bez zpravení strojvedoucího
+                                    PMD
+Návrat                              Požádat o PMD – kdo (vlak, dopravce, trakce), odkud (km, traťová    255, 264 SŽ D1
+vlaku z trati                       kolej), kam (stanice + další upřesnění, např. mimo nástupiště pro
+                                    možnost prohlídky vozidla …)
+                 STR      VÝPR
+                                    „Strojvedoucí vlaku 4816, dopravce ČD, motorové trakce, žádám o
+                                    jízdu PMD (návrat vlaku z trati sunutím) z km 175,250 do ŽST
+                                    Liptákov z důvodu poruchy HV. Komunikace v GSM-R“
+                                    Nadiktuje Rozkaz PsD1 – Pokyn 59– odkud, kam, podmínky a            259 SŽ D1, pokyn 59
+                                                                                                        SŽ D1/1, 132 ČD D 2
+                                    omezení pro jízdu
+                VÝPR       STR      Strojvedoucí o obsahu rozkazu vyrozumí zaměstnance v čele
+                                    sunutého PMD, který potvrdí textem „Vzal na vědomí“ a podpisem
+                                    ve spodní části rozkazu.
+                                    Vjezd do stanice na návěsti dovolující jízdu vlaku (včetně PN !)    257 SŽ D1
+                                    – seřaďovací návěstidla neplatí
+                                    Vjezd dovolen návěstí SOUHLAS K JÍZDĚ – seřaďovací
+                   strojvedoucí
+                                    návěstidla platí
+                                    Vjezd je možný i na obsazenou kolej bez zpravení strojvedoucího
+                                    PMD
+8A.0 - Postup při výpadku napětí v TV, porucha TV nebo sběrače
+Jedu z lokomotivy nebo elektrického vozu, zjistím výpadek napětí v TV a
+nejsem předem o možnosti výpadku informován:
+
+
+   Stáhnu sběrač a zastavím vlak (provozním nebo rychločinným brzděním) mimo tunel, most apod.)   SŽ D1:
+                                                                                                  čl.401,402
+                                                                                                  ČD V 2:
+   Pohledem ze stanoviště strojv. HV zjistím stav sběrače a trolejového vedení.                   čl. 131,196
+
+
+
+                                     NE
+  Trolejové vedení je v pořádku?
+ANO
+                           NE
+  Sběrač je v pořádku?
+ANO
+                                                     NE
+   Diagnostika sběrače nehlásí jeho poruchu?
+
+ANO
+                                                          NEZVEDÁM JINÝ
+   Oznámím výpravčímu důvod zastavení.                    SBĚRAČ!
+
+                                                          OHLÁSÍM MU VÝPRAVČÍMU!
+   Dostal jsi souhlas od výpravčího k další jízdě?
+                                                          POZOR NA PRŮJEZDNÝ PRŮŘEZ SOUSEDNÍ
+ANO                                       NE              KOLEJE = ZASTAVIT PROVOZ.
+
+
+  JEDU                                                           NEJEDU!!!
+
+Jedu z řídícího vozu a zjistím výpadek napětí v TV a nejsem předem
+o možnosti výpadku informován:
+
+
+   Stáhnu sběrač a zastavím vlak (provozním nebo rychločinným brzděním) mimo tunel, most apod.)   SŽ D1:
+                                                                                                  čl.401,402
+                                                                                                  ČD V 2:
+   Pohledem ze stanoviště strojv. ŘV zjistím stav sběrače a trolejového vedení.                   čl. 131,196
+
+
+
+                                     NE
+   Trolejové vedení je v pořádku?
+ANO
+                          NE
+  Vidím na sběrač?                               Jde zdvihnout původní sběrač?
+ANO                                         ANO                              NE
+                               NE
+   Sběrač je v pořádku?
+ANO
+                                                     NE
+   Diagnostika sběrače nehlásí jeho poruchu?
+
+ANO                                                       NEZVEDÁM JINÝ
+                                                          SBĚRAČ!
+   Oznámím výpravčímu důvod zastavení.
+
+                                                          OHLÁSÍM MU VÝPRAVČÍMU!
+   Dostal jsi souhlas od výpravčího k další jízdě?        POZOR NA PRŮJEZDNÝ PRŮŘEZ SOUSEDNÍ
+ANO                                       NE              KOLEJE = ZASTAVIT PROVOZ.
+
+   JEDU
+                                                                 NEJEDU!!!
+                                 9A.0 – Provozní odklon
+      Strojvedoucí musí vždy o jízdě vlaku provozním odklonem zpravit vedoucího obsluhy vlaku
+       Strojvedoucí je zpraven o jízdě provozním odklonem písemným rozkazem PsV nebo PsD1.
+A1)                    Strojvedoucí zjistí aktuální TJŘ pro provozní odklon v aplikaci ETD
+
+(čl. 269
+SŽ D1, čl.
+111,
+113,
+114, 115
+Opatření
+Ř O18 č.
+38/2020)
+
+
+
+A2)          Strojvedoucí ohlásí dispečerovi osobní dopravy nefunkčnost aplikace ETD a vyžádá si od
+(čl. 236                        něho zaslání aktuálního TJŘ elektronickou poštou
+SŽ D1, čl.
+26, 115
+Opatření
+Ř O18 č.
+38/2020)
+
+
+
+
+      STROJVEDOUCÍ SE NEZAPOMENE SEZNÁMIT S SPO PRO TRAŤ PO KTERÉ
+                              POJEDE!!!
+                                  10.A.0 – Postup při vzniku MU
+Došlo k MU                 v případě zranění, úmrtí, požáru apod. volat IZS (112, aplikace Záchranka)
+
+                           ohlásit na ohlašovací pracoviště (přednostně RDST)
+
+                                                                                                        dle Tab. 3b TTP + dispečer
+                           MU na dráze jiného provozovatele dráhy (např. SŽ)
+     Ohlašovací praco-                                                                                  osobní dopravy ČD
+           viště                                                                                        dispečer osobní dopravy ČD
+                           MU na na kolejišti ČD (vlečky a depa)
+                                                                                                        + strojmistr
+
+V prvotním hlášení nutné uvést: vaše jméno, funkci, číslo vlaku (posunu, PMD), dále pokračujete slovy „Hlásím mimořádnou
+událost“ a následně uvedete datum, čas a místo vzniku MU, její stručný popis a následky (povětrnostní podmínky).
+
+Příklad 1: „Zde strojvedoucí vlaku Sp 1565 Josef Novák. Hlásím mimořádnou událost, ke které došlo dne 29.6.2017 ve 12:00 hodin na
+železničním přejezdu Pxxxx, kdy došlo ke střetnutí vlaku se silničním vozidlem, ve vlaku nebylo hlášeno žádné zranění osob a v silničním
+vozidle je těžce zraněn řidič. Následkem střetnutí došlo k vykolejení drážního vozidla prvním dvojkolím.“
+
+Příklad 2: „Zde strojvedoucí vlaku Sp 1565 Josef Novák. Hlásím mimořádnou událost, ke které došlo dne 29.6.2017 ve 12:00 hodin
+mezi ŽST Libčice nad Vltavou a Roztoky u Prahy, kdy došlo v kilometru 1,234 k poškození sběrače HDV a TV. Ke zranění osob nedošlo.“
+
+V případě MU typu střetnutí na železničním přejezdu nebo poblíž přejezdu je pro další návazné činnosti důležité oznámit
+skutečnost, jestli k MU došlo na přejezdu nebo u přejezdu a jeho případnou sjízdnost.
+
+Vaši další činnost na místě organizuje zaměstnanec organizující drážní dopravu – výpravčí (dispečer) nebo jim nadřízený
+zaměstnanec SŽ.
+
+Je zakázáno pohybovat veškerými zúčastněnými drážními a jinými vozidly, manipulovat s ovládacími prvky a jakkoliv ob-
+sluhovat zúčastněná zařízení mající vliv na mimořádnou událost a přemisťovat věci související s MU, a to až do vydání sou-
+hlasu se zahájením odklizovacích prací s výjimkou případu, kdy je to nutné pro provádění záchranných prací nebo dovoluje-
+li to ustanovení zvláštních právních předpisů.
+
+Změny původního stavu na místě MU jsou přípustné do příchodu orgánů činných v trestním řízení a zaměstnance DI jen po
+souhlasu velitele zásahu složek integrovaného záchranného systému. Nezasahují-li tyto osoby, jsou změny původního
+stavu na místě mimořádné události přípustné po souhlasu pověřené osoby provozovatele dráhy nebo drážní dopravy, jde-
+li o provádění záchranných prací.
+
+MU, kdy není zapo-         Jedná se např. o předčasnou změnu návěstního znaku. Po splnění ohlašovacích povinností vám
+třebí vaší další účasti    výpravčí (dispečer) dovolí další jízdu a vy pojedete (samozřejmě po splnění předpisových podmí-
+                           nek, např. PsD1 rozkaz). V některé z následujících stanic si od vás výpravčí nebo pověřená osoba
+                           SŽ opíše údaje o vlaku (nebo vlaková četa připraví kopii z POPu), a případně provede detalko
+                           zkoušku.
+
+U každé MU se mohou kromě Policie a HZS dále dostavit:
+
+1.     pověřené osoby      pověřená osoba k šetření MU (O18 SŽ)
+       SŽ, kterými jsou:
+                           pověřená osoba k prvotnímu šetření MU nehodové pohotovosti PO (provozního obvodu) SŽ.
+
+Tyto pověřené osoby provádí šetření na základě uzavřené smlouvy mezi ČD/SŽ – jsou zmocněny požadovat informace
+k MU, provádět zápisy se zaměstnanci, pořizovat fotodokumentaci, převzít po vyjmutí rychloměrový proužek, který
+nejdříve popíše strojvedoucí (dle předpisu ČD D17) a další dokumentaci (včetně vlakové).
+
+2.     pověřené osoby      pověřená osoba nehodové pohotovosti OŘOD
+       ČD, kterými jsou:
+                           pověřená osoba GŘ ČD (prokazuje se služebním průkazem)
+
+Provádí šetření v součinnosti s pověřenou osobou SŽ. Je vhodné požádat o její přítomnost při podávání vysvětlení (zápisu)
+na místě MU.
+
+3.     Drážní inspekce     Vede vlastní šetření, má právo vstupovat na místo vzniku MU, má právo požadovat informace.
+                           Primárně informace (včetně dokumentů) získává od pověřených osob (SŽ, ČD). Může je však poža-
+                           dovat i od Vás – máte však právo po vzniku MU nevypovídat. V případě, že vypovídáte, dbejte na
+                           to, aby při podávání informací byla přítomna pověřená osoba (SŽ, ČD) nebo aby Vámi podávané
+                           informace byly stejné, jako jste podali pověřeným osobám.
+Informace podáváte jen osobě označené visačkou s fotografií majitele a nápisem NEHODOVÁ POHOTOVOST!
+
+O ukončení šetření na místě MU budete zpraveni pověřenou osobou SŽ.
+Další jízdu si dohodnete s výpravčím (dispečerem). Pozor na úplnost vlakové dokumentace!
+                            11A.0 - Diagnostika závad jedoucích vozidel
+Druh poplachu:                                                   Stupeň poplachu:
+- indikace horkoběžnosti ložisek (IHL)                           - K (kontrola)
+                                                                 - STOP
+- indikace horkých obručí a brzd (IHO)
+
+- indikace nekorektnosti jízdy (INJ)
+Nestandardní průběh jízdy přes diagnostiku
+Průběh jízdy, kdy strojvedoucí v místě traťové části Diagnostiky, nebo těsně před ním, použil při jízdě vlaku průběžnou
+samočinnou brzdu vlaku a tím mohlo dojít k ovlivnění přesnosti výsledku Diagnostiky.
+
+Za hnací vozidla považujeme lokomotivy, elektrické a motorové vozy a elektrické a
+motorové jednotky.
+
+                                                 Indikace horkoběžnosti ložisek
+
+
+
+
+PPD č. 4/2017
+ - čl. 1.3; 2.1; 2.4; 2.8-2.13; 3.1; 3.2; 4.1; 4.2
+ČD V2
+ - příloha 8 a 9
+OŘ O18 32/2025
+- čl. 3, 4, 20-24
+                             11B.0 - Diagnostika závad jedoucích vozidel
+                                   Indikace horkých obručí a brzd
+
+
+
+
+PPD č. 4/2017
+ - čl. 1.3; 2.2; 2.4; 2.8-2.13; 3.1; 3.2; 4.2; 4.3
+ČD V2
+ - příloha 8 a 9
+OŘ O18 32/2025
+- čl. 3, 4, 30-32
+                            11C.0 - Diagnostika závad jedoucích vozidel
+                                    Indikace nekorektnosti jízdy
+
+
+
+
+PPD č. 4/2017
+ - čl. 1.3; 2.3; 2.4; 2.8-2.13; 3.1; 3.2; 4.4; 4.5
+ČD V2
+ - příloha 8 a 9
+OŘ O18 32/2025
+- čl. 3, 4, 40-42
+                     12A.0 –VŠEOBECNÉ PROVOZNÍ ZKUŠENOSTI ETCS
+1)   Konec MA u oddílového návěstidla AB:
+     Pokud končí MA u oddílového návěstidla AB, tak strojvedoucí vždy zastaví před oddílovým návěstidlem AB dle DMI. Při
+     rychlosti cca 5 km/h dojde na DMI k oznámení k přechodu do módu OS. Potvrdit pouze pokud jsou splněny podmínky
+     pro jízdu do obsazeného traťového oddílu dle SŽ D1. Časový limit na potvrzení není stanoven.
+
+2)   Nemožnost zadat data RBC v oblasti L2:
+     Po aktualizaci SW ETCS nebo příjezdu vozidla v Izolaci ETCS z jiné země EU může být
+     na DMI stav, kdy nejsou dostupné položky Kontaktovat poslední RBC ani Zadat data
+     RBC. Aktivní je pouze položka Číslo rádiové sítě. Tuto položku je nutno zvolit dlouhým
+     stiskem. Následně zadáme číslo rádiové sítě dle TTP pro celou síť Správy železnic
+     23098 a potvrdíme. Potom lze dle místa a TTP zadat požadované číslo RBC a jeho
+     telefonní číslo.
+
+3)   Nejvyšší dovolená rychlost při průjezdu stanicí
+     Při průjezdu stanicí po hlavní koleji může být na DMI omezována nejvyšší dovolená rychlost. Jedná se o omezení jízdní
+     cesty VCO (vlaková cesta omezená), která nastává, pokud není boční přímá boční ochrana a na vedlejší kolej je postavena
+     vlaková cesta pro jiný vlak. Tato vlastnost nesouvisí s ETCS, ale se staničním zabezpečovacím zařízením. ETCS pouze
+     převezme rychlostní profil nastavený výše uvedenou situací.
+     Rozpor mezi traťovou rychlostí a nejvyšší dovolenou rychlostí na DMI není závada systému.
+
+4)   Defaultní národní hodnoty, Neplatné národní hodnoty, Použity výchozí národní hodnoty
+     Po stažení dat či údržbě SW se po zapnutí ETCS může na DMI vyskytnout hlášení o neplatných nebo defaultních
+     národních hodnotách a nezobrazení času. Je naprosto zbytečné dělat nový reset, ale je nezbytné při jízdě v módu SH, SR
+     nebo OS vždy stiskem tlačítka 7 vyvolat dohledovou rychlost, která může být odlišná od našich platných národních
+     předpisů. Např. v SH limit 25 km/h. Je nutno tuto rychlost při posunu dodržet, aby nedošlo k nouzovému brzdění. Dále
+     nelze volit Potlačení za jízdy. Při nutnosti volby Potlačení je nutno zastavit! Teprve až po přejetí jedné či více balízových
+     skupin dojde k načtení národních hodnot, což bude oznámeno hlášením na DMI: Načteny národní hodnoty a limit v SH
+     bude již správně 40 km/h a funkce Potlačení bude aktivní i za jízdy!
+
+
+
+
+ 5) Nefunkční spojení s RBC
+    Při poruše spojení s RBC je důležité identifikovat, zda je závada na traťové části ETCS nebo na vozidlové, mobilní
+    části ETCS - tzv. OBU.
+     a) Pokud při vstupu do oblasti 2 (bez výluky ETCS) mobilní část “nepřejde“ do úrovně L2 (nebo v místě konce výluky
+         ETCS) je nutno neprodleně informovat výpravčího, který upřesní další postup. Např. zastavení vlaku na vhodném
+         místě k provedení resetu mobilní části. Dále je vhodné ihned na DMI provést kontrolu dat RBC přes Prohlížení dat
+         dle aktuální polohy vlaku.
+     b) Pokud dojde po TR k rozpadu spojení v oblasti úrovně L2 s RBC je nutné při komunikaci s výpravčím tuto skutečnost
+         oznámit.
+     c) Jako první po potvrzení PT vypněte a zapněte řízení a pokud ani po kontrole dat RBC v DMI, nebude spojení s RBC,
+         proveďte reset mobilní části ETCS.
+     d) Pokud se nepodaří v oblasti L2 navázat spojení s RBC ani po kontrole dat RBC pro dané místo je vhodné vyzkoušet
+         funkčnost OBU způsobem, že zadáte jiné identifikační údaje RBC, např. sousední oblasti. Pokud se podaří spojení
+         navázat lze po zadání dat o vlaku možno zadat i zkušební číslo vlaku 100 000 a ověřit dostupný Start. Následně
+         informujte výpravčího a strojmistra, že se spojení s jinou RBC podařilo navázat, že OBU je z největší
+         pravděpodobností v pořádku a chyba bude na straně konkrétní RBC.
+6)   Porucha traťové části ETCS - porucha RBC
+      a) Vlaky se zpravují písemným rozkazem PsD1, rozkazem 52.10
+      b) Strojvedoucí zvolí za stání úroveň 0, ve smíšeném provozu příp. NTC – LS.
+      c) Pokud není v nabídce Hlavní položka úroveň dostupná je nutno vyp/zap řízení pro její zpřístupnění.
+7)   Porucha mobilní části ETCS (zhaslá obrazovka DMI, hlášení „Není spojení s EVC“ apod.)
+      a) Vznik poruchy mobilní části oznámit výpravčímu s požadavkem na potřebu resetu OBU.
+      b) Pokud ani po resetu OBU nedošlo ke korektnímu chování OBU (DMI) oznámit poruchu OBU výpravčímu a ETCS
+         izolovat.
+      c) Tratě se smíšeným provozem ETCS (vždy kontaktovat výpravčího):
+                • Pokračovat v další jízdě je možno pouze se souhlasem výpravčího.
+      d) Tratě s výhradním provozem ETCS (vždy kontaktovat výpravčího a dispečera osobní dopravy ČD):
+                •   Výchozí vlak na staniční koleji nesmí odjet z výchozí stanice.
+                •   Poloha vlaku jinde než na staniční koleji ve výchozí stanici, je další jízda vlaku dovolena pouze do
+                    nejbližší vhodné stanice písemným rozkazem PsD1, rozkazem 52.20 (stanici určí dispečerský aparát
+                    SŽ a ČD)
+8)   Rozpad spojení s RBC v průběhu jízdy handoverem
+     Pokud opakovaně dochází při jízdě v oblasti handoveru (změny RBC) ke krácení EOA a krátkodobému rozpadu spojení
+     s RBC bez přechodu do módu TR, případně následně i s přechodem do módu TR, je nutno tento stav zapsat jako závadu
+     do SH SAP. Řešení závady je reset mobilní části ETCS na vhodném místě po dohodě s výpravčím.
+9)   Reset mobilní části ETCS
+     V případě nutnosti resetovat mobilní část ETCS nebo vypnutí vozidla do baterie je nutno prvně vypnout řízení, aby se
+     mobilní část správně odhlásila od RBC a pak použít reset ETCS nebo další vypnutí do baterie. Pokud tento postup nebude
+     v úrovni 2 (L2) dodržen, nebude možné opětovné spojení s RBC do 5 minut.
+                        12B.0 - Řešení vybraných provozních situací
+                                       ETCS- obecně
+   SITUACE           Z MÓDU                NÁVĚST/POKYN               AKCE STROJVEDOUCÍHO     VÝSLEDEK
+                                    VÝCHOZÍ/KONČÍČÍ VLAK A JÍZDA VLAKU
+vlaková data      PASS 1             = spodní rychlostníky (nedostatek převýšení 100 mm)
+                  PASS 2             = horní rychlostníky (nedostatek převýšení 130 mm)
+                  PASS 3             = nedostatek převýšení 150 mm (např. HV 650.2, 847)
+                  TILT 6             = nedostatek převýšení 275 mm (např. HV 680)
+                  obsluhované                  nepotvrdit
+                  návěstidlo
+
+
+
+
+                  návěstidlo není           nepotvrdit         výprava vlaku
+                  vidět
+                                                               výpravka
+                                                               RDST
+                                                               pís. rozkaz
+výchozí vlak
+v L2              neobsluhované             nepotvrdit
+                                                               rozkaz
+                  návěstidlo
+                                                               PsD1
+                                                               (7.20)
+                                                               +
+                                                               POTLAČENÍ
+                  obsluhované
+                  návěstidlo
+                                                                         + POTLAČENÍ
+
+
+
+
+výchozí vlak z
+L2 do výluky
+                                    zadávání dat = úroveň 0      u odjezdového návěstidla
+                                    smíšený provoz příp. NTC        začíná výluka ETCS
+                                    (STM)
+
+výprava vlaku                                                      EOA do 1000 metrů        nejbližší hl.
+(není vidět na                                                                              návěstidlo stůj
+nejbližší hl.                                                                               NEJEDU
+návěstidlo)
+
+                                                                   EOA nad 1000 metrů       nejbližší hl.
+                                                                                            návěstidlo
+                                                                                            dovoluje jízdu
+                                                                                            JEDU
+
+ukončení jízdy
+vlaku v L2, NTC
+(STM)                               ukončení jízdy vlaku            nutno ukončit misi
+                   PŘECHOD Z ÚROVNĚ 2 (L2) DO VÝLUKY ETCS / ÚROVNĚ NTC (STM)
+přechod z L2 do
+výluky/ do
+úrovně NTC
+(STM)/ výhrad.                              Žádná zpráva
+provoz do L0
+přechod z L2 do vjezd do ŽST na   odjezdové návěstidlo
+výluky          PN
+vjezd do ŽST na
+PN
+
+přechod z L2 do                   odjezdové návěstidlo
+výluky
+odjezdové
+návěstidlo na
+PN
+                    PŘECHOD Z VÝLUKY ETCS / ÚROVNĚ NTC(STM) DO ÚROVNĚ 2 (L2)
+přechod z                                              s potvrzením
+výluky do L2
+
+                                                                bez potvrzení            bez potvrzení
+
+přechod z
+výluky do L2                                        < 40km/h
+na PN                                                 < 350m
+                                             (doporuč. 300 m)
+
+přechod                                             < 40km/h
+z úrovně NTC                                          < 350m
+(STM) do L2                                  (doporuč. 300 m)
+na PN
+
+                              PŘIVOLÁVACÍ NÁVĚST / JÍZDA NA TRATI S AB
+PN                                               < 40km/h
+                                             < 350m, 100 s
+                                          (doporuč. 300 m)
+
+
+
+Návěstidlo AB                          po zastavení
+v poloze Stůj                          vidím-li před sebou
+                                       vlak NESMÍM
+                                       POTVRDIT přechod do
+                                                           nepřijde-li výzva k přechodu nemožnost
+                                       OS
+                                                           do OS, volat výpravčímu      spojení s výpr.
+                                                           další jízda = rozkaz PsD1    = zůstat stát
+                                                           (1.10)
+                                MÓD NEDOVOLENÉ PROJETÍ
+mód                           další jízda vlaku =    v L2, L0 při výluce ETCS           menu Hlavní =
+Nedovolené                        rozkaz PsD1 (2.10) ETCS Stop+PZV přepni L0              START
+projetí                           /pokyn RDST
+
+
+
+                               vlak dál nepokračuje       rozkaz ETCS se nesepisuje     menu Hlavní =
+                              v jízdě = cílová stanice,   po souhlasu výpravčího           START
+                                 stání vozidla apod.                                    vypnutí řízení
+
+
+
+                                      Jedná-li se o nestandardní stav = zapsat do SH SAP
+                              do kolonky "upřesňující text" zapsat: ETCS - datum, čas výskytu, číslo
+                                                       vlaku a popis stavu
+                                           POSUN
+posun
+
+                              až po sjednání posunu
+
+
+
+automatický                 za jízdy ihned potvrdit       jízda = pokud nebyl sjednán
+přechod do                                                posun zastavit a dodatečně
+posunu                                                    sjednat posun
+                                                           stání = nejprve sjednání
+                                                           posunu a až poté potvrdit
+                                                           posun
+nelze se                    po zvolení módu Posun         nelze opakovaně přepnout      ohlásit
+přepnout do                                               do Posunu                     výpravčímu
+posunu v L2                                               "SH odmítnut", "žádost SH     zvolit úroveň
+                                                          selhala"                      L0 nebo NTC
+                                                                                        (STM) a opět
+                                                                                        zvolit
+                                                                                        Posun
+                                           OSTATNÍ
+provizorní                  „Nutná procedura
+úvazka                      potlačení /procedure
+                            override“
+
+
+
+popotažení      za vjezdu   po zastavení                  "V čase odjezdu vlaku         obnoveno EOA
+k odjezdovému                                             popotahujte cestou            k návěstidlu je
+návěstidlu                                                posunu k odjezdovému          dohlížena
+                                                          návěstidlu L2"                brzdná křivka
+                                                                                        bez uvolňovací
+                                                                                        rychlosti
+             12C.0 – Řešení vybraných provozních situací ETCS – trať BEZ
+                          dodatečných provozních opatření
+   SITUACE            Z MÓDU           NÁVĚST/POKYN           AKCE STROJVEDOUCÍHO            VÝSLEDEK
+určení            v TJŘ         stanovená rychlost se určí                                 zadání do DMI
+stanovené         sloupec 8     dle tabulky brzdících % pro
+rychlosti vlaku   NEPLATÍ       vlaky ETCS
+                                (v tabletu)
+
+jízda
+                               Vmax = 40 km/h (podle rozhledu)                 Vmax = trať. rychlost
+v traťovém
+oddílu AB
+
+
+
+Štít Op na                                                                                  štít Op neplatí
+oddíl.                                                                                      porucha
+návěstidle AB                                                                               přejezdu =
+v poloze Stůj                                                                               textová zpráva
+                                                                                            na DMI
+zhaslé                                                                                     nezastavovat a
+návěstidlo AB                            platí DMI                                         pokračovat v
+                                                                 pokud je MA za zhaslé     jízdě dle DMI
+                                                                      návěstidlo           ohlásit zhaslé
+                                                                                           návěstidlo
+                                                                                           výpravčímu
+zhaslé
+návěstidlo s                                                                               nezastavovat a
+absolutním                                                       pokud je MA za zhaslé
+                                                                                           pokračovat v
+                                                                      návěstidlo
+významem stůj                                                                              jízdě dle DMI
+                12D.0 – Řešení vybraných provozních situací ETCS – trať S
+                           dodatečnými provozními opatřeními
+   SITUACE           Z MÓDU             NÁVĚST/POKYN            AKCE STROJVEDOUCÍHO             VÝSLEDEK
+určení
+                                                                 pokud skutečné brzd. %       nelze rozkládat
+stanovené                            v TJŘ ve sloupci 8 platí
+                                                                   jsou nižší než horní       brzdnou dráhu
+rychlosti vlaku                     hodnota potřebných brzd.
+                                                                hodnota brzd. % v sloupci 8   na dvě zábrzdné
+                                            procent
+                                                                     = Vmax 120 km/h          vzdálenosti
+
+jízda v traťovém
+                              Vmax = 40 km/h (podle rozhledu)                           Vmax = trať. rychlost
+oddílu AB
+
+
+
+
+štít Op na oddíl.
+návěstidle AB
+v poloze Stůj                                                                                     štít Op
+                                                                                                 vždy platí
+
+
+zhaslé
+návěstidlo AB
+                                                                                              postup dle
+                                                                       vždy zastavit
+                                                                                              předpisu SŽ D1
+
+
+zhaslé
+návěstidlo s
+                                                                                              postup dle
+absolutním                                                             vždy zastavit
+významem stůj                                                                                 předpisu SŽ D1
+

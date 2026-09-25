@@ -1,0 +1,163 @@
+Vysvětlení zkratek a značek v TJŘ
+Platí od 14. prosince 2025
+
+
+Zkratky a značky v tabelárním jízdním řádu
+Písmena nebo skupiny písmen před číslem vlaku vyjadřují druhovou zkratku vlaku
+v souladu s předpisem SŽ D1.
+
+
+              pracovní dny
+
+              dny pracovního klidu (tj. neděle a státem uznávané svátky)
+
+              pondělí (platí, i když je v tento den státem uznávaný svátek)
+
+              úterý (platí, i když je v tento den státem uznávaný svátek)
+
+              středa (platí, i když je v tento den státem uznávaný svátek)
+
+              čtvrtek (platí, i když je v tento den státem uznávaný svátek)
+
+              pátek (platí, i když je v tento den státem uznávaný svátek)
+
+              sobota (platí, i když je v tento den státem uznávaný svátek)
+
+              neděle (platí, i když je v tento den státem uznávaný svátek)
+
+
+
+
+Hlavička tabelárního jízdního řádu
+Hlavička tabelárního jízdního řádu vlaků, jedoucích na tratích provozovaných
+podle předpisu SŽ D3 a na tratích, na nichž se zjednodušené řízení drážní dopravy
+střídá s výkonem dopravní služby podle předpisu SŽ D1 či podle předpisu SŽ D4:
+
+   Dopravny,        zvláštní            pravidelná                                    stihne vlak
+                                kolej               příjezd   pobyt   odjezd    r/%
+   stanoviště       opatření            jízdní doba                                       číslo
+                                            min.              min.
+        1               2        2a          3         5       6        7        8        10
+
+
+Hlavička tabelárního jízdního řádu vlaků na tratích s výkonem dopravní služby
+podle předpisu SŽ D1 či podle předpisu SŽ D4, neobsahuje sloupce 2a, 10.
+
+
+
+
+Vydala Správa železnic, státní organizace                         JEN PRO SLUŽEBNÍ POTŘEBU
+Vysvětlení zkratek a značek v TJŘ
+Platí od 14. prosince 2025
+
+
+
+
+Zkratky a značky ve sloupcích tabelárního jízdního řádu
+Sloupec 1 „Dopravny, stanoviště”:
+
+Zkratky a značky před názvy dopraven, stanovišť znamenají toto:
+
+             vyznačuje mezistaniční úsek, na němž je organizována jízda vlaků
+           po nesprávné koleji
+    Výh      výhybna
+
+    Odb      odbočka
+
+
+Zkratky a značky za názvy dopraven, stanovišť znamenají:
+
+     n       nákladiště
+
+    nz       nákladiště a zastávka
+
+     z       zastávka
+
+
+
+Sloupec 2 „zvláštní opatření”:
+
+           stanice s hlavními návěstidly na sobě nezávislými (podle předpisu SŽ D1)
+             stanice s hlavními návěstidly na sobě závislými bez rychlostní návěstní
+           soustavy (podle předpisu SŽ D1)
+             zastavení před lichoběžníkovou tabulkou
+           (podle předpisu SŽ D3)
+           jízda rychlostí 30 km/h (podle předpisu SŽ D1)
+
+           pravidelný vjezd na obsazenou kolej
+
+           výluka dopravní služby výpravčího
+             stanice bez odjezdových návěstidel
+           (podle předpisu SŽ D1)
+             stanice, ve které není výprava vlaků s přepravou cestujících návěstí hlavního
+           návěstidla dovolena (podle předpisu SŽ D1)
+           ohlašovací povinnost nařízena
+
+
+
+
+2
+                                                         Vysvětlení zkratek a značek v TJŘ
+                                                                   Platí od 14. prosince 2025
+
+
+
+
+Sloupec 2a „kolej”:
+
+V tabelárních jízdních řádech na tratích provozovaných podle předpisu SŽ D3 vyjadřují
+číslice u pravidelných vlaků čísla vjezdových, u výchozích vlaků odjezdových kolejí
+v dopravnách D3.
+
+Sloupec 3 „pravidelná jízdní doba”
+
+Sloupec 5 „příjezd”:
+
+           zastavení na znamení
+
+           zastavení z dopravních důvodů
+
+           zastavení jen pro nástup cestujících
+
+           zastavení jen pro výstup cestujících
+
+           zastavení ode dne otevření zastávky (vysvětlení je uvedeno pod tabulkou)
+
+           nezveřejněné zastavení vlaku s přepravou cestujících
+
+
+Sloupec 6 „pobyt”:
+
+           pobyt kratší než půl minuty
+
+
+Sloupec 7 „odjezd”:
+
+           odjezd vlaku s přepravou cestujících s náskokem ihned po výstupu cestujících
+             odjezd vlaku s přepravou cestujících s náskokem, nejdříve však v čase
+           pravidelného příjezdu
+           nenavazující čas příjezdu a odjezdu
+
+
+Sloupec 8 „r/%”:
+
+   r         stanovená rychlost vlaku v km/h
+
+             normativ výměry potřebných brzdících procent (u vlaků se stanovenou rychlostí
+  %          121 km/h nebo vyšší jsou uvedeny vždy dvě hodnoty potřebných brzdících
+             procent ve smyslu předpisu SŽ D1)
+
+Pro určení, zda je vlak brzděn I. nebo II. způsobem brzdění, je rozhodující označení
+druhu vlaku v záhlaví tabelárního jízdního řádu příslušného vlaku (viz předpis SŽ D1).
+Pokud byla výměra brzdících procent vlaku nákladní dopravy stanovena pro II. způsob
+brzdění, je to v záhlaví tabelárního jízdního řádu výslovně uvedeno.
+
+Sloupec 10 „stihne vlak číslo”:
+
+V tomto sloupci jsou v dopravnách D3 na tratích, provozovaných podle předpisu SŽ D3,
+uvedena čísla vlaků podle zásad, uvedených v předpisu SŽ D3.
+
+
+
+                                                                                            3
+

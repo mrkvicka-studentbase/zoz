@@ -1,0 +1,771 @@
+ČD
+V 8/I
+
+
+
+                                         Předpis
+                    pro provoz a obsluhu rychloměrů
+                       dopravce České dráhy, a.s.
+
+
+
+
+                                      Úroveň přístupu „B2“
+
+
+
+
+Schváleno rozhodnutím generálního ředitele Českých drah, a.s.
+Č. j. 57732/2000
+Dne 5. 10. 2000
+Účinnost od 1. 2. 2001
+Ve znění změny č. 1 (účinnost od 1. 7. 2022)
+                                                                                         ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+                                                                     Obsah
+
+Obsah .............................................................................................................................................. 2
+Záznam o změnách ......................................................................................................................... 3
+Obsah změn .................................................................................................................................... 4
+Rozsah znalostí............................................................................................................................... 5
+Seznam použitých zkratek ............................................................................................................. 5
+  Kapitola I Úvodní ustanovení......................................................................................................... 6
+  Kapitola II Základní ustanovení ..................................................................................................... 7
+  Kapitola III Mechanické rychloměry ............................................................................................... 8
+  Kapitola IV Elektronické rychloměry ............................................................................................ 10
+Související předpisy a normy ...................................................................................................... 14
+
+Přílohy:
+    Příloha 1        - Mechanické rychloměry HASLER BERN a METRA Praha
+    Příloha 2        - Elektronická rychloměrová souprava řady LT
+    Příloha 3        - Odchylky pro provoz a obsluhu rychloměrů na speciálních hnacích vozidlech s normálním
+                       táhlovým a narážecím ústrojím
+
+
+
+
+                                                                          2
+                                                    ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+Záznam o změnách
+
+                           Změna                                       Předpis
+Poř. č.            Číslo jednací      Účinnost od            Opravil                  Dne
+
+  1       55286/2022               1. 7. 2022       Vannay                   9. 2. 2022
+
+
+
+
+                                                3
+                                                                        ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+Obsah změn
+Změna č.                       Obsah změny 1                          Účinnost od             Změnu provedl 2
+     1        Čl. 1; 2; 3; 5; 7; 9; 10; 13; 20; 21; 24; 26; 27; 30-   1. 7. 2022            Vannay
+              33; 35--60; 64; 67; 72-75; 80; 81;
+
+
+
+
+1 Uvést výčet ustanovení předpisu, u kterých proběhla změna
+
+ (např. změna v ČÁSTl. …. v Kap. …apod.).
+2 Gestor předpisu.
+
+
+
+
+                                                               4
+                                                            ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+Rozsah znalostí
+
+                   Funkce                                                Znalost
+Zaměstnanec určený ředitelem OCÚ               úplná: Určí příslušný vedoucí zaměstnanec
+                                               informativní: - - -
+Zaměstnanec určený ředitelem OŘOD              úplná: Určí příslušný vedoucí zaměstnanec
+                                               informativní: - - -
+Zaměstnanci s odbornou zkouškou V-08, V-10     úplná: Celý předpis včetně příloh
+                                               informativní: - - -
+Zaměstnanci s odbornou zkouškou V-09, VD-09    úplná: 13; 14; 20; 23; 26; 27; 72; 73; 75
+■                                              informativní: - - -
+Zaměstnanci s odbornou zkouškou V-13           úplná: Celý předpis včetně příloh
+                                               informativní: - - -
+
+Seznam použitých zkratek
+ARR           Automatická regulace rychlosti
+AVV           Automatické vedení vlaku
+ČD            České dráhy, a. s.
+ČR            Česká republika
+DB            Deutsche Bahn
+DŘD           Dopravní řád drah (Vyhláška 173/1995 Sb., ve znění pozdějších předpisů)
+EDB           Elektrodynamická brzda
+EU            Evropská unie
+GŘ            Generální ředitelství Českých drah, a.s.
+HDV           Hnací vozidlo
+MU            Mimořádná událost
+OCÚ           Oblastní centrum údržby
+OŘOD          Oblastní ředitelství osobní dopravy (v názvu některých dokumentů označeno jako DKV)
+PMD           Posun mezi dopravnami
+PP            Pracoviště provozu
+Pv            Příkaz vlaku
+RDST          Vozidlová radiostanice
+SH SAP        Elektronická kniha oprav
+SHV           Speciální hnací vozidlo
+TJŘ           Tabelární jízdní řád
+VZ            Vlakový zabezpečovač
+ZSSK          Železničná spoločnosť Slovensko
+ŽST           Železniční stanice
+
+
+
+
+                                                 5
+                                                                   ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+                                                 Kapitola I
+                                             Úvodní ustanovení
+1. Tento předpis zpracovává určený zaměstnanec gestorského útvaru.
+   Změnu kapitoly I předkládá vedoucí gestorského útvaru a schvaluje předseda představenstva Českých
+   drah, a.s.
+   Změny kapitoly II, kapitoly III, kapitoly IV a jednotlivé přílohy a výjimky z tohoto předpisu schvaluje vedoucí
+   gestorského útvaru.
+2. Tento předpis stanoví povinnosti majitele a provozovatele HDV pro obsluhu a provoz rychloměrů na ČD.
+   Pokud není v příloze č. 3 uvedeno jinak, jsou jednotlivá ustanovení tohoto předpisu závazná i pro SHV,
+   pokud jedou vlastní silou rychlostí vyšší než 40 km.h-1.
+3. Tento předpis vydaný na základě ustanovení zákona č. 266/1994 Sb. o dráhách, ve znění pozdějších
+   předpisů, obsahuje základní ustanovení pro výkon dopravní služby zaměstnanců dopravce ČD na
+   dráhách, na kterých provozuje drážní dopravu dopravce ČD.
+   Jednotlivá ustanovení tohoto předpisu jsou v souladu s právními předpisy EU a ČR, a jsou doplněna o
+   další vnitřní pokyny k zajištění činností při provozování drážní dopravy. Jedná se o tyto právní předpisy:
+    - Nařízení komise v přenesené pravomoci (EU) 2018/762, kterým se stanoví společné bezpečnostní
+        metody týkající se požadavků na systém zajišťování bezpečnosti;
+    - Prováděcího nařízení komise (EU) 2019/773, o technické specifikaci pro interoperabilitu týkající se
+        subsystému „provoz a řízení dopravy“ železničního systému v Evropské unii;
+    - Směrnice Evropského parlamentu a rady (EU) 2016/797, o interoperabilitě železničního systému v
+        Evropské unii;
+    - Směrnice Evropského paramentu a rady (EU) 2016/798, o bezpečnosti železnic;
+    - Zákona č. 266/1994 Sb., o dráhách;
+    - Vyhlášky č. 16/2012 Sb., o odborné způsobilosti osob řídících drážní vozidlo a osob provádějících
+        revize, prohlídky a zkoušky určených technických zařízení;
+    - Vyhlášky č. 101/1995 Sb., kterou se vydává Řád pro zdravotní způsobilost osob při provozování
+        dráhy a drážní dopravy;
+    - Vyhlášky 173/1995 Sb., kterou se vydává Dopravní řád drah;
+    - a ostatní dotčená platná legislativa vydaná Evropským parlamentem a radou a Ministerstvem dopravy
+        České republiky.
+4. Ustanovení tohoto předpisu se vztahují na vozidla podle článku 2, provozovaná po dnu jeho účinnosti. Pro
+   historická hnací vozidla jsou případně povolené odchylky pro typ nebo funkci rychloměru uvedeny v
+   samostatné směrnici. Pro SHV zavedená do služby přede dnem účinnosti tohoto předpisu jsou případné
+   odchylky uvedeny v předpise ČD S 8.
+5. Pojem „rychloměr“ je záznamové zařízení, které zaznamenává informace stanovené v prováděcím
+   nařízení Komise (EU) 2019/773 o technické specifikaci pro interoperabilitu týkající se subsystému „provoz
+   a řízení dopravy“ a splňuje požadavky stanovené na záznamové zařízení v nařízení Komise č. 1302/2014
+   o technické specifikaci pro interoperabilitu subsystému kolejová vozidla – lokomotivy a kolejová vozidla pro
+   přepravu osob železničního systému v Evropské unii, v platném znění.
+6. Termínem „provoz rychloměru“ se pro účely tohoto předpisu rozumí činnost rychloměru na hnacím vozidle
+   resp. řídicím voze; termínem „obsluha rychloměru“ se rozumí technologické úkony, prováděné při provozu
+   rychloměru (např. zakládání, vyjímání a popisování rychloměrného proužku, seřizování popř. natahování
+   hodin, zadávání dat do paměti elektronického rychloměru apod.). Termín „údržba rychloměru“ je
+   specifikován v předpisu ČD V 8/II.
+7. Provozovatel SHV má stejné povinnosti jako OŘOD.
+8. Strojvedoucí SHV ve smyslu tohoto předpisu se rozumí zaměstnanec s odbornou kvalifikací, který ho
+   opravňuje řídít a obsluhovat SHV.
+9. Ode dne účinnosti tohoto předpisu se v celém rozsahu ruší dosavadní předpis ČSD V 8 platný od
+   1. 10. 1972 včetně všech k němu vydaných doplňků, změn a oprav. Dále se ruší opatření č.j. 59 310/94-
+   TÚP ze dne 20.10.1994 „Elektronický rychloměr - zavedení“ včetně přílohy.
+   Změnou č. 1 tohoto předpisu se ruší:
+   Opatření ředitele O18 č. 11/2019 změna č. 1: Ověřovací provoz k předpisu ČD V8/I – Zadávání údajů do
+   elektronických rychloměrů, čj. 0144/20-O18, účinné od 15. 2. 2020.
+
+
+
+
+                                                        6
+                                                                                 ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+10. Ustanovení předpisu V8/I platná pro vlak se vztahují i na posun mezi dopravnami. Pojem „mimořádná
+    událost“ je definován předpisem ČD D17.
+                                                           Kapitola II
+                                                      Základní ustanovení
+11. Každé HDV i SHV (s výjimkou HDV nebo SHV o výkonu do 115 kW a o konstrukční rychlosti
+    nepřesahující 40 km.h-1) musí být vybaveno registračním zařízením, kde jsou zaznamenávány základní a
+    doplňkové veličiny o činnosti HDV (SHV).
+      Na každém stanovišti strojvedoucího, z něhož je řízeno činné HDV (SHV), musí být zařízení, které dává
+      strojvedoucímu nepřetržitě informaci o okamžité rychlosti tohoto vozidla.
+      Rychloměr je měřidlem ve smyslu zákona č. 505/90 Sb. o metrologii, a jako takový podléhá kalibraci a
+      evidenci podle ustanovení předpisu ČD V 8/II a ČD M 15.
+12. Pro provoz HDV musí být použit rychloměr schválený pro příslušné vozidlo.
+
+13.   ■
+      HDV činná a pohotová k službě ve smyslu předpisu ČD D 2 vystavovaná z domovského pracoviště údržby
+      musí mít registrační a indikační rychloměry v pořádku.
+      Poznámka: „indikační rychloměr“ se pro účely tohoto předpisu rozumí včetně elektrických rychloměrů.
+
+14.   ■
+      HDV s poruchou rychloměrné soupravy nesmí být přistaveno na výkon, při kterém by z něho měla být
+      řízena rychlost vozidla nebo ovládána průběžná brzda.
+15. Kromě indikace rychlosti musí rychloměr spolehlivě plnit i další funkce podle svého konstrukčního
+    uspořádání a podle technických podmínek, platných pro jeho provoz. Údržba rychloměru musí zajišťovat
+    předpoklady pro jeho bezporuchový provoz a musí být prováděna v souladu s pokyny pro údržbu,
+    schválenými zařaditelskou železnicí HDV, nejsou-li příslušná ustanovení součástí předpisu ČD V 8/II -
+    „Předpis pro údržbu rychloměrů a vyhodnocování jejich záznamů“.
+16. Indikační rychloměry okamžitou rychlost vozidla pouze indikují a případně ovládají rychlostní kontakty pro
+    některá zařízení (např. VZ, mazání okolků). Registrační rychloměry musí registrovat jak všechny
+    „ZÁKLADNÍ“, tak i všechny zapojené (instalované) „DOPLŇKOVÉ“ veličiny.
+          ZÁKLADNÍ veličiny:
+             - čas;
+             - doba jízdy a stání;
+             - rychlost v závislosti na ujeté dráze;
+             - obsluha tlačítka bdělosti VZ nebo zařízení pro kontrolu bdělosti, pokud je jím vozidlo vybaveno
+                (např. svícením modrého světla návěstního opakovače VZ);
+             - svícení červeného světla návěstního opakovače VZ (pokud je vozidlo vybaveno zařízením VZ s
+                návěstním opakovačem);
+          DOPLŇKOVÉ veličiny:
+            - použití houkačky;
+            - tlak vzduchu v hlavním potrubí průběžné brzdy;
+            - svícení dalších světel na návěstním opakovači;
+            - zdvižení sběrače elektrického hnacího vozidla;
+            - odpad ventilu VZ;
+            - zapnutí zařízení pro odstraňování nečistot z jízdní plochy dvojkolí;
+            - směr jízdy;
+            - jízda na odporových stupních;
+            - napájení kabelu (sepnutí stykače) vlakového topení;
+            - stav požárního hlásiče;
+            - otevření dveří apod;
+            - zapnutí spínače řízení;
+            - volba směru;
+            - požadavek přímočinné brzdy;
+            - použití rychlobrzdy;
+            - požadavek na provozní brzdění;
+
+
+
+
+                                                                    7
+                                                                                ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+            -   tlak v brzdových válcích větších než 0,5 bar;
+            -   přenos signálů VZ;
+            -   el. vozba – pokyn ke stažení sběračů, chod spalovacího motoru (1. motor u dvouagregátu);
+            -   zásah ventilu vlakového zabezpečovače;
+            -   obsluha houkačky nebo píšťaly;
+            -   individuální vstupy podle řady vozidla:
+                     o elektrické topení vlaku;
+                     o EDB v činnosti Ik větší než 100 A;
+                     o EDB v poruše;
+                     o Požadavek EDB
+   Poznámka: U registračních rychloměrů, kde se provádí registrace veličin na RP, se musí vždy dodržet pořadí ZÁKLADNÍCH
+   VELIČIN, tj. dle předtisku veličin a pod zápisem rychlosti musí být jako první registrace obsluhy tlačítka bdělosti, druhá registrace
+   svícení červeného světla návěstního opakovače VZ. Teprve pod základními veličinami může být doplňková registrace dle řady HDV.
+
+17. Registrace veličin může být prováděna mechanicky (hrotem na papírový rychloměrný proužek - rychloměr
+    „mechanický“) nebo elektronicky (do pevné paměti rychloměru - rychloměr „elektronický“). Pohon
+    mechanického rychloměru od dvojkolí vozidla je mechanický (pevným kloubovým nebo ohebným hřídelem)
+    nebo elektrický; u elektronického rychloměru je výhradně elektrický. Mechanický rychloměr může,
+    elektronický rychloměr musí umožňovat nastavování údaje o skutečném průměru kol (v závislosti na
+    tloušťce obručí nebo věnců) v odstupňování po max. 2 mm.
+18. Mechanický rychloměr musí přesně ukazovat skutečnou rychlost vozidla při středně ojetých obručích
+    (věncích celistvých kol); přitom odchylka skutečné a indikované (registrované) rychlosti nesmí být větší než
+    ±2,0 % z max. rozsahu rychlostní stupnice.
+      U mechanického rychloměru bez elektronického mezičlenu je další odchylka skutečné a registrované
+      (indikované) rychlosti přímo úměrná odchylce průměru kola středně ojetého od skutečného průměru kola;
+      tato odchylka nesmí (při kolech o průměru > 980 mm) přesáhnout ±4 % okamžité rychlosti vozidla.
+      Elektronický rychloměr nesmí vykazovat odchylku mezi skutečnou a indikovanou rychlostí větší než ±2 %,
+      pokud skutečný průměr kol se rovná nastavenému.
+      Všechny výše uvedené tolerance se rozumějí při stavu bez smyku nebo prokluzu kol.
+19. Rozsah rychlostní stupnice rychloměru s ručkovým ukazatelem a měřicí rozsah rychloměru s digitálním
+    ukazatelem musí být alespoň o 10 km.h-1 větší než konstrukční rychlost vozidla. Na rychlostní stupnici
+    musí být konstrukční rychlost vozidla vyznačena výraznou (červenou) značkou, popř. musí být červeným
+    proužkem označen rozsah rychlostí nad konstrukční rychlostí vozidla. Před montáží rychloměru na vozidlo
+    se musí překontrolovat, zda vlastní přístroj, rozsah číselníku (měřicí rozsah), převod od kol vozidla a
+    značka konstrukční rychlosti odpovídají jmenovitému průměru kol a dovolené rychlosti vozidla.
+
+20.   ■
+      Při řízení HDV se strojvedoucí řídí údajem o rychlosti na rychloměru.
+                                                       Kapitola III
+                                                  Mechanické rychloměry
+  A. RYCHLOMĚRY VÝROBCŮ HASLER BERN, METRA PRAHA A LABORATORNÍ PŘÍSTROJE PRAHA
+Obsluha rychloměru a manipulace s rychloměrnými proužky
+21. Při nástupu na HDV je strojvedoucí povinen u rychloměrů s pérovým hodinovým strojem dotáhnout
+    hodinové pero a nařídit hodiny na správný čas. Překontroluje dostatečnost zásoby rychloměrného proužku
+    v rychloměru, a pokud je již vidět barevný pás indikace „konec proužku“ nebo není-li dostatečná zásoba
+    rychloměrného proužku v rychloměru pro předpokládaný výkon, nasadí nový svitek proužku. Za vybavení
+    HDV dostatečným počtem RP odpovídá ředitel OŘOD vlastním opatřením.
+22. Strojvedoucí smí uvést vozidlo (vlak) do pohybu teprve po splnění výše uvedených podmínek.
+
+23.   ■
+      Při ukončení služby na HDV (SHV) strojvedoucí vyjme a odevzdá RP s registrací. Pokud v rámci jedné
+      směny provádí strojvedoucí výkony na více HDV, odevzdá popsané rychloměrné proužky z každého
+      výkonu na jednotlivém HDV.
+
+
+
+
+                                                                  8
+                                                                      ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+24. Popis RP vyjmutého z rychloměru: Při ukončení služby na HDV strojvedoucí posune na navíjecí cívku
+    rychloměrný proužek v rychloměru tak, aby za záznamem zůstal cca 100 mm dlouhý volný konec, proužek
+    s registrací odtrhne, vyjme a na jeho volném pravém okraji z vnější strany čitelně zapíše následující údaje:
+           - číslo hnacího vozidla;
+           - datum provedení výkonu (při překročení půlnoci datum obou dnů ve zlomku);
+           - příjmení, jméno, SAP číslo strojvedoucího a slovy domovské PP (např. Novotný Tomáš,
+                111111, SLČ - Horažďovice);
+           - číslo rychloměru;
+                  Pokud rozsah rychlostní stupnice RP nesouhlasí se stupnicí rychloměru, doplní poznámku:
+                  „Rozsah rychloměru 0 - .... km.h-1 .“
+           - čísla zaznamenaných vlaků a zkratkami úseky, ve kterých jely (přitom musí zachovat pořadí).
+                Při posunu a místních výkonech zapíše příslušné označení výkonu. Provádí-li HDV výkon
+                pevného oběhu, je dovoleno, aby zapsal jen: turnusová skupina výkonu HDV/den oběhu HDV,
+                ve kterém směna začíná / místo začátku výkonu a číslo prvního vlaku (např. TS 325/6/KOLÍN
+                5024) v případě, že bylo dodrženo pořadí všech výkonů a úseky podle oběhu HDV;
+           - poznámky: - „X“ - pokud nevedl vlak v některém úseku (např. při jízdě s přípřeží nebo úvratí
+                byl vlak veden z jiného vozidla), vyznačí u příslušného vlaku a úseku ležatý křížek „X“, v případě
+                použití „TS“ zapíše jako poznámku „X“ - vlak a úsek, kterého se „X“ týká.
+   Pokud byl výkon z důvodu poruchy rychloměru zaznamenán na RP jiného vozidla, doplní poznámku:
+   „Vlaky č. ...zaznamenány na RP vozidla č. ....“.
+   Při ukončení služby strojvedoucí odevzdá proužek určenému zaměstnanci. Předtím ale zkontroluje, zda
+   navíjení, posuv RP a registrace všemi pisátky jsou v pořádku; pro tento účel rozvine takovou část proužku,
+   aby zjistil činnost (skok) všech pisátek a kvalitu zápisu.
+   Poznámka: Předepsaný popis RP platí pro provozovatele HDV a SHV.
+
+25. Přetrhne-li se rychloměrný proužek v průběhu služby strojvedoucího, odevzdá strojvedoucí všechny jeho
+    části za celý svůj výkon služby. Proužky poškozené jinak musí odevzdat v takovém stavu, v jakém se
+    nacházejí. Žádné části z nich nesmějí být odstraňovány pro jejich zdánlivou nepotřebnost.
+
+26.   ■
+      Dojde-li během služby strojvedoucího k zjevné poruše indikace rychlosti na stanovišti, ze kterého je
+      ovládána rychlost jízdy nebo průběžná brzda, oznámí to strojvedoucí neprodleně výpravčímu,
+      lokomotivnímu dispečerovi osobní dopravy ČD a strojmistrovi.
+      Při nejbližším zastavení strojvedoucí poruchu rychloměru zaeviduje předepsaným způsobem (pomocí
+      aplikace SH SAP apod.); zápis musí obsahovat projev poruchy rychloměru (pokud ji strojvedoucí zná, i
+      příčinu), čas a místo (km polohu apod.) kde vznikla.
+
+27.   ■
+      S poruchou rychloměru podle článku 26. tohoto předpisu smí vlak pokračovat v jízdě sníženou rychlostí
+      zajišťující zachování bezpečnosti železničního provozu. Takto smí dojet jen do nejbližší železniční stanice
+      obsazené výpravčím. Je-li však na stanovišti strojvedoucího, z něhož je vozidlo řízeno, ještě jiný správně
+      fungující ukazatel skutečné rychlosti (např. zařízení ARR), snížení rychlosti se neuplatňuje. Pokud je na
+      vlaku další vozidlo s registračním rychloměrem, musí být tento rychloměr uveden do činnosti a jeho
+      rychloměrný proužek musí být označen nebo musí být zadány statistické a identifikační údaje do paměti
+      rychloměru (článek 63. tohoto předpisu) stejně, jako kdyby byl na vozidle, z něhož je řízena jízda vlaku; v
+      nejbližší stanici proto vlak zastaví a hnací vozidla se podle možnosti přeřadí (i při ohlášení poruchy
+      radiostanicí). HDV s poruchou rychloměru nesmí ze stanice, kde byla porucha ohlášena, pokračovat ve
+      výkonu, při kterém by z něho měla být řízena rychlost vozidla a ovládána průběžná brzda.
+28. Pro zajištění hrotů pisátek proti poškození je zakázáno ponechávat registrační rychloměr bez založeného
+    rychloměrného proužku. Kromě případů poruchy rychloměru nebo jeho náhonu je zakázáno vyřazovat
+    rychloměr (registrační i indikační) z činnosti vyklopením jeho přední stěny nebo jiným způsobem (např.
+    vypnutím jističe).
+29. Pro úsporu rychloměrných proužků je dovoleno, aby na neobsazeném stanovišti strojvedoucího vozidla, ze
+    kterého není ani řízena jízda ani ovládána průběžná brzda*), byl spínačem odpojen elektrický náhon
+    registračního rychloměru, pokud činnosti rychloměru není zapotřebí pro jiné funkce (např. mazání okolků).
+    V případě mechanického odpojení (např. při poruše) musí být náhon (konektor) zajištěn proti vnikání
+    nečistot (prachu) a proti mechanickému poškození.
+
+
+
+
+                                                             9
+                                                                          ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+   Poznámka:*) Týká se i neobsazeného stanoviště strojvedoucího elektrické nebo motorové jednotky, vybavené dvěma samostatnými
+   registračními rychloměry.
+
+30. Ve všech případech popisování RP musí být vpisování údajů provedeno tak, aby nedošlo k porušení
+    registrovaných veličin. K popisování musí být použit nesmazatelný fix, propisovací tužka jiné než červené
+    barvy nebo nouzově měkkou tužkou černé barvy a zápis musí být dobře čitelný.
+31. Postup manipulace s rychloměry a rychloměrnými proužky při mimořádné události stanoví předpis ČD
+    D17.
+32. Nebude-li rychloměrný proužek vyjmut na místě mimořádné události, strojvedoucí, který ovládal průběžnou
+    brzdu, posune po zastavení část proužku se záznamem na navíjecí cívku nejméně o 100 mm a na volné
+    místo na proužku poznamená „MU“ a uvede její čas a kilometrickou polohu (případně jiné určení místa)
+    předního čela vozidla po zastavení. Na samostatný list přitom poznamená údaje podle následujícího
+    článku.
+   Při neschopnosti strojvedoucího k úkonům podle tohoto článku jej zastoupí zaměstnanec, znalý obsluhy
+   rychloměru.
+33. Při vzniku mimořádné události podle předchozího článku musí strojvedoucí (není-li schopen, pak
+    zaměstnanec, který nehodu šetří nebo vyšetřuje) na zvláštní list formátu alespoň A5 zaznamenat
+    následující údaje:
+          - své jméno a příjmení, osobní číslo, název a sídlo zaměstnavatele;
+          - číslo vlaku, u něhož k události došlo;
+          - datum a čas, kdy k události došlo;
+          - číslo (tj. řadu, inventární číslo a kontrolní číslici) vozidla, z něhož byla jízda řízena;
+          - číslo jeho registračního rychloměru a rozsah rychlostní stupnice;
+          - km polohu předního čela drážního vozidla ve směru jízdy, ze kterého byla ovládána rychlost
+               jízdy;
+          - kterým stanovištěm strojvedoucího jelo vozidlo vpřed;
+          - na kterém stanovišti (nebo kde jinde) se nacházel registrační rychloměr;
+          - přesný čas, kdy bylo započato s vyjímáním proužku z rychloměru (byl-li proužek z rychloměru
+               vyjímán, a to i pokud je shodný s údajem hodin rychloměru).
+   Strojvedoucí list podepíše a odevzdá jej při nejbližším ukončení služby, pokud jej nemusel na žádost
+   vyšetřujícího zaměstnance již dříve připojit k rychloměrnému proužku.
+34. Vyhodnocování a archivování rychloměrných proužků se řídí ustanoveními předpisu ČD V 8/II.
+35. – 59. Neobsazeno.
+
+                                                        Kapitola IV
+                                                 Elektronické rychloměry
+Obsluha rychloměru Metra Blansko
+60. Na vozidle vybaveném elektronickou rychloměrovou soupravou řady LT výrobce Metra Blansko (dále jen
+    LT, viz příloha č. 3 totoho předpisu) se po zapnutí vozidlové baterie při zapnutém napájení soupravy LT
+    automaticky otestuje správná činnost zařízení. Pokud je souprava LT v pořádku, přestaví se do svého
+    základního režimu JÍZDA, na displeji indikační jednotky se zobrazuje čas a červená i žlutá dioda LED
+    (někdy označovaná jako svítivka) je zhaslá. Pokud se na displeji objeví tečka a další tečky přibývají po
+    cca 15 s, je nutno vyčkat, až se souprava LT buď přestaví do svého základního režimu JÍZDA nebo se na
+    displeji objeví příslušné chybové hlášení. Každý takový případ musí neprodleně zaevidovat předepsaným
+    způsobem (pomocí aplikace SH SAP apod.).
+61. Při nástupu na vozidlo vybavené elektronickým rychloměrem je strojvedoucí po zapnutí vozidlové baterie
+    a při zapnutém napájení elektronického rychloměru (při střídání na ose po vstupu na vozidlo) povinen
+    překontrolovat, zda na indikační jednotce nesvítí červená nebo žlutá dioda LED.
+62. Nesvítí-li červená dioda LED, převede soupravu LT do režimu ZADÁVÁNÍ DAT tak, že stiskne
+    v číslicovém poli klávesnice zeleně orámované tlačítko číslice „O“ (nula). Tím se na obdélníkovém displeji
+    zobrazí nápis „2. Funkce:“ a funkce tlačítek odpovídá symbolům v zeleném poli.
+
+
+
+
+                                                             10
+                                                                                ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+    V režimu ZADÁVÁNÍ DAT lze provést zadání nových identifikačních a statistických údajů o výkonu (nebo
+    potvrzení dosud platných identifikačních údajů), tj. číslo strojvedoucího, číslo jeho služebny, číslo stanice,
+    číslo vlaku, hmotnost, počet náprav, režim brzdění, skutečná brzdicí procenta.
+    Prohlížení zadaných údajů je povoleno pouze v režimu JÍZDA tlačítkem „8“ (statistika).
+63. Veškeré zadávání identifikačních a statistických údajů je možné jen při stojícím vozidle.
+64. Cca do 8 s po stisknutí tlačítka „nula“ se musí stisknout tlačítko s písmenem „S“ (popř. „U“), jinak se
+    zařízení vrátí do režimu JÍZDA. Po stisku tlačítka s písmenem „S“ v zeleném poli zadá strojvedoucí do
+    paměti LT údaje dle ustanovení článku 67 tohoto předpisu. Vždy po zadání správného čísla na číslicovém
+    poli klávesnice a jeho zobrazení na displeji musí stisknout tlačítko „>“, čímž se číslo zobrazené na displeji
+    odsouhlasí k přesunu do paměti. Přitom se souprava LT přestaví k zadávání dalšího údaje.
+    Poznámka: Po stisknutí tlačítka s písmenem „S“ se na displeji objeví příslušný text a naposledy zadané číslo; pokud číslo platí i
+    nadále, odsouhlasí se stiskem tlačítka „>“. Má-li se číslo změnit, stiskne se tlačítko „<“ (tím, se původní číslo vymaže) a poté se
+    zadá nové číslo. Během zadávání čísla bliká ukazovátko signalizující fázi zadávání čísla. Po zadání poslední z požadovaného
+    počtu číslic blikající ukazovátko zhasne a číslo je nutno odsouhlasit stiskem tlačítka „>“; v případě chybného zadání vymazat
+    stiskem tlačítka „<“. Pokud by po zobrazení čísla na displeji strojvedoucí nestiskl tlačítko „>“, nedošlo by k zapsání tohoto nového
+    čísla (k potvrzení původního čísla) do paměti zařízení a nebylo by možno zadávat další údaje.
+    Po stisknutí klávesy s písmenem „U“ se obdobným způsobem zadávají a odsouhlasují:
+          -   číslo vlaku,
+          -   číslo stanice,
+          -   hmotnost,
+          -   počet náprav,
+          -   režim brzdění a skutečná brzdicí procenta.
+    Při zadávání (odsouhlasování) režimu brzdění je však odchylka v tom, že napřed se pomocí opakovaných stisků tlačítka „U“ vybere
+    příslušný režim brzdění a ten se odsouhlasí stiskem tlačítka „>“, načež se zadá příslušná číselná hodnota brzdicích procent a
+    odsouhlasí se stiskem tlačítka „>“.
+
+65. Dojde-li k chybě (omylu) při zadávání kteréhokoli čísla, vymaže se chybně zadané číslo stiskem tlačítka
+    „<“, pokud ještě nebylo odsouhlaseno tlačítkem „>“. Opravu údaje potvrzeného stiskem tlačítka „>“ je
+    možno provést jen novým zadáním.
+66. Po skončení úkonů podle čl. 61 až 65 stiskne strojvedoucí tlačítko s písmenem „J“ (v zeleném poli); tím se
+    ukončí režim ZADÁVÁNÍ DAT a zařízení se převede do režimu JÍZDA a je připraveno pro indikaci a
+    registraci rychlosti a ostatních veličin.
+    Poznámka: Souprava LT se samočinně převede do režimu JÍZDA i každým rozjezdem vozidla. Přitom se však do paměti zavedou
+    jen nově zadané údaje, které byly před okamžikem rozjezdu vozidla odsouhlaseny stiskem tlačítka „>“. Veškeré zadávání (nebo
+    kontrola) dat je možné jen za klidu vozidla.
+
+67. Po přistavení vedoucího hnacího vozidla na vlak a získání údajů o vlaku strojvedoucí za klidu vozidla
+    stiskne postupně tlačítka „O“ („nula“) v číslicovém poli) a „U“ (v zeleném poli) a zadá (v pořadí vyžádaném
+    displejem) dle skutečnosti a jeho odpovídajících pozic tyto povinné údaje (takto postupuje strojvedoucí i
+    v případě jiných typů elektronických rychloměrů):
+    - kód dopravce: (pozice „Strojvedoucí“, „Kód železnice“)
+              o ČD, a.s. – 00;
+              o ČD Cargo – 54;
+              o ZSSK – 56;
+              o DB Fernverkehr – 80;
+              o ÖBB – 81;
+              o PKP IC – 51;
+         Kód dopravce zadává strojvedoucí dle svého zaměstnavatele a jen pokud rychloměr zadání
+         umožňuje.
+    - číslo strojvedoucího: (pozice „Strojvedoucí“, „Číslo domovské služebny“, „Výchozí stanice“, „Osobní
+         číslo strojvedoucího“)
+              o strojvedoucí ČD zadá své SAP číslo;
+              o strojvedoucí kooperujícího dopravce zadá své osobní číslo. Strojvedoucí, kterým kooperující
+                  dopravce osobní číslo strojvedoucího nepřiděluje nebo přiděluje v odlišném formátu, obdrží
+                  osobní číslo strojvedoucího od ČD, a.s. v rámci zkoušky zvláštní odborné způsobilosti.
+
+
+
+
+                                                                  11
+                                                                ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+   -   číslo vlaku:
+           o číslo vlaku takto:
+                     xxxxxx … strojvedoucí zadá na vedoucím hnacím vozidle číslo každého vlaku, který
+                      vede ve směně dle skutečnosti;
+                     4xxxxx … posunující záloha - poslední dvojčíslí se uvede číslo zálohy (příklad:
+                      400002);
+                     5xxxxx … vlakové vozidlo u vlaku s přípřeží, zavěšený postrk, vložené vozidlo (na 2.
+                      až 6. pozici se uvede číslo vlaku – např.: 505004, 525310).;
+                     v případech, kdy jsou vlaky:
+                       vedené činným HV s neobsazeným stanovištěm strojvedoucího (spojená HV
+                           v režimu vícenásobného řízení ovládaná z jednoho stanoviště strojvedoucího, HV
+                           ovládaná z řídícího vozu apod.);
+                       dopravované HV obsazené nebo neobsazené strojvedoucím
+                      se údaje do el. rychloměrů těchto HV nezadávají.
+Příklad:
+Souprava složená z jedné el. jednotky a obsazená 1 strojvedoucím:
+
+
+
+
+Souprava složená ze dvou el. jednotek a obsazená 1 strojvedoucím:
+
+
+
+
+Souprava složená z lokomotivy, os. vozů, řídícího vozu a mot. jednotky a obsazená 2 strojvedoucími:
+
+
+
+
+   Kód dopravce a číslo strojvedoucího se zadává tak, aby byly zaplňovány pozice zprava a nadbytečné
+   pozice vlevo se zaplní nulami. Při zadávání čísla vlaku se rovněž zaplňují pozice zprava a doplní případně
+   nulami na celkových 6 míst.
+   V případě, že v elektronickém rychloměru jsou některé z údajů (hmotnost, počet náprav, skutečné brzdící
+   procento, režim brzdění atd.) podstatné pro činnost určitých zařízení vozidla, např. ARR apod., zadává
+   strojvedoucí i tyto údaje dle svého uvážení s ohledem na jejich využití pro další jízdu.
+   Pro potřebu vyhodnocení záznamů z elektronických rychloměrů určený zaměstnanec použije také ostatní
+   dostupné informační zdroje.
+68. V místě, kde se mění některý ze zadávaných údajů, strojvedoucí provede nové zadání.
+
+
+
+
+                                                    12
+                                                                   ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+69. Při ukončení služby (před odchodem z vozidla, vyjma střídání na ose) strojvedoucí přepne soupravu LT
+    do režimu ZADÁVÁNÍ DAT a své osobní číslo vymaže postupným stiskem kláves „<“ a „>“, mazání
+    zakončí stiskem klávesy „J“.
+70. V základním režimu JÍZDA (tj. během jízdy i stání vozidla, kdy na displeji není zobrazen nápis „2.
+    Funkce“) si strojvedoucí může zvolit tlačítkem:
+      „R“ .. nápis „Rychlost“ a následné zobrazování digitálního údaje okamžité rychlosti na obdélníkovém
+             displeji;
+      „Č“ .. nápis „Čas“ a zobrazování času interních hodin LT na displeji; opakovaným stiskem tlačítka se na
+             cca 3 s zobrazí na displeji datum;
+      „D“ .. nápis „Dráha“ a zobrazování digitálního údaje počítadla km;
+      „L“ .. změnit nastavení jasu LED diod (svítivek) na čelním panelu indikační a komunikační jednotky z
+             maxima na minimum a naopak.
+      „H“ .. hlášení, pokud na čelním panelu svítí alespoň jedna dioda LED.
+      Tlačítka výše uvedených písmen jsou v černém poli.
+      Jen za klidu vozidla, ale stále v režimu „JÍZDA“, může strojvedoucí tlačítkem „8“ vyvolat na cca 3 s nápis
+      „statistika“ a tlačítkem „H/<“ (zpět) nebo „R/>“ (vpřed) může přecházet mezi údaji: strojvedoucí-služebna-
+      stanice-č.vlaku-hmotnost-náprav-brzd. režim-brzdicí % a kontrolovat naposledy zadané údaje. Stiskem
+      jakéhokoli jiného tlačítka přejde displej zpět na poslední předchozí způsob zobrazování.
+      „O“ ..tímto tlačítkem je možno u některých LT (vyrobených po 3/97) navolit současné zobrazování funkce
+            času a okamžité rychlosti vozidla.
+71. Poruchy rychloměru LT, které neovlivní indikaci rychlosti digitálním údajem na displeji, jsou signalizovány
+    trvalým svitem žluté diody LED. Poruchy rychloměru LT, při kterých není zaručena správná indikace
+    rychlosti, jsou signalizovány trvalým svitem červené diody LED.
+
+72.   ■
+      Pokud při nástupu strojvedoucího na vozidlo svítí nebo se během služby rozsvítí červená nebo žlutá
+      dioda LED na čelním panelu indikační jednotky, musí strojvedoucí stiskem tlačítka s písmenem „H“
+      v černém poli zjistit příčinu z chybového hlášení na displeji. Případnou další příčinu zjistí opětovným
+      stiskem téhož tlačítka. Po posledním chybovém hlášení se stiskem tlačítka „H“ obnoví na displeji
+      zobrazování času, popř. rychlosti nebo dráhy podle poslední předchozí volby. O svícení diody a příčině
+      musí zaevidovat předepsaným způsobem (pomocí aplikace SH SAP apod.) a je povinen tuto skutečnost
+      ohlásit strojmistrovi a lokomotivnímu dispečerovi osobní dopravy ČD.
+
+73.   ■
+      Po stisknutí tlačítka „H“ a zjištění z hlášení „Ztráta dat“, strojvedoucí toto oznámí po ukončení směny
+      strojmistrovi a zaeviduje předepsaným způsobem (pomocí aplikace SH SAP apod.). Strojmistr o tom
+      vyrozumí zaměstnance pověřeného odebíráním dat.
+74. Zjistí-li strojvedoucí při nástupu na vozidlo, že při zapnutém napájení zařízení LT svítí červená nebo žlutá
+    dioda LED, vypne zařízení vypnutím jističe napájení LT a po cca 15 s je znovu zapne (pouze za klidu
+    vozidla).
+    Pokud se již žádná dioda LED znovu nerozsvítí, pokračuje v dalším výkonu bez omezení. Rozsvítí-li se i
+    potom některá dioda LED, je povinen uvědomit o tom neprodleně strojmistra, a pokud nebude závada
+    odstraněna oprávněným odborným zaměstnancem a dioda LED nezhasne, nesmí převzít vozidlo na
+    výkon, při němž by mělo být samostatně řízeno (byť i jen při posunu). Zjistí-li strojvedoucí svícení červené
+    nebo žluté diody LED při nástupu na vozidlo mimo domovské pracoviště údržby vozidla, postupuje dle
+    článku 14. tohoto předpisu.
+
+75.   ■
+      Při rozsvícení červené diody LED během jízdy vlaku strojvedoucí při nejbližší vhodné příležitosti vypne
+      rychloměr vypnutím jističe napájení LT a po cca 15 s jej znovu zapne. Pokud se i potom rozsvítí červená
+      dioda LED, postupuje podle článku 27. tohoto předpisu. Při rozsvícení žluté diody LED smí vozidlo
+      pokračovat v jízdě, ale jen do nejbližšího průjezdu místem sídla jeho domovského pracoviště údržby
+      vozidla. Pro určení příčiny poruchy se použije postup dle článku 72. tohoto předpisu.
+
+
+
+
+                                                       13
+                                                                            ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+76. Při rozdílu údajů skutečné rychlosti mezi digitálním displejem a kruhovým ukazatelem („ručkou“) platí
+    závažnější (větší) údaj.
+77. – 79. Neobsazeno.
+Manipulace s obsahem paměti soupravy LT
+80. Ředitel OŘOD nebo OCÚ určí zaměstnance odpovědné za přenos dat z paměti LT HDV do počítače
+    vyhodnocovacího pracoviště a lhůty přenosu dat tak, aby nedocházelo k přepisování nejstarších dat na
+    HDV.
+81. O manipulaci s modulem polovodičové paměti nebo se záznamem dat rychloměru v případě mimořádné
+    události rozhoduje zaměstnanec, který mimořádnou událost šetří nebo vyšetřuje. Strojvedoucí ihned na
+    místě této události zaznamená na samostatný list formátu alespoň A5 údaje podle článku 33. tohoto
+    předpisu.
+    Tento list musí být vyhodnocovacímu pracovišti k dispozici při rozboru záznamů. Pokud se vyjímá na
+    místě mimořádné události modul polovodičové paměti z vozidla za účelem jeho transportu na
+    vyhodnocovací pracoviště, transportuje se současně i příslušný list.
+   Poznámka: Modul polovodičové paměti smí z měřicí a záznamové jednotky vyjímat jen zaměstnanec prokazatelně proškolený pro
+   servis rychloměru, který modul dopraví na vyhodnocovací pracoviště; ten také odpovídá za to, že během jeho transportu nedojde k
+   poškození modulu ani jeho konektoru nebo záznamů.
+
+82. Technologie přenosu, vyhodnocování a archivace dat se řídí předpisem ČD V 8/II.
+83. - 100. Neobsazeno.
+
+Související předpisy a normy
+SŽ D1 část první       -    Dopravní a návěstní předpis pro tratě nevybavené evropským
+                            vlakovým zabezpečovačem
+ČD D 2                 -    Předpis pro provozování drážní dopravy dopravce České dráhy, a.s.
+SŽDC (ČD) D 2/1 -           DOPLNĚK s technickými údaji k Dopravním předpisům
+SŽ D3                  -    Předpis pro zjednodušené řízení drážní dopravy
+ČD D 17                -    Předpis pro hlášení a šeření mimořádných událostí
+ČD V 2                 -    Předpis pro lokomotivní čety dopravce České dráhy, a.s.
+ČD V 8/II              -    Předpis pro údržbu rychloměrů a vyhodnocování jejich záznamů
+ČD V 15/I              -    Předpis pro provoz a obsluhu brzdových zařízení železničních
+                            kolejových vozidel
+ČD S 8                 -    Provoz, udržování a opravy speciálních vozidel
+
+
+
+
+                                                              14
+                                                       Příloha 1 k ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+                  MECHANICKÉ RYCHLOMĚRY HASLER A METRA PRAHA
+
+Popis
+101. Mechanické rychloměry TELOC (výrobce Hasler, Švýcarsko) i Metra Praha typové řady 610 (610, 611
+     apod.) jsou krabicové přístroje s odklopnou přední stěnou, provedené jako indikační nebo registrační.
+     Jejich pohon je mechanický (pevným nebo ohebným hřídelem) nebo elektrický od dvojkolí vozidla. Na
+     přední straně rychloměru (viz obr. 1) je kruhový číselník s ručkovým ukazatelem rychlosti. Nad ním je
+     umístěn uzavírací šroub, po jehož uvolnění lze čelní stěnu vyklopit směrem k sobě. Nad nebo pod
+     číselníkem je umístěn výrobní štítek s číslem rychloměru a označením výrobce přístroje. Na spodní
+     straně přístroje je připojen jeho pohon. Přístroj může být zabudován do svislé (nebo téměř svislé) stěny
+     řídicího pultu, přičemž přední stěna přístroje lícuje se stěnou pultu.
+102. U registračních rychloměrů jsou navíc proti vybavení podle čl. 101 zabudovány nad osou ručky
+     mechanické hodiny; klíček pro natahování jejich pera je umístěn vlevo, klíček pro seřizování hodin
+     vpravo od uzavíracího šroubu.
+     Natahování pera se provádí povytažením klíčku k sobě a jeho otáčením proti směru chodu hodinových
+     ručiček; po ukončení natahování se klíček zasune zpět do základní polohy. Seřizování hodin se provádí
+     výhradně při natažených hodinách, a to povytažením klíčku k sobě a jeho otáčením tak, aby se ručičky
+     pohybovaly ve směru chodu hodin (tiskací mechanismus se nastaví automaticky). Pokud je nutno otáčet
+     ručičkami opačným směrem, musí se konečná poloha překročit tak, až projde minutová ručka spodní
+     svislou polohou („30 min“), načež se konečná poloha nastaví ve správném směru točení. V kontrolním
+     otvoru na číselníku hodin se musí objevit v době od 0:01 do 12:00 hodin bílé, v době od 12:01 do 24:00
+     modré pole.
+     U registračních rychloměrů je pod osou ručky umístěn ukazatel počítadla ujetých kilometrů a vpravo pod
+     kruhovým číselníkem je umístěno průhledové okénko, kterým lze zjišťovat, zda je založen rychloměrový
+     proužek a zda se neblíží jeho konec. Na spodní nebo boční stěny přístroje je popř. přiveden tlakový
+     vzduch od hlavního potrubí průběžné brzdy a elektrický kabel pro zapisování elektrických veličin.
+               Obr. 1 – Registrační rychloměr typ TELOC – RT 13 Hasler s elektrickým pohonem
+
+
+
+
+   1 – elektrický pohon rychloměru, 2 – klíček k ručnímu natažení pera hodinového strojku, 3 – číselník,
+   4 – klíček k seřizování hodinových ručiček, 5 – hodiny rychloměru, 6 – uzavírací šroub, 7 – patka
+   k uchycení rychloměru, 8 – průhledové okénko, 9 – počítadlo ujetých kilometrů
+
+
+
+
+                                                    P1-1
+                                                    Příloha 1 k ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+         Obr. 2 – Registrační rychloměr typ TELOC – RT 13 Hasler s překlopenou čelní stěnou
+
+
+
+
+1 – skříň rychloměru, 2 – sklopené víko rychloměru, 3 – elektrický pohon, 4 – elektrický připojovací
+kabel, 5 – uzavírací šroub, 6 – navíjecí cívka, 7 – patka k uchycení rychloměru, 8 – rychloměrový
+proužek, 9 – kolík, 10 – pojišťovací zástrčka, 11 – závěs, 12 – vodící váleček, 13 – vodící váleček,
+14 – vodítko transportního válečku, 15 – viz obr. 23, 16 – vroubkované kolečko pro ruční posun
+rychloměrového proužku, 17 – viz obr. 23, 18 – maznička, 19 – schéma nasazení rychloměrového
+proužku, 20 – třecí deska, 21 – zubová spojka
+                    Obr. 3 – Schéma nasazení rychloměrového proužku do přístroje
+
+
+
+
+6 – navíjecí cívka, 8 – rychloměrový proužek, 9 – kolík, 10 – pojistná zástrčka, viz obr. 22, 11 –
+závěs, 12 – vodící váleček, 13 – vodící váleček, 14 – vodítko transportního válečku, 15 – transportní
+váleček, 16 – roubkované kolečko pro ruční posun rychloměrového proužku, 17 – unášecí tyčinka
+
+
+
+                                                 P1-2
+                                               Příloha 1 k ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+                              Obr. 4 – Příklad rychloměrového proužku:
+Horní obrázek – příklad rychloměrového proužku se záznamy o činnosti vlakového zabezpečovače
+na kódovaných tratích
+Spodní obrázek – kontrola rychlosti při rozptýleném záznamu
+
+
+
+
+                                            P1-3
+                                             Příloha 2 k ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+Obr. 6 – Elektronická rychloměrová souprava řady LT – Měřící a záznamová jednotka LTE
+
+
+
+
+Snímač otáček
+
+
+
+
+Zobrazovací jednotka LTZ s klávesnicí vedle stupnice rychlostí
+
+
+
+
+                                          P2-1
+                                                     Příloha 3 k ČD V 8/I se změnou č. 1 – Účinnost od 1. 7. 2022
+
+
+ODCHYLKY PRO PROVOZ A OBSLUHU RYCHLOMĚRŮ NA SPECIÁLNÍCH HNACÍCH
+      VOZIDLECH S NORMÁLNÍM TÁHLOVÝM A NARÁŽECÍM ÚSTROJÍM
+
+401. K čl. 20 až 29:
+     Zápis na rychloměrový proužek založený v rychloměru se provádí vždy jen bezprostředně po jízdě
+     vozidla (např. SHV) jako vlak vlastním pohonem pojezdu. Termínem „strojvedoucí“ se rozumí i řidič SHV.
+402. K čl. 30 až 45:
+     Rychloměrový proužek se při beznehodovém provozu vozidla (SHV apod.) vyjímá z rychloměru jen při
+     potřebě nahradit jej novým svitkem (po začátku indikace „konec proužku“) a slouží jen jako objektivní
+     doklad o provozu vozidla a pro případ nehodové události. Na volný konec vyjmutého proužku se
+     poznamená datum jeho vyjmutí z rychloměru, typ a označení vozidla a číslo rychloměru. Byl-li použit
+     rychloměrový proužek s nesprávnou stupnicí, uvede se navíc poznámka: „Stupnice rychloměru 0 až
+     ... km.h-1“. Kontrola záznamů na rychloměrovém proužku se v době beznehodového provozu vozidla
+     provádí podle potřeby. Při vyjímání RP postupuje zaměstnanec, který proužek vyjímá, dle čl. 24 tohoto
+     předpisu. V případě nehodové události se však hned na místě postupuje podle ustanovení čl. 31 až 33.
+
+
+
+
+                                                  P3-1
+

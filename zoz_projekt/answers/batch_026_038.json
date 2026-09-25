@@ -1,0 +1,387 @@
+[
+  {
+    "n": 26,
+    "otazka": "Vlak vjíždí do stanice kolem vjezdového návěstidla s návěstí „Přivolávací návěst“. Na následujícím hlavním návěstidle je návěst dovolující jízdu. Jakou nejvyšší dovolenou rychlostí může jet strojvedoucí v úseku od námezníku k následujícímu hlavnímu návěstidlu (červeně označeno)?",
+    "obrazky": [
+      "img/q026_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 138 odst. (13) písm. a)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 23 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 138 odst. (1)"
+      }
+    ],
+    "odpoved": "Nejvýše 40 km/h – jízda podle rozhledových poměrů nařízená PN platí až k následujícímu hlavnímu návěstidlu, i když toto návěstidlo již jízdu dovoluje.",
+    "plne_zneni": "SŽ D1 čl. 138 odst. (1): Přivolávací návěst – přerušované bílé světlo […] strojvedoucímu ostatních vlaků • dovoluje jízdu kolem návěstidla, u kterého nelze rozsvítit návěsti dovolující jízdu vlaku • nařizuje jízdu podle rozhledových poměrů (viz odst. (6), (7) a (13) tohoto článku) • nařizuje jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše rychlostí 30 km/h: 1. pokud je návěstidlo označeno indikátorovou tabulkou s číslicí „3“ nebo 2. je-li v TJŘ u příslušné stanice značka „3>“.\n\nSŽ D1 čl. 138 odst. (13): Nařízená jízda podle rozhledových poměrů podle odst. (1) tohoto článku, platí od úrovně návěstidla s návěstí PN až: a) k následujícímu hlavnímu návěstidlu v obvodu dopravny nebo tam, kde hlavní návěstidlo není přímo u koleje k návěstidlu s návěstí Konec vlakové cesty; […] d) do místa zastavení před následujícím hlavním návěstidlem nebo návěstí Konec vlakové cesty.\n\nSŽ D1 čl. 23 odst. (2): Pokud je strojvedoucímu nařízena jízda podle rozhledových poměrů, musí pokračovat opatrně v další jízdě a kontrolovat rychlost s přihlédnutím k délce tratě, na kterou před sebou vidí […], aby byl schopen na volné viditelné části tratě zastavit před jakýmkoliv drážním vozidlem, návěstí Stůj nebo překážkou na trati […], přičemž však nesmí být překročena rychlost 40 km/h.\n\nSŽ D1 čl. 138 odst. (14): Je-li na vjezdovém (cestovém) návěstidle PN, jedná strojvedoucí vlaku za vjezdu do stanice jako u vlaku pravidelně zastavujícího a musí ve stanici s vlakem zastavit, pokud nebyl výpravčím vypraven jednou z možností výpravy vlaku podle tohoto předpisu (viz čl. 356).",
+    "distraktory": [
+      "Nejvýše 30 km/h – rychlost nařízená přivolávací návěstí v obvodu výhybek platí až k následujícímu hlavnímu návěstidlu, i když toto návěstidlo již jízdu dovoluje.",
+      "Nejvýše traťovou rychlostí – od námezníku se strojvedoucí řídí návěstí následujícího hlavního návěstidla, protože ta již jízdu vlaku dovoluje."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 27,
+    "otazka": "Jaký pokyn dává návěst přejezdníku?",
+    "obrazky": [
+      "img/q027_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 410 odst. (10)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 410 odst. (11)"
+      }
+    ],
+    "odpoved": "Informuje o správné činnosti PZZ a přikazuje oznámit výpravčímu, že na přejezdníku svítí přerušované bílé světlo, nebyl-li o tom již zpraven.",
+    "plne_zneni": "SŽ D1 čl. 410 odst. (10): Uzavřený přejezd – dvě žluté kruhové odrazky nebo dvě žlutá světla vedle sebe a nad nimi uprostřed přerušované bílé světlo tvořící rovnoramenný trojúhelník • informuje o správné činnosti PZZ nebo VZPK • přikazuje strojvedoucímu oznámit výpravčímu, že na přejezdníku svítí přerušované bílé světlo, nebyl-li již o této skutečnosti výpravčím zpraven ústně nebo telekomunikačním zařízením.\n\nSŽ D1 čl. 410 odst. (11): Výpravčí, kterému je ohlášeno, že na přejezdníku svítí přerušované bílé světlo, postupuje stejně jako při indikaci nouzového stavu PZS nebo VZPK; do odstranění nouzového stavu zpravuje ústně nebo telekomunikačním zařízením další strojvedoucí, že nemusí oznamovat, že na přejezdníku svítí přerušované bílé světlo.\n\nSŽ D1 čl. 410 odst. (9): Uzavřený přejezd – dvě žluté kruhové odrazky nebo dvě žlutá světla vedle sebe a nad nimi uprostřed bílé světlo tvořící rovnoramenný trojúhelník • informuje o správné činnosti PZZ nebo VZPK.",
+    "distraktory": [
+      "Informuje o správné činnosti PZZ a přikazuje jet k přejezdu se zvýšenou opatrností, nebyl-li strojvedoucí o poruše PZZ již zpraven.",
+      "Informuje o poruše PZZ a přikazuje jet přes přejezd nejvýše rychlostí 10 km/h a opakovaně dávat návěst Pozor od 250 m před přejezdem."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je bílé světlo přejezdníku vykresleno s paprsky (stejná grafika jako PN u otázky 26) = přerušované bílé světlo. Při stálém bílém světle by návěst Uzavřený přejezd podle čl. 410 odst. (9) pouze informovala o správné činnosti PZZ a žádný pokyn by nedávala."
+  },
+  {
+    "n": 28,
+    "otazka": "V modrém úseku mezi přejezdníkem a přejezdem vlak mimořádně zastaví. Jak pojede strojvedoucí k přejezdu?",
+    "obrazky": [
+      "img/q028_1.png"
+    ],
+    "tema": "Jízda vlaku",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 410 odst. (14)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 23 odst. (4)"
+      }
+    ],
+    "odpoved": "Se zvýšenou opatrností: od 250 m před přejezdem opakovaně dává návěst Pozor a v úseku alespoň 60 m před přejezdem jede nejvýše 10 km/h.",
+    "plne_zneni": "SŽ D1 čl. 410 odst. (14): U přejezdů s PZS nebo u centrálních přechodů s VZPK vybavených přejezdníky musí strojvedoucí jet se zvýšenou opatrností i v případě, že na kmenovém přejezdníku (opakovacím přejezdníku) byla návěst Uzavřený přejezd, ale vlak nebo PMD sníží rychlost v úseku mezi kmenovým přejezdníkem (opakovacím přejezdníkem) a přejezdem (centrálním přechodem s VZPK) na 20 km/h a méně nebo v tomto úseku zastaví.\n\nSŽ D1 čl. 23 odst. (4): Jízda se zvýšenou opatrností je takový způsob jízdy, při kterém musí strojvedoucí: a) od vzdálenosti alespoň 250 m před přejezdem […] dávat opakovaně návěst Pozor, dokud čelo vlaku (PMD, posunového dílu) nemine přejezd […] a zároveň b) v úseku alespoň 60 m před přejezdem […] až do okamžiku, kdy čelo vlaku […] mine přejezd […], jet strojvedoucí rychlostí nejvíce 10 km/h. […]\n\nSŽ D1 čl. 410 odst. (15): Pokud vlak nebo PMD sníží rychlost v úseku mezi kmenovým přejezdníkem a opakovacím přejezdníkem na 20 km/h a méně nebo v tomto úseku zastaví, musí strojvedoucí na opakovacím přejezdníku očekávat návěst Otevřený přejezd. Při další jízdě se řídí návěstí opakovacího přejezdníku.",
+    "distraktory": [
+      "Se zvýšenou opatrností: od 100 m před přejezdem opakovaně dává návěst Pozor a v úseku alespoň 60 m před přejezdem jede nejvýše 20 km/h.",
+      "Pokračuje k přejezdu bez omezení podle návěsti Uzavřený přejezd; návěst Pozor dává, jen zpozoruje-li osoby v blízkosti přejezdu."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 29,
+    "otazka": "Jakou značkou se vyznačují pravidelné vjezdy na obsazenou kolej v tabelárním jízdním řádu příslušného vlaku?",
+    "obrazky": [],
+    "tema": "Jízda vlaku",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 353 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 353 odst. (9)"
+      }
+    ],
+    "odpoved": "Značkou „o“ (kroužek) v TJŘ příslušného vlaku; význam značky musí být vysvětlen v poznámce pod TJŘ.",
+    "plne_zneni": "SŽ D1 čl. 353 odst. (4): O jízdě vlaku na obsazenou kolej musí být strojvedoucí vlaku vždy zpraven: a) na trati bez konvenčních návěstidel vydáním oprávnění k jízdě (MA) na obsazenou kolej v módu Podle rozhledu (OS) nebo b) na trati s konvenčními návěstidly návěstí Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů nebo c) TJŘ nebo d) písemným rozkazem. O pravidelném vjezdu na obsazenou kolej musí být strojvedoucí zpraven TJŘ, nelze-li vjezd vlaku na obsazenou kolej uskutečnit podle odst. (4), písm. a) nebo b) tohoto článku. Pravidelné vjezdy na obsazenou kolej se vyznačují v TJŘ příslušného vlaku značkou „o“ (kroužek). Význam značky musí být vysvětlen v poznámce pod TJŘ.\n\nSŽ D1 čl. 353 odst. (9): Vlak, který má v TJŘ vyznačen pravidelný vjezd na obsazenou kolej, může vjíždět i na volnou kolej.\n\nSŽ D1 čl. 353 odst. (10): V TJŘ může být vyznačen pravidelný vjezd na obsazenou kolej pouze se souhlasem ředitele gestorského útvaru tohoto předpisu. […] Pravidelný vjezd na obsazenou kolej musí být vyznačen v seznamu vlaků pro staniční zaměstnance (viz čl. 273).",
+    "distraktory": [
+      "Značkou „x“ (křížek) v TJŘ příslušného vlaku; význam značky musí být vysvětlen v poznámce pod TJŘ.",
+      "Značkou „B“ ve sloupci 2 TJŘ příslušného vlaku; význam značky je uveden v poznámce pod TJŘ."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 30,
+    "otazka": "Jakým způsobem musí být strojvedoucí zpraven o mimořádném vjezdu na obsazenou kolej?",
+    "obrazky": [
+      "img/q030_1.png"
+    ],
+    "tema": "Písemné rozkazy",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 353 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 353 odst. (12)"
+      },
+      {
+        "predpis": "SŽ D1/1",
+        "clanek": "rozkaz 56, pokyn 56.10"
+      }
+    ],
+    "odpoved": "Písemným rozkazem (rozkaz 56, pokyn 56.10), není-li vjezd dovolován návěstí Jízda podle rozhledových poměrů; výpravčí vjezd dovolí až po potvrzeném zpravení.",
+    "plne_zneni": "SŽ D1 čl. 353 odst. (4): O jízdě vlaku na obsazenou kolej musí být strojvedoucí vlaku vždy zpraven: a) na trati bez konvenčních návěstidel vydáním oprávnění k jízdě (MA) na obsazenou kolej v módu Podle rozhledu (OS) nebo b) na trati s konvenčními návěstidly návěstí Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů nebo c) TJŘ nebo d) písemným rozkazem. […]\n\nSŽ D1 čl. 353 odst. (12): Dovolit vjezd na obsazenou kolej může výpravčí pouze tehdy, má-li potvrzeno, že strojvedoucí je o mimořádném vjezdu na obsazenou kolej zpraven nebo strojvedoucího zpravil sám.\n\nSŽ D1 čl. 353 odst. (5): Vjezd na obsazenou kolej lze dovolit: a) […] vydáním oprávnění k jízdě (MA) na obsazenou kolej v módu Podle rozhledu (OS) nebo b) […] návěstí Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů nebo c) PN nebo d) jízdou kolem neobsluhovaného návěstidla. Je zakázáno dovolit vjezd vlaku na obsazenou kolej návěstí, která nenařizuje jízdu podle rozhledových poměrů.\n\nSŽ D1/1 rozkaz 56 – Mimořádný vjezd na obsazenou kolej, pokyn 56.10: Vjezd vlaku na obsazenou kolej / obsazené záhlaví, pokud vlak není zpraven: • značkou „o“ v TJŘ; • na trati s konvenčními návěstidly návěstí Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů; • na trati bez konvenčních návěstidel vydáním oprávnění k jízdě (MA) na obsazenou kolej v módu Podle rozhledu (OS). Informuje o mimořádném vjezdu vlaku na obsazenou kolej / obsazené záhlaví.",
+    "distraktory": [
+      "Telekomunikačním zařízením (rádiem) před vjezdem do stanice; výpravčí vjezd dovolí až po potvrzeném zpravení strojvedoucího.",
+      "Značkou „o“ v TJŘ u příslušné stanice; písemný rozkaz se vydává jen tehdy, je-li obsazené záhlaví stanice, nikoli dopravní kolej."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je vjezd na obsazenou kolej dovolován přivolávací návěstí (přerušované bílé + červené světlo); PN sice vjezd dovoluje [čl. 353 odst. (5) písm. c)], ale sama o obsazení koleje nezpravuje – zpravení proto musí být písemným rozkazem."
+  },
+  {
+    "n": 31,
+    "otazka": "Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+    "obrazky": [
+      "img/q031_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 362 odst. (6) písm. b)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 356 odst. (10)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 356 odst. (4)"
+      },
+      {
+        "predpis": "ČD OP O18 č. 36/2025",
+        "clanek": "list 1A.0, případ B1"
+      }
+    ],
+    "odpoved": "Vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu; po rozjezdu musí předpokládat návěst dovolující jízdu 40 km/h a tuto rychlost nesmí překročit.",
+    "plne_zneni": "SŽ D1 čl. 362 odst. (6): Ve stanicích, kde je dovolena výprava vlaků z dopravní koleje návěstí hlavního návěstidla, se dále postupuje podle těchto ustanovení: […] b) nevidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (a ani tuto skutečnost nezjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu. Strojvedoucí po uvedení vlaku do pohybu: 1. musí za odjezdu vlaku předpokládat, že návěstidlo, na které nevidí, dovoluje jízdu vlaku rychlostí 40 km/h (popř. PN) a tuto rychlost nesmí překročit. Jakmile strojvedoucí bezpečně zjistí, jakou návěstí je dovolena jízda vlaku, jedná podle této návěsti; […]\n\nSŽ D1 čl. 356 odst. (10): Strojvedoucí, který byl: a) vypraven výpravkou nebo b) vypraven písemným rozkazem nebo c) informován telekomunikačním zařízením o skutečnosti, že hlavní návěstidlo dovoluje jízdu nebo d) informován návěstním napodobovačem […] a nevidí na hlavní návěstidlo, které dovoluje jeho jízdu, nesmí překročit rychlost 40 km/h. Jakmile strojvedoucí bezpečně zjistí, jakou návěstí je dovolena jízda vlaku, jedná podle této návěsti.\n\nČD OP O18 č. 36/2025, list 1A.0 (B1 – strojvedoucí výchozího vlaku, nevidí na návěstidlo L1): Vlak musí být vypraven výpravčím jiným způsobem než návěstí hl. návěstidla (výpravka, písemný rozkaz) nebo informován telekomunikačním zařízením o skutečnosti, že hlavní návěstidlo dovoluje jízdu.",
+    "distraktory": [
+      "Vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu; po rozjezdu musí na návěstidle, na které nevidí, předpokládat návěst Stůj a před ním zastavit.",
+      "Uvede vlak do pohybu po úkonech dopravce i bez pokynu výpravčího a jede podle rozhledových poměrů nejvýše 30 km/h, dokud návěst bezpečně nezjistí."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 32,
+    "otazka": "Strojvedoucí vjel do stanice kolem vjezdového návěstidla s návěstí „Volno“ a zastavil s vlakem ve stanici tak, že nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+    "obrazky": [
+      "img/q032_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 362 odst. (6) písm. a)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 112 odst. (3)"
+      },
+      {
+        "predpis": "ČD OP O18 č. 36/2025",
+        "clanek": "list 1A.0, případ B2"
+      }
+    ],
+    "odpoved": "Uvede vlak do pohybu po úkonech dopravce i bez pokynu výpravčího – z návěsti Volno vjezdového návěstidla zjistil, že odjezdové návěstidlo dovoluje jízdu.",
+    "plne_zneni": "SŽ D1 čl. 362 odst. (6): Ve stanicích, kde je dovolena výprava vlaků z dopravní koleje návěstí hlavního návěstidla, se dále postupuje podle těchto ustanovení: a) vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (nebo tuto skutečnost zjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), uvede po provedení dopravcem předepsaných úkonů vlak do pohybu. […] c) v případě, že si strojvedoucí není jistý návěstí předchozího hlavního návěstidla […], vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu.\n\nSŽ D1 čl. 112 odst. (3): Volno – zelené světlo • dovoluje jízdu vlaku • na závislém hlavním návěstidle předvěstí dovolující návěst vyjádřenou jedním světlem na následujícím hlavním návěstidle.\n\nČD OP O18 č. 36/2025, list 1A.0 (B2 – strojvedoucí po zastavení vlaku ve stanici se závislými návěstidly): Vlak je vypraven návěstí dovolující jízdu odjezdového návěstidla (tato návěst je předvěstěna vjezdovým návěstidlem L).",
+    "distraktory": [
+      "Vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu; po rozjezdu nesmí překročit rychlost 40 km/h, dokud návěst návěstidla bezpečně nezjistí.",
+      "Uvede vlak do pohybu po úkonech dopravce i bez pokynu výpravčího, musí však na odjezdovém návěstidle očekávat návěst Stůj a před ním zastavit."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 33,
+    "otazka": "Vlak Os 5555 stojí mimo prostor pro výstup a nástup cestujících a je připraven k odjezdu ze stanice Pavlíkov. Může strojvedoucí po změně návěstního znaku odjezdového návěstidla s vlakem ze stanice odjet?",
+    "obrazky": [
+      "img/q033_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 361 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 364 odst. (4) písm. c)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 362 odst. (6) písm. a)"
+      },
+      {
+        "predpis": "ČD OP O18 č. 36/2025",
+        "clanek": "list 1A.0, případ A2"
+      }
+    ],
+    "odpoved": "Ano. Symbol výpravky platí jen pro vlaky stojící v prostoru pro výstup a nástup cestujících; tento vlak stojí mimo něj, a je proto vypraven návěstí odjezdového návěstidla.",
+    "plne_zneni": "SŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. Takto se označí dotčené stanice v TJŘ všech vlaků s přepravou cestujících včetně vlaků, které v této stanici pravidelně projíždějí, zastavují jen z dopravních důvodů nebo jedou v době výluky dopravní služby výpravčího. Ve stanicích, ve kterých není prostor pro výstup a nástup cestujících (nástupiště), se tato značka neuvádí.\n\nSŽ D1 čl. 364 odst. (4): Výpravčí vypravuje návěstí Odjezd: […] c) vlaky s přepravou cestujících ve stanicích, kde není dovolena výprava těchto vlaků návěstí hlavního návěstidla, pokud stojí v prostoru pro výstup a nástup cestujících; […]\n\nSŽ D1 čl. 362 odst. (6) písm. a): vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku […], uvede po provedení dopravcem předepsaných úkonů vlak do pohybu.\n\nČD OP O18 č. 36/2025, list 1A.0 (A2 – vlak s přepravou cestujících stojí mimo nástupiště, stanice označená v TJŘ): Vlak je vypraven návěstí „Volno“ odjezdového návěstidla.",
+    "distraktory": [
+      "Ne. Ve stanici označené symbolem výpravky musí být každý vlak s přepravou cestujících vypraven výpravkou, popř. písemným rozkazem, i když stojí mimo nástupiště.",
+      "Ano, ale až poté, co ohlásí výpravčímu, že stojí mimo prostor pro výstup a nástup cestujících; k odjezdovému návěstidlu pak nesmí překročit rychlost 40 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 34,
+    "otazka": "Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Strojvedoucí neodjistil centrálně ovládané dveře. Může strojvedoucí ze stanice odjet, pokud odjezdové návěstidlo je v poloze dovolující jízdu?",
+    "obrazky": [
+      "img/q034_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 361 odst. (3) a (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 364 odst. (4) písm. c)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 276"
+      }
+    ],
+    "odpoved": "Ne. Vlak s cestujícími stojí u nástupiště ve stanici se symbolem výpravky, proto musí být vypraven výpravkou; neodjištěné dveře jen ruší úkony obsluhy vlaku před odjezdem.",
+    "plne_zneni": "SŽ D1 čl. 361 odst. (3): Výprava vlaků s přepravou cestujících, které stojí (pravidelně nebo mimořádně) v prostoru pro výstup a nástup cestujících, je možná návěstí hlavního návěstidla při dodržení těchto dalších podmínek: a) ve stanici je možnost výpravy vlaků návěstí hlavního návěstidla ze všech kolejí, na kterých je možný výstup a nástup cestujících, a do všech směrů; b) stanice, v nichž je tento postup možný, stanoví příslušný náměstek generálního ředitele SŽ.\n\nSŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. Takto se označí dotčené stanice v TJŘ všech vlaků s přepravou cestujících včetně vlaků, které v této stanici pravidelně projíždějí, zastavují jen z dopravních důvodů nebo jedou v době výluky dopravní služby výpravčího. […]\n\nSŽ D1 čl. 364 odst. (4): Výpravčí vypravuje návěstí Odjezd: […] c) vlaky s přepravou cestujících ve stanicích, kde není dovolena výprava těchto vlaků návěstí hlavního návěstidla, pokud stojí v prostoru pro výstup a nástup cestujících; […]\n\nČD D2 čl. 276: Zastaví-li vlak s přepravou cestujících z jakýchkoliv příčin mimořádně v prostoru pro výstup a nástup cestujících (byť jen částí soupravy určené pro přepravu cestujících), smí pokračovat v další jízdě po pominutí příčiny zastavení při dodržení následujících podmínek: a) pokud jsou všechny nástupní dveře soupravy ovládány strojvedoucím vedoucího vozidla vlaku v systému CODS, TB S, SSOD nebo LAT a tento strojvedoucí během pobytu nástupní dveře neodjistil (neotevřel) nebo nezjistil ztrátu kontroly uzavření dveří, uvede vlak do pohybu; b) pokud nejsou všechny nástupní dveře soupravy ovládány v systému CODS, TB S, SSOD nebo LAT strojvedoucím vedoucího vozidla vlaku nebo je vlak veden v systému TB 5, musí být zachován postup před odjezdem vlaku s přepravou cestujících dle ustanovení článků 273 až 275 tohoto předpisu a postup dle příslušného systému ovládání nástupních dveří.\n\nČD D2 čl. 272: […] Ve stanici obsazené výpravčím smí strojvedoucí vedoucího vozidla vlaku zahájit činnosti dle následujících ustanovení pouze za podmínky, dostal-li od výpravčího pokyn k uvedení vlaku do pohybu, obdržel souhlas k posunu nebo má příslušné oprávnění k jízdě v oblasti ETCS úrovně 2 (L2).",
+    "distraktory": [
+      "Ano. Protože strojvedoucí neodjistil centrálně ovládané dveře, nejde o zastavení pro výstup a nástup a vlak je vypraven návěstí odjezdového návěstidla.",
+      "Ano, ale až poté, co ohlásí výpravčímu, že dveře nebyly odjištěny; k odjezdovému návěstidlu pak nesmí překročit rychlost 40 km/h."
+    ],
+    "jistota": "střední",
+    "poznamka": "Sporný bod: ČD D2 čl. 276 písm. a) u neodjištěných dveří v systému CODS říká, že strojvedoucí „uvede vlak do pohybu“ – to však řeší jen úkony dopravce (odpadá Souhlas k odjezdu), nikoli výpravu. Výpravu provádí výpravčí a SŽ D1 čl. 361 odst. (4) nařizuje uvádět symbol výpravky v TJŘ i u vlaků, které stanicí pravidelně projíždějí nebo zastavují jen z dopravních důvodů – u vlaku s cestujícími stojícího v prostoru pro výstup a nástup ji tedy nelze provést návěstí hlavního návěstidla. Pavel by měl ověřit, zda zkouškový klíč nepočítá s opačným výkladem (= distraktor „Ano, dveře nebyly odjištěny“)."
+  },
+  {
+    "n": 35,
+    "otazka": "Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Jedná se o vlak bez centrálního ovládaní dveří strojvedoucím. Vlak musí být ze stanice vypraven:",
+    "obrazky": [
+      "img/q035_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 361 odst. (3) a (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 364 odst. (4) písm. c)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 276 písm. b)"
+      },
+      {
+        "predpis": "ČD OP O18 č. 36/2025",
+        "clanek": "list 1A.0, případ A3"
+      }
+    ],
+    "odpoved": "Výpravkou, popř. písemným rozkazem – stanice má v TJŘ symbol výpravky a vlak s cestujícími stojí u nástupiště; navíc platí postup dopravce před odjezdem (Souhlas k odjezdu).",
+    "plne_zneni": "SŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. Takto se označí dotčené stanice v TJŘ všech vlaků s přepravou cestujících včetně vlaků, které v této stanici pravidelně projíždějí, zastavují jen z dopravních důvodů nebo jedou v době výluky dopravní služby výpravčího. […]\n\nSŽ D1 čl. 364 odst. (4): Výpravčí vypravuje návěstí Odjezd: […] c) vlaky s přepravou cestujících ve stanicích, kde není dovolena výprava těchto vlaků návěstí hlavního návěstidla, pokud stojí v prostoru pro výstup a nástup cestujících; […]\n\nSŽ D1 čl. 356 odst. (4): Výprava vlaku se uskutečňuje: a) oprávněním k jízdě (MA) nebo b) návěstí hlavního návěstidla dovolující jízdu vlaku nebo c) návěstí DNS stop značky dovolující jízdu vlaku nebo d) výpravkou nebo e) písemným rozkazem.\n\nČD D2 čl. 276 písm. b): pokud nejsou všechny nástupní dveře soupravy ovládány v systému CODS, TB S, SSOD nebo LAT strojvedoucím vedoucího vozidla vlaku nebo je vlak veden v systému TB 5, musí být zachován postup před odjezdem vlaku s přepravou cestujících dle ustanovení článků 273 až 275 tohoto předpisu a postup dle příslušného systému ovládání nástupních dveří.\n\nČD OP O18 č. 36/2025, list 1A.0 (A3 – vlak s přepravou cestujících mimořádně zastavil u nástupiště): Vlak musí být vypraven výpravčím výpravkou, popř. písemným rozkazem.",
+    "distraktory": [
+      "Návěstí odjezdového návěstidla dovolující jízdu – po mimořádném zastavení se vlak vypravuje stejně jako vlak projíždějící; postup dopravce před odjezdem platí.",
+      "Informací výpravčího telekomunikačním zařízením, že odjezdové návěstidlo dovoluje jízdu; po rozjezdu strojvedoucí nesmí překročit rychlost 40 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 36,
+    "otazka": "Vlak Sv 9999 je připraven k odjezdu ze stanice Pavlíkov. Vlak musí být ze stanice vypraven:",
+    "obrazky": [
+      "img/q036_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 362 odst. (2) písm. a) bod 1."
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 361 odst. (4)"
+      },
+      {
+        "predpis": "ČD OP O18 č. 36/2025",
+        "clanek": "list 1A.0, případ A4"
+      }
+    ],
+    "odpoved": "Návěstí odjezdového návěstidla dovolující jízdu – jde o vlak bez přepravy cestujících a v TJŘ není u stanice žádná značka (symbol výpravky).",
+    "plne_zneni": "SŽ D1 čl. 362 odst. (2): Výpravu vlaku návěstí hlavního návěstidla může výpravčí uskutečnit: a) u odjíždějícího vlaku jen z dopravní koleje, u které je: 1. Odjezdové, cestové nebo vložené návěstidlo platné jen pro jednu kolej. […]\n\nSŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. Takto se označí dotčené stanice v TJŘ všech vlaků s přepravou cestujících […].\n\nSŽ D1 čl. 362 odst. (6) písm. a): vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku […], uvede po provedení dopravcem předepsaných úkonů vlak do pohybu.\n\nČD OP O18 č. 36/2025, list 1A.0 (A4 – vlak bez přepravy cestujících stojí u nástupiště): Vlak je vypraven návěstí „Volno“ odjezdového návěstidla.",
+    "distraktory": [
+      "Výpravkou, popř. písemným rozkazem – vlak stojí v prostoru pro výstup a nástup cestujících, a proto jej nelze vypravit návěstí hlavního návěstidla.",
+      "Návěstí odjezdového návěstidla, ale až po ohlášení připravenosti k odjezdu výpravčímu; jinak musí být vypraven výpravkou."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 37,
+    "otazka": "Je-li strojvedoucímu přidělen pilot, musí být i on zpraven o obsahu písemného rozkazu?",
+    "obrazky": [],
+    "tema": "Písemné rozkazy",
+    "predpis": "ČD D2",
+    "zdroje": [
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 401"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 13"
+      }
+    ],
+    "odpoved": "Ano. Pilot (i strojvedoucí v přípravě nebo druhý strojvedoucí) musí být zpraven; zpravení potvrdí podpisem v rubrice „Podpis/příjmení strojvedoucího“ na prvopisu rozkazu.",
+    "plne_zneni": "ČD D2 čl. 401: Je-li strojvedoucímu přidělen pilot, strojvedoucí v přípravě nebo druhý strojvedoucí, musí být i on zpraven o obsahu písemného rozkazu. Zpravení potvrdí svým podpisem v rubrice „Podpis/příjmení strojvedoucího“ na prvopisu písemného rozkazu. Není-li to již možné, potvrdí zpravení svým podpisem pod, příp. vedle rubriky „Podpis/příjmení strojvedoucího“ na vydaném průpisu.\n\nČD D2 čl. 13: […] S vydaným SPO se musí strojvedoucí seznámit a potvrdit jeho seznámení ještě před uvedením vlaku, PMD nebo posunového dílu do pohybu. […] S vydaným SPO se musí seznámit i pilot, strojvedoucí v přípravě nebo druhý strojvedoucí.\n\nSŽ D1 čl. 35 odst. (3): Musí-li jet strojvedoucí výjimečně na trať, kterou nezná, musí mu být přidělen druhý strojvedoucí znalý traťových poměrů (dále také „pilot“), který před jízdou a během jízdy upozorňuje strojvedoucího na skutečnosti, potřebné pro řízení hnacího vozidla na pojížděné trati.",
+    "distraktory": [
+      "Ano. Pilota o obsahu písemného rozkazu vyrozumí strojvedoucí ústně, pilot však zpravení podpisem na písemném rozkazu nepotvrzuje.",
+      "Ne. Písemným rozkazem se zpravuje jen strojvedoucí vedoucího vozidla; pilot se vyrozumívá pouze o pokynech, které mají význam pro jeho konání."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 38,
+    "otazka": "Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí projíždějícího vlaku ve stanici Lhota. Odjezdové návěstidlo S1 není předvěstí dalšího hlavního návěstidla:",
+    "obrazky": [
+      "img/q038_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 112 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 112 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 126 odst. (9)"
+      }
+    ],
+    "odpoved": "Návěst Volno (zelené světlo) – Volno na vjezdovém návěstidle předvěstí dovolující návěst vyjádřenou jedním světlem a S1 už další návěstidlo nepředvěstí.",
+    "plne_zneni": "SŽ D1 čl. 112 odst. (3): Volno – zelené světlo • dovoluje jízdu vlaku • na závislém hlavním návěstidle předvěstí dovolující návěst vyjádřenou jedním světlem na následujícím hlavním návěstidle.\n\nSŽ D1 čl. 112 odst. (1): Návěsti dovolující jízdu vlaku vyjádřené jedním světlem: • dovolují strojvedoucímu jízdu vlaku • na závislých hlavních návěstidlech i předvěstí návěst následujícího hlavního návěstidla • u hlavních návěstidel přikazují strojvedoucímu jet nejvýše traťovou rychlostí. Výjimkou jsou odjezdová (cestová) návěstidla při odjezdu jiným než přímým směrem ve stanicích bez rychlostní návěstní soustavy.\n\nSŽ D1 čl. 112 odst. (2): Výstraha – žluté světlo • dovoluje jízdu vlaku • předvěstí návěst Stůj na následujícím hlavním návěstidle, umístěném nejméně na zábrzdnou vzdálenost.\n\nSŽ D1 čl. 126 odst. (2) a (9): Stanice bez rychlostní návěstní soustavy jsou označeny v TJŘ značkou „P“. […] Od úrovně odjezdového (cestového) návěstidla […] musí strojvedoucí jet podle návěstního znaku odjezdového (cestového) návěstidla […]. Pokud strojvedoucí odjíždí na návěst Volno (Výstraha) nesmí překročit rychlost 40 km/h, pokud odjíždí z hlavní koleje jiným než přímým směrem […].",
+    "distraktory": [
+      "Návěst Výstraha (žluté světlo) – Volno na vjezdovém návěstidle předvěstí na odjezdovém návěstidle dovolující návěst vyjádřenou jedním světlem.",
+      "Návěst Rychlost 40 km/h a volno – stanice je bez rychlostní návěstní soustavy, proto se odjezd jiným než přímým směrem návěstí dvěma světly."
+    ],
+    "jistota": "vysoká"
+  }
+]

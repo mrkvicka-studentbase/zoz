@@ -1,0 +1,1956 @@
+[
+ {
+  "n": 1201,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě řady 162/163 potřebuješ zavést bezpečný stav. Co uděláš jako první (bod 1)?",
+  "obrazky": [],
+  "tema": "Bezpečný stav",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "Bezpečný stav lokomotivy, bod 1, str. 2"
+   }
+  ],
+  "odpoved": "Závěrným klíčem vypnu vlakové topení, ovladačem sběračů stáhnu oba sběrače dolů, vypnu hlavní vypínač a lokomotivu uzemním ovladačem odpojovačů sběračů.",
+  "plne_zneni": "Závady v kostce 162/163 v2, Bezpečný stav lokomotivy:\n1 Vypni závěrným klíčem vlakové topení. Ovladačem sběračů stáhni oba sběrače dolů, vypni hlavní vypínač. Lokomotivu uzemni ovladačem odpojovačů sběračů.\n2 Pohledem do strojovny zkontroluj 0V na voltmetru filtru a svícení zelené kontrolky bezpečného stavu. Červené kontrolky musí být zhasnuté.\n3 Pohledem ze dveří ověř, že sběrače jsou opravdu staženy dolů.\n4 Lokomotiva nesmí být elektricky propojena s externím zdrojem vysokého napětí nebo s další lokomotivou !!!",
+  "distraktory": [
+   "Uzavřu kohoutky vzduchu ke sběračům, vyjmu spínač řízení z pultu a ruční zkratovač filtru K38 ve strojovně dám do polohy ZAP – zelené pole.",
+   "Vypnu hlavní vypínač, stáhnu oba sběrače, vypnu centrální zdroj a lokomotivní baterii a lokomotivu uzemním ručním zkratovačem K38."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1202,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Uzemnil jsi lokomotivu 162/163 ovladačem odpojovačů. Co zkontroluješ pohledem do strojovny (bod 2 bezpečného stavu)?",
+  "obrazky": [],
+  "tema": "Bezpečný stav",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "Bezpečný stav lokomotivy, body 2–3, str. 2"
+   }
+  ],
+  "odpoved": "0 V na voltmetru filtru a svícení zelené kontrolky bezpečného stavu; červené kontrolky musí být zhasnuté. Pohledem ze dveří ověřím, že sběrače jsou skutečně dole.",
+  "plne_zneni": "Závady v kostce 162/163 v2, Bezpečný stav lokomotivy:\n2 Pohledem do strojovny zkontroluj 0V na voltmetru filtru a svícení zelené kontrolky bezpečného stavu. Červené kontrolky musí být zhasnuté.\n3 Pohledem ze dveří ověř, že sběrače jsou opravdu staženy dolů.",
+  "distraktory": [
+   "Svícení dvou červených kontrolek odpojovačů a zhasnutí zelené kontrolky uzemňovače; pohledem ze dveří ověřím, že sběrače jsou dole.",
+   "0 V na voltmetru filtru a polohu ZAP ručního zkratovače K38 (zelené pole); pohledem ze dveří ověřím, že sběrače jsou dole."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1203,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Zaměstnanci mají pracovat na elektrickém zařízení ve strojovně lokomotivy 162/163, která stojí pod trakčním vedením. Co musíš udělat navíc oproti bodům 1–4 bezpečného stavu?",
+  "obrazky": [],
+  "tema": "Bezpečný stav",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "Bezpečný stav lokomotivy – Pro práci ve strojovně, body 5–7, str. 2"
+   }
+  ],
+  "odpoved": "Uzavřít kohoutky vzduchu ke sběračům, vyjmout a mít u sebe spínač řízení z pultu a ruční zkratovač filtru K38 ve strojovně dát do polohy ZAP – zelené pole.",
+  "plne_zneni": "Závady v kostce 162/163 v2, Bezpečný stav lokomotivy – Pro práci ve strojovně – po splnění bodů 1, 2, 3, 4 + další postup:\n4 Lokomotiva nesmí být elektricky propojena s externím zdrojem vysokého napětí nebo s další lokomotivou!!!\n5 Uzavři kohoutky vzduchu ke sběračům. Vyjmi a měj u sebe spínač řízení z pultu lokomotivy.\n6 Ruční zkratovač filtru K38 ve strojovně dej do polohy ZAP – zelené pole. Tím je znemožněno zapnutí HV.\n7 Nyní mohou zaměstnanci pracovat na elektrickém zařízení ve strojovně, ikdyž lokomotiva stojí pod trakčním vedením.",
+  "distraktory": [
+   "Vypnout centrální zdroj a lokomotivní baterii, vyjmout spínač řízení z pultu a zavřít kohoutek vzduchu do přístrojového rámu.",
+   "Vydat závěrný klíč topení, uzavřít kohoutky vzduchu ke sběračům a ruční zkratovač K38 ponechat v poloze VYP – páka směřuje dolů."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1204,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Co způsobí přestavení ručního zkratovače filtru K38 ve strojovně lokomotivy 162/163 do polohy ZAP (zelené pole)?",
+  "obrazky": [],
+  "tema": "Bezpečný stav",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "Bezpečný stav lokomotivy, bod 6, str. 2"
+   }
+  ],
+  "odpoved": "Je znemožněno zapnutí hlavního vypínače – po splnění bodů bezpečného stavu mohou zaměstnanci pracovat na elektrickém zařízení ve strojovně i pod trakčním vedením.",
+  "plne_zneni": "Závady v kostce 162/163 v2, Bezpečný stav lokomotivy:\n6 Ruční zkratovač filtru K38 ve strojovně dej do polohy ZAP – zelené pole. Tím je znemožněno zapnutí HV.\n7 Nyní mohou zaměstnanci pracovat na elektrickém zařízení ve strojovně, ikdyž lokomotiva stojí pod trakčním vedením.",
+  "distraktory": [
+   "Uzemní se sběrače a vybije se filtr – teprve poté lze bezpečně vydat závěrný klíč topení zaměstnanci s oprávněním.",
+   "Odpojí se lokomotivní baterie a centrální zdroj – teprve poté lze bezpečně projít strojovnou na opačné stanoviště."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1205,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Při oživování lokomotivy 162/163 nelze odzemnit. Jaké minimální napětí baterie a jaký tlak v přístrojové jímce musí být podle rychlé orientace splněny?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nelze odzemnit, body 1–3, str. 3"
+   }
+  ],
+  "odpoved": "Baterie alespoň 35 V (má-li 0 V, ověřit zapnutí odpojovačů ve skříni elektroniky dole) a v přístrojové jímce tlak alespoň 5 barů – ověřit na manometru ve strojovně.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Při oživování lokomotivy něco nejde – Nelze odzemnit: Musí být splněno. Vstupuješ-li do strojovny, zavři kohoutky ke sběračům!!! DODRŽUJ MPBP\n1 Baterie musí mít napětí alespoň 35V. Má – li 0V, ověř zapnutí odpojovačů ve skříni elektroniky dole.\n2 Zkontroluj zapnuté jističe.\n3 Pomocný kompresor – v přístrojové jímce musí být tlak alespoň 5 barů. Ověř tlak na manometru ve strojovně. Kapitola 1.Pomocný kompresor nepracuje",
+  "distraktory": [
+   "Baterie alespoň 35 V (má-li 0 V, ověřit odpojovače ve skříni elektroniky dole) a v přístrojové jímce tlak alespoň 4 bary – ověřit na manometru ve strojovně.",
+   "Baterie alespoň 35 V (má-li 0 V, zapnout deon F203) a v hlavním potrubí tlak alespoň 3,5 baru – ověřit na manometru na stanovišti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1206,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 nelze odzemnit. V jaké poloze musí být podle rychlé orientace přepínač režimu jízdy R-A-Z a ruční zkratovač K38?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nelze odzemnit, body 5–6, str. 3"
+   }
+  ],
+  "odpoved": "Přepínač R-A-Z dám do Ručně (nesmí být v Z); zkratovač K38 musí být v poloze „Vyp“ a nesmí svítit jeho zelená kontrolka.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Nelze odzemnit:\n5 Přepínač režimu jízdy R-A-Z, dej do Ručně. Kapitola 2. Nelze odzemnit a zapojit bod 1\n6 Zkontroluj polohu zkratovače K38 – nesmí svítit zelená kontrolka a musí být v poloze „Vyp“. Kapitola 2. Nelze odzemnit a zapojit.\n7 Zkontroluj, zda není zavřený kohoutek – vzduch do přístrojového rámu. Kapitola 2. Nelze odzemnit a zapojit\n8 Když stále nelze odzemnit a zapojit – ve strojovně nesvítí dvě červené kontrolky, 2. Nelze odzemnit a zapojit.",
+  "distraktory": [
+   "Přepínač R-A-Z dám do Automatiky; zkratovač K38 musí být v poloze ZAP – zelené pole a musí svítit jeho zelená kontrolka.",
+   "Přepínač R-A-Z dám do Z – zkoušení; zkratovač K38 musí být v poloze „Vyp“ a nesmí svítit jeho zelená kontrolka."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1207,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 je odzemněna a zapojena (svítí červené kontrolky odpojovačů), ale nelze zapnout HV. Které jističe zkontroluješ především a co uděláš s klapkovníkem?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nelze zapnout HV, body 11–12, str. 3"
+   }
+  ],
+  "odpoved": "Především jističe F104 a F106; zmáčknu tlačítko rušení ochran a zkontroluji, zda na klapkovníku není indikovaná porucha – nejde-li vymáčknout, zkusím to z druhého stanoviště.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Nelze zapnout HV: je odzemněno a zapojeno. Svítí červené kontrolky odpojovačů ve strojovně: Musí být splněno\n9 Baterie musí mít napětí alespoň 35V.\n10 Pomocný kompresor – v přístrojové jímce musí být tlak alespoň 5 barů. Ověř tlak na manometru ve strojovně. Kapitola 1.Pomocný kompresor nepracuje.\n11 Zkontroluj zapnuté jističe, především F104 a F106.\n12 Zmáčkni tlačítko rušení ochran a zkontroluj, zda na klapkovníku není indikovaná nějaká porucha. Nelze-li poruchu na klapkovníku vymáčknout, zkus to ze druhého stanoviště.",
+  "distraktory": [
+   "Především jističe F191 a deon F203; zmáčknu tlačítko rušení ochran a zkontroluji, zda na klapkovníku není indikovaná porucha – nejde-li vymáčknout, zkusím to z druhého stanoviště.",
+   "Především jističe F113 a F121; vybavím padáčkové relé K1 („Tatry“) na centrálním zdroji a zkontroluji, zda na klapkovníku není indikovaná porucha."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1208,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Při oživování lokomotivy 162/163 nesvítí Led signálu „N“ na regulátoru tahu E22. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nelze zapnout HV, body 18–19, str. 3"
+   },
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2, body 18–19, str. 14"
+   }
+  ],
+  "odpoved": "Vše vypnu, vypnu lokomotivní baterii, počkám minimálně 1 minutu a loko znovu (nespěchaje) uvádím do provozu; nesvítí-li signál N ani poté, je lokomotiva neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Nelze zapnout HV:\n18 Musí svítit Led signálu „N“ na E22. Pokud signál N nesvítí – vše vypni, vypni lokomotivní baterii. Počkej minimálně 1 minutu. Loko znovu uváděj do provozu, nespěchej přitom.\n19 Pokud ani teď nesvítí signál N na Edynu 22, lokomotiva je neschopná.\n20 Zkus při oživování zapnout HV z druhého stanoviště.",
+  "distraktory": [
+   "Vypnu jistič F191, přepnu přepínač CZ do jiné kombinace a F191 znovu zapnu; nesvítí-li signál N ani poté, je lokomotiva neschopná.",
+   "Vyměním mezi sebou karty ELC7 2055 a ELC7 2061 v E22 a šrouby nejprve zamáčknu, pak dotáhnu; nesvítí-li signál N ani poté, je lokomotiva neschopná."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1209,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 nefungují pomocné pohony: na kV na stanovišti NENÍ trolejové napětí, ale ve strojovně napětí na filtru JE. Co je příčinou?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nefungují pomocné pohony, bod 23, str. 4"
+   },
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1, body 1–4, str. 22"
+   }
+  ],
+  "odpoved": "Prasklá pojistka 2A napěťového relé a měření F21 na přístrojovém rámu – za dodržení MPBP ji vyměním za jinou z inventáře loko.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Nefungují pomocné pohony – Unipuls:\n22 Na obou stanovištích na pultě přepínač Nouzová jízda musí být ve velké 0 nikoliv v malé.\n23 Na kV na stanovišti NENÍ trolejové napětí, ve strojovně napětí na filtru JE: je prasklá pojistka 2A Napěťového relé a měření F21.\n24 Na kV na stanovišti JE trolejové napětí, ve strojovně napětí na filtru NENÍ: je prasklá pojistka 60A nabíjení filtru F05\n\nkap. 5.1: 3 Zkontroluj VN pojistku F21 (2A) na přístrojovém rámu. 4 Vyměň pojistku F21 za dodržení MPBP za jinou z inventáře loko. Po výměně pojistky pokračuj v práci bez omezení.",
+  "distraktory": [
+   "Prasklá pojistka 60A nabíjení filtru F05 na přístrojovém rámu vedle stykače K37 – za dodržení MPBP ji vyměním za jinou z inventáře loko.",
+   "Prasklá pojistka F07 100A Unipulsu (zezadu nahoře) – za dodržení MPBP ji vyměním za jinou z inventáře loko."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1210,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 jde do výkonu, ale nefungují kompresory, ventilátory a nenabíjí. Co je podle rychlé orientace příčinou?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Nefungují pomocné pohony, bod 25, str. 4"
+   }
+  ],
+  "odpoved": "Prasklá pojistka F07 100A Unipulsu; je-li dobrá, zkontroluji zdroje NK1 (kap. 3.1 Centrální zdroj nepracuje).",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Nefungují pomocné pohony – Unipuls:\n25 Lokomotiva jde do výkonu, ale nefungují kompresory, ventilátory a nenabíjí: je prasklá pojistka F07 100A Unipulsu F07 (100A). Je-li dobrá, zkontroluj zdroje NK1 3.1 Centrální zdroj nepracuje",
+  "distraktory": [
+   "Prasklá pojistka 2A napěťového relé a měření F21; je-li dobrá, zkontroluji zdroje NK1 (kap. 3.1 Centrální zdroj nepracuje).",
+   "Prasklá pojistka 60A nabíjení filtru F05; je-li dobrá, zkontroluji relé K117 na klapkovníku."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1211,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 nejde do tahu, buzení nefunguje vůbec. Jak podle rychlé orientace zajistíš nouzovou jízdu?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu, body 28–30, str. 4"
+   }
+  ],
+  "odpoved": "Směr do 0, zabrzdím přímočinnou brzdou, otevřu dveře elektroniky na st. 1 a zamáčknu tlačítko Nouzová jízda na E22; před odjezdem zadám směr – loko naběhne na plné buzení, proto pomalu odbrzďuji.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu:\n28 Nefunguje buzení lokomotivy vůbec, dej - Směr do 0 - Zabrzdi lokomotivu přímočinnou brzdou. - Otevři dveře elektroniky na st1., - Zamáčkni tlačítko Nouzová jízda na E22 /regulátoru tahu/ - Těsně před odjezdem vlaku – lokomotivy: - Zadej směr - Po ručním zadání výkonu Lokomotiva naběhne na plné buzení !!! Proto musí být zabrzděna. - Pomalu odbrzďuj a loko uveď do pohybu.\n29 Jízda je možná pouze do 60-ti km/h. Jinak zasahují ochrany.\n30 Po zamačknutí tlačítka Nouzová jízda buzení nefunguje = lokomotiva je neschopná.",
+  "distraktory": [
+   "Přepnu ovladač nouzové jízdy na pultě do malé 0 a po odbuzení TM zpět do velké 0; poté zadám směr, ručně zadám výkon a pomalu odbrzďuji.",
+   "Přepínač zkoušky buzení a kotev na noze pultu přepnu do ZB, zadám směr a ručně zadám výkon – loko naběhne na plné buzení, proto pomalu odbrzďuji."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1212,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 jedeš po zamáčknutí tlačítka Nouzová jízda na regulátoru tahu E22. Jaké omezení rychlosti platí?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu, bod 29, str. 4"
+   }
+  ],
+  "odpoved": "Jízda je možná pouze do 60 km/h, jinak zasahují ochrany.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu:\n29 Jízda je možná pouze do 60-ti km/h. Jinak zasahují ochrany.\n30 Po zamačknutí tlačítka Nouzová jízda buzení nefunguje = lokomotiva je neschopná.",
+  "distraktory": [
+   "Jízda je možná pouze do 100 km/h, jinak zasahují ochrany.",
+   "Jízda je možná pouze do 30 km/h, jinak zasahují ochrany."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1213,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 jde do tahu, ale jen malým konstantním buzením. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Lokomotiva jde do tahu, ale jen malým konstantním buzením, bod 31, str. 4"
+   }
+  ],
+  "odpoved": "Přepnu ovladač nouzové jízdy na pultě do malé 0 a po odbuzení TM zase zpět do velké 0.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Lokomotiva jde do tahu, ale jen malým konstantním buzením.\n31 Přepni ovladač nouzové jízdy na pultě do malé 0 a po odbuzení TM zase zpět do velké 0.",
+  "distraktory": [
+   "Zamáčknu tlačítko Nouzová jízda na regulátoru tahu E22 ve skříni elektroniky na st. 1 a znovu zadám směr.",
+   "Přepínač zkoušky buzení a kotev na noze pultu přepnu do ZK a po odbuzení TM zase zpět."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1214,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 nejde do tahu. Které dva přepínače na pultě a na noze pultu zkontroluješ podle rychlé orientace nejdříve?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu, body 26–27, str. 4"
+   }
+  ],
+  "odpoved": "Na obou stanovištích přepínač Nouzová jízda musí být ve velké 0 (ne v malé) a přepínač pro zkoušku buzení a kotev na noze pultu nesmí být v poloze ZB nebo ZK.",
+  "plne_zneni": "Závady v kostce 162/163 v2, RYCHLÁ ORIENTACE – Lokomotiva nejde do tahu:\n26 Na obou stanovištích na pultě přepínač Nouzová jízda musí být ve velké 0 nikoliv v malé.\n27 Ověř stav přepínače pro zkoušku buzení a zkoušku kotev /na noze pultu/. Přepínač nesmí být v poloze ZB nebo ZK.",
+  "distraktory": [
+   "Na obou stanovištích přepínač Nouzová jízda musí být v malé 0 a přepínač režimu jízdy R-A-Z na noze pultu musí být v Ručně.",
+   "Přepínač režimu jízdy R-A-Z nesmí být v poloze Z a ovladač PM1/PM2 na noze pultu musí být v základní poloze."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1215,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 není slyšet rozběh pomocného kompresoru a baterie ukazuje 0 V. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 1 Pomocný kompresor nepracuje, body 1–2, str. 5"
+   }
+  ],
+  "odpoved": "Zapnu ovladačem baterii a jistič baterie – deon; ověřím také zapnutí odpojovačů baterie ve skříni elektroniky dole (centrální zdroj přitom nezapínám).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 1. Pomocný kompresor nepracuje – Není slyšet rozběh kompresorku:\n1 Zapni spínač řízení. Nezapínej centrální zdroj. Zapni pomocný kompresor.\n2 Jaké je napětí baterie? Je – li 0V – zapni ovladačem baterii a jistič baterie - deon. Ověř také zapnutí odpojovačů baterie ve skříni elektroniky dole.\nZavři kohoutky ke sběračům, DODRŽUJ MPBP\n3 Napětí baterie dostatečné 35 V a více. | Je-li pod 35 V nepůjde zprovoznit elektricky.",
+  "distraktory": [
+   "Zapnu centrální zdroj ovladačem na rozvaděči a deon F203; ověřím také zapnutí odpojovačů baterie ve skříni elektroniky dole.",
+   "Ručně zmáčknu stykač K131 pomocného kompresoru v releové skříni a zkontroluji pojistku F 204 40A; centrální zdroj nezapínám."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1216,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Pomocný kompresor 162/163 nepracuje, baterie má přes 35 V a nesvítí kontrolka pomocného kompresoru nad pultem. Co zkontroluješ a jak kompresor rozběhneš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 1 Pomocný kompresor nepracuje, body 4–8, str. 5"
+   }
+  ],
+  "odpoved": "Jistič F121 pomocného kompresoru a pojistku F 204 40A v releové skříni (náhradní nejspíš v šatníku na st. 2); pak ručně zmáčknu stykač K131 v releové skříni a občas kontroluji tlak v přístrojové jímce.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 1. Pomocný kompresor nepracuje (levý sloupec – napětí baterie 35 V a více):\n4 Nesvítí kontrolka pomocného kompresoru nad pultem.\n5 Zkontroluj jistič F121 pomocného kompresoru.\n6 Zkontroluj pojistku F 204 40A v releové skříni, případně ji vyměň. Náhradní bude nejspíše v šatníku na st. 2.\n7 Ručně zmačkni stykač K131 pomocného kompresoru v releové skříni viz obrázek výše. Občas kontroluj tlak v přístrojové jímce.\n8 Po získání potřebného vzduchu pokračuj v oživování loko bez omezení.",
+  "distraktory": [
+   "Jistič F113 a pojistku F21 2A na přístrojovém rámu; pak ručně zmáčknu stykač K116 v releové skříni a občas kontroluji tlak v přístrojové jímce.",
+   "Jistič F104 a pojistku F 204 40A v releové skříni (náhradní v šatníku na st. 2); pak ručně sepnu relé K141 a občas kontroluji tlak v hlavním potrubí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1217,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 je napětí baterie pod 35 V a pomocný kompresor nepracuje (stykač K131 kmitá). Co to znamená a jak získáš vzduch?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 1 Pomocný kompresor nepracuje, pravý sloupec, body 3–8, str. 5"
+   }
+  ],
+  "odpoved": "Elektricky loko nezprovozním; vzduch do napájecího potrubí pro ovládání přístrojů a zvednutí sběračů získám z cizího zdroje (jiná loko, stojan) – není-li to možné, je loko neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 1. Pomocný kompresor nepracuje (pravý sloupec):\n3 Je-li pod 35 V nepůjde zprovoznit elektricky.\n4 Stykač K131 kmitá.\n5 Je nezbytné získat vzduch do napájecího potrubí pro ovládání přístrojů a zvednutí sběračů.\n6 Použij vzduch z cizího zdroje, např. z jiné loko, ze stojanu..\n8 Pokud není možnost získání vzduchu, loko je neschopná.",
+  "distraktory": [
+   "Ručně zmáčknu stykač K131 pomocného kompresoru v releové skříni a průběžně kontroluji tlak v přístrojové jímce – není-li to možné, je loko neschopná.",
+   "Vyměním pojistku F 204 40A za náhradní ze šatníku na st. 2 a kompresor spustím jističem F121 – není-li to možné, je loko neschopná."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1218,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 nelze odzemnit a zapojit – necvakají západky dveří, svítí zelená kontrolka uzemňovače. Co uděláš s přepínačem režimu jízdy R-A-Z?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 2 Nelze odzemnit a zapojit, body 1–2, str. 6"
+   }
+  ],
+  "odpoved": "Nesmí být v poloze Z; procvakám jej ve všech polohách včetně Z – zkoušení, aby se kontakty rozpojily, a až pak dám do A nebo R. Dále zkontroluji jistič F113 a baterii min. 35 V.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 2. Nelze odzemnit a zapojit – Necvakají západky dveří, není slyšet přestavení odpojovačů a zkratovače. Nesvítí červené kontrolky odpojovačů, svítí zelená kontrolka uzemňovače.\n1 Přepínač režimu jízdy R-A-Z, nesmí být v poloze Z. Musíš jej procvakat ve všech polohách, i v Z – zkoušení, aby se kontakty rozpojily!!! Až pak dej do A nebo R.\n2 Není nahozený jistič F113, baterie musí mít alespoň 35V.",
+  "distraktory": [
+   "Dám jej do polohy Z – zkoušení a ponechám tam, dokud se lokomotiva neodzemní; pak přepnu do A nebo R. Dále zkontroluji jistič F113 a baterii min. 35 V.",
+   "Ponechám jej v poloze A a několikrát vypnu a zapnu řízení na obou stanovištích, aby se kontakty rozpojily. Dále zkontroluji jistič F191 a baterii min. 35 V."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1219,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Za jízdy lokomotivy 162/163 vypadl HV po zásahu ROF/TOF a nelze odzemnit. Jak postupuješ a jak dlouho musíš vyčkat?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 2 Nelze odzemnit a zapojit, pravý sloupec „Za jízdy lokomotivy s výpadkem HV“, bod 3, str. 6"
+   }
+  ],
+  "odpoved": "Zastavím na vhodném místě, lokomotivu uzemním a při zásahu ROF – TOF vyčkám minimálně 30 sekund, až potom odzemním – ROF potřebuje čas pro vybití.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 2. Nelze odzemnit a zapojit – Za jízdy lokomotivy s výpadkem HV – zastav na vhodném místě.\n3 Lokomotivu uzemni. Při zásahu ROF – TOF = minimálně 30 sekund vyčkej!! Až potom odzemni!! ROF potřebuje čas pro vybití.\nPokud po výpadku napětí nelze odzemnit.\n4 Zavři kohoutky ke sběračům, DODRŽUJ MPBP",
+  "distraktory": [
+   "Zastavím na vhodném místě, lokomotivu uzemním a při zásahu ROF – TOF vyčkám minimálně 1 minutu s vypnutou baterií, až potom odzemním.",
+   "Zastavím na vhodném místě, lokomotivu uzemním a při zásahu ROF – TOF vyčkám minimálně 20 sekund, až potom odzemním – ROF potřebuje čas pro vybití."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1220,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 nelze odzemnit a nad ručním zkratovacím stykačem K38 svítí zelená kontrolka. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 2 Nelze odzemnit a zapojit, bod 8, str. 6"
+   }
+  ],
+  "odpoved": "Přepojím uzemňovač K38 do polohy VYP – páka směřuje dolů – kontrolka zhasne; při vadných kontaktech páku několikrát přestavím (žlutý aretační kolík vytáhnout a nakonec zajistit kolíčkem ve výřezu).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 2. Nelze odzemnit a zapojit:\n8 Ruční zkratovací stykač K38 svítí-li zelená kontrolka nad K38, přepoj uzemňovač do polohy VYP – páka směřuje dolů – kontrolka zhasne. Vadné kontakty na K38 – zkus několikrát přestavit páku uzemňovače K38. Aretační žlutý kolík se musí vytáhnout a nakonec zajistit kolíčkem ve výřezu.",
+  "distraktory": [
+   "Přepojím uzemňovač K38 do polohy ZAP – zelené pole, tím se rozpojí kontakty; při vadných kontaktech páku několikrát přestavím a zajistím žlutým aretačním kolíkem.",
+   "Zkontroluji přepínač S 169 v releové skříni (musí být v poloze J – jízda) a dotáhnu konektory na HV; kontrolka nad K38 zhasne sama po odzemnění."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1221,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 nelze odzemnit a zapojit a máš podezření na dveřní koncový spínač nebo relé K141. Jak to ověříš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 2 Nelze odzemnit a zapojit, body 12–14, str. 7"
+   }
+  ],
+  "odpoved": "Při zavřených dveřích st. 1 otevřu dveře do strojovny na st. 2, ručně procvakám dveřní koncový spínač a poslouchám, zda v releové skříni spíná relé K141; opakuji i z druhého stanoviště.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 2. Nelze odzemnit a zapojit:\n12 Při zavřených dveřích stanoviště 1 otevři dveře do strojovny na st.2 a ručně procvakej dveřní koncový spínač. Přitom poslouchej, zda spíná relé K141 v releové skříni. Postup opakuj i z druhého stanoviště.\n13 Pokud nelze, relé K141 vyzkoušej ve zkušební patici v releové skříni. Viz kapitola 9. Postup zkoušení relé\n14 Vadné relé K141 – vyměň za jiné z inventáře loko, případně za relé K135.\n15 Vadný EP ventil na uzemňovači Q05.\n16 Lokomotiva je neschopná",
+  "distraktory": [
+   "Při zavřených dveřích st. 1 otevřu dveře do strojovny na st. 2, ručně procvakám dveřní koncový spínač a poslouchám, zda v releové skříni spíná relé K135; opakuji i z druhého stanoviště.",
+   "Relé K141 zajistím aretační páčkou a zkusím odzemnit z obou stanovišť; pokud to nejde, je vadný EP ventil na uzemňovači Q05 a loko je neschopná."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1222,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Za jízdy 162/163 nelze po výpadku HV odzemnit z původního stanoviště, ale z opačného stanoviště se loko podaří oživit. Jak pokračuješ?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 2 Nelze odzemnit a zapojit, pravý sloupec „Funguje? – Ano“, body 11–16, str. 7"
+   }
+  ],
+  "odpoved": "Zapnu odpojovače a HV, loko zajistím průběžnou brzdou, vyjmu klíč řízení a přejdu venkem na stanoviště, ze kterého pojedu; tam zapnu řízení (HV zůstal nahozený) a zdvihnu sběrače. Po každém vypnutí HV postup opakuji.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 2. Nelze odzemnit a zapojit – Za jízdy lokomotivy s výpadkem HV: Vypni řízení a zkus oživit loko z opačného stanoviště a zde opakovaně zapnout a vypnout řízení. Funguje?\nAno: Zapni odpojovače a HV, loko zajisti průběžnou brzdou vyjmi klíč řízení a přejdi venkem na opačné stanoviště, ze kterého pojedeš. Zde zapni řízení, HV zůstal nahozený, a zdvihni sběrače. Po každém vypnutí HV postup opakuj.\nNe: Vrať se na původní stanoviště a zkus odzemnit a zapojit. Pokud nefunguje, loko je neschopná",
+  "distraktory": [
+   "Vrátím se na původní stanoviště a zkusím odzemnit a zapojit; pokud to nejde, je loko neschopná.",
+   "Zapnu odpojovače a HV, loko zajistím ruční brzdou a přejdu strojovnou na stanoviště, ze kterého pojedu; tam vypnu a znovu zapnu řízení a HV znovu zapnu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1223,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 svítí na diagnostice nad čelním oknem kontrolka 115 V a nelze zapnout HV. O jakou závadu jde a co zkontroluješ nejdříve?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.1 Centrální zdroj nepracuje, body 1–2, str. 8"
+   }
+  ],
+  "odpoved": "Nepracuje centrální zdroj (CZ): ověřím napětí baterie min. 35 V, zapnutý spínač CZ na rozvaděči a jističe – především F191 a velký jistič (deon) F203.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.1 Centrální zdroj nepracuje – Na diagnostice nad čelním oknem svítí kontrolka 115 V. Nelze zapnout HV. Za jízdy odpadne ventil VZ /u LS 90 a LS06 ventil drží/, vypadne HV.\n1 Ověř napětí baterie – min. 35 V.\n2 Zkontroluj zapnutý spínač CZ na rozvaděči, zapnuté jističe, především F191 a velký jistič – deon F203. Vypnutý nebo „natržený“ deon zapni. Novější typ Deonu viz obrázek, je po vypnutí natržený. Musí se až dolů natáhnout a pak nahoru nahodit. Červené tlačítko je pro záměrné vypnutí nebo testování.",
+  "distraktory": [
+   "Porucha zdrojů NK-1: ověřím jistič F191, pojistku F4 na vaně zdroje zezadu a indikaci na Edynu 22.",
+   "Nefunguje primár unipulsu: ověřím pojistky F21, F05 a F07 a jistič F102."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1224,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Kde se na lokomotivě 162/163 nachází centrální zdroj (CZ) a co na něm musí svítit, resp. co na něm nesmí být?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.1 Centrální zdroj nepracuje, bod 3, str. 8"
+   }
+  ],
+  "odpoved": "Ve strojovně za stanovištěm 1; nesmí být zapadlý padáček (bývá červený) na relé K1 (Tatry) a musí svítit 2 led diody na vaně stabilizátoru a 1 led dioda na střídači CZ (2 vany jsou záložní).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.1 Centrální zdroj nepracuje:\n3 Ověř stav „Centrálního zdroje (CZ)“ ve strojovně za stanovištěm 1. Nesmí být zapadlý padáček – bývá červený - na relé K1 na CZ (Tatry) – na obrázku je po zásahu zapadlý, ovšem červený není. Musí svítit 2 led diody na vaně stabilizátoru, 1 led dioda na střídači CZ (2 vany jsou záložní)",
+  "distraktory": [
+   "Ve skříni elektroniky na st. 1; musí svítit celkem 6 led diod na dvou zapojených vanách (třetí vana je záložní) a nesmí být vypnutý jistič F191.",
+   "Ve strojovně za stanovištěm 2; musí svítit 2 led diody na střídači a 1 led dioda na stabilizátoru a padáček relé K1 (Tatry) musí být zapadlý."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1225,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na centrálním zdroji lokomotivy 162/163 nesvítí led diody správně a chceš přepnout přepínač kombinací van CZ. Co musíš vždy udělat před přepnutím a co se přitom stane?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.1 Centrální zdroj nepracuje, body 5 a 10 (sloupec NE), str. 8–9"
+   },
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.2, bod 2, str. 10"
+   }
+  ],
+  "odpoved": "Vypnout vypínač centrálního zdroje na rozvaděči pod jističi nebo deon (velký jistič) F203 na st. 1; uteče přitom vzduch z hlavního potrubí – dát Závěr BSE.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.1 Centrální zdroj nepracuje:\n5 Vypni vypínač centrálního zdroje na rozvaděči pod jističi nebo deon (velký jistič) F203 na st.1. Uteče také vzduch z hlavního potrubí. Dej Závěr BSE.\n6 (NE) Přepni přepínačem do jiné polohy ze čtyř kombinací. […]\n10 (NE) Když led diody nesvítí, postup opakuj do vyčerpání zbylých kombinací CZ. Vždy s vypnutým vypínačem centrálního zdroje nebo deonem F203 !!!\n\n3.2, bod 2: Při přepínání van musí být vždy vypnutý přednostně Vypínač CZ nebo vypnutý deon F203. Pozn. Na loko bez LS90 nebo LS 06 se vypustí vzduch z hlavního potrubí.",
+  "distraktory": [
+   "Vypnout jistič F191 ve skříni elektroniky na st. 1; uteče přitom vzduch z přístrojové jímky – zapnout pomocný kompresor.",
+   "Vypnout lokomotivní baterii a počkat minimálně 1 minutu; uteče přitom vzduch z hlavního potrubí – dát Závěr BSE."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1226,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Přepínač kombinací van centrálního zdroje na lokomotivě 162/163 – co znamenají jeho polohy 1 až 4 a kdy je lokomotiva neschopná?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.1 Centrální zdroj nepracuje, sloupec NE, body 6–11, str. 9"
+   }
+  ],
+  "odpoved": "V poloze 1 běží dvě vany CZ, v poloze 2 druhé dvě, v polohách 3 a 4 zbylé kombinace van; po vyčerpání všech 4 kombinací (vždy s vypnutým vypínačem CZ nebo deonem F203) je loko neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.1 Centrální zdroj nepracuje (sloupec NE):\n6 Přepni přepínačem do jiné polohy ze čtyř kombinací. V poloze „1“ běží dvě vany v CZ; v poloze „2“ druhé dvě. V poloze „3“ a „4“ běží zbylé kombinace van CZ.\n7 Na CZ zmáčkni tlačítko padáčkového relé K1 – lidově vybav „Tatry“.\n8 Zapni vypínač centrálního zdroje na rozvaděči pod jističi příp. deon (velký jistič) F203 na st.1\n9 Svítí 2 led diody stabilizátoru a 1 led dioda na střídači. Pokračuj v oživování loko.\n10 Když led diody nesvítí, postup opakuj do vyčerpání zbylých kombinací CZ. Vždy s vypnutým vypínačem centrálního zdroje nebo deonem F203 !!!\n11 Po vyčerpání přepnutí všech 4 možných kombinací na centrálním zdroji je loko neschopná.\n12 Zapiš vše do aplikace SH SAP. Ze které polohy, a také, do které jsi přepínač kombinací přepnul, den, čas a své SAP číslo.",
+  "distraktory": [
+   "Polohy 1 a 2 přepínají vany stabilizátoru, polohy 3 a 4 vany střídače; loko je neschopná až po neúspěšné výměně pojistky F4 na vaně zdroje.",
+   "V každé poloze běží jedna ze čtyř van CZ; loko je neschopná, když led diody nesvítí ani po přepnutí do polohy 2 a vybavení „Tater“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1227,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na lokomotivě 162/163 ve skříni elektroniky nesvítí žádné zdroje NK-1 (nesvítí celá pravá část skříně). Kde je podle Závad v kostce problém?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.2 Porucha zdrojů NK – 1, bod 2, str. 10"
+   }
+  ],
+  "odpoved": "V přepínači na centrálním zdroji ve strojovně, i když ledky na CZ mohou svítit – musím přepnout CZ do jiné kombinace (vždy s vypnutým vypínačem CZ nebo deonem F203), viz kap. 3.1.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.2 Porucha zdrojů NK – 1:\n1 Zkontroluj zapnuté jističe, především F191, velký deon F 203 a zapnutý centální zdroj CZ.\n2 Otevři skříň elektroniky. Když nesvítí žádné zdroje, tedy úplně celá pravá část skříně elektroniky, problém je v přepínači na centrálním zdroji ve strojovně, i když ledky na CZ mohou svítit. Musíš přepnout CZ do jiné kombinace. Pokračuj viz. Kapitola 3.1 Centrální zdroj nepracuje. Při přepínání van musí být vždy vypnutý přednostně Vypínač CZ nebo vypnutý deon F203. Pozn. Na loko bez LS90 nebo LS 06 se vypustí vzduch z hlavního potrubí.",
+  "distraktory": [
+   "V pojistce F4 (3,15A nebo 4A) na vaně zdroje zezadu – vyměním ji za náhradní ze záložní vany s vypnutým jističem F191.",
+   "V jističi F191 – několikrát ho vypnu a zapnu, zkontroluji deon F203 a přepojím konektory X91 a X92 do záložní vany."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1228,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Kolik led diod musí svítit na vanách zdrojů NK-1 ve skříni elektroniky lokomotivy 162/163 a co tyto zdroje napájejí?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.2 Porucha zdrojů NK – 1, bod 3, str. 10"
+   }
+  ],
+  "odpoved": "Celkem 6 led diod na dvou funkčních zapojených vanách – jedna napájí unipuls, druhá regulátor tahu; třetí vana je záložní.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.2 Porucha zdrojů NK – 1:\n3 Ve skříni elektroniky na st.1 zkontroluj, zda na vanách NK-1 zdrojů svítí kontrolní Led diody. - Musí svítit celkem 6 led diod na dvou funkčních vanách zapojených zdrojů – jedna napájí unipuls, druhá regulátor tahu. Třetí je záložní. Pokud nesvítí ve skříni elektroniky žádná led zdrojů NK1 přepni přepínač CZ do jiné polohy, ikdyž na CZ ve strojovně správně svítí 2 Led diody na stabilizátoru a jedna Led dioda na střídači.",
+  "distraktory": [
+   "Celkem 4 led diody na kartách EAR 5 – napájejí ventilátory 1 a 2 a kompresory 1 a 2.",
+   "2 led diody na vaně stabilizátoru a 1 led dioda na střídači – jedna vana napájí unipuls, druhá regulátor tahu, dvě jsou záložní."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1229,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí všech 6 led na zdrojích NK-1, ale po zapnutí indikace levým horním tlačítkem na Edynu 22 se diagnostika nerozsvítí. Co je příčinou a co musíš udělat před výměnou?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.2 Porucha zdrojů NK – 1, sloupec ANO, body 6–12, str. 10–11"
+   }
+  ],
+  "odpoved": "Vadná pojistka F4 (3,15A nebo 4A) na vaně zdroje zezadu (na kraji nad velkým konektorem); před výměnou vypnout jistič F191, po výměně F191 zapnout a výměnu zapsat do SH SAP.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.2 Porucha zdrojů NK – 1 (ANO – Led na čele zdrojů svítí):\n6 Zapni indikaci stavu levým horním tlačítkem na Edynu 22. Musí se rozsvítit indikační diody na diagnostice E22\n7 Na Edynu 22 diagnostika nesvítí – je vadná pojistka F4 (3,15A nebo 4A) na vaně zdroje zezadu.\n8 Vypni jistič F191 !!!\n9 Vadnou pojistku vyměň za náhradní z výzbroje loko nebo ze záložního zdroje /3-tí vany/ – dbej na stejnou hodnotu.\n10 Ve skříni elektroniky odšroubuj na rámu 2 upevňovací šrouby a vvtoč ven pravou část s regulátory a NK-1 zdroji. F4 je na vaně zdroje zezadu – na kraji nad velkým konektorem.\n11 Jistič F191 zapni.\n12 Výměnu pojistky vždy zapiš do aplikace SH SAP.",
+  "distraktory": [
+   "Vadná pojistka F 204 40A v releové skříni; před výměnou vypnout deon F203, po výměně F203 zapnout a výměnu zapsat do SH SAP.",
+   "Vadná pojistka F07 100A na Unipulsu zezadu nahoře; před výměnou vypnout centrální zdroj, po výměně CZ zapnout a výměnu zapsat do SH SAP."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1230,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 ani po výměně pojistky stále nesvítí všechny led na zdrojích NK-1 (resp. signalizace na Edynu 22 / kartách ELC7). Jak využiješ záložní vanu?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 3.2 Porucha zdrojů NK – 1, body 13–17, str. 11"
+   }
+  ],
+  "odpoved": "Vypnu jistič F191, vytočím pravou část skříně elektroniky, v zadní části vadné vany vyšroubuji konektory X91 a X92 (malý a velký) a přepojím je do záložní vany; pak F191 zapnu a ověřím deon F203 a ovladač CZ.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 3.2 Porucha zdrojů NK – 1:\n13 Stále nesvítí všechny led diody na NK zdrojích, signalizace na regulátoru tahu Edyn 22, nebo Led diody na kartách ELC7.\n14 Vypni jistič F191 !!!\n15 Ve skříni elektroniky odšroubuj na rámu 2 upevňovací šrouby a vvtoč ven pravou část s regulátory a NK-1 zdroji. V zadní části vadné vany vyšroubuj konektory 2 ks X91 a X92 – malý a velký, a oba je přepoj do vany, která byla jako záložní. Konektory dotáhni, rám zasuň zpět do skříně a upevni šrouby.\n16 Jistič F191 zapni, ověř také zapnutí deonu F203 a ovladače centrálního zdroje.\n17 Po obnovení funkce pokračuj v práci na loko bez omezení. V opačném případě je loko neschopná.",
+  "distraktory": [
+   "Vypnu deon F203, vyjmu vadnou vanu a na její místo zasunu záložní vanu; pak F203 zapnu a přepnu CZ do jiné kombinace.",
+   "Vypnu jistič F191, vyměním mezi sebou karty ELC7 2055 a ELC7 2061 a šrouby nejprve zamáčknu, pak dotáhnu; pak F191 zapnu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1231,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 je odzemněna, nesvítí bílé kontrolky žaluzií v chodbičce a Led 13 na zobrazovači stavu nesvítí. V čem je závada a co zkontroluješ jako první?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.1 Je odzemněno a nelze zapnout hlavní vypínač, body 1–2, str. 12"
+   }
+  ],
+  "odpoved": "Závada je v jističi F104, tlakovém spínači S502 nebo relé K106; zkontroluji tlak v přístrojové jímce (min. 5 barů – zapnout pomocný kompresor, ověřit na manometru) a jističe F104 a F106 (F104 několikrát procvakat).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.1 Je odzemněno a nelze zapnout hlavní vypínač – Nesvítí bílé kontrolky žaluzií v chodbičce ve strojovně, svítí červené kontrolky odzemněno. Led 13 na diagnostice nesvítí. Závada je v: F104 jistič – S502 tlak. spínač – K106 relé\n1 Na pultě na zobrazovači stavu zkontroluj bod 13 - S502, K106 (horní řada 3 Led z leva). Když ledka nesvítí, může být nízký tlak vzduchu v přístrojové jímce /min 5 barů/ – zapni pomocný kompresor. Ověř tlak na manometru.\n2 Zkontroluj zapnuté jističe, především F104 a F106. F104 několikrát je procvakej.\n3 Zavři kohoutky ke sběračům, DODRŽUJ MPBP",
+  "distraktory": [
+   "Závada je v zapínacím obvodu HV (S101, S102, S125, S126, H271); tlačítkem rušení ochran vymáčknu klapkovník a zkusím zapnout HV z druhého stanoviště.",
+   "Závada je v relé K140 nebo v hlavním vypínači; zkontroluji relé K140 v releové skříni, několikrát ho sepnu a několikrát sepnu HV ovladačem."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1232,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 pomocný kompresor vypnul, Led 13 (S502, K106) stále nesvítí, ale Led 48 (K106) svítí. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.1, sloupec ANO Led 48 svítí, body 6–9, str. 12"
+   }
+  ],
+  "odpoved": "Zkontroluji v releové skříni relé K106 (bez výkonu má být sepnuté); je-li sepnuté, několikrát vytáhnu a zasunu relé K104, K105 nebo K107; je-li K106 v pořádku, lehce poklepu tlakový spínač S502.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.1 Je odzemněno a nelze zapnout hlavní vypínač (ANO Led 48 (K106) svítí):\n6 Zkontroluj v releové skříni relé K106 /má být bez výkonu sepnuté/.\n7 Pokud je K106 sepnuté, několikrát vytáhni a zasuň relé K104, K105 nebo K107. Tím procvakáš sepnutí relé K106 a byla-li závada v K106 bod 13 a kontrolky žaluzií by se měly rozsvítit.\n8 Je-li relé K106 v pořádku, lehce poklepej tlakový spínač S502.\n9 Pokud závada trvá a na zobrazovači stavu zkontroluj bod 13 - S502, K106 nesvítí lokomotiva je neschopná.\n(NE Led 48 nesvítí: Relé K104, K105, K107 by měla být vypnutá. Jsou-li relé odpadlá, odzkoušej ve zkušební patici funkci. Vadné relé vyměň za relé z inventáře nebo za relé K135. Odkalování jímek nebude samočinné.)",
+  "distraktory": [
+   "Relé K104, K105, K107 by měla být vypnutá – odpadlá relé odzkouším ve zkušební patici a vadné vyměním za relé K135 (odkalování jímek pak nebude samočinné).",
+   "Zkontroluji relé K140 v releové skříni, několikrát ho sepnu a několikrát sepnu HV ovladačem na pultě; je-li vše v pořádku, lehce poklepu tlakový spínač S502."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1233,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Kde na zobrazovači stavu na pultě lokomotivy 162/163 najdeš Led 13 (S502, K106) a Led 48 (K106)?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.1, body 1 a 4, str. 12"
+   }
+  ],
+  "odpoved": "Led 13 je v horní řadě třetí zleva, Led 48 ve spodní řadě třetí zprava.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.1 Je odzemněno a nelze zapnout hlavní vypínač:\n1 Na pultě na zobrazovači stavu zkontroluj bod 13 - S502, K106 (horní řada 3 Led z leva). […]\n4 Pomoc kompresor vypnul, ale led 13 - S502, K106 stále nesvítí. Svítí Led 48 K106 (ve spodní řadě třetí led zprava)?",
+  "distraktory": [
+   "Led 13 je v horní řadě druhá zleva, Led 48 ve spodní řadě třetí zleva.",
+   "Led 13 je ve spodní řadě třetí zprava, Led 48 v horní řadě třetí zleva."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1234,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí Led 13, držíš ovladač zapnutí HV v sepnuté poloze a nerozsvítí se Led 14 (H271). Kde je závada a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2 Nelze zapnout hlavní vypínač Led 13 svítí, body 1–4, str. 13"
+   }
+  ],
+  "odpoved": "V zapínacím obvodu HV – S101/S102 spínač řízení, S125/S126 ovladač Zap. HV, H271 obvod klapkovníku; tlačítkem rušení ochran vymáčknu klapkovník a zkusím zapnout HV z druhého stanoviště.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.2 Nelze zapnout hlavní vypínač Led 13 svítí – Na Zobrazovači stavu:\n1 Svítí Led dioda 13 (S502, K116) svítí, Sepni a drž v sepnuté poloze ovladač zapnutí HV. Nyní – při sepnutí: Nesvítí Led dioda 14 (H271) nesvítí. Závada je v: zapínací obvod HV - S101, S102 – spínač řízení, - S125, S126 – ovladač Zap. HV - H271 – obvod klapkovníku.\n2 DODRŽUJ MPBP.\n3 Tlačítkem rušení ochran vymáčkni klapkovník a zkontroluj, zda jsou na klapkovníku nasvícené poruchy.\n4 Přejdi na druhé stanoviště. Tlačítkem rušení ochran opakovaně vymáčkni klapkovník. Zapni HV z druhého stanoviště.",
+  "distraktory": [
+   "Ve vypínacích tlačítkách HV S123/S124, diferenciální ochraně K03 nebo stykači K37; v E22 zapnu Indikaci a zkontroluji signál N.",
+   "V regulátoru tahu E22 nebo relé K140; zkontroluji relé K140, několikrát ho sepnu a zkontroluji signál N v E22."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1235,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nešel zapnout HV (Led 14 nesvítila), ale z druhého stanoviště HV zapnout jde. Kde je závada a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2, body 5–7, str. 13"
+   }
+  ],
+  "odpoved": "Ve spínačích řízení nebo ovladači pro zapnutí HV – několikrát zapnu a vypnu řízení na obou stanovištích, zkontroluji, že spínače řízení jsou spolehlivě v požadované poloze, a HV znovu zapnu.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.2 Nelze zapnout hlavní vypínač Led 13 svítí:\n5 HV je zapnutý z druhého stanoviště ?\n6 ANO závada spínačů řízení nebo ovladače pro zapnutí HV. | NE závada pravděpodobně v mechanickém klapkovníku\n7 Zkus několikrát zapnout a vypnout řízení na obou stanovištích. zkontrolovat zda spínače řízení jsou spolehlivě v požadované poloze a HV znovu zapni. | LED 14 H271) při držení ovladače ZAP HV nesvítí. Zkontroluj zda na klapkovníku není nasvícená nějaká porucha. Když ne, lehce klapkovník pobouchej, aby se oklepaly kontakty. Pravděpodobně nějaký nepřevádí.",
+  "distraktory": [
+   "Pravděpodobně v mechanickém klapkovníku – zkontroluji, zda na něm není nasvícená porucha, a lehce ho pobouchám, aby se oklepaly kontakty.",
+   "V relé K140 hlavního vypínače – zkontroluji ho v releové skříni, několikrát ho sepnu a HV znovu zapnu z původního stanoviště."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1236,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 při držení ovladače zapnutí HV svítí Led 13 a Led 14, ale nesvítí Led 15 (A102N). Ve kterých prvcích je závada?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2, bod 8, str. 13"
+   }
+  ],
+  "odpoved": "Ve vypínacích tlačítkách HV S123, S124 (na obou stanovištích!), v diferenciální ochraně hlavních obvodů K03 nebo ve stykači K37.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.2 Nelze zapnout hlavní vypínač Led 13 svítí – Na Zobrazovači stavu:\n8 Svítí Led dioda 13 (S502, K116) svítí, Sepni a drž v sepnuté poloze ovladač zapnutí HV. Nyní – při sepnutí: Svítí Led dioda 14 (H271) svítí, Nesvítí Led dioda 15 (A102N) nesvítí. Závada je ve: - S123,124 – Vypínací tlačítka HV (na obou stanovištích!). - K03 – Diferenciální ochraně hlavních obvodů. - K37 – Stykači.\n9 Otevři skříň elektroniky, na regulátoru tahu E22 sepni tlačítko Indikace (levé horní). Zkontroluj, zda svítí signál N. – musí svítit.\n10 Několikrát procvakej tlačítka vypnutí HV na obou stanovištích.\n11 Zkontroluj zda svítí všech 6 Led na zapojených zdrojích NK1.",
+  "distraktory": [
+   "V ovladači Zap. HV S125, S126, v obvodu klapkovníku H271 nebo ve spínačích řízení S101, S102.",
+   "V regulátoru tahu E22 nebo v relé hlavního vypínače K140."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1237,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 při držení ovladače zapnutí HV svítí Led 13, 14 i 15, ale nesvítí Led 16 (K140). Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2, body 24–31, str. 15"
+   }
+  ],
+  "odpoved": "Závada je v E22 nebo relé K140: zavřu kohoutky ke sběračům, zkontroluji relé K140 a několikrát ho sepnu; v E22 zapnu Indikaci a zkontroluji signál N (nesvítí → bod 18: vypnout baterii min. 1 min; svítí → bod 20).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.2 Nelze zapnout hlavní vypínač Led 13 svítí – Na Zobrazovači stavu:\n24 Svítí Led dioda 13 (S502, K106) svítí. Sepni a drž v sepnuté poloze ovladač zapnutí HV. Nyní – při sepnutí: Svítí Led dioda 14 (H271) svítí, Svítí Led dioda 15 (A102N) svítí. Nesvítí Led dioda 16 (K140) nesvítí. Závada je v: - E22 – Regulátor tahu - K140 – relé hlavního vypínače\n25 pozn. na některých loko je signalizace regulátoru tahu přepojena na Led 15 (A102N)\n26 Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n27 Zkontroluj relé K140. Několikrát ho sepni.\n28 Otevři skříň elektroniky, sepni na regulátoru tahu E22 tlačítko Indikace (levé horní) a zkontroluj, zda svítí signál N. – musí svítit. Když signál N nesvítí, vrať se k bodu 18 Zkontroluj signál N. Když signál N svítí, vrať se k bodu 20 Pokud svítí signál N\n31 Pokud stále nesvítí bod 16 na zobrazovači stavu, lokomotiva je neschopná.",
+  "distraktory": [
+   "Závada je ve vypínacích tlačítkách HV nebo K03: několikrát procvakám tlačítka vypnutí HV na obou stanovištích a klapnu ramínkem diferenciální ochrany K03.",
+   "Závada je ve stykači K37: na přístrojovém rámu několikrát sepnu EPV ventil ovládající stykač K37 a vymáčknu klapkovník."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1238,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí signál N v E22, ale Led 15 (A102N) na zobrazovači stavu stále nesvítí. Jaký je postup „pro zkušené strojvedoucí“?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.2, body 20–22, str. 14"
+   }
+  ],
+  "odpoved": "Vyměnit mezi sebou karty ELC7 2055 a ELC7 2061 v E22; po vložení karty šrouby nejprve zamáčknout a teprve potom dotáhnout, po dotažení zkontrolovat, že karta není volná. Trvá-li závada, loko je neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.2 Nelze zapnout hlavní vypínač Led 13 svítí:\n20 Pokud svítí signál N v E22, ale na zobrazovači stavu na pultě stále Nesvítí Led dioda 15 (A102N). Lze uplatnit postup pro zkušené strojvedoucí o bod níže.\n21 Pro zkušené – vyměň mezi sebou tyto 2 karty ELC7 2055 a ELC7 2061 viz obrázek nahoře. Dbej na opatrné zacházení, především při vkládání karet do boxu !!! Po vložení karty zpět se musí šrouby nejprve zamačknout, a teprve potom je dotáhnout. Jinak karta nedrží. Po dotažení vyzkoušej, zda karta není volná !!!\n22 Pokud závada trvá, lokomotiva je neschopná.",
+  "distraktory": [
+   "Přepojit konektory X91 a X92 z vadné vany zdroje NK-1 do záložní vany s vypnutým jističem F191. Trvá-li závada, loko je neschopná.",
+   "Vyměnit relé K140 za relé K135 z inventáře loko a zajistit je aretační páčkou. Trvá-li závada, loko je neschopná."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1239,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 slyšíš po sepnutí ovladače HV zapnout, ale HV nezůstane zapnutý, ani když ovladač držíš v zapnuté poloze. Kde je závada a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.3 Nedrží hlavní vypínač – při držení ovladače vypne, body 1–5, str. 16"
+   }
+  ],
+  "odpoved": "V hlavním vypínači: ovladač zapnutí HV zapínám pomalu – přetáčím do polohy ZAP, zavřu kohoutky ke sběračům a HV prohlédnu; je-li vadný, loko je neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.3 Nedrží hlavní vypínač – při držení ovladače vypne. Po sepnutí ovladače ZAP HV slyšíš zapnout HV, ale HV nezůstane zapnutý, i když držíš ovladač v zapnuté poloze.\n1 Signalizace zapnutí HV signalizuje, že je HV vypnutý. Závada je v: - HV, hlavním vypínači\n2 Při zapínání HV ovladač zapnutí HV pomalu zapínej – přetáčej do polohy ZAP.\n3 Zavři kohoutky ke sběračům, DODRŽUJ MPBP\n4 Prohlédni Hlavní vypínač.\n5 Je vadný HV loko je neschopná.",
+  "distraktory": [
+   "V přídržném obvodu HV – relé K140: zkontroluji relé K140 v releové skříni, několikrát ho sepnu a několikrát sepnu HV ovladačem; je-li vadné, loko je neschopná.",
+   "V časovém relé K117: tlačítkem rušení ochran vymáčknu klapkovník, vybavím nasvícené K117 a zkontroluji jistič F102; je-li vadné, loko je neschopná."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1240,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "HV lokomotivy 162/163 po sepnutí ovladače zapne, ale po uvolnění ovladače ze zapínací polohy vypne; Led 19 svítí a kontrolky žaluzií svítí. Kde je závada?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.4 Nedrží hlavní vypínač – po uvolnění ovladače ze zapínací polohy HV vypne, body 1–5, str. 16"
+   }
+  ],
+  "odpoved": "V přídržném obvodu HV – relé hlavního vypínače K140 nebo hlavní vypínač; zkontroluji K140 v releové skříni, několikrát ho sepnu a několikrát sepnu HV ovladačem na pultě.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.4 Nedrží hlavní vypínač – po uvolnění ovladače ze zapínací polohy HV vypne. Bod 19 svítí. Žaluzie svítí\n1 Po sepnutí ovladače ZAP HV hlavní vypínač zapne. Po uvolnění ovladače Zapnutí HV ze zapínací polohy HV vypne. Led dioda 19 svítí bez sepnutí ovladače HV do polohy Zap HV. Závada je v: přídržný obvod HV - K140 – relé hlavního vypínače - HV – hlavním vypínači\n2 DODRŽUJ MPBP\n3 Zkontroluj relé K140 v releové skříni. Několikrát ho sepni.\n4 Několikrát sepni HV ovladačem na pultě.\n5 Je vadné relé K140, nebo HV. Loko je neschopná.",
+  "distraktory": [
+   "V přídržném obvodu HV – dioda V120 nebo časové relé K117; odzkouším je ve zkušební patici a případně použiji náhradní diodu V142.",
+   "V přepojovačích jízda–brzda Q11, Q12 nebo žaluziích S401; žaluzie otevřu pákou a přepojovače J-B přetočím do Jízdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1241,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "HV lokomotivy 162/163 po uvolnění ovladače vypadne; na zobrazovači stavu svítí Led 13, nesvítí Led 17 (K117) a nesvítí kontrolky žaluzií. Které prvky jsou podezřelé a jaký je první krok?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5 Nedrží hlavní vypínač – přídržný obvod HV, body 1–5, str. 16"
+   }
+  ],
+  "odpoved": "Dioda V120 a časové relé poruchy ventilace K117; zavřu kohoutky ke sběračům, tlačítkem rušení ochran vymáčknu klapkovník a zkontroluji, zda je na něm nasvícené relé K117 (nasvícené vybavím rušením ochran).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5 Nedrží hlavní vypínač – po uvolnění ovladače HV vypadne. Přídržný obvod HV. Na Zobrazovači stavu:\n1 Svítí Led dioda 13 (S502, K116) svítí. Nesvítí Led dioda 17 (K117) nesvítí. Nesvítí Kontrolky žaluzií nesvítí. Závada je v: přídržný obvod HV - V120 – dioda - K117 – časové relé poruchy ventilace\n2 Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n3 Tlačítkem rušení ochran vymáčkni klapkovník a zkontroluj na klapkovníku, zda je nasvícené relé K117.\n4 Relé K117 na klapkovníku je nasvícené: | K117 na klapkovníku není nasvícené:\n5 Nasvícenou K117 na klapkovníku vybav tlačítkem rušení ochran. | Odzkoušej relé K117 viz 9. Postup zkoušení relé. Starý, velký typ relé nelze odzkoušet.",
+  "distraktory": [
+   "Jistič F115 a VN ochrany K11, K09, K04.M, K05.M; F115 několikrát vypnu a zapnu a sepnu ramínka jednotlivých ochran.",
+   "Nadproudová relé K04.L, K05.L, žaluzie S401 a přepojovače Q11, Q12; nejprve otevřu žaluzie brzdového odporníku pákou."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1242,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 není K117 na klapkovníku nasvícené, dioda V120 je vadná a nemáš náhradní diodu. Jak lze HV přesto zapnout?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, sloupec „K117 na klapkovníku není nasvícené“, body 8–10, str. 17"
+   }
+  ],
+  "odpoved": "Při zapínání držím ovladač HV v zapnuté poloze, dokud není přítomno trolejové napětí; až poté ovladač uvolním a HV drží. Po každém stažení sběrače HV vypne a postup se musí opakovat.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5 (K117 na klapkovníku není nasvícené):\n7 Náhradní dioda může být již ve zkušební patici. Pokud nemáš jinou, použij diodu V142 nebo V143. Nebude se zobrazovat stav zapnutí V142 nebo vypnutí V143 hlavního vypínače.\n8 Pokud nelze dosadit náhradní diodu, je možné použít postup v dalším bodu.\n9 Při zapínání HV a stálého držení v zapnuté poloze vyčkej do přítomnosti trolejové napětí. Až poté můžeš ovladač HV uvolnit a nyní již drží zapnutý.\n10 Po každém stažení sběrače pak HV vypne a je nutné tento postup zapínání opakovat.",
+  "distraktory": [
+   "Sepnu relé K123 v releové skříni aretační páčkou – loko se nebude přetáčet do brzdy a HV půjde po každém vypnutí zapínat normálně.",
+   "Zajistím relé K143 aretační páčkou a HV zapnu z druhého stanoviště; po každém stažení sběrače postup opakuji."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1243,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Potřebuješ na 162/163 náhradní diodu za vadnou V120 (příp. V121). Které diody lze podle Závad v kostce použít a s jakým důsledkem?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, bod 7 (pravý sloupec), str. 17"
+   },
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.6, body 11–12, str. 20"
+   }
+  ],
+  "odpoved": "Diodu V142 (signalizace zapnutí HV) nebo V143 (signalizace vypnutého HV), přednostně V142; nebude se pak zobrazovat stav zapnutí, resp. vypnutí HV (u loko s elektronickými ochranami zůstává indikace na displeji).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5 bod 7: Náhradní dioda může být již ve zkušební patici. Pokud nemáš jinou, použij diodu V142 nebo V143. Nebude se zobrazovat stav zapnutí V142 nebo vypnutí V143 hlavního vypínače.\n\n4.6 bod 11: Pokud nemáš jinou, použij diodu V142 (signalizace zapnutí HV) nebo V143 (signalizace vypnutého HV)..\n12 Po použití diody V142, nebo 143 bude částečně nefunkční signalizace stavu HV. Přednostně použij V 142. Na lokomotivách s elektronickými ochranami se indikace HV i nadále zobrazuje na displeji na pultě.",
+  "distraktory": [
+   "Diodu V121 nebo V143, přednostně V121; nebude pak fungovat indikace stavu topení vlaku na stanovišti.",
+   "Diodu V142 nebo V143, přednostně V143; lokomotiva pak funguje jen na nouzové dojetí s vypnutou EDB."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1244,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí Led 13 a 17, nesvítí Led 18 (VN) a nesvítí kontrolky žaluzií. Kde je závada a co uděláš u lokomotivy s mechanickými (starými) ochranami?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, body 11–18, str. 17"
+   }
+  ],
+  "odpoved": "V jističi F115 nebo VN ochranách K11, K09, K04.M, K05.M, K21.L, K22.L; F115 několikrát vypnu a zapnu, zavřu kohoutky ke sběračům, sepnu každé ramínko ochran (kde jsou 2, obě), pak vybavím klapkovník a zapnu HV.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5 – Na Zobrazovači stavu:\n11 Svítí Led dioda 13 (S502, K116) svítí. Svítí Led dioda 17 (K117) svítí. Nesvítí Led dioda 18 (VN) nesvítí. Nesvítí Kontrolky žaluzií nesvítí. Závada je v: přídržný obvod HV - jistič F115 - VN ochrany K11, K09, K04.M, K05.M, K21.L, K22L,\n12 Jakého typu konstrukce má lokomotiva Ochrany?\n13 Mechanické /staré ochrany/ | Elektronické ochrany /CDS/\n14 Zkontroluj zapnuté jističe. F115 (signalizace ochran) několikrát vypni a zapni.\n15 Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n16 Prohlédni jednotlivé ochrany a každé ramínko několikrát sepni. Tam kde jsou ramínka 2, sepni vždy postupně obě dvě ramínka.\n17 Nakonec zmačkni tlačítko rušení ochran – vybav klapkovník. Zapni hlavní vypínač.\n18 Pokud závada trvá, Loko je neschopná.",
+  "distraktory": [
+   "V diodě V120 nebo časovém relé K117; K117 vybavím tlačítkem rušení ochran, F102 několikrát vypnu a zapnu a zkontroluji bod 12 na zobrazovači stavu.",
+   "V nadproudových relé K04.L, K05.L, žaluziích S401 nebo přepojovačích Q11, Q12; otevřu žaluzie brzdového odporníku a přepojovače J-B přetočím do Jízdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1245,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí Led 13, 17 a 18, nesvítí Led 19 (Q11, Q12) a nesvítí kontrolky žaluzií. Co uděláš jako první?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, body 19–22, str. 18"
+   }
+  ],
+  "odpoved": "Žaluzie brzdového odporníku jsou zavřené – přestavím je pákou do polohy otevřeno (směrem dolů k sobě) a páku v této poloze zajistím; ve správné poloze se kontrolky žaluzií rozsvítí a pokračuji v oživování.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5 – Na Zobrazovači stavu:\n19 Svítí Led dioda 13 (S502, K116) svítí. Svítí Led dioda 17 stavu svítí (K117). Svítí Led dioda 18 svítí (VN). Nesvítí Led dioda 19 nesvítí (Q11,Q12). Závada je v: přídržný obvod HV - K04.L, K05.L – nadproudová relé v brzdě - S401 – žaluzie, - Q11, Q12 – přepojovače jízda – brzda\n20 DODRŽUJ MPBP.\n21 Žaluzie nesvítí – Jsou zavřené žaluzie brzdového odporníku. Žaluzie přestav pákou do polohy otevřeno /viz obrázek/ a v této poloze – směrem dolů k Tobě – páku zajisti. Ve správné poloze se kontrolky rozsvítí.\n22 Kontrolky žaluzií již svítí? Pokračuj v oživování loko.\n23 Kontrolky žaluzií stále nesvítí, je nutné přetočit přepojovače J-B do Jízdy. Obejdeš tím celou brzdovou větev. Pokračuj dalším bodem.",
+  "distraktory": [
+   "Několikrát klapnu ramínkem diferenciální ochrany hlavních obvodů K03, vymáčknu klapkovník a zapnu HV; ve správné poloze se kontrolky žaluzií rozsvítí.",
+   "Vypnu lokomotivu z EDB ovladačem na boku reléové skříně a zapnu HV; kontrolky žaluzií se rozsvítí po přestavení měničů do jízdy."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1246,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Kontrolky žaluzií na 162/163 stále nesvítí a je nutné přetočit přepojovače J-B do Jízdy. Jaký je postup přetočení do J?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, body 23–25, str. 18"
+   }
+  ],
+  "odpoved": "Zabrzdit BP, vypnout EDB, sepnout HV a držet ovladač, zvednout sběrač, vyčkat nastartování UNIPULS, zadat směr a mírně najet do výkonu; až po přestavení měničů J-B-D do jízdy ovladač HV uvolnit.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5:\n23 Kontrolky žaluzií stále nesvítí, je nutné přetočit přepojovače J-B do Jízdy. Obejdeš tím celou brzdovou větev. Pokračuj dalším bodem.\n24 Postup přetočení do J: DODRŽUJ MPBP - Zabrzdi lokomotivu přímočinnou brzdou BP !!! - Vypni EDB - Sepni HV a drž stále ovladač sepnutý. - Zvedni sběrač a vyčkej jeho dosednutí k troleji. - Vyčkej nastartování UNIPULS. - Zadej směr a zadávací pákou najeď mírně do výkonu. - Až po přestavení měničů J-B-D do jízdy ovladač HV uvolni.\n25 Po každém vypnutí HV je nutné tento postup zapínání HV opakovat. Nutno dodržet přesný postup.",
+  "distraktory": [
+   "Zabrzdit BP, vypnout EDB, zvednout sběrač, zapnout HV a ovladač ihned uvolnit, zadat směr a najet do výkonu; měniče J-B-D se přestaví do jízdy samy.",
+   "Zastavit, uzemnit, ručně šroubovákem přestavit přepojovače Q11, Q12 do Jízdy, odzemnit, zapnout HV a zadat směr; postup se už neopakuje."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1247,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Co je na 162/163 podle Závad v kostce „výhodné“ udělat s relé K123, aby se lokomotiva po přetočení do Jízdy už nepřetáčela zpět do Brzdy?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, body 26–27, str. 18"
+   }
+  ],
+  "odpoved": "Je-li relé K123 v releové skříni vybaveno aretační páčkou, sepnout ji (viz legenda skříně) – loko zůstane v J a po vypnutí HV půjde HV zapínat normálně; u relé starého typu pokračovat od bodu 33.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5:\n26 Výhodné je: Pokud je v releové skříni relé K123 vybaveno aretační páčkou, sepni ji. Viz legenda skříně. Lokomotiva se již nebude přetáčet do Brzdy. Zůstane v J a po vypnutí HV půjde HV zapínat normálně.\n27 Pokud je relé K123 starého typu pokračuj od bodu 33 nelze relé K123 !!!\n35 Nesvítí – li ani nyní led 19 (Q11, Q12), a nelze relé K123 sepnout aretační páčkou, sepni relé K101 aretační páčkou a nech ho sepnuté. Relé K101 staršího typu musíš vyndat a nechat vytažené.",
+  "distraktory": [
+   "Relé K123 vyměnit za relé K135 z inventáře loko – odkalování jímek pak nebude samočinné, ale loko zůstane v J.",
+   "Relé K123 vyjmout z patice a nechat vytažené (u relé staršího typu) – loko se pak nebude přetáčet do Brzdy."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Bod 27 odkazuje na „bod 33 nelze relé K123“, ale text o nemožnosti sepnout K123 je až v bodu 35 – v dokumentu je zřejmě nepřesný odkaz."
+ },
+ {
+  "n": 1248,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 jsi po přetočení přepojovačů J-B do Jízdy zapnul HV a drží. Co musíš ještě udělat a na co dát při další jízdě pozor?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.5, body 38–42, str. 19"
+   }
+  ],
+  "odpoved": "Zavést bezpečný stav, uzemnit, vypnout EDB ovladačem na boku reléové skříně a vše zapsat do SH SAP; loko funguje jen na nouzové dojetí – bez EDB je brzdná dráha značně delší, brzdit s předstihem.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.5:\n37 Nyní svítí bod 19 (Q11, Q12). Zapni HV.\n38 Je li vše v pořádku, hlavní vypínač drží. Zaveď Bezpečný stav, lokomotivu uzemni.\n39 DODRŽUJ MPBP.\n40 Vypni lokomotivu z EDB brzdy ovladačem na boku reléové skříně. Na obrázku je EDB v zapnuté poloze.\n41 Vše zapiš do aplikace SH SAP. Lokomotiva funguje jen na nouzové dojetí.\n42 Je vypnuta EDB. Brzdná dráha je značně delší !!! Vždy brzdi s výrazným předstihem !!!",
+  "distraktory": [
+   "Vypnout jistič F180 skluzové ochrany a zapsat do knihy předávky; loko smí jet jen do 60 km/h, jinak zasahují ochrany – brzdit s předstihem.",
+   "Zaaretovat obě MS ovladačem na noze pultu a zapsat do SH SAP; loko smí dojet pouze do následující stanice max. 30 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1249,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 vypadne HV po zadání do tahu a kV na stanovišti neukazuje trolejové napětí. Co je pravděpodobnou příčinou?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.6 Hlavní vypínač vypadne při najetí do výkonu, body 1–4, str. 20"
+   }
+  ],
+  "odpoved": "Vadná pojistka F21 (2A) – zkontroluji VN pojistku F21 na přístrojovém rámu, případně ji vyměním za novou; poté několikrát vypnu a zapnu spínač řízení a zvednu a stáhnu sběrače.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.6 Hlavní vypínač vypadne při najetí do výkonu.\n1 Po zadání do tahu vypadne HV. Závada je v: - S101, S102 – spínače řízení - K142 (F21, K02, K113, K143) – relé, pojistka - V 121 – dioda\n2 DODRŽUJ MPBP\n3 Neukazuje-li na stanovišti kV trolejové napětí, bude vadná pojistka F21 (2A). Viz Zkontroluj VN pojistku F21 na přístrojovém rámu, případně ji vyměň za novou.\n4 Několikrát vypni a znovu zapni spínač řízení, zvedni a zase stáhni sběrače.\n5 Unipuls funguje?",
+  "distraktory": [
+   "Vadná pojistka F05 (60A) – zkontroluji VN pojistku F05 na přístrojovém rámu vedle stykače K37, případně ji vyměním za novou.",
+   "Vadné relé K143 – odzkouším je ve zkušební patici v releové skříni a vyměním za relé K135."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1250,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "HV lokomotivy 162/163 vypadne při najetí do výkonu, unipuls nefunguje a indikace stavu topení vlaku neukazuje správně. Co zkontroluješ a co nesmíš udělat?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.6, sloupec NE (Unipuls nefunguje), body 7–11, str. 20"
+   }
+  ],
+  "odpoved": "Není sepnuto relé K142 (následně K116): proklapu obě kotvičky relé K02 (u CDS nelze) a odzkouším relé K143 ve zkušební patici; vadné K143 vyměním za K135. Relé K143 nesmím zajistit aretační páčkou.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.6 (NE – Unipuls nefunguje):\n7 Unipuls nefunguje a neukazuje na stanovišti správně indikace stavu topení vlaku. Není sepnuto relé K142 (následně K116)\n8 Zkontroluj relé K02 – obě kotvičky relé proklapej. Na lokomotivě s elektronickými ochranami /CDS/ nelze nic proklapat.\n9 Zkontroluj relé K143 v releové skříni ve zkušební patici. Viz 9. Postup zkoušení relé.\n10 Vadné relé K143 vyměň za relé z inventáře nebo za relé K135 – odkalování jímek nebude samočinné. Nutno občas odvodnit ručně\n11 Pokud závada trvá, Loko je neschopná. Relé K143 nesmíš zajistit aretační páčkou !!!",
+  "distraktory": [
+   "Zapnu HV z druhého stanoviště a zadám do výkonu; nevypadne-li, je závada ve spínači řízení nebo ovladači sběračů. Relé K142 nesmím zajistit aretační páčkou.",
+   "Odzkouším diodu V121 ve zkušební patici, případně použiji náhradní V142; vadné relé K143 zajistím aretační páčkou, aby drželo sepnuté."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1251,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "HV lokomotivy 162/163 vypadne po najetí do výkonu i z druhého stanoviště, přičemž unipuls funguje. Kde je závada a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.6, sloupec ANO (Unipuls funguje), body 7–11, str. 20"
+   }
+  ],
+  "odpoved": "V relé K142 nebo v diodě V121 – několikrát sepnu relé K142 a diodu V121 v releové skříni ověřím ve zkušební patici, případně vyměním (náhradní V142 nebo V143).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.6 (ANO – Unipuls funguje):\n7 Unipuls funguje, zapni HV z druhého stanoviště a zadej do výkonu.\n8 Nevypadne-li HV, závada je ve spínači řízení, nebo ovladači sběračů. Vrať se na původní stanoviště a několikrát vypni a znovu zapni spínač řízení, zvedni a zase stáhni sběrače.\n9 Vypadne-li HV po najetí do výkonu i z druhého stanoviště, závada bude v relé K142, nebo v diodě V121. Několikrát sepni relé K142.\n10 Zkontroluj v releové skříni diodu V121. Ve zkušební patici ověř funkci dle návodu zkoušení. Příp vyměň. Náhradní dioda může být již ve zkušební patici.\n11 Pokud nemáš jinou, použij diodu V142 (signalizace zapnutí HV) nebo V143 (signalizace vypnutého HV)..",
+  "distraktory": [
+   "Ve spínači řízení nebo ovladači sběračů – vrátím se na původní stanoviště, několikrát vypnu a zapnu spínač řízení a zvednu a stáhnu sběrače.",
+   "V relé K143 – odzkouším je ve zkušební patici a vyměním za relé K135; odkalování jímek pak nebude samočinné."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1252,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Za jízdy lokomotivy 162/163 ve výkonu vypadne HV. Jaký je postup a jak dlouho musíš čekat před opětovným zapnutím HV?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.7 Hlavní vypínač vypadne ve výkonu, body 2–5, str. 21"
+   }
+  ],
+  "odpoved": "Zastavím, ohlásím ztrátu napětí dispečerovi, loko uzemním, zkontroluji nasvícené ochrany na klapkovníku, vybavím ho tlačítkem rušení ochran a počkám alespoň 30 s; teprve pak HV zkusím zapnout.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.7 Hlavní vypínač vypadne ve výkonu.\n1 Závada je v: - Zásah ochran - Výpadek napětí v troleji\n2 Zastav soupravu provozním nebo rychločinným brzděním, podle nastalé situace.\n3 Ohlas ztrátu napětí v troleji dispečerovi a postupuj dle – Praktická aplikace předpisových ustanovení v praxi.\n4 - Lokomotivu uzemni. DODRŽUJ MPBP - Zkontroluj klapkovník – nasvícené zasáhlé ochrany. - Až potom vybav klapkovník tlačítkem rušení ochran. - Počkej alespoň 30s !!! Až potom HV zkus opět zapnout. – Časová prodleva je velice důležitá !!!\n5 Pokud lze, pokračuj v oživení lokomotivy a další jízdě.",
+  "distraktory": [
+   "Zastavím, ohlásím ztrátu napětí dispečerovi, loko uzemním, vybavím klapkovník tlačítkem rušení ochran a počkám alespoň 1 minutu; teprve pak HV zkusím zapnout.",
+   "Ihned zkusím HV znovu zapnout; teprve pokud nedrží, zastavím, loko uzemním, zkontroluji klapkovník a vybavím ho tlačítkem rušení ochran."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1253,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 po výpadku HV ve výkonu na oživování vůbec nereaguje. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 4.7 Hlavní vypínač vypadne ve výkonu, bod 6, str. 21"
+   }
+  ],
+  "odpoved": "Vše vypnu, vypnu lokomotivní baterii a nechám ji vypnutou alespoň 1 minutu; pro další postup pak vyberu v obsahu Závad v kostce vhodnou kapitolu pro odstranění závady.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 4.7 Hlavní vypínač vypadne ve výkonu.\n6 Pokud lokomotiva nereaguje, vše vypni, vypni lokomotivní baterii a nech ji vypnutou alespoň 1 minutu. Pro další postup klikni na zpět na Obsah a vyber vhodnou kapitolu pro odstranění závady.",
+  "distraktory": [
+   "Vše vypnu, vypnu lokomotivní baterii a nechám ji vypnutou alespoň 30 sekund; pak loko znovu oživím z druhého stanoviště.",
+   "Vypnu centrální zdroj deonem F203, dám Závěr BSE a přepnu přepínač kombinací CZ do jiné polohy; pak loko znovu oživím."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1254,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nepracují kompresory, ventilátory a dobíječ; na stanovišti trolejové napětí JE, na filtru ve strojovně NENÍ a nad pultem bliká porucha nabíjení a porucha regulace. Co je příčinou a kde to najdeš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 5–8, str. 22"
+   }
+  ],
+  "odpoved": "Prasklá pojistka 60A nabíjení filtru F05 – je na přístrojovém rámu vedle stykače K37; za dodržení MPBP ji vyměním za jinou z inventáře loko a pokračuji bez omezení.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1 Není napětí troleje, filtru, K117 časuje – nefunguje primár: Nepracují kompresory, ventilátory, dobíječ baterie a klimatizace\n5 Napětí trolejové na voltmetru stanoviště - je. ve strojovně na filtru - není. Bliká nad pultem porucha nabíjení a porucha regulace. - je prasklá pojistka 60A nabíjení filtru F05.\n6 Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n7 Zkontroluj VN pojistku F05 (60A) na přístrojovém rámu vedle stykače K37.\n8 Vyměň pojistku F05 za dodržení MPBP za jinou z inventáře loko. Po výměně pojistky pokračuj v práci bez omezení.",
+  "distraktory": [
+   "Prasklá pojistka 2A napěťového relé a měření F21 – je na přístrojovém rámu; za dodržení MPBP ji vyměním za jinou z inventáře loko.",
+   "Prasklá pojistka F07 100A – je na Unipulsu zezadu nahoře; za dodržení MPBP ji vyměním za jinou z inventáře loko (je těžká a jde ztuha)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1255,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 je napětí na troleji i na filtru, indikace topení vlaku je nefunkční a po najetí do výkonu HV nevypadne. Kde je závada a co musíš po nouzové opravě dodržet?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 11–16, str. 23"
+   }
+  ],
+  "odpoved": "V obvodu stykače K116 (F104, S101/S102, S121/S122, K142, Q01): F104 několikrát klapnu, relé K142 ručně sepnu a stykač K116 zaaretuji; před stažením sběračů pak VŽDY nejprve ručně vypnu pomocné pohony.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n11 Napětí trolejové na voltmetru stanoviště - je, ve strojovně na filtru - je. Indikace topení vlaku je nefunkční. Po najetí do výkonu nevypadne HV: Závada bude v obvodu stykače K116 F104 – jistič, S101, S102 – spínače řízení S121, S122 – ovladače sběračů K142 – relé HV a trolejového napětí Q01 – hlavní vypínač\n12 Zkontroluj zapnutý jistič F104 opakovaně – několikrát s ním klapni. Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n13 Zkontroluj tlak v pomocné jímce. Zobrazovač Led dioda 13 (S502, K116)\n14 Několikrát zapni a vypni spínač řízení, zapni HV a zvedni sběrače.\n15 Relé K142 prohlédni a několikrát ručně sepni.\n16 Stykač K116 prohlédni a zaaretuj jej. Pokračuj v provozu lokomotivy, ale před stažením sběračů VŽDY! nejprve vypni ručně pomocné pohony.",
+  "distraktory": [
+   "V obvodu relé K142 (K02, K113, K143) – postupuji podle kap. 4.6; před stažením sběračů pak vždy nejprve vypnu vlakové topení.",
+   "V obvodu stykače K36 – ověřím signály S0 a S1 na diagnostice v E22 a stykač K36 procvakám; před stažením sběračů pak vždy vypnu HV."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1256,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nelze najet do výkonu, indikace topení vlaku je funkční, a na diagnostice v E22 není signál S0. Co to znamená?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 17–21, str. 23"
+   }
+  ],
+  "odpoved": "Je prasklá pojistka uvnitř Batyru – lokomotiva je neschopná. (Je-li S0 a chybí S1, je závada v obvodu stykače K36.)",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n17 Napětí trolejové na voltmetru stanoviště - je, ve strojovně na filtru - je. Nelze najet do výkonu, indikace topení vlaku je funkční:\n18 Otevři skříň elektroniky na st1. a ověř Signál S0 na diagnostice v E22\n19 Signál S0 na diagnostice v E22 není je prasklá pojistka uvnitř Batyru – lokomotiva je neschopná.\n20 Signál S0 na diagnostice v E22 je.\n21 Ověř signál S1 v diagnostice E22. Signál S1 není, závada je v obvodu stykače K36.",
+  "distraktory": [
+   "Závada je v obvodu stykače K36 – stykač vizuálně prohlédnu a procvakáním elmagu zkontroluji chod kontaktů.",
+   "Je vadné relé K102 – odzkouším je ve zkušební patici a vyměním za relé K135."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1257,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nelze najet do výkonu; signál S0 v E22 je, S1 není a na zobrazovači stavu na pultě nesvítí bod 23 (K36 S0). Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1, sloupec „nesvítí bod 23 (K36 S0)“, body 25–31, str. 23"
+   }
+  ],
+  "odpoved": "Několikrát vypnu a zapnu řízení, odzkouším relé K102 ve zkušební patici (vadné vyměním za K135) a zkontroluji stykač K116 – zkusím ho ručně sepnout, u provedení RP 700 sepnu aretační páčku.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1 – Na zobrazovači stavu na pultě: nesvítí bod 23 (K36 S0) na pultě.\n25 Několikrát vypni a zapni řízení.\n26 Odzkoušej relé K102 ve zkušební patici\n28 Vadné relé K102 vyměň za relé z inventáře nebo za relé K135 – odkalování jímek nebude samočinné. Nutno občas odvodnit ručně.\n29 Zkontroluj stykač K116. Zkus ho několikrát ručně sepnout.\n30 Je - li stykač K116 v provedení relé RP 700 s aretační páčkou, sepni ji. Stykač K116 novější konstrukce nelze sepnout.\n31 Pokračuj v provozu lokomotivy. Před každým stažením sběračů je důležité, tak, jako na odporových lokomotivách nejprve Vypnout vlakové topení, vypnout kompresory a přerušit chod ventilátorů. Až potom sběrače stahuj. !!!\n(svítí bod 23, nesvítí bod 24 (K36 S1): Závada je na stykači K36. Buď nespíná stykač K36, nebo jeho slaboproudé kontakty. Vizuelně stykač prohlédni. Zmačknutím – procvakáním elmagu na tělese stykače zkontroluj chod kontaktů.)",
+  "distraktory": [
+   "Závada je na stykači K36 – vizuálně ho prohlédnu a zmáčknutím (procvakáním) elmagu na tělese stykače zkontroluji chod kontaktů.",
+   "Vyměním pojistku F07 100A na Unipulsu za dodržení MPBP a zkontroluji signál S5 na diagnostice unipulsu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1258,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 po najetí do výkonu HV nevypadne, ale po 20 vteřinách vypadne a nad pultem bliká SPV K117; poruchu nelze vybavit tlačítkem rušení ochran. Jaká je příčina?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 33–36, str. 24"
+   }
+  ],
+  "odpoved": "Prasklá pojistka F07 100A na Unipulsu (zezadu nahoře) – nemusí být viditelně přerušená, napětí na voltmetru filtru zaniká velice pomalu; za dodržení MPBP ji vyměním (je těžká a z držáku jde ztuha).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n33 Napětí trolejové na voltmetru stanoviště - je, ve strojovně na filtru - je. Bliká nad pultem porucha nabíjení, Unipuls mimo meze, Indikace topení vlaku je funkční. Po najetí do výkonu nevypadne HV. Po 20 vteřinách HV vypadne: bliká nad pultem SPV K117. Závada může být v F102 jistič, K116 stykač, K36 stykač, a tlačítka rušení ochran – a to na obou stanovištích.\n34 Poruchu vybav tlačítkem rušení ochran. Nahoď HV. Pokud opět časuje K117 a HV vypadne. Zavři kohoutky ke sběračům, DODRŽUJ MPBP.\n35 Když nelze poruchu vybavit, je prasklá pojistka F07 100A na Unipulsu – zezadu nahoře. Ne vždy je viditelně pojistka přerušena. Na voltmetru filtru ve strojovně napětí zaniká velice pomalu.\n36 Vyměň pojistku F07 za dodržení MPBP za jinou z inventáře loko. Je poměrně těžká, a z držáku jde ztuha !",
+  "distraktory": [
+   "Prasklá pojistka F05 60A nabíjení filtru na přístrojovém rámu vedle stykače K37 – za dodržení MPBP ji vyměním za jinou z inventáře loko.",
+   "Vadné časové relé K117 – odzkouším je ve zkušební patici a vyměním za relé K135 (odkalování jímek nebude samočinné)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1259,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 není pojistka F07 100A nahoře na Unipulsu, ale pojistka F07 320 A na boku Unipulsu. Smí ji strojvedoucí vyměnit?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 37–38, str. 24"
+   }
+  ],
+  "odpoved": "Ne – pojistka 320 A na boku Unipulsu (od kompresoru 1) je pod šroubem a strojvedoucí ji nevyměňuje; lokomotiva je pak neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n37 Na loko, kde není pojistka F07 100A nahoře, je pojistka F07 320 A - na boku Unipulsu od kompresoru 1.\n38 Pojistku 320 A na boku Unipulsu strojvedoucí nevyměňuje – je pod šroubem. Lokomotiva je pak neschopná.",
+  "distraktory": [
+   "Ano – za dodržení MPBP ji vymění za jinou z inventáře loko; je poměrně těžká a z držáku jde ztuha.",
+   "Ano, ale jen po vypnutí jističe F191 a deonu F203; výměnu zapíše do SH SAP."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1260,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 po zdvihnutí sběračů při rozběhu unipulsu zasahuje Nadproud unipulsu (X4) nebo Přepětí unipulsu (X3) a po 20 vteřinách vypadne HV. Jak postupuješ?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 42–47, str. 24"
+   }
+  ],
+  "odpoved": "Ověřím na vaně PPM (karta ELH 2) signál X3/X4, vypnu oba kompresory, vybavím ochrany a zapnu HV; vypadne-li znovu, vypnu baterii na min. 1 minutu a opakuji – při dalším X3/X4 už nezkouším, loko je neschopná.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n42 Napětí trolejové na voltmetru stanoviště - je, ve strojovně na filtru - je. Po zdvihnutí sběračů při rozběhu unipulsu zasahuje Nadproud unipulsu (X4), nebo Přepětí unipulsu (X3). Po 20 vteřinách vypadne HV:\n43 Otevři skříň elektroniky a ověř na vaně PPM karta ELH 2, zda svítí signál X3 nebo X4. Když svítí, je to špatně.\n44 Vypni oba kompresory. Vybav tlačítkem ochrany. HV opět zapni.\n45 Pokud HV opět vypadne, vypni baterii loko. Počkej minimálně 1 minutu !\n46 Postup opakuj. Pokud opět vypadne HV a znovu se na PPM objeví signál X3 nebo X4 již více pokusů nezkoušej !\n47 Lokomotiva je neschopná.",
+  "distraktory": [
+   "Vypnu oba ventilátory, vyměním pojistku F07 na Unipulsu a HV zapnu z druhého stanoviště; vypadne-li znovu, vypnu baterii na min. 1 minutu a opakuji, pak je loko neschopná.",
+   "Zkontroluji signál S5 v regulátoru, sepnu tlačítka rušení ochran na obou stanovištích a vybavím K117; vypadne-li HV znovu, vypnu baterii na 30 s a opakuji."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1261,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Co znamená, když na diagnostice unipulsu 162/163 svítí signál S5, a co v tom případě zkontroluješ?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.1 Unipuls – nefunguje primár, body 40–41, str. 24"
+   }
+  ],
+  "odpoved": "S5 blokuje funkci unipulsu (signalizace je inverzní – nesmí svítit); svítí-li, zkontroluji jistič F102, stykače K116 a K36 a sepnu na obou stanovištích několikrát tlačítka rušení ochran.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.1:\n39 Zkontroluj zdroje NK1, zda na čele zdrojů svítí všech 6 Led diod. 3.2 Porucha zdrojů NK – 1\n40 Zkontroluj přítomnost signálu S5, který blokuje funkci unipulsu. Na signalizaci v regulátoru nesmí svítit S5 (signalizace je inverzní).\n41 Pokud S5 na diagnostice unipulsu svítí, zkontroluj jistič F102, stykač K116 viz Závada bude v obvodu stykače K116, K36 viz závada stykače K36, a sepni na obou stanovištích několikrát tlačítka rušení ochran.",
+  "distraktory": [
+   "S5 signalizuje správnou funkci unipulsu (musí svítit); nesvítí-li, zkontroluji jistič F102, stykače K116 a K36 a tlačítka rušení ochran.",
+   "S5 signalizuje nadproud unipulsu; svítí-li, vypnu oba kompresory, vybavím ochrany a HV znovu zapnu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1262,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nefunguje jeden z kompresorů a nad pultem svítí signalizace K1, K2. Co uděláš a které jističe zkontroluješ?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.2 Kompresory, ventilátory – nefunguje sekundární unipuls, body 1–7, str. 25"
+   }
+  ],
+  "odpoved": "Na obou stanovištích dám kompresory do vypnuté polohy a zkusmo je postupně zapínám podle signalizace; zkontroluji jističe F117 (K1) a F118 (K2) nebo pojistky přeotáčkové ochrany kompresorů v reléové skříni.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.2 Kompresory, ventilátory – nefunguje sekundární unipuls: Nefunguje jeden z kompresorů nad pultem svítí signalizace K1, K2, nefungují ventilátory.\n1 Na obou stanovištích dej kompresory do vypnuté polohy.\n2 Zkusmo kompresory postupně zapni dle signalizace poruchy nad pultem. DODRŽUJ MPBP.\n4 Zkontroluj jističe F117 (K1) a F118 (K2) nebo pojistky – v reléové skříni). Toto jsou jističe (pojistky) přeotáčkové ochrany kompresorů.\n5 Jistič zapni (pojistku vyměň) a odzkoušej chod kompresoru.\n6 Opakuje-li se výpadek jističe, kompresor nech vypnutý.\n7 Jističe jsou zapnuté (pojistky jsou dobré). Po 20s zasáhne K117. Vypni vadný kompresor.",
+  "distraktory": [
+   "Na obou stanovištích dám kompresory do vypnuté polohy a zkontroluji jističe F106 a F104 a pojistku F 204 40A v reléové skříni.",
+   "Vypnu oba kompresory, vybavím klapkovník tlačítkem rušení ochran a zkontroluji jističe F102 a F115 v reléové skříni."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1263,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 zasahuje relé K117 s výpadkem HV. Po jaké době zasáhne a jak zjistíš, který motor to způsobuje?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.2, body 9–12, str. 25"
+   }
+  ],
+  "odpoved": "K117 zasáhne po 20 s poruchy otáček ventilátorů nebo kompresorů; vybavím rušení ochran a postupně zapínám kompresory a ventilátory (opačné stanoviště v 0) – HV vypadne 20 s po spuštění vadného motoru.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.2 – Zasahuje relé K117 s výpadkem HV.\n9 K117 zasáhne po 20s trvání poruchy otáček ventilátorů, nebo kompresorů.\n10 Vybav tlačítko rušení ochran.\n11 Zapni postupně kompresory a ventilátory. Zjisti, který motor způsobuje zásah K117 (20s zpoždění výpadku HV od spuštění kompresoru nebo ventilátorů). Na opačném stanovišti přitom musí být kompresory v 0.\n12 Zasahuje-li K117 po zapnutí kompresoru, vypni ho a používej jen druhý.",
+  "distraktory": [
+   "K117 zasáhne po 30 s poruchy otáček; vadný motor poznám podle červené led na kartě D2702A1 ve skříni elektroniky a příslušný kompresor vypnu.",
+   "K117 zasáhne ihned při přeotáčkách kompresoru a vypne jen postižený kompresor; vadný motor poznám podle blikání bodu 12 (K117, K138) na zobrazovači stavu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1264,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na kartách EAR 5 (EDYN 12, 4. vana shora) lokomotivy 162/163 nesvítí 3. Led dioda zleva. Co to znamená a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.2, body 15–16, str. 25"
+   }
+  ],
+  "odpoved": "3. Led dioda je kompresor 1 (relé K128) – vypnu kompresor č. 1.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.2:\n15 Na EDYN 12 (4-tá vana shora) karty EAR 5. Musí svítit všechny 4 Led diody na kartách EAR5. Tyto led diody při rozběhu motoru na chvilku zhasnou a opět se rozsvítí.\n16 Význam jednotlivých Led diod na kartách EAR 5 zleva. Když nesvítí zleva o 1. Led dioda (ventilátor 1) relé K119 – zaaretuj 1 MS. o 2. Led dioda (ventilátor 2) relé K120 – zaaretuj 2 MS. o 3. Led dioda (kompresor 1) relé K128 – vypni kompresor č.1 o 4. Led dioda (kompresor 2) relé K129 – vypni kompresor č.2",
+  "distraktory": [
+   "3. Led dioda je ventilátor 1 (relé K119) – zaaretuji 1. motorovou skupinu.",
+   "3. Led dioda je kompresor 2 (relé K129) – vypnu kompresor č. 2."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1265,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 jsi kvůli závadě sekundárního unipulsu sepnul aretační páčkou relé K119 nebo K120. Co musíš udělat a s čím při další jízdě počítat?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.2, body 24–29, str. 26"
+   }
+  ],
+  "odpoved": "Zaaretovat příslušnou MS (u K128/K129 vypnout příslušný kompresor); při vyřazené MS nefunguje EDB, brzdná dráha je značně delší – brzdit s výrazným předstihem a sledovat chod ventilátoru poslechem.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.2:\n24 Po sepnutí některého relé aretační páčkou, postupuj dle bodů níže.!!!\n25 POZOR – Při sepnutí relé K119 nebo K120 musíš zaaretovat příslušnou MS.\n26 POZOR – Při sepnutí relé K128 nebo K129 vypni příslušný kompresor.\n27 Při zaaretované – vyřazené některé MS nefunguje EDB a brzdná dráha je značně delší !!! Vždy brzdi s výrazným předstihem !!!\n28 Sleduj chod ventilátoru poslechem.\n29 Pokud následně nastane závada na trakčních ventilátorech, lokomotiva je již neschopná.",
+  "distraktory": [
+   "Vypnout příslušný kompresor (u K128/K129 zaaretovat MS); při vypnutém kompresoru nefunguje odkalování jímek – občas odvodnit ručně.",
+   "Vypnout jistič F180 skluzové ochrany; lokomotiva pak nezná skutečnou rychlost a v automatice pojede stále ve výkonu – jet bez ARR."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1266,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí nad pultem kontrolka dobíjení baterie, kompresory a ventilátory fungují. Jaký je první postup?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.3 Dobíječ nefunguje, body 1–4, str. 27"
+   }
+  ],
+  "odpoved": "Stáhnu sběrače, vypnu HV a loko uzemním; vyčkám minimálně 20 sekund, stisknu tlačítko ochran na noze pultu, odzemním, zapnu HV a zdvihnu sběrače.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.3 Dobíječ nefunguje – Nad pultem svítí kontrolka dobíjení baterie, kompresory a ventilátory fungují.\n1 Stáhni sběrače, vypni hlavní vypínač a lokomotivu uzemni.\n2 Vyčkej minimálně 20 sekund nebo déle a uveď lokomotivu opět do provozu.\n3 Stiskni tlačítko ochran na noze pultu.\n4 Odzemni, zapni HV a zdvihni sběrače.\n5 Pokud je samotný dobíječ stále v poruše. DODRŽUJ MPBP.",
+  "distraktory": [
+   "Stáhnu sběrače, vypnu HV, loko uzemním a vypnu baterii; vyčkám minimálně 1 minutu, pak baterii zapnu, odzemním, zapnu HV a zdvihnu sběrače.",
+   "Zkontroluji Led diodu F1 na kartě v dobíječi a vyměním pojistku pod šroubem uvnitř dobíječe; pak odzemním, zapnu HV a zdvihnu sběrače."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1267,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Dobíječ lokomotivy 162/163 zůstává v poruše. Jak dlouho zhruba vydrží baterie a co musíš omezit?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 5.3 Dobíječ nefunguje, body 6–9, str. 27"
+   }
+  ],
+  "odpoved": "Do vybití baterie zbývají asi 2–4 hodiny (ke konci napětí rychle klesá, pod 35 V loko nefunguje); omezím spotřebu elektroniky – jízda v R režimu, ohřev jímek, rozmrazovače, osvětlení strojovny atd.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 5.3 Dobíječ nefunguje:\n6 Na některých loko je pojistka větší uvnitř dobíječe. Je-li vyměnitelná, vyměň ji za náhradní z výzbroje loko. Některé dobíječe již pojistky nemají. Pojistky „pod šroubem“ strojvedoucí nevyměňuje!!!\n7 Zkontroluj Led diodu F1 na kartě v dobíječi. Když Led dioda svítí je pojistka na kartě vadná. Na obrázku nesvítí, je v pořádku.\n8 Omez co nejvíce spotřebu elektroniky – jízda v R režimu, Ohřev jímek, rozmrazovače, osvětlení strojovny atd.\n9 Ověř stav - napětí baterie. Do vybití baterie zbývají asi 2 – 4 hodiny !!! Pozor - ke konci kapacity baterie napětí na baterii rychle klesá. Pod 35V již loko nebude fungovat.",
+  "distraktory": [
+   "Do vybití baterie zbývají asi 2–4 hodiny (pod 35 V loko nefunguje); spotřebu snížím jízdou v A režimu (automatika) a vypnutím centrálního zdroje.",
+   "Do vybití baterie zbývá asi 1 hodina (pod 35 V loko nefunguje); omezím spotřebu vypnutím kompresorů a ventilátorů a jízdou v R režimu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1268,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí nad pultem kontrolka skluzu, dochází k potlačení výkonu a loko nejde do výkonu; jedeš ze st. 2 nebo není čas. Co uděláš a na co si dát pozor?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 6 Skluzová ochrana, body 1–3, str. 28"
+   }
+  ],
+  "odpoved": "Vypnu jistič F180 skluzové ochrany a pokračuji v jízdě; loko se může smeknout, v automatice nezná skutečnou rychlost – opatrně zadávat tah, jet bez ARR; po výpadku HV při brzdění nefunguje EDB.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 6. Skluzová ochrana – Nad pultem svítí kontrolka skluzu a loko nejde do výkonu, dochází k potlačení výkonu\n1 Při jízdě ze st.2 nebo, když není čas, vypni jistič F180 skluzové ochrany a pokračuj v jízdě.\n2 Při vypnutí jističe skluzové ochrany F180 nebude fungovat skluzová ochrana, lokomotiva se může smeknout. V režimu automatika lokomotiva nebude znát skutečnou rychlost a pojede stále ve výkonu. Dbej na opatrné zadávání poměrného tahu a jízdu bez ARR. Po nežádoucím výpadku HV při brzdění nebude fungovat EDB. Brzdná dráha je značně delší !!!\n3 Při stání lokomotivy zkontroluj dotažení kabelů na nápravových snímačích.",
+  "distraktory": [
+   "Vypnu jistič F109 pneumatické brzdy a pokračuji v jízdě; loko se může smeknout, proto jedu bez ARR a s výrazným předstihem brzdím.",
+   "Zaaretuji obě MS ovladačem na noze pultu a pokračuji v jízdě; nefunguje EDB, brzdná dráha je značně delší – brzdit s výrazným předstihem."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1269,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jak na 162/163 se starší dvouvanovou elektronikou vyhledáš za jízdy vadné skluzové čidlo a vyřadíš je?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 6 Skluzová ochrana, body 4–8, str. 28"
+   }
+  ],
+  "odpoved": "Při jízdě ze st. 1 zjistím ve skříni elektroniky, na které kartě D2702A1 svítí červená led (vztažná náprava – bývá vadná); vypnu F180, zamáčknu na kartě černé/červené tlačítko (vyřazení) a F180 zapnu – lze i za jízdy.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 6. Skluzová ochrana – Vyhledání vadného skluzového čidla za jízdy na starší dvouvanové elektronice:\n5 Při jízdě ze st.1 zjisti ve skříni elektroniky, která náprava na LSO svítí jako vztažná. Každá náprava má svojí samostatnou kartu pro vyhodnocení otáčení nápravy - D2702A1. Ta, na které za jízdy svítí červená led dioda je vztažná. Ta náprava bývá většinou vadná.\n6 Vypni jistič Skluzové ochrany F180 a zamáčkni na kartě černé nebo někde červené tlačítko. Tím ji vyřadíš z provozu.\n7 Jistič F180 opět zapni. (lze provést i za jízdy).\n8 Lze vypnout více čidel. Počítej s tím, že vyblokovaná náprava se může smeknout a vypadne HV.",
+  "distraktory": [
+   "Při jízdě ze st. 1 zjistím, na které kartě D2705A1 svítí zelená led (vztažná náprava); zaaretuji příslušnou MS, čímž zablokuji její skluzová čidla.",
+   "Zkontroluji nastavení počtu náprav na pultě a tlačítko 5. virtuální nápravy ve skříni elektroniky; vadnou nápravu vyřadím vypnutím jističe F180 na trvalo."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1270,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 s novější jednovanovou elektronikou hledáš vadné skluzové čidlo. Co zkontroluješ a jak čidlo vyřadíš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 6 Skluzová ochrana, body 9–15, str. 28–29"
+   }
+  ],
+  "odpoved": "Nastavení počtu náprav na pultě a tlačítko 5. virtuální nápravy; zaaretováním MS zablokuji její čidla (vyřazena EDB); vztažná je karta D2705A1 se zelenou led – zamáčknu na ní tlačítko (lze i za jízdy).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 6. Skluzová ochrana – Vyhledání závady, nebo vadného skluzového čidla za jízdy na novější jednovanové elektronice\n10 Zkontroluj nastavení počtu náprav na pultě strojvedoucího.\n11 Zaaretuj jednu nebo druhou MS. Při zaaretování MS na ní současně zablokuješ skluzová čidla. Tím vadné čidlo vyřadíš. POZOR, při zaaretování MS je vyřazena EDB. Po vyhledávání vadného čidla odaretuj MS a pokračuj dle bodu 13 a 14 v jízdě bez omezení.\n12 Ve skříni elektroniky zkontroluj, zda není zamáčknuté tlačítko 5-té virtuální nápravy.\n13 Při jízdě ze st.1 zjisti, která náprava na LSO svítí jako vztažná. Každá náprava má svojí samostatnou kartu vyhodnocení otáčení nápravy D2705A1. Karta, na které za jízdy svítí zelená led dioda, je vztažná. Bývá většinou vadná.\n14 Zamáčkni na kartě tlačítko a tím ji vyřadíš z provozu (lze provést i za jízdy).\n15 Lze vypnout více čidel. Počítej s tím, že vyblokovaná náprava se může smeknout a vypadne HV. Po výpadku HV při brzdění nebude fungovat EDB. Brzdná dráha je značně delší !!!",
+  "distraktory": [
+   "Dotažení kabelů na nápravových snímačích; vztažná je karta D2702A1 s červenou led – vypnu F180, zamáčknu na kartě černé tlačítko a F180 zapnu.",
+   "Nastavení počtu náprav na pultě; vadné čidlo vyřadím trvalým vypnutím jističe F180 – skluzová ochrana pak funguje jen na zbylých nápravách."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1271,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 je směrová páka blokována v 0 a nelze zadat směr. Co ověříš jako první?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 7 Nelze zadat směry, bod 1, str. 30"
+   }
+  ],
+  "odpoved": "Ve skříni elektroniky na st. 1 na vaně skluzové ochrany, zda je vymáčknuté tlačítko pro zkoušení skluzu (musí být) – případně je vymáčknu a problém je odstraněn.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 7. Nelze zadat směry – Směrová páka je blokována v 0.\n1 Ve skříni elektroniky na st1 na vaně skluzové ochrany ověř, zda je vymačknuté /musí být/ tlačítko pro zkoušení skluzu. Případně jej vymačkni = problém je odstraněn.\n2 Vypni jistič skluzové ochrany F180.\n3 Přestav směrovou páku, poté jistič zase zapni.\n4 Před každou manipulací se směrovou pákou postup opakuj.",
+  "distraktory": [
+   "Ve skříni elektroniky, zda není zamáčknuté tlačítko 5. virtuální nápravy – případně je vymáčknu a problém je odstraněn.",
+   "Na noze pultu, zda přepínač zkoušky buzení a kotev není v poloze ZB nebo ZK – případně jej přepnu a problém je odstraněn."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1272,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 nelze zadat směr ani po kontrole tlačítka zkoušení skluzu. Jaký je nouzový postup s jističem F180 a na co si při něm dát pozor?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 7 Nelze zadat směry, body 2–6, str. 30"
+   }
+  ],
+  "odpoved": "Vypnu F180, přestavím směrovou páku a jistič zase zapnu – před každou manipulací se směrem opakovat; při vypnutém F180 není páka aretována – pozor na neúmyslné přestavení směru (může zaúčinkovat VZ LS90 a novější).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 7. Nelze zadat směry:\n2 Vypni jistič skluzové ochrany F180.\n3 Přestav směrovou páku, poté jistič zase zapni.\n4 Před každou manipulací se směrovou pákou postup opakuj.\n5 Jedeš-li ze stanoviště 2 a necháš shozený jistič F180, nebude fungovat skluzová ochrana a režim automatika. Dbej na opatrné zadávání poměrného tahu.\n6 Při vypnutém jističi F180 směrová páka není při jízdě bez výkonu aretována. Za jízdy dej pozor na neúmyslné přestavení směru, mj. by mohla zaúčinkovat VZ LS90 a novější.",
+  "distraktory": [
+   "Vypnu F109, přestavím směrovou páku a jistič zase zapnu – před každou manipulací opakovat; při vypnutém F109 nefunguje pneumatická brzda.",
+   "Vypnu F180 a nechám ho vypnutý po celou jízdu; ze st. 2 pak skluzová ochrana i režim automatika fungují normálně a páka zůstává aretována."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1273,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Na 162/163 svítí na diagnostice nad oknem zablokování pulzů Y1. Jak a kdy vyřadíš motorovou skupinu?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 8 Vyřazení motorové skupiny, body 1–3, str. 31"
+   }
+  ],
+  "odpoved": "Lze i za jízdy, ale vždy v bezvýkonovém stavu (po sjetí z výkonu počkat asi 6 s, až se trakční obvod přestaví do brzdy); stisknu rušení ochran a ovladač pod pultem „na noze“ přepnu do PM1 nebo PM2 podle Y1/Y2.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 8. Vyřazení motorové skupiny – Na diagnostice nad oknem svítí zablokování pulzů Y1 nebo Y2, příp. také porucha prvku na pulsních měničích.\n1 Vyřadit MS lze i za jízdy, ale vždy v bezvýkonovém stavu. Po sjetí z výkonu počkej asi 6 sekund, až se trakční obvod přestaví do brzdy.\n2 Stiskni tlačítko rušení ochran na noze pultu.\n3 Pod pultem „na noze“ přepni ovladač do PM1 nebo PM2, dle signalizace nad oknem ověř, zda nastala porucha Y1 nebo Y2. Pokud svítí obě, zkusmo některou MS vyřaď. Na obrázku je vyřazena MS1.",
+  "distraktory": [
+   "Lze jen při stojící lokomotivě: zavedu bezpečný stav, uzemním a přepojovače J-B ručně přestavím do Jízdy; pak ovladač na noze pultu přepnu do PM1 nebo PM2.",
+   "Lze i za jízdy ve výkonu; stisknu rušení ochran, ovladač NJ na pultě přepnu do malé 0 a zpět a po 20 s se vadná MS vyřadí sama."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1274,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Pulzní měniče 162/163 zůstanou zablokovány i po aretaci motorové skupiny. Co uděláš a na co při další jízdě pamatovat?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 8 Vyřazení motorové skupiny, body 4–5, str. 31"
+   }
+  ],
+  "odpoved": "Odblokuji je přepnutím ovladače NJ na pultě do malé 0 a vrácením zpět; při vyřazené MS nefunguje EDB, brzdná dráha je značně delší – vždy brzdit s výrazným předstihem.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 8. Vyřazení motorové skupiny:\n4 Když zůstanou pulzní měniče zablokovány i po aretaci MS, je nutné je odblokovat přepnutím ovladače NJ na pultě do malé 0 a zase vrátit zpět.\n5 Při vyřazené některé MS nefunguje EDB a brzdná dráha je značně delší !!! Vždy brzdi s výrazným předstihem !!!",
+  "distraktory": [
+   "Zamáčknu tlačítko Nouzová jízda na regulátoru tahu E22 ve skříni elektroniky; při vyřazené MS je jízda možná jen do 60 km/h.",
+   "Vypnu a znovu zapnu jistič F180 skluzové ochrany; při vyřazené MS nefunguje skluzová ochrana – jet bez ARR."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1275,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jak na 162/163 odzkoušíš relé ve zkušební patici v releové skříni?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 9 Postup zkoušení relé, body 1–5, str. 32"
+   }
+  ],
+  "odpoved": "Relé vložím do patice; klidové doteky – nic nemačkám, musí svítit všechny tři zkušební kontrolky; pracovní doteky – zmáčknu tlačítko, opět musí svítit všechny tři; nesvítí-li, relé je vadné (může být vadná i žárovka).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 9. Postup zkoušení relé – Vyjmi relé a vlož jej do zkušební patice.\n2 Zkoušej klidové doteky relé – nic nemačkej, přitom musí svítit všechny tři zkušební kontrolky.\n3 Nyní vyzkoušej pracovní doteky relé. Zmačkni tlačítko, přitom musí svítit všechny tři zkušební kontrolky.\n4 Kontrolky nesvítí – relé je vadné. Pozor může být vadná i zkušební žárovka.\n5 Relé novějšího typu mají nahoře páčku. Po překlopení do svislé polohy relé bude trvale sepnuto. Ovšem relé s vadnými kontakty, ikdyž má aretační páčku stejně musíš vyměnit za jiné.",
+  "distraktory": [
+   "Relé vložím do patice a zmáčknu tlačítko – musí svítit kontrolka v tlačítku a po uvolnění zhasnout; svítí-li i bez zmáčknutí, relé je vadné.",
+   "Relé vložím do patice; klidové doteky – zmáčknu tlačítko, musí svítit všechny tři kontrolky; pracovní doteky – nic nemačkám, kontrolky musí zhasnout."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1276,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Při zkoušení diody ve zkušební patici 162/163 svítí kontrolka v tlačítku i bez jeho zmáčknutí. Co to znamená?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 10 Postup zkoušení diody, body 2–4, str. 32"
+   }
+  ],
+  "odpoved": "Dioda je vadná – proražená, vede oběma směry; musí se vyměnit. (V pořádku: kontrolka svítí jen při zmáčknutí a po uvolnění zhasne.)",
+  "plne_zneni": "Závady v kostce 162/163 v2, 10. Postup zkoušení diody – Vyjmi diodu a vlož ji do zkušební patice.\n2 Zmačkni tlačítko, přitom musí svítit kontrolka v tlačítku. Po uvolnění zhasne. Dioda je v pořádku.\n3 Pokud svítí kontrolka v tlačítku i bez zmačknutí – dioda je vadná, proražená, vede oběma směry. Musí se vyměnit.\n4 Pokud nesvítí kontrolka v tlačítku i po zmačknutí – dioda je vadná, přerušená. Musí se vyměnit. Pozor může být vadná i zkušební žárovka.",
+  "distraktory": [
+   "Dioda je v pořádku – vede správným směrem; vadná by byla, kdyby kontrolka po zmáčknutí nesvítila.",
+   "Dioda je vadná – přerušená; musí se vyměnit, může být ale vadná i zkušební žárovka."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1277,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Kdy na lokomotivě 162/163 použiješ nouzové ovládání brzdiče BSE?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, úvod, str. 33"
+   }
+  ],
+  "odpoved": "Při poruše elektrické části brzdiče (nesprávná funkce některého EPV): nelze naplnit/doplnit HP, při brzdění neklesá tlak v HP, svévolné změny tlaku v HP, lokomotiva nebrzdí samočinnou brzdou – pouze na rychlobrzdu.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE: Použijeme při poruše elektrické části brzdiče (nesprávná funkce některého EPV) tzn. nelze naplnit (doplnit) HP nebo při brzdění nedochází ke snižování tlaku v HP. Svévolné změny tlaku v hlavním potrubí, lokomotiva nebrzdí samočinnou brzdou, pouze na rychlobrzdu.\n1 Jističe jsou zapnuté? Především F109 Pneumatická brzda.",
+  "distraktory": [
+   "Při poruše pneumatické části brzdiče: nelze naplnit napájecí potrubí, pomocný kompresor nedodává tlak 5 barů do přístrojové jímky a nelze zvednout sběrače.",
+   "Při poruše přímočinné brzdy BP: brzdič BP samovolně „odskakuje“ a odbrzďuje soupravu, tlak v brzdových válcích nedosáhne 4 barů."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1278,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jak na 162/163 přepneš brzdič BSE na nouzové ovládání a co s kohouty u brzdiče?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, body 2–5, str. 33"
+   }
+  ],
+  "odpoved": "Při stojící loko zabrzdím BP úplně, vypustím HP, OBE1 do jízdní, utáhnu ruční brzdy; za dodržení MPBP přepnu na BSE páčku přestavovače E/N do polohy N – kohouty před a za brzdičem zůstávají otevřené; vypnu F109.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE:\n2 Při stojící loko - vlaku zabrzdi přímočinnou brzdu úplně. Vypustˇ hlavní potrubí. Ovladač samočinné brzdy OBE1 dej do polohy jízdní. Utáhni obě ruční brzdy, příp. loko podlož klíny.\n3 Při dodržení MPBP /jako průchod strojovnou/ na brzdiči BSE přepni páčku s plombou přestavovače E/N do polohy N-nouzově. Případné syčení vzduchu není závada. Kohouty před a za brzdičem zůstávají otevřené!!!\n4 Na opačném stanovišti při odbrzděné BP zavři kohout k BP pod pultem. Ovladač samočinné OBE1 na opačném stanovišti je v poloze Závěr.\n5 Vypni jistič BSE – F109 Pneumatická brzda.",
+  "distraktory": [
+   "Při stojící loko zabrzdím BP úplně, OBE1 do Závěru; za dodržení MPBP přepnu na BSE páčku přestavovače E/N do polohy N a kohouty před a za brzdičem uzavřu; vypnu F109.",
+   "Při stojící loko zabrzdím BP úplně, vypustím HP; na BSE přepnu páčku přestavovače E/N do polohy E, uzavřu kohout za brzdičem (červený) a kohout VZ (žlutý); F109 ponechám zapnutý."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1279,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Při nouzovém ovládání brzdiče BSE na 162/163 – co musíš udělat na opačném (neobsazeném) stanovišti?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, bod 4, str. 33"
+   }
+  ],
+  "odpoved": "Při odbrzděné BP zavřít kohout k BP pod pultem; ovladač samočinné brzdy OBE1 na opačném stanovišti je v poloze Závěr.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE:\n4 Na opačném stanovišti při odbrzděné BP zavři kohout k BP pod pultem. Ovladač samočinné OBE1 na opačném stanovišti je v poloze Závěr.\n5 Vypni jistič BSE – F109 Pneumatická brzda.\n6 Na obsazeném stanovišti při utažených ručních brzdách proveď ověření ovladatelnosti průběžné brzdy = stupňovitě zabrzdi Přímočinnou brzdu a stupňovitě odbrzdi, zkus dvakrát. Sleduj manometr hl. potrubí, zda je doplňování tlaku vzduchu plynulé, a také manometr brzdových válců.",
+  "distraktory": [
+   "Při zabrzděné BP otevřít kohout k BP pod pultem; ovladač samočinné brzdy OBE1 na opačném stanovišti je v jízdní poloze.",
+   "Vypnout jistič F109 Pneumatická brzda a utáhnout ruční brzdu; ovladač OBE1 na opačném stanovišti ponechat v jízdní poloze."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1280,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jakou novou stanovenou rychlost si na 162/163 určíš při jízdě v režimu nouzového ovládání BSE a kam smíš dojet?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, bod 12, str. 34"
+   }
+  ],
+  "odpoved": "Dle V15/I: maximálně 100 km/h; v rozsahu stanovené rychlosti 60–110 km/h vždy o 10 km/h méně než stanovená rychlost vlaku v TJŘ. Lze jet až do cílové stanice.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE – Zásady po přepnutí na nouzové ovládání BSE:\n12 Urči si novou stanovenou rychlost vlaku v režimu nouzového ovládání BSE dle V15/I => Nová rychlost = maximálně 100 km/h, avšak v rozsahu stanovené rychlosti 60 - 110 km/h vždy o 10 km/h méně než stanovená rychlost vlaku v TJŘ. Můžeš až do cílové stanice.\n13 Pokud má lokomotiva nekovové špalíky, můžeš dojet s vlakem pouze do následující stanice !!! Max. rychlost bude 30 km/h.",
+  "distraktory": [
+   "Dle V15/I: maximálně 60 km/h bez ohledu na rychlost v TJŘ; lze jet pouze do následující stanice.",
+   "Dle V15/I: maximálně 100 km/h; v rozsahu stanovené rychlosti 60–110 km/h vždy o 10 km/h méně než rychlost v TJŘ, ale pouze do následující stanice."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1281,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jedeš na 162/163 v režimu nouzového ovládání BSE a lokomotiva má nekovové špalíky. Jaké omezení platí?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, body 13–14, str. 34"
+   }
+  ],
+  "odpoved": "S vlakem lze dojet pouze do následující stanice, max. rychlost 30 km/h; je-li tlak přímočinné brzdy kvůli nekovovým špalíkům snížen jen do 3,8 bar, pak max. 15 km/h.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE – Zásady:\n13 Pokud má lokomotiva nekovové špalíky, můžeš dojet s vlakem pouze do následující stanice !!! Max. rychlost bude 30 km/h.\n14 Pokud je tlak přímočinné brzdy snížen z důvodu nekovových špalíků na tlak jen do 3,8 bar, můžeš dojet s vlakem pouze do následující stanice !!! Max. rychlost bude 15 km/h.",
+  "distraktory": [
+   "S vlakem lze dojet pouze do následující stanice, max. rychlost 60 km/h; je-li tlak přímočinné brzdy snížen jen do 3,8 bar, pak max. 30 km/h.",
+   "S vlakem lze dojet až do cílové stanice, max. rychlost 30 km/h; je-li tlak přímočinné brzdy snížen jen do 4 bar, pak max. 15 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1282,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Jaké zásady platí na 162/163 po přepnutí na nouzové ovládání BSE ohledně tlaku v brzdových válcích a rychlobrzdy?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, body 8–11, str. 34"
+   }
+  ],
+  "odpoved": "Již při 4 barech ve válcích je maximálně zabrzděno (nelze švih ani nízkotlaké přebití); rychlobrzdu nelze dát brzdičem BP – v nouzi ji zadám ovladačem samočinné brzdy; ze stanoviště se nevzdaluji.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE – Zásady po přepnutí na nouzové ovládání BSE:\n8 Již při tlaku 4 bary ve válcích (!) je maximálně zabrzděno. Nelze dát švih nebo nízkotlaké přebití.\n9 Rychlobrzdu nelze dát brzdičem BP – v nouzi musíš rychlobrzdu zadat ovladačem samočinné brzdy!\n10 Před rozjezdem vlaku bude vždy zabrzděno úplně.\n11 Ze stanoviště se nevzdaluj! Brzdič BP může i při zabrzdění samovolně „odskočit“ a odbrzdit soupravu !",
+  "distraktory": [
+   "Již při 3,8 baru ve válcích je maximálně zabrzděno; rychlobrzdu lze dát pouze brzdičem BP, ovladač samočinné brzdy OBE1 je v Závěru; před rozjezdem musí být odbrzděno.",
+   "Již při 4 barech ve válcích je maximálně zabrzděno; rychlobrzdu dám brzdičem BP – ovladač samočinné brzdy je při nouzovém ovládání nefunkční; ze stanoviště se lze vzdálit."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1283,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Při nouzovém ovládání BSE na 162/163 musíš přejít na druhé stanoviště. Jaké je závazné pořadí úkonů?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, bod 15, str. 34"
+   }
+  ],
+  "odpoved": "1. Původní st.: nechat zabrzděno BP, bezpečný stav, vypnout řízení. 2. Nové st.: zapnout řízení, otevřít kohout BP, zabrzdit BP. 3. Původní st.: odbrzdit BP, ověřit tlak, zavřít kohout BP, OBE1 do Závěru. 4. Nové st.: OBE1 do jízdní.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE:\n15 Při přecházení stanovišť lokomotiva nezabrzdí průběžnou brzdou. Po vypnutí řízení je tedy úplně odbrzděno! Je nezbytné dodržet následující postup pro zajištění zabrzdění lokomotivy.\n1. Na původním stanovišti - Ponechej zabrzděno BP - Navoď Bezpečný stav lokomotivy, vypni řízení.\n2. Na novém stanovišti - Zapni řízení, otevři kohout od BP pod pultem, zabrzdi BP na novém stanovišti.\n3. Na původním stanovišti - Až nyní odbrzdi BP, ověř, že je tlak v brzdových válcích, že se loko nehýbe. Až potom zavři kohout od BP. - Ovladač OBE1 dej do Závěru.\n4. Na novém stanovišti - Ovladač OBE1 dej do Jízdní polohy, brzdičem BP proveď ověření ovladatelnosti průběžné brzdy.\nPořadí úkonů je závazné. Při každé změně stanoviště.",
+  "distraktory": [
+   "1. Původní st.: odbrzdit BP, zavřít kohout BP, OBE1 do Závěru, vypnout řízení. 2. Nové st.: zapnout řízení, otevřít kohout BP, zabrzdit BP, OBE1 do jízdní a ověřit ovladatelnost.",
+   "1. Původní st.: nechat zabrzděno BP, utáhnout ruční brzdy, vypnout řízení. 2. Nové st.: zapnout řízení, OBE1 do jízdní, zabrzdit BP. 3. Původní st.: povolit ruční brzdy, kohout BP nechat otevřený."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Odpověď je delší (4 fáze závazného pořadí), zkráceno na minimum."
+ },
+ {
+  "n": 1284,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Komu oznámíš přechod na nouzové ovládání brzdiče BSE na 162/163 a kam ho zapíšeš?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 11 Nouzové ovládání brzdiče BSE, body 16–18, str. 34"
+   }
+  ],
+  "odpoved": "Strojmistrovi, lokomotivnímu dispečerovi a výpravčímu nebo traťovému dispečerovi; zapíšu do knihy předávky a oprav s požadavkem na zaplombování páčky E/N. Po rozjezdu provedu OUPB.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 11. Nouzové ovládání brzdiče BSE:\n16 Oznam: A) Strojmistrovi B) Lokomotivnímu dispečerovi C) Výpravčímu nebo traťovému dispečerovi.\n17 Přechod na Nouzové ovládání brzdiče zapiš do knihy předávky a oprav s požadavkem na zaplombování páčky E/N.\n18 Odstraň klíny, povol ruční brzdy a pokračuj do následné, max. do cílové stanice vlaku. Po rozjezdu vlaku proveď OUPB a vždy brzdi s předstihem a jistotou.",
+  "distraktory": [
+   "Pouze výpravčímu nebo traťovému dispečerovi; zapíšu do aplikace SH SAP s uvedením dne, času a svého SAP čísla. Po rozjezdu provedu OUPB.",
+   "Strojmistrovi a lokomotivnímu dispečerovi; zapíšu do aplikace SH SAP s požadavkem na výměnu brzdiče. Po rozjezdu OUPB neprovádím, jen brzdím s předstihem."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1285,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Připravuješ lokomotivu 162/163 k přepravě. Co musíš „elektricky“ fyzicky zkontrolovat na přepojovačích ve strojovně a co uděláš, když nejsou ve správné poloze?",
+  "obrazky": [],
+  "tema": "Přeprava a odtah",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 12 Přeprava lokomotivy, body 1–5, str. 35"
+   }
+  ],
+  "odpoved": "Na obou přestavovačích Q11, Q12 Jízda–brzda polohu Brzda a na přepojovačích směru Q13, Q14 polohu 0 (nože vyřazeny dvoupólově); nejsou-li, zavřu kohoutek 976/10 a přestavím je ručně (tyčkou, šroubovákem).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 12. Přeprava lokomotivy – Elektricky = Směr v 0; J – B v brzdě\n1 Lokomotivu zajisti klíny a zabrzdi prozatím přímočinnou brzdou. Při zapnutém řízení dej směrovou páku do nuly, přibrzdi samočinnou brzdou na 3,5 baru v hlavním potrubí a dej Závěr.\n2 Navodíme bezpečný stav lokomotivy, jako při práci ve strojovně.\n3 Na obou přestavovačích Q 11,12 Jízda-brzda fyzicky zkontroluj přestavení do polohy Brzda.\n4 Na obou přepojovačích Q13,14 Směru fyzicky zkontroluj odpojení směrů – musí být v poloze 0, nože vyřazeny dvoupólově.\n5 Nejsou J-B v brzdě a směry v 0 ? Zavři kohoutek 976/10 přístrojového bloku a do těchto poloh přepojovače přestav ručně ! Pomocí tyčky, šroubováku, zasunutím do nátrubku.",
+  "distraktory": [
+   "Na obou přestavovačích Q11, Q12 Jízda–brzda polohu Jízda a na přepojovačích směru Q13, Q14 polohu 0; nejsou-li, zavřu kohoutek 973/8 a přestavím je ručně šroubovákem.",
+   "Na obou přestavovačích Q11, Q12 polohu Brzda a na přepojovačích směru Q13, Q14 zadaný směr jízdy; nejsou-li, přestavím je při zapnutém řízení směrovou pákou z pultu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1286,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Vzduch pro přepravu lokomotivy 162/163: které dva kohouty u brzdiče uzavřeš a v jaké poloze musí být kohout vzduchového rozvaděče, má-li loko brzdit samočinnou brzdou?",
+  "obrazky": [],
+  "tema": "Přeprava a odtah",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 12 Přeprava lokomotivy, body 6–8, str. 36"
+   }
+  ],
+  "odpoved": "Uzavřu kohout za brzdičem (červený) a kohout VZ (žlutý); má-li loko brzdit samočinnou brzdou, musí být vzduchový rozvaděč otevřený = kohout svisle (nesmí-li brzdit, kohout zavřený – vodorovně).",
+  "plne_zneni": "Závady v kostce 162/163 v2, 12. Přeprava lokomotivy – Vzduch pro přepravu.\n6 Uzavři kohout za brzdičem - červený.\n7 Uzavři kohout VZ žlutý.\n8 Loko bude brzdit samočinnou brzdou – vzduchový rozvaděč musí být otevřený = kohout svisle !!! | Loko nemá, nesmí brzdit samočinnou brzdou – kohout zavřený – vodorovně",
+  "distraktory": [
+   "Uzavřu kohout před brzdičem (červený) a kohoutek 976/10 přístrojového bloku; má-li loko brzdit samočinnou brzdou, musí být kohout vzduchového rozvaděče zavřený – vodorovně.",
+   "Uzavřu kohouty 973/7 a 973/8; má-li loko brzdit samočinnou brzdou, musí být vzduchový rozvaděč otevřený = kohout vodorovně s trubkou."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1287,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Přeprava brzděné lokomotivy 162/163: jak nastavíš vzduchové kohouty 973/7 a 973/8 při propojeném napájecím potrubí s dalšími vozidly a jak bez něj (propojené jen hlavní potrubí)?",
+  "obrazky": [],
+  "tema": "Přeprava a odtah",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 12 Přeprava lokomotivy, body 9–10, str. 36"
+   }
+  ],
+  "odpoved": "Při propojeném napájecím potrubí ponechám 973/8 UZAVŘEN a 973/7 OTEVŘEN („ve tvaru L“ jako činná loko); bez propojeného napájecího potrubí otevřu 973/8 a uzavřu 973/7.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 12. Přeprava lokomotivy:\n9 Při propojeném napájecím potrubí s dalšími vozidly. | Bez propojeného napájecího potrubí s dalšími vozidly. Propojené pouze hlavní, červené.\n10 Ponecháme vzduchové kohouty 973/8 UZAVŘEN a 973/7 OTEVŘEN „ve tvaru L /jako činná lokomotiva/“ | Otevři vzduchový kohout 973/8 Uzavři vzduchový kohout 973/7\n11 Odbrzdi BP, loko je zaklínována, vypni řízení, vypni centrální zdroj a baterii.\n12 Proveď ověření funkce brzdy z jiné lokomotivy.",
+  "distraktory": [
+   "Při propojeném napájecím potrubí otevřu 973/8 a uzavřu 973/7; bez propojeného napájecího potrubí ponechám 973/8 UZAVŘEN a 973/7 OTEVŘEN („ve tvaru L“).",
+   "V obou případech ponechám 973/8 UZAVŘEN a 973/7 OTEVŘEN („ve tvaru L“ jako činná loko); bez napájecího potrubí navíc uzavřu kohout VZ (žlutý)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1288,
+  "kategorie": "lokomotivy",
+  "rada": "162/163",
+  "otazka": "Lokomotiva 162/163 při přepravě nemá (nesmí) brzdit samočinnou brzdou. Co uděláš se vzduchovým rozvaděčem a co ověříš?",
+  "obrazky": [],
+  "tema": "Přeprava a odtah",
+  "predpis": "Závady v kostce 162/163 v2",
+  "zdroje": [
+   {
+    "predpis": "Závady v kostce 162/163 v2",
+    "clanek": "kap. 12 Přeprava lokomotivy, pravý sloupec, body 8–12, str. 36"
+   }
+  ],
+  "odpoved": "Zavřu vzduchový rozvaděč (kohout vodorovně), ručně jej odbrzdím odbrzďovačem na tělese, zavřu kohouty do podvozků od samočinné brzdy; ověřím odbrzdění všech brzdových jednotek a po spojení s jinou loko, že nebrzdí.",
+  "plne_zneni": "Závady v kostce 162/163 v2, 12. Přeprava lokomotivy (pravý sloupec – Loko nemá, nesmí brzdit samočinnou brzdou – kohout zavřený – vodorovně):\n10 Zavři /kohout vodorovně s trubkou/ vzduchový rozvaděč a ručně jej odbrzdi odbrzďovačem na tělese rozvaděče, dokud je slyšet únik vzduchu. Zavři kohouty do podvozků od samočinné brzdy.)\n11 Při zaklínované loko a odbrzděné brzdě fyzicky zjisti odbrzdění všech brzdových jednotek.\n12 Při spojení s jinou lokomotivou proveď ověření funce brzdy, po zabrzdění, že loko opravdu nebrzdí.",
+  "distraktory": [
+   "Ponechám vzduchový rozvaděč otevřený (kohout svisle), uzavřu kohouty 973/7 a 973/8 a odbrzdím BP; po spojení s jinou loko ověřím funkci brzdy, že loko brzdí.",
+   "Zavřu vzduchový rozvaděč (kohout vodorovně), kohouty do podvozků nechám otevřené a odbrzdím samočinnou brzdou z pultu; po spojení s jinou loko ověřím, že loko brzdí."
+  ],
+  "jistota": "vysoká"
+ }
+]

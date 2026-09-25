@@ -1,0 +1,353 @@
+[
+  {
+    "n": 221,
+    "otazka": "Předpis určuje povinnosti pro doprovod vlaku. Kterých zaměstnanců se tyto povinnosti týkají?",
+    "obrazky": [],
+    "tema": "Doprovod vlaku",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 32 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 32 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 32 odst. (4)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 220"
+      }
+    ],
+    "odpoved": "Doprovod vlaku je společný název pro lokomotivní četu a obsluhu vlaku, u vlaku bez obsluhy vlaku jen pro lokomotivní četu – povinnosti platí pro tyto zaměstnance.",
+    "plne_zneni": "SŽ D1 čl. 32 odst. (2): Doprovod vlaku je stanovené obsazení vlaku určenými osobami. Jedná se o společný název pro lokomotivní četu a obsluhu vlaku, u vlaku bez obsluhy vlaku jen pro lokomotivní četu. Je-li doprovod vlaku tvořen více osobami, po dopravní stránce řídí ostatní osoby doprovodu vlaku strojvedoucí vedoucího vozidla.\n\nSŽ D1 čl. 32 odst. (3): Lokomotivní četu tvoří zpravidla jen strojvedoucí, popř. ještě další odborně způsobilý zaměstnanec určený dopravcem.\n\nSŽ D1 čl. 32 odst. (4): Obsluha vlaku je stanovené obsazení vlaku vlakovou četou (u vlaku s přepravou cestujících), posunovou četou (u ostatních vlaků) nebo i jinými odborně způsobilými osobami, vyjma lokomotivní čety.\n\nČD D2 čl. 220: Doprovod vlaků s přepravou cestujících zabezpečují, kromě lokomotivní čety, zpravidla i členové obsluhy vlaku, jimž přísluší přepravní obsluha cestujících a dopravní povinnosti stanovené tímto předpisem.\n\nČD D2 čl. 221: Strojvedoucímu vedoucího vozidla vlaku jsou po dopravní stránce podřízeni všichni ostatní zaměstnanci doprovodu vlaku a osoby, které se ve vlaku přepravují.",
+    "distraktory": [
+      "Doprovod vlaku je společný název pro vlakovou a posunovou četu, tedy jen pro obsluhu vlaku – na lokomotivní četu se povinnosti doprovodu vlaku nevztahují.",
+      "Povinnosti se týkají pouze strojvedoucího vedoucího vozidla, kterému jsou ostatní osoby po dopravní stránce podřízeny; na ostatní členy doprovodu neplatí."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 222,
+    "otazka": "Jak bude postupovat strojvedoucí, dojde-li ve stanici obsazené výpravčím k poruše rychloměru?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V8/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V8/I",
+        "clanek": "čl. 26"
+      },
+      {
+        "predpis": "ČD V8/I",
+        "clanek": "čl. 27"
+      },
+      {
+        "predpis": "ČD V8/I",
+        "clanek": "čl. 14"
+      }
+    ],
+    "odpoved": "Poruchu ohlásí výpravčímu, lokomotivnímu dispečerovi OD ČD a strojmistrovi a zaeviduje ji; z této stanice už HDV nesmí pokračovat ve výkonu, při němž by z něho byla řízena rychlost.",
+    "plne_zneni": "ČD V8/I čl. 26: Dojde-li během služby strojvedoucího k zjevné poruše indikace rychlosti na stanovišti, ze kterého je ovládána rychlost jízdy nebo průběžná brzda, oznámí to strojvedoucí neprodleně výpravčímu, lokomotivnímu dispečerovi osobní dopravy ČD a strojmistrovi. Při nejbližším zastavení strojvedoucí poruchu rychloměru zaeviduje předepsaným způsobem (pomocí aplikace SH SAP apod.); zápis musí obsahovat projev poruchy rychloměru (pokud ji strojvedoucí zná, i příčinu), čas a místo (km polohu apod.) kde vznikla.\n\nČD V8/I čl. 27: S poruchou rychloměru podle článku 26. tohoto předpisu smí vlak pokračovat v jízdě sníženou rychlostí zajišťující zachování bezpečnosti železničního provozu. Takto smí dojet jen do nejbližší železniční stanice obsazené výpravčím. […] Pokud je na vlaku další vozidlo s registračním rychloměrem, musí být tento rychloměr uveden do činnosti a jeho rychloměrný proužek musí být označen nebo musí být zadány statistické a identifikační údaje do paměti rychloměru […]; v nejbližší stanici proto vlak zastaví a hnací vozidla se podle možnosti přeřadí (i při ohlášení poruchy radiostanicí). HDV s poruchou rychloměru nesmí ze stanice, kde byla porucha ohlášena, pokračovat ve výkonu, při kterém by z něho měla být řízena rychlost vozidla a ovládána průběžná brzda.\n\nČD V8/I čl. 14: HDV s poruchou rychloměrné soupravy nesmí být přistaveno na výkon, při kterém by z něho měla být řízena rychlost vozidla nebo ovládána průběžná brzda.",
+    "distraktory": [
+      "Poruchu ohlásí výpravčímu, lokomotivnímu dispečerovi OD ČD a strojmistrovi a zaeviduje ji; z této stanice smí pokračovat sníženou rychlostí nejvýše 40 km/h do cílové stanice.",
+      "Poruchu ohlásí jen strojmistrovi a lokomotivnímu dispečerovi OD ČD a zaeviduje ji; z této stanice smí HDV pokračovat ve výkonu až do domovského pracoviště údržby."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Snížení rychlosti do nejbližší stanice s výpravčím se neuplatňuje, je-li na řídicím stanovišti jiný správně fungující ukazatel skutečné rychlosti (např. ARR); zákaz dalšího výkonu z této stanice však platí vždy."
+  },
+  {
+    "n": 223,
+    "otazka": "Na vlakovém vozidle s přípřeží nezapojeném do vícenásobného řízení nastaví strojvedoucí vlaku 2568 do rychloměru číslo vlaku takto:",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V8/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V8/I",
+        "clanek": "čl. 67"
+      }
+    ],
+    "odpoved": "Šestimístným údajem s rozlišovací číslicí 5 na první pozici a číslem vlaku na 2. až 6. pozici doplněným nulou zleva, tedy 502568.",
+    "plne_zneni": "ČD V8/I čl. 67 (údaje zadávané do elektronického rychloměru – číslo vlaku):\n„xxxxxx … strojvedoucí zadá na vedoucím hnacím vozidle číslo každého vlaku, který vede ve směně dle skutečnosti;\n4xxxxx … posunující záloha – poslední dvojčíslí se uvede číslo zálohy (příklad: 400002);\n5xxxxx … vlakové vozidlo u vlaku s přípřeží, zavěšený postrk, vložené vozidlo (na 2. až 6. pozici se uvede číslo vlaku – např.: 505004, 525310);\nv případech, kdy jsou vlaky vedené činným HV s neobsazeným stanovištěm strojvedoucího (spojená HV v režimu vícenásobného řízení ovládaná z jednoho stanoviště strojvedoucího, HV ovládaná z řídícího vozu apod.) […] se údaje do el. rychloměrů těchto HV nezadávají.“\n[…] „Při zadávání čísla vlaku se rovněž zaplňují pozice zprava a doplní případně nulami na celkových 6 míst.“",
+    "distraktory": [
+      "Šestimístným údajem s rozlišovací číslicí 4 na první pozici a číslem vlaku na 2. až 6. pozici doplněným nulou zleva, tedy 402568.",
+      "Šestimístným údajem bez rozlišovací číslice, tedy pouze číslem vlaku doplněným nulami zleva na šest míst – 002568."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 224,
+    "otazka": "Jako strojvedoucí posunujete na druhé posunové záloze. V rychloměru na pozici číslo vlaku bude zadán údaj v jakém formátu?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V8/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V8/I",
+        "clanek": "čl. 67"
+      }
+    ],
+    "odpoved": "Ve formátu 4xxxxx – rozlišovací číslice 4 pro posunující zálohu a v posledním dvojčíslí číslo zálohy, tedy 400002.",
+    "plne_zneni": "ČD V8/I čl. 67 (údaje zadávané do elektronického rychloměru – číslo vlaku):\n„xxxxxx … strojvedoucí zadá na vedoucím hnacím vozidle číslo každého vlaku, který vede ve směně dle skutečnosti;\n4xxxxx … posunující záloha – poslední dvojčíslí se uvede číslo zálohy (příklad: 400002);\n5xxxxx … vlakové vozidlo u vlaku s přípřeží, zavěšený postrk, vložené vozidlo (na 2. až 6. pozici se uvede číslo vlaku – např.: 505004, 525310).“\n[…] „Kód dopravce a číslo strojvedoucího se zadává tak, aby byly zaplňovány pozice zprava a nadbytečné pozice vlevo se zaplní nulami. Při zadávání čísla vlaku se rovněž zaplňují pozice zprava a doplní případně nulami na celkových 6 míst.“",
+    "distraktory": [
+      "Ve formátu 5xxxxx – rozlišovací číslice 5 pro posunující zálohu a v posledním dvojčíslí číslo zálohy, tedy 500002.",
+      "Ve formátu 4xxxxx – rozlišovací číslice 4 a hned za ní číslo zálohy, zbývající pozice se doplní nulami zprava, tedy 420000."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 225,
+    "otazka": "Je třeba dopravit hnací vozidlo s vadnou mobilní částí VZ z jednoho depa do jiného. Je možné ho vystavit z depa na vlak, pokud bude celou cestu jako řízené v mnohočlenném řízení?",
+    "obrazky": [
+      "img/q225_1.png"
+    ],
+    "tema": "Vozidla a VZ",
+    "predpis": "SŽDC (ČSD) T108",
+    "zdroje": [
+      {
+        "predpis": "SŽDC (ČSD) T108",
+        "clanek": "čl. 92"
+      },
+      {
+        "predpis": "ČD T108 – DU pro LS90",
+        "clanek": "čl. 6"
+      },
+      {
+        "predpis": "SŽDC (ČSD) T108",
+        "clanek": "čl. 91"
+      }
+    ],
+    "odpoved": "Ano, je to možné – zákaz vystavovat z depa na vlak HV s vadnou mobilní částí VZ se netýká případů, kdy HV nebude během celého výkonu vedoucím hnacím vozidlem vlaku.",
+    "plne_zneni": "SŽDC (ČSD) T108 čl. 91: Mobilní část VZ vedoucího hnacího vozidla vlaku musí být vždy v činnosti a zapnutá v poloze „Provoz“. To platí i pro samostatné jízdy hnacích vozidel.\n\nSŽDC (ČSD) T108 čl. 92: Je zakázáno vystavovat z lokomotivního depa (nebo jeho podřízené provozní jednotky) na vlak hnací vozidlo s vadnou mobilní částí VZ. Toto ustanovení se netýká případů, kdy hnací vozidlo nebude během celého výkonu vedoucím hnacím vozidlem vlaku. Ve výjimečných případech lze k zajištění plynulosti dopravy hnací vozidlo s vadnou mobilní částí VZ obsadit strojvedoucím a pracovníkem s dopravní kvalifikací minimálně pomocníka strojvedoucího, a to po dohodě lokomotivního dispečera s vlakovým dispečerem, který vydá rozhodnutí formou dispečerského příkazu.\n\nSŽDC (ČSD) T108 čl. 93: Je vždy zakázáno přistavovat na vlak hnací vozidlo obsazené jen strojvedoucím, které má vadnou mobilní část VZ.\n\nČD T108 – DU pro LS90 čl. 6: Je zakázáno vystavovat z depa kolejových vozidel (nebo jeho podřízené provozní jednotky) na vlak hnací vozidlo s vadným LS90. Toto ustanovení se netýká případů, kdy hnací vozidlo nebude během celého výkonu vedoucím hnacím vozidlem vlaku.",
+    "distraktory": [
+      "Ne, není to možné – hnací vozidlo s vadnou mobilní částí VZ smí být z depa dopraveno pouze jako nečinné (dopravované) vozidlo zařazené ve vlaku.",
+      "Ano, ale jen po dohodě lokomotivního dispečera s vlakovým dispečerem formou dispečerského příkazu a při obsazení dalším poučeným zaměstnancem."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je vedoucím vozidlem řídicí vůz v čele a vozidlo s poruchou VZ je řazeno na konci soupravy – po celou cestu tedy nebude vedoucím hnacím vozidlem vlaku, proto je vystavení dovoleno."
+  },
+  {
+    "n": 226,
+    "otazka": "Soupravový vlak zastavil na širé trati. Jak bude strojvedoucí postupovat v další jízdě v případě, že zjistil poruchu národního VZ?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD D2",
+    "zdroje": [
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 442"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 41 písm. m)"
+      },
+      {
+        "predpis": "SŽDC (ČSD) T108",
+        "clanek": "čl. 181"
+      }
+    ],
+    "odpoved": "Poruchu ohlásí telekomunikačním zařízením dispečerovi osobní dopravy ČD a výpravčímu a pokračuje v jízdě rychlostí nejvíce 30 km/h až do nejbližší stanice, kde zastaví.",
+    "plne_zneni": "ČD D2 čl. 442: Dojde-li během jízdy vlaku na trati k poruše zařízení kontroly bdělosti strojvedoucího u vedoucího vozidla vlaku, ohlásí strojvedoucí poruchu telekomunikačním zařízením dispečerovi osobní dopravy ČD a výpravčímu, a dále pokračuje v jízdě rychlostí nejvíce 30 km/h až do nejbližší stanice, kde zastaví. O obsazení vedoucího vozidla vlaku dalším zaměstnancem rozhodne dispečer osobní dopravy ČD. Nebude-li možné pro další jízdu obsadit vedoucí vozidlo vlaku dalším zaměstnancem, dispečer osobní dopravy ČD vyrozumí dispečera SŽ a dohodne s ním, zda vlak bude pokračovat v další jízdě až po výměně hnacího vozidla (se zařízením kontroly bdělosti v činnosti) nebo bude pokračovat v další jízdě rychlostí nejvíce 30 km/h do stanice, kde bude možné obsadit vedoucí vozidlo vlaku dalším zaměstnancem. Takto lze postupovat až do cílové stanice vlaku.\n\nČD V2 čl. 41: Lokomotivní četa je zejména povinna: […] m) mít v činnosti vlakový zabezpečovač za jízdy: – vlaku v režimu pro jízdu vlaku; […] Postup při poruše vlakového zabezpečovače nebo provoz HV nevybaveného vlakovým zabezpečovačem je stanoven v předpise ČD D 2.\n\nSŽDC (ČSD) T108 čl. 181: Vznikne-li porucha mobilní části VZ během jízdy vlaku, řídí se další jízda, při obsazení vedoucího hnacího vozidla jen strojvedoucím, ustanovením Dopravních předpisů (dnes ČD D2). […] Výpravčí, který přijal zprávu o poruše mobilní části VZ, vyrozumí o tom ihned vlakového dispečera, který rozhodne o dalším postupu.",
+    "distraktory": [
+      "Poruchu ohlásí telekomunikačním zařízením dispečerovi osobní dopravy ČD a výpravčímu a pokračuje v jízdě rychlostí nejvíce 60 km/h až do nejbližší stanice, kde zastaví.",
+      "Poruchu ohlásí dispečerovi osobní dopravy ČD a výpravčímu a pokračuje nezmenšenou rychlostí, nejvýše však 100 km/h, do nejbližší stanice pravidelného zastavení vlaku."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "ČD D2 čl. 442 mluví o poruše zařízení kontroly bdělosti strojvedoucího u vedoucího vozidla – tj. funkce národního VZ (LS). O obsazení vedoucího vozidla dalším zaměstnancem, popř. o výměně HV, rozhodne po zastavení dispečer osobní dopravy ČD."
+  },
+  {
+    "n": 227,
+    "otazka": "Vlak zastavil ve stanici pro poruchu národního VZ. Jak bude strojvedoucí postupovat před další jízdou v případě, že na stanoviště přichází další zaměstnanec?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD D2",
+    "zdroje": [
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 443"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 444"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "příloha 1 čl. 4 (sloupec 8)"
+      }
+    ],
+    "odpoved": "Poučí ho o způsobu zastavení vlaku, zajištění HV proti ujetí a obsluze radiostanice pro nouzové volání a zapíše to do Knihy předávky HV (oba podepíší); dál nesmí překročit 100 km/h.",
+    "plne_zneni": "ČD D2 čl. 443: Ve všech případech, kdy na stanoviště strojvedoucího přechází jiný zaměstnanec, poučí ho strojvedoucí o způsobu zastavení vlaku, zajištění hnacího vozidla proti ujetí a obsluze vozidlové radiostanice za účelem nouzového volání. Poučení není třeba, přejde-li na hnací vozidlo zaměstnanec, který je odborně způsobilý k obsluze hnacího vozidla (řídicího vozu) příslušné řady nebo k nouzovému zastavení vlaku a obsluze vozidlové radiostanice. Poučení platí pouze pro tuto jízdu a zapíše se do „Knihy předávky“ na hnacím vozidle takto: „Poučení o nouzovém zastavení.“ Záznam podepíší strojvedoucí i poučený zaměstnanec. Při další jízdě nesmí být překročena:\n• nejvyšší dovolená rychlost zobrazená na DMI u vedoucího vozidla vlaku jedoucího s aktivní mobilní částí ETCS v úrovni 2 (L2);\n• rychlost 100 km/h u vedoucího vozidla vlaku jedoucího s aktivní mobilní částí ETCS v úrovni NTC (STM) nebo jedoucího s vypnutou mobilní částí ETCS či nevybaveného mobilní částí ETCS.\n\nČD D2 čl. 444: Dle předchozího článku se musí postupovat i v případě, není-li vedoucí vozidlo vlaku vlakovým zabezpečovačem vybaveno.\n\nČD V2 příloha 1 čl. 4, sloupec 8: […] poučení zaměstnance, který není odborně způsobilý k zastavení vlaku při poruše VZ – strojvedoucí zapíše větu „Poučen o nouzovém zastavení“ a připojí svůj podpis, poučovaný zaměstnanec následně tento zápis spolupodepíše.",
+    "distraktory": [
+      "Poučí ho o způsobu zastavení vlaku, zajištění HV proti ujetí a obsluze radiostanice pro nouzové volání a zapíše to do Knihy předávky HV (oba podepíší); dál nesmí překročit 30 km/h.",
+      "Poučí ho o obsluze hnacího vozidla a o přenášení návěstí a zapíše to do Knihy předávky HV (oba podepíší); pro další jízdu pak platí nejvyšší dovolená rychlost vlaku bez omezení."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Poučení (a zápis) není třeba, je-li příchozí zaměstnanec odborně způsobilý k obsluze HV příslušné řady nebo k nouzovému zastavení vlaku a obsluze radiostanice. U vedoucího vozidla jedoucího v ETCS L2 platí místo 100 km/h rychlost zobrazená na DMI."
+  },
+  {
+    "n": 228,
+    "otazka": "Jaká je nová stanovená rychlost vlaku pro vlak Os 5005 v úseku Kolín - Záboří nad Labem?",
+    "obrazky": [
+      "img/q228_1.png"
+    ],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 203"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 291 odst. (10) písm. c) a d)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 201"
+      }
+    ],
+    "odpoved": "112 km/h – skutečná procenta 90 nedosahují spodní hodnoty 98, takže 140 − 8 = 132 km/h; protože 132 − 20 < 120, nelze rozkládat zábrzdnou dráhu a platí hodnota o 20 km/h nižší.",
+    "plne_zneni": "Zpráva o brzdění vlaku Os 5005: režim brzdění P, brzdící procenta potřebná 98, skutečná 90, chybí 8, délka vlaku 98 m, max. rychlost 140 km/h. TJŘ, sloupec 8 pro úsek Kolín – Záboří nad Labem: 140//141/98.\n\nČD V15/I čl. 203: Není-li u vlaku nejedoucího pod dohledem ETCS v módu Plný dohled (FS), ve výchozí nebo nácestné stanici dosažena hodnota předepsaných brzdících procent a pro rychlost stanovenou v TJŘ vlaku pro následující traťový úsek skutečná brzdící procenta nedostačují, je strojvedoucí povinen před uvedením vlaku do pohybu stanovit nejvyšší rychlost vlaku odpovídající skutečnému brzdícímu procentu v předmětném úseku tratě. Novou nejvyšší rychlost vlaku strojvedoucí stanoví použitím alternativního postupu výpočtu rychlostního omezení tak, že: provede porovnání hodnoty skutečných brzdících procent s hodnotami uvedenými pro jednotlivé traťové úseky ve sloupci 8 TJŘ daného vlaku; pro úseky s nedostatkem brzdících procent stanoví rozdíl předepsaných a skutečných brzdících procent a o tuto hodnotu sníží rychlost uvedenou ve sloupci 8 TJŘ pro dotčený traťový úsek; […] jsou-li ve sloupci 8 TJŘ daného vlaku uvedeny dvě hodnoty brzdících procent a skutečná brzdící procenta nedosahují spodní hodnoty, uplatní strojvedoucí výše uvedený postup vůči spodní hodnotě brzdících procent ze sloupce 8 TJŘ pro dotčený traťový úsek. Pokud takto stanovená rychlost vlaku snížená o 20 km.h-1 nedosahuje alespoň 120 km.h-1, nelze použít rozklad zábrzdné dráhy dle čl. 201 této kapitoly a nová nejvyšší rychlost vlaku má pak tuto o 20 km.h-1 nižší hodnotu. Příklad: úsek C-D 140//146/103: výpočet 98 – 103 = -5 -> rychlost se sníží o 5 km/h na 135 km/h, ale 135 – 20 = 115 < 120 km/h, nelze tedy rozkládat zábrzdnou dráhu a výsledná rychlost je 115 km/h.\n\nVýpočet pro Os 5005: 90 − 98 = −8 -> 140 − 8 = 132 km/h; 132 − 20 = 112 < 120 km/h -> nelze rozkládat zábrzdnou dráhu -> nová nejvyšší rychlost vlaku 112 km/h.\n\nSŽ D1 čl. 291 odst. (10) písm. d): Pro vlak se stanovenou rychlostí 121 km/h nebo vyšší musí být v jeho TJŘ uvedeny dvě hodnoty potřebných brzdících procent: horní hodnota odpovídá stanovené rychlosti vlaku […]; dolní hodnota odpovídá rychlosti o 20 km/h nižší, než je stanovená rychlost, nejméně však rychlosti 120 km/h.\n\nČD V15/I čl. 201: Pro vlaky se stanovenou rychlostí 121 km.h-1 a vyšší, nejedoucí pod dohledem ETCS v módu Plný dohled (FS), které mají brzdný účinek nedostatečný pro stanovenou zábrzdnou vzdálenost příslušného traťového úseku, ale jejich skutečné brzdící procento má alespoň stejnou hodnotu jako spodní hodnota uvedená ve sloupci 8 TJŘ, lze rozložit zábrzdnou dráhu do dvou za sebou následujících zábrzdných vzdáleností. Rozklad zábrzdné dráhy se provede tak, že strojvedoucí při jízdě k návěstidlu s návěstí „Výstraha“ započne brzdit tak včas, aby u tohoto návěstidla byla rychlost vlaku alespoň o 20 km.h-1 nižší než je stanovená rychlost vlaku.",
+    "distraktory": [
+      "132 km/h – skutečná procenta 90 nedosahují spodní hodnoty 98, rychlost 140 km/h se proto sníží o 8 km/h a zábrzdnou dráhu lze i nadále rozložit do dvou zábrzdných vzdáleností.",
+      "120 km/h – při nedostatku brzdících procent u vlaku se stanovenou rychlostí vyšší než 120 km/h se jede rychlostí odpovídající dolní hodnotě sloupce 8 TJŘ, tedy nejvýše 120 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 229,
+    "otazka": "Na jakou dobu se může strojvedoucí vzdálit ze stanoviště strojvedoucího, aniž by musel hnací vozidlo odstavit?",
+    "obrazky": [],
+    "tema": "Doprovod vlaku",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 87"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 173"
+      }
+    ],
+    "odpoved": "Nejvýše na 30 minut, a to bez ohledu na vzdálenost a po provedení předepsaných úkonů; přesáhne-li doba 30 minut, musí se HV odstavit podle čl. 173.",
+    "plne_zneni": "ČD V2 čl. 87: Lokomotivní četa smí opustit stanoviště strojvedoucího za dodržení následujících postupů: Vzdálení se ze stanoviště strojvedoucího – přechodné opuštění stanoviště strojvedoucího bez ohledu na jeho vzdálenost za předpokladu, že lokomotivní četa má přidělené vozidlo (za toto je považováno i střídání strojvedoucích na ose) a doba vzdálení se ze stanoviště strojvedoucího nepřesáhne 30 min. Za nepřekročení této doby je odpovědný strojvedoucí. Lokomotivní četa musí před vzdálením se ze stanoviště strojvedoucího vykonat na tomto stanovišti tyto úkony: a) zajistit napájení hlavního vzduchojemu; b) zabrzdit zajišťovací brzdu; c) zabrzdit přímočinnou brzdu; d) zabrzdit soupravu vlaku samočinnou brzdou na úplné provozní zabrzdění a rukojeť brzdiče nebo ovladače brzdiče ponechat v poloze, ve které je zajištěno doplňování ztrát vzduchu v hlavním potrubí, tj. není aktivován závěr brzdiče […]; e) zajistit stanoviště strojvedoucího proti vstupu cizí osoby; f) […]. Přesáhne-li doba pro vzdálení se ze stanoviště strojvedoucího 30 min., postupuje se podle ustanovení článku 173 tohoto předpisu.\n\nČD V2 čl. 173: Při odstavení hnacího vozidla (řídicího vozu) se musí postupovat podle zpracovaného checklistu pro odstavení dle přílohy 4 tohoto předpisu dle příslušné varianty (úplně/aktivně) […].",
+    "distraktory": [
+      "Nejvýše na 15 minut, a to bez ohledu na vzdálenost a po provedení předepsaných úkonů; přesáhne-li doba 15 minut, musí se HV odstavit podle čl. 173.",
+      "Nejvýše na 60 minut, pokud se nevzdálí dále než 100 m od hnacího vozidla; delší vzdálení je možné jen se souhlasem dispečera osobní dopravy ČD."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 230,
+    "otazka": "Při poruše pískovacího zařízení s neúmyslným pískováním strojvedoucí předpokládá ovlivnění činnosti kolejových obvodů. Jaký bude jeho další postup?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 130"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 129"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 42 písm. k)"
+      }
+    ],
+    "odpoved": "Neprodleně informuje výpravčího o poruše a souvisejících údajích (číslo vlaku, traťový úsek, km polohu, projev poruchy) a dále postupuje podle jeho pokynů.",
+    "plne_zneni": "ČD V2 čl. 130: Při zjištění samovolného úniku písku informuje strojvedoucí neprodleně výpravčího o vzniklé poruše a dalších souvisejících skutečnostech (zejména se jedná o číslo vlaku, traťový úsek, kilometrickou polohu místa, ve kterém se hnací vozidlo nachází, projev poruchy). Strojvedoucí dále postupuje dle pokynu výpravčího.\n\nČD V2 čl. 129: U všech vlaků, po použití pískovacího zařízení, zkontroluje strojvedoucí při nejbližším zastavení pohledem nebo poslechem z aktuálního stanoviště strojvedoucího, zda nedochází k samovolnému úniku písku a postupuje podle zjištěné skutečnosti.\n\nČD V2 čl. 42: Lokomotivní četa je dále povinna: […] k) předepsaným způsobem evidovat závady na drážním vozidle, popř. chybějící výbavu.",
+    "distraktory": [
+      "Neprodleně informuje lokomotivního dispečera osobní dopravy ČD a strojmistra, závadu zaeviduje do SH SAP a v jízdě pokračuje beze změny až do cílové stanice vlaku.",
+      "Vlak zastaví na širé trati, vypne pískovací zařízení a v další jízdě pokračuje podle rozhledových poměrů rychlostí nejvýše 40 km/h do nejbližší stanice s výpravčím."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Předpisy nestanoví pro tento případ zvláštní postup vůči kolejovým obvodům – opatření (jako u nešuntujících vozidel podle SŽ D1 čl. 493–495) zavede výpravčí a strojvedoucí se řídí jeho pokyny. Závadu zároveň zaeviduje předepsaným způsobem (SH SAP) a uvede ji ve sloupci 8 Knihy předávky HV."
+  },
+  {
+    "n": 231,
+    "otazka": "Po souhlasu k posunu na točnu nebo přesuvnu se při najíždění nesmí překročit rychlost jízdy:",
+    "obrazky": [],
+    "tema": "Posun",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 163"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 165"
+      }
+    ],
+    "odpoved": "Nejvýše 3 km/h – posunový díl vjíždí na točnu (přesuvnu) až po návěsti od obsluhy tohoto zařízení; stejná rychlost platí i při jízdě z ní.",
+    "plne_zneni": "ČD V2 čl. 163: Před vjezdem na točnu nebo přesuvnu se musí lokomotivní četa přesvědčit, zda příslušná návěstidla dovolují další jízdu. Po obdržení návěsti od obsluhy tohoto zařízení vjíždí posunový díl na točnu nebo přesuvnu rychlostí nejvýše 3 km.h-1.\n\nČD V2 čl. 164: Po zastavení na točně nebo přesuvně strojvedoucí provede úkony na přiděleném vozidle (zabrzdění přiděleného vozidla, stažení sběrače apod.) tak, aby mohlo dojít k manipulaci s točnou nebo přesuvnou.\n\nČD V2 čl. 165: Při jízdě z točny nebo přesuvny se postupuje obdobně jako při vjezdu na ně, přičemž nesmí být překročena rychlost 3 km.h-1.",
+    "distraktory": [
+      "Nejvýše 5 km/h – posunový díl vjíždí na točnu (přesuvnu) až po návěsti od obsluhy tohoto zařízení; stejná rychlost platí i při jízdě z ní.",
+      "Nejvýše 10 km/h při najíždění na točnu (přesuvnu); při jízdě z ní pak nesmí být překročena rychlost 5 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 232,
+    "otazka": "Jaký údaj zapíše strojvedoucí v Knize předávky HV do rubriky 8 „Informace o průběhu směny“ při ukončení směny na HV, v případě, že se na HV nevyskytla žádná závada?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "příloha 1 čl. 4 (sloupec 8)"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 171"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 173"
+      }
+    ],
+    "odpoved": "Žádný – do sloupce 8 se zapisují pouze stanovené zápisy (závady, předávka písemných rozkazů, poučení o nouzovém zastavení, pilot, klíče D3), jinak zůstává nevyplněný.",
+    "plne_zneni": "ČD V2 příloha 1 čl. 4 – pokyny pro vyplňování tiskopisu „Kniha předávky HV“, sloupec 8 – informace o průběhu směny: „Strojvedoucí zapisuje pouze níže uvedené zápisy:\na) závady – strojvedoucí vyplní stručný popis závad, které na přiděleném vozidle zjistil a o kterých je nutné informovat nastupujícího strojvedoucího dle příslušných předpisů, např. porucha pískování, porucha VZ, porucha radiostanice, porucha AVV apod.;\nb) předávka písemných rozkazů mezi strojvedoucími […];\nc) předávka písemných rozkazů prostřednictvím obsluhy vlaku […];\nd) poučení zaměstnance, který není odborně způsobilý k zastavení vlaku při poruše VZ – strojvedoucí zapíše větu „Poučen o nouzovém zastavení“ […];\ne) použití pilota na části trati […];\nf) odevzdání/uložení soupravy hl. klíčů D3, RB (radiobloku) […].“\n\nČD V2 čl. 171: Jestliže strojvedoucí zjistil během služby na přiděleném vozidle závady, které budou bránit jeho příštímu vystavení na výkon a nemohl je ohlásit dříve, učiní tak nejpozději před ukončením směny […]. Ostatní závady eviduje předepsaným způsobem (pomocí aplikace SH SAP apod.).",
+    "distraktory": [
+      "Zapíše slova „Bez závad“ a připojí svůj podpis; tím potvrdí, že přidělené vozidlo předává nastupujícímu strojvedoucímu v provozuschopném stavu.",
+      "Zapíše číslo posledního vedeného vlaku a čas ukončení směny; závady se do sloupce 8 nezapisují, ty se evidují pouze v aplikaci SH SAP."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Sloupec 8 je vyplňován taxativně vyjmenovanými zápisy; formulace „bez závad“ mezi nimi není, takže při směně bez závad a bez dalších uvedených skutečností zůstává rubrika prázdná. Převzetí vozidla strojvedoucí stvrzuje podpisem ve sloupci 7."
+  },
+  {
+    "n": 233,
+    "otazka": "Kolikrát ve směně provádí strojvedoucí kontrolu pískování?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 128"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 129"
+      }
+    ],
+    "odpoved": "Jedenkrát ve směně – jedním krátkodobým povelem k pískování (max. 3 s) pro každý směr jízdy a následnou kontrolou pohledem ze země, zda nedochází k samovolnému úniku písku.",
+    "plne_zneni": "ČD V2 čl. 128: U všech vybavených hnacích vozidel pískovacím zařízením provede lokomotivní četa jedenkrát ve směně kontrolu pískovacího zařízení. Kontrola se provede jedním krátkodobým povelem k pískování pro každý směr jízdy (v délce max. 3 s) a následnou kontrolou pohledem ze země, zda nedochází k samovolnému úniku písku.\n\nČD V2 čl. 129: U všech vlaků, po použití pískovacího zařízení, zkontroluje strojvedoucí při nejbližším zastavení pohledem nebo poslechem z aktuálního stanoviště strojvedoucího, zda nedochází k samovolnému úniku písku a postupuje podle zjištěné skutečnosti.",
+    "distraktory": [
+      "Dvakrát ve směně – při nástupu a před ukončením směny, vždy jedním krátkodobým povelem k pískování (max. 3 s) pro každý směr jízdy a kontrolou pohledem ze země.",
+      "Jedenkrát ve směně – souvislým povelem k pískování v délce nejméně 10 s pro každý směr jízdy a následnou kontrolou pohledem ze stanoviště strojvedoucího."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Kontrola pískování je navíc součástí checklistů pro převzetí a odstavení HV podle Opatření ředitele O18 č. 34/2022 (např. „Vyzkoušej pískování v obou směrech“, „Zkontroluj výsledek pískování a zásobu písku“); nezávisle na tom platí po každém použití pískovadla kontrola dle čl. 129."
+  }
+]

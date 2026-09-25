@@ -1,0 +1,230 @@
+                                                                    OBSAH
+
+OBSAH ..................................................................................................................................................... 2
+
+Záznam o změnách .................................................................................................................................. 3
+
+SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK ............................................................................................... 5
+
+1.     ZÁKLADNÍ USTANOVENÍ .................................................................................................................. 6
+
+     1.1             Úvodní ustanovení ............................................................................................................ 6
+
+2.     VLAKOVÉ ZABEZPEČOVACÍ ZAŘÍZENÍ............................................................................................... 7
+
+     2.1             Úvodní ustanovení ............................................................................................................ 7
+
+     2.2             Popis vlakového zabezpečovacího zařízení ...................................................................... 7
+
+     2.3             Obsluha vlakového zabezpečovacího zařízení.................................................................. 7
+
+
+
+
+                                                                             2
+                                       Záznam o změnách
+(Držitel tohoto dokumentu je odpovědný za včasné a správné provedení schválených změn a provedení záznamu na této
+stránce).
+
+
+
+
+                    Změna                                      Doplňující ustanovení č.j.: …………
+
+Pořadové číslo           Účinnost od:            Opravil:                    Dne                  Podpis
+změny:
+
+
+
+
+                                                         3
+                                      ROZSAH ZNALOSTÍ
+
+
+         Pracovní zařazení                                         Znalost
+- zaměstnanci, kteří provádějí
+  údržbu a kontrolu traťové části Úplná:
+  vlakového zabezpečovače
+                                      Celé doplňující ustanovení
+  v úseku s traťovým
+  zabezpečovacím zařízením
+  automatické hradlo, zajišťují
+  školení a všichni, kteří organizují
+  nebo kontrolují jejich činnost
+
+- vedoucí útvarů a organizačních      Informativní:
+složek, kteří mohou nařídit
+úplnou znalost tohoto                 Celé doplňující ustanovení
+doplňujícího ustanovení jim
+podřízeným zaměstnancům
+
+- strojvedoucí, řidiči speciálních
+hnacích vozidel, kteří jsou
+oprávněni jezdit v úsecích
+s traťovým zabezpečovacím             Úplná:
+zařízením automatické hradlo
+s traťovou částí vlakového            Celé doplňující ustanovení
+zabezpečovače a zaměstnanci,
+kteří organizují nebo kontrolují
+jejich činnost
+
+       Pro příslušné pracovní zařazení zaměstnanců PO stanoví rozsah znalostí DU přednosta PO.
+       Ostatním zaměstnancům určí rozsah znalostí ZDD vedoucí jejich OS.
+
+
+
+
+                                                      4
+              SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+
+Název značky (zkratky):   Významová definice značky (zkratky):                  Poznámka:
+
+OŘ                        Oblastní ředitelství
+SŽDC                      Správa železniční dopravní cesty, státní organizace
+VZ                        Vlakový zabezpečovač
+
+
+
+
+                                                  5
+1. ZÁKLADNÍ USTANOVENÍ
+
+1.1   Úvodní ustanovení
+
+1.1.1 Doplňující ustanovení k předpisu SŽDC (ČSD) T 108 je zpracováno pro obsluhu mobilní části národního
+vlakového zabezpečovače v mezistaničních úsecích vybavených traťovým zabezpečovacím zařízením
+automatické hradlo s nebo bez oddílových návěstidel a traťovou částí národního vlakového zabezpečovače.
+
+1.1.2 Doplňující ustanovení je závazné pro strojvedoucí vedoucích drážních vozidel vybavených mobilní částí
+národního vlakového zabezpečovače při jízdách vlaků v mezistaničních úsecích vybavených traťovým
+zabezpečovacím zařízením automatické hradlo s nebo bez oddílových návěstidel a traťovou částí národního
+vlakového zabezpečovače a pro zaměstnance udržující traťovou část národního vlakového zabezpečovače
+v mezistaničních úsecích s automatickým hradlem.
+
+1.1.3 Závaznost tohoto doplňujícího ustanovení pro strojvedoucí zajistí dopravce svým vnitřním předpisem
+nebo jiným interním dokumentem.
+
+
+
+
+                                                    6
+2. VLAKOVÉ ZABEZPEČOVACÍ ZAŘÍZENÍ
+
+2.1   Úvodní ustanovení
+
+2.1.1 Stávající znění předpisu SŽDC (ČSD) T108 změna č. 3 nepopisuje přenos kódu VZ na trati s automatickým
+hradlem a nestanovuje pravidla pro provoz a obsluhu mobilní části VZ na trati s automatickým hradlem.
+
+
+2.2   Popis vlakového zabezpečovacího zařízení
+
+2.2.1 Rozsah zřízení traťové části vlakového zabezpečovače (dále jen VZ) v mezistaničních úsecích
+a v přilehlých záhlavích a zhlavích přilehlých dopraven s kolejovým rozvětvením je uveden v tabulkách traťových
+poměrů. V mezistaničním úseku může být traťová část VZ v omezeném rozsahu (tj. v prostorovém oddílu vždy
+až od návěsti Začátek úseku s přenosem kódu VZ podle návěsti samostatné předvěsti po následující hlavní
+návěstidlo) nebo v celém prostorovém oddílu.
+
+2.2.2 Před návěstí Začátek úseku s přenosem kódu VZ podle návěsti samostatné předvěsti se
+v mezistaničním úseku s traťovou částí VZ v omezeném rozsahu nevysílá žádný kód VZ.
+
+                                                    oblast přenosu
+                              oblast bez                                    oblast přenosu
+                                                   kódu podle stavu
+                            přenosu kódu                                   kódu podle stavu
+                                                      předvěsti
+                                                                          hlavního návěstidla
+                                                    1000 ≤ l ≤ 2000
+
+
+
+
+2.2.3 Před návěstí Začátek úseku s přenosem kódu VZ podle návěsti samostatné předvěsti se
+v mezistaničním úseku s traťovou částí VZ v celém prostorovém oddílu vysílá jen kód zeleného světla bez
+ohledu na návěst samostatné předvěsti a hlavního návěstidla (mohou být i zhaslá).
+
+2.2.4 Mezi návěstí Začátek úseku s přenosem kódu VZ podle návěsti samostatné předvěsti a samostatnou
+předvěstí se vysílá kód VZ podle návěsti samostatné předvěsti, přitom před zhaslou samostatnou předvěstí se
+vysílá kód žlutého světla.
+
+2.2.5 Mezi samostatnou předvěstí a hlavním návěstidlem se vysílá kód VZ podle návěsti hlavního návěstidla
+(před zhaslým hlavním návěstidlem se nevysílá žádný kód VZ).
+
+
+2.3   Obsluha vlakového zabezpečovacího zařízení
+
+2.3.1 Pro obsluhu mobilní části vlakového zabezpečovače platí do vydání předpisu SŽDC Z8 ustanovení
+předpisu SŽDC (ČSD) T 108 (změna č. 3) níže uvedených článků, resp. jejich částí v následujícím doplněném
+znění (doplnění je zvýrazněno podtržením textu).
+
+
+
+
+                                                      7
+2.3.2 Pro jízdu v mezistaničních úsecích s traťovým zabezpečovacím zařízením automatické hradlo s traťovou
+částí VZ článek 156 zní:
+
+156.   Návěstní opakovač je součástí vlakového zabezpečovače na hnacím vozidle.
+
+       Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla následují za sebou na zábrzdnou
+vzdálenost, informuje strojvedoucího příslušným světlem na návěstním znaku návěstidla, k němuž se vlak blíží.
+V dopravnách kde hlavní návěstidla následují za sebou na nedostatečnou zábrzdnou vzdálenost, informuje
+strojvedoucího příslušným světlem o návěstním znaku hlavního návěstidla na konci zábrzdné vzdálenosti, resp.
+o návěstním znaku nejbližšího hlavního návěstidla s povážlivější návěstí. Na kódovaných úsecích na širé trati
+s automatickým hradlem s traťovou částí VZ v celém prostorovém oddílu před návěstí Začátek úseku
+s přenosem kódu VZ podle návěsti samostatné předvěsti a na odjezdovém zhlaví a záhlaví před takovým
+mezistaničním úsekem neinformuje o návěstním znaku návěstidla.
+
+       Při práci na spádovišti informuje návěstní opakovač strojvedoucího o návěstním znaku spádovištního
+návěstidla.
+
+       Při jízdě na trati s volicím přepínačem v poloze „Provoz“ kontroluje vlakový zabezpečovač bdělost
+strojvedoucího v případech, kdy přenášená návěst vyžaduje zvětšenou pozornost, jakož i v případech, kdy na
+vozidle není přenášena žádná návěst. Nereaguje-li strojvedoucí na výzvu prokázání bdělosti, vlak samočinně
+zastaví.
+
+2.3.3 Pro jízdu v mezistaničních úsecích s traťovým zabezpečovacím zařízením automatické hradlo s traťovou
+částí VZ v čl. 157 popis významu zeleného světla a popis významu žlutého světla zní:
+
+157.   Světla návěstního opakovače mají tento význam:
+
+       Zelené světlo
+
+
+
+        Nejbližší hlavní návěstidlo nebo samostatná předvěst (je-li blíže) ukazuje návěst Volno nebo
+
+        vlak je před návěstí Začátek úseku s přenosem kódu VZ podle návěsti samostatné předvěsti
+
+
+
+
+       Žluté světlo
+
+        Nejbližší hlavní návěstidlo nebo samostatná předvěst (je-li blíže) ukazuje návěst Výstraha nebo
+        některou z návěstí:
+        Očekávejte rychlost 120 km/h
+        Očekávejte rychlost 100 km/h
+        Očekávejte rychlost 80 km/h
+        Očekávejte rychlost 60 km/h
+        Očekávejte rychlost 40 km/h
+        nebo je samostatná předvěst zhaslá
+
+       Stupeň návěstěné (předvěstěné) rychlosti zjistí strojvedoucí z návěsti nejbližšího hlavního návěstidla
+nebo samostatné předvěsti; je-li jím oddílové návěstidlo, které je zhaslé, nebo samostatná předvěst, která je
+zhaslá, musí vlak zmenšovat rychlost tak, aby mohl zastavit před hlavním návěstidlem na konci zábrzdné
+vzdálenosti zakazujícím jízdu.
+
+                                                       8
+2.3.4 Pro jízdu v mezistaničních úsecích s traťovým zabezpečovacím zařízením automatické hradlo s traťovou
+částí VZ v čl. 157 na str. 68 (Žádné světlo) písm. b) zní:
+
+      „b)    vlak vjel do oddílu automatického bloku nebo do kódovaného úseku automatického hradla na
+             návěst dovolující jízdu a došlo k poruše vlakového zabezpečovače na hnacím vozidle nebo na
+             traťové části vlakového zabezpečovače, popř. k jiné závadě na trati (lomu kolejnice, k náhlému
+             obsazení oddílu vozidlem, k poruše automatického bloku nebo automatického hradla apod.).
+
+
+
+
+                                                    9
+

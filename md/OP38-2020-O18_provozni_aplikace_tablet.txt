@@ -1,0 +1,2911 @@
+                                                                                             Opatření ředitele O18 č. 38/2020
+                                                                                         Provozní aplikace pro strojvedoucí
+
+Interní
+
+
+
+
+Opatření ředitele O18 č. 38/2020 – Provozní aplikace
+pro strojvedoucí
+
+
+
+Číslo jednací                                                       Změna č.                             č.j. změny
+0172/21-O18                                                         9                                    1639/26-O18
+
+
+
+Schváleno
+
+
+Lukáš Zástěra                                        Zástupce ředitele GŘ O18            10. 6. 2026
+                                                                                                              Lukáš     Digitálně podepsal
+                                                                                                                        Lukáš Zástěra
+
+                                                                                                              Zástěra   Datum: 2026.06.09
+                                                                                                                        18:09:07 +02'00'
+
+
+
+
+Datum platnosti
+10. 6. 2026
+
+Účinnost od
+14. 6. 2026
+
+Úroveň přístupu / Klasifikace informací
+C
+
+
+Gestor
+
+
+Ing. Tomáš Fuks
+
+
+
+
+                  České dráhy, a.s., Generální ředitelství              IČO 70994226 | DIČ CZ70994226
+                  nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1       zapsaná ve veřejném – obchodním rejstříku
+                  T 221 111 122, IDDS e52cdsf, www.cd.cz                u Městského soudu v Praze pod sp. zn. B 8039     Strana 1 / 38
+                                                               Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                        Účinnost od 14. 6. 2026
+
+
+Interní                                                                                          Číslo jednací 0172/21-O18
+
+
+
+
+OBSAH
+
+Záznam o změnách ____________________________________________________________________ 5
+
+Rozsah znalostí _______________________________________________________________________ 6
+
+Seznam použitých značek a zkratek ______________________________________________________ 7
+
+  Část první __________________________________________________________________________ 9
+
+  ÚVODNÍ USTANOVENÍ _______________________________________________________________ 9
+
+  Část druhá _________________________________________________________________________ 10
+
+  PODMÍNKY DISTRIBUCE TABLETU ____________________________________________________ 10
+
+    A.    Poskytnutí tabletu ____________________________________________________________ 10
+
+    B.    Evidence, přejímka a předávka tabletů ____________________________________________ 11
+
+    C.    Datové SIM karty _____________________________________________________________ 11
+
+    D.    Závada, odcizení, ztráta, poškození ______________________________________________ 12
+
+  ČÁST TŘETÍ SIPS A MAPSIS _________________________________________________________ 13
+
+  Kapitola I Činnosti jednotlivých uživatelů v systému SIPS ____________________________________ 13
+
+    1.    Správce dokumentů O18 _______________________________________________________ 13
+
+    E.    Správce dokumentů OŘOD _____________________________________________________ 14
+
+    F.    správce dokumentů piř _________________________________________________________ 15
+
+    G.    Metodik IT __________________________________________________________________ 15
+
+    H.    Čtenář O18 __________________________________________________________________ 16
+
+    I.    Čtenář OŘOD ________________________________________________________________ 16
+
+    J.    Obecné povinnosti ____________________________________________________________ 16
+
+  Kapitola II Provozní část ______________________________________________________________ 17
+
+    A.    Aktualizace (synchronizace) dat _________________________________________________ 17
+
+    B.    Provozní dokumenty určené pro systém SIPS ______________________________________ 17
+
+
+
+
+            České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+            nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+            T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 2 / 38
+                                                               Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                        Účinnost od 14. 6. 2026
+
+
+Interní                                                                                          Číslo jednací 0172/21-O18
+
+
+
+
+    C.    Povinnosti strojvedoucího ______________________________________________________ 19
+
+    D.    Změny v TTP ________________________________________________________________ 22
+
+    E.    dokumenty piř________________________________________________________________ 22
+
+  ČÁST ČTVRTÁ SLUŽEBNÍ MOBILNÍ TELEFONY __________________________________________ 23
+
+  ČÁST PÁTÁ HLÁŠENÍ STROJVEDOUCÍCH ______________________________________________ 24
+
+  Kapitola I Úvodní ustanovení __________________________________________________________ 24
+
+  Kapitola II Činnosti jednotlivých uživatelů v systému HS _____________________________________ 25
+
+    A.    Správce O18 ________________________________________________________________ 25
+
+    B.    Hlavní zpracovatel RPP ________________________________________________________ 25
+
+    C.    Zpracovatel RPP _____________________________________________________________ 25
+
+    D.    Zadavatel (strojvedoucí) _______________________________________________________ 26
+
+  ČÁST ŠESTÁ SH SAP _______________________________________________________________ 27
+
+    A.    Obecná ustanovení ___________________________________________________________ 27
+
+    B.    Povinnosti strojvedoucího ______________________________________________________ 28
+
+    C.    Povinnosti strojmistra __________________________________________________________ 28
+
+  ČÁST SEDMÁ ETD __________________________________________________________________ 28
+
+    A.    Úvodní ustanovení ____________________________________________________________ 28
+
+    B.    Povinnosti strojvedoucího ______________________________________________________ 29
+
+    C.    Bezpečnostní nadstavba pro tratě D3 _____________________________________________ 30
+
+    D.    Zobrazení dat TTP v aplikaci ETD ________________________________________________ 30
+
+    E.    Tvorba, editace a Zobrazení dat vlakové dokumentace v aplikaci ETD ___________________ 31
+
+    F.    Zobrazení dat SPO v aplikaci ETD _______________________________________________ 33
+
+  ČÁST OSMÁ ČD KOMANDO __________________________________________________________ 34
+
+  ČÁST DEVÁTÁ ČD Kontakty __________________________________________________________ 35
+
+
+
+
+            České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+            nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+            T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 3 / 38
+                                                               Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                        Účinnost od 14. 6. 2026
+
+
+Interní                                                                                          Číslo jednací 0172/21-O18
+
+
+
+
+  ČÁST DESÁTÁ ČD KOMUNIKÁTOR ____________________________________________________ 35
+
+    A.    Obecná ustanovení ___________________________________________________________ 35
+
+    B.    komunikační vlákna v aplikaci ___________________________________________________ 35
+
+    C.    krizová komunikační vlákna _____________________________________________________ 37
+
+SEZNAM PŘÍLOH ____________________________________________________________________ 38
+
+
+
+
+            České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+            nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+            T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 4 / 38
+                                                                      Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                               Účinnost od 14. 6. 2026
+
+
+Interní                                                                                                 Číslo jednací 0172/21-O18
+
+
+
+
+ZÁZNAM O ZMĚNÁCH
+
+Změna                                                    Předpis
+
+Poř. číslo   Číslo jednací               Účinnost od     Opravil/a                       Datum           Podpis
+
+
+    1        0435/21-O18                  13.6.2021 Fuks                                   3.6.2021      Fuks v.r.
+
+    2        2082/21-O18                 12.12.2021 Fuks                                  8.12.2021 Fuks v.r.
+
+    3        3234/22-O18                 11.12.2022 Fuks                                  7.12.2022 Fuks v.r.
+
+    4        2483/23-O18                  8.9.2023       Fuks                              8.9.2023      Fuks v.r.
+
+    5        3542/23-O18                  17.1.2024 Fuks                                  15.1.2024 Fuks v.r.
+
+    6        2569/24-O18                  1.9.2024       Fuks                             28.8.2024 Fuks v.r.
+
+    7        4135/25-O18                 14.12.2025 Fuks                                 11.12.2025 Fuks v.r.
+
+    8        1024/26-O18                  15.5.2026 Fuks                                  30.4.2026 Fuks v.r.
+
+    9        1639/26-O18                  14.6.2026 Fuks                                  10.6.2026 Fuks v.r.
+
+
+
+
+                  České dráhy, a.s., Generální ředitelství           IČO 70994226 | DIČ CZ70994226
+                  nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1    zapsaná ve veřejném – obchodním rejstříku
+                  T 221 111 122, IDDS e52cdsf, www.cd.cz             u Městského soudu v Praze pod sp. zn. B 8039     Strana 5 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+ROZSAH ZNALOSTÍ
+
+Pracovní zařazení                           Znalost
+
+■ Strojvedoucí, Strojvedoucí-in-            Úplná: 1-15, 18, 19, 22, 25, 26, 41, 42, 48-64, 67-75, 78-83, 92, 96-
+struktor, Kontrolor vozby a Systé-          107, 109-154
+mový specialista pro mezinárodní
+provoz
+■ Strojmistr                Úplná: 1, 2, 7, 19, 22, 50, 75-77, 104, 108, 128, 140, 141, 143, 144
+
+■ Zaměstnanec OŘOD (Správce Úplná: 1-10, 12-24, 27-47, 52, 53, 55-67
+SIPS) a Metodik IT
+■ Správce PIŘ                               Úplná: 1, 21, 32, 33, 44, 45
+
+■ Dispečer osobní dopravy ČD                Úplná: 25, 26, 116, 128, 137, 147, 148, 151, 152, 154
+Zaměstnanci, kteří organizují       Celé opatření informativně
+nebo kontrolují činnost strojvedou-
+cích (odborná zkouška V-13)
+Ostatní zaměstnanci                         Stanoví příslušný vedoucí zaměstnanec
+
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 6 / 38
+                                                             Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                      Účinnost od 14. 6. 2026
+
+
+Interní                                                                                        Číslo jednací 0172/21-O18
+
+
+
+
+SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+
+Zkratka
+
+APS        Automatizované pracoviště strojmistra
+ČD         České dráhy, a. s.
+ČD-T       ČD - Telematika, a. s.
+DB         Deutsche Bahn AG
+DkS        Dokumenty k seznámení
+DMI        Ovládací displej systému ETCS
+ETCS       Evropský vlakový zabezpečovač
+ETD        Elektronický jízdní řád (Electronic timetable display)
+eZOB       Elektronická zpráva o brzdění
+GVD        Grafikon vlakové dopravy
+HS         Hlášení strojvedoucích
+HV         Hnací vozidlo
+KNLZ       Kancelář NGŘ pro lidské zdroje
+MAPSIS     Mobilní aplikace sdílení informací strojvedoucím (Kniha pravidel pro strojvedoucí)
+MDM        Software pro dálkové řízení a kontrolu některých činností mobilního zařízení
+O18        Odbor provozu osobní dopravy
+OCÚ        Oblastní centrum údržby
+OŘOD       Oblastní ředitelství osobní dopravy
+PC         Osobní počítač
+PIŘ        Provozní informace ředitele (dokument vydávaný v gesci OŘOD)
+PL         Procesní list
+RD         Regionální dispečer
+ROV        Rozkaz o výluce
+RPP        Regionální pracoviště provozu
+SD         Síťový dispečer
+SH SAP     Servisní hlášení SAP (elektronická kniha oprav)
+SIPS       Sdílení informací pro strojvedoucí
+SPO        Seznam plánovaných omezení v provozování dráhy a změn stavebně technických
+           parametrů dráhy
+SŽ         Správa železnic, státní organizace
+TJŘ        Tabelární jízdní řád
+
+
+
+
+          České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+          nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+          T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 7 / 38
+                                                             Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                      Účinnost od 14. 6. 2026
+
+
+Interní                                                                                        Číslo jednací 0172/21-O18
+
+
+
+
+Tkat       Traťová kategorie
+TTP        Tabulky traťových poměrů
+TVD        Terminál vlakové dokumentace
+VD         Vlaková dokumentace
+VV         Výkaz vozidel
+ZCP        Zošitový cestovný poriadok
+ZDD        Základní dopravní dokumentace
+ZOB        Zpráva o brzdění
+ZOB DB     Zpráva o brzdění vydaná dopravcem DB
+ZPD        Základní přepravní dokumentace
+ZSSK       Železničná spoločnosť Slovensko, a.s.
+ŽKV        Železniční kolejové vozidlo
+ŽSR        Železnice Slovenskej republiky
+
+
+
+
+          České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+          nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+          T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 8 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+ČÁST PRVNÍ
+
+
+ÚVODNÍ USTANOVENÍ
+
+1.   ■■■■
+     Toto opatření obsahuje zásady pro používání elektronického zobrazovacího zařízení (dále jen „tab-
+     letu“), služebního mobilního telefonu a vyjmenovaných provozních aplikací:
+
+          a. Sdílení informací strojvedoucím SIPS a Mobilní aplikace sdílení informací strojvedoucím MAPSIS;
+          b. Hlášení strojvedoucích HS;
+          c.   Servisní hlášení SH SAP;
+          d. ETD;
+          e. ČD Komando;
+          f.   ČD Kontakty;
+          g. ČD Komunikátor.
+      Aplikace MAPSIS (Kniha pravidel pro strojvedoucí) obsahuje, v souladu s Prováděcím nařízením komise
+      (EU) 2019/773, soubor dokumentů nutných pro výkon činnosti strojvedoucího z oblasti bezpečnosti a
+      ochrany personálu, řízení a zabezpečení, provozu vlaku (včetně provozu za zhoršených podmínek), trakce
+      a kolejová vozidla a mimořádné události a nehody. Jedná se zejména o tyto provozní dokumenty:
+          a. Předpisy provozovatele dráhy, Předpisy ČD a kooperujících dopravců;
+          b. TTP;
+          c.   Provozní opatření pro strojvedoucí vydávaná jak na úrovni GŘ, tak na úrovni jednotlivých OŘOD a
+               RPP;
+          d. ZDD;
+          e. ZPD;
+          f.   provozní formuláře pro činnost strojvedoucího.
+
+2.   ■■■
+     Tablety jsou určeny jako pomůcka pro výkon služby strojvedoucích. Tablet zajišťuje strojvedoucímu přístup
+     k dokumentům v aktuálně platném znění a k provozním aplikacím určeným pro výkon jeho činnosti.
+
+3.   ■■
+     Pro účely tohoto opatření je za začátek směny strojvedoucího považován nástup na turnusový výkon.
+
+4.   ■■
+     Pro účely tohoto opatření je pod pojmem „řízení drážního vozidla“ míněn soubor činností, jimiž strojvedoucí
+     ovládá jedoucí hnací vozidlo.
+
+5.   ■■
+     Pod pojmem „tvrdý reset tabletu“ se rozumí formátování tabletu do továrního nastavení a smazání veškerých
+     souborů z paměti tabletu.
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039     Strana 9 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+6.    ■■
+      Změny příloh jsou prováděny průběžně a nepodléhají připomínkovému řízení.
+
+7.    ■■■
+      Pro provozní zaměstnance ČD jsou zřízeny intranetové stránky obsahující návody (včetně video-návodů) a
+      jiné dokumenty pro obsluhu jednotlivých řad vozidel a jednotlivých provozních oblastí. Zaměstnanec tyto
+      stránky zobrazí v sekci Dokumenty předpisy → Sekce provozně-technická na adrese www.seznam.cd.cz
+      po přihlášení svým logserverovým účtem (v intranetu ČD není přihlášení třeba).
+
+8.    ■■
+      Toto opatření nahrazuje opatření Ř O18 č. 3/2019 „SIPS“ ve znění změny č. 2, které ruší v plném rozsahu.
+
+9.    ■■
+      Toto opatření nahrazuje dokument č.j. 1387/2020-O18 „Ověřovací provoz aplikace ETD v tabletech strojve-
+      doucích“, který ruší v plném rozsahu.
+
+10.   ■■
+      Toto opatření nahrazuje opatření Ř O18 č. 33/2020 „Informování strojvedoucích o změnách TTP“, které ruší
+      v plném rozsahu.
+
+11.   ■
+      Toto opatření nahrazuje dokument č.j. 0446/21-O18 „Postup strojvedoucího ČD při poruše služebního
+      tabletu na území Slovenské republiky, dále u souprav Railjet a vlaků vedených HV ZSSK na tratích ČD
+      a Správy železnic“, který ruší v plném rozsahu.
+
+
+
+ČÁST DRUHÁ
+
+
+PODMÍNKY DISTRIBUCE TABLETU
+
+12.   ■■
+       Tato část opatření upřesňuje zásady a technologické postupy pro distribuci a používání tabletu.
+
+      A. POSKYTNUTÍ TABLETU
+
+
+13.   ■■
+       Tablety jsou distribuovány včetně příslušenství prostřednictvím výdejních míst OŘOD a pověřených zaměst-
+       nanců OŘOD dle rozdělení:
+           a)   personifikované        - do osobního užívání pro všechny zaměstnance ve funkci strojvedoucí a stroj-
+                                      vedoucí v přípravě, kteří mají s Českými drahami, a.s. uzavřenou pracovní
+                                smlouvu na hlavní pracovní poměr;
+           b)   skladové zásoby - sloužící jako náhradní pro potřeby Metodika IT jednotlivého OŘOD (např. ná-
+                                      hradní nepersonifikované tablety, personifikace náhradního tabletu v případě zá-
+                                      vady apod.);
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 10 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+           c)   testovací             - do vlastnictví určených zaměstnanců pro správu dat SIPS z každého OŘOD
+                                      a určených zaměstnanců GŘ O18;
+
+14.   ■■
+      Zaměstnanci ve funkci strojvedoucí, kteří nesplňují podmínku dle čl. 13 a), do osobního užívání tablet neob-
+      drží. Tito zaměstnanci sami zodpovídají za to, že budou mít ve směně při výkonu činnosti strojvedoucího
+      platné TTP a SPO. Manažer RPP může ve výjimečných a odůvodněných případech rozhodnout o zapůjčení
+      tabletu ze skupiny dle čl. 13 b) tomuto zaměstnanci na předem definovanou omezenou dobu (např. 1 směna,
+      týden od – do apod.).
+
+      B. EVIDENCE, PŘEJÍMKA A PŘEDÁVKA TABLETŮ
+
+
+15.   ■■
+      O přídělu tabletu k personifikaci a o skladových zásobách vede OŘOD evidenci s uvedením výrobního čísla
+      tabletu, SAP ID strojvedoucího, místa a data vydání/přijetí, inventárního čísla tabletu, jména a příjmení stroj-
+      vedoucího, stavu zařízení (zejména stručného popisu rozsahu poškození), jména a příjmení zaměstnance,
+      který tablet vydává/přebírá a s podpisy zúčastněných zaměstnanců.
+
+16.   ■
+      Správce OŘOD, příp. Metodik IT, zajistí před vydáním personifikovaného tabletu úplnost dokumentů s ohle-
+      dem na poznání traťových úseků konkrétního strojvedoucího.
+
+17.   ■
+      Dobu a místo určené pro výdej a přejímku tabletů určí OŘOD.
+
+18.   ■■
+      Výdejní místo OŘOD vydá strojvedoucímu dle čl. 13 a) personifikovaný tablet s aktuálními dokumenty (per-
+      sonifikaci přiděleného tabletu provede metodik IT, případně jím určený zaměstnanec).
+
+19.   ■■■
+      Strojvedoucí v přípravě obdrží tablet dle čl. 13 nejpozději po kurzu VOZ pro přípravu k odborné zkoušce V-
+      06. Takto obdržený tablet využívá dále i v průběhu aktivního jízdního výcviku za účelem osvojení si práce
+      s aplikacemi v tabletu a s jejich využíváním při plnění pracovních činností strojvedoucího a k přípravě k od-
+      borným zkouškám V-08 a ZOZ.
+
+      C. DATOVÉ SIM KARTY
+
+
+20.   ■
+      V každém OŘOD/RPP je stanovena kontaktní osoba pro objednávání, aktivaci, výdej a evidenci datových
+      SIM karet pro tablety.
+
+21.   ■
+      Kontaktní osoba vytvoří ke každé datové SIM kartě evidenční tabulku, která obsahuje výrobní číslo SIM karty
+      a výrobní číslo tabletu, ke kterému byla přiřazena. Jako základ této tabulky je možné využít evidenci tabletů
+      dle čl. 15 tohoto opatření, příp. k tomu určenou aplikaci.
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 11 / 38
+                                                                 Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                          Účinnost od 14. 6. 2026
+
+
+Interní                                                                                            Číslo jednací 0172/21-O18
+
+
+
+
+      D. ZÁVADA, ODCIZENÍ, ZTRÁTA, POŠKOZENÍ
+
+
+22.   ■■■
+      V případě závady služebního tabletu (včetně softwaru nebo příslušenství), kterou nemůže uživatel odstranit
+      standardními postupy (znovuspuštění aplikace, restart zařízení apod.), nebo pokud strojvedoucí nemá při
+      výkonu dopravní služby tablet u sebe (odcizení, ztráta, zapomenutí zařízení), je zaměstnanec povinen ne-
+      prodleně informovat jemu příslušného strojmistra. V případě závady, odcizení nebo ztráty tabletu zajistí dále
+      strojmistr informování (dle opatření OŘOD, např. e-mailem) příslušného Metodika IT. Systém výměny tabletů
+      stanoví OŘOD vlastním opatřením tak, aby strojvedoucí obdržel jiný funkční tablet při nástupu na další
+      směnu. Metodik IT následně stanoví další postup (reklamace, oprava zařízení apod.). V případě zapomenutí
+      nebo nefunkčnosti služebního tabletu se postupuje dle ustanovení čl. 25 a 26 tohoto opatření.
+
+23.   ■
+      Reklamace, opravu, či jinou závadu nebo nefunkčnost systému a zařízení řeší Metodik IT bezprodleně pro-
+      střednictvím Helpdesku ČD-T elektronicky nebo telefonicky v době 8:00 – 16:00 hod. v pracovní dny.
+
+24.   ■
+      Náhradní nepersonifikovaný tablet eviduje OŘOD obdobným způsobem jako personifikovaný tablet (vyjma
+      jména, příjmení a SAP ID strojvedoucího). Systém výdeje náhradních nepersonifikovaných tabletů (včetně
+      evidence předání) a místa úschovy určí OŘOD vlastním opatřením.
+
+25.   ■■
+      V případě neúspěšné synchronizace dat v aplikaci MAPSIS (viz i čl. 42), poruchy, poškození, zničení nebo
+      ztráty služebního tabletu, s následkem nemožného zobrazení dat TTP pro daný výkon, kontaktuje strojve-
+      doucí dispečera osobní dopravy ČD a vyžádá si od něj příslušné dokumenty, příp. si požadované dokumenty
+      najde na Portálu provozovatele dráhy (https://provoz.spravazeleznic.cz, pro přihlášení uživatele se použijí
+      jeho přihlašovací údaje z portálu logserver.cdis.cz).
+      Dispečer osobní dopravy ČD strojvedoucímu vyžádané dokumenty následně pošle na služební e-mailovou
+      adresu, načež si je strojvedoucí zobrazí ve svém mobilním telefonu nebo služebním tabletu, příp. spolu se
+      strojvedoucím domluví další postup.
+      V odůvodněných případech (např. při výpadku datového signálu) nadiktuje dispečer osobní dopravy ČD
+      strojvedoucímu potřebná relevantní data z TJŘ (především ze sloupců 2, 5, 7 a 8 ve vazbě na dopravnu,
+      stanoviště ze sloupce 1) daného vlaku. Strojvedoucí tato data použije pro další jízdu jeho vlaku ve spojení
+      s daty z dokumentu „Pomůcka s typovými jízdními dobami, rychlostmi a brzdícími procenty pro vlaky osobní
+      dopravy a Lv vlaky“. Zároveň musí být strojvedoucí seznámen s daty SPO.
+      Strojvedoucí ČD na území Slovenské republiky si taktéž vyžádá potřebná provozní data (ZCP a TTP ŽSR)
+      kontaktováním dispečera osobní dopravy ČD.
+      Strojvedoucí ČD na území Spolkové republiky Německo si taktéž vyžádá potřebná provozní data (DB Netz
+      La) kontaktováním dispečera osobní dopravy ČD.
+
+26.   ■■
+      Strojvedoucí ČD kontaktuje dispečera osobní dopravy ČD v souladu s následujícími pravidly:
+           a. v denní době od 07:00 do 20:00 hod. na tel. 220 188 005 (dispečer datový dohled) pro všechny
+              vlaky;
+           b. v noční době od 20:00 do 7:00 hod. následovně:
+                 I.    pro vlaky Os, Sp + příslušné Sv a Lv vlaky od/na tyto výkony:
+                               • v obvodu RD Východ na tel. 220 188 051, příp. 220 188 053
+
+
+
+
+              České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+              nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+              T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 12 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+                                 • v obvodu RD Západ na tel. 220 188 031, příp. 220 188 032
+                                 • v obvodu RD Střed na tel. 220 188 011, příp. 220 188 012
+                  II.    pro vlaky SC, EC, IC, EN, railjet, nightjet, Ex, R + příslušné Sv a Lv vlaky od/na tyto výkony:
+                                 • tel. 220 188 002
+
+
+
+ČÁST TŘETÍ
+SIPS A MAPSIS
+
+
+KAPITOLA I
+ČINNOSTI JEDNOTLIVÝCH UŽIVATELŮ V SYSTÉMU SIPS
+
+27.   ■■
+      Jednotliví uživatelé určení pro chod systému SIPS jsou rozdělení do těchto skupin:
+          a. Správce dokumentů O18;
+          b. Správce dokumentů OŘOD;
+          c.   Správce dokumentů PIŘ;
+          d. Metodik IT;
+          e. Čtenář O18;
+          f.   Čtenář OŘOD.
+
+A. SPRÁVCE DOKUMENTŮ O18
+
+
+28.   ■
+      Správce dokumentů O18 je odpovědný za:
+          a. Aktuálnost předpisů uložených v systému SIPS;
+          b. Tvorbu struktury předpisů pro strojvedoucí;
+          c.   Metodické vedení Správců dokumentů v OŘOD.
+      Dále Správce dokumentů O18:
+          a. Odsouhlasuje vytvoření nového účtu pro Správce dokumentů OŘOD, Správce PIŘ, Metodika IT, Čte-
+             náře O18 a Čtenáře OŘOD;
+          b. Provádí vložení/editaci/smazání traťové nebo staniční kategorie na žádost Správce dokumentů
+             OŘOD;
+          c.   Provádí přiřazení dokumentů potřebných pro jízdu vlaku k traťové kategorii na žádost Správce doku-
+               mentů OŘOD;
+          d. V případě potřeby vytváří přiřazení dokumentů potřebných pro jízdu vlaku k traťovým kategoriím,
+             včetně určení OŘOD, které bude za správu těchto dokumentů zodpovědné;
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 13 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          e. Na žádost Správce dokumentů OŘOD provádí přesun strojvedoucích mezi jednotlivými RPP;
+          f.   Provádí namátkovou kontrolu funkčnosti celého systému;
+          g. Schvaluje instalaci dalšího softwaru do tabletu.
+
+29.   ■
+      Uživatelská práva Správce dokumentů O18:
+          a. Tvorba struktury kategorie předpisů pro strojvedoucí;
+          b. Zápis, editace a mazání kategorie předpisů;
+          c.   Tvorba struktury pro traťové, staniční a ostatní dokumenty v celé databázi SIPS;
+          d. Čtení, zápis, editace a mazání dokumentů v traťových, staničních a ostatních kategoriích v celé da-
+             tabázi SIPS;
+          e. Zobrazení aktivity jednotlivých uživatelů celého systému SIPS;
+          f.   Vkládání/editace/mazání všech strojvedoucích v systému SIPS;
+          g. Přístup pro čtení do databáze tabletů přiřazených ke strojvedoucím;
+          h. Přístup do reportu dat všech tabletů v systému SIPS.
+
+      E. SPRÁVCE DOKUMENTŮ OŘOD
+
+
+30.   ■
+      Správce dokumentů OŘOD je odpovědný za:
+          a. Aktuálnost provozních dokumentů v systému SIPS v rámci svého atrakčního obvodu dle přílohy 1
+             tohoto opatření;
+          b. Včasné zadávání nových provozních dokumentů do databáze systému SIPS ve svém atrakčním ob-
+             vodu;
+          c.   Tvorbu struktury provozních dokumentů pro strojvedoucí;
+          d. Přiřazení traťové kategorie a ostatních dokumentů strojvedoucím domovského OŘOD dle jejich pro-
+             vozního využití. Množství přiřazených dat, které nemá strojvedoucí ve znalostech, nesmí u traťových
+             kategorií a ostatních dokumentů OŘOD přesáhnout 10 % z celkového objemu jemu přiřazených dat;
+          e. Přiřazení traťových kategorií dle provozního využití k náhradním nepersonifikovaným tabletům – je
+             nepřípustné přiřadit k těmto tabletům všechny traťové kategorie ze systému SIPS;
+          f.   Vložení textového upřesnění změny TTP, které obdrží od určeného zaměstnance, na začátek sou-
+               boru dotčených TTP;
+          g. Vkládání dat kooperujících dopravců (pouze určení Správci OŘOD);
+          h. vkládání JŘ vydaných provozovatelem dráhy SART-stavby a rekonstrukce a.s., příp. dalších, vč.
+             tvorby vazební tabulky k těmto dokumentům;
+          i.   Poskytování provozních dat kooperujícím dopravcům stanoveným způsobem (pouze určení Správci
+               OŘOD);
+          j.   Úpravu (sloučení) dokumentů „Vedení vlaků objízdnými trasami“ a „Pomůcky s typovými jízdními do-
+               bami, rychlostmi a brzdícími procenty pro vlaky osobní dopravy a Lv vlaky“ do souboru s názvem
+               „Pomůcka pro vlaky na trati XXX“ a vložení takto vzniklého souboru do kategorie příslušné trati;
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 14 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          k.   Tvorbu tzv. vazební tabulky pro každý soubor vzniklý dle předchozího bodu ve formátu csv, kterou
+               vloží do systému společně s takto vytvořeným souborem. Takto vytvořená vazební tabulka musí být
+               v takovém formátu, že dokument „Vedení vlaků objízdnými trasami“ bude možné v aplikaci MAPSIS
+               vyhledat pomocí číselné kombinace 300XXX a dokument „Pomůcky s typovými jízdními dobami,
+               rychlostmi a brzdícími procenty pro vlaky osobní dopravy a Lv vlaky“ pomocí 500XXX, kde se za XXX
+               dosadí číslo příslušné trati dle TTP.
+      Dále Správce dokumentů OŘOD:
+          a. V případě zjištění změny traťové nebo staniční kategorie, která má vliv na funkci systému, zažádá
+             Správce dokumentů O18 o provedení změny;
+          b. Provádí kontrolu funkčnosti systému za svůj obvod působnosti;
+
+31.   ■
+      Uživatelská práva Správce dokumentů OŘOD:
+          a. Tvorba struktury pro traťové, staniční a ostatní provozní dokumenty;
+          b. Zápis, editace a mazání provozních dokumentů v traťových, staničních a ostatních kategoriích ve
+             svém atrakčním obvodu OŘOD;
+          c.   Přístup pro čtení do traťových, staničních a ostatních kategorií v databázi celého systému;
+          d. Přiřazení traťové kategorie a předpisů konkrétnímu strojvedoucímu, skupině strojvedoucích a stroj-
+             vedoucím v přípravě vlastního OŘOD z celé databáze provozních dokumentů;
+          e. Zobrazení aktivity jednotlivých uživatelů vlastního OŘOD;
+          f.   Přístup pro čtení do databáze tabletů přiřazených strojvedoucím a strojvedoucím v přípravě;
+          g. Vkládání/editace/mazání strojvedoucích a strojvedoucích v přípravě vlastního OŘOD v systému
+             SIPS;
+
+      F. SPRÁVCE DOKUMENTŮ PIŘ
+
+
+32.   ■■
+      Správce dokumentů PIŘ je plně odpovědný za:
+          a. Aktuálnost dokumentů PIŘ, které má v gesci, v systému SIPS;
+          b. Správné pojmenování dokumentu PIŘ v SIPS (např. „PIŘ S 313/2026“);
+          c.   Vložení dokumentu PIŘ do systému SIPS ihned po jeho vydání;
+          d. Nastavení správné platnosti u dokumentu PIŘ;
+
+33.   ■■
+      Uživatelská práva Správce dokumentů PIŘ se vztahují pouze na vrcholovou kategorii PIŘ v SIPS.
+
+      G. METODIK IT
+
+
+34.   ■
+      Metodik IT je zodpovědný za:
+          a. Udržování funkční aplikace pro správu dokumentů v OŘOD;
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 15 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+           b. Řešení závad a nefunkčností aplikace MAPSIS, systému SIPS, vč. aplikace pro správu dokumentů
+              v OŘOD;
+           c.   IT podporu pro Správce dokumentů OŘOD, ostatní uživatele OŘOD využívající aplikaci SIPS a stroj-
+                vedoucí;
+           d. Personifikaci tabletu přiděleného strojvedoucímu (strojvedoucímu v přípravě), vč. provedení synchro-
+              nizace prvotních dat do tabletu;
+           e. Aktualizaci a držení v pohotovostním stavu stanoveného počtu náhradních tabletů určených pro vý-
+              měnu za vadné;
+           f.   Řešení nefunkčnosti tabletů a závad v přenosu dat systému SIPS (MAPSIS) s ČD-T.
+
+35.   ■
+       Uživatelská práva Metodika IT:
+           a. Přístup pro čtení do traťových, staničních a ostatních kategorií celé databáze dokumentů;
+           b. Přístup pro čtení do přiřazených skupin strojvedoucích a strojvedoucích v přípravě, v systému vlast-
+              ního OŘOD;
+           c.   Zobrazení aktivity jednotlivých uživatelů vlastního OŘOD;
+           d. Editační přístup do databáze tabletů přiřazených ke strojvedoucím a strojvedoucím v přípravě.
+
+      H. ČTENÁŘ O18
+
+
+36.   ■
+       Uživatelská práva:
+           a. Přístup pro čtení do traťových, staničních a ostatních kategorií celé databáze dokumentů;
+           b. Přístup pro čtení do přiřazených skupin strojvedoucích a strojvedoucích v přípravě, v celém systému
+              SIPS;
+           c.   Zobrazení aktivity jednotlivých uživatelů a report dat tabletů v celém systému SIPS.
+37. Neobsazeno.
+
+      I.   ČTENÁŘ OŘOD
+
+
+38.   ■
+       Uživatelská práva:
+           a. Přístup pro čtení do traťových, staničních a ostatních kategorií celé databáze dokumentů;
+           b. Přístup pro čtení do přiřazených skupin strojvedoucích a strojvedoucích v přípravě, v systému vlast-
+              ního OŘOD;
+           c.   Zobrazení aktivity jednotlivých uživatelů a report dat tabletů vlastního OŘOD.
+
+      J. OBECNÉ POVINNOSTI
+
+
+39.   ■
+
+
+                 České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                 nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                 T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 16 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+      Správci OŘOD (O18) jsou zodpovědní za správu aktuálních dokumentů v systému. Dokumenty (kromě do-
+      kumentů s účinností „ihned“) musejí vkládat do systému tak včas, aby bylo zaručeno, že budou do systému
+      SIPS vloženy ještě před jejich účinností.
+
+40.   ■
+      Správci OŘOD jsou povinni v systému SIPS vždy uvést názvy vybraných dokumentů (kategorií) dle metodiky
+      uvedené v čl. 44 (čl. 45) tohoto opatření. Z názvu ostatních dokumentů musí být jednoznačně patrné, čeho
+      se dokument týká.
+
+
+
+KAPITOLA II
+PROVOZNÍ ČÁST
+
+      A. AKTUALIZACE (SYNCHRONIZACE) DAT
+
+
+41.   ■■
+      Pravidelná synchronizace provozních dokumentů je realizována prostřednictvím:
+          a. WiFi;
+          b. Datové SIM karty;
+          c.   USB adaptéru – na vybraných nástupních místech nebo na pracovišti, kde dochází k personifikaci
+               tabletu.
+      Způsob připojení pro provedení synchronizace volí strojvedoucí dle vybavení nástupního místa. Je-li na ná-
+      stupním místě zřízeno WiFi, musí strojvedoucí tento způsob synchronizace využít přednostně.
+
+42.   ■■
+      Strojvedoucí provádí synchronizaci dokumentů vždy při nástupu na směnu v souladu s č. 49 tohoto opatření.
+      O úspěšně provedené synchronizaci je informován notifikační zprávou ihned po jejím úspěšném dokončení
+      a trvalým nápisem v menu synchronizace. Podrobnější popis aktualizovaných dokumentů je zobrazen v his-
+      torii synchronizací a zároveň je odeslán do jeho služební e-mailové schránky.
+      Byla-li synchronizace dat při nástupu na směnu opakovaně neúspěšná, nesmí strojvedoucí při dalším vý-
+      konu své služby do doby provedení úspěšné synchronizace používat TTP a další dokumenty potřebné při
+      jízdě vlaku (vč. např. ZCP a TTP ŽSR, DB Netz La) dostupné v aplikaci MAPSIS. Potřebné dokumenty pro
+      vedení vlaku získá způsobem uvedeným v čl. 25 a 26 výše. Neprodleně během své směny, ve vhodné době
+      a na vhodném místě, provede synchronizaci opětovně. Po jejím dokončení postupuje, v závislosti na jejím
+      výsledku, dle ustanovení tohoto článku.
+
+      B. PROVOZNÍ DOKUMENTY URČENÉ PRO SYSTÉM SIPS
+
+
+43.   ■
+      Dokumenty v gesci O18:
+          a. provozní předpisy ČD, provozovatele dráhy a kooperujících partnerů nutné k výkonu činnosti strojve-
+             doucího;
+          b. vztažné dokumenty k provozním předpisům (výnosy, gestorské výklady apod.);
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 17 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+44.   ■■
+      Dokumenty v gesci jednotlivých OŘOD:
+          a. TTP;
+          b. Vedení vlaků objízdnými trasami;
+          c.   Pomůcka s typovými jízdními dobami, rychlostmi a brzdícími procenty pro vlaky osobní dopravy a Lv
+               vlaky;
+          d. ZDD:
+                        I.     Staniční řády (bez příloh);
+                       II.     Obsluhovací řády;
+                      III.     Prováděcí nařízení pro trať D3 (PND3);
+                      IV.      Prováděcí nařízení pro trať vybavenou radioblokem (PNRB);
+                       V.      Prováděcí nařízení pro dálkově řízené tratě (PNDOZ);
+                      VI.      Místní pohraniční ujednání (MPU);
+
+          e. Provozní řády pracovišť ČD;
+          f.   Provozní řády rádiových sítí;
+          g. ZPD - část B;
+          h. plánky stanic, odboček, výhyben;
+          i.   Tabulky brzdících procent pro vlaky ETCS;
+          j.   provozní dokumenty kooperujících partnerů (pouze určení Správci OŘOD);
+          k.   PIŘ.
+
+45.   ■■
+      Názvy vybraných dokumentů v SIPS, které nesmí být měněny:
+      název dokumentu                                             název dokumentů v SIPS
+      Tabulky traťových poměrů                                    TTP číslo tratě (TTP 501A, TTP 537)
+      Vedení vlaků objízdnými trasami + Pomůcka                   Pomůcka pro vlaky na trati číslo tratě dle TTP
+      s typovými jízdními dobami, rychlostmi a brzdí-
+      cími procenty pro vlaky osobní dopravy a Lv
+      vlaky
+      Plánek stanic, výhyben + staniční řád                       PL_SŘ název stanice/výhybny
+      Plánek odbočky + obsluhovací řád odbočky                    PL_ObŘ název odbočky
+      Prováděcí nařízení pro trať D3                              PND3 název trati
+      Prováděcí nařízení pro trať vybavenou radi-                 PNRB název trati
+      oblokem
+      Prováděcí nařízení pro dálkové řízené tratě                 PNDOZ název trati
+      Místní pohraniční ujednání/dodatkové ujednání               MPU název trati
+      Provozní řád pracoviště ČD                                  PŘ název
+      Základní přepravní dokumentace                              ZPD název stanice/zastávky
+      Provozní informace ředitele                                 PIŘ zkratka OŘOD číslo PIŘ/rok vydání (např.
+                                                                  PIŘ S 313/2026)
+
+
+
+
+                České dráhy, a.s., Generální ředitelství           IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1    zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz             u Městského soudu v Praze pod sp. zn. B 8039    Strana 18 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+46.   ■
+      Názvy vybraných kategorií v SIPS, které nesmí být měněny:
+      název kategorie                                             název kategorie v SIPS
+      Provozní řád pracoviště ČD                                  PŘ název
+      Tabulka traťových poměrů                                    - - - TTP - - -
+
+47.   ■
+      Názvy ostatních Kategorií a Dokumentů musí být uvedeny tak, aby odpovídaly druhu a obsahové stránce
+      dokumentu.
+
+      C. POVINNOSTI STROJVEDOUCÍHO
+
+
+48.   ■
+      Strojvedoucí využívá systém SIPS prostřednictvím aplikace MAPSIS v tabletu. Data v tabletu slouží ke slu-
+      žebním účelům, zejména k:
+          a. Zobrazení dokumentů TTP, ostatních pomůcek pro jízdu vlaku, předpisů, Prováděcích nařízení, Pro-
+             vozních řádů pracovišť ČD apod.;
+          b. Přístupu do služební e-mailové schránky;
+          c.   Přístupu na předdefinované intranetové a internetové stránky, jejichž obsah souvisí s pracovní náplní
+               strojvedoucího;
+          d. Používání provozních aplikací určených pro výkon služby strojvedoucího.
+
+49.   ■
+      Strojvedoucí musí mít při nástupu na směnu zapnutý, nabitý a funkční tablet tak, aby mohla být provedena
+      synchronizace dat.
+
+50.   ■■
+      Strojvedoucí je dále povinen:
+          a. Mít zapnutý tablet u sebe po celou délku směny;
+          b. Po celou délku směny být přihlášen do aplikace Pracovní prostředí, mimo pracovní dobu být do apli-
+             kace Pracovní prostředí přihlášen pouze po dobu nezbytně nutnou při využívání těch provozních
+             aplikací, které přihlášení do Pracovního prostředí vyžadují;
+          c.   V případě stažení nových dokumentů (aktualizace dokumentů stávajících) v rámci synchronizace
+               v aplikaci MAPSIS se se zněním těchto dokumentů seznámit dle stanoveného rozsahu znalostí a dle
+               relevantnosti konkrétního dokumentu pro daný výkon strojvedoucího (přednostně se strojvedoucí se-
+               známí s dokumenty, které mají přímou souvislost s výkonem jeho činnosti na dané směně).
+               Seznamování se s dokumenty dle ustanovení tohoto článku není považováno za prokazatelné se-
+               znamování s výjimkou dokumentů, které potvrzení se seznámením vyžadují. V případě dokumentů
+               PIŘ se strojvedoucí seznamuje pouze s konkrétním PIŘ, uvedeném v poznámce ke směně v aplikaci
+               ČD Komando (viz čl. 68).
+          d. V době řízení drážního vozidla je dovoleno používat tablet pouze k zobrazení konkrétního jízdního
+             řádu platného pro daný výkon (v rámci jízdního řádu mohou být zobrazeny data z dokumentů TTP a
+             SPO);
+
+
+
+
+                České dráhy, a.s., Generální ředitelství           IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1    zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz             u Městského soudu v Praze pod sp. zn. B 8039    Strana 19 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          e. V době provádění činností souvisejících s pracovní náplní strojvedoucího je zakázáno používat apli-
+             kace, které nesouvisí s těmito činnostmi;
+          f.   Při zjištění nefunkčního WiFi připojení nebo USB adaptéru v nástupním místě nebo mobilního GSM
+               signálu SIM karty v tabletu neprodleně ohlásit tuto nefunkčnost služebním telefonem strojmistrovi.
+               Ihned, jakmile to bude možné, také prostřednictvím aplikace „Hlášení strojvedoucích“;
+          g. Používat zařízení v souladu s uživatelským manuálem, zejména pak dodržovat bezpečnostní in-
+             strukce v něm uvedené;
+          h. Soukromé využívání tabletu nesmí nikterak omezovat jeho používání pro služební účely. Strojvedoucí
+             je proto povinen udržovat přidělený tablet ve stavu plné funkčnosti v takové míře, aby soukromé po-
+             užívání nebránilo funkčnosti, instalaci a aktualizaci povinně instalovaných aplikací, ani nedocházelo
+             k předčasnému vybíjení baterie;
+          i.   Hlásit závady zařízení, chyby, či špatné fungování softwaru;
+          j.   Pravidelně číst a v přiměřeném čase odpovídat na elektronickou poštu ve služební e-mailové
+               schránce, která mu byla zřízena;
+          k.   Zajistit tablet před zneužitím a ztrátou;
+          l.   Dbát maximální opatrnosti při připojování datového kabelu, zejména za účelem nabíjení;
+          m. Mít po dobu výkonu služby zapnutý mobilní přenos dat;
+          n. Mít po dobu výkonu služby zapnutou funkci určování polohy;
+          o. Používat přidělenou služební SIM kartu pouze ve svém služebním tabletu;
+          p. Mít v nastavení systému Android zapnutou možnost instalace z neznámého zdroje (instalace třetích
+             stran) – název této funkce je rozdílný dle konkrétní verze prostředí Android;
+          q. Mít v nastavení systému Android v položce „Používat čas ze sítě“ zvolenu možnost „Použít sítí po-
+             skytnutý čas“ (umístění: Nastavení / Systém / Datum a čas / Používat čas ze sítě), resp. neměnit toto
+             nastavení;
+          r.   Používat ochranné pouzdro.
+
+51.   ■
+      Strojvedoucí nesmí zejména:
+          a. Používat jinou, než přidělenou služební SIM kartu;
+          b. Využívat tablet ke komerčním účelům;
+          c.   Provádět jakékoliv opravy nebo úpravy na zařízení;
+          d. Provádět tzv. tvrdý reset tabletu (viz čl. 5);
+          e. Instalovat neschválený software (software schvaluje GŘ O18);
+          f.   Odstraňovat software tabletu řízený aplikací MDM;
+          g. Poskytnout služební data třetím osobám, tj. jakkoliv šířit, distribuovat nebo kopírovat tato data.
+
+52.   ■■
+      Strojvedoucí musí brát zřetel na to, že jemu přidělená služební SIM karta obsahuje datový tarif o velikosti 7
+      GB měsíčně. Z tohoto důvodu je vhodné přednostně využívat signálu WiFi, pokud je strojvedoucí v jeho
+      oblasti. Při využití WiFi signálu není potřeba vypínat mobilní data, WiFi je upřednostněna. V případě vyčer-
+      pání dat jinými, než služebními aplikacemi budou zaměstnanci přeúčtovány náklady na přikoupení datových
+      služeb za daný kalendářní měsíc.
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 20 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+53.   ■■
+      V případě vyčerpání datového limitu na služební SIM kartě se strojvedoucí obrátí s žádostí o jeho dokoupení
+      na kontaktní osobu pro SIM karty v příslušné jednotce, pokud mu není známa, tak na svého přímého nadří-
+      zeného. Na základě této informace provede kontaktní osoba dokup datového balíčku pro aktuální měsíc.
+
+54.   ■
+      Tablety s operačním systémem Android jsou dále určeny:
+          a. K získávání informací pro výkon služby strojvedoucího prostřednictvím služebních a veřejných dato-
+             vých zdrojů pomocí aplikací nebo internetového prohlížeče;
+          b. Pro využívání externích prohlížečů k zobrazování dokumentů potřebných pro výkon strojvedoucího;
+          c.   V případě potřeby pro pořízení fotodokumentace (je ovšem zakázáno pořizovat fotodokumentaci
+               osobních průkazů, osobních údajů cestujících a zároveň je nutné dodržování všech zákonných úprav
+               v oblasti pořizování a archivace fotografií).
+
+55.   ■■
+      Služební tablet je řízen systémem MDM. Tento systém monitoruje některé informace a stavy tabletu.
+
+56.   ■■
+      Pomocí systému MDM je prováděna dálková instalace a aktualizace povinných aplikací a přenos dokumentů
+      do tabletu. V případě dálkové instalace aplikací není vyžadována součinnost strojvedoucího.
+      V případě odinstalování aplikace řízené systémem MDM, je tato aplikace samovolně opět nainstalována.
+
+57.   ■■
+      Výhradně pro potřeby tohoto opatření se dělí používané aplikace ve služebních tabletech na dva druhy:
+          a. Povinně instalované;
+          b. Individuálně instalované.
+
+58.   ■■
+      Povinně instalované aplikace jsou takové, které zajišťují chod aplikace MAPSIS a dalších aplikací určených
+      k podpoře její správné funkce. Jsou do tabletu instalovány automaticky, je zakázáno je mazat, zakazovat
+      jejich chod, či je odinstalovávat. Tyto aplikace jsou monitorovány pomocí MDM prostřednictvím aplikace
+      Pracovní prostředí a jakákoliv neoprávněná změna jejich stavu bude vyhodnocena jako porušení pracovních
+      povinností. Seznam takto instalovaných aplikací je v příloze č. 2.
+
+59.   ■■
+      Individuálně instalované aplikace jsou takové, které si uživatel stahuje a instaluje sám. Tyto aplikace by svou
+      povahou a obsahem měly zefektivňovat a ulehčovat službu strojvedoucího. Seznam takto povolených apli-
+      kací je uveden v příloze č. 2. Není dovoleno stahovat a instalovat aplikace neuvedené na tomto seznamu,
+      uživatel má ovšem možnost navrhnout nové aplikace vhodné pro výkon služby strojvedoucího sepsáním
+      hlášení strojvedoucího, ve kterém uvede výčet navrhovaných aplikací, vč. uvedení důvodů pro jejich zane-
+      sení mezi povolené aplikace. O18 následně žádost posoudí.
+
+60.   ■■
+      K ochraně tabletu a dat v něm obsažených je doporučeno:
+          a. Zapnout funkci vynuceného uzamykání displeje po 30 sekundách nečinnosti (aplikace ETD samo-
+             volně zabraňuje, při otevřeném JŘ, uzamknutí displeje);
+          b. Pro odemknutí displeje použít PIN (osobní identifikační číslo);
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 21 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          c.   Pro odemknutí displeje nepoužívat funkci gesta.
+
+61.   ■■
+      Strojvedoucí může na tabletu využívat funkci účtu Google. Při zapomenutí přihlašovacích údajů k účtu Go-
+      ogle budou zaměstnanci ze strany zaměstnavatele účtovány náklady na odstranění účtu Google a následné
+      zprovoznění tabletu. Před vrácením tabletu zaměstnavateli je strojvedoucí povinen odebrat své přihlašovací
+      údaje ze zařízení.
+
+62.   ■■
+      K přihlášení uživatele do aplikace Pracovní prostředí v tabletu se použijí jeho přihlašovací údaje z portálu
+      logserver.cd.cz. Pokud uživatel tyto údaje zapomene, obrátí se neprodleně na helpdesk ČD-T na tel. čísle
+      212 111 991, kde dojedná další postup (helpdesk lze kontaktovat 24 hod. denně, 7 dní v týdnu).
+
+63.   ■■
+      V tabletu je možné použít vlastní microSD kartu, na kterou je možné ukládat aplikace, fotografie, služební
+      dokumenty apod.
+
+      D. ZMĚNY V TTP
+
+
+64.   ■■
+      Při každé změně TTP mající vliv na výkon práce strojvedoucího je vytvořeno pověřeným zaměstnancem
+      OŘOD textové upřesnění změny např. "Mezi Uhlířské Janovice a Ledečko jsou přejezdy v km 33,131,
+      33,330 a 33,597 z obou stran nově kryty kmenovým přejezdníkem s neproměnnou návěstí Otevřený přejezd
+      platným pro 3 přejezdy a opakovacími přejezdníky platnými pro 2 a 1 přejezd, resp. 1 a 2 přejezdy v opačném
+      směru.“ Vzor takto vytvořeného textového upřesnění je uveden v příloze č. 3.
+
+65.   ■
+      Pověření zaměstnanci OŘOD vypracovávají textové upřesnění změn TTP dle atrakčních obvodů jednotli-
+      vých OŘOD, uvedených v příloze č. 1.
+
+66.   ■
+      Textové upřesnění vytvořené dle čl. 64 zašle pověřený zaměstnanec OŘOD Správci OŘOD, který ho vloží
+      jako první novou stranu příslušného TTP.
+
+67.   ■■
+      Strojvedoucí se pomocí aplikace MAPSIS seznamuje se změnami v TTP, které jsou textově upřesněny a
+      vloženy na začátek každého dokumentu TTP, ve kterém proběhla změna.
+      Seznámení se se změnou v TTP potvrdí stiskem tlačítka „ano“ v dialogovém okně aplikace MAPSIS, které
+      se zobrazí při zavření dotyčného dokumentu TTP, ve kterém proběhla změna.
+
+      E. DOKUMENTY PIŘ
+
+
+68.   ■
+      Strojvedoucí se seznamuje pouze s částmi dokumentů PIŘ platnými pro výkon jeho činnosti v rámci dané
+      směny. Číslo těchto dokumentů PIŘ zjistí strojvedoucí z poznámky ke směně v aplikaci ČD Komando u dané
+      směny. Strojvedoucí potvrzením seznámení s dokumentem PIŘ potvrzuje, že se seznámil se zněním části
+      dokumentu PIŘ týkající se průběhu jeho směny.
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 22 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+ČÁST ČTVRTÁ
+SLUŽEBNÍ MOBILNÍ TELEFONY
+
+69.   ■
+      Ustanovení Části čtvrté se vztahují na služební mobilní telefony typu „smartphone“ s operačním systémem
+      Android.
+
+70.   ■
+      Strojvedoucí je povinen používat přidělený služební telefon se služební SIM kartou (je zakázáno používat
+      soukromý telefon s vloženou služební SIM kartou).
+
+71.   ■
+      Telefon musí být zabezpečen jedním z těchto způsobů:
+          a. PIN kódem;
+          b. Otiskem prstu;
+          Zabezpečení pomocí gesta není dovoleno.
+
+72.   ■
+      Strojvedoucí může využívat přidělený služební mobilní telefon pro soukromé účely za dodržení pravidel bez-
+      pečnostní IT politiky. Instalované aplikace a využívání telefonu pro soukromé účely nesmí jakkoliv omezovat
+      funkčnost aplikací provozních.
+
+73.   ■
+      Strojvedoucí může ve služebním telefonu využívat funkci účtu Google. Při zapomenutí přihlašovacích údajů
+      k účtu Google budou zaměstnanci ze strany zaměstnavatele účtovány náklady na odstranění účtu Google
+      a následné zprovoznění mobilního telefonu. Před vrácením mobilního telefonu zaměstnavateli je strojve-
+      doucí povinen odebrat své přihlašovací údaje ze zařízení.
+
+74.   ■
+      V případě „dvousimkartové“ varianty služebního mobilního telefonu může být do slotu č. 2 vložena soukromá
+      SIM karta strojvedoucího. Přidělená služební SIM karta musí být ve slotu č. 1.
+
+75.   ■■
+      V případě:
+          a. závady mobilního telefonu takového charakteru, že nelze dále mobilní telefon použít, zejména pro
+             účely nouzového spojení, nebo
+          b. zjištění, že strojvedoucí nemá ve směně mobilní telefon u sebe (odcizení, ztráta, zapomenutí zaří-
+             zení),
+      je strojvedoucí povinen o této skutečnosti neprodleně informovat jemu příslušného strojmistra a příslušného
+      dispečera osobní dopravy ČD.
+      V případě závady, odcizení nebo ztráty zařízení zajistí dále strojmistr informování (dle opatření OŘOD, např.
+      e-mailem) určeného zaměstnance, který má problematiku distribuce mobilních telefonů ve své gesci. Systém
+      výměny mobilních telefonů stanoví OŘOD vlastním opatřením tak, aby strojvedoucí obdržel jiný funkční mo-
+      bilní telefon při nástupu na další směnu.
+
+76.   ■
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 23 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+      V případě absence služebního mobilního telefonu (z jakéhokoliv důvodu) zajistí strojmistr mimořádné zadání
+      např. soukromého telefonního čísla strojvedoucího do aplikace APS pro aktuální pracovní výkon strojvedou-
+      cího.
+
+77.   ■
+      V kontextu čl. 75 a 76 vybaví RPP pracoviště strojmistra nejméně jedním náhradním služebním telefonem
+      (ze zásob náhradních mob. telefonů) s aktivní SIM kartou, který strojmistr v případě potřeby předá strojve-
+      doucímu pro použití ve směně. Zároveň s předáním upraví strojmistr tel. kontakt na strojvedoucího v APS.
+
+
+
+ČÁST PÁTÁ
+HLÁŠENÍ STROJVEDOUCÍCH
+
+
+KAPITOLA I
+ÚVODNÍ USTANOVENÍ
+
+78.   ■
+      Aplikace Hlášení strojvedoucích (dále jen HS) je určená pro informování zaměstnavatele o mimořádnostech
+      ve směně strojvedoucího, jakožto i o jiných skutečnostech, které souvisejí s pracovní činností strojvedou-
+      cího.
+
+79.   ■
+      Aplikace je umístěná na webové adrese https://sips.cd.cz a lze ji spustit jak na PC na nástupních místech
+      strojvedoucích, tak na služebních tabletech. Aplikace je přístupná i mimo intranet ČD.
+      Aplikace je rovněž přístupná jako samostatný modul v rámci aplikace MAPSIS.
+
+80.   ■
+      K přihlášení uživatele do aplikace HS se použijí jeho přihlašovací údaje z portálu logserver.cdis.cz. Pokud
+      uživatel tyto údaje zapomene, musí se neprodleně obrátit na helpdesk ČD-T na tel. čísle 212 111 991, kde
+      dojedná další postup (helpdesk lze kontaktovat 24 hod. denně, 7 dní v týdnu).
+
+81.   ■
+      Jednotliví uživatelé systému HS jsou rozděleni do těchto skupin:
+          a. Správce O18;
+          b. Hlavní zpracovatel RPP;
+          c.   Zpracovatel RPP;
+          d. Zadavatel (strojvedoucí).
+
+82.   ■
+      Text každého hlášení musí svým obsahem a formou odpovídat zásadám Etického kodexu společnosti ČD.
+
+83.   ■
+      Každé vytvořené hlášení se musí nacházet v jednom z těchto stavů:
+          a. Nové hlášení – je hlášení sepsané Zadavatelem, ale doposud s ním nebylo nikterak pracováno;
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 24 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          b. Převzato k vyřízení – je hlášení převzaté konkrétním Zpracovatelem k vyřízení, ale doposud neuza-
+             vřené;
+          c.   Předáno k vyřízení – je hlášení přeposlané Zpracovatelem na jiného Zpracovatele, který je kompe-
+               tentní k vyřízení dané problematiky;
+          d. Vyřízeno – je hlášení, které je uzavřeno (jeho věcná podstata byla splněna).
+
+
+
+KAPITOLA II
+ČINNOSTI JEDNOTLIVÝCH UŽIVATELŮ V SYSTÉMU HS
+
+    A. SPRÁVCE O18
+
+84. Správce O18 schvaluje vytvoření nového účtu pro:
+          a. Správce O18;
+          b. Hlavní zpracovatele RPP;
+          c.   Zpracovatele v jednotlivých RPP.
+
+    B. HLAVNÍ ZPRACOVATEL RPP
+
+85. Hlavního zpracovatele RPP určí Správce O18 po dohodě s příslušným RPP.
+86. Hlavní zpracovatel RPP je zodpovědný za včasné zpracování hlášení spadajících pod RPP, ve kterém pů-
+    sobí.
+87. V případě existence hlášení, které nebylo převzato k řešení, určí Hlavní zpracovatel v rámci své činnosti kon-
+    krétního Zpracovatele, který se tímto hlášením bude zabývat, příp. domluví se Správcem O18 další postup
+    vedoucí k uzavření tohoto hlášení.
+88. Maximální lhůta pro převzetí hlášení k řešení je 5 pracovních dnů od jeho vložení do systému a pro uzavření
+    hlášení je to 20 pracovních dnů od jeho vložení do systému. Uzavření hlášení může být nad rámec této lhůty
+    prodlouženo jen v případě existence objektivních důvodů pro prodloužení této doby.
+89. Hlavní zpracovatel může zároveň plnit funkci Zpracovatele v daném RPP.
+
+    C. ZPRACOVATEL RPP
+
+90. Zpracovatel RPP je odpovědný za práci s hlášeními vytvořenými jemu podřízenými Zadavateli. Každé takto
+    vytvořené hlášení je povinen:
+          a. Převzít k vyjádření (do 5 pracovních dnů od vložení hlášení do systému) v případě, že dané hlášení
+             nelze uzavřít bez splnění konkrétních bodů v něm obsažených. Zároveň s tím je Zpracovatel povinen
+             vyplnit informaci do textového pole „Vyjádření zpracovatele“, která bude informovat Zadavatele o tom,
+             že se na vyřízení jeho hlášení pracuje, příp. bude obsahovat další podrobnosti;
+          b. Převzít k uzavření (do 20 pracovních dnů od vložení hlášení do systému) a uzavřít jej v případě, že
+             problém uvedený v hlášení je již vyřešen, příp. se jedná pouze o hlášení informačního charakteru.
+             Zároveň s tím je Zpracovatel povinen vyplněním pole „Vyjádření zpracovatele“ informovat Zadavatele
+             o přijatých opatřeních (viz i čl. 91);
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 25 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+          c.   Předat (bez zbytečného prodlení) na jiného Zpracovatele, který má uvedený problém ve své gesci,
+               příp. který je oprávněn dále se problémem zabývat.
+91. Pokud je hlášení ve stavu Převzít k vyjádření a jsou splněny veškeré náležitosti v něm uvedené, je příslušný
+    Zpracovatel povinen neprodleně hlášení uzavřít a do pole „Vyjádření zpracovatele“ zapsat stručnou informaci
+    o přijatých opatřeních.
+
+92.   ■
+      Pokud Zpracovatel shledá nedostatky ve znění hlášení, které vedou k nemožnému vyřešení podstaty hlá-
+      šení, kontaktuje autora tohoto hlášení s informací o nutnosti doplnit hlášení o potřebné údaje.
+      Formu kontaktování autora hlášení volí jeho Zpracovatel. V tomto případě nestačí pouhé uzavření původ-
+      ního hlášení s výčtem doplnění potřebných podkladů, Zpracovatel je povinen kontaktovat autora hlášení i
+      jiným způsobem (osobně / telefonicky / emailem). Původní hlášení následně Zpracovatel uzavře s tím, že
+      do kolonky „vyjádření zpracovatele“ uvede informaci o vyžádaných podkladech potřebných pro splnění jeho
+      původní podstaty. Na základě takto vyžádaných informací vytvoří autor původního hlášení hlášení nové, ve
+      kterém uvede veškeré potřebné podklady zmíněné Zpracovatelem. Pokud potřebné údaje z jakéhokoliv dů-
+      vodu nedodá, je takové hlášení považováno za uzavřené a nadále na něj nebude brán zřetel.
+93. Každé vytvořené hlášení je možné uložit ve formátu pdf. Takto vytvořený soubor má statut důvěrného doku-
+    mentu, který obsahuje citlivé údaje pracovního charakteru. Z tohoto důvodu je možné tento dokument použít
+    pouze za účelem vyřešení problému souvisejícím s informacemi v hlášení uvedenými, příp. ho lze použít za
+    účelem vyřešení jiného problému, se kterým text v tomto dokumentu souvisí.
+94. Pokud obsahuje hlášení přílohy, musí s nimi být zacházeno obdobně jako s hlášeními uloženými ve formátu
+    pdf – jedná se o důvěrné dokumenty obsahující citlivé údaje pracovního charakteru a lze je využívat pouze
+    za účelem vyřešení daných hlášení.
+95. V odůvodněných případech (např. v závislosti na smluvních podmínkách s objednavateli dopravy) může
+    OŘOD/RPP vydáním vlastního opatření dále upravit povinnosti strojvedoucího dané čl. 96 a 97.
+      Takto vydané opatření nesmí spočívat ve zrušení jakékoliv povinnosti dané čl. 96 a 97, může pouze zpřes-
+      ňovat znění těchto článků.
+
+      D. ZADAVATEL (STROJVEDOUCÍ)
+
+
+96.   ■
+      Strojvedoucí oznamuje prostřednictvím aplikace HS zaměstnavateli:
+          a. Zpoždění jím vedeného vlaku větší než 10 minut (netýká se nastupujícího strojvedoucího při střídání
+             na ose), vzniklé z důvodu:
+                    I. na straně ČD (např. technická závada na vlaku);
+                   II. zhoršených adhezních podmínek;
+                  III. obdržení rozkazu o zhoršených povětrnostních podmínkách;
+          b. Zjištění závady na straně infrastruktury a řízení provozu (např. závady v návěstění, pomůckách k vý-
+             konu dopravní služby, chybné znění písemného rozkazu apod.);
+          c.   Informace o incidentu, jehož byl součástí nebo svědkem a který není řešen jako Mimořádná událost
+               (např. vandalismus na majetku ČD apod.);
+          d. Ostatní okolnosti, které mají vliv na výkon služby strojvedoucího (např. nedostatky ve vybavení pra-
+             coviště, nefunkční WiFi, připomínky a podněty k provozním aplikacím apod.).
+
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 26 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+97.   ■
+       Do aplikace HS nesmí strojvedoucí zapisovat vznik mimořádné události.
+       Není-li opatřením OŘOD/RPP stanoveno jinak, zpoždění vlaku, které je menší než 10 minut se zapisovat
+       nemusí.
+
+98.   ■
+       Aplikace HS je určená pro detailní popis konkrétního problému a v případě např. závad HV se jedná pouze
+       o nástroj pro stručné informování o okolnostech a důsledcích této závady, který nenahrazuje zápis do apli-
+       kace SH SAP. Strojvedoucí je povinen zapsat zjištěnou závadu na HV do aplikace SH SAP v souladu s usta-
+       novením Části šesté SH SAP. Pouze v případě vlivu závady na včasnost jízdy vlaku (viz čl. 96.a) je nutno
+       zpoždění vlaku uvést v aplikaci HS.
+
+99.   ■
+       Ke každému hlášení je možné připojit přílohu. Takto připojená příloha (dokument či fotografie) se svým
+       obsahem musí vztahovat k problému v hlášení uvedenému (v případě pořízení fotografie je nutné postupo-
+       vat v souladu se zněním čl. 54 c.
+
+100.   ■
+       V případě, že strojvedoucí pomocí aplikace HS reklamuje znění provozního dokumentu (např. písemného
+       rozkazu), musí přiložit fotografii tohoto dokladu jako přílohu daného hlášení, příp. ji doložit na vyžádání od
+       Zpracovatele. V opačném případě nemusí být na takovéto hlášení brán zřetel.
+
+
+
+ČÁST ŠESTÁ
+SH SAP
+
+      A. OBECNÁ USTANOVENÍ
+
+
+101.   ■
+       Servisní hlášení (dále jen SH) SAP je systém pro zadávání požadavků na opravy ŽKV.
+       V systému SH SAP jsou obsažena pouze ta ŽKV, u kterých jsou ČD držitelem (vlastníkem nebo je mají
+       v pronájmu) a jsou tedy obsažena v systému SAP. U ostatních vozidel se v případě požadavku na opravu
+       postupuje dle příslušné metodiky stanovené kooperujícím dopravcem, příp. vlastníkem vozidla.
+
+102.   ■
+       Aplikace je umístěná na webové adrese https://shs.cd.cz a lze ji spustit jak na PC na nástupních místech
+       strojvedoucích, tak na služebních mobilních zařízeních (odkaz na webové stránky je uveden i v aplikaci
+       MAPSIS a ETD). Aplikace je přístupná i mimo intranet ČD.
+
+103.   ■
+       Strojvedoucí používá aplikaci SH SAP v souladu s Uživatelskou příručkou, která je součástí aplikace a na-
+       chází se také v aplikaci MAPSIS, konkrétně v kategorii:
+       Předpisy/Předpisy ČD/---DOKUMENTY K PROVOZU---/návody a uživatelské příručky/manuál mobilní verze
+       SH SAP.
+
+104.   ■■
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 27 / 38
+                                                                   Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                            Účinnost od 14. 6. 2026
+
+
+Interní                                                                                              Číslo jednací 0172/21-O18
+
+
+
+
+       Aplikace SH SAP obsahuje historii požadavků na provedení oprav i seznam provedených oprav. Strojve-
+       doucí se nahlédnutím do těchto seznamů může seznámit s historií oprav konkrétního ŽKV.
+       OŘOD může vlastním opatřením stanovit využití aplikace SH SAP k zadávání jiných požadavků než poža-
+       davků na opravy ŽKV, např. doplnění chybějícího inventáře apod. V tomto případě postupuje strojmistr dle
+       nařízení OŘOD a tyto požadavky po jejich zpracování z aplikace SH SAP (ještě před odesláním do aplikace
+       SAP PM) odstraní.
+
+105.   ■■
+       Dnem 1. 4. 2021 se ruší používání tiskopisu „Kniha oprav“. Po tomto datu budou všechny tištěné Knihy
+       oprav odebrány ze všech HV.
+
+    B. POVINNOSTI STROJVEDOUCÍHO
+
+
+106.   ■
+       Pokud strojvedoucí zjistí závadu ŽKV řazeného v soupravě vlaku (mimo tažená vozidla obsazená členem
+       obsluhy vlaku), je povinen v souladu se zněním předpisu ČD V 2 „Předpis pro lokomotivní čety“ zaevidovat
+       tuto závadu do aplikace SH SAP, a to ve vhodné době během směny pomocí svého služebního tabletu,
+       mobilního telefonu nebo pomocí PC, nejpozději však na konci směny.
+       Ustanovení tohoto článku zahrnuje i ty závady, které strojvedoucí prověřuje na základě informace o jejich
+       existenci (vzniku závady) a následně je odstraní v provozu (např. dle dokumentu „Závady vozidel v kostce“
+       příslušné řady HV).
+
+107.   ■
+       Ke každé závadě je možné přiložit fotografii. Takto přiložená fotografie se svým obsahem musí vztahovat
+       k popsané závadě (zároveň je nutné postupovat v souladu se zněním čl. 54 c).
+
+    C. POVINNOSTI STROJMISTRA
+
+
+108.   ■
+       Strojmistr je povinen v případech, kdy strojvedoucí
+           a. odstavil HV po výkonu v prostoru depa a toto odstavení hlásí u strojmistra nebo
+           b. hlásí konec směny a zároveň informuje o provedeném zápisu do aplikace SH SAP
+       zkontrolovat, zda se u dotyčného ŽKV v SH SAP nenacházejí i další požadavky na opravu zapsané jinými
+       strojvedoucími, resp. následně rozhodnout o předání požadavku na opravu ŽKV směrem k OCÚ.
+
+
+
+ČÁST SEDMÁ
+ETD
+
+    A. ÚVODNÍ USTANOVENÍ
+
+
+109.   ■
+
+
+
+                České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 28 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+       Elektronický jízdní řád (dále jen ETD) je aplikace ve služebních mobilních zařízeních strojvedoucích, pomocí
+       níž si uživatel zobrazí data jízdního řádu a SPO daného vlaku ve formátu xml nebo pdf. V rámci aplikace
+       ETD je také možné zobrazit si data TTP a VD platná pro daný vlak a jeho trasu.
+
+110.   ■
+       Strojvedoucí používá aplikaci ETD v souladu s Uživatelskou příručkou, která je součástí aplikace ETD.
+
+    B. POVINNOSTI STROJVEDOUCÍHO
+
+
+111.   ■
+       Strojvedoucí využívá aplikaci ETD primárně na služebním tabletu, nouzově pak (v případech nefunkčního
+       tabletu) na služebním mobilním telefonu (viz i ustanovení čl. 116).
+
+112.   ■
+       Strojvedoucí vedoucího vozidla vlaku je povinen mít trvale zobrazen JŘ po celou dobu jízdy vlaku elektro-
+       nicky ve formátu xml nebo pdf v aplikaci ETD.
+       Volbu zobrazeného formátu provede strojvedoucí s přihlédnutím ke znění čl. 117.
+
+113.   ■
+       Výjimku ze znění čl. 112 má:
+           a. strojvedoucí ČD na území cizího státu, který si zobrazí data JŘ dle postupu stanoveného kooperují-
+              cím partnerem
+           b. strojvedoucí kooperujícího partnera na tratích SŽ, který si zobrazí na služebním zařízení aktuální
+              jízdní řád postupem stanoveným ve spolupráci s příslušným kooperujícím partnerem
+           c.   strojvedoucí ČD na tratích, na kterých vydává příslušný provozovatel dráhy JŘ jiným způsobem (např.
+                jako dokument pdf). V těchto případech použije strojvedoucí pro svou jízdu takto vydaný JŘ (zobra-
+                zený např. v aplikaci MAPSIS).
+
+114.   ■
+       V případě výluky, provozního odklonu, či jiné mimořádnosti, lze kromě elektronického TJŘ (ZCP ŽSR) použít
+       i papírový TJŘ (ZCP ŽSR).
+
+115.   ■
+       Strojvedoucí si vyvolá JŘ daného vlaku zadáním čísla tohoto vlaku do kolonky „Číslo vlaku“ na úvodní ob-
+       razovce aplikace ETD.
+       V případě provozního odklonu zavedeného pro daný vlak, nabídne aplikace ETD více variant JŘ. V tomto
+       případě vybere strojvedoucí tu, která je platná pro daný úsek trasy vlaku (platnost úseku je uvedena v po-
+       drobnostech JŘ).
+
+116.   ■■
+       V případě nemožného zobrazení dat JŘ a SPO v aplikaci ETD v tabletu, využije strojvedoucí pro zobrazení
+       těchto dat aplikaci ETD ve služebním mobilním telefonu. Pokud v tomto případě není z jakéhokoliv důvodu
+       možné využít aplikaci ETD ve služebním mobilním telefonu, kontaktuje strojvedoucí dispečera osobní do-
+       pravy ČD v souladu s ustanovením čl. 25 a 26.
+       Zároveň je možné použít „Pomůcky s typovými jízdními dobami, rychlostmi a brzdícími procenty pro vlaky
+       osobní dopravy a Lv vlaky“, která je součástí dokumentu „Pomůcka pro vlaky na trati XXX“ (XXX je číslo
+
+
+
+
+                 České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                 nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                 T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 29 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+       tratě dle TTP), nachází se v aplikaci MAPSIS a uživatel si jej vyhledá zadáním 500XXX do kolonky pro
+       vyhledávání.
+
+    C. BEZPEČNOSTNÍ NADSTAVBA PRO TRATĚ D3
+
+
+117.   ■
+       Strojvedoucí vedoucího vozidla vlaku, který jede alespoň v části své trasy po trati, na níž je dopravní služba
+       řízena dle předpisu pro zjednodušené řízení drážní dopravy vydaným příslušným provozovatelem dráhy
+       (např. SŽ D3, ŽD D3 apod.), je povinen mít po celou dobu jízdy vlaku v úseku řízení dopravní služby dle
+       předpisu pro zjednodušené řízení drážní dopravy zobrazen jízdní řád ve formátu xml a být přihlášen na tento
+       vlak. Ostatní strojvedoucí na tomto vlaku nesmějí být na daný vlak přihlášeni.
+
+118.   ■
+       Při spuštění zvukového alarmu v aplikaci ETD vyhodnotí strojvedoucí dle aktuálních okolností situaci a při-
+       jme taková opatření, aby v rámci svých možností zabránil případnému nebezpečí.
+
+119.   ■
+       Po ukončení jízdy vlaku nebo dopravní služby na vlaku (střídání strojvedoucích) je strojvedoucí povinen
+       provést bezprostředně odhlášení příslušného vlaku z aplikace ETD. Toto odhlášení provede zavřením zob-
+       razeného TJŘ a návratem do základní obrazovky pro vyhledávání v aplikaci ETD. Jakýkoliv jiný postup nemá
+       za následek odhlášení z daného vlaku a je tedy zakázán („jiným postupem“ je myšleno např. „zavření“ tab-
+       letu uzavřením jeho obalu, přímé vypnutí aplikace ETD bez zavření otevřeného TJŘ apod.).
+       V případě řádného neodhlášení (nezavření TJŘ v rámci aplikace ETD) zůstane uživatel nadále na vlak při-
+       hlášen, systém bude nadále zaznamenávat polohu tabletu (příp. bude registrovat poslední známou polohu)
+       a bude vysoké riziko planého poplachu v rámci aplikace ETD ostatních uživatelů v oblasti.
+
+    D. ZOBRAZENÍ DAT TTP V APLIKACI ETD
+
+
+120.   ■
+       Strojvedoucí má možnost společně s daty TJŘ zobrazit i data TTP, a to ve dvou variantách:
+           a. v tzv. „integrovaném zobrazení“, kdy jsou data TTP řazena spolu s daty TJŘ do jedné společné
+              tabulky,
+           b. v tzv. „zobrazení s panelem“, kdy jsou data TTP zobrazena odděleně od dat TJŘ v levé části dis-
+              pleje.
+       Volbu zobrazení volí strojvedoucí na základě vlastní preference stiskem příslušné ikony v menu s výsledky
+       hledání daného vlaku.
+
+121.   ■
+       Před otevřením zvolené varianty TJŘ s TTP provede strojvedoucí volbu zobrazení požadované skupiny
+       rychlostníků. Jednotlivé skupiny rychlostníků jsou označeny dle ustanovení předpisu SŽ D1. Volbu provede
+       strojvedoucí na základě technických parametrů jím vedeného vlaku a v souladu s platnými předpisy.
+
+122.   ■
+       Zobrazení dat TTP v aplikaci ETD je sestaveno z dat poskytovaných SŽ. Zobrazení dat TTP za jízdy vlaku
+       má pro výkon strojvedoucího pouze informativní charakter a strojvedoucí je povinen vést vlak dle
+       příslušných návěstí na trati (případně dle informací na DMI při jízdě s aktivním ETCS) v souladu
+       s platnými předpisy provozovatele dráhy a ČD.
+
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 30 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+123.   ■
+       Data TTP jsou k dispozici v rámci aplikace ETD pouze na tabletu. Na mobilním telefonu, vzhledem k ome-
+       zené velikosti displeje, k dispozici nejsou.
+
+    E. TVORBA, EDITACE A ZOBRAZENÍ DAT VLAKOVÉ DOKUMENTACE V APLIKACI ETD
+
+
+124.   ■
+       Modul vlakové dokumentace (dále jen VD) v aplikaci ETD představuje nástroj, kterým je možné vytvořit no-
+       vou VD k danému vlaku, editovat VD již vytvořenou nebo se seznámit s daty Zprávy o brzdění a Výkazu
+       vozidel v souladu se zněním předpisu ČD V 15/I.
+
+125.   ■
+       V případě jakýchkoliv problémů vedoucích k nemožnému zobrazení eZOB v aplikaci ETD, postupuje stroj-
+       vedoucí v souladu se zněním čl. 221 předpisu ČD V 15/I.
+       Zobrazení dat VD je pro strojvedoucího závazné.
+
+126.   ■
+       Strojvedoucí je povinen potvrdit seznámení se s daty ZOB stiskem tlačítka „ano“ v dialogu zobrazeném při
+       zavření ZOB. Strojvedoucí tímto úkonem potvrzuje, že se s daty ZOB seznámil a takto udělené potvrzení je
+       považováno za analogii podpisu tištěné verze ZOB. Výjimku z tohoto ustanovení má strojvedoucí, který VD
+       vytváří sám. V tomto případě potvrzení seznámení se s daty ZOB vyžadováno není, jako potvrzení správ-
+       nosti těchto dat je považováno uložení vytvořené VD.
+       Je-li vydána tištěná verze ZOB, strojvedoucí potvrdí seznámení se s obsahem ZOB způsobem stanoveným
+       předpisem ČD V 15/I.
+       Při změně čísla vlaku (např. z důvodu provozního odklonu) platí eZOB vydaná pro původní číslo vlaku i
+       v případě přečíslování vlaku v jeho nové trase. Toto ustanovení platí pouze v případě, že nedošlo ke změně
+       ve složení soupravy vlaku.
+       Údaje VV má strojvedoucí k dispozici pro informaci, jejich zobrazení není povinné a nepotvrzuje se.
+
+127.   ■
+       Aplikace ETD zobrazí notifikaci v horní části otevřeného TJŘ v případě vydání nové VD pro daný vlak, jehož
+       TJŘ má strojvedoucí zobrazen. Takto zobrazená notifikace obsahuje informaci o vydání nové ZOB, dále
+       z jakého bodu trasy tato nová ZOB platí a v rámci notifikace jsou také zobrazena tlačítka pro přímé otevření
+       nové ZOB a pro zavření notifikace. Strojvedoucí této notifikace využije dle vlastního uvážení s přihlédnutím
+       k relevantnosti pro jeho výkon.
+
+128.   ■■■
+       Strojvedoucí vytváří nebo edituje VD v aplikaci ETD pouze v případech, je-li k této činnosti určen předpisem
+       ČD D 2, případně dalšími provozními dokumenty (PIŘ apod.).
+       V případě, kdy je nutné v již vytvořené VD opravit některý údaj, kontaktuje strojvedoucí vedoucího obsluhy
+       vlaku, který zajistí nápravu. U vlaku bez obsluhy vlaku provede úpravu údajů sám strojvedoucí.
+
+129.   ■
+       Podrobný popis obsluhy je popsán v uživatelské příručce aplikace ETD.
+
+130.   ■
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 31 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+       V modulu VD je zapracována funkce „práce s jednotkou“, která zabezpečuje vyplnění zbývajících vozidel
+       z ucelené jednotky při zadání jednoho (libovolného) vozidla z této jednotky.
+
+131.   ■
+       Vytvoření VD probíhá v těchto krocích:
+           a. zadání jednotlivých ŽKV
+                     I.    čísla ŽKV lze zadat ručním vypsáním čísla s podporou našeptávače nebo načtením QR
+                           kódu, příp. načtením VD jiného vlaku
+                    II.    u každého ŽKV je nutné zkontrolovat správnost zadaných parametrů (režim vozidla, režim
+                           brzdění apod.)
+           b. parametry všech ŽKV v soupravě vlaku – provede se kontrola parametrů všech vozidel
+           c.   údaje o vlaku – vyplňují nebo upravují se informace o:
+                     I.    stanici, ze které platí VD (je přednastavena výchozí ŽST vlaku, případně se provede výběr
+                           ze seznamu bodů trasy vlaku nebo se použije GPS poloha)
+                    II.    brzdící procenta – potřebná B% jsou předvyplněna údajem z TJŘ dle zadané platnosti VD,
+                           skutečná B% jsou vyplněna dle zadaných parametrů ŽKV
+                   III.    režim brzdění vlaku – je zobrazen údaj na základě zadaných parametrů ŽKV (v souladu
+                           s předpisem ČD V15/I)
+                   IV.     poznámky – provede se kontrola automaticky zadaných, příp. se doplní další výběrem ze
+                           seznamu
+                    V.     ÚZB – vyplní se datum a čas provedení, dále místo provedení (výběr ze seznamu) a kdo
+                           zkoušku provedl (profese)
+                   VI.     JZB – vyplní se pouze v případě jejího vykonání
+                  VII.     ZBHV – je předvyplněna poslední uložená hodnota každého HV, příp. jednotky, data se
+                           aktualizují v případě, že strojvedoucí vykonával ZBHV novou.
+
+132.   ■
+       Při vytváření a ukládání VD je možné využít tyto funkce:
+           a. Objíždění – dojde k otočení pořadí všech ŽKV za HV (mimo vedoucího HV)
+           b. Úvrať – dojde k otočení pořadí všech ŽKV (včetně vedoucího HV)
+           c.   Uložit jako multivlak – je možné uložit VD pro více vlaků.
+
+133.   ■
+       Režimy vozidel:
+           a. v kolonce Režim ŽKV lze zadat tyto hodnoty:
+                     I.    Řádný – ŽKV s přepravou cestujících, příp. činné HV ve vlaku s přepravou cestujících
+                    II.    Soupravový – ŽKV bez přepravy cestujících, příp. dopravované HV
+                   III.    Správkový – ŽKV se závadou vylučující přepravu cestujících dopravované do místa jeho
+                           opravy
+           b. v kolonce Činné lze zadat tyto hodnoty:
+                     I.    Ano – HV vyvíjející tažnou sílu
+
+
+
+
+                 České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                 nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                 T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 32 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+                    II.    Ne – HV bez možnosti vývinu tažné síly
+           c.   v kolonce Režim HV lze zadat tyto hodnoty:
+                     I.    vlakové vozidlo
+                    II.    přípřež
+                   III.    postrk
+                   IV.     vložené
+       Hodnoty v poli Režim HV nastavuje aplikace ETD automaticky dle umístění daného HV ve vlaku, nicméně
+       strojvedoucí je povinen správnost těchto údajů zkontrolovat.
+
+    F. ZOBRAZENÍ DAT SPO V APLIKACI ETD
+
+
+134.   ■
+       Strojvedoucí využívá pro zobrazení dat SPO aplikaci ETD v tabletu nebo v mobilním telefonu (při zobrazení
+       na mobilním telefonu nejsou data SPO k dispozici při zobrazení TJŘ). Zároveň se s daty SPO v aplikaci ETD
+       prokazatelně seznamuje.
+       Strojvedoucí je povinen seznámit se s daty SPO v souladu se zněním čl. 13 předpisu ČD D 2 před jízdou
+       vlaku, PMD nebo posunového dílu.
+
+135.   ■
+       Data SPO lze v aplikaci ETD zobrazit:
+            a. pro konkrétní trať pomocí tlačítka „Seznam SPO“ a výběrem dané tratě a požadovaného formátu
+               zobrazení,
+            b. souhrnně pro trasu hledaného vlaku ve formátu XML nebo PDF.
+       Seznámení s daty SPO může strojvedoucí provést v jakémkoliv zobrazení, nicméně před otevřením TJŘ
+       vlaku potvrzuje seznámení s daty SPO vždy.
+
+136.   ■
+       Data SPO lze zobrazit ve formátu XML nebo ve formátu PDF. Ve formátu XML jsou data SPO zobrazena
+       přímo v TJŘ, ve formátu PDF jsou data SPO zobrazena společně s TJŘ v 1/3 obrazovky. Ve formátu PDF
+       je možné SPO skrýt (pomocí k tomu určeného tlačítka), využití této funkce je možné pouze v případě, že
+       není v SPO uveden žádný pokyn.
+
+137.   ■■
+       V případě nedostupnosti dat SPO v aplikaci ETD na tabletu nebo mobilním telefonu, kontaktuje strojvedoucí
+       příslušného dispečera osobní dopravy v souladu se zněním čl. 26 a domluví s ním další postup.
+       Je přísně zakázáno zahájit jízdu vlaku/PMD/posunového dílu bez seznámení se s daty SPO potřeb-
+       nými pro daný výkon.
+
+138.   ■
+       U vlaků, jejichž JŘ zasahuje do dvou kalendářních dnů, je strojvedoucí povinen seznámit se s SPO pro oba
+       dva dny (aplikace ETD u těchto vlaků zobrazuje SPO pro oba dva dny automaticky).
+       U vlaků, které mají pravidelný příjezd do cílové stanice mezi 23:00 a 23:59 hod. je možné si v aplikaci ETD
+       zobrazit SPO i na následující kalendářní den.
+
+
+
+
+                 České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+                 nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+                 T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 33 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+       U vlaků, které mají pravidelný odjezd z výchozí stanice mezi 00:00 a 03:00 hod. je možné si v aplikaci ETD
+       zobrazit SPO i na předchozí kalendářní den.
+
+
+
+ČÁST OSMÁ
+ČD KOMANDO
+
+139.   ■
+       Informace uvedené v části osmé se vztahují k užívání aplikace ČD Komando strojvedoucími, tzn. v případě
+       komunikace mobilní aplikace s aplikací APS.
+
+140.   ■■
+       Data v aplikaci jsou závazná. Podrobnosti stanoví „Opatření k aplikaci ČD APS Komando“, č.j. 0519/25-
+       O10.
+       Výňatek z tohoto opatření, který obsahuje ustanovení pro strojvedoucí, je přílohou č. 4, v plném znění je
+       opatření k dispozici také v aplikaci MAPSIS v kategorii „Předpisy/Předpisy ČD/---DOKUMENTY K PRO-
+       VOZU---/návody a uživatelské příručky/Opatření k aplikaci ČD Komando“.
+
+141.   ■■
+       ČD Komando je aplikace ve služebních mobilních zařízeních strojvedoucích, která uživateli poskytuje infor-
+       mace o skladbě naplánovaných směn, jejich průbězích, o případných změnách v těchto směnách, jakožto i
+       některé další informace týkající se konkrétní směny strojvedoucího.
+
+142.   ■
+       Strojvedoucí dále používá aplikaci ČD Komando dle Uživatelské příručky, která je
+           a. přímo součástí aplikace;
+           b. součástí aplikace MAPSIS (nachází se v kategorii: Předpisy/Předpisy ČD/---DOKUMENTY K PRO-
+              VOZU---/návody a uživatelské příručky/).
+
+143.   ■■
+       V souladu se zněním „Opatření k aplikaci ČD APS Komando“, č.j. 0519/25-O10, provádí strojvedoucí po-
+       mocí aplikace ČD Komando přihlášení na směnu a odhlášení ze směny nebo její části, přičemž veškerá tato
+       hlášení provádí strojvedoucí primárně z aplikace, a to i na pracovištích obsazených strojmistrem ve směně.
+       Pouze v případě nemožného přihlášení/odhlášení z aplikace kontaktuje příslušného strojmistra s požadav-
+       kem na provedení úkonu přímo v aplikaci APS.
+
+144.   ■■
+       Přihlášení na směnu a odhlášení ze směny (její části), lze v aplikaci ČD Komando provést v rámci těchto
+       stanovených intervalů:
+           a. Pro ohlášení nástupu na výkon 15 minut před nástupem a 3 minuty po nástupu na výkon.
+           b. Pro ohlášení konce výkonu 15 minut před koncem a 120 minut po konci výkonu.
+
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 34 / 38
+                                                                  Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                           Účinnost od 14. 6. 2026
+
+
+Interní                                                                                             Číslo jednací 0172/21-O18
+
+
+
+
+ČÁST DEVÁTÁ
+ČD KONTAKTY
+
+145.   ■
+       Aplikace ČD Kontakty je primárně určená pro rychlé získání kontaktu na členy doprovodu vlaku. V rámci
+       aplikace ČD Kontakty jsou rovněž k dispozici kontakty na důležitá telefonní čísla (dispečink osobní dopravy,
+       pracoviště strojmistrů apod.).
+
+146.   ■
+       Aplikace ČD Kontakty rovněž zobrazuje poslední známou polohu konkrétního vlaku (vč. příp. náskoku nebo
+       zpoždění) a údaj o potřebném brzdícím procentu daného vlaku (tento údaj je primárně určen pro zaměst-
+       nance sestavující VD, pro strojvedoucího má pouze informativní charakter bez jakéhokoliv dalšího dopadu
+       na jeho činnost).
+
+
+
+ČÁST DESÁTÁ
+ČD KOMUNIKÁTOR
+
+    A. OBECNÁ USTANOVENÍ
+
+
+147.   ■■
+       Aplikace ČD Komunikátor (dále jen aplikace) slouží k textové výměně informací mezi doprovodem vlaku a
+       příslušným dispečerem osobní dopravy ČD (dále jen dispečer). Vzhledem k charakteru práce strojvedoucího
+       se jedná o podpůrný nástroj v rámci komunikace mezi strojvedoucím, vlakovou četou a dispečerským apa-
+       rátem.
+       Komunikace v rámci aplikace probíhá pomocí tzv. Komunikačních vláken, jejichž seznam a význam je
+       uveden v částech B a C níže.
+
+148.   ■■
+       Použití aplikace ČD Komunikátor strojvedoucími není povinné. Strojvedoucí musí ovšem brát zřetel na
+       to, že některá komunikační vlákna v aplikaci jsou společná i pro vlakovou četu na daném vlaku a je tedy
+       možné, že bude komunikace v rámci tohoto společného vlákna vyvolána vlakovou četou nebo dispečerem.
+
+149.   ■
+       V aplikaci je automaticky nastaveno číslo vlaku dle průběhu směny strojvedoucího. Data o průběhu směny
+       se načítají z programu APS a jsou tedy totožná, jako v aplikaci ČD Komando. Číslo vlaku je možné změnit
+       ručním zásahem.
+
+150.   ■
+       V rámci komunikace je bezpodmínečně nutné dodržovat zásady slušného vyjadřování, komunikovat je
+       možné pouze v českém jazyce. Komunikaci provádějte stručně a výstižně.
+
+    B. KOMUNIKAČNÍ VLÁKNA V APLIKACI
+
+
+151.   ■■
+       Jednotlivá komunikační vlákna jsou rozdělena do těchto základních kategorií:
+
+
+
+
+               České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+               nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+               T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 35 / 38
+                                                                    Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                             Účinnost od 14. 6. 2026
+
+
+Interní                                                                                               Číslo jednací 0172/21-O18
+
+
+
+
+          a. Potřebuji pomoc.
+          b. Potřebuji informaci.
+          c.   Dávám na vědomí.
+          d. Nebezpečí.
+
+ Kategorie „Potřebuji pomoc“
+
+                                                                  Informováni dispečinku o existenci problému mají-
+ Nesouhlas s jízdou
+                                                                  cího za následek nemožné odjetí vlaku.
+
+ Kategorie „Potřebuji informaci“
+
+                                                                  Žádost o sdělení předpokládaného zpoždění dopro-
+                                                                  vázeného vlaku, pokud nelze zjistit jinou cestou
+ Předpokládané zpoždění vlaku - dotaz
+                                                                  např. v aplikaci Můj vlak. Toto vlákno je společné
+                                                                  s členy doprovodu vlaku.
+
+ Kategorie „Dávám na vědomí“
+
+ Textová zpráva pro dispečera                                     Volné textové pole pro informování dispečinku.
+                                                                  Informování dispečinku o předpokládaném zpož-
+ Zpoždění - oznámení                                              dění. Toto vlákno je společné s členy doprovodu
+                                                                  vlaku.
+                                                                  Informování dispečinku o mimořádném snížení
+                                                                  rychlosti vlaku (např. nedostatečný počet brzdících
+                                                                  procent, mimořádné zařazení vozu s nižší maxi-
+ Snížení rychlosti
+                                                                  mální rychlostí, nefunkční VZ na HV a přítomnost
+                                                                  vlakové čety na stanovišti strojvedoucího apod.).
+                                                                  Toto vlákno je společné s členy doprovodu vlaku.
+                                                                  Informování dispečinku o závadě lokomotivy, která
+                                                                  bude mít za následek zpoždění vlaku (lze použít
+ Závada lokomotivy
+                                                                  také vlákno Zpoždění – oznámení). Toto vlákno je
+                                                                  společné s členy doprovodu vlaku.
+                                                                  Informování dispečinku o závadě vozu, která bude
+                                                                  mít za následek zpoždění vlaku (lze použít také
+                                                                  vlákno Zpoždění – oznámení) nebo o závadě, která
+ Závada vozu
+                                                                  znamená významné snížení komfortu nebo snížení
+                                                                  bezpečnosti cestujících. Toto vlákno je společné
+                                                                  s členy doprovodu vlaku.
+
+                                                                  Informování dispečinku o jízdě bez vlakové čety.
+ Jízda bez vlakové čety
+                                                                  Vlákno umožňuje uvést další související informace.
+
+
+
+
+                České dráhy, a.s., Generální ředitelství           IČO 70994226 | DIČ CZ70994226
+                nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1    zapsaná ve veřejném – obchodním rejstříku
+                T 221 111 122, IDDS e52cdsf, www.cd.cz             u Městského soudu v Praze pod sp. zn. B 8039    Strana 36 / 38
+                                                                            Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                                     Účinnost od 14. 6. 2026
+
+
+Interní                                                                                                       Číslo jednací 0172/21-O18
+
+
+
+
+                                                                          Informování dispečinku o operativní změně telefon-
+ Změna telefonu                                                           ního čísla (např. ztráta, poškození během směny).
+                                                                          Toto vlákno je společné s členy doprovodu vlaku.
+                                                                          Informování dispečinku o narušení obratu strojve-
+                                                                          doucího (např. z důvodu vysokého zpoždění, zru-
+ Narušení obratu LČ
+                                                                          šení vlaku apod.). Toto vlákno je společné s členy
+                                                                          doprovodu vlaku.
+
+
+     C. KRIZOVÁ KOMUNIKAČNÍ VLÁKNA
+
+
+152.   ■■
+       Krizová vlákna jsou určena k použití v případě závažných mimořádností nebo ohrožení bezpečnosti. Tato
+       vlákna mají vysokou prioritu a na dispečinku se zobrazují i v případě přetížení. Použití aplikace ČD Komu-
+       nikátor nikdy nenahrazuje přímé přivolání složek IZS, Policie ČR apod. V případě vzniku mimořád-
+       ností nebo ohrožení bezpečnosti prioritně přivolejte uvedené složky.
+
+ Kategorie „Nebezpečí“
+
+                                                                          Požadavek na dispečink na zajištění evakuace.
+ Potřebuji evakuaci
+                                                                          Toto vlákno je společné s členy doprovodu vlaku.
+
+                                                                          Informace o akutních zdravotních problémech ces-
+ Zdravotní problémy                                                       tujících / požadavek o pomoc. Toto vlákno je spo-
+                                                                          lečné s členy doprovodu vlaku.
+                                                                          Informace o významném bezpečnostním problému
+ Bezpečnostní problémy                                                    na vlaku / požadavek o pomoc. Toto vlákno je spo-
+                                                                          lečné s členy doprovodu vlaku.
+                                                                          Urgentní požadavek o pomoc – zpětné volání dis-
+ SOS                                                                      pečera. Toto vlákno je společné s členy doprovodu
+                                                                          vlaku.
+
+153.   ■
+       V případě zjištění závady nebo nekorektního chování aplikace je možné v menu Nastavení položkou „Ode-
+       slání logu“ vygenerovat soubor s popisem stavu aplikace, doplnit heslovitý popis závady a odeslat emailem
+       vývojářům aplikace.
+
+154.   ■■
+       Toto opatření nahrazuje dokument č.j.: 3000/23-O18 vydaný 25. 10. 2023 „Aplikace ČD Komunikátor pro
+       strojvedoucí“, který ruší v plném rozsahu.
+
+
+Ustanovení (Označení norem, které se touto normou ruší nebo nahrazují.)
+nahrazuje 1049/19-O18; ruší 1531/20-O18; ruší 1387/20-O18; ruší 0446/21-O18; ruší 3000/23-O18
+
+
+
+
+                  České dráhy, a.s., Generální ředitelství                 IČO 70994226 | DIČ CZ70994226
+                  nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1          zapsaná ve veřejném – obchodním rejstříku
+                  T 221 111 122, IDDS e52cdsf, www.cd.cz                   u Městského soudu v Praze pod sp. zn. B 8039    Strana 37 / 38
+                                                                Provozní aplikace pro strojvedoucí – Změna č. 9
+                                                                                         Účinnost od 14. 6. 2026
+
+
+Interní                                                                                           Číslo jednací 0172/21-O18
+
+
+
+
+SEZNAM PŘÍLOH
+Příloha 1 Atrakční obvody jednotlivých OŘOD pro účely SIPS
+Příloha 2 Seznam aplikací v tabletu
+Příloha 3 Vzor nové první strany TTP
+Příloha 4 Opatření k aplikaci ČD APS Komando - výňatek pro strojvedoucí
+
+
+
+
+             České dráhy, a.s., Generální ředitelství          IČO 70994226 | DIČ CZ70994226
+             nábřeží Ludvíka Svobody 1222/12, 110 15 Praha 1   zapsaná ve veřejném – obchodním rejstříku
+             T 221 111 122, IDDS e52cdsf, www.cd.cz            u Městského soudu v Praze pod sp. zn. B 8039    Strana 38 / 38
+                            Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+
+
+             Příloha č. 1
+Atrakční obvody jednotlivých OŘOD pro
+              účely SIPS
+                                                           Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+Atrakční obvody jednotlivých OŘOD pro účely SIPS:
+
+OŘOD               TTP       Traťové úseky                                        Číslo traťové
+                                                                                  kategorie
+Východ (Brno)            A   (mimo) Přerov – Brno hl.n.
+                   315                                                               184033
+                         D   Holubice ‐ Blažovice
+                         A   Brno hl.n. – Česká Třebová (mimo)
+                   326   B   Odb Zádulka ‐ Odb Les                                   184037
+                         C   Odb Zádulka ‐ Č. Třebová vj.sk.
+                         A   (mimo) Přerov – Břeclav                                 184034
+                   316
+                         C   Hodonín – Holíč nad Moravou (ŽSR)                       184005
+                         A   Kúty (ŽSR) ‐ Brno                                       184006
+                         B   Brno‐Horní Heršpice – Brno‐Maloměřice                   184007
+                         C   Modřice ‐ Brno jih ‐ Brno‐Horní Heršpice                184006
+                   320
+                         D   Břeclav – Hohenau (ÖBB)                                 184032
+                         E   Hustopeče u Brna ‐ Šakvice                              184008
+                         F   Hrušovany u Brna ‐ Židlochovice                         184035
+                             Nemšová (ŽSR) – Staré Město u Uherského
+                         A                                                           184009
+                             Hradiště
+                         B   Vrbovce (ŽSR) ‐ Veselí nad Moravou                      184012
+                   317
+                         C   Luhačovice – Újezdec u Luhačovic                        184010
+                         D   Kunovice – Veselí nad Moravou                           184011
+                         E   Veselí nad Moravou ‐ Rohatec                            184012
+                         A   Veselí nad Moravou ‐ Brno
+                             Odb Brno‐Černovice ‐ Odb Brno‐Černovice zhl.            184013
+                         B
+                   318       Táborská
+                         C   Hodonín ‐ Zaječí                                        184015
+                         D   Moravský Písek ‐ Bzenec                                 184014
+                         A   Retz (ÖBB) ‐ Okříšky                                    184017
+                         B   Moravské Budějovice ‐ Jemnice                           184018
+                   322   C   Brno ‐ Jihlava
+                             Brno‐H. Heršpice zhl. st. silnice ‐ Brno‐H.             184019
+                         D
+                             Heršpice výh. č. 651
+                         A   Střelice – Hrušovany nad Jevišovkou‐Šanov               184020
+                         B   Moravské Bránice ‐ Oslavany                             184021
+                   323
+                         D   Břeclav – Znojmo                                        184023
+                         E   Boří Les – Lednice                                      184024
+                   324   ‐   Brno‐Židenice – Havlíčkův Brod                          184036
+                         A   Tišnov – Žďár nad Sázavou                               184026
+                   325   B   Studenec – Křižanov                                     184027
+                         C   Havlíčkův Brod – Humpolec                               184028
+                         A   (mimo) Veselí nad Lužnicí – Havlíčkův Brod              184031
+                   701   B   Slavonice – Kostelec u Jihlavy                          184029
+                         C   Dobronín – Polná                                        184030
+                   ŽSR
+                         A   Štúrovo ‐ Bratislava hl.st.                             199005
+                   120
+                   ŽSR
+                         A   Hronská Dúbrava ‐ Palárikovo                            199018
+                   121
+                   ŽSR
+                         A   Púchov ‐ Bratislava hl.st.                              199009
+                   125
+                                                             Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD                    TTP       Traťové úseky                                     Číslo traťové
+                                                                                    kategorie
+                        ŽSR
+                              A   Bratislava hl.st. ‐ Kúty ‐ Lanžhot                   199006
+                        126
+                                 Bratislava‐Vajnory ‐ Bratislava východ odch.
+                              A
+                        ŽSR      sk. Juh ‐ Odb Vinohrady
+                                                                                       199007
+                        127      Bratislava‐Vajnory ‐ Bratislava východ odch.
+                              B
+                                 sk. Sever ‐ Bratislava‐Rača
+                              A Leopoldov ‐ Galanta                                    199010
+                        ŽSR
+                              B  Sereď ‐ Trnava                                        199011
+                        128
+                              C  Trnava ‐ Kúty                                         199012
+                                 Kúty ‐ Skalica na Slovensku ‐ Sudoměřice nad
+                        ŽSR   B                                                        199013
+                                 Moravou
+                        129
+                              C  Hodonín ‐ Holíč nad Moravou                           199014
+Střed (Česká Třebová)         A Chornice – (mimo) Skalice nad Svitavou                 166002
+                        314   B  Lanškroun – (mimo) Rudoltice v Čechách                166001
+                              C  Chornice – (mimo) Třebovice v Čechách                 166003
+                                 (mimo) Choceň ‐ Týniště nad Orlicí – (mimo)
+                              A
+                                 Velký Osek                                            166004
+                              A2 Velký Osek‐Kanín ‐ Velký Osek (kol. 92)
+                        505
+                                 Opatovice nad Labem‐Pohřebačka – Odb.
+                              B                                                        166005
+                                 Plačice
+                              C  (mimo) Pardubice hl. n. ‐ Jaroměř                     166006
+                              A Týniště nad Orlicí – Mieroszów (PKP PL)
+                                 Meziměstí výh. č. 1 ‐ Meziměstí (po koleji č.         166007
+                              A2
+                                 91)
+                        506
+                              B  Meziměstí – Otovice zastávka                          166008
+                              C  Dobruška – Opočno pod Orlickými horami                166009
+                              D Václavice ‐ Starkoč                                    166010
+                              A Jaroměř – Trutnov hl. n.                               166011
+                        509   B  Teplice nad Metují – Trutnov střed                    166012
+                              C  Trutnov střed – Kamienna Góra (PKP PL)                166057
+                                 (mimo) Havlíčkův Brod – Pardubice‐Rosice
+                              A
+                                 nad Labem                                             166015
+                        507
+                              A2 Havl. Brod Tunel stan ‐ Odb Kubešův Mlýn
+                              B  (mimo) Svitavy – Žďárec u Skutče                      166016
+                        508   ‐  Jaroměř ‐ Liberec                                     166017
+                              A Trutnov hl. n. – Chlumec nad Cidlinou                  166018
+                                 Martinice v Krkonoších – Rokytnice nad
+                              B                                                        166019
+                        510      Jizerou
+                              C  Kunčice nad Labem ‐ Vrchlabí                          166020
+                              D Trutnov hl. n. – Svoboda nad Úpou                      166021
+                              A Hradec Králové hl. n. – Jičín ‐ Turnov                 166022
+                        511
+                              B  Hněvčeves – Smiřice                                   166023
+                              A (mimo) Hanušovice – Lichkov                            166058
+                        512   B  Miedzylesie (PKP PL) – Ústí nad Orlicí (mimo)         166059
+                              D Štíty – Dolní Lipka                                    166025
+                              A Letohrad – Týniště nad Orlicí                          166027
+                                 Doudleby nad Orlicí – Rokytnice v Orlických
+                        513   B                                                        166028
+                                 horách
+                              C  Častolovice ‐ Solnice                                 166029
+                                                     Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD               TTP       Traťové úseky                                  Číslo traťové
+                                                                            kategorie
+                         A   Heřmanův Městec – Chrudim město                    166030
+                         B   Chrudim – (mimo) Moravany ‐ Borohrádek             166031
+                   517
+                         D   Prachovice – (mimo) Přelouč                        166032
+                         E   (mimo) Choceň – Litomyšl                           166033
+                         A   (mimo) Bakov nad Jizerou – Česká Lípa hl. n.       166034
+                         B   Česká Lípa hl. n. – Jedlová                        166035
+                   540
+                         C   Srní u České Lípy – Výh. Žižníkov                  166036
+                         D   Liberec – (mimo) Děčín východ                      166037
+                         A   Rumburk – Sebnitz (DB Netz)                        166039
+                         B   Rumburk – Ebersbach (DB Netz)                      166040
+                   546   C   Mikulášovice dolní n. – Panský – Rumburk           166041
+                         D   Panský – Krásná Lípa                               166042
+                         E   Benešov nad Ploučnicí ‐ Rumburk                    166038
+                             (mimo) Nymburk hl.n. – (mimo Mladá
+                         A                                                     166043
+                             Boleslav hl.n.) – Mladá Boleslav město
+                   541
+                         C   Jičín – (mimo) Nymburk město                      166044
+                         D   Chlumec nad Cidlinou – Křinec                     166045
+                         A   Stará Paka – Mladá Boleslav město                 166046
+                         B   (mimo) Mladá Boleslav hl. n. – (mimo) Mělník      166047
+                   542
+                             Dolní Bousov – (mimo) Odb. Zálučí – (mimo)
+                         C                                                     166048
+                             Bakov nad Jizerou
+                         A   Liberec – Zawidów (PKP PL)                        166049
+                         B   Bílý Potok pod Smrkem – Raspenava                 166050
+                             Frýdlant v Čechách – Jindřichovice pod
+                         C                                                     166051
+                   547       Smrkem
+                         D   Liberec ‐ Hrádek nad Nisou
+                         E   Rybniště ‐ Varnsdorf                              166052
+                         F   Varnsdorf st.hr. ‐ Varnsdorf staré n. st.hr.
+                         A   Železný Brod ‐ Tanvald                            166053
+                         B   Liberec ‐ Tanvald                                 166054
+                   548
+                         C   Tanvald ‐ Szklarska Poręba Górna (PKP PL)         166055
+                         D   Smržovka ‐ Josefův Důl                            166056
+Východ (Olomouc)         A   Čadca (ŽSR) ‐ Dětmarovice                         153056
+                         C   Odb Koukolná ‐ Odb Závada                         153003
+                         D   Český Těšín ‐ Výh Polanka nad Odrou               153004
+                   301
+                         E   Odb Odra ‐ Ostrava‐Svinov                         153005
+                         F   Ostrava‐Svinov ‐ Opava východ                     153006
+                         G   Ostrava uhelné n. ‐ Ostrava‐Kunčice               153007
+                         A   Ostrava‐Kunčice ‐ Valašské Meziříčí               153008
+                         B   Český Těšín ‐ Frýdek‐Místek                       153009
+                   302
+                         C   Frýdlant nad Ostravicí ‐ Ostravice                153010
+                         E   Český Těšín ‐ Cieszyn (PKP PL)                    153011
+                             Valašské Meziříčí – (mimo) Hulín – (mimo)
+                         A                                                     153012
+                             Kojetín
+                         B   Zborovice ‐ Kroměříž                              153013
+                   304
+                         C   (mimo) Bylnice ‐ Horní Lideč                      153014
+                         D   Velké Karlovice ‐ Vsetín                          153015
+                         E   (mimo) Kojetín ‐ Tovačov                          153052
+                                           Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD   TTP        Traťové úseky                                    Číslo traťové
+                                                                   kategorie
+             G    Rožnov pod Radhoštěm ‐ Valašské Meziříčí             153016
+             A    Chalupki (PKP PL) ‐ Bohumín                          153019
+             B    Zebrzydowice (PKP PL) ‐ Přerov                       153057
+       305
+             C    Chalupki (PKP PL) ‐ Bohumín‐Vrbice                   153019
+             D    Hranice na Moravě ‐ Drahotuše (po koleji č. 4)       153057
+             A    Studénka ‐ Veřovice                                  153022
+             B    Studénka ‐ Bílovec                                   153023
+             C    Suchdol nad Odrou ‐ Budišov nad Budišovkou           153024
+       306   D    Suchdol nad Odrou ‐ Fulnek                           153025
+             E    Suchdol nad Odrou ‐ Nový Jičín město                 153026
+             F    Sedlnice ‐ Mošnov, Ostrava Airport                   153020
+             F2   Sedlnice výh. č. 2 ‐ Sedlnice předj.k.               153020
+             B    Hlučín ‐ Opava východ                                153027
+             C    Chuchelná ‐ Kravaře ve Slezsku                       153028
+       307
+             D    Odb Moravice ‐ Svobodné Heřmanice                    153029
+             E    Opava východ ‐ Hradec nad Moravicí                   153030
+                  Střelná (ŽSR) ‐ Horní Lideč ‐ Hranice na
+       308   ‐                                                        153021
+                  Moravě
+             A    Přerov ‐ (mimo) Česká Třebová                       153035
+             B    Olomouc hl.n. – Nezamyslice (mimo)                  153037
+                  Třebovice v Čechách ‐ Č. Třebová vj.sk. ‐ Č.
+             C                                                        153035
+       309        Třebová odj.sk.
+                  Třebovice v Čechách ‐ Odb Les ‐ Č. Třebová
+             D                                                        153035
+                  odj.sk.
+             E    Prosenice ‐ Výh. Dluhonice                          153036
+             A    Opava východ ‐ Krnov ‐ Olomouc hl.n.                153031
+       310   C    Bruntál ‐ Malá Morávka                              153032
+             D    Valšov ‐ Rýmařov                                    153033
+             A    Krnov ‐ Hanušovice ‐ Bludov                         153054
+             B    Zábřeh na Moravě ‐ Šumperk                          153055
+       311   C    Šumperk – Olomouc hl.n.                             153053
+                  Bludov km 6,300 (Sudkov) ‐ Bludov km 50,072
+             D                                                        153055
+                  (Chromeč)
+             C    Hanušovice ‐ Staré Město pod Sněžníkem              153040
+             D    Lipová Lázně ‐ Javorník ve Slezsku                  153041
+       312   E    Velká Kraš ‐ Vidnava                                153042
+             F    Zlaté Hory ‐ Mikulovice                             153043
+             G    Osoblaha ‐ Třemešná ve Slezsku                      153046
+             A    Kostelec na Hané ‐ Olomouc hl.n.                    153048
+             B    Senice na Hané ‐ Červenka                           153049
+       313
+             C    Litovel předměstí ‐ Mladeč                          153050
+             D    Prostějov hl.n. ‐ (mimo) Chornice                   153047
+       316   B    Vizovice – Otrokovice (mimo)                        153051
+        ŽD   A    Kouty nad Desnou ‐ Šumperk                          153044
+       312   B    Sobotín ‐ Petrov nad Desnou                         153045
+       PKP
+             ‐    Milotice nad Opavou ‐ Vrbno pod Pradědem            153034
+        CI
+       ŽSR
+             A    Košice ‐ Kraľovany                                  199001
+       105
+                                            Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD    TTP        Traťové úseky                                   Číslo traťové
+                                                                   kategorie
+              A    Kraľovany ‐ Žilina ‐ Púchov
+              B    Odb Potok ‐ Žilina‐Teplička ‐ Odb Váh              199002
+              C    Varín ‐ Žilina‐Teplička ‐ Odb Váh
+        ŽSR   D    Žilina ‐ Čadca ‐ Mosty u Jablunkova                199004
+        106   E    Budatínska spojka                                  199002
+              F    Púchov ‐ Lúky pod Makytou ‐ Horní Lideč            199003
+                   Žilina‐Teplička ‐ Odb Váh ‐ Žilina‐Teplička
+              G                                                       199002
+                   odch.sk. ‐ Žilina
+                   Zvolen osobná stanica ‐ Hronská Dúbrava ‐
+              A                                                       199015
+                   Vrútky
+        ŽSR
+              C    Zvolenská spojka
+        118
+                   Zvolen osobná stanica ‐ Banská Bystrica ‐ Odb      199016
+              D
+                   Dolná Šťubňa
+Západ         A    Rakovník ‐ Mladotice                               173001
+        522   B    Rakovník ‐ Bečov nad Teplou                        173002
+              C    Protivec ‐ Bochov                                  173003
+              A    (mimo) Praha‐Smíchov spol.n. ‐ Hostivice           173004
+        528   B    (mimo) Praha‐Bubny ‐ Rakovník                      173005
+              E    Kladno ‐ (mimo) Kralupy nad Vltavou                173006
+              A    (mimo) Louny ‐ Rakovník                            173007
+              B    Louny předměstí ‐ Postoloprty
+                                                                      173008
+              B2   Louny předm. výh.č.1 ‐ Louny předm. výh.č.2
+              C    Odb Bažantnice ‐ Odb Vrbka                         173009
+        531   D    Žatec západ ‐ (mimo) Obrnice ‐ (mimo) Most         173010
+              F    Žatec ‐ (mimo) Chomutov                            173074
+              G    Droužkovice ‐ Odb Dubina                           173013
+              H    Lužná u Rakovníka ‐ Žatec                          173073
+              J    Krupá ‐ Kolešovice                                 173012
+              A    (mimo) Chomutov ‐ Cheb
+        533                                                           173070
+              B    Chodov zhlaví ‐ Chodov ‐ Nové Sedlo u Lokte
+              A    Kaštice ‐ Kadaň‐Prunéřov                           173016
+        534   B    Kadaňský Rohozec ‐ Vilémov u Kadaně                173017
+              C    (mimo) Chomutov ‐ Cranzahl (DB Netz)               173018
+                   (mimo) Děčín hl.n. ‐ (mimo) Oldřichov u
+              A                                                       173019
+                   Duchcova
+        535   B    (mimo) Oldřichov u Duchcova ‐ Litvínov             173020
+                   (mimo) Most nové n. ‐ Moldava v Krušných
+              C                                                       173021
+                   horách
+              A    Mariánské Lázně ‐ Karlovy Vary dolní n.            173022
+              B    Krásný Jez ‐ Nové Sedlo u Lokte                    173026
+              C    Karlovy Vary dolní n.‐ Johanngeorgenstadt          173023
+        536
+              D    Chodov ‐ Nová Role                                 173024
+              E    Dalovice ‐ Merklín                                 173025
+              F    Zwotenthal (DB Netz) ‐ Sokolov                     173015
+              A    Cheb ‐ Aš ‐ Selb (DB Netz)                         173075
+              B    Tršnice ‐ Bad Brambach (DB Netz)                   173029
+        543
+              C    Tršnice ‐ Luby u Chebu                             173030
+              D    Aš ‐ Hranice v Čechách                             173076
+                                                     Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD            TTP        Traťové úseky                                     Číslo traťové
+                                                                             kategorie
+                      B  Tábor ‐ Písek                                           173031
+                702
+                      C  Tábor ‐ Bechyně                                         173032
+                703   ‐  (mimo) Horní Cerekev ‐ Tábor                            173034
+                      ‐  České Budějovice ‐ (mimo) Benešov u Prahy
+                      ‐2 Nemanice I ‐ Výh Nemanice II
+                704                                                             173035
+                         Č. Budějovice seř.n. ‐ Č. Bud. býv. st.7 (kol. č.
+                      ‐3
+                         906)
+                      A Gmünd NÖ (ÖBB) ‐ České Budějovice                       173036
+                705
+                      C  České Velenice ‐ Veselí nad Lužnicí                    173033
+                      A Summerau (ÖBB) ‐ České Budějovice                       173037
+                706
+                      B  Rybník ‐ Lipno nad Vltavou                             173038
+                      A Volary ‐ České Budějovice                               173039
+                707   B  Černý Kříž ‐ Nové Údolí                                173040
+                      C  Strakonice ‐ Volary                                    173041
+                      A Číčenice ‐ Volary                                       173042
+                708   B  Číčenice ‐ Týn nad Vltavou                             173043
+                      D Netolice ‐ Dívčice                                      173044
+                709   B  České Budějovice ‐ Plzeň hl.n.                         173045
+                      A Horažďovice předměstí ‐ Klatovy                         173065
+                710
+                      B  Janovice nad Úhlavou ‐ Domažlice                       173066
+                711   ‐  Plzeň hl.n. – Železná Ruda‐Alžbětín                    173067
+                      A Plzeň hl. n. ‐ Furth im Wald (DB Netz)                  173050
+                712
+                      B  Nýřany ‐ Heřmanova Huť                                 173051
+                713   ‐  (mimo) Beroun – Plzeň hl.n.                            173068
+                      A Rokycany ‐ Nezvěstice                                   173053
+                714   B  Ejpovice ‐ Radnice                                     173054
+                      C  Pňovany ‐ Bezdružice                                   173052
+                      A Zdice ‐ Protivín                                        173055
+                715   B  (mimo) Zadní Třebaň ‐ Lochovice                        173057
+                      C  Putim ‐ Ražice                                         173056
+                      A Rožmitál pod Třemšínem ‐ Březnice                       173058
+                716   B  Březnice ‐ Strakonice                                  173059
+                      C  Nepomuk ‐ Blatná                                       173060
+                      A Domažlice ‐ Planá u Mariánských Lázní                   173061
+                717   B  Svojšín ‐ Bor                                          173062
+                      C  Staňkov ‐ Poběžovice                                   173063
+                719   ‐  Plzeň hl.n. ‐ Žatec západ ‐ Odb Velichov               173064
+                      A Plzeň hl.n. – Cheb                                      173071
+                720
+                      B  Cheb ‐ Schirnding (DB Netz)                            173072
+Střed (Praha)         A Česká Třebová ‐ Praha‐Libeň
+                         Praha‐Běchovice‐Blatov ‐ Praha‐Běch. (kol.
+                      A2
+                         101, 102)
+                501                                                             165002
+                      C  Česká Třebová vj. sk. ‐ Odb Parník
+                         Česká Třebová odj. sk. ‐ Odb Parník (po koleji
+                      F
+                         č. 4)
+                      A (mimo) Havlíčkův Brod – Nymburk hl.n.                   165063
+                502   B  Nymburk hl.n. ‐ Poříčany                               165004
+                      C  Odb Babín ‐ Nymburk vj.n.                              165063
+                                              Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD   TTP        Traťové úseky                                          Číslo traťové
+                                                                         kategorie
+             A  Nymburk hl.n. ‐ Ústí nad Labem západ                         165064
+       503
+             B  Ústí nad Labem‐Střekov ‐ Děčín hl.n.                         165008
+             A  Ústí nad Labem hl.n. ‐ Chomutov
+                Ústí n. L. záp. St.1 ‐ Ústí n. L. záp. vj.n. ‐ Ústí n.      165065
+             A2
+                L. záp. výh č. 852
+             B  Odb České Zlatníky ‐ Obrnice                                165010
+       504   C  Ústí nad Labem západ ‐ Úpořiny ‐ Bílina                     165011
+             E  Most ‐ Most nové n.                                         165012
+             F  Třebušice ‐ Most nové n.                                    165013
+             G Odb Dolní Rybník ‐ Jirkov                                    165014
+             J  Odb Chomutov město ‐ Chomutov seř. n.                       165065
+             A Trhový Štěpánov ‐ Benešov u Prahy                            165015
+       514
+             B  (mimo) Olbramovice ‐ Sedlčany                               165016
+             A Čáslav ‐ Třemošnice                                          165018
+             B  Kutná Hora hl.n. ‐ Zruč nad Sázavou                         165017
+       515   C  Kolín ‐ Ledečko                                             165019
+             D Pečky ‐ Kouřim                                               165020
+             E  Bošice ‐ Bečváry                                            165021
+       516   A Světlá nad Sázavou ‐ Čerčany                                 165022
+       519   A Benešov u Prahy ‐ Praha‐Hostivař                             165070
+                Praha‐Smíchov ‐ Rudná u Prahy ‐ Beroun‐
+             A                                                              165025
+                Závodí
+       520
+             C  Rudná u Prahy ‐ (mimo) Odb Jeneček                          165024
+             E  (mimo) Rakovník ‐ Beroun                                    165026
+       521   B  Praha‐Smíchov ‐ Beroun                                      165028
+                Čerčany ‐ Vrané nad Vltavou – Praha‐Vršovice
+             A                                                              165029
+       523      os. n.
+             B  Dobříš ‐ Vrané nad Vltavou                                  165030
+             A Lysá nad Labem ‐ Praha‐Vysočany                              165005
+       524
+             B  Lysá nad Labem ‐ Milovice                                   165006
+             A Praha‐Libeň ‐ Praha hl.n                                     165031
+             B  Praha‐Vysočany ‐ Praha hl.n. ‐ Praha‐Smíchov                165032
+             C  Praha‐Hostivař ‐ Praha‐Vršovice ‐ Praha hl.n.               165067
+             D Praha jih odjezd ‐ Praha‐Eden                                165071
+       525   F  Praha‐Hostivař ‐ Praha‐Libeň ‐ Praha‐Vysočany               165036
+                Praha‐Běchovice ‐ Praha‐Zahradní Město ‐
+             G                                                              165072
+                Odb Závodiště
+             H Praha jih Vjezd – Praha‐Vršovice os. n.                      165041
+             J  Praha‐Vršovice ‐ Výh Praha‐Vyšehrad                         165066
+                Praha‐Libeň ‐ Praha‐Holešovice ‐ Výh Praha‐
+             A                                                              165037
+                Bubeneč
+                Praha‐Libeň ‐ Praha Masarykovo n. ‐ Praha‐
+             B                                                              165039
+                Holešovice‐Stromovka
+       526      Praha M.n.‐Hrabovka ‐ Praha M.n. viadukt
+             B2                                                             165073
+                (kolej 94)
+             C  Odb Balabenka ‐ Praha‐Holešovice Rokytka                    165042
+                Odb Balabenka ‐ Praha Masarykovo n.‐
+             D                                                              165038
+                Sluncová
+       527   A Výh Praha‐Bubeneč ‐ Děčín hl.n.                              165043
+                                           Příloha č. 1 Opatření Ř O18 č. 38/2020
+
+
+OŘOD   TTP       Traťové úseky                                    Číslo traťové
+                                                                  kategorie
+                 Ústí nad Labem hl.n. (obvod jih) ‐ Ústí nad
+             B                                                       165044
+                 Labem západ
+             A   (mimo) Odb Jeneček ‐ Podlešín                       165045
+       529   B   Kralupy nad Vltavou předměstí ‐ Velvary             165047
+             C   Kralupy nad Vltavou ‐ Obrnice                       165046
+             A   Vraňany ‐ Libochovice                               165048
+       530   B   Vraňany ‐ Lužec nad Vltavou                         165049
+             C   Roudnice nad Labem ‐ Zlonice                        165050
+             A   Kralupy nad Vltavou ‐ Neratovice                    165051
+       532   C   Čelákovice ‐ Neratovice                             165052
+             D   Čelákovice ‐ Mochov                                 165053
+       537   ‐   Praha‐Vysočany ‐ (mimo) Turnov                      165054
+             A   Řetenice ‐ Lovosice                                 165058
+             B   Lovosice ‐ Louny                                    165056
+       539
+             D   Lovosice ‐ (mimo) Česká Lípa hl.n.                  165055
+             E   Žalhostice ‐ Velké Žernoseky                        165059
+             A   Děčín hl.n. ‐ Bad Schandau (DB Netz)                165060
+       544
+             B   Děčín východ – Děčín‐Prostřední Žleb                165061
+       AŽD
+           C     Čížkovice ‐ Obrnice                                 165057
+       539
+                      Příloha č. 2 Opatření Ř O18 č. 38/2020
+
+
+
+
+       Příloha č. 2
+Seznam aplikací v tabletu
+                                                                     Příloha č. 2 Opatření Ř O18 č. 38/2020
+
+
+Aktualizováno ke dni: 19. 10. 2025
+
+Seznam aplikací:
+
+Povinně instalované aplikace
+
+        Název aplikace
+       Pracovní prostředí                       Jízdní řády
+            MAPSISo                        Prohlížeč PDF Google
+              ESET
+            Můj vlak
+             NaVlak
+          První pomoc
+       Total Commander
+           DLB RC9*
+             dLox*
+         DatNet Agilis*
+*aplikace je instalována pouze u strojvedoucích s odpovídající odbornou způsobilostí
+
+
+
+
+Individuálně instalované aplikace
+
+         Název aplikace
+             Mapy.cz
+         Jízdní řády IDOS
+    Klara (předpověď počasí)
+       Dokumenty Google
+         Tabulky Google
+       Prezentace Google
+      Meteor - Meteoradar
+         Time Calculator
+       (časová kalkulačka)
+         Overlay Clock**
+        Překladač Google
+              ČHMÚ
+         Files od Googlu
+         VLC pro Android
+         Floating clock**
+
+** použití aplikace nesmí bránit bezpečnému čtení údajů z otevřeného TJŘ a zároveň musí být tablet v online
+režimu
+                      Příloha č. 3 Opatření Ř O18 č. 38/2020
+
+
+
+
+       Příloha č. 3
+Vzor nové první strany TTP
+TTP 503A                                                                                   Seznam změn
+
+503A Lysá nad Labem ‐ Ústí nad Labem západ
+
+
+1.11.2020
+
+Tabulka 1+9    - Upraven údaj o sklonových poměrech rozhodných pro bezpečné brzdění vlaků od konce k
+                 začátku trati na hodnotu 9 ‰ (původně 5).
+               - Doplněno dispečerské pracoviště SD (DOZ) Lysá nad Labem pro úsek Lysá nad Labem (včetně)
+                 - Stará Boleslav (včetně).
+               - Doplněny informace o přenosu kódu v úseku Mělník - Ústí n.L. západ (původně tento úsek
+                 uveden bez přenosu kódu).
+
+Tabulka 11     - Doplněny údaje o trvalém provozním omezení pro HV 189 a 1216.
+
+
+
+
+15.10.2020
+
+Tabulka 1+9    - Doplněna informace o umístění IHO v km 417,590 ve 2TK mezi Velké Žernoseky a Sebuzín
+               - Opraveno označení vjezdových návěstidel ŽST Liběchov
+               - Opraveny km polohy návěstidel AB (1-3764, 1-3763, 2-3766, 2-3765) mezi Mělník a Liběchov,
+                 všechny nově uvedené v km 376,218 (původně uvedeno 376,471 a 376,493)
+               - Oprava km polohy vj. návěstidla 1ML ŽST Ústí n.L.-Střekov (od Ústí nad Labem západ), nově
+                 uvedeno 3,211 (původně 1,056)
+               - Doplněny km polohy vnějších telefonních objektů
+
+Tabulka 6b+9   - Odstraněn rychlostník 3 (90 km/h) v km 359,320 mezi Všetaty a Dřísy, zvýšena tak rychlost pro
+                 vozidla skupiny přechodnosti 3 z 90km/h na 120 km/h v km 159,320 - 348,101
+
+Tabulka 11     - Doplněny údaje o vozidlech s trvalým omezením pro HV 1216,189 a 680
+
+
+
+
+1.9.2020
+
+Tabulka 8b     - Oprava chyby v tabulce - centrální napájení vozů elektrickou energií je POVOLENO bez omezení
+                 v celé trati (chybí opravená tabulka ve formátu PDF, oprava provedena pouze v tabulce ve
+                 formátu XML)
+
+
+
+1.8.2020
+
+Tabulka 1-13   - Všechny tabulky převedeny do nové grafiky, obsahově beze změn
+                 Nová tabulka č.9 "ZÁKLADNÍ PROVOZNÍ ÚDAJE PRO JÍZDU VLAKU"
+
+
+
+
+                                                Strana 1
+                           Příloha č. 4 Opatření Ř O18 č. 38/2020
+
+
+
+
+            Příloha č. 4
+Opatření k aplikaci ČD APS Komando -
+      výňatek pro strojvedoucí
+                         Výtah ustanovení pro strojvedoucí z
+
+              Opatření k aplikaci ČD APS Komando,
+             vydaného GŘ ÚLZ dne 1. 9. 2023, č.j. 0493/23-O10
+
+KAPITOLA 1. ÚVODNÍ USTANOVENÍ
+
+Od 1. 9. 2023 vstupuje v platnost toto opatření, které stanovuje používání aplikace ČD Komando
+ve služebním mobilním telefonu/tabletu (dále též jen MTA) zaměstnancům se zařazením na pozici
+strojvedoucí v rutinním režimu a stanovuje hlášení na směnu primárně prostřednictví této
+aplikace. Hlášení prostřednictvím předdefinované SMS nebude dále podporováno. Data v aplikaci
+jsou závazná a nahrazují papírovou formu obeznámení s rozpisem směn na vyrovnávací období
+(platí pro rozpis směn od 1. vyrovnávacího období JŘ 2023/24).
+
+V případě, kdy aplikace ČD Komando vykazuje očividnou nepřesnost, kontaktuje strojvedoucí
+zaměstnance pracoviště strojmistra k upřesnění. V tomto případě (než proběhne narovnání směn
+v aplikaci ČD Komando) strojmistr vytvoří rozpis směn, který odešle zaměstnanci prostřednictvím
+mailu. Přijetí takové zprávy si u zaměstnance ověří.
+
+ČD Komando zobrazuje data jen pro jeden pracovní poměr zaměstnance na pozici strojvedoucí
+(KZAM 83112). Pokud strojvedoucí nemá k dispozici aplikaci ČD Komando (nemá přidělen tablet
+nebo mobilní telefon do osobního užívání a nemůže tedy z jeho strany dojít k obeznámení
+s rozpisem směn pro daný PPV) zůstává povinnost tištěného obeznámení.
+
+Hlášení na směnu/přerušení (začátek/konec) je v aplikaci ČD Komando součástí detailu
+jednotlivých směn - viz kapitola 5. Od 1. 9. 2023 jsou rovněž platné nové limity časů pro hlášení
+před/po začátku nebo konci směny - viz kapitola 4.
+
+KAPITOLA 4. EVIDENCE PRACOVNÍ DOBY
+
+Evidence pracovní doby bude vedena pomocí aplikace ČD Komando v MTA, jejímž
+prostřednictvím se zaměstnanec přihlásí na směnu (nebo její část), odhlásí ze směny (nebo její
+části) a seznámí se s rozpisem směn na vyrovnávací období.
+
+Parametry pro hlášení v aplikaci jsou:
+
+   •   Pro ohlášení nástupu na výkon 15 minut před nástupem a 3 minuty po nástupu na výkon.
+   •   Pro ohlášení konce výkonu 15 minut před koncem a 120 minut po konci výkonu.
+
+V případě, že se zaměstnanec nepřihlásí/neodhlásí na příslušnou část směny ve výše
+stanoveném intervalu je jeho povinností nahlásit se strojmistrovi telefonicky nebo osobně.
+Strojmistr provede hlášení za zaměstnance u příslušné části směny. Primární zodpovědnost za
+hlášení leží na zaměstnanci.
+
+Aplikace vyžaduje chronologickou posloupnost jednotlivých hlášení.
+
+
+
+
+                                          Stránka 1 z 3
+V případě, že je nástupní místo strojvedoucího obsazeno strojmistrem ve směně, provede
+strojvedoucí přihlášení na směnu také osobně u tohoto strojmistra. Povinnost provedení
+přihlášení v aplikaci ČD Komando se tím neruší.
+
+Po provedení ohlášení obdrží zaměstnanec prostřednictvím aplikace informaci o přijetí hlášení.
+
+KAPITOLA 5. APLIKACE ČD KOMANDO - PŘEHLED PLÁNOVANÝCH SMĚN A
+HLÁŠENÍ NA SMĚNU
+
+Mobilní aplikace ČD Komando (dále také jen „mobilní aplikace“ nebo „aplikace“) byla vyvinuta
+jako klient centrální aplikace APS CS a slouží k:
+
+    •   hlášení nástupu zaměstnance na výkon a hlášení ukončení výkonu,
+    •   seznamování provozních zaměstnanců s plány směn na vyrovnávací období, s jejich
+        průběhem a jejich změnami,
+   •    seznamování s vybranými nepracovními stavy.
+
+Mobilní aplikace je koncipována jako stále spuštěná, za tímto účelem se v notifikační liště MTA
+zobrazuje perzistentní (trvalá) notifikace „Aplikace je aktivní“.
+
+V případě, že nemá MTA přístup k internetu, se v hlavní liště aplikace zobrazí oranžové
+upozornění                  na offline režim.
+
+Mobilní aplikaci lze rozdělit do těchto hlavních částí/obrazovek:
+
+1. Komando – řádkové zobrazení všech směn.
+
+2. Kalendář směn – jedná se výchozí zobrazení mobilní aplikace, v kalendářovém zobrazení je k
+dispozici přehled všech směn a vybraných nepracovních stavů pro daný měsíc.
+
+Hlášení na směnu je součástí detailu jednotlivých směn – umožňuje zaměstnanci odeslání hlášení
+nástupu nebo ukončení směny (jejího přerušení).
+
+Zaměstnanec je dále notifikací upozorňován na případnou změnu průběhu příslušné směny, nebo
+změny rozpisu směn na vyrovnávací období.
+
+KAPITOLA 5.1 ZÁLOŽKA KOMANDO – PŘEHLED PLÁNOVANÝCH SMĚN
+
+Aplikace zobrazuje přehled plánových směn v sloupcovém pohledu. Každá položka reprezentuje
+jednu plánovanou směnu a zobrazuje o ní základní informace.
+
+KAPITOLA 5.2 ZÁLOŽKA KALENDÁŘ SMĚN
+
+Uživatel vybírá konkrétní požadovanou směnu v kalendáři stisknutím její ikony v kalendáři. Suma
+odpracovaných směn ve vybraném měsíci se mění v závislosti na vyhodnocení směn v APS.
+
+Čerpání a zbývající dovolená uvádí hodnoty platné k 31. 12. aktuálního roku.
+
+KAPITOLA 5.3 ZOBRAZENÍ PRŮBĚHU SMĚNY
+
+
+
+
+                                            Stránka 2 z 3
+Zobrazení průběhu směny obsahuje základní informace o směně. Pokud došlo ke změně plánu
+průběhu směny, budou aktuálně změněné položky vyznačeny oranžovou barvou do potvrzení
+seznámení se změnou uživatelem.
+
+KAPITOLA 5.4 ÚPRAVA HLÁŠENÍ NA SMĚNU / PŘERUŠENÍ
+SMĚNY
+
+Uživatel se přihlašuje na konkrétní směnu. Uživatel vybere v kalendáři směn
+aktuální směnu, na kterou se chce přihlásit. V panelu s detaily o směně
+zobrazí uživatel stisknutím položku „Přihlášení na výkon“, čímž zobrazí 4
+tlačítka:
+
+   •   Přihlášení na výkon
+   •   Přihlášení po přerušení
+   •   Odhlášení před přerušením
+   •   Odhlášení po výkonu
+
+Přihlásit se na směnu lze 15 minut před plánovaným začátkem směny.
+Ukončit směnu lze nejpozději 120 minut po plánovaném ukončení směny. Po
+provedení přihlášení/odhlášení na/z výkon/výkonu, dojde v kalendáři k
+podbarvení                   času zeleně.
+
+Detailněji k dalším funkčnostem aplikace v manuálu k aplikaci, který je
+dostupný přímo v aplikaci.
+
+KAPITOLA 8. MIMOŘÁDNOST VE SMĚNĚ
+
+Zaměstnanec je povinen nosit v průběhu směny své přidělené mobilní zařízení (tablet, telefon) u
+sebe (zapnutý a s nabitou baterií). V případě, že z jakéhokoliv důvodu nelze provést ohlášení
+pomocí aplikace ČD Komando musí se zaměstnanec v co nejkratší možné době ohlásit jakýmkoli
+jiným způsobem svému strojmistrovi (např. vypůjčením si mobilního telefonu od vlakové čety či
+jiné osoby, zavolání z nejbližší železniční stanice apod.).
+
+KAPITOLA 9. NEFUNKČNOST, ZÁVADY, NEDOSTATKY APLIKACE KOMANDO,
+ZÁ-LOŽKY HLÁŠENÍ DO SMĚNY APS CS
+
+Při zjištění nefunkčnosti nebo závady aplikace ČD Komando v mobilním zařízení, nahlásí
+strojvedoucí problém strojmistrovi, který prvotně prověří zapnutí přenosu dat v rámci APS.
+V případě, že jsou splněny veškeré podmínky pro odesílání dat, ale data se v aplikaci stále
+nezobrazují, kontaktuje strojmistr, příp. jiný zaměstnanec, Helpdesk Oltis, tel.: 605 241 884,
+email: komandoaps@oltis.cz.
+
+
+
+
+                                           Stránka 3 z 3
+

@@ -1,0 +1,213 @@
+[
+ {
+  "n": 260,
+  "otazka": "Vlak zastavil na zastávce v obvodu stanice pro výstup a nástup cestujících a poté pokračuje v jízdě opačným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "obrazky": [
+   "img/q260_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (1)"
+   },
+   {
+    "predpis": "ČD OŘ O18 36/2025",
+    "clanek": "list 1B.0"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a) bod aa)"
+   }
+  ],
+  "odpoved": "Pokyn výpravčího nepotřebuje – jízdu z obvodu zastávky povoluje i po změně směru návěst návěstidla S101 a mezi čelem vlaku a ním není výhybka; rozjede se po úkonech dle ČD D2.",
+  "plne_zneni": "SŽ D1 čl. 359 odst. (1): Po zastavení vlaku z důvodu výstupu a nástupu cestujících na zastávce (a to i na zastávce v obvodu stanice nebo odbočky), ve stanici s výlukou dopravní služby výpravčího nebo po zastavení pro výstup nebo nástup zaměstnance Správy železnic v místě mimo prostor pro výstup a nástup cestujících, musí doprovod vlaku před uvedením vlaku do pohybu dodržet postup stanovený dopravcem.\n\nSŽ D1 čl. 359 odst. (2): Na zastávce v obvodu stanice (odbočky) si strojvedoucí musí vždy vyžádat pokyn k jízdě vlaku od výpravčího v těchto případech:\na) Dojde-li na zastávce ke změně směru jízdy vlaku a z obvodu zastávky není další jízda vlaku povolována návěstí hlavního návěstidla nebo návěstí DNS stop značky, nebo\nb) po změně směru jízdy vlaku, je-li mezi čelem vlaku a nejbližším hlavním návěstidlem nebo stop značkou ve směru jízdy vlaku výhybka, centrální přechod s VZPK nebo přejezd s PZZ. Toto ustanovení platí i pro případ, že tímto nejbližším hlavním návěstidlem nebo stop značkou je vjezdové návěstidlo nebo vjezdová stop značka pro opačný směr jízdy.\n\nČD OŘ O18 36/2025, list 1B.0 – Zastávka v obvodu stanice, případ E2 (vlak po zastavení pro nástup a výstup cestujících pokračuje v jízdě opačným směrem, čl. 359 SŽ D1): „Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu S101 (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává).“ Případ E3 (tamtéž): „Strojvedoucí si musí před uvedením vlaku do pohybu vyžádat vždy pokyny k jízdě od výpravčího.“\n\nČD D2 čl. 273 písm. a) bod aa): strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. […] aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti.",
+  "distraktory": [
+   "Musí si vždy vyžádat pokyn k jízdě od výpravčího – po změně směru jízdy nepovoluje jízdu z obvodu zastávky žádné hlavní návěstidlo; teprve pak provede úkony před odjezdem.",
+   "Pokyn výpravčího nepotřebuje, musí si však vyžádat souhlas k posunu; návěst návěstidla S101 platí jen pro původní směr jízdy vlaku, a proto jeho další jízdu nepovoluje."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Na schématu jede vlak po změně směru doleva (červená šipka směřuje doleva, spodní čára ukazuje původní směr doprava) k návěstidlu S101, které je hlavou obráceno pro tento směr jízdy a návěstí dovolující návěst (žluté a zelené světlo = Rychlost 40 km/h a volno). Mezi čelem vlaku a S101 není výhybka, nenastal tedy ani případ a), ani případ b) čl. 359 odst. (2) SŽ D1 – jde o případ E2 listu 1B.0 ČD OŘ O18 36/2025. POZOR: kdyby vlak po změně směru jel doprava (k výhybce a návěstidlům L1/L2 s návěstí Stůj), šlo by o případ E3 a strojvedoucí by si musel pokyn k jízdě od výpravčího vždy vyžádat; rozlišovacím znakem je jen orientace šipky na obrázku. Původní verze odpovědi vycházela z opačného čtení schématu."
+ },
+ {
+  "n": 261,
+  "otazka": "Jakou návěst a komu dá strojvedoucí postrkové jednotky po obdržení návěsti „Pohotovi k odjezdu“ od člena obsluhy vlaku 2 a uzavření dveří?",
+  "obrazky": [
+   "img/q261_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 302"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. b)"
+   }
+  ],
+  "odpoved": "Dá návěst Pohotovi k odjezdu směrem k členu obsluhy vlaku 1 v přední části vlaku; návěst Souhlas k odjezdu by dal jen tehdy, kdyby před ním žádný člen obsluhy vlaku nebyl.",
+  "plne_zneni": "ČD D2 čl. 302: Jsou-li ve vlaku vozidla s nástupními dveřmi centrálně ovládanými jinými strojvedoucími než strojvedoucím vedoucího vozidla vlaku, dají návěst Pohotovi k odjezdu členové obsluhy vlaku, kterým jsou tato vozidla přidělena, směrem ke strojvedoucím ovládajícím nástupní dveře těchto vozidel. Tito strojvedoucí poté uzavřou centrálně ovládané nástupní dveře, zkontrolují pomocí indikace zajištění nástupních dveří a dají návěst Pohotovi k odjezdu směrem k členu (členům) obsluhy vlaku v přední části vlaku. Není-li před strojvedoucím vozidla s centrálně ovládanými nástupními dveřmi žádný člen obsluhy vlaku, dá tento strojvedoucí po uzavření a zkontrolování indikace zajištění nástupních dveří návěst Souhlas k odjezdu směrem ke strojvedoucímu vedoucího vozidla vlaku.\n\nČD D2 čl. 273 písm. b): po výstupu a nástupu cestujících a uzavření nástupních dveří (kromě vozidel provozovaných v systému CODS) dávají členové obsluhy vlaku postupně od konce vlaku směrem k vedoucímu vozidlu vlaku návěst Pohotovi k odjezdu. Poté dá člen obsluhy vlaku nejblíže ke strojvedoucímu návěst Souhlas k odjezdu […].",
+  "distraktory": [
+   "Dá návěst Souhlas k odjezdu směrem ke strojvedoucímu vedoucího vozidla vlaku; návěst Pohotovi k odjezdu by dal jen tehdy, kdyby před ním byl další člen obsluhy vlaku.",
+   "Dá návěst Pohotovi k odjezdu zpět členu obsluhy vlaku 2 na konci vlaku, který ji pak předá dalším členům obsluhy vlaku směrem k vedoucímu vozidlu vlaku."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku jede vlak doprava, vedoucím vozidlem je lokomotiva vpředu; postrková jednotka je na konci vlaku a před jejím strojvedoucím je ještě člen obsluhy vlaku 1 – proto Pohotovi k odjezdu, nikoli Souhlas k odjezdu. Návěst Souhlas k odjezdu dá až člen obsluhy vlaku 1 (nejblíže vedoucímu vozidlu)."
+ },
+ {
+  "n": 262,
+  "otazka": "Hlásí zaměstnanec v čele sunutého vlaku tuto návěst?",
+  "obrazky": [
+   "img/q262_1.png"
+  ],
+  "tema": "Sunuté vlaky",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 392"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 177 odst. (1)"
+   }
+  ],
+  "odpoved": "Nehlásí – rychlostník návěstí traťovou rychlost 100 km/h a návěsti vztažné k traťové rychlosti vyšší než 30 km/h se strojvedoucímu vedoucího vozidla nehlásí.",
+  "plne_zneni": "ČD D2 čl. 392 (zaměstnanec v čele sunutého vlaku): […] je dále povinen ihned po zpozorování ohlásit strojvedoucímu všechny návěsti nebo okolnosti, které ovlivňují jízdu vlaku. Návěsti vztažné k traťové rychlosti vyšší než 30 km/h se strojvedoucímu vedoucího vozidla vlaku nehlásí.\n\nSŽ D1 čl. 177 odst. (1): Traťová rychlost – bílá, na delší straně postavená obdélníková deska a na ní černé číslo; není-li návěstidlo z reflexního materiálu, je číslo s bílými odrazkami. Přikazuje strojvedoucímu nepřekročit od tohoto návěstidla rychlost udanou číslem.\n\nČD D2 čl. 393 (tabulka, řádek Návěsti na trati, zvláštního určení, neproměnná návěstidla, pro pomalou jízdu, varovná návěstidla): „Vlak (uvede se číslo vlaku a název návěsti, případně doplněné o údaj uvedený na návěstidle).“ Příklad: „Vlak XY očekávejte traťovou rychlost 20 km/h.“",
+  "distraktory": [
+   "Hlásí – rychlostník návěstí traťovou rychlost 100 km/h a slovní znění zní „Vlak XY očekávejte traťovou rychlost 100 km/h“; nehlásí se jen návěsti pro pomalou jízdu.",
+   "Nehlásí – hlásí se pouze návěstní znaky hlavních návěstidel a samostatných předvěstí, neproměnná návěstidla na trati se strojvedoucímu nehlásí nikdy."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku je rychlostník (bílá obdélníková deska s černým číslem s bílými odrazkami) s číslem 100 = traťová rychlost 100 km/h, tedy vyšší než 30 km/h."
+ },
+ {
+  "n": 263,
+  "otazka": "Jak často opakuje u sunutého vlaku zaměstnanec v čele sunutého vlaku závazné slovní pokyny k sunutí?",
+  "obrazky": [],
+  "tema": "Sunuté vlaky",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (5)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (10)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 391"
+   }
+  ],
+  "odpoved": "Nejméně jednou za 5 sekund (minimální hodnota opakovací doby); zkrátit interval smí jen strojvedoucí a neobdrží-li pokyn včas, musí vlak neprodleně zastavit.",
+  "plne_zneni": "SŽ Z11 čl. 19 odst. (4): Pokyny pro posun zajišťované prostřednictvím simplexního rádiovém provozu, musí být předávány v takovém časovém intervalu, aby bylo v kterémkoliv okamžiku průběhu posunu zajištěno jejich spolehlivé přijetí a následná reakce.\n\nSŽ Z11 čl. 19 odst. (5): Jako minimální hodnota opakovací doby potřebné pro bezpečné předání pokynu je časový interval 5 sekund.\n• S přihlédnutím na individuální charakter prováděné činnosti může strojvedoucí (před zahájením posunu nebo jeho části) tento časový interval i zkrátit.\n• Bez souhlasu strojvedoucího nelze dohodnutý interval pro opakování předávání pokynů v průběhu provádění posunu měnit!\n\nSŽ Z11 čl. 19 odst. (9): Posunový díl musí být strojvedoucím neprodleně zastaven, pokud: • dojde k překročení minimální opakovací doby pro předávání pokynů dle odst. (4) a (5) tohoto článku; […]\n\nSŽ Z11 čl. 19 odst. (10): Podmínky stanovené v odst. (4) až (9) tohoto článku platí v potřebném rozsahu i pro jízdu sunutého vlaku nebo sunutého PMD.\n\nČD D2 čl. 391: Jsou-li pokyny k jízdě sunutého vlaku dávány prostřednictvím rádiového zařízení, musí dotčení zaměstnanci postupovat dle ustanovení předpisu SŽ Z11, které upravuje závazná slovní znění při vzájemné komunikaci zaměstnanců doprovodu vlaku.",
+  "distraktory": [
+   "Nejméně jednou za 10 sekund (minimální hodnota opakovací doby); zkrátit interval smí jen strojvedoucí a neobdrží-li pokyn včas, musí vlak neprodleně zastavit.",
+   "Nejméně jednou za 5 sekund; interval smí zkrátit i prodloužit zaměstnanec v čele sunutého vlaku a neobdrží-li strojvedoucí pokyn včas, sníží rychlost na 10 km/h."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "ČD D2 vlastní hodnotu intervalu neuvádí, odkazuje na SŽ Z11 (čl. 391); interval 5 s je uveden i v tabulkách 6 a 7 předpisu SŽ Z11."
+ },
+ {
+  "n": 264,
+  "otazka": "Od jaké vzdálenosti musí být u sunutého vlaku doplněn slovní pokyn k sunutí o informací o zbývajících metrech k místu zastavení?",
+  "obrazky": [],
+  "tema": "Sunuté vlaky",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (8)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 19 odst. (10)"
+   }
+  ],
+  "odpoved": "Vždy v úseku posledních 100 m před místem zastavení; tam se pokyn opakuje jen definicí zbývající vzdálenosti v metrech (nebo v počtu vozů).",
+  "plne_zneni": "SŽ Z11 čl. 19 odst. (8): V době, kdy je spojení navázáno a není přerušováno (tlačítko radiostanice pro vysílání je trvale stisknuto), mohou být pokyny pro jízdu posunového dílu dle odst. (1), a při současném dodržení podmínek minimální hodnoty opakovací doby dle odst. (4) a (5) opakovaně předávány jen ve formě definice zbývající vzdálenosti (v metrech nebo v počtu vozů) nebo jen názvem návěsti (např. Pomalu) – viz postup uvedený v tabulce 7.\n• V případě použití vzdálenosti v počtu vozů lze využít i rozlišení na tzv. malé vozy (dvounápravové) či tzv. velké vozy (vícenápravové). […]\n• O definici určování vzdálenosti rozhodne strojvedoucí před zahájením posunu nebo jeho části.\n• Výše uvedené zásady jsou platné vždy v úseku posledních 100 metrů před místem zastavení a z rozhodnutí strojvedoucího je možno je použít i v případech, pro který je uvedený provozní režim vhodný (posun na krátkou vzdálenost apod.).\n• […] Uvedené zásady může dopravce plně využít pro stanovení vlastních podmínek ve svém vnitřním předpisu pro zajištění jízd sunutých vlaků.\n\nSŽ Z11 čl. 19 odst. (10): Podmínky stanovené v odst. (4) až (9) tohoto článku platí v potřebném rozsahu i pro jízdu sunutého vlaku nebo sunutého PMD.",
+  "distraktory": [
+   "Vždy v úseku posledních 50 m před místem zastavení; tam se pokyn opakuje jen definicí zbývající vzdálenosti v metrech (nebo v počtu vozů).",
+   "Vždy v úseku posledních 200 m před místem zastavení; o způsobu určování zbývající vzdálenosti rozhodne zaměstnanec v čele sunutého vlaku."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Hodnotu 100 m stanoví SŽ Z11 čl. 19 odst. (8) pro posun a podle odst. (10) platí i pro sunutý vlak; ČD D2 (kap. IV) vlastní vzdálenost neuvádí a na SŽ Z11 pouze odkazuje."
+ },
+ {
+  "n": 265,
+  "otazka": "Musí strojvedoucí informaci o návěsti nepřenosného návěstidla prostřednictvím radiové stanice u sunutého vlaku potvrdit?",
+  "obrazky": [],
+  "tema": "Sunuté vlaky",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 392"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 393"
+   }
+  ],
+  "odpoved": "Ano – obdrženou informaci musí vždy zopakovat zaměstnanci v čele sunutého vlaku a její převzetí vždy potvrdit.",
+  "plne_zneni": "ČD D2 čl. 392 (strojvedoucí vedoucího vozidla vlaku): • musí mít na vozidlové radiostanici, není-li její porucha, za jízdy sunutého vlaku nastaveno základní rádiové spojení dle TTP a musí po dobu jízdy provádět veškeré úkony na vozidlové radiostanici stanovené příslušnými návěstmi; • musí obdrženou informaci o návěstním znaku (návěsti) nepřenosných návěstidel (hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, traťové rychlosti, radiovníku apod.) vždy zopakovat zaměstnanci v čele sunutého vlaku a převzetí této informace vždy potvrdit.\n\nČD D2 čl. 393 (závazná slovní znění, řádek Návěstní znak hlavního návěstidla): „Vlak (uvede se číslo vlaku) na návěstidle (uvede se označení návěstidla nebo jeho určení vjezdové, cestové, odjezdové, oddílové, krycí) je návěst (uvede se název návěsti).“",
+  "distraktory": [
+   "Ano – převzetí informace musí vždy potvrdit slovem „rozumím“, zopakovat ji zaměstnanci v čele sunutého vlaku ale nemusí.",
+   "Ne – potvrzuje jen informace o návěstech hlavních návěstidel, ostatní informace o nepřenosných návěstidlech pouze přijímá."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 266,
+  "otazka": "Jaké poznání tratí lze realizovat pomocí videopoznání?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 55"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 50 písm. b)"
+   }
+  ],
+  "odpoved": "Opakované, případně doplňkové poznání, a to jen u strojvedoucích (zaměstnanců určených pro činnost v čele sunutého vlaku) a jen jsou-li videopodklady schválené GŘ O18.",
+  "plne_zneni": "ČD D2 čl. 55: Videopoznání – aplikuje se jen u profese strojvedoucí (ostatních zaměstnanců určených pro činnost v čele sunutého vlaku) a pouze v případě, existují-li videopodklady schválené GŘ O18 a umístěné na síťovém disku GŘ O18. Existuje-li v této podobě videopoznání pro daný traťový úsek, provede se opakované, případně doplňkové poznání jen a výhradně touto formou za dodržení následujících podmínek:\n• součástí podkladů k obnovení znalosti videopoznáním jsou i dokumenty uvedené v ustanovení čl. 57 tohoto předpisu. OŘOD může dle uvážení připojit další související podklady;\n• zaměstnanec provede videopoznání pomocí výpočetní techniky přímo na pracovišti OŘOD, tj. podklady se nesmí jakkoliv zapůjčovat;\n• délka směny pro videopoznání se stanoví jako doba trvání určených úseků videopodkladů dané trati v obou směrech […].\n\nČD D2 čl. 50 písm. b): Jedná-li se o opakované poznání, provede se projetím úseku na stanovišti strojvedoucího vedoucího vozidla vlaku (u sunutých vlaků v čele sunutého vlaku) […] případně pochůzkou úseku nebo videopoznáním dle rozhodnutí příslušného OŘOD. Opakované poznání se aplikuje v případě, kdy doba od posledního výkonu (i jen provedení prvního poznání) na dané trati překročila 13 měsíců a nedosáhla 25 měsíců.",
+  "distraktory": [
+   "Pouze první poznání, a to jen u strojvedoucích (zaměstnanců určených pro činnost v čele sunutého vlaku) a jen jsou-li videopodklady schválené GŘ O18.",
+   "Opakované i první poznání u všech provozních zaměstnanců, schválí-li videopodklady příslušné OŘOD; doplňkové poznání videopoznáním provést nelze."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 267,
+  "otazka": "Jaké poznání tratí lze realizovat pomocí fotopoznání?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 54"
+   }
+  ],
+  "odpoved": "Jen doplňkové poznání u strojvedoucích (zaměstnanců v čele sunutého vlaku) po rozsáhlejší rekonstrukci či přeložce, nepřekročila-li doba od posledního výkonu 13 měsíců.",
+  "plne_zneni": "ČD D2 čl. 54: Fotopoznání – aplikuje se pouze jako doplňkové poznání u strojvedoucích (zaměstnanců určených pro činnost v čele sunutého vlaku), a to jen v případě dokončení rozsáhlejší rekonstrukce či přeložek staničních nebo traťových úseků, jejich jednotlivých etap nebo jiných stavebních úprav dle rozhodnutí ředitele OŘOD a zároveň doba poznání zaměstnance nepřekročila 13 měsíců od posledního výkonu. Pro zajištění tohoto poznání vypracuje OŘOD ve svém obvodu fotodokumentaci s plánky nebo schématy staničního nebo traťového úseku, případně doplněné o jednoduché video s průjezdem úseku. Tuto dokumentaci uloží OŘOD do aplikace SIPS k dotčenému úseku (dotčené dopravny), příp. poskytne ostatním zaměstnancům nebo organizačním jednotkám.",
+  "distraktory": [
+   "Jen doplňkové poznání u strojvedoucích (zaměstnanců v čele sunutého vlaku) po rozsáhlejší rekonstrukci či přeložce, nepřekročila-li doba od posledního výkonu 25 měsíců.",
+   "Opakované poznání u strojvedoucích i ostatních zaměstnanců obsluhy vlaku, a to vždy po rozsáhlejší rekonstrukci či přeložce staničního nebo traťového úseku."
+  ],
+  "jistota": "vysoká"
+ }
+]

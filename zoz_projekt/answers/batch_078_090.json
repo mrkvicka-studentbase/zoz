@@ -1,0 +1,363 @@
+[
+ {
+  "n": 78,
+  "otazka": "Po vjetí vlaku do traťového oddílu automatického bloku na návěst dovolující jízdu se na návěstním opakovači nerozsvítí žádné světlo (případně svítí jen modré světlo). Jaký bude další postup strojvedoucího?",
+  "obrazky": [],
+  "tema": "Vozidla a VZ",
+  "predpis": "SŽDC (ČSD) T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 157 – Žádné světlo, písm. b) (znění změny č. 3)"
+   },
+   {
+    "predpis": "DU k T108 (AH s traťovou částí VZ)",
+    "clanek": "bod 2.3.4"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 332"
+   }
+  ],
+  "odpoved": "Musí předpokládat překážku a jet podle rozhledových poměrů (nejvýše 40 km/h) až k následujícímu hlavnímu návěstidlu; bdělost periodicky prokazuje tlačítkem.",
+  "plne_zneni": "SŽDC (ČSD) T108 čl. 157 (Žádné světlo): Na návěstním opakovači nesvítí žádné světlo (popř. svítí jen modré světlo), a to z těchto příčin:\na) vlak je v obsazeném oddíle;\nb) vlak vjel do oddílu automatického bloku na návěst dovolující jízdu a došlo k poruše vlakového zabezpečovače na hnacím vozidle nebo na traťové části vlakového zabezpečovače, popř. k jiné závadě na trati (k lomu kolejnice, k náhlému obsazení oddílu vozidlem, k poruše automatického bloku apod.).\nV případech uvedených v a) nebo b) strojvedoucí neví, pro kterou z uvedených příčin došlo k zhasnutí světla na návěstním opakovači. Musí proto předpokládat překážku a jet podle rozhledových poměrů tak, aby mohl zastavit za všech okolností včas před kolejovými vozidly, popř. podle možností před jinou překážkou; rychlost 30 km/h nesmí být překročena až k následujícímu hlavnímu návěstidlu. Od tohoto návěstidla dále podle návěstních znaků návěstidel. Periodicky obsluhuje tlačítko bdělosti; zanedbá-li jeho obsluhu, vlak samočinně zastaví.\nZjistí-li strojvedoucí, že jde o poruchu traťové části vlakového zabezpečovače, ohlásí to v nejbližší stanici, kde za tímto účelem zastaví. Projíždějící vlak v této stanici nemusí zastavit, je-li zpraven písemným rozkazem, radiotelefonním spojením nebo návěstí Možno projet, že je porucha sousední stanici již ohlášena.\n\nDU k T108 bod 2.3.4: Pro jízdu v mezistaničních úsecích s traťovým zabezpečovacím zařízením automatické hradlo s traťovou částí VZ v čl. 157 (Žádné světlo) písm. b) zní: „b) vlak vjel do oddílu automatického bloku nebo do kódovaného úseku automatického hradla na návěst dovolující jízdu a došlo k poruše vlakového zabezpečovače na hnacím vozidle nebo na traťové části vlakového zabezpečovače, popř. k jiné závadě na trati (lomu kolejnice, k náhlému obsazení oddílu vozidlem, k poruše automatického bloku nebo automatického hradla apod.).“",
+  "distraktory": [
+   "Musí předpokládat překážku a jet podle rozhledových poměrů (nejvýše 30 km/h) až k následujícímu hlavnímu návěstidlu; bdělost periodicky prokazuje tlačítkem.",
+   "Pokračuje nezmenšenou rychlostí podle návěstí hlavních návěstidel a jejich předvěstí; zhasnutí opakovače ohlásí výpravčímu až při nejbližším zastavení ve stanici."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). T108 čl. 157 (Žádné světlo) rychlost neuvádí – říká jen „jet podle rozhledových poměrů“; číslo 40 km/h plyne z definice jízdy podle rozhledových poměrů v SŽ D1 čl. 23 odst. (2)."
+ },
+ {
+  "n": 79,
+  "otazka": "Jak zní závazné slovní znění při diagnostické zprávě IHL (indikace horkého ložiska) stupně STOP?",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "SŽ V65/1 (ASDEK)",
+  "zdroje": [
+   {
+    "predpis": "Pokyny pro obsluhu vyhodnocovacích zařízení (ASDEK)",
+    "clanek": "čl. 4.1 písm. a)"
+   }
+  ],
+  "odpoved": "„Vlak (číslo vlaku), indikováno horké ložisko stupně STOP, okamžitě zastavte!“",
+  "plne_zneni": "Pokyny pro obsluhu vyhodnocovacích zařízení (ObŘ, příloha pro ŽST/ODB), čl. 4.1 – Diagnostická zpráva IHL stupně STOP, povinnosti výpravčího:\na) vyrozumí strojvedoucího prostřednictvím telekomunikačního zařízení o poplachu IHL stupně STOP a nutnosti okamžitého zastavení vlaku, závazně takto: „Vlak (číslo vlaku), indikováno horké ložisko stupně STOP, okamžitě zastavte!“;\nb) není-li vyrozumění strojvedoucího pomocí telekomunikačního zařízení úspěšné, použije k zastavení vlaku následující úkony: použití nouzového volání v základním nebo náhradním rádiovém spojení podle tabulek traťových poměrů, vypnutí trakčního vedení v příslušné traťové koleji, přestavení příslušných návěstidel na návěst zakazující jízdu. K zastavení vlaku však výpravčí nesmí použít generálního ani adresného stopu příslušné rádiové sítě, neodvrací-li zároveň jiné nebezpečí. […]\nc) po zastavení vlaku oznámí strojvedoucímu prostřednictvím telekomunikačního zařízení číslo nápravy od začátku/konce vlaku (pořadí nápravy vlaku) a stranu vlaku;\nd) ve spolupráci se strojvedoucím (případně jiným zástupcem dopravce, kterého strojvedoucí oznámí) doplní diagnostickou zprávu: číslem vlaku, názvem dopravce a číslem vozidla […]; nálezem (zjištěnou skutečností) a uvedením příjmení strojvedoucího nebo jiného zástupce dopravce, který detekovanou závadu na místě posoudil.",
+  "distraktory": [
+   "„Vlak (číslo vlaku), indikováno horké ložisko stupně STOP, zastavte v nejbližší stanici!“",
+   "„Pozor, pozor, vlak (číslo vlaku), indikováno horké ložisko stupně STOP, zastavte všemi prostředky!“"
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Doplněno 20. 9. 2026 z dodané přílohy ObŘ (Pokyny pro obsluhu vyhodnocovacích zařízení – ASDEK/DZJV). Znění je v příloze uvedeno jako závazné. Pro stupeň K zní obdobně: „Vlak (číslo vlaku), indikováno horké ložisko stupně K, zastavte v ŽST …!“"
+ },
+ {
+  "n": 80,
+  "otazka": "Před odjezdem vlaku po obdržení rozkazu k odjezdu strojvedoucí zjistí, že nemůže s vlakem odjet (porucha HV, porucha dveří, VZ,….). Jaký bude jeho další postup?",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 360 odst. (7)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (3), (6)"
+   },
+   {
+    "predpis": "ČD V2",
+    "clanek": "čl. 153"
+   }
+  ],
+  "odpoved": "Vlak neuvede do pohybu a závadu neprodleně oznámí výpravčímu i s přibližnou dobou jejího odstranění; výpravčí odvolá výpravu vlaku, strojvedoucí ji potvrdí a řídí se jeho pokyny.",
+  "plne_zneni": "SŽ D1 čl. 356 odst. (6): Výpravčí vypravuje vždy strojvedoucího vedoucího vozidla vlaku. Ten uposlechne pokynu k uvedení vozidla do pohybu jen tehdy, je-li si jist, že tento pokyn platí pro jeho vlak. Strojvedoucí může uvést vlak do pohybu až po provedení úkonů stanovených vnitřním předpisem dopravce.\n\nSŽ D1 čl. 360 odst. (7): Pokud je z jakéhokoliv důvodu nutné, aby výpravčí odvolal výpravu vlaku, musí postupovat následovně:\na) výpravčí oznámí strojvedoucímu odvolání výpravy vlaku telekomunikačním zařízením takto: „Ruším výpravu vlaku 550 ve stanici Řevnice ze druhé koleje do stanice Třebaň. Bára“ a poté sdělí strojvedoucímu důvod odvolání výpravy vlaku, a jakým způsobem bude znovu vypraven;\nb) strojvedoucí musí potvrdit, že pokynu k odvolání výpravy vlaku rozumí takto: „Zrušena výprava vlaku 550 ve stanici Řevnice ze druhé koleje do stanice Třebaň. Rozumí strojvedoucí vlaku 550“. Teprve po potvrzení strojvedoucího, že pokynu o odvolání výpravy vlaku rozuměl, může výpravčí přestavit hlavní návěstidlo do polohy Stůj a případně odvolat vlakovou cestu. Pokud výpravčí odvolává výpravu vlaku, která byla udělena písemným rozkazem, musí zneplatnit vydaný písemný rozkaz a provést novou výpravu vlaku.\n\nČD V2 čl. 153: Zjistí-li strojvedoucí na přiděleném vozidle závadu, která ovlivní nebo brání jeho další jízdě, oznámí to neprodleně výpravčímu a uvede přibližnou dobu k odstranění závady. Jestliže zjištěnou závadu nemůže strojvedoucí odstranit, oznámí to neprodleně výpravčímu a postupuje dle přílohy 8 a 9 tohoto předpisu. Závadu vždy eviduje předepsaným způsobem (pomocí aplikace SH SAP apod.).",
+  "distraktory": [
+   "Vlak neuvede do pohybu a neprodleně o tom s uvedením důvodu vyrozumí dispečera osobní dopravy ČD; výpravu vlaku si odvolá sám a výpravčímu poruchu ohlásí až po jejím odstranění.",
+   "Vyčká na odstranění poruchy a výpravčího nevyrozumívá; udělená výprava vlaku zůstává v platnosti a po odstranění poruchy může vlak uvést do pohybu bez dalšího pokynu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Předpisy neobsahují článek výslovně nazvaný „strojvedoucí nemůže odjet“; odpověď je složena z SŽ D1 čl. 356 odst. (3) a (6) (bez výpravy nesmí uvést vlak do pohybu), čl. 360 odst. (7) (odvolání výpravy včetně závazného slovního znění – iniciuje je výpravčí na základě informace strojvedoucího) a z ČD V2 čl. 153 (oznámení závady výpravčímu včetně přibližné doby odstranění)."
+ },
+ {
+  "n": 81,
+  "otazka": "K jakému spojení se používá zkrácená volba v systému GSM-R?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 44 odst. (2) c)"
+   },
+   {
+    "predpis": "Provozní řád GSM-R",
+    "clanek": "kap. 9.2.4"
+   },
+   {
+    "predpis": "Provozní řád GSM-R",
+    "clanek": "Příloha B"
+   }
+  ],
+  "odpoved": "K adresnému spojení podle polohy volajícího se zaměstnancem řízení provozu: provozní dispečer 1200, výpravčí 1300, elektrodispečer 1400 (dílčí adresné ZV 1331–1360).",
+  "plne_zneni": "SŽ Z11 čl. 44 odst. (2) c): Adresování v závislosti na poloze umožňuje adresné směrování odchozích hovorů z koncového pohyblivého terminálu (zpravidla VR a vybraných MT) na koncový pevný terminál, a to dle oblasti, v níž se právě nachází volající účastník. Jedná se o volbu pro volání provozního dispečera (zkrácená volba 1200) nebo výpravčího (zkrácená volba 1300) nebo elektrodispečera (zkrácená volba 1400). V případě potřeby jsou v požadovaných oblastech definované také tzv. dílčí (adresné) zkrácené volby výpravčích (např. 1331 až 1350), případně dalších specifických účastníků sítě.\n\nProvozní řád GSM-R Příloha B: […] Dílčí zkrácené volby „1331 až 1360“ lze použít na spojení již z hranice obvodu celého železničního uzlu (úseku trati DOZ). Použitím adresných zkrácených voleb je zajištěná jednoznačná adresnost volaného. Každá ŽST v uzlu (na trati), pokud to dopravní hledisko vyžaduje a technické možnosti sítě GSM-R CZ dovolí, má zkrácenou volbu „1300“ s výjimkou stanic v obvodu DOZ (CDP), kdy v každém příslušném řízeném úseku DOZ je zkrácená volba 1300 nebo 13xx směrována zpravidla na příslušného výpravčího DOZ, traťového nebo úsekového dispečera CDP.\n\nProvozní řád GSM-R kap. 9.2.4: Adresné zkrácené volby platné pro specifická rádiová spojení jsou uvedeny v Příloze B. […] Po dobu platnosti přílohy B je povinnost strojvedoucích uvedené adresné ZV v příslušné oblasti (obvodu) pro spojení s příslušným pracovištěm řízení provozu používat.",
+  "distraktory": [
+   "K adresnému spojení podle polohy volajícího se zaměstnancem řízení provozu: výpravčí 1200, provozní dispečer 1300, elektrodispečer 1400 (dílčí adresné ZV 1331–1360).",
+   "K nouzovému volání všech účastníků v dané oblasti (G-STOP) a ke skupinovému spojení při posunu; volí se dvoumístným funkčním kódem 01 až 05 podle druhu činnosti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 82,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q082_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 148 odst. (6)"
+   }
+  ],
+  "odpoved": "Návěst „Povolte brzdy úplně“ – přikazuje strojvedoucím činných HV zvýšit tažnou sílu a zaměstnancům u ručních brzd úplné povolení brzd; potvrzuje se jí i převzetí návěsti Odjezd.",
+  "plne_zneni": "SŽ D1 čl. 148 odst. (6): Povolte brzdy úplně\njeden dlouhý a dva krátké zvuky lokomotivní houkačkou\n• dává strojvedoucí vedoucího vozidla\n• přikazuje strojvedoucím činných hnacích vozidel zařazených do soupravy zvýšit tažnou sílu hnacího vozidla\n• zaměstnancům obsluhujícím ruční brzdy přikazuje tato návěst úplné povolení ručních brzd\n• touto návěstí musí strojvedoucí vedoucího vozidla jedoucího vlaku ve stanici potvrdit převzetí pokynu návěsti Odjezd\n\nSŽ D1 čl. 148 odst. (5): Zabrzděte úplně – tři krátké zvuky lokomotivní houkačkou […]\n\nSŽ D1 čl. 148 odst. (7): Požární poplach – skupina dlouhého a dvou krátkých zvuků, opakovaná nejméně po dobu jedné minuty lokomotivní houkačkou • upozorňuje zaměstnance na požár",
+  "distraktory": [
+   "Návěst „Zabrzděte úplně“ – přikazuje strojvedoucím činných HV zastavit činnost hnacího vozidla a zaměstnancům u ručních brzd utažení ručních brzd k zastavení soupravy.",
+   "Návěst „Požární poplach“ – upozorňuje zaměstnance na požár; skupinu zvuků musí strojvedoucí vedoucího vozidla opakovat nejméně po dobu jedné minuty."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 83,
+  "otazka": "Jaký je název návěsti?",
+  "obrazky": [
+   "img/q083_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (28)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (1)"
+   }
+  ],
+  "odpoved": "„Rychlost 100 km/h a očekávejte rychlost 40 km/h“ – žluté světlo se dvěma vodorovnými zelenými pruhy a nad ním pomalu přerušované žluté světlo.",
+  "plne_zneni": "SŽ D1 čl. 113 odst. (28): Rychlost 100 km/h a očekávejte rychlost 40 km/h – žluté světlo doplněné pod ním dvěma vodorovnými zelenými pruhy a nad ním pomalu přerušované žluté světlo.\n\nSŽ D1 čl. 113 odst. (1): Návěsti vyjádřené dvěma světly dovolují jízdu vlaku a: a) Dolním světlem, případně doplněným indikátorem, světelnými pruhy nebo číslicí […] přikazují strojvedoucímu jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše návěstěnou rychlostí. b) Horním světlem […] předvěstí návěst následujícího hlavního návěstidla. Předvěstění je vyjádřeno druhou částí názvu návěsti: … a výstraha, … a volno, … a očekávejte rychlost … km/h.\n\n(Srovnej čl. 113 odst. (27): Rychlost 80 km/h a očekávejte rychlost 40 km/h – žluté světlo doplněné pod ním JEDNÍM vodorovným zeleným pruhem a nad ním pomalu přerušované žluté světlo.)",
+  "distraktory": [
+   "„Rychlost 80 km/h a očekávejte rychlost 40 km/h“ – žluté světlo s jedním vodorovným zeleným pruhem a nad ním pomalu přerušované žluté světlo.",
+   "„Rychlost 100 km/h a očekávejte rychlost 60 km/h“ – žluté světlo se dvěma vodorovnými zelenými pruhy a nad ním rychle přerušované žluté světlo."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Dvě řady zelených světelných bodů = dva vodorovné zelené pruhy (100 km/h); jeden pruh by znamenal 80 km/h. Pomalu přerušované žluté světlo nahoře předvěstí rychlost 40 km/h."
+ },
+ {
+  "n": 84,
+  "otazka": "Jaká návěst může být na nejbližším vjezdovém návěstidle?",
+  "obrazky": [
+   "img/q084_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 157 – Žluté mezikruží"
+   },
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 156"
+   }
+  ],
+  "odpoved": "Dvousvětlová návěst nařizující zmenšenou rychlost, určená světelnými pruhy a číslicemi (Rychlost 40, 60, 80 nebo 100 km/h a …); tou musí jet i v obvodu přilehlých výhybek.",
+  "plne_zneni": "SŽDC (ČD) T108 čl. 156: Návěstní opakovač je součástí vlakového zabezpečovače na hnacím vozidle. Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla následují za sebou na zábrzdnou vzdálenost, informuje strojvedoucího příslušným světlem o návěstním znaku návěstidla, k němuž se vlak blíží. […]\n\nSŽDC (ČD) T108 čl. 157 – Žluté mezikruží: Po rozsvícení žlutého mezikruží se rozezvučí houkačka vlakového zabezpečovače, pokud strojvedoucí neobsluhuje tlačítko bdělosti ve stanoveném intervalu.\nOd hlavního návěstidla na konci zábrzdné vzdálenosti a v obvodu výhybek přilehlém k návěstidlu musí vlak jet zmenšenou rychlostí, určenou dvousvětlovou návěstí, včetně světelných pruhů a číslic.",
+  "distraktory": [
+   "Jen návěst Stůj – po rozsvícení žlutého mezikruží musí vlak zastavit před nejbližším hlavním návěstidlem.",
+   "Kterákoliv návěst dovolující jízdu – žluté mezikruží rychlost následujícího návěstidla nepředvěstí, jen vyžaduje obsluhu tlačítka bdělosti."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Na obrázku je návěstní opakovač vlakového zabezpečovače (ne hlavní návěstidlo) s rozsvíceným žlutým mezikružím."
+ },
+ {
+  "n": 85,
+  "otazka": "Jaká návěst může být na vjezdovém návěstidle?",
+  "obrazky": [
+   "img/q085_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 157 – Červené světlo, písm. b) a c)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 138 odst. (1)"
+   },
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 156"
+   }
+  ],
+  "odpoved": "Návěst Stůj, přivolávací návěst (PN), nebo Opakování návěsti Výstraha – po té vlak zastaví až před návěstí Stůj dalšího návěstidla.",
+  "plne_zneni": "SŽDC (ČD) T108 čl. 156: Návěstní opakovač je součástí vlakového zabezpečovače na hnacím vozidle. Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla následují za sebou na zábrzdnou vzdálenost, informuje strojvedoucího příslušným světlem o návěstním znaku návěstidla, k němuž se vlak blíží. […]\n\nSŽDC (ČD) T108 čl. 157 – Červené světlo: Po rozsvícení červeného světla se rozezvučí houkačka vlakového zabezpečovače, pokud strojvedoucí neobsluhuje tlačítko bdělosti ve stanoveném intervalu.\na) Nejbližší oddílové nebo krycí návěstidlo ukazuje návěst 31, Stůj, a vlak musí před ním zastavit.\nb) Vjezdové, cestové nebo odjezdové návěstidlo, následující na zábrzdnou vzdálenost po předchozí návěsti 26, Výstraha, ukazuje návěst 31, Stůj, a vlak musí před ním zastavit.\nc) Nejbližší opakovací světelná předvěst, vjezdové, cestové nebo odjezdové návěstidlo ukazuje návěst „Opakování návěsti 26, Výstraha“ (příp. ve spojení se zmenšením rychlosti spodním světlem), a vlak musí za ním zastavit na nedostatečnou zábrzdnou vzdálenost (před návěstí 31, Stůj, dalšího návěstidla).\nStrojvedoucí musí až do zastavení vlaku periodicky obsluhovat tlačítko bdělosti; zanedbá-li obsluhu, vlak samočinně zastaví.\n\nSŽ D1 čl. 138 odst. (1): Přivolávací návěst (bílé přerušované světlo nad červeným světlem) dovoluje jízdu vlaku kolem hlavního návěstidla s návěstí Stůj a nařizuje jízdu podle rozhledových poměrů. – Návěstidlo s PN tedy zároveň návěstí Stůj, proto se na návěstní opakovač přenáší červené světlo.",
+  "distraktory": [
+   "Návěst Stůj, přivolávací návěst (PN), nebo Opakování návěsti Výstraha – před tou musí vlak zastavit stejně jako před návěstí Stůj.",
+   "Pouze návěst Stůj nebo přivolávací návěst (PN) – červené světlo návěstního opakovače vždy znamená, že nejbližší hlavní návěstidlo zakazuje jízdu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Na obrázku je návěstní opakovač vlakového zabezpečovače s rozsvíceným červeným světlem (ne hlavní návěstidlo). Návěstidlo s přivolávací návěstí návěstí zároveň Stůj, proto se i u PN přenáší na opakovač červené světlo."
+ },
+ {
+  "n": 86,
+  "otazka": "Jaká návěst může být na nejbližším oddílovém návěstidle?",
+  "obrazky": [
+   "img/q086_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "ČD T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 157 – Žluté světlo"
+   },
+   {
+    "predpis": "SŽDC (ČD) T108",
+    "clanek": "čl. 156"
+   }
+  ],
+  "odpoved": "Jen návěst Výstraha – oddílové návěstidlo rychlostní návěsti nenávěstí, takže žluté světlo opakovače u něj může znamenat pouze Výstrahu.",
+  "plne_zneni": "SŽDC (ČD) T108 čl. 156: Návěstní opakovač je součástí vlakového zabezpečovače na hnacím vozidle. Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla následují za sebou na zábrzdnou vzdálenost, informuje strojvedoucího příslušným světlem o návěstním znaku návěstidla, k němuž se vlak blíží. […]\n\nSŽDC (ČD) T108 čl. 157 – Žluté světlo: Nejbližší hlavní návěstidlo ukazuje návěst 26, Výstraha, nebo některou z návěstí: 6, Očekávejte rychlost 100 km/h; 11, Očekávejte rychlost 80 km/h; 16, Očekávejte rychlost 60 km/h; 21, Očekávejte rychlost 40 km/h.\nStupeň návěstěné (předvěstěné) rychlosti zjistí strojvedoucí z návěsti nejbližšího hlavního návěstidla; je-li jím oddílové návěstidlo, které je zhaslé, musí vlak zmenšovat rychlost tak, aby mohl zastavit před hlavním návěstidlem na konci zábrzdné vzdálenosti, zakazujícím jízdu.",
+  "distraktory": [
+   "Jen návěst Stůj – žluté světlo opakovače předvěstí na nejbližším oddílovém návěstidle návěst zakazující jízdu.",
+   "Návěst Výstraha nebo některá z návěstí Očekávejte rychlost 100, 80, 60 či 40 km/h podle světelných pruhů na návěstidle."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Na obrázku je návěstní opakovač vlakového zabezpečovače s rozsvíceným žlutým světlem. Návěsti Očekávejte rychlost … může návěstidlo dávat jen tehdy, jde-li o vjezdové, cestové nebo odjezdové návěstidlo – na oddílovém návěstidle připadá v úvahu jen Výstraha."
+ },
+ {
+  "n": 87,
+  "otazka": "Jakou nejvyšší rychlostí může jet vlak v případě, že není na HV přenášen kód VZ, tlačítko bdělosti periodicky prověřuje bdělost strojvedoucího a strojvedoucí o této závadě ví?",
+  "obrazky": [
+   "img/q087_1.png"
+  ],
+  "tema": "Vozidla a VZ",
+  "predpis": "SŽDC (ČSD) T108",
+  "zdroje": [
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 157 – Žádné světlo, písm. c) (znění změny č. 3)"
+   },
+   {
+    "predpis": "SŽDC (ČSD) T108",
+    "clanek": "čl. 192"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 269 odst. (22)"
+   }
+  ],
+  "odpoved": "Největší dovolenou rychlostí podle návěstí hlavních návěstidel a jejich předvěstí; bdělost prokazuje periodicky obsluhou tlačítka bdělosti.",
+  "plne_zneni": "SŽDC (ČSD) T108 čl. 157 (Žádné světlo), písm. c): Hnací vozidlo je na nekódovaném úseku (ve stanici, na trati); takové úseky musí strojvedoucí vždy znát. Strojvedoucí smí jet největší dovolenou rychlostí podle návěstí hlavních návěstidel a jejich předvěstí. Bdělost strojvedoucího je kontrolována a strojvedoucí ji periodicky prokazuje obsluhou tlačítka bdělosti, změnou polohy kontroléru nebo jiného ovládače; neprokáže-li bdělost ve stanoveném intervalu, vlak samočinně zastaví.\n\nSŽDC (ČSD) T108 čl. 192: Došlo-li na mobilní části VZ k poruše, při které je znemožněn pouze přenos návěstí a ostatní funkce zařízení jsou zachovány, nesmí strojvedoucí pro další jízdu vypínat mobilní část VZ a obsluhuje zařízení jako při jízdě na nekódovaných úsecích, při jízdě se řídí návěstmi hlavních návěstidel. Poruchu ohlásí až při nejbližším zastavení ve stanici.\n\nSŽ D1 čl. 269 odst. (22): Nejvyšší dovolená rychlost je stanovená rychlost vlaku omezená v daném místě na trati: […] b) traťovou rychlostí; […] d) hlavními návěstidly, popř. vlakovým zabezpečovačem […]",
+  "distraktory": [
+   "Nejvýše 100 km/h, a to podle návěstí hlavních návěstidel a jejich předvěstí; bdělost prokazuje periodicky obsluhou tlačítka bdělosti.",
+   "Nejvýše 30 km/h podle rozhledových poměrů až k následujícímu hlavnímu návěstidlu, od kterého se řídí návěstními znaky návěstidel."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Konkrétní rychlostní strop předpis pro tento případ nestanoví – omezení 30 km/h podle čl. 157 písm. a)/b) platí jen při nevysvětleném zhasnutí opakovače, zde strojvedoucí o závadě (nekódovaném úseku) ví. Rychlost může být omezena jen nepřímo brzdícími procenty: SŽ D1 čl. 291 odst. (18) a (19) váže využití dolních hodnot potřebných brzdících procent nad 120 km/h na přenos návěstí na vedoucí vozidlo."
+ },
+ {
+  "n": 88,
+  "otazka": "Jakými písmeny je označeno oddílové návěstidlo automatického hradla?",
+  "obrazky": [],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 94 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 95 odst. (1)"
+   }
+  ],
+  "odpoved": "Písmeny „Lo“ pro směr od začátku ke konci tratě a „So“ pro směr od konce k začátku; na dvou a vícekolejných tratích s číslem traťové koleje vpředu (např. „1Lo“, „2So“).",
+  "plne_zneni": "SŽ D1 čl. 94 odst. (1): Oddílová návěstidla hradel, hlásek a AH se označují:\na) písmeny „Lo“ pro směr od začátku ke konci tratě a písmeny „So“ pro směr od konce k začátku tratě;\nb) na dvou a vícekolejných tratí, musí mít před prvním písmenem číslo traťové koleje, pro kterou platí (např. „1Lo“, „2So“).\n\nSŽ D1 čl. 94 odst. (3): Oddílová návěstidla AB se označují: a) hodnotou nejbližšího lichého hektometru v případě umístění návěstidla ve směru od začátku ke konci trati (např. „1327“); b) hodnotou nejbližšího sudého hektometru […]; c) na vícekolejných tratích mají před vlastním označením ještě označení koleje, pro kterou platí a jsou od něj oddělena pomlčkou („2–1091“, „2-1092“ apod.).\n\nSŽ D1 čl. 95 odst. (1): Označovacím pásem červené a bílé barvy stejné délky se označují oddílová návěstidla: a) hlásek; b) hradel; c) automatických hradel; d) automatického bloku, která plní funkci krycího návěstidla.",
+  "distraktory": [
+   "Písmeny „Lk“ pro směr od začátku ke konci tratě a „Sk“ pro směr od konce k začátku; na dvou a vícekolejných tratích s číslem traťové koleje vpředu (např. „1Lk“, „2Sk“).",
+   "Hodnotou nejbližšího lichého, resp. sudého hektometru; na vícekolejných tratích je před ní číslo koleje oddělené pomlčkou (např. „2–1091“, „2-1092“)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 89,
+  "otazka": "Vlak zastavil u oddílového návěstidla AB s návěstí „Stůj“. Smí vlak pokračovat v další jízdě?",
+  "obrazky": [
+   "img/q089_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 107 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 107 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 95 odst. (2)"
+   }
+  ],
+  "odpoved": "Ano – bílý označovací pás znamená permisivní Stůj; nevidí-li v následujícím oddílu drážní vozidlo, jede po zastavení podle rozhledových poměrů k následujícímu hlavnímu návěstidlu.",
+  "plne_zneni": "SŽ D1 čl. 95 odst. (2): Označovacím pásem bílé barvy se označují pouze oddílová návěstidla AB s permisivním významem návěsti Stůj.\n\nSŽ D1 čl. 107 odst. (1): Nejzávažnější návěstí na oddílovém návěstidle AB s bílým označovacím pásem je návěst Stůj a má permisivní význam návěsti Stůj.\n\nSŽ D1 čl. 107 odst. (4): Je-li na oddílovém návěstidle AB s bílým označovacím pásem návěst Stůj, musí strojvedoucí vlaku s vedoucím vozidlem nevybaveným ETCS nebo s vedoucím vozidlem vybaveným mobilní částí ETCS, který nejede v módu Plný dohled (FS) nebo v módu Podle rozhledu (OS) před tímto návěstidlem zastavit a postupovat následovně:\na) Nevidí-li v následujícím traťovém oddílu drážní vozidlo, může pokračovat v další jízdě za návěstidlo s návěstí Stůj a k následujícímu hlavnímu návěstidlu musí dodržet podmínky jízdy podle rozhledových poměrů.\nb) Vidí-li v následujícím traťovém oddílu drážní vozidlo, musí vyčkat, až drážní vozidlo odjede z dohledu. Neobjeví-li se na oddílovém návěstidle AB návěst dovolující jízdu, může strojvedoucí pokračovat v další jízdě za návěstidlo s návěstí Stůj a k následujícímu hlavnímu návěstidlu musí dodržet podmínky jízdy podle rozhledových poměrů.\n\nSŽ D1 čl. 107 odst. (7): V případě, že je na oddílovém návěstidle AB s bílým označovacím pásem zřízen štít Op, musí strojvedoucí vlaku, který nejede v módu Plný dohled (FS) nebo Podle rozhledu (OS) při jízdě za toto oddílové návěstidlo AB na návěst Stůj dodržet podmínky jízdy se zvýšenou opatrností přes přejezdy s PZZ v následujícím traťovém oddílu.",
+  "distraktory": [
+   "Ano – bílý označovací pás znamená permisivní Stůj; po zastavení a uplynutí 5 minut jede podle rozhledových poměrů nejvýše 40 km/h k následujícímu hlavnímu návěstidlu.",
+   "Ne – za návěstidlo smí vlak pokračovat až na pokyn výpravčího přední stanice; strojvedoucí se mu po zastavení ohlásí po uplynutí 5 minut."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku má návěstidlo bílý označovací pás (celý stožár bílý) = permisivní význam návěsti Stůj podle čl. 107. U návěstidla s označovacím pásem s červenými a bílými pruhy by platil čl. 108 a odpověď by byla opačná (jen na pokyn výpravčího, ohlášení po 5 minutách) – viz schválená otázka 1."
+ },
+ {
+  "n": 90,
+  "otazka": "Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla a na návěstním opakovači svítí zelené světlo. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+  "obrazky": [
+   "img/q090_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 362 odst. (6) a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (5) a) bod 5."
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 361 odst. (4)"
+   },
+   {
+    "predpis": "ČD OP 36/2025-O18",
+    "clanek": "kap. 1A.0 – výprava vlaku, případ B3"
+   }
+  ],
+  "odpoved": "V čase odjezdu uvede vlak po provedení předepsaných úkonů do pohybu – zelené světlo opakovače je informací, že odjezdové návěstidlo návěstí Volno; pokyn výpravčího si nevyžaduje.",
+  "plne_zneni": "SŽ D1 čl. 362 odst. (6): Ve stanicích, kde je dovolena výprava vlaků z dopravní koleje návěstí hlavního návěstidla, se dále postupuje podle těchto ustanovení:\na) vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (nebo tuto skutečnost zjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), uvede po provedení dopravcem předepsaných úkonů vlak do pohybu.\nb) nevidí-li strojvedoucí, že hlavní návěstidlo […] dovoluje jízdu vlaku (a ani tuto skutečnost nezjistil […] z vlakového zabezpečovače), vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu. […] musí za odjezdu vlaku předpokládat, že návěstidlo, na které nevidí, dovoluje jízdu vlaku rychlostí 40 km/h (popř. PN) a tuto rychlost nesmí překročit.\n\nSŽ D1 čl. 356 odst. (5): Strojvedoucí, může obdržet informaci o skutečnosti, že: a) hlavní návěstidlo dovoluje jízdu i následovně: […] 5. přenosem kódu národního vlakového zabezpečovače […]\n\nSŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. […]\n\nČD OP 36/2025-O18 kap. 1A.0 (případ B3 – strojvedoucí výchozího vlaku, čl. 362 SŽ D1): Vlak je vypraven návěstí „Volno“ odjezdového návěstidla (tato návěst je přenášena návěstním opakovačem na HV).",
+  "distraktory": [
+   "V čase odjezdu uvede vlak po provedení předepsaných úkonů do pohybu, k nejbližšímu hlavnímu návěstidlu však nesmí překročit rychlost 40 km/h.",
+   "Vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu – podle návěsti návěstního opakovače nesmí být vlak vypraven a musí být vypraven výpravkou."
+  ],
+  "jistota": "vysoká"
+ }
+]

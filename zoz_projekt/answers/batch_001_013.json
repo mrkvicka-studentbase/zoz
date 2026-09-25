@@ -1,0 +1,373 @@
+[
+ {
+  "n": 1,
+  "otazka": "Vlak zastavil před oddílovým návěstidlem AB s návěstí „Stůj“. V následujícím traťovém oddílu je výhybka odbočující ze širé tratě. Za jakých podmínek a jakým způsobem může vlak pokračovat v jízdě?",
+  "obrazky": [
+   "img/q001_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 108 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 108 odst. (5)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 108 odst. (1)"
+   }
+  ],
+  "odpoved": "Vlak smí pokračovat za návěstidlo jen na pokyn výpravčího přední stanice (popř. prostřednictvím výpravčího zadní stanice); strojvedoucí se mu ohlásí po 5 minutách.",
+  "plne_zneni": "SŽ D1 čl. 108 odst. (1): Nejzávažnější návěstí na oddílovém návěstidle AB s označovacími pásy s červenými a bílými pruhy je návěst Stůj a má absolutní význam návěsti Stůj.\n\nSŽ D1 čl. 108 odst. (4): Je-li na oddílovém návěstidle AB s označovacím pásem s červenými a bílými pruhy návěst Stůj, musí strojvedoucí vlaku před tímto oddílovým návěstidlem zastavit. Pokračovat za úroveň tohoto návěstidla může na pokyn výpravčího přední stanice (popř. i prostřednictvím výpravčího zadní stanice).\n\nSŽ D1 čl. 108 odst. (5): Strojvedoucí se po zastavení před návěstí Stůj oddílového návěstidla AB s označovacím pásem s červenými a bílými pruhy ohlásí po uplynutí 5 minut výpravčímu přední stanice. Je-li platné oddílové návěstidlo AB s označovacím pásem s červenými a bílými pruhy poškozené, ohlásí se strojvedoucí výpravčímu přední stanice ihned po zastavení vlaku u tohoto oddílového návěstidla. Není-li možné dorozumění s výpravčím přední stanice, ale strojvedoucí má spojení telekomunikačním zařízením s výpravčím zadní stanice, může další jízdu sjednat prostřednictvím výpravčího zadní stanice.",
+  "distraktory": [
+   "Vlak smí pokračovat za návěstidlo jen na pokyn výpravčího přední stanice (popř. prostřednictvím výpravčího zadní stanice); strojvedoucí se mu ohlásí ihned po zastavení.",
+   "Vlak smí po zastavení pokračovat bez svolení výpravčího podle rozhledových poměrů nejvýše 40 km/h až k následujícímu hlavnímu návěstidlu; návěst Stůj je zde permisivní."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 2,
+  "otazka": "Strojvedoucímu se nepodařilo provést zkoušku spojení kódovaným hlášením „D“ u rádiovníku s návěstí „Přepněte kanálovou skupinu - 65“. Jaký bude jeho další postup?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 32 odst. (4)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 32 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 32 odst. (3)"
+   }
+  ],
+  "odpoved": "Naváže hlasové spojení s výpravčím (dispečerem) rádiového úseku a tím provede zkoušku spojení; opakuje-li se nemožnost zkoušky „D“, jedná se o poruchu.",
+  "plne_zneni": "SŽ Z11 čl. 32 odst. (2): Zkoušku spojení VR provádí strojvedoucí příslušného HDV odesláním kódovaného hlášení „D“ v těchto případech: a) při vzniku vlaku/PMD […]; b) při každé změně čísla vlaku nebo změně rozlišovacího čísla […]; c) na základě návěsti radiovníku.\n\nSŽ Z11 čl. 32 odst. (3): Zkoušku spojení VR provádí strojvedoucí s výpravčím (dispečerem), v jehož rádiovém úseku se nalézá, nebo do kterého bude vjíždět. Provedení zkoušky spojení se nezapisuje, registrace je vedena automaticky na příslušném záznamovém zařízení.\n\nSŽ Z11 čl. 32 odst. (4): Zkouška spojení VR se provádí jednotně a postup provedení je uveden v Příloze E. Nelze-li provést zkoušku spojení kódovaným hlášením „D“, naváže strojvedoucí hlasové spojení s výpravčím (dispečerem), a tím provede zkoušku spojení. Jestliže se nemožnost provedení zkoušky spojení kódovaným hlášením „D“ opakuje, jedná se o poruchu.",
+  "distraktory": [
+   "Naváže hlasové spojení s výpravčím (dispečerem) rádiového úseku a tím provede zkoušku spojení; opakuje-li se nemožnost zkoušky „D“, vlak nesmí pokračovat v jízdě.",
+   "Zopakuje zkoušku kódovaným hlášením „D“ ještě dvakrát; nezdaří-li se ani napotřetí, ponechá nastavenou původní kanálovou skupinu a jedná se o poruchu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 3,
+  "otazka": "Volací čísla pro adresné zkrácené volby v systému GSM-R strojvedoucí nalezne:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "Provozní řád GSM-R",
+  "zdroje": [
+   {
+    "predpis": "Provozní řád GSM-R",
+    "clanek": "kap. 9.2.4"
+   },
+   {
+    "predpis": "Provozní řád GSM-R",
+    "clanek": "Příloha B"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 44 odst. (2) c)"
+   }
+  ],
+  "odpoved": "V Provozním řádu traťové rádiové sítě GSM-R CZ, konkrétně v jeho Příloze B (adresné zkrácené volby platné pro specifická rádiová spojení).",
+  "plne_zneni": "Provozní řád GSM-R kap. 9.2.4: Adresné zkrácené volby platné pro specifická rádiová spojení jsou uvedeny v Příloze B. Tato příloha je platná do doby uvedení kontaktů zaměstnanců řízení provozu pro příslušná telekomunikační zařízení v TTP (v nové samostatné tabulce pro příslušnou trať – „spojení se zaměstnanci řízení provozu“). Po dobu platnosti přílohy B je povinnost strojvedoucích uvedené adresné ZV v příslušné oblasti (obvodu) pro spojení s příslušným pracovištěm řízení provozu používat.\n\nProvozní řád GSM-R Příloha B: […] Dílčí zkrácené volby „1331 až 1360“ lze použít na spojení již z hranice obvodu celého železničního uzlu (úseku trati DOZ). […] Po dobu platnosti této přílohy dle čl. 9.2.4 pro příslušnou trať (tratě) je samostatný seznam níže uvedených adresných ZV k dispozici na Portálu provozování dráhy ve společné složce s tímto PŘ.\n\nSŽ Z11 čl. 48 odst. (1): Adresná volba jednotlivých účastníků systému GSM-R CZ je prováděna podle údajů uvedených v dokumentu Telefonní seznam GSM-R CZ, který je zveřejněn na Portálu provozování dráhy SŽ. […]\n\nSŽ Z11 čl. 44 odst. (2) c): Adresování v závislosti na poloze umožňuje adresné směrování odchozích hovorů […]. Jedná se o volbu pro volání provozního dispečera (zkrácená volba 1200) nebo výpravčího (zkrácená volba 1300) nebo elektrodispečera (zkrácená volba 1400). V případě potřeby jsou v požadovaných oblastech definované také tzv. dílčí (adresné) zkrácené volby výpravčích (např. 1331 až 1350), případně dalších specifických účastníků sítě.",
+  "distraktory": [
+   "V předpisu SŽ Z11, konkrétně v jeho Příloze B (adresné zkrácené volby platné pro specifická rádiová spojení).",
+   "V tabulkách traťových poměrů (TTP) pojížděné trati, v tabulce spojení se zaměstnanci řízení provozu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Provozní řád traťové rádiové sítě GSM-R CZ je v tabletu – najdeš ho zadáním „GSM“ do vyhledávání."
+ },
+ {
+  "n": 4,
+  "otazka": "Jaké údaje (FN a FC) nastaví strojvedoucí HV na radiostanici v systému GSM-R při posunu z depa na vlak?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 58 odst. (4) h)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 47 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha I"
+   }
+  ],
+  "odpoved": "Zaregistruje FN vlaku (CT 2 + pětimístné číslo vlaku) s funkčním kódem FC 01, pokud toto FN dosud není obsazeno stávajícím vedoucím HDV vlaku.",
+  "plne_zneni": "SŽ Z11 čl. 58 odst. (4): Ponechání registrovaného FN s FC 01 lze použít při posunu v těchto případech: […] h) pro jízdu HDV od vlaku do depa / na vlečku (pokud není nutné použít FN pro nově nastupující HDV stejného vlaku) a opačně pro jízdu HDV z depa/vlečky na vlak (pokud není shodné FN vlaku dosud obsazeno stávajícím vedoucím HDV); […]\n\nSŽ Z11 čl. 58 odst. (8): FN s FC 03 nebo FC 04 pro spojení „bod – bod“ při posunu (včetně čekání na provozní výkon a souvisejícího provedení posunu) jsou z důvodu přehlednosti v organizaci práce v řízeném obvodu k dispozici výpravčímu pro příslušnou oblast a jejich použití zcela podléhá jeho rozhodnutí a provozním potřebám. […]\n\nSŽ Z11 čl. 47 odst. (3), tabulka 17 – Funkční kódy: 01 vedoucí HDV na vlaku; 02 vlakové HDV na vlaku s přípřežním HDV nebo vložené HDV; 03 HDV odstupující od vlaku nebo čekající na vlak; 04 HDV odstupující od vlaku nebo čekající na vlak; 05 postrkové HDV.",
+  "distraktory": [
+   "Zaregistruje FN vlaku (CT 2 + pětimístné číslo vlaku) s funkčním kódem FC 03; FC 01 nastaví až po přivěšení na soupravu a zkoušce brzdy.",
+   "Zaregistruje FN HDV (CT 3 + 54 + šestimístné číslo HDV) s funkčním kódem FC 01; FN vlaku zaregistruje až po ukončení posunu na pokyn výpravčího."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 5,
+  "otazka": "Jaký bude postup strojvedoucího, který nezná po ukončení jízdy vlaku další nasazení HV a radiostanici má zaregistrovanou v systému GSM-R?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 52 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 58 odst. (8)"
+   }
+  ],
+  "odpoved": "Provede odregistraci FN vlaku (radiostanice zůstane přihlášena bez FN); FN s FC 03/04 pro čekání na výkon a posun přidělí výpravčí.",
+  "plne_zneni": "SŽ Z11 čl. 52 odst. (1): Strojvedoucí vlaku (PMD) musí provést odregistraci FN vlaku s funkčním kódem (FC) odpovídajícím jeho provozní pozici a podle pokynů platných DAP v těchto případech: • po ukončení jízdy vlaku v cílové stanici uvnitř oblasti vybavené GSM-R CZ, vyjma případů uvedených v odstavcích (2) až (5) čl. 58; […] • před ukončením provozu HDV uvnitř oblasti vybavené GSM-R CZ; […]\n\nSŽ Z11 čl. 58 odst. (8): FN s FC 03 nebo FC 04 pro spojení „bod – bod“ při posunu (včetně čekání na provozní výkon a souvisejícího provedení posunu) jsou z důvodu přehlednosti v organizaci práce v řízeném obvodu k dispozici výpravčímu pro příslušnou oblast a jejich použití zcela podléhá jeho rozhodnutí a provozním potřebám. • Výpravčí tak může využít FN s FC 03 nebo FC 04 dle vlastních dispozic, s přihlédnutím k informacím od strojvedoucích o dalším nasazení HDV […]. • Pokud není v PŘ GSM-R […] uvedeno jinak, je používání FN s FC 03 nebo FC 04 při přepnutí ze základního rádiového spojení do rádiového spojení „bod – bod“ pro komunikaci při posunu a zpět do základního rádiového spojení, vždy podmíněno souhlasem výpravčího nebo může být realizováno pouze na jeho pokyn!",
+  "distraktory": [
+   "Provede odregistraci FN vlaku (radiostanice zůstane přihlášena bez FN); FN s FC 03/04 pro čekání na výkon a posun si nastaví sám.",
+   "Ponechá FN vlaku s FC 01 zaregistrované, dokud se nedozví další nasazení HV; teprve poté FN změní nebo odregistruje."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 6,
+  "otazka": "Jaké volací číslo použije strojvedoucí pro volání hnacího vozidla Českých drah, a.s. 162 053-3 v systému GSM-R?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha H, tab. H.1 a bod H.1.1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 47 odst. (2)"
+   }
+  ],
+  "odpoved": "FN HDV = CT 3 + kód země 54 + šestimístné číslo HDV bez kontrolní číslice + FC 01, tedy 3 54 162 053 01.",
+  "plne_zneni": "SŽ Z11 Příloha H, tab. H.1 – Sestavení FN podle typu hnacího vozidla: HDV CZ (54) v čele vlaku – Z PA zjistit číslo HDV (např. 162 001) – volba FN na terminálu: 3 54 162 001 01.\n\nSŽ Z11 Příloha H bod H.1.1 (1): Vstupní podmínky sestavy FN: a) Typ spojení (CT) 3 – HV / 4 – řídící vozy; b) Země registrace (RRC) 54 – ČR / 56 – Slovensko / 51 – Polsko; c) Číslo HDV (EN) 6 čísel HDV bez kontrolní číslice; d) Číslo řídícího vozu (EN) 7 čísel HDV bez kontrolní číslice; e) Funkční kód (FC) 01 / 01 nebo 02 (souprava LEO EXPRESS).\n\nSŽ Z11 čl. 47 odst. (2), tabulka 16 – Typy volání: 2 FN vlaku; 3 FN HDV; 4 FN vozu; […]",
+  "distraktory": [
+   "FN HDV = CT 3 + kód země 54 + číslo HDV včetně kontrolní číslice + FC 01, tedy 3 54 162 053 3 01.",
+   "FN HDV = CT 4 + kód země 54 + šestimístné číslo HDV bez kontrolní číslice + FC 01, tedy 4 54 162 053 01."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 7,
+  "otazka": "Jak zní informace o návěsti dovolující jízdu vlaku telekomunikačním zařízením pro vlak 19524, který stojí na třetí koleji ve stanici Eden?",
+  "obrazky": [],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 358 odst. (2) a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 358 odst. (1)"
+   }
+  ],
+  "odpoved": "„Odjezdové návěstidlo S3 ve stanici Eden dovoluje jízdu vlaku 19524.“ (sudý vlak odjíždí ze 3. koleje kolem návěstidla S3)",
+  "plne_zneni": "SŽ D1 čl. 358 odst. (1): Ustanovení tohoto článku se aplikují v případě, že příslušné návěstidlo dovoluje jízdu vlaku, ale strojvedoucí na návěst návěstidla, kterým je vypravován, nevidí.\n\nSŽ D1 čl. 358 odst. (2): Výpravčí může informovat strojvedoucího vlaku telekomunikačním zařízením o skutečnosti, že návěst návěstidla dovoluje jízdu vlaku (i v případě poškození návěstního napodobovače) takto:\na) pokud je jízda vlaku kolem návěstidla dovolována návěstí dovolující jízdu vlaku (vyjma PN, Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů):\n• „Cestové návěstidlo Lc3 ve stanici Luh dovoluje jízdu vlaku 881.“ nebo\n• „Stop značka Lc3 ve stanici Luh dovoluje jízdu vlaku 881.\"\nb) pokud je jízda vlaku kolem návěstidla dovolována PN:\n• „Odjezdové návěstidlo S3 ve stanici Luh dovoluje jízdu vlaku 882 přivolávací návěstí.“ […]\nc) pokud je jízda vlaku kolem návěstidla dovolována Jízda podle rozhledových poměrů nebo Rychlost 40 km/h a jízda podle rozhledových poměrů:\n• „Cestové návěstidlo Lc3 ve stanici Luh nařizuje jízdu vlaku 881 podle rozhledových poměrů.“",
+  "distraktory": [
+   "„Odjezdové návěstidlo L3 ve stanici Eden dovoluje jízdu vlaku 19524.“ (sudý vlak odjíždí ze 3. koleje kolem návěstidla L3)",
+   "„Odjezdové návěstidlo S3 ve stanici Eden dovoluje jízdu vlaku 19524 přivolávací návěstí.“ (odjezd sudého vlaku ze 3. koleje)"
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Označení návěstidla (S3 pro sudý směr) vyplývá z čísla vlaku 19524 (sudé) a koleje 3; předpokládá se odjezd návěstí dovolující jízdu (ne PN)."
+ },
+ {
+  "n": 8,
+  "otazka": "Za jízdy vlaku R 663 za ŽST Nezvěstice dojde k poruše radiostanice a strojvedoucí se nemůže spojit s výpravčím (dispečerem) jiným způsobem. Jak bude strojvedoucí postupovat?",
+  "obrazky": [
+   "img/q008_1.png"
+  ],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 69 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 13 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 70 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 64 odst. (3)"
+   }
+  ],
+  "odpoved": "Rychlost omezovat nemusí (stanovená rychlost vlaku je 100 km/h); dojede do nejbližší stanice obsazené výpravčím – Nepomuk, tam poruchu ohlásí a jede dle jeho pokynů.",
+  "plne_zneni": "SŽ Z11 čl. 69 odst. (2): Dojde-li k náhlé ztrátě funkčnosti základního nebo náhradního rádiového spojení v době, kdy je vlak (PMD) používá, je strojvedoucí povinen o této skutečnosti neprodleně informovat příslušného výpravčího, který řídí úsek, v němž se vlak (PMD) nachází a dále musí být postupováno v souladu s ustanovením odst. (2) následujícího článku.\n\nSŽ Z11 čl. 13 odst. (3): Poruchu VR ohlašuje strojvedoucí dle vnitřních předpisů dopravce a pokyny pro její ohlášení musí být uvedeny v příslušném PŘ RS. O poruše VR musí strojvedoucí vždy neprodleně informovat příslušného výpravčího (dispečera). V případě poruchy VR při jízdě vlaku (PMD) jsou další podmínky uvedeny v čl. 70.\n\nSŽ Z11 čl. 70 odst. (2): Strojvedoucí po odjezdu vlaku z výchozí ŽST oznámil poruchu základního rádiového spojení na HDV prostřednictvím nouzového spojení: Výpravčí […] a) ohlásí zjištěné skutečnosti provoznímu dispečerovi a projedná s ním jízdu vlaku do nejbližší vhodné ŽST […]; b) nařídí strojvedoucímu sepsání písemného rozkazu, ve kterém mu nařídí nepřekročit rychlost 100 km/hod (pokud je rychlost vlaku vyšší); c) jízda vlaku může být následně dovolena nejdále do nejbližší vhodné ŽST.\n\nSŽ Z11 čl. 70 odst. (3): […] Pokud se výpravčímu nepodaří se strojvedoucím navázat spojení ani prostřednictvím nouzového spojení, ohlásí zjištěné skutečnosti provoznímu dispečerovi a projedná s ním zastavení vlaku v nejbližší vhodné ŽST.\n\nSŽ Z11 čl. 64 odst. (3): Při použití nouzového spojení, jako jediného dostupného spojení na HDV, nesmí strojvedoucí překročit rychlost 100 km/h.",
+  "distraktory": [
+   "Rychlost sníží na nejvýše 60 km/h a dojede do nejbližší stanice obsazené výpravčím – Nepomuk, tam poruchu ohlásí a jede dle jeho pokynů.",
+   "Ihned zastaví na širé trati, vlak zajistí proti ujetí a vyčká, až se s ním výpravčí spojí prostřednictvím jiného vlaku nebo zaměstnance na trati."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Limit 100 km/h podle SŽ Z11 čl. 64 odst. (3) se neuplatní, protože stanovená rychlost vlaku je 100 km/h – rychlost se tedy nesnižuje. Nejbližší stanice obsazená výpravčím je Nepomuk."
+ },
+ {
+  "n": 9,
+  "otazka": "Jak provede strojvedoucí zkoušku spojení v systému GSM-R?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 53 písm. a)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 10 odst. (4)"
+   }
+  ],
+  "odpoved": "Zaregistrováním FN vlaku v síti GSM-R CZ a kontrolou výsledku funkční registrace na displeji vozidlové radiostanice; provedení se nezapisuje.",
+  "plne_zneni": "SŽ Z11 čl. 53: Zkouška spojení se provádí z důvodu ověření funkčnosti pohyblivého terminálu ve vztahu k zajištění potřebné rádiové komunikace. Provedení zkoušky spojení se nezapisuje.\na) Uživatel koncového mobilního terminálu (VR) provede zkoušku spojení zaregistrováním FN v síti GSM-R CZ a následně zkontroluje výsledek funkční registrace podle údajů na displeji VR.\nb) Uživatel koncového mobilního terminálu (přenosný MT) provede zkoušku spojení po jeho zapnutí a jeho automatické registraci v síti GSM-R, příp. po zaregistrování FN odpovídajícímu svému pracovnímu zařazení a zkontroluje výsledek funkční registrace podle údajů na displeji MT.",
+  "distraktory": [
+   "Zaregistrováním FN vlaku v síti GSM-R CZ a následným hlasovým voláním výpravčího zkrácenou volbou 1300; provedení zkoušky výpravčí zapíše.",
+   "Odesláním kódovaného hlášení „D“ výpravčímu a vyčkáním na kódový příkaz „Potvrzení zkoušky“ na displeji radiostanice; zápis se neprovádí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 10,
+  "otazka": "Vlak zastavil v ŽST Praha Dejvice. V jaký čas může odjet?",
+  "obrazky": [
+   "img/q010_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "Vysvětlení zkratek a značek v TJŘ (od 14. 12. 2025)",
+    "clanek": "sloupec 7 „odjezd“"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 287 odst. (5) e)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 287 odst. (5)"
+   }
+  ],
+  "odpoved": "Vlak může po výpravě odjet s náskokem nejdříve v čase pravidelného příjezdu, tj. v 8:08; nemusí čekat na pravidelný odjezd 8:11,5.",
+  "plne_zneni": "Vysvětlení zkratek a značek v TJŘ (Správa železnic, platí od 14. prosince 2025) – Sloupec 7 „odjezd“:\n• odjezd vlaku s přepravou cestujících s náskokem ihned po výstupu cestujících\n• odjezd vlaku s přepravou cestujících s náskokem, nejdříve však v čase pravidelného příjezdu\n• nenavazující čas příjezdu a odjezdu\n\nSŽ D1 čl. 287 odst. (5): S náskokem nesmí odjet žádný vlak s přepravou cestujících, jehož doba odjezdu byla závazně oznámena veřejnosti. Odjezd vlaku s přepravou cestujících s náskokem je však dovolen: a) u vlaku ve stanici pravidelně projíždějícího; b) je-li v TJŘ vlaku před časovým údajem příjezdu značka „+“, vyjadřující zastavení z dopravních důvodů […]; c) je-li v TJŘ vlaku před časovým údajem příjezdu značka […], vyjadřující nezveřejněné zastavení […] „SLD“ […]; d) je-li v TJŘ vlaku před časovým údajem příjezdu značka […], vyjadřující zastavení jen pro výstup cestujících […] „Vyst“ […]; e) je-li v TJŘ vlaku před časovým údajem odjezdu značka [plný trojúhelník], vyjadřující možnost odjezdu vlaku s přepravou cestujících s náskokem ihned po výstupu cestujících nebo [prázdný trojúhelník], vyjadřující možnost odjezdu vlaku s náskokem nejdříve však v čase pravidelného příjezdu; f) je-li to dovoleno pomůckou „Přípoje mezi vlaky osobní dopravy“ […].",
+  "distraktory": [
+   "Vlak může po výpravě odjet s náskokem ihned po ukončení výstupu cestujících, tedy i před časem pravidelného příjezdu 8:08.",
+   "Vlak s přepravou cestujících nesmí odjet s náskokem; odjede nejdříve v čase pravidelného odjezdu 8:11,5 po uplynutí pobytu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Ve sloupci 7 TJŘ je značka „odjezd s náskokem, nejdříve však v čase pravidelného příjezdu“ (8:08). Druhá značka téhož sloupce znamená odjezd ihned po výstupu cestujících – srovnej otázku 92. Pomůcka: značky TJŘ jsou v tabletu – vyhledat „TJŘ“."
+ },
+ {
+  "n": 11,
+  "otazka": "Strojvedoucí zastavil s vlakem bez ETCS u návěsti AB s návěstí „Stůj“ za mlhy. Jiná vozidla v následujícím traťovém oddílu nevidí. Jak bude postupovat?",
+  "obrazky": [],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 107 odst. (4) a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 23 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 107 odst. (7)"
+   }
+  ],
+  "odpoved": "Jde-li o AB s bílým označovacím pásem, může po zastavení bez svolení výpravčího pokračovat a k následujícímu hlavnímu návěstidlu jet podle rozhledových poměrů, nejvýše 40 km/h.",
+  "plne_zneni": "SŽ D1 čl. 107 odst. (4): Je-li na oddílovém návěstidle AB s bílým označovacím pásem návěst Stůj, musí strojvedoucí vlaku s vedoucím vozidlem nevybaveným ETCS nebo s vedoucím vozidlem vybaveným mobilní částí ETCS, který nejede v módu Plný dohled (FS) nebo v módu Podle rozhledu (OS) před tímto návěstidlem zastavit a postupovat následovně:\na) Nevidí-li v následujícím traťovém oddílu drážní vozidlo, může pokračovat v další jízdě za návěstidlo s návěstí Stůj a k následujícímu hlavnímu návěstidlu musí dodržet podmínky jízdy podle rozhledových poměrů.\nb) Vidí-li v následujícím traťovém oddílu drážní vozidlo, musí vyčkat, až drážní vozidlo odjede z dohledu. […]\n\nSŽ D1 čl. 107 odst. (7): V případě, že je na oddílovém návěstidle AB s bílým označovacím pásem zřízen štít Op, musí strojvedoucí vlaku, který nejede v módu Plný dohled (FS) nebo Podle rozhledu (OS) při jízdě za toto oddílové návěstidlo AB na návěst Stůj dodržet podmínky jízdy se zvýšenou opatrností přes přejezdy s PZZ v následujícím traťovém oddílu.\n\nSŽ D1 čl. 23 odst. (2): Pokud je strojvedoucímu nařízena jízda podle rozhledových poměrů, musí pokračovat opatrně v další jízdě a kontrolovat rychlost s přihlédnutím k délce tratě, na kterou před sebou vidí […], aby byl schopen na volné viditelné části tratě zastavit před jakýmkoliv drážním vozidlem, návěstí Stůj nebo překážkou na trati […], přičemž však nesmí být překročena rychlost 40 km/h.",
+  "distraktory": [
+   "Jde-li o AB s bílým označovacím pásem, může po zastavení bez svolení výpravčího pokračovat a k následujícímu hlavnímu návěstidlu jet podle rozhledových poměrů, nejvýše 30 km/h.",
+   "Za mlhy nesmí pokračovat podle rozhledových poměrů; po 5 minutách se ohlásí výpravčímu přední stanice a dál smí jet až na jeho pokyn daný písemným rozkazem."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Předpokládá se oddílové návěstidlo AB s bílým označovacím pásem; u návěstidla s červeno-bílými pruhy by platil čl. 108 (jízda jen na pokyn výpravčího)."
+ },
+ {
+  "n": 12,
+  "otazka": "Při jízdě přes diagnostiku závad jedoucích vozidel (ASDEK) strojvedoucí musel vzhledem k vzniklé situaci použít průběžnou brzdu. Jak bude následně postupovat při obdržení informace od výpravčího např.: „Vlak číslo, indikována horká obruč stupně K, zastavte ve stanici“?",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "SŽ V65/1 (ASDEK)",
+  "zdroje": [
+   {
+    "predpis": "Pokyny pro obsluhu vyhodnocovacích zařízení (ASDEK)",
+    "clanek": "čl. 4.3"
+   },
+   {
+    "predpis": "Pokyny pro obsluhu vyhodnocovacích zařízení (ASDEK)",
+    "clanek": "čl. 4.2.1"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 26 odst. (5)"
+   }
+  ],
+  "odpoved": "Pokyn zopakuje a potvrdí a sdělí výpravčímu nestandardní průběh jízdy přes diagnostiku; poté smí pokračovat bez zastavení a kontroly, výpravčí to zapíše do diagnostické zprávy.",
+  "plne_zneni": "Pokyny pro obsluhu vyhodnocovacích zařízení (ObŘ), čl. 4.3 – Diagnostická zpráva IHO stupně K:\nVýpravčí provede standardní úkony pro zastavení vlaku ve vhodné stanici (dle směru jízdy vlaku) a pomocí telekomunikačního zařízení vyrozumí strojvedoucího, například takto: „Vlak 604, indikována horká obruč 8/12 nebo brzda stupně K, zastavte v ŽST Most!“.\nPři potvrzení strojvedoucím o nestandardním průběhu jízdy přes Diagnostiku a na základě rozhodnutí strojvedoucího umožní výpravčí další jízdu vlaku přes odbočku bez nutnosti kontroly a zastavení vlaku. Tato skutečnost se zapíše do diagnostické zprávy. Pokud strojvedoucí nepotvrdí nestandardní průběh jízdy přes Diagnostiku a rozhodne se pro kontrolu a zastavení vlaku, postupuje obdobně dle článků 4.2.1. a 4.2.2.\n\nPřehled druhů a stupňů poplachů (čl. 1): červené hlášení – IHL STOP = okamžité zastavení vlaku (PMD); žluté hlášení – IHL K, IHO STOP, IHO K, INJ STOP, INJ K = zastavení vlaku ve stanici.\n\nSŽ D1 čl. 26 odst. (5): […] Zaměstnanec, který potvrzuje přijetí pokynu telekomunikačním zařízením pro jízdu vlaku, musí pokyn zopakovat a potvrdit na důkaz, že jej správně pochopil.",
+  "distraktory": [
+   "Pokyn zopakuje a potvrdí a sdělí výpravčímu nestandardní průběh jízdy přes diagnostiku; přesto musí ve stanici zastavit, obruče prohlédnout a nález výpravčímu ohlásit.",
+   "Pokyn zopakuje a potvrdí; použití průběžné brzdy neohlašuje, ve stanici zastaví, indikovanou obruč prohlédne a o další jízdě rozhodne podle výsledku prohlídky."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Doplněno 20. 9. 2026 z dodané přílohy ObŘ (Pokyny pro obsluhu vyhodnocovacích zařízení – ASDEK/DZJV). Rozhodnutí je na strojvedoucím: nepotvrdí-li nestandardní průběh jízdy a rozhodne se pro kontrolu, zastaví ve stanici a postupuje podle čl. 4.2.1 (prohlídka indikovaného kola, doplnění diagnostické zprávy)."
+ },
+ {
+  "n": 13,
+  "otazka": "Ve sloupci 2 TJŘ za názvem stanice Opatov je uvedena značka „3>“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet v červeně vyznačeném úseku?",
+  "obrazky": [
+   "img/q013_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (11)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (1) a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 499"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 138 odst. (1)"
+   }
+  ],
+  "odpoved": "V obvodu výhybek přilehlých k návěstidlu nejvýše 40 km/h (návěst Rychlost 40 km/h a výstraha); značka „3>“ platí jen na PN nebo u neobsluhovaného návěstidla.",
+  "plne_zneni": "SŽ D1 čl. 113 odst. (11): Rychlost 40 km/h a výstraha – žluté světlo a nad ním žluté světlo.\n\nSŽ D1 čl. 113 odst. (1): Návěsti vyjádřené dvěma světly dovolují jízdu vlaku a: a) Dolním světlem, případně doplněný indikátorem […] přikazují strojvedoucímu jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše návěstěnou rychlostí. […] b) Horním světlem, příp. doplněný indikátorem […] předvěstí návěst následujícího hlavního návěstidla. Předvěstění je vyjádřeno druhou částí názvu návěsti: … a výstraha, … a volno […].\n\nSŽ D1 čl. 499: Ve stanicích, kde je snížení rychlosti návěstěno indikátorem, musí být v TJŘ všech vlaků příslušného směru jízdy (bez ohledu na určenou vjezdovou nebo odjezdovou kolej) u této stanice značka „3>“, která udává vjezdovou (odjezdovou) rychlost 30 km/h, jež nesmí strojvedoucí překročit při jízdě na PN a při jízdě kolem neobsluhovaného návěstidla. Značka „3>“ se neuvádí u vlaků se stanovenou rychlostí 30 km/h nebo nižší.\n\nSŽ D1 čl. 138 odst. (1): Přivolávací návěst […] strojvedoucímu ostatních vlaků […] nařizuje jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše rychlostí 30 km/h: 1. pokud je návěstidlo označeno indikátorovou tabulkou s číslicí „3“ nebo 2. je-li v TJŘ u příslušné stanice značka „3>“.",
+  "distraktory": [
+   "V obvodu výhybek přilehlých k návěstidlu nejvýše 30 km/h, protože značka „3>“ v TJŘ platí i při návěsti Rychlost 40 km/h a výstraha, a u S1 očekávat Stůj.",
+   "V obvodu výhybek nejvýše 40 km/h a od návěstidla dál podle rozhledových poměrů nejvýše 30 km/h k návěstidlu S1, jak nařizuje značka „3>“ v TJŘ."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku návěstidlo S ukazuje dvě žlutá světla bez indikátoru, tj. návěst Rychlost 40 km/h a výstraha; červený úsek vede přes výhybky na 1. kolej k odjezdovému návěstidlu S1 s návěstí Stůj."
+ }
+]

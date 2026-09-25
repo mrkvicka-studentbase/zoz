@@ -1,0 +1,1908 @@
+[
+ {
+  "n": 1,
+  "text": "Vlak zastavil před oddílovým návěstidlem AB s návěstí „Stůj“. V následujícím traťovém oddílu je výhybka odbočující ze širé tratě. Za jakých podmínek a jakým způsobem může vlak pokračovat v jízdě?",
+  "images": [
+   "img/q001_1.png"
+  ],
+  "page": 1
+ },
+ {
+  "n": 2,
+  "text": "Strojvedoucímu se nepodařilo provést zkoušku spojení kódovaným hlášením „D“ u rádiovníku s návěstí „Přepněte kanálovou skupinu - 65“. Jaký bude jeho další postup?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 3,
+  "text": "Volací čísla pro adresné zkrácené volby v systému GSM-R strojvedoucí nalezne:",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 4,
+  "text": "Jaké údaje (FN a FC) nastaví strojvedoucí HV na radiostanici v systému GSM-R při posunu z depa na vlak?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 5,
+  "text": "Jaký bude postup strojvedoucího, který nezná po ukončení jízdy vlaku další nasazení HV a radiostanici má zaregistrovanou v systému GSM-R?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 6,
+  "text": "Jaké volací číslo použije strojvedoucí pro volání hnacího vozidla Českých drah, a.s. 162 053-3 v systému GSM-R?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 7,
+  "text": "Jak zní informace o návěsti dovolující jízdu vlaku telekomunikačním zařízením pro vlak 19524, který stojí na třetí koleji ve stanici Eden?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 8,
+  "text": "Za jízdy vlaku R 663 za ŽST Nezvěstice dojde k poruše radiostanice a strojvedoucí se nemůže spojit s výpravčím (dispečerem) jiným způsobem. Jak bude strojvedoucí postupovat?",
+  "images": [
+   "img/q008_1.png"
+  ],
+  "page": 1
+ },
+ {
+  "n": 9,
+  "text": "Jak provede strojvedoucí zkoušku spojení v systému GSM-R?",
+  "images": [],
+  "page": 1
+ },
+ {
+  "n": 10,
+  "text": "Vlak zastavil v ŽST Praha Dejvice. V jaký čas může odjet?",
+  "images": [
+   "img/q010_1.png"
+  ],
+  "page": 2
+ },
+ {
+  "n": 11,
+  "text": "Strojvedoucí zastavil s vlakem bez ETCS u návěsti AB s návěstí „Stůj“ za mlhy. Jiná vozidla v následujícím traťovém oddílu nevidí. Jak bude postupovat?",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 12,
+  "text": "Při jízdě přes diagnostiku závad jedoucích vozidel (ASDEK) strojvedoucí musel vzhledem k vzniklé situaci použít průběžnou brzdu. Jak bude následně postupovat při obdržení informace od výpravčího např.: „Vlak číslo, indikována horká obruč stupně K, zastavte ve stanici“?",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 13,
+  "text": "Ve sloupci 2 TJŘ za názvem stanice Opatov je uvedena značka „3>“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet v červeně vyznačeném úseku?",
+  "images": [
+   "img/q013_1.png"
+  ],
+  "page": 2
+ },
+ {
+  "n": 14,
+  "text": "Výpravčí doručí na hnací vozidlo písemný rozkaz. Jak bude postupovat strojvedoucí?",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 15,
+  "text": "Při kontrole chodu soupravy za jízdy průvan vynesl písemný rozkaz z okna kabiny a strojvedoucí si nepamatuje obsah písemného rozkazu pro další úsek. Jaký bude jeho další postup?",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 16,
+  "text": "Strojvedoucí má poruchu tabletu a nepamatuje si znění textu SPO pro úsek ve kterém vede vlak. Jaký bude jeho další postup?",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 17,
+  "text": "Strojvedoucí za jízdy zpozoruje světelný výstražný terč s návěstí „Práce na trati“. Kdy musí dávat návěst „Pozor“?",
+  "images": [
+   "img/q017_1.png"
+  ],
+  "page": 2
+ },
+ {
+  "n": 18,
+  "text": "Jak bude strojvedoucí postupovat při obdržení informace „Vlak 9308, indikováno horké ložisko stupně STOP, okamžitě zastavte!“:",
+  "images": [],
+  "page": 2
+ },
+ {
+  "n": 19,
+  "text": "Jaký bude postup strojvedoucího po zastavení u oddílového návěstidla AH s návěstí „Stůj“?",
+  "images": [
+   "img/q019_1.png"
+  ],
+  "page": 3
+ },
+ {
+  "n": 20,
+  "text": "Jaký bude postup strojvedoucího po zastavení u zhaslého oddílového návěstidla AH?",
+  "images": [
+   "img/q020_1.png"
+  ],
+  "page": 3
+ },
+ {
+  "n": 21,
+  "text": "V ŽST Mrákoty nelze z důvodu poruchy obsluhovat odjezdové návěstidlo L2. Výpravčí pouze zpraví strojvedoucího telekomunikačním zařízením takto: „Odjezdové návěstidlo L2 stanice Mrákoty se neobsluhuje. Vlak 9998 ve stanici Mrákoty z druhé koleje do stanice Chvojkovice odjezd.“ Uvede strojvedoucí vlak do pohybu?",
+  "images": [
+   "img/q021_1.png"
+  ],
+  "page": 3
+ },
+ {
+  "n": 22,
+  "text": "Vlak s přepravou cestujících vjíždí do stanice Liptákov na návěst „Výstraha“ vjezdového návěstidla. Na odjezdovém návěstidle platném pro jednu kolej je návěst „Přivolávací návěst“. Jak bude strojvedoucí postupovat?",
+  "images": [
+   "img/q022_1.png"
+  ],
+  "page": 3
+ },
+ {
+  "n": 23,
+  "text": "Vlak s přepravou cestujících stojí ve stanici Nepomuk označené v TJŘ symbolem „výpravky“ v prostoru pro výstup a nástup cestujících. Cestové návěstidlo platné jen pro jednu kolej, na které tento vlak stojí, návěstí „Přivolávací návěst“. Je pro strojvedoucího návěst „Přivolávací návěst“ rozkazem k odjezdu?",
+  "images": [
+   "img/q023_1.png"
+  ],
+  "page": 4
+ },
+ {
+  "n": 24,
+  "text": "Vlak s přepravou cestujících stojí ve stanici Světlá nad Sázavou, která nemá ve sloupci 2 TJŘ žádnou značku. Odjezdové návěstidlo platné jen pro kolej, na které tento vlak stojí, návěstí návěst „Přivolávací návěst“. Je tato návěst pro strojvedoucího rozkazem k odjezdu?",
+  "images": [
+   "img/q024_1.png"
+  ],
+  "page": 4
+ },
+ {
+  "n": 25,
+  "text": "Vlak odjíždí ze stanice kolem cestového návěstidla s návěstí „Přivolávací návěst“. Na následujícím hlavním návěstidle je návěst dovolující jízdu. Pojede strojvedoucí podle rozhledových poměrů?",
+  "images": [
+   "img/q025_1.png"
+  ],
+  "page": 4
+ },
+ {
+  "n": 26,
+  "text": "Vlak vjíždí do stanice kolem vjezdového návěstidla s návěstí „Přivolávací návěst“. Na následujícím hlavním návěstidle je návěst dovolující jízdu. Jakou nejvyšší dovolenou rychlostí může jet strojvedoucí v úseku od námezníku k následujícímu hlavnímu návěstidlu (červeně označeno)?",
+  "images": [
+   "img/q026_1.png"
+  ],
+  "page": 5
+ },
+ {
+  "n": 27,
+  "text": "Jaký pokyn dává návěst přejezdníku?",
+  "images": [
+   "img/q027_1.png"
+  ],
+  "page": 5
+ },
+ {
+  "n": 28,
+  "text": "V modrém úseku mezi přejezdníkem a přejezdem vlak mimořádně zastaví. Jak pojede strojvedoucí k přejezdu?",
+  "images": [
+   "img/q028_1.png"
+  ],
+  "page": 5
+ },
+ {
+  "n": 29,
+  "text": "Jakou značkou se vyznačují pravidelné vjezdy na obsazenou kolej v tabelárním jízdním řádu příslušného vlaku?",
+  "images": [],
+  "page": 5
+ },
+ {
+  "n": 30,
+  "text": "Jakým způsobem musí být strojvedoucí zpraven o mimořádném vjezdu na obsazenou kolej?",
+  "images": [
+   "img/q030_1.png"
+  ],
+  "page": 5
+ },
+ {
+  "n": 31,
+  "text": "Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+  "images": [
+   "img/q031_1.png"
+  ],
+  "page": 5
+ },
+ {
+  "n": 32,
+  "text": "Strojvedoucí vjel do stanice kolem vjezdového návěstidla s návěstí „Volno“ a zastavil s vlakem ve stanici tak, že nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+  "images": [
+   "img/q032_1.png"
+  ],
+  "page": 6
+ },
+ {
+  "n": 33,
+  "text": "Vlak Os 5555 stojí mimo prostor pro výstup a nástup cestujících a je připraven k odjezdu ze stanice Pavlíkov. Může strojvedoucí po změně návěstního znaku odjezdového návěstidla s vlakem ze stanice odjet?",
+  "images": [
+   "img/q033_1.png"
+  ],
+  "page": 6
+ },
+ {
+  "n": 34,
+  "text": "Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Strojvedoucí neodjistil centrálně ovládané dveře. Může strojvedoucí ze stanice odjet, pokud odjezdové návěstidlo je v poloze dovolující jízdu?",
+  "images": [
+   "img/q034_1.png"
+  ],
+  "page": 6
+ },
+ {
+  "n": 35,
+  "text": "Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Jedná se o vlak bez centrálního ovládaní dveří strojvedoucím. Vlak musí být ze stanice vypraven:",
+  "images": [
+   "img/q035_1.png"
+  ],
+  "page": 6
+ },
+ {
+  "n": 36,
+  "text": "Vlak Sv 9999 je připraven k odjezdu ze stanice Pavlíkov. Vlak musí být ze stanice vypraven:",
+  "images": [
+   "img/q036_1.png"
+  ],
+  "page": 7
+ },
+ {
+  "n": 37,
+  "text": "Je-li strojvedoucímu přidělen pilot, musí být i on zpraven o obsahu písemného rozkazu?",
+  "images": [],
+  "page": 7
+ },
+ {
+  "n": 38,
+  "text": "Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí projíždějícího vlaku ve stanici Lhota. Odjezdové návěstidlo S1 není předvěstí dalšího hlavního návěstidla:",
+  "images": [
+   "img/q038_1.png"
+  ],
+  "page": 7
+ },
+ {
+  "n": 39,
+  "text": "Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí projíždějícího vlaku ve stanici Lhota. Odjezdové návěstidlo S3 není předvěstí dalšího hlavního návěstidla:",
+  "images": [
+   "img/q039_1.png"
+  ],
+  "page": 7
+ },
+ {
+  "n": 40,
+  "text": "Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí zastavujícího vlaku ve stanici Lhota?",
+  "images": [
+   "img/q040_1.png"
+  ],
+  "page": 7
+ },
+ {
+  "n": 41,
+  "text": "Jakou rychlostí může jet strojvedoucí v obvodu stanice s výlukou dopravní služby výpravčího, svítí-li na hlavních návěstidlech tato návěst?",
+  "images": [
+   "img/q041_1.png"
+  ],
+  "page": 8
+ },
+ {
+  "n": 42,
+  "text": "Vlak Os 9898 stojí v ŽST Pavlíkov. Za jakých podmínek uvede strojvedoucí vlak do pohybu nastal-li již čas odjezdu vlaku dle TJŘ:",
+  "images": [
+   "img/q042_1.png"
+  ],
+  "page": 8
+ },
+ {
+  "n": 43,
+  "text": "Vlak Os 8898 stojí v ŽST Krašov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ? Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB.",
+  "images": [
+   "img/q043_1.png"
+  ],
+  "page": 8
+ },
+ {
+  "n": 44,
+  "text": "Vlak Os 9999 stojí v ŽST Pavlíkov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB.",
+  "images": [
+   "img/q044_1.png"
+  ],
+  "page": 8
+ },
+ {
+  "n": 45,
+  "text": "Vlak Ex 99 stojí v ŽST Božkov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať vybavenou oddílovými návěstidly AB:",
+  "images": [
+   "img/q045_1.png"
+  ],
+  "page": 9
+ },
+ {
+  "n": 46,
+  "text": "Jakou maximální rychlostí a jakým způsobem pojede strojvedoucí v situaci dle obrázku:",
+  "images": [
+   "img/q046_1.png"
+  ],
+  "page": 9
+ },
+ {
+  "n": 47,
+  "text": "Jakou maximální rychlostí a jakým způsobem pojede strojvedoucí v situaci dle obrázku:",
+  "images": [
+   "img/q047_1.png"
+  ],
+  "page": 9
+ },
+ {
+  "n": 48,
+  "text": "Vlak Os 8898 stojí v ŽST Krašov. Strojvedoucí obdržel písemný rozkaz PsD1, rozkaz 1, Povolení projet EOA (Konec oprávnění k jízdě) u návěstidla S1: Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB:",
+  "images": [
+   "img/q048_1.png"
+  ],
+  "page": 9
+ },
+ {
+  "n": 49,
+  "text": "Vlak s přepravou cestujících mimořádně zastaví ve stanici. Po zastavení vyrozumí výpravčí strojvedoucího o příčině zastavení. Jaký bude další postup strojvedoucího?",
+  "images": [],
+  "page": 9
+ },
+ {
+  "n": 50,
+  "text": "Jak dá strojvedoucí pomocí radiostanice pokyn jinému vlaku k najetí na vozidlo?",
+  "images": [],
+  "page": 9
+ },
+ {
+  "n": 51,
+  "text": "Po nástupu na HV se strojvedoucímu nepodařilo provést zaregistrování čísla vlaku s funkčním kódem a systém GSM-R není v poruše. Jaký bude jeho další postup?",
+  "images": [],
+  "page": 9
+ },
+ {
+  "n": 52,
+  "text": "Samostatný mot. vůz přijel jako vlak Os 5309 do obratové ŽST v systému GSM-R a dále se bez provedení posunu vrací zpět pod číslem vlaku Os 5308. Od koho obdrží strojvedoucí pokyn ke změně čísla vlaku a funkčního kódu?",
+  "images": [],
+  "page": 9
+ },
+ {
+  "n": 53,
+  "text": "Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo vlaku 1900?",
+  "images": [],
+  "page": 10
+ },
+ {
+  "n": 54,
+  "text": "Jakými čísly vlaku a funkčními kódy se strojvedoucí soupravy vlaku dle obrázku zaregistrují v systému GSM-R pro vlak 1900?",
+  "images": [
+   "img/q054_1.png"
+  ],
+  "page": 10
+ },
+ {
+  "n": 55,
+  "text": "Strojvedoucí vlaku je zpraven tímto textem SPO. Jakou návěst vztahující se k této pomalé jízdě strojvedoucí očekává?",
+  "images": [
+   "img/q055_1.png"
+  ],
+  "page": 10
+ },
+ {
+  "n": 56,
+  "text": "Vlak projíždí stanicí Chválkov. Tato stanice má ve sloupci 2 TJŘ symbol „N“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?",
+  "images": [
+   "img/q056_1.png"
+  ],
+  "page": 10
+ },
+ {
+  "n": 57,
+  "text": "Jak pojede strojvedoucí k přejezdu, když je mu nařízena jízda se zvýšenou opatrností?",
+  "images": [],
+  "page": 10
+ },
+ {
+  "n": 58,
+  "text": "Strojvedoucí stojí s vlakem R 1292 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Výstraha“. Může strojvedoucí uvést vlak do pohybu?",
+  "images": [
+   "img/q058_1.png"
+  ],
+  "page": 10
+ },
+ {
+  "n": 59,
+  "text": "Strojvedoucí stojí s vlakem R 1294 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Volno“. Může strojvedoucí uvést vlak do pohybu?",
+  "images": [
+   "img/q059_1.png"
+  ],
+  "page": 11
+ },
+ {
+  "n": 60,
+  "text": "Strojvedoucí pravidelně projíždějícího vlaku s přepravou cestujících vjíždí do stanice Kaprun. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?",
+  "images": [
+   "img/q060_1.png"
+  ],
+  "page": 11
+ },
+ {
+  "n": 61,
+  "text": "Strojvedoucí Lv vlaku vjíždí do stanice Kaprun na návěst „Výstraha“. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?",
+  "images": [
+   "img/q061_1.png"
+  ],
+  "page": 11
+ },
+ {
+  "n": 62,
+  "text": "Vlak projíždí stanicí Děvín. Tato stanice má ve sloupci 2 TJŘ symbol „P“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?",
+  "images": [
+   "img/q062_1.png"
+  ],
+  "page": 11
+ },
+ {
+  "n": 63,
+  "text": "Jak bude postupovat strojvedoucí v červeně označeném úseku?",
+  "images": [
+   "img/q063_1.png"
+  ],
+  "page": 12
+ },
+ {
+  "n": 64,
+  "text": "Na trati je umístěna návěst „Začátek dočasné pomalé jízdy“. Za jaké podmínky se jí strojvedoucí řídí?",
+  "images": [
+   "img/q064_1.png"
+  ],
+  "page": 12
+ },
+ {
+  "n": 65,
+  "text": "Jaká je nejvyšší dovolená rychlost vlaku jedoucím v režimu nouzového spojení pomocí mobilního telefonu?",
+  "images": [],
+  "page": 12
+ },
+ {
+  "n": 66,
+  "text": "Může být vystaveno na pravidelný výkon na trati vybavené signálem GSM-R vlakové HV pouze s nouzovým spojením pomocí mobilního telefonu?",
+  "images": [],
+  "page": 12
+ },
+ {
+  "n": 67,
+  "text": "Jaký je název této návěsti?",
+  "images": [
+   "img/q067_1.png"
+  ],
+  "page": 12
+ },
+ {
+  "n": 68,
+  "text": "Uskutečňuje se tímto návěstidlem výprava vlaku?",
+  "images": [
+   "img/q068_1.png"
+  ],
+  "page": 12
+ },
+ {
+  "n": 69,
+  "text": "Jakou informaci zaměstnanci dává tato návěst?",
+  "images": [
+   "img/q069_1.png"
+  ],
+  "page": 12
+ },
+ {
+  "n": 70,
+  "text": "Jakou rychlostí bude vjíždět strojvedoucí do žst. Brno-Horní Heršpice, pokud bude na vjezdovém návěstidle tato návěst?",
+  "images": [
+   "img/q070_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 71,
+  "text": "Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?",
+  "images": [
+   "img/q071_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 72,
+  "text": "Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?",
+  "images": [
+   "img/q072_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 73,
+  "text": "Na jakou maximální rychlost smí strojvedoucí rozjet vlak, pokud se jedná o vlak výchozí?",
+  "images": [
+   "img/q073_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 74,
+  "text": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+  "images": [
+   "img/q074_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 75,
+  "text": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+  "images": [
+   "img/q075_1.png"
+  ],
+  "page": 13
+ },
+ {
+  "n": 76,
+  "text": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+  "images": [
+   "img/q076_1.png"
+  ],
+  "page": 14
+ },
+ {
+  "n": 77,
+  "text": "Jakou rychlost předvěstí tato návěst?",
+  "images": [
+   "img/q077_1.png"
+  ],
+  "page": 14
+ },
+ {
+  "n": 78,
+  "text": "Po vjetí vlaku do traťového oddílu automatického bloku na návěst dovolující jízdu se na návěstním opakovači nerozsvítí žádné světlo (případně svítí jen modré světlo). Jaký bude další postup strojvedoucího?",
+  "images": [],
+  "page": 14
+ },
+ {
+  "n": 79,
+  "text": "Jak zní závazné slovní znění při diagnostické zprávě IHL (indikace horkého ložiska) stupně STOP?",
+  "images": [],
+  "page": 14
+ },
+ {
+  "n": 80,
+  "text": "Před odjezdem vlaku po obdržení rozkazu k odjezdu strojvedoucí zjistí, že nemůže s vlakem odjet (porucha HV, porucha dveří, VZ,….). Jaký bude jeho další postup?",
+  "images": [],
+  "page": 14
+ },
+ {
+  "n": 81,
+  "text": "K jakému spojení se používá zkrácená volba v systému GSM-R?",
+  "images": [],
+  "page": 14
+ },
+ {
+  "n": 82,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q082_1.png"
+  ],
+  "page": 14
+ },
+ {
+  "n": 83,
+  "text": "Jaký je název návěsti?",
+  "images": [
+   "img/q083_1.png"
+  ],
+  "page": 14
+ },
+ {
+  "n": 84,
+  "text": "Jaká návěst může být na nejbližším vjezdovém návěstidle?",
+  "images": [
+   "img/q084_1.png"
+  ],
+  "page": 15
+ },
+ {
+  "n": 85,
+  "text": "Jaká návěst může být na vjezdovém návěstidle?",
+  "images": [
+   "img/q085_1.png"
+  ],
+  "page": 15
+ },
+ {
+  "n": 86,
+  "text": "Jaká návěst může být na nejbližším oddílovém návěstidle?",
+  "images": [
+   "img/q086_1.png"
+  ],
+  "page": 15
+ },
+ {
+  "n": 87,
+  "text": "Jakou nejvyšší rychlostí může jet vlak v případě, že není na HV přenášen kód VZ, tlačítko bdělosti periodicky prověřuje bdělost strojvedoucího a strojvedoucí o této závadě ví?",
+  "images": [
+   "img/q087_1.png"
+  ],
+  "page": 15
+ },
+ {
+  "n": 88,
+  "text": "Jakými písmeny je označeno oddílové návěstidlo automatického hradla?",
+  "images": [],
+  "page": 15
+ },
+ {
+  "n": 89,
+  "text": "Vlak zastavil u oddílového návěstidla AB s návěstí „Stůj“. Smí vlak pokračovat v další jízdě?",
+  "images": [
+   "img/q089_1.png"
+  ],
+  "page": 15
+ },
+ {
+  "n": 90,
+  "text": "Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla a na návěstním opakovači svítí zelené světlo. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?",
+  "images": [
+   "img/q090_1.png"
+  ],
+  "page": 16
+ },
+ {
+  "n": 91,
+  "text": "V průběhu jízdy prostorovým oddílem kódované tratě dojde k náhlé změně světla na návěstním opakovači, a to ze žlutého na červené. Nejedná se o krátkodobé prokmitnutí červeného světla a na další návěstidlo není vidět. Strojvedoucí bude dále postupovat takto:",
+  "images": [],
+  "page": 16
+ },
+ {
+  "n": 92,
+  "text": "Vlak zastavil ve stanici Praha-Libeň. V jaký čas může odjet?",
+  "images": [
+   "img/q092_1.png"
+  ],
+  "page": 16
+ },
+ {
+  "n": 93,
+  "text": "Vlak Os 14569 stojí na zastávce na širé trati, která má přístup na nástupiště pomocí úrovňového přejezdu, který je v činnosti. Po 1. TK proti správnému směru ho předjíždí Ex 51. Jaký bude postup strojvedoucího Ex 51 při průjezdu zastávkou až k přejezdu?",
+  "images": [
+   "img/q093_1.png"
+  ],
+  "page": 16
+ },
+ {
+  "n": 94,
+  "text": "Strojvedoucí vede vlak na trati s automatickým blokem dle svého TJŘ nejvyšší stanovenou rychlostí 160 km/h a vzhledem ke skutečným brzdícím procentům rozkládá svoji zábrzdnou dráhu na dvě zábrzdné vzdálenosti. Na návěstním opakovači se po minutí oddílového návěstidla AB rozsvítí žluté světlo. Na jakou novou rychlost musí strojvedoucí snížit rychlost vlaku u následujícího oddílového návěstidla AB?",
+  "images": [],
+  "page": 16
+ },
+ {
+  "n": 95,
+  "text": "Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?",
+  "images": [
+   "img/q095_1.png"
+  ],
+  "page": 16
+ },
+ {
+  "n": 96,
+  "text": "Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?",
+  "images": [
+   "img/q096_1.png"
+  ],
+  "page": 16
+ },
+ {
+  "n": 97,
+  "text": "Strojvedoucí na trati s pravostranným provozem projíždí stanicí Cvrkov. Vlaková cesta je postavena na 2. TK ve směru Liptákov. Jaký bude další postup strojvedoucího, pokud není zpraven žádným písemným rozkazem?",
+  "images": [
+   "img/q097_1.png"
+  ],
+  "page": 17
+ },
+ {
+  "n": 98,
+  "text": "Čím se řídí strojvedoucí vlaku jedoucího po objízdné trase ve stanici?",
+  "images": [],
+  "page": 17
+ },
+ {
+  "n": 99,
+  "text": "Strojvedoucí při spatření této návěsti:",
+  "images": [
+   "img/q099_1.png"
+  ],
+  "page": 17
+ },
+ {
+  "n": 100,
+  "text": "Po projetí odjezdového návěstidla v poloze „Stůj“ z důvodu náhlé změny návěstního znaku je strojvedoucí povinen:",
+  "images": [],
+  "page": 17
+ },
+ {
+  "n": 101,
+  "text": "Při srážce vlaku se zvěří nedošlo ke zranění osob ve vlaku, ale došlo k poškození a neschopnosti vozidla. Strojvedoucí je povinen:",
+  "images": [],
+  "page": 17
+ },
+ {
+  "n": 102,
+  "text": "Strojvedoucí zjistí poruchu vozidlové radiostanice v systému GSM-R. Jak bude dále postupovat?",
+  "images": [],
+  "page": 17
+ },
+ {
+  "n": 103,
+  "text": "Strojvedoucí zjistil za jízdy na trati požár ve vlaku. Jak bude dále postupovat?",
+  "images": [],
+  "page": 17
+ },
+ {
+  "n": 104,
+  "text": "Strojvedoucí není zpraven žádným písemným rozkazem o zhoršených povětrnostních poměrech a za jízdy vlaku zjistí, že dochází k pohybu větví stromů a silnému nárazovému větru. Jaký bude jeho další postup?",
+  "images": [
+   "img/q104_1.png"
+  ],
+  "page": 17
+ },
+ {
+  "n": 105,
+  "text": "Vlak byl po odjezdu od nástupiště zastaven návěstí „Stůj, zastavte všemi prostředky“. Za jakých podmínek může vlak pokračovat v další jízdě, pokud byl výpravčí o zastavení vlaku návěstí „Stůj, zastavte všemi prostředky“ informován ?",
+  "images": [
+   "img/q105_1.png"
+  ],
+  "page": 18
+ },
+ {
+  "n": 106,
+  "text": "Strojvedoucí potřebuje ohlásit mimořádnou událost, která vznikla na širé trati. Základní ani náhradní rádiové spojení nelze pro poruchu použít. Strojvedoucí je nucen použít nouzové spojení pomocí mobilního telefonu. Ze kterého dokumentu zjistí telefonní číslo na ohlašovací pracoviště?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 107,
+  "text": "Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní vlak je:",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 108,
+  "text": "Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní traťový úsek je:",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 109,
+  "text": "Může výpravčí požádat strojvedoucího ve stanici s DOZ o přesvědčení se o zjevné příčině nemožnosti přestavení výhybky?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 110,
+  "text": "Jak strojvedoucí ohlásí traťovému dispečerovi ve stanici DOZ zjištění, že protijedoucí vlak vjel do stanice celý?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 111,
+  "text": "Z jakého dokumentu zjistí strojvedoucí Číslo telefonu na „ohlašovací pracoviště“?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 112,
+  "text": "Strojvedoucí slyší v radiostanici toto hlášení: \"příjmu, stop, stop\" Jaký bude jeho postup?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 113,
+  "text": "Strojvedoucí zjistí za jízdy vlaku na dvoukolejné trati překážku v sousední koleji. Jak bude dále postupovat?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 114,
+  "text": "Strojvedoucí posunového dílu ve stanici Libavá slyší v radiostanici toto hlášení: Pozor, pozor, všechny vlaky na příjmu, stop. stop. Jaký bude jeho další postup:",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 115,
+  "text": "Platí pro PMD krycí návěstidlo?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 116,
+  "text": "Jaká je rychlost PMD pro uváznutý vlak na trati, když není známa jeho kilometrická poloha?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 117,
+  "text": "Jak musí být PMD označen?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 118,
+  "text": "Musí být strojvedoucí PMD informován o vjezdu na obsazenou kolej?",
+  "images": [],
+  "page": 18
+ },
+ {
+  "n": 119,
+  "text": "PMD při návratu z trati musí zastavit nejdále:",
+  "images": [
+   "img/q119_1.png"
+  ],
+  "page": 19
+ },
+ {
+  "n": 120,
+  "text": "Nepředpokládaný návrat vlaku (PMD) z trati je bez souhlasu výpravčího:",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 121,
+  "text": "PMD se uskutečňuje z důvodu zjištění volnosti a průjezdnosti tratě. Smí tento PMD přepravovat cestující?",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 122,
+  "text": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD označník?",
+  "images": [
+   "img/q122_1.png"
+  ],
+  "page": 19
+ },
+ {
+  "n": 123,
+  "text": "Jak bude zpraven strojvedoucí PMD, pokud mají pro odjezd PMD ze stanice platit návěsti odjezdových (cestových) návěstidel?",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 124,
+  "text": "PMD se blíží k oddílovému návěstidlu s návěstí „Stůj“. Platí oddílové návěstidlo pro PMD?",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 125,
+  "text": "Jak je prováděn návrat vlaku z trati, který zcela opustil obvod stanice?",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 126,
+  "text": "Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo PMD 865432?",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 127,
+  "text": "Strojvedoucí vedoucího vozidla vlaku, z něhož je ovládáno brzdění při PMD, zadá na radiostanici v systému GSM-R:",
+  "images": [],
+  "page": 19
+ },
+ {
+  "n": 128,
+  "text": "Jak bude strojvedoucí jednat při jízdě PMD k oddílovému návěstidlu s návěstí Stůj?",
+  "images": [
+   "img/q128_1.png"
+  ],
+  "page": 19
+ },
+ {
+  "n": 129,
+  "text": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD návěstidlo Se 5 ve funkci označníku?",
+  "images": [
+   "img/q129_1.png"
+  ],
+  "page": 20
+ },
+ {
+  "n": 130,
+  "text": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího zpravil písemným rozkazem. Platí pro PMD návěstidlo Se 5 ve funkci označníku?",
+  "images": [
+   "img/q130_1.png"
+  ],
+  "page": 20
+ },
+ {
+  "n": 131,
+  "text": "PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího zpravil písemným rozkazem. Platí pro PMD označník?",
+  "images": [
+   "img/q131_1.png"
+  ],
+  "page": 20
+ },
+ {
+  "n": 132,
+  "text": "V nácestné stanici Križná je nutno odstavit z vlaku druhý vůz za lokomotivou. Doprovod vlaku nemá v této stanici znalost místních poměrů pro posun. Lze toto odstavení provést?",
+  "images": [
+   "img/q132_1.png"
+  ],
+  "page": 20
+ },
+ {
+  "n": 133,
+  "text": "Jakým způsobem jede strojvedoucí při posunu?",
+  "images": [],
+  "page": 20
+ },
+ {
+  "n": 134,
+  "text": "O jaký posun se jedná při objíždění soupravy vlaku?",
+  "images": [],
+  "page": 20
+ },
+ {
+  "n": 135,
+  "text": "Objížděná souprava, zajištěná odvětraným brzd. potrubím, může být spolehlivě zajištěna proti ujetí nejdéle:",
+  "images": [],
+  "page": 20
+ },
+ {
+  "n": 136,
+  "text": "Hnací vozilo ř. 814 odstupuje v ŽST Baníkov od vlaku 9800 do depa. Kdo je zaměstnancem řídícím posun?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 137,
+  "text": "V hranicích depa stojí lokomotiva jedoucí na vlak. Kdo je zaměstnancem řídícím posun?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 138,
+  "text": "Po příjezdu vlaku do stanice Dukla odstupuje hnací vozidlo do depa. S kým strojvedoucí sjednává posun?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 139,
+  "text": "Strojvedoucí zastavil v cílové ŽST Borišov a je nutno provést pravidelný posun s posunovou četou. Ze kterého dokumentu strojvedoucí zjistí, kdo bude vedoucím posunové čety?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 140,
+  "text": "Jaký bude postup strojvedoucího po příjezdu vlaku 692 do konečné stanice, kde bude lokomotiva od vlaku v režimu GSM-R posunovat do depa?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 141,
+  "text": "V jakých případech bude nastaven na radiostanici v systému GSM-R funkční kód 03?",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 142,
+  "text": "Souhlas k jízdě rádiovým zařízením pro vlak Os 6543 stojící na třetí koleji ve stanici Jeníkov zní:",
+  "images": [],
+  "page": 21
+ },
+ {
+  "n": 143,
+  "text": "Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Kotlíkov, pro lok. od vlaku 10254 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se11 a najedeme na první koleji na vlak 10258. Posun dovolen od 10:30 do 10:45 hod. Funkční kód RDST 04.“. Strojvedoucí kvůli mlze nevidí na návěst nejbližšího hlavního návěstidla. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q143_1.png"
+  ],
+  "page": 21
+ },
+ {
+  "n": 144,
+  "text": "Strojvedoucí bude po zastavení vlaku odstupovat do depa a obdržel od posunovače tuto informaci: „Lokomotiva od vlaku 9890 na druhé koleji je odvěšená“. Strojvedoucí s výpravčím nekomunikoval. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q144_1.png"
+  ],
+  "page": 21
+ },
+ {
+  "n": 145,
+  "text": "Strojvedoucí bude po zastavení vlaku odstupovat do depa. Po výstupu cestujících se změní návěst nejbližšího hlavního návěstidla z návěsti „Stůj“ na návěst „Posun dovolen“. Komunikace mezi výpravčím a strojvedoucím neproběhla. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q145_1.png"
+  ],
+  "page": 22
+ },
+ {
+  "n": 146,
+  "text": "Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Baníkov, pro motor od vlaku 19999 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se22 a najedeme na první koleji na vlak 19998. Funkční kód RDST 01.“. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q146_1.png"
+  ],
+  "page": 22
+ },
+ {
+  "n": 147,
+  "text": "Jak je zpraven strojvedoucí o poruše PZZ při posunu přes přejezdy s poruchou PZZ?",
+  "images": [],
+  "page": 22
+ },
+ {
+  "n": 148,
+  "text": "O posunu bez posunové čety rozhoduje:",
+  "images": [],
+  "page": 22
+ },
+ {
+  "n": 149,
+  "text": "Kolik vozidel normální stavby smí být sunuto při posunu bez posunové čety?",
+  "images": [],
+  "page": 22
+ },
+ {
+  "n": 150,
+  "text": "Jak dá signalista strojvedoucímu při posunu bez posunové čety návěst „Souhlas k jízdě“ pomocí radiostanice?",
+  "images": [],
+  "page": 22
+ },
+ {
+  "n": 151,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q151_1.png"
+  ],
+  "page": 22
+ },
+ {
+  "n": 152,
+  "text": "Jaký je název této návěsti?",
+  "images": [
+   "img/q152_1.png"
+  ],
+  "page": 22
+ },
+ {
+  "n": 153,
+  "text": "Za provedení Ověření činnosti brzdy posunového dílu odpovídá?",
+  "images": [],
+  "page": 22
+ },
+ {
+  "n": 154,
+  "text": "Jak zní slovní znění návěsti „Vzdálit“ dávané pomocí rádiové stanice?",
+  "images": [],
+  "page": 23
+ },
+ {
+  "n": 155,
+  "text": "Jak zní slovní znění návěsti „Přiblížit“ dávané pomocí rádiové stanice?",
+  "images": [],
+  "page": 23
+ },
+ {
+  "n": 156,
+  "text": "Jak zní závazné slovní znění návěsti „Stlačit“ dávané pomocí rádiové stanice strojvedoucímu vlaku 9820?",
+  "images": [],
+  "page": 23
+ },
+ {
+  "n": 157,
+  "text": "Jak zní závazné slovní znění návěsti „Stůj“ dávané pomocí rádiové stanice?",
+  "images": [],
+  "page": 23
+ },
+ {
+  "n": 158,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q158_1.png"
+  ],
+  "page": 23
+ },
+ {
+  "n": 159,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q159_1.png"
+  ],
+  "page": 23
+ },
+ {
+  "n": 160,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q160_1.png"
+  ],
+  "page": 23
+ },
+ {
+  "n": 161,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q161_1.png"
+  ],
+  "page": 24
+ },
+ {
+  "n": 162,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q162_1.png"
+  ],
+  "page": 24
+ },
+ {
+  "n": 163,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q163_1.png"
+  ],
+  "page": 24
+ },
+ {
+  "n": 164,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q164_1.png"
+  ],
+  "page": 24
+ },
+ {
+  "n": 165,
+  "text": "Za jízdy elektrického hnacího vozidla dojde k výpadku napětí v troleji a lokomotiva nesignalizuje závadu sběrače. Jak bude strojvedoucí dále postupovat?",
+  "images": [],
+  "page": 24
+ },
+ {
+  "n": 166,
+  "text": "Při jízdě elektrického hnacího vozidla strojvedoucí zjistí rozkmitání troleje a výpadek napětí v troleji. Další postup strojvedoucího bude:",
+  "images": [],
+  "page": 24
+ },
+ {
+  "n": 167,
+  "text": "Jak bude strojvedoucí postupovat při jízdě elektrického hnacího vozidla úsekem s napěťovou výlukou označeným dle obrázku? Strojvedoucí je zpraven o umístění výlukových návěstidel pro elektrický provoz.",
+  "images": [
+   "img/q167_1.png"
+  ],
+  "page": 25
+ },
+ {
+  "n": 168,
+  "text": "Jak se strojvedoucí dozví o umístění výlukových návěstidel pro elektrický provoz?",
+  "images": [],
+  "page": 25
+ },
+ {
+  "n": 169,
+  "text": "Strojvedoucí vjíždí do stanice. V úrovni vjezdového návěstidla uvidí výlukové návěstidlo s návěstí „Stáhněte sběrač“. Na písemném rozkaze není v této stanici žádná výluka trakčního vedení uvedena. Jak bude strojvedoucí postupovat?",
+  "images": [
+   "img/q169_1.png"
+  ],
+  "page": 25
+ },
+ {
+  "n": 170,
+  "text": "Strojvedoucí byl zpraven písemným rozkazem o mimořádné jízdě se staženými sběrači: „Ve Velimi při vjezdu projeďte beznapěťový úsek se staženými sběrači.“. Jak bude strojvedoucí postupovat při jízdě kolem výlukových návěstidel pro elektrický provoz?",
+  "images": [
+   "img/q170_1.png"
+  ],
+  "page": 25
+ },
+ {
+  "n": 171,
+  "text": "Jak postupuje strojvedoucí u návěsti „Úsekový dělič“?",
+  "images": [
+   "img/q171_1.png"
+  ],
+  "page": 25
+ },
+ {
+  "n": 172,
+  "text": "Jakým způsobem pojede strojvedoucí v úseku od návěsti „Vypněte trakční odběr“?",
+  "images": [
+   "img/q172_1.png"
+  ],
+  "page": 25
+ },
+ {
+  "n": 173,
+  "text": "Jak strojvedoucí postupuje za jízdy vlaku při zjištění poškození sběrače?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 174,
+  "text": "Jak se provede kontrola sběrače a trolejového vedení po výpadku napětí u vlaku řízeného z řídícího vozu?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 175,
+  "text": "Vykonává se součinnost přídavné a průběžné brzdy na stanovišti řídícího vozu v soupravě vlaku?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 176,
+  "text": "Kdy provádí strojvedoucí funkční zkoušku zařízení SRD (vozidlové radiostanice)?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 177,
+  "text": "Při odstavení osobních vozů a zajištění proti ujetí započítáváme brzdící váhu podle kterého údaje na voze?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 178,
+  "text": "Brzdící váha vlaku je 100 tun při jeho hmotnosti 200 tun. Korekční součinitel kappa je roven 1. Jaké je skutečné brzdící procento vlaku?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 179,
+  "text": "Do jaké polohy se přestaví přestavovače brzdy na vlacích osobní dopravy?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 180,
+  "text": "Zkoušku spojení v SRD provádí strojvedoucí hnacího vozidla kódovaným hlášením:",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 181,
+  "text": "Co je simplexní kanál?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 182,
+  "text": "Pokud byl vlak zastaven dálkově radiovým zařízením SRD, jaký symbol rutinního příkazu svítí na displeji radiostanice?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 183,
+  "text": "Volací číslo vozidlové radiové stanice v SRD vedoucího hnacího vozidla vlaku 951 je:",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 184,
+  "text": "Jaké údaje musí vždy strojvedoucí zadat do elektronického rychloměru u vozidla bez ETCS?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 185,
+  "text": "Jak bude postupovat strojvedoucí, zjistil-li při nástupu na vozidlo v domovském depu vozidla, že na rychloměru svítí červeně signalizace „Porucha“ a závadu se posléze nepodaří odstranit?",
+  "images": [
+   "img/q185_1.png"
+  ],
+  "page": 26
+ },
+ {
+  "n": 186,
+  "text": "V jakém případě neprověřuje vlakový zabezpečovač periodicky bdělost strojvedoucího při jízdě na tratích nevybavených ETCS před návěstí hl. návěstidla v poloze „Volno“?",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 187,
+  "text": "Součásti pro bezpečnostní brzdu (elektromagnetický ventil nebo jeho kryt, tlakový spínač a uzavírací kohout) jsou označeny barvou:",
+  "images": [],
+  "page": 26
+ },
+ {
+  "n": 188,
+  "text": "Za jízdy vlaku dojde bez zjevné příčiny k úplnému vypuštění vzduchu z hlavního potrubí. Jaký bude další postup strojvedoucího?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 189,
+  "text": "Jak lze odstranit nebo snížit skluz hnacích náprav kolejového vozidla?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 190,
+  "text": "Pod pojmem „inversní ventil“ se rozumí?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 191,
+  "text": "Rukojeť spojkového kohoutu hlavního brzdového potrubí je natřena barvou?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 192,
+  "text": "Jaký bude postup doprovodu vlaku v čase odjezdu po výpravě vlaku výpravčím? Souprava vlaku má centrální ovládání dveří strojvedoucími, ale jen zadní motorový vůz je obsazen vlakovou četou:",
+  "images": [
+   "img/q192_1.png"
+  ],
+  "page": 27
+ },
+ {
+  "n": 193,
+  "text": "Jakým způsobem oznámí strojvedoucí zadní jednotky strojvedoucímu předního HV ř. 714 připravenost k odjezdu?",
+  "images": [
+   "img/q193_1.png"
+  ],
+  "page": 27
+ },
+ {
+  "n": 194,
+  "text": "Strojvedoucí vlaku s přepravou cestujících jedoucím v systému TB 5 obdržel návěst „Souhlas k odjezdu“. Dveře, ze kterých vlaková četa dává návěst zůstávají stále otevřené. Strojvedoucí se s vlakem rozjet:",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 195,
+  "text": "Strojvedoucí v čase pravidelného odjezdu po provedené výpravě vlaku dá vlakové četě návěst „Výzva strojvedoucího“ přes zpětné zrcátko. Vlaková četa nereaguje. Strojvedoucí dále postupuje takto:",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 196,
+  "text": "Vlak vedený HV ř. 841 zastavil pro výstup a nástup cestujících ve 22:42 hod. ve stanici s výlukou dopravní služby výpravčího. V čase pravidelného odjezdu postupuje strojvedoucí takto:",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 197,
+  "text": "Strojvedoucí měl klíče od odstaveného HV nepřetržitě u sebe. Kdy se ZBHV nemusí vykonat?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 198,
+  "text": "Vykonává se pravidelně zkouška těsnosti na soupravách vlaků osobní dopravy?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 199,
+  "text": "Dle jakého dokumentu se provádí u jednotek ZBHV?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 200,
+  "text": "Co se musí provést při změně stanoviště řízení HV?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 201,
+  "text": "Jaká zkouška brzdy se provádí při rozpojení vlaku na více než dvou místech?",
+  "images": [],
+  "page": 27
+ },
+ {
+  "n": 202,
+  "text": "Jaká je nová stanovená rychlost vlaku pro vlak Sp 1565 v úseku Rakovník - Lužná u Rakovníka?",
+  "images": [
+   "img/q202_1.png"
+  ],
+  "page": 28
+ },
+ {
+  "n": 203,
+  "text": "Jaká je nová stanovená rychlost vlaku pro vlak Os 9710 v úseku Kralupy nad Vltavou - Olovnice?",
+  "images": [
+   "img/q203_1.png"
+  ],
+  "page": 28
+ },
+ {
+  "n": 204,
+  "text": "Za ŽST Starý Plzenec dojde k poruše národního vlakového zabezpečovače. Jak bude strojvedoucí pokračovat další v jízdě?",
+  "images": [
+   "img/q204_1.png"
+  ],
+  "page": 28
+ },
+ {
+  "n": 205,
+  "text": "HV má poruchu národního VZ. Na stanoviště strojvedoucího přichází člen obsluhy vlaku (p. Novák). Jak provede strojvedoucí zápis do Knihy předávky HV?",
+  "images": [],
+  "page": 28
+ },
+ {
+  "n": 206,
+  "text": "Jakým průkazem se musí osoba požadující jízdu na stanovišti strojvedoucího z důvodu poznání traťových poměrů strojvedoucímu prokázat?",
+  "images": [],
+  "page": 28
+ },
+ {
+  "n": 207,
+  "text": "Kolik osob smí být přítomno na stanovišti strojvedoucího z něhož je hnací vozidlo řízeno?",
+  "images": [],
+  "page": 28
+ },
+ {
+  "n": 208,
+  "text": "Strojvedoucí odstaví lokomotivu vybavenou jednou ruční brzdou ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?",
+  "images": [],
+  "page": 29
+ },
+ {
+  "n": 209,
+  "text": "Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?",
+  "images": [],
+  "page": 29
+ },
+ {
+  "n": 210,
+  "text": "Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami v obvodu depa. Jak provede zajištění vozidla proti ujetí?",
+  "images": [],
+  "page": 29
+ },
+ {
+  "n": 211,
+  "text": "Dojde-li za jízdy vlaku Os 25906 u HV s mechanickým rychloměrem k poruše rychloměru za zastávkou Praha Jinonice. Kam smí vlak pokračovat v jízdě?",
+  "images": [
+   "img/q211_1.png"
+  ],
+  "page": 29
+ },
+ {
+  "n": 212,
+  "text": "K soupravě vlaku se připojí postrková lokomotiva. Jaký úkon se musí provést po propojení hlavního potrubí se soupravou vlaku?",
+  "images": [],
+  "page": 29
+ },
+ {
+  "n": 213,
+  "text": "Sunutý vlak je připraven k odjezdu ze stanice Klatovy. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího vozidla vlaku dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?",
+  "images": [
+   "img/q213_1.png"
+  ],
+  "page": 29
+ },
+ {
+  "n": 214,
+  "text": "Sunutý vlak je připraven k odjezdu ze stanice Klatovy a na odjezdové návěstidlo doprovod vlaku nevidí. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího hnacího vozidla dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?",
+  "images": [
+   "img/q214_1.png"
+  ],
+  "page": 30
+ },
+ {
+  "n": 215,
+  "text": "Jaké návěsti pomocí telekomunikačního zařízení předává strojvedoucímu vedoucího hnacího vozidla zaměstnanec v čele sunutého vlaku?",
+  "images": [],
+  "page": 30
+ },
+ {
+  "n": 216,
+  "text": "Jak zajistíte soupravu vlaku proti ujetí na širé trati při neschopnosti hnacího vozidla (porucha kompresoru)?",
+  "images": [],
+  "page": 30
+ },
+ {
+  "n": 217,
+  "text": "Jaký bude správný postup doprovodu vlaku před odjezdem vlaku ze zastávky v obvodu stanice. HV je řady 810, obsluha vlaku je u dveří vedle strojvedoucího a návěsti si budou uvedení zaměstnanci předávat ústně:",
+  "images": [
+   "img/q217_1.png"
+  ],
+  "page": 30
+ },
+ {
+  "n": 218,
+  "text": "Jak musí být při vzdálení se ze stanoviště strojvedoucího při střídání na ose zajištěna souprava vlaku proti ujetí?",
+  "images": [],
+  "page": 30
+ },
+ {
+  "n": 219,
+  "text": "Vzdálením se ze stanoviště strojvedoucího se rozumí stav, kdy:",
+  "images": [],
+  "page": 30
+ },
+ {
+  "n": 220,
+  "text": "Jakou rychlostí pojede vlak dle obrázku (max. rychlost ř. 844 je 120 km/h) v úseku A od návěsti „Traťová rychlost“?",
+  "images": [
+   "img/q220_1.png"
+  ],
+  "page": 31
+ },
+ {
+  "n": 221,
+  "text": "Předpis určuje povinnosti pro doprovod vlaku. Kterých zaměstnanců se tyto povinnosti týkají?",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 222,
+  "text": "Jak bude postupovat strojvedoucí, dojde-li ve stanici obsazené výpravčím k poruše rychloměru?",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 223,
+  "text": "Na vlakovém vozidle s přípřeží nezapojeném do vícenásobného řízení nastaví strojvedoucí vlaku 2568 do rychloměru číslo vlaku takto:",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 224,
+  "text": "Jako strojvedoucí posunujete na druhé posunové záloze. V rychloměru na pozici číslo vlaku bude zadán údaj v jakém formátu?",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 225,
+  "text": "Je třeba dopravit hnací vozidlo s vadnou mobilní částí VZ z jednoho depa do jiného. Je možné ho vystavit z depa na vlak, pokud bude celou cestu jako řízené v mnohočlenném řízení?",
+  "images": [
+   "img/q225_1.png"
+  ],
+  "page": 31
+ },
+ {
+  "n": 226,
+  "text": "Soupravový vlak zastavil na širé trati. Jak bude strojvedoucí postupovat v další jízdě v případě, že zjistil poruchu národního VZ?",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 227,
+  "text": "Vlak zastavil ve stanici pro poruchu národního VZ. Jak bude strojvedoucí postupovat před další jízdou v případě, že na stanoviště přichází další zaměstnanec?",
+  "images": [],
+  "page": 31
+ },
+ {
+  "n": 228,
+  "text": "Jaká je nová stanovená rychlost vlaku pro vlak Os 5005 v úseku Kolín - Záboří nad Labem?",
+  "images": [
+   "img/q228_1.png"
+  ],
+  "page": 32
+ },
+ {
+  "n": 229,
+  "text": "Na jakou dobu se může strojvedoucí vzdálit ze stanoviště strojvedoucího, aniž by musel hnací vozidlo odstavit?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 230,
+  "text": "Při poruše pískovacího zařízení s neúmyslným pískováním strojvedoucí předpokládá ovlivnění činnosti kolejových obvodů. Jaký bude jeho další postup?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 231,
+  "text": "Po souhlasu k posunu na točnu nebo přesuvnu se při najíždění nesmí překročit rychlost jízdy:",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 232,
+  "text": "Jaký údaj zapíše strojvedoucí v Knize předávky HV do rubriky 8 „Informace o průběhu směny“ při ukončení směny na HV, v případě, že se na HV nevyskytla žádná závada?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 233,
+  "text": "Kolikrát ve směně provádí strojvedoucí kontrolu pískování?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 234,
+  "text": "Jak bude označeno HV při zavedení aktivního odstavení?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 235,
+  "text": "Vlak Lv je veden samostatným HV řady 754. Smí strojvedoucí pro brzdění za běžných provozních podmínek použít přímočinnou brzdu?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 236,
+  "text": "Je použití vysokotlakého plnicího švihu při zkoušce brzdy dovoleno?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 237,
+  "text": "Strojvedoucí přivěšuje lokomotivu k soupravě vlaku, jejíž první vůz je vybaven napájecím potrubím. Spojí spolu s ostatními předepsanými vedeními také napájecí potrubí?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 238,
+  "text": "Jaký úkon provede strojvedoucí vlaku sestaveného z osobních vozů klasické stavby (např. řady A, B apod.) na pokyn „Zabrzděte“ daný od vozmistra kontrolujícího účinek brzdy vozidel:",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 239,
+  "text": "Započítává se elektrodynamická brzda u lokomotiv?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 240,
+  "text": "Započítává se elektrodynamická brzda u elektrických jednotek?",
+  "images": [],
+  "page": 32
+ },
+ {
+  "n": 241,
+  "text": "Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q241_1.png"
+  ],
+  "page": 33
+ },
+ {
+  "n": 242,
+  "text": "Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q242_1.png"
+  ],
+  "page": 33
+ },
+ {
+  "n": 243,
+  "text": "Jak se strojvedoucí na elektrické jednotce seznámí se zprávou o brzdění:",
+  "images": [],
+  "page": 33
+ },
+ {
+  "n": 244,
+  "text": "Vlak sestavený z lokomotivy a soupravy 5 vozů vjíždí do ŽST Kolejov s pobytem pro nástup a výstup cestujících. Jakým způsobem zastaví strojvedoucí vlak?",
+  "images": [],
+  "page": 33
+ },
+ {
+  "n": 245,
+  "text": "Při jízdě vlaku nastanou zhoršené adhezní podmínky a vlak má zastavit na zastávce. Jak bude postupovat strojvedoucí, aby toto zastavení zajistil?",
+  "images": [],
+  "page": 33
+ },
+ {
+  "n": 246,
+  "text": "Za jízdy vlaku Os 8189 se stanovenou rychlostí 100 km/h v úseku Kolejov – Zarážedlice hustě sněží a dochází k víření sněhu. Vlak má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude postup strojvedoucího za uvedených podmínek?",
+  "images": [
+   "img/q246_1.png"
+  ],
+  "page": 33
+ },
+ {
+  "n": 247,
+  "text": "Jaký je tlak v hlavní potrubí při úplném provozním zabrzdění:",
+  "images": [],
+  "page": 33
+ },
+ {
+  "n": 248,
+  "text": "Je možné provést zkoušku brzdy jen pomocí diagnostického displeje vozidla:",
+  "images": [],
+  "page": 33
+ },
+ {
+  "n": 249,
+  "text": "Jak se strojvedoucí vedoucího vozidla vlaku dorozumí s vedoucím obsluhy vlaku?",
+  "images": [
+   "img/q249_1.png"
+  ],
+  "page": 33
+ },
+ {
+  "n": 250,
+  "text": "Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1499 v úseku Zálezlice - Bítov bez obsluhy vlaku. Dá strojvedoucí souhlas s takovou jízdou, pokud níže uvedená souprava je vybavena systémem CODS?",
+  "images": [
+   "img/q250_1.png"
+  ],
+  "page": 33
+ },
+ {
+  "n": 251,
+  "text": "Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1599 v úseku Vranov - Bítov bez obsluhy vlaku. Může být vlak takto provozován, pokud níže uvedená souprava je provozována v systému TB 5?",
+  "images": [
+   "img/q251_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 252,
+  "text": "Jak se strojvedoucí dozví o připravenosti k odjezdu soupravového vlaku s obsluhou vlaku?",
+  "images": [],
+  "page": 34
+ },
+ {
+  "n": 253,
+  "text": "Strojvedoucí obdrží v čase 17:20 hod od obsluhy vlaku návěst „Souhlas k odjezdu“. Jaký bude další postup strojvedoucího?",
+  "images": [
+   "img/q253_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 254,
+  "text": "Vlak odjížděl od nástupiště ŽST Krašov, po rozjezdu mimořádně zastavil z důvodu odpadnutí ventilu VZ a část soupravy zůstala u nástupiště. V TJŘ ŽST Krašov není ve sloupci 2 symbol „Výpravky“. Jak bude strojvedoucí postupovat po odstranění závady VZ?",
+  "images": [
+   "img/q254_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 255,
+  "text": "Vlak s přepravou cestujících bez obsluhy vlaku Os 19998 zastavil na zastávce Unětice. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, je-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?",
+  "images": [
+   "img/q255_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 256,
+  "text": "Vlak s přepravou cestujících bez obsluhy vlaku Os 19996 zastavil na zastávce Běloky. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, není-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?",
+  "images": [
+   "img/q256_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 257,
+  "text": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "images": [
+   "img/q257_1.png"
+  ],
+  "page": 34
+ },
+ {
+  "n": 258,
+  "text": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "images": [
+   "img/q258_1.png"
+  ],
+  "page": 35
+ },
+ {
+  "n": 259,
+  "text": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "images": [
+   "img/q259_1.png"
+  ],
+  "page": 35
+ },
+ {
+  "n": 260,
+  "text": "Vlak zastavil na zastávce v obvodu stanice pro výstup a nástup cestujících a poté pokračuje v jízdě opačným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "images": [
+   "img/q260_1.png"
+  ],
+  "page": 35
+ },
+ {
+  "n": 261,
+  "text": "Jakou návěst a komu dá strojvedoucí postrkové jednotky po obdržení návěsti „Pohotovi k odjezdu“ od člena obsluhy vlaku 2 a uzavření dveří?",
+  "images": [
+   "img/q261_1.png"
+  ],
+  "page": 35
+ },
+ {
+  "n": 262,
+  "text": "Hlásí zaměstnanec v čele sunutého vlaku tuto návěst?",
+  "images": [
+   "img/q262_1.png"
+  ],
+  "page": 35
+ },
+ {
+  "n": 263,
+  "text": "Jak často opakuje u sunutého vlaku zaměstnanec v čele sunutého vlaku závazné slovní pokyny k sunutí?",
+  "images": [],
+  "page": 35
+ },
+ {
+  "n": 264,
+  "text": "Od jaké vzdálenosti musí být u sunutého vlaku doplněn slovní pokyn k sunutí o informací o zbývajících metrech k místu zastavení?",
+  "images": [],
+  "page": 35
+ },
+ {
+  "n": 265,
+  "text": "Musí strojvedoucí informaci o návěsti nepřenosného návěstidla prostřednictvím radiové stanice u sunutého vlaku potvrdit?",
+  "images": [],
+  "page": 35
+ },
+ {
+  "n": 266,
+  "text": "Jaké poznání tratí lze realizovat pomocí videopoznání?",
+  "images": [],
+  "page": 35
+ },
+ {
+  "n": 267,
+  "text": "Jaké poznání tratí lze realizovat pomocí fotopoznání?",
+  "images": [],
+  "page": 36
+ },
+ {
+  "n": 268,
+  "text": "Kdy musí provést strojvedoucí synchronizaci dat ve služebním přiděleném tabletu?",
+  "images": [],
+  "page": 36
+ },
+ {
+  "n": 269,
+  "text": "Jak se provádí ověření činnosti brzdy posunového dílu?",
+  "images": [],
+  "page": 36
+ },
+ {
+  "n": 270,
+  "text": "Jakým způsobem je strojvedoucí informován o změnách TTP nebo ZDD, dojde-li ke změně traťových nebo místních poměrů?",
+  "images": [],
+  "page": 36
+ },
+ {
+  "n": 271,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q271_1.png"
+  ],
+  "page": 36
+ },
+ {
+  "n": 272,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q272_1.png"
+  ],
+  "page": 36
+ },
+ {
+  "n": 273,
+  "text": "Jaký je název této návěsti a jaký pokyn dává?",
+  "images": [
+   "img/q273_1.png"
+  ],
+  "page": 36
+ },
+ {
+  "n": 274,
+  "text": "Na trati jsou umístěny horní a dolní rychlostníky N. Který rychlostník platí pro vlak dle obrázku, pokud je v ZOB uvedeno „PASS 2“?",
+  "images": [
+   "img/q274_1.png"
+  ],
+  "page": 37
+ },
+ {
+  "n": 275,
+  "text": "Na vlaku Ex je vykonávána ÚZB v režimu R+Mg. Po zabrzdění na zkoušku brzdy a provedené kontrole stavu zabrzděno obdrží strojvedoucí od vozmistra kontrolujícího účinek brzdy vozidel opětovně pokyn „Zabrzděte“ pro vykonání kontroly správné funkce Mg-brzdy. Jaký úkon na základě tohoto pokynu strojvedoucí provede? Změna od 13. 2. 2026 - upraveny obrázky otázek 55 a 68 Změna od 18. 2. 2026 - doplněn obrázek otázky 246",
+  "images": [],
+  "page": 37
+ }
+]

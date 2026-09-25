@@ -1,0 +1,3246 @@
+[
+ {
+  "id": "vectron-p3-prehrati-transformatoru",
+  "rada": "Vectron",
+  "nazev": "Přehřátí hlavního transformátoru – hlášení 120 / 121",
+  "podnadpis": "bezpečnostní upozornění Siemens, provoz na DC soustavě s vadným AC hlavním vypínačem",
+  "kategorie": "Poruchy",
+  "uvod": "Bezpečnostní upozornění Siemens – Přehřátí hlavního transformátoru. Platí od 1. 12. 2025 do odvolání. Při provozu na tratích s DC soustavou s vadným AC hlavním vypínačem může dojít k následnému poškození lokomotivy. Pokud se v uvedeném provozním případě strojvedoucímu zobrazí následující hlášení, je nutné provést tato opatření.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "Bezpečnostní upozornění Siemens – Přehřátí hlavního transformátoru, str. 3",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Poruchové hlášení 120: Přehřátí transformátoru → měnič deaktivován"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Do strojovny nesmí být vstupováno, dokud je hlášení aktivní."
+   },
+   {
+    "typ": "misto",
+    "text": "Poruchové hlášení 121: Teplota transformátoru mimo rozsah → hlavní vypínač vypnut"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Lokomotiva musí být okamžitě odpojena od vysokého napětí spuštěním sběrače a vypnutím baterií."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Poté nesmí být strojovna otevřena po dobu minimálně jedné hodiny kvůli ochlazení chladicího okruhu transformátoru."
+   },
+   {
+    "typ": "info",
+    "text": "Upozorňujeme, že kromě výše uvedených hlášení se mohou zobrazit i další. Pro detekci popsané závady je však relevantní pouze poruchové hlášení 121."
+   },
+   {
+    "typ": "pozor",
+    "text": "Pokud se poruchové hlášení 121 zobrazí v uvedeném provozním případě, lokomotiva nesmí pokračovat v jízdě a musí být odvezena do dílny „studená“. Vadný AC hlavní vypínač musí být vyměněn před opětovným zapnutím lokomotivy."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-p1-uvedeni-z-uplneho-odstaveni",
+  "rada": "Vectron",
+  "nazev": "Uvedení lokomotivy do provozu z úplného odstavení – P 1",
+  "podnadpis": "vypnutá baterie, lokomotiva úplně odstavená",
+  "kategorie": "Oživení a rozjezd",
+  "uvod": "Kap. 2 Pokynu 3/2023 – postup uvedení lokomotivy Vectron do provozu z úplného odstavení (O 1). Bod označený *) se neprovádí při zprovoznění vozidla mimo obvod pracoviště ČD.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 2 Uvedení lokomotivy do provozu z úplného odstavení – P 1, str. 6–9",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": "1a",
+    "text": "Zkontroluj, zda je lokomotiva zajištěná proti ujetí a zda se lokomotiva nachází pod trolejovým vedením."
+   },
+   {
+    "typ": "krok",
+    "c": "1b",
+    "text": "*) Zkontroluj, zda na lokomotivě nikdo nepracuje a lokomotiva není připojena na cizí zdroj napětí. Případně odpoj kabel napájení z cizího zdroje.\nZkontroluj, zda jsou všechny kryty a klapky na lokomotivě zavřené a zajištěné."
+   },
+   {
+    "typ": "info",
+    "text": "*) Neprovádí se při zprovoznění vozidla mimo obvod pracoviště ČD."
+   },
+   {
+    "typ": "krok",
+    "c": "1c",
+    "text": "Uzavři kohout hlavního potrubí na čele lokomotivy a koncovku brzdové spojky zavěs na příslušný závěs."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Seznam se zápisy v Knize předávky a zkontroluj záznam o požadovaných opravách."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti pro uvedení lokomotivy do provozu v požadované poloze. Proveď případně jejich nastavení.\nZkontroluj:\n• zda jsou všechny spínače a ovládací páky na řídicím pultu a na obou bočních pomocných pultech v základní poloze;\n• zda je spínač kompresoru v poloze „auto“;\n• zda jsou všechny jističe na zadní mezistěně v základní poloze;\n• zda jsou všechny dveře skříněk a kryty na řídicím pultu zavřené a zajištěné;\n• zda je volič pro nouzové nastavení návěstních světel v poloze „auto“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na zadní mezistěně zapni pomocí ovladače stykač baterie (> 1 s).\nPřepínač ovládání baterie v rozváděči nízkého napětí ve strojovně musí být v poloze „Automatika“.\nZačne probíhat aktivace řídicích systému lokomotivy. To může trvat několik minut."
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj zabrzdění střadačové brzdy (tlačítko zastřádání po cca 30 sec. svítí červeně)."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Pokud je na stanovišti klíček řízení, vezmi ho s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "6a",
+    "text": "Zkontroluj, zda je napětí baterie v rozsahu 22 V až 24 V."
+   },
+   {
+    "typ": "krok",
+    "c": "6b",
+    "text": "Pomocí příslušného přepínače zkontroluj zemní svod baterie lokomotivy - platí pro samostatně stojící lokomotivu."
+   },
+   {
+    "typ": "krok",
+    "c": "6c",
+    "text": "Zkontroluj, zda jsou všechny spojovací kabely na kabelovém držáku a zda je k dispozici doplňková výbava."
+   },
+   {
+    "typ": "krok",
+    "c": "6d",
+    "text": "Zkontroluj, zda se všechny jističe, přepínače, voliče, klíče bezpečnostního systému, uzemňovače a kohouty nachází v poloze požadované/nutné pro provoz. Proveď případně jejich nastavení.\nZkontroluj:\n• zda se přepínače a jističe vlakových zabezpečovačů nacházejí v poloze podle požadovaného provozního nasazení lokomotivy;\n• zda se všechny jističe nacházejí v základní poloze;\n• zda je přepínač ovládání baterie ve střední poloze (AUTO);\n• zda se volič sběračů nachází v poloze „Automatika“ nebo v poloze požadované/nutné pro provoz;\n• zda je uzemňovač AC a DC v provozní poloze „Odzemněno“;\n• zda jsou všechny jističe elektroměru v základní poloze;\n• zda je uzavírací kohout pískování pro 2. a 3. nápravu otevřený;\n• zda jsou všechny 4 uzavírací kohouty pneumatických houkaček na stropu ve strojovně v poloze „otevřeno“;\n• vizuálně obě chladicí věže, zda zde nejsou uvolněné hadicové spoje a netěsná místa;\n• všechny stavy hladin kapalin v nádržích na obou chladicích věžích (chladicí kapalina a transformátorový olej). Při poklesu teploty pod 5 C kontroluj stav transformátorového oleje na stavoznaku Buchholzova relé;\n• zda jsou všechny jističe na panelu pomocných pohonů v základní poloze;\n• zda jsou spínače protipožárního systému v základní poloze. Kontrola připravenosti k provozu - kontrolka „System On“ musí svítit;\n• zda jsou plomby na pákách ventilů hasicích přístrojů nepoškozené. Pomocí přepínače zkoušení (-JD–S62) ověřte zvukovou a optickou signalizaci požáru;\n• zda se všechny uzavírací kohouty na pneumatickém panelu nacházejí v základní poloze. Nastav páku režimu brzdění do požadované polohy (G-P-R);\n• základní polohu modrého klíče sběračů (v provozu - svislá poloha)."
+   },
+   {
+    "typ": "krok",
+    "c": "6e",
+    "text": "Zkontroluj, zda jsou všechny kryty a dveře skříní zavřené a zajištěné."
+   },
+   {
+    "typ": "krok",
+    "c": "6f",
+    "text": "Zkontroluj stavy hladin kapalin v nádržích na obou chladicích věžích a případně viditelnou netěsnost."
+   },
+   {
+    "typ": "krok",
+    "c": "6g",
+    "text": "Na panelu pneumatiky otevři ventil ETCS (B08/2 - žlutý)."
+   },
+   {
+    "typ": "krok",
+    "c": "6h",
+    "text": "Zkontroluj, zda je vypínač protipožárního systému zapnut a plomby na zařízení nepoškozené. Kontrolka „System On“ musí svítit. Proveď test zařízení."
+   },
+   {
+    "typ": "krok",
+    "c": "6i",
+    "text": "Zapni ETCS a příslušné zabezpečovače."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti pro uvedení lokomotivy do provozu v požadované poloze. Proveď případně jejich nastavení.\nZkontroluj:\n• zda jsou všechny spínače a ovládací páky na řídicím pultu a na obou bočních pomocných pultech v základní poloze;\n• zda je spínač kompresoru v poloze „auto“;\n• zda jsou všechny jističe na zadní mezistěně v základní poloze;\n• zda jsou všechny dveře skříněk a kryty na řídicím pultu zavřené a zajištěné;\n• zda je volič pro nouzové nastavení návěstních světel v poloze „auto“."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Po kompletní inicializaci displejů a ETCS aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zkontroluj displeje z hlediska případných poruchových hlášení."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zvedni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zapni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Proveď testy ETCS a potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "14a",
+    "text": "Proveď HW test brzd – jen pokud se na displeji zobrazí příslušné hlášení.\nPodmínky a postup provedení testu:\n• naplněné hlavní potrubí na provozní tlak;\n• HV musí stát;\n• není zavedeno rychločinné brzdění;\n• není spuštěn test žádného zabezpečovacího zařízení;\n• zabrzděte úplným zabrzděním;\n• stiskněte tlačítko „Start“ - tím dojde ke spuštění testu.\nPokud v průběhu testu opustíš obrazovku „testy funkčnosti“, test se přeruší. Test trvá cca 2 minuty a probíhá ve dvou fázích:\n1. fáze trvá cca 90 vteřin a není na displeji ukončena zobrazením hodnoty 100 %;\n2. fáze trvá cca 50 vteřin.\nPo dokončení testu potvrď jeho ukončení tlačítkem „OK“. V případě neúspěšného provedení testu nahlas poruchu dílně. Dbej hlášení na displeji. Po 96 hodinách od vykonání testu se objeví na displeji hlášení vyzývající k novému provedení testu brzd."
+   },
+   {
+    "typ": "krok",
+    "c": "14b",
+    "text": "Na displeji TDD nastav návěstní světla."
+   },
+   {
+    "typ": "krok",
+    "c": "14c",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Proveď ZBHV:\n- na displeji ověř vyprázdnění brzdových válců a zabrzdi průběžnou brzdou o cca 0,5 bar,\n- na displeji zkontroluj hodnotu tlaku v brzdových válcích,\n- zabrzdi přímočinnou brzdu na plný tlak v brzdových válcích a zkontroluj na displeji zvýšení tlaku v brzdových válcích,\n- odbrzdi přímočinnou brzdu, tlak v brzdovém válci se musí snížit na původní hodnotu zabrzdění průběžnou brzdou,\n- odbrzdi průběžnou brzdu a na displeji zkontroluj odvětrání brzdových válců."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Deaktivuj stanoviště spínačem s klíčkem v řídicím pultu. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Proveď vizuální kontrolu funkce návěstních světel na obou stranách lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, sběračů, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy.\nZkontroluj, zda jsou kryty bateriové skříně a pojistkové skříňky zavřené a řádně zajištěné, uzavírací ventil mazání okolků otevřený a zda je kryt správně zavřený a ochranná krytka správně nasazená."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Proveď OOPB dle předpisu ČD V 15/I."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Proveď případné zadání dat do ETCS, test a nastavení potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "23a",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "23b",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 24,
+    "text": "Proveď zápis do Knihy předávky lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 25,
+    "text": "Zabrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 26,
+    "text": "Odbrzdi střadačovou brzdu."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-p2-uvedeni-z-aktivniho-odstaveni",
+  "rada": "Vectron",
+  "nazev": "Uvedení lokomotivy do provozu z aktivního odstavení – P 2",
+  "podnadpis": "lokomotiva aktivně odstavená (režim úspora energie / předehřívání)",
+  "kategorie": "Oživení a rozjezd",
+  "uvod": "Kap. 3 Pokynu 3/2023 – postup uvedení lokomotivy Vectron do provozu z aktivního odstavení (O 2).",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 3 Uvedení lokomotivy do provozu z aktivního odstavení – P 2, str. 9–10",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Uzavři kohout hlavního potrubí na čele lokomotivy a koncovku brzdové spojky zavěs na příslušný závěs."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Seznam se zápisy v Knize předávky a zkontroluj záznam o požadovaných opravách."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Aktivuj stanoviště pomocí spínače s klíčkem a vyčkej uvolnění hlavního vypínače k zapnutí."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Stáhni sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Deaktivuj stanoviště vypínačem s klíčkem. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti v základní poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Vypni stykač baterie ovladačem na mezistěně."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Vyčkej kompletního odstavení lokomotivy z provozu, tj. zhasnutí LED diod na displejích TDD a CCD!"
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "9a",
+    "text": "Zkontroluj, zda je napětí baterie v rozsahu 22 V až 24 V."
+   },
+   {
+    "typ": "krok",
+    "c": "9b",
+    "text": "Pomocí příslušného přepínače zkontroluj zemní svod baterie lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": "9c",
+    "text": "Zkontroluj, zda jsou všechny spojovací kabely na kabelovém držáku a zda je k dispozici doplňková výbava."
+   },
+   {
+    "typ": "krok",
+    "c": "9d",
+    "text": "Zkontroluj, zda se všechny jističe, přepínače, voliče, klíče bezpečnostního systému, uzemňovače a kohouty nachází v poloze požadované/nutné pro provoz. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "9e",
+    "text": "Zkontroluj, zda jsou všechny kryty a dveře skříní zavřené a zajištěné."
+   },
+   {
+    "typ": "krok",
+    "c": "9f",
+    "text": "Zkontroluj stavy hladin kapalin v nádržích na obou chladicích věžích a případně viditelnou netěsnost."
+   },
+   {
+    "typ": "krok",
+    "c": "9g",
+    "text": "Přepínač sběračů ve strojovně přepni do požadované polohy."
+   },
+   {
+    "typ": "krok",
+    "c": "9h",
+    "text": "Na panelu pneumatiky otevři ventil ETCS (B08/2 - žlutý)."
+   },
+   {
+    "typ": "krok",
+    "c": "9i",
+    "text": "Zapni ETCS a příslušné zabezpečovače."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Na zadní mezistěně zapni pomocí ovladače stykač baterie."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zkontroluj zabrzdění střadačové brzdy (tlačítko zastřádání po cca 30 sec. svítí červeně)."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Po kompletní inicializaci displejů a ETCS aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Zkontroluj displeje z hlediska případných poruchových hlášení."
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Zvedni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Zapni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Proveď testy ETCS a potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "18a",
+    "text": "Proveď HW test brzd – jen pokud se na displeji zobrazí příslušné hlášení."
+   },
+   {
+    "typ": "krok",
+    "c": "18b",
+    "text": "Na displeji TDD nastav návěstní světla."
+   },
+   {
+    "typ": "krok",
+    "c": "18c",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": "18d",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Proveď ZBHV:\n- na displeji ověř vyprázdnění brzdových válců a zabrzdi průběžnou brzdou o cca 0,5 bar,\n- na displeji zkontroluj hodnotu tlaku v brzdových válcích,\n- zabrzdi přímočinnou brzdu na plný tlak v brzdových válcích a zkontroluj na displeji zvýšení tlaku v brzdových válcích,\n- odbrzdi přímočinnou brzdu, tlak v brzdovém válci se musí snížit na původní hodnotu zabrzdění průběžnou brzdou,\n- odbrzdi průběžnou brzdu a na displeji zkontroluj odvětrání brzdových válců."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "Deaktivuj stanoviště spínačem s klíčkem v řídicím pultu. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Zkontroluj, zda je vypínač protipožárního systému zapnut a plomby na zařízení nepoškozené. Kontrolka „System On“ musí svítit. Proveď test zařízení."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Proveď vizuální kontrolu funkce návěstních světel na obou stranách lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 23,
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, sběračů, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 24,
+    "text": "Aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 25,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": 26,
+    "text": "Proveď OOPB dle předpisu ČD V 15/I."
+   },
+   {
+    "typ": "krok",
+    "c": "27a",
+    "text": "Proveď případné zadání dat do ETCS, test a nastavení potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "27b",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "27c",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 28,
+    "text": "Proveď zápis do Knihy předávky HV."
+   },
+   {
+    "typ": "krok",
+    "c": 29,
+    "text": "Zabrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 30,
+    "text": "Odbrzdi střadačovou brzdu."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-p3-uvedeni-z-uplneho-odstaveni-12h",
+  "rada": "Vectron",
+  "nazev": "Uvedení lokomotivy do provozu z úplného odstavení (12 hod) – P 3",
+  "podnadpis": "odstavení do 12 hodin, vozidlo přidělené témuž strojvedoucímu",
+  "kategorie": "Oživení a rozjezd",
+  "uvod": "Kap. 4 Pokynu 3/2023. Doba odstavení vozidla nepřesáhla 12 hodin a strojvedoucí měl drážní vozidlo přidělené po celou dobu jeho odstavení.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 4 Uvedení lokomotivy do provozu z úplného odstavení (12 hod) – P 3, str. 10–11",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Uzavři kohout hlavního potrubí na čele lokomotivy a koncovku brzdové spojky zavěs na příslušný závěs."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na zadní mezistěně zapni ovladačem stykač baterie."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zkontroluj zabrzdění střadačové brzdy (tlačítko zastřádání po cca 30 sec. svítí červeně)."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Pokud je na stanovišti klíček řízení, vezmi jej s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj, zda je napětí baterie v rozsahu 22 V až 24 V."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Zkontroluj stavy hladin kapalin v nádržích na obou chladicích věžích a případně viditelnou netěsnost."
+   },
+   {
+    "typ": "krok",
+    "c": "5c",
+    "text": "Zapni ETCS a příslušné zabezpečovače."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Po kompletní inicializaci displejů a ETCS aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Proveď kontrolu, případně volbu národního nastavení na displeji TDD."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Zkontroluj displeje z hlediska případných poruchových hlášení."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zvedni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zapni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": "12a",
+    "text": "Proveď testy ETCS a potřebných vlakových zabezpečovačů pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "12b",
+    "text": "Na displeji TDD nastav návěstní světla."
+   },
+   {
+    "typ": "krok",
+    "c": "12c",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "12d",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Deaktivuj stanoviště spínačem s klíčkem v řídicím pultu. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": "16a",
+    "text": "Proveď případné zadání dat do ETCS, test a nastavení potřebných zabezpečovačů pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "16b",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "16c",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Proveď OOPB dle předpisu ČD V 15/I."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Zabrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Odbrzdi střadačovou brzdu."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-p4-uvedeni-z-aktivniho-odstaveni-12h",
+  "rada": "Vectron",
+  "nazev": "Uvedení lokomotivy do provozu z aktivního odstavení (12 hod) – P 4",
+  "podnadpis": "odstavení do 12 hodin, vozidlo přidělené témuž strojvedoucímu",
+  "kategorie": "Oživení a rozjezd",
+  "uvod": "Kap. 5 Pokynu 3/2023. Doba odstavení vozidla nepřesáhla 12 hodin a strojvedoucí má drážní vozidlo přidělené po celou dobu jeho odstavení.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 5 Uvedení lokomotivy do provozu z aktivního odstavení (12 hod) – P 4, str. 11–12",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Uzavři kohout hlavního potrubí na čele lokomotivy a koncovku brzdové spojky zavěs na příslušný závěs."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Aktivuj stanoviště pomocí spínače s klíčkem a vyčkej uvolnění hlavního vypínače k zapnutí."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Stáhni sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Deaktivuj stanoviště vypínačem s klíčkem. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti v základní poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Vypni stykač baterie ovladačem na mezistěně."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Vyčkej kompletního odstavení lokomotivy z provozu, tj. zhasnutí LED diod na TDD a CCD."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "8a",
+    "text": "Zkontroluj stavy hladin kapalin v nádržích na obou chladicích věžích a případně viditelnou netěsnost."
+   },
+   {
+    "typ": "krok",
+    "c": "8b",
+    "text": "Přepínač sběračů ve strojovně přepni do požadované polohy."
+   },
+   {
+    "typ": "krok",
+    "c": "8c",
+    "text": "Zapni ETCS a příslušné zabezpečovače."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Na zadní mezistěně zapni ovladačem stykač baterie."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zkontroluj zabrzdění střadačové brzdy (tlačítko zastřádání po cca 30 sec. svítí červeně)."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Po kompletní inicializaci displejů a ETCS aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zkontroluj displeje z hlediska případných poruchových hlášení."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Zvedni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Zapni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": "16a",
+    "text": "Proveď testy ETCS a potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "16b",
+    "text": "Na displeji TDD nastav návěstní světla."
+   },
+   {
+    "typ": "krok",
+    "c": "16c",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "16d",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Deaktivuj stanoviště spínačem s klíčkem v řídicím pultu. Klíček vezmi s sebou."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Aktivuj stanoviště spínačem s klíčkem v řídicím pultu."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Zruš „Závěr“ brzdiče a navol směr."
+   },
+   {
+    "typ": "krok",
+    "c": "20a",
+    "text": "Proveď případné zadání dat do ETCS, test a nastavení potřebných zabezpečovačů nutných pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": "20b",
+    "text": "Proveď zkoušku a nastavení radiostanice."
+   },
+   {
+    "typ": "krok",
+    "c": "20c",
+    "text": "Proveď zkoušku houkaček."
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Proveď OOPB dle předpisu ČD V 15/I."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Zabrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 23,
+    "text": "Odbrzdi střadačovou brzdu."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-predani-na-ose-prevzeti",
+  "rada": "Vectron",
+  "nazev": "Předání lokomotivy na ose – převzetí",
+  "podnadpis": "převzetí lokomotivy od jiného strojvedoucího za provozu",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 6 Pokynu 3/2023 – převzetí lokomotivy Vectron při předání na ose.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 6 Předání lokomotivy na ose – převzetí, str. 12–13",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Převezmi lokomotivu s příslušnými podklady pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Proveď předávací pohovor."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Proveď zápis do Knihy předávky."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na displeji zadej ID strojvedoucího (SAP číslo) a potvrď případná poruchová hlášení „B“."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Na displeji zkontroluj zadané údaje o vlaku."
+   },
+   {
+    "typ": "misto",
+    "text": "Při vhodném pobytu vlaku v ŽST"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zkontroluj správnou činnost návěstních světel."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-o1-uplne-odstaveni",
+  "rada": "Vectron",
+  "nazev": "Úplné odstavení lokomotivy – O 1",
+  "podnadpis": "vypnutí baterie, izolace ETCS",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 7 Pokynu 3/2023 – postup úplného odstavení lokomotivy Vectron.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 7 Úplné odstavení lokomotivy – O 1, str. 13–14",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Na aktivovaném stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi pružinovou střadačovou brzdu a zkontroluj její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Proveď rychločinné zabrzdění a zaveď závěr brzdiče. Ovladač brzdiče přestav poté do jízdní polohy - 5 bar."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vyzkoušej pískovací zařízení (použij pískování) v obou směrech."
+   },
+   {
+    "typ": "pozor",
+    "text": "POZOR - pískování při nulové rychlosti je možné, pouze pokud byl předtím navolen „test funkčnosti“ → „pískovací zařízení.“"
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": "4a",
+    "text": "Koncovku brzdové spojky hlavního potrubí sejmi z jalového hrdla a otevři kohout hlavního potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": "4b",
+    "text": "Zajisti případně lokomotivu proti pohybu dle PŘ místa odstavení."
+   },
+   {
+    "typ": "krok",
+    "c": "4c",
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, zásoby písku, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": "4d",
+    "text": "Zkontroluj zabrzdění pneumatické a střadačové brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": "4e",
+    "text": "Pohledem zkontroluj stav sběračů."
+   },
+   {
+    "typ": "krok",
+    "c": "4f",
+    "text": "Zkontroluj činnost pískovacího zařízení."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj úplnost vybavení lokomotivy na stanovišti (lékárnička, inventář, tiskopisy)."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Zkontroluj, zda jsou k dispozici masky Oxycrew (2 kusy) a hasicí přístroj."
+   },
+   {
+    "typ": "krok",
+    "c": "5c",
+    "text": "Zkontroluj, zda jsou všechny spínače a ovládací páky na stanovišti v základní poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "5d",
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "6a",
+    "text": "Zkontroluj, zda jsou všechny kryty a uzavírací dveře skříní ve strojovně uzavřeny."
+   },
+   {
+    "typ": "krok",
+    "c": "6b",
+    "text": "Proveď kontrolu případné viditelné netěsnosti chladicích kapalin."
+   },
+   {
+    "typ": "krok",
+    "c": "6c",
+    "text": "Na panelu pneumatiky uzavři kohout ETCS (B08/2 - ŽLUTÝ)."
+   },
+   {
+    "typ": "krok",
+    "c": "6d",
+    "text": "Zkontroluj, zda jsou všechny spojovací kabely v plném počtu a umístěny na kabelovém držáku."
+   },
+   {
+    "typ": "krok",
+    "c": "6e",
+    "text": "Izoluj ETCS."
+   },
+   {
+    "typ": "krok",
+    "c": "6f",
+    "text": "Zkontroluj, zda jsou spínače, ovladače a kohouty přepnuty/přestaveny do základní polohy. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "6g",
+    "text": "Proveď kontrolu zemního svodu baterie."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": "7a",
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti v základní poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "7b",
+    "text": "Zkontroluj úplnost vybavení lokomotivy na stanovišti (lékárnička, inventář, tiskopisy)."
+   },
+   {
+    "typ": "krok",
+    "c": "7c",
+    "text": "Zkontroluj, zda jsou k dispozici masky Oxycrew (2 kusy) a hasicí přístroj."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Vypni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Stáhni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Deaktivuj stanoviště vypínačem s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Vypni stykač baterie ovladačem na mezistěně."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zjištěné závady zadej do aplikace SH SAP."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Uzamkni dveře na stanoviště."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-o2-aktivni-odstaveni",
+  "rada": "Vectron",
+  "nazev": "Aktivní odstavení lokomotivy – O 2",
+  "podnadpis": "baterie zapnutá, režim úspora energie",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 8 Pokynu 3/2023 – postup aktivního odstavení lokomotivy Vectron.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 8 Aktivní odstavení lokomotivy – O 2, str. 14–15",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Na aktivovaném stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi pružinovou střadačovou brzdu a zkontroluj její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Proveď rychločinné zabrzdění a zaveď závěr brzdiče. Ovladač brzdiče přestav poté do jízdní polohy - 5 bar."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vyzkoušej pískovací zařízení (použij pískování) v obou směrech."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": "4a",
+    "text": "Koncovku brzdové spojky hlavního potrubí sejmi ze závěsu a otevři kohout hlavního potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": "4b",
+    "text": "Zajisti případně lokomotivu proti pohybu dle PŘ místa odstavení."
+   },
+   {
+    "typ": "krok",
+    "c": "4c",
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, sběračů, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": "4d",
+    "text": "Zkontroluj zabrzdění pneumatické a střadačové brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": "4e",
+    "text": "Zkontroluj stav sběračů."
+   },
+   {
+    "typ": "krok",
+    "c": "4f",
+    "text": "Zkontroluj činnost pískovacího zařízení."
+   },
+   {
+    "typ": "misto",
+    "text": "Na opačném stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj, zda jsou všechny spínače a ovládací páky na stanovišti v požadované poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Zkontroluj úplnost vybavení lokomotivy na stanovišti (lékárnička, inventář, tiskopisy)."
+   },
+   {
+    "typ": "krok",
+    "c": "5c",
+    "text": "Zkontroluj, zda jsou k dispozici masky Oxycrew (2 kusy) a hasicí přístroj."
+   },
+   {
+    "typ": "krok",
+    "c": "5d",
+    "text": "Nastav klimatizaci na požadovanou teplotu."
+   },
+   {
+    "typ": "krok",
+    "c": "5e",
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "6a",
+    "text": "Zkontroluj, zda jsou všechny kryty a uzavírací dveře skříní ve strojovně uzavřeny."
+   },
+   {
+    "typ": "krok",
+    "c": "6b",
+    "text": "Proveď kontrolu případné viditelné netěsnosti chladicích kapalin."
+   },
+   {
+    "typ": "krok",
+    "c": "6c",
+    "text": "Zkontroluj, zda jsou všechny spojovací kabely v plném počtu a umístěny na kabelovém držáku."
+   },
+   {
+    "typ": "krok",
+    "c": "6d",
+    "text": "Izoluj ETCS."
+   },
+   {
+    "typ": "krok",
+    "c": "6e",
+    "text": "Zkontroluj, zda jsou spínače, ovladače a kohouty přepnuty/přestaveny do požadované polohy. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "6f",
+    "text": "Proveď kontrolu zemního svodu baterie."
+   },
+   {
+    "typ": "krok",
+    "c": "6g",
+    "text": "Na panelu pneumatiky uzavři kohout ETCS (B08/2 - ŽLUTÝ)."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Pokud se mezi sběrači nenachází úsekový dělič a pokud to stav lokomotivy dovoluje, přepni přepínač sběračů ve strojovně do polohy \"1 + 2\". Volbu potvrď na stanovišti opakovanou obsluhou ovladače „Sběrač vzhůru“. Pozor též na návěsti pro elektrický provoz!"
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Na displeji CDD potvrď systém zabezpečovacího zařízení."
+   },
+   {
+    "typ": "krok",
+    "c": "9a",
+    "text": "Nastav klimatizaci na požadovanou teplotu."
+   },
+   {
+    "typ": "krok",
+    "c": "9b",
+    "text": "Přepni návěstní světla na návěst „Obsazené hnací vozidlo“."
+   },
+   {
+    "typ": "krok",
+    "c": "9c",
+    "text": "Zkontroluj, zda jsou všechny spínače, jističe a ovládací páky na stanovišti v požadované poloze. Proveď případně jejich nastavení."
+   },
+   {
+    "typ": "krok",
+    "c": "9d",
+    "text": "Zkontroluj úplnost vybavení lokomotivy na stanovišti (lékárnička, inventář, tiskopisy)."
+   },
+   {
+    "typ": "krok",
+    "c": "9e",
+    "text": "Zkontroluj, zda jsou k dispozici masky Oxycrew (2 kusy) a hasicí přístroj."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Nastav směr jízdy do NEUTRÁLNÍ polohy a vypni AFB.\nStiskem tlačítka [symbol měsíce] se přepni do obrazovky „Odstavný režim“. Tlačítko je dostupné jen při vypnuté AFB a nastavení neutrálního směru.\nZvol volbu „úspora energie“ a potvrď ji.\nDeaktivuj stanoviště pomocí spínače s klíčkem. Automaticky dojde k vypnutí hlavního vypínače a odpojení jednoho ASG a po cca 1 minutě k opětovnému uvedení lokomotivy do provozu.\nNa displeji TDD zkontroluj piktogram zavedení režimu „Úspora energie“."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zjištěné závady zadej do aplikace SH SAP."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Uzamkni dveře na stanoviště."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-o3-uplne-odstaveni-12h",
+  "rada": "Vectron",
+  "nazev": "Úplné odstavení lokomotivy (12 hod) – O 3",
+  "podnadpis": "odstavení do 12 hodin, vozidlo zůstává přidělené témuž strojvedoucímu",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 9 Pokynu 3/2023. Doba odstavení vozidla nepřesáhne 12 hodin a strojvedoucí bude mít drážní vozidlo přidělené po celou dobu jeho odstavení.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 9 Úplné odstavení lokomotivy (12 hod) – O 3, str. 15–16",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Na aktivovaném stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi pružinovou střadačovou brzdu a zkontroluj její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Proveď rychločinné zabrzdění a zaveď závěr brzdiče. Ovladač brzdiče přestav poté do jízdní polohy - 5 bar."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": "3a",
+    "text": "Koncovku brzdové spojky hlavního potrubí sejmi z jalového hrdla a otevři kohout hlavního potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": "3b",
+    "text": "Zajisti případně lokomotivu proti pohybu dle PŘ místa odstavení."
+   },
+   {
+    "typ": "krok",
+    "c": "3c",
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, zásoby písku, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": "3d",
+    "text": "Zkontroluj zabrzdění pneumatické a střadačové brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": "3e",
+    "text": "Pohledem zkontroluj stav sběračů."
+   },
+   {
+    "typ": "misto",
+    "text": "Na opačném stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj, zda jsou všechny kryty a uzavírací dveře skříní ve strojovně uzavřeny."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Proveď kontrolu případné viditelné netěsnosti chladicích kapalin."
+   },
+   {
+    "typ": "krok",
+    "c": "5c",
+    "text": "Izoluj ETCS."
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Vypni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Stáhni sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Deaktivuj stanoviště vypínačem s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Vypni stykač baterie ovladačem na mezistěně."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zjištěné závady zadej do aplikace SH SAP."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Uzamkni dveře na stanoviště."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-o4-aktivni-odstaveni-12h",
+  "rada": "Vectron",
+  "nazev": "Aktivní odstavení lokomotivy (12 hod) – O 4",
+  "podnadpis": "odstavení do 12 hodin, vozidlo zůstává přidělené témuž strojvedoucímu",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 10 Pokynu 3/2023. Doba odstavení vozidla nepřesáhne 12 hodin a strojvedoucí bude mít drážní vozidlo přidělené po celou dobu jeho odstavení.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 10 Aktivní odstavení lokomotivy (12 hod) – O 4, str. 16–17",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Na aktivovaném stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi pružinovou střadačovou brzdu a zkontroluj její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Proveď rychločinné zabrzdění a zaveď závěr brzdiče. Ovladač brzdiče přestav poté do jízdní polohy - 5 bar."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": "3a",
+    "text": "Koncovku brzdové spojky hlavního potrubí sejmi ze závěsu a otevři kohout hlavního potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": "3b",
+    "text": "Zajisti případně lokomotivu proti pohybu dle PŘ místa odstavení."
+   },
+   {
+    "typ": "krok",
+    "c": "3c",
+    "text": "Proveď kontrolu viditelných poškození lokomotivy a zkontroluj, zda jsou přední kapoty zavřené a všechny kompresní uzávěry řádně zajištěné, brzdové spojky a šroubovky zavěšené. Zkontroluj stav tažného a narážecího ústrojí, sběračů, mechanických částí pojezdu, PZB-snímačů, LZB-antén, brzdových kotoučů, správné uzavření zásuvek vedení UIC na obou čelech lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": "3d",
+    "text": "Zkontroluj zabrzdění pneumatické a střadačové brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": "3e",
+    "text": "Zkontroluj stav sběračů."
+   },
+   {
+    "typ": "misto",
+    "text": "Na opačném stanovišti (B)"
+   },
+   {
+    "typ": "krok",
+    "c": "4a",
+    "text": "Nastav klimatizaci na požadovanou teplotu."
+   },
+   {
+    "typ": "krok",
+    "c": "4b",
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": "5a",
+    "text": "Zkontroluj, zda jsou všechny kryty a uzavírací dveře skříní ve strojovně uzavřeny."
+   },
+   {
+    "typ": "krok",
+    "c": "5b",
+    "text": "Proveď kontrolu případné viditelné netěsnosti chladicích kapalin."
+   },
+   {
+    "typ": "krok",
+    "c": "5c",
+    "text": "Izoluj ETCS."
+   },
+   {
+    "typ": "krok",
+    "c": "5d",
+    "text": "Pokud se mezi sběrači nenachází úsekový dělič a pokud to stav lokomotivy dovoluje, přepni přepínač sběračů ve strojovně do polohy \"1 + 2\". Volbu potvrď na stanovišti opakovanou obsluhou ovladače „Sběrač vzhůru“. Pozor též na návěsti pro elektrický provoz!"
+   },
+   {
+    "typ": "misto",
+    "text": "Na stanovišti (A)"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na displeji CDD potvrď systém zabezpečovacího zařízení."
+   },
+   {
+    "typ": "krok",
+    "c": "7a",
+    "text": "Nastav klimatizaci na požadovanou teplotu."
+   },
+   {
+    "typ": "krok",
+    "c": "7b",
+    "text": "Přepni návěstní světla na návěst „Obsazené hnací vozidlo“."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Nastav směr jízdy do NEUTRÁLNÍ polohy a vypni AFB.\nStiskem tlačítka [symbol měsíce] se přepni do obrazovky „Odstavný režim“. Tlačítko je dostupné jen při vypnuté AFB a nastavení neutrálního směru.\nZvol volbu „úspora energie“ a potvrď ji.\nDeaktivuj stanoviště pomocí spínače s klíčkem. Automaticky dojde k vypnutí hlavního vypínače a odpojení jednoho ASG a po cca 1 minutě k opětovnému uvedení lokomotivy do provozu.\nNa displeji TDD zkontroluj piktogram zavedení režimu „Úspora energie“."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zjištěné závady zadej do aplikace SH SAP."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zavři a zajisti okna a vstupní dveře."
+   },
+   {
+    "typ": "misto",
+    "text": "Vně lokomotivy"
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Uzamkni dveře na stanoviště."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-predani-na-ose-odevzdani",
+  "rada": "Vectron",
+  "nazev": "Předání lokomotivy na ose – odevzdání",
+  "podnadpis": "odevzdání lokomotivy jinému strojvedoucímu za provozu",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 11 Pokynu 3/2023 – odevzdání lokomotivy Vectron při předání na ose.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 11 Předání lokomotivy na ose – odevzdání, str. 17",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zastav na pravidelném místě."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zajisti lokomotivu proti samovolnému pohybu."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Poznamenej mimořádnosti do Knihy předávky lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Předej lokomotivu s případnými podklady pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Proveď předávací pohovor."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zjištěné závady zadej do aplikace SH SAP."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-rezim-uspora-energie",
+  "rada": "Vectron",
+  "nazev": "Aktivní odstavení – režim Úspora energie",
+  "podnadpis": "SW E; aktivace a deaktivace aktivního odstavení samotné lokomotivy",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 12 Aktivní odstavení – postupy (SW - E). Režim Úspora energie slouží k aktivnímu odstavení samotné lokomotivy se zavedenou funkcí úspory energie.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 12 Aktivní odstavení – postupy, Režim Úspora energie, str. 17",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Aktivace aktivního odstavení"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Nastav směr jízdy do NEUTRÁLNÍ polohy a vypni AFB."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Stiskem tlačítka [symbol měsíce] se přepni do obrazovky „Odstavný režim“. Tlačítko je dostupné jen při vypnuté AFB a nastavení neutrálního směru."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zvol volbu „úspora energie“ a potvrď ji tlačítkem Enter."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Deaktivuj stanoviště pomocí spínače s klíčkem. Automaticky dojde k vypnutí hlavního vypínače a odpojení jednoho ASG a po cca 1 minutě k opětovnému uvedení lokomotivy do provozu."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Na displeji TDD zkontroluj piktogram zavedení režimu „Úspora energie“."
+   },
+   {
+    "typ": "misto",
+    "text": "Deaktivace aktivního odstavení"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Aktivuj stanoviště pomocí spínače s klíčkem a vyčkejte vypnutí hlavního vypínače."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-rezim-predehrivani",
+  "rada": "Vectron",
+  "nazev": "Aktivní odstavení – režim Předehřívání",
+  "podnadpis": "SW E; aktivní odstavení s napájením vlaku v nastavený čas",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 12 Aktivní odstavení – postupy (SW - E). Režim Předehřívání slouží k aktivnímu odstavení lokomotivy se zavedenou funkcí úspory energie a možností napájení vlaku.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 12 Aktivní odstavení – postupy, Režim Předehřívání, str. 17–18",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Aktivace aktivního odstavení"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Nastav směr jízdy do NEUTRÁLNÍ polohy a vypni AFB."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Nastav ovladač napájení vlaku (vlakové topení) do střední polohy."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Stiskem tlačítka [symbol měsíce] se přepni do obrazovky „Odstavný režim“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zvol volbu „režim předehřívání“ a potvrď ji tlačítkem Enter."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Nastav datum a čas začátku předtápění. Čas začátku předtápění nastav cca + 5 minut proti stávajícímu času."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Volbu „vozy se sběrnicí“ neaktivuj."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zadané údaje potvrď tlačítkem Enter."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Zapni napájení vlaku (vlakové topení)."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Deaktivuj stanoviště pomocí spínače s klíčkem. Automaticky dojde k vypnutí hlavního vypínače a odpojení jednoho ASG a po cca 1 minutě k opětovnému uvedení lokomotivy do provozu (zapnutí hlavního vypínače)."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Na displeji TDD zkontroluj piktogram zavedení provozu „ECO 1 s předehřevem,“ datum a čas zapnutí napájení vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "V nastavený čas zkontroluj zapnutí stykače napájení vlaku."
+   },
+   {
+    "typ": "misto",
+    "text": "Deaktivace aktivního odstavení"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Aktivuj stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Režim předehřevu zruš na obrazovce „Odstavný režim“ [symbol měsíce]."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-zmena-stanoviste",
+  "rada": "Vectron",
+  "nazev": "Změna stanoviště",
+  "podnadpis": "přechod z jednoho stanoviště na druhé",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 13 Pokynu 3/2023 – postup při změně stanoviště lokomotivy Vectron.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 13 Změna stanoviště, str. 18",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "POZOR – pokud je zapnuto napájení vlaku, nedojde při změně stanoviště k jeho vypnutí!"
+   },
+   {
+    "typ": "misto",
+    "text": "Na opouštěném stanovišti"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Snižte tlak v hlavním potrubí na 3,5 bar."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zaveďte závěr brzdiče."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Ovladač nepřímočinné brzdy přeložte do polohy jízda „5 bar“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Ovladač přímočinné brzdy přeložte do střední polohy."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Deaktivujte stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zkontrolujte zabrzdění střadačové brzdy."
+   },
+   {
+    "typ": "misto",
+    "text": "Na nově aktivovaném stanovišti"
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zkontrolujte zabrzdění střadačové brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Aktivujte stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zvolte směr do polohy „Vpřed“."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zkontrolujte zapnutí, případně nastavte návěstní světla."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Tlačítkem na pultu stanoviště zrušte závěr brzdiče."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Vykonejte OOPB při změně stanoviště."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Odbrzděte střadačovou brzdu."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-zkouska-primocinne-brzdy",
+  "rada": "Vectron",
+  "nazev": "Zkouška přímočinné brzdy",
+  "podnadpis": "v rámci ÚZBHV nebo samostatně",
+  "kategorie": "Brzdy",
+  "uvod": "Kap. 14.1 Pokynu 3/2023. Zkouška přímočinné brzdy se provádí v rámci provádění ÚZBHV, případně ji lze vykonat samostatně.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 14.1 Zkouška přímočinné brzdy, str. 18–19",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zkontroluj zabrzdění lokomotivy střadačovou brzdou."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Naplň hlavní potrubí na provozní tlak 5 bar."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zcela zabrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Ověř hodnotu tlaku v brzdových válcích. V poloze pro plné zabrzdění musí být tlak 3,7 baru (+/- 0,15 bar)."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Odbrzdi přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Ověř odbrzdění přímočinné brzdy na displeji TDD."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-zkouska-stradacove-brzdy",
+  "rada": "Vectron",
+  "nazev": "Zkouška střadačové brzdy",
+  "podnadpis": "tlačítkem na mezistěně stanoviště",
+  "kategorie": "Brzdy",
+  "uvod": "Kap. 14.2 Pokynu 3/2023 – zkouška pružinové střadačové brzdy lokomotivy Vectron.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 14.2 Zkouška střadačové brzdy, str. 19",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi lokomotivu přímočinnou nebo nepřímočinnou brzdou."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Odbrzdi střadačovou brzdu tlačítkem na mezistěně stanoviště."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Ověř odbrzdění střadačové brzdy – prosvětlené červené tlačítko „Zabrzdit střadačovou brzdu“ je zhaslé a střadačová brzda se na displeji zobrazí jako odbrzděná."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zabrzdi střadačovou brzdu tlačítkem na mezistěně stanoviště."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Ověř zabrzdění střadačové brzdy – prosvětlené červené tlačítko „Zabrzdit střadačovou brzdu“ musí svítit a střadačová brzda se na displeji zobrazí jako zabrzděná."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-posun-ocu-stred-jen-s-posunovaci",
+  "rada": "Vectron",
+  "nazev": "Posun v OCÚ Střed, KC Vršovice posunovací lokomotivou jen s posunovači",
+  "podnadpis": "lokomotiva 193 s vypnutými bateriemi, brzděná z posunovací lokomotivy",
+  "kategorie": "Přeprava a odtah",
+  "uvod": "Kap. 15 Pokynu 3/2023 – posun s lokomotivou Vectron posunovací lokomotivou bez strojvedoucího ř. 193 (jen s posunovači).",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 15 Posun v OCÚ Střed, KC Vršovice posunovací lokomotivou jen s posunovači, str. 19",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Lokomotivy spojte šroubovkou, spojte hlavní potrubí a uzavřete případně kohout hlavního potrubí na opačném čele lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Odstraňte zajišťovací klíny, případně zarážky."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Po naplnění hlavního potrubí zkontrolujte odbrzděný stav střadačové a pneumatické brzdy na boku lokomotivy. Lokomotiva musí mít vypnuté baterie!"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Po ukončení posunu podložte lokomotivu klíny a na místech určených Provozním řádem ještě zarážkami."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Rozpojte hlavní potrubí, hlavní potrubí lokomotivy 193 zcela odvětrejte a ponechte otevřený kohout hlavního potrubí na čele lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Nyní je možno odvěsit posunovací lokomotivu."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Pokud nelze naplnit hlavní potrubí nebo nedojde k odbrzdění lokomotivy je nutná přítomnost strojvedoucího se znalostí ř. 193!"
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-manipulace-spojka-napajeni-vlaku",
+  "rada": "Vectron",
+  "nazev": "Manipulace se spojkou napájení vlaku energií",
+  "podnadpis": "uzemnění DC a vyjmutí žlutého klíče s klíčem zásuvky napájení vlaku",
+  "kategorie": "Bezpečný stav",
+  "uvod": "Kap. 18 Pokynu 3/2023 – postup před manipulací se spojkou napájení vlaku energií (vlakového topení) na lokomotivě Vectron.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 18 Manipulace se spojkou napájení vlaku energií, str. 21",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "POZOR! Při stojící soupravě a zapnutí napájení vlaku (vlakového topení) může ZSG při zvýšeném odběru do větve napájení vlaku zdvihnout bez jakéhokoli potvrzení strojvedoucím druhý (přední) sběrač lokomotivy (sběrače jsou v módu „automaticky“)! Po rozjezdu dojde k automatickému stažení druhého sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzděte střadačovou brzdu a zkontrolujte její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Spusťte sběrače!"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na displeji zkontrolujte vypnutí hlavního vypínače a beznapěťový stav lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Pohledem zkontrolujte spuštění sběračů."
+   },
+   {
+    "typ": "misto",
+    "text": "Pomocný vzduchový panel"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Otočte a vyjměte modrý klíč."
+   },
+   {
+    "typ": "misto",
+    "text": "Panel vysokého napětí DC"
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Modrý klíč vložte do modře označeného zámku a otočte jím doprava."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Ovládací páku odpojovače / uzemňovače DC přeložte do polohy „Uzemněno“."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Otočte žlutým klíčem (s klíčem zásuvky napájení vlaku) doprava a vytáhněte jej."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-zmena-systemu-napajeni-za-jizdy",
+  "rada": "Vectron",
+  "nazev": "Změna systému napájení během jízdy (bez ETCS)",
+  "podnadpis": "přepnutí trakčního systému a potvrzení vlakového zabezpečovače za jízdy",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 19 Pokynu 3/2023 – změna systému napájení lokomotivy Vectron během jízdy bez ETCS.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 19 Změna systému napájení během jízdy (bez ETCS), str. 21",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Spusťte sběrače!"
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Na displeji TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na obrazovce „Volba sítě“ vyberte požadovaný systém a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na displeji CCD se v jeho pravé části objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače.\nPotvrzení systému vlakového zabezpečovače za jízdy musí být provedeno do 10 sekund, jinak dojde k nucenému brzdění!"
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zdvihněte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zapněte napájení vlaku energií."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-cd-db-bez-etcs",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic ČD – DB (bez ETCS)",
+  "podnadpis": "Děčín → Bad Schandau; přepnutí MIREL VZ1 → PZB/LZB a 3 kV DC → 15 kV AC",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 20.1 Pokynu 3/2023 – přejezd státní hranice ČD – DB s lokomotivou Vectron bez ETCS.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 20.1 ČD – DB (bez ETCS), str. 21–22",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Vypněte hlavní vypínač a stáhněte sběrač!"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na displeji TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Na obrazovce „Volba sítě“ vyberte mezisystém „CZ DC 3 kV PZB“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“. Požadovanou síť potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Pro aktivaci zabezpečovače PZB/LZB a Sifa deaktivujte a po chvíli (cca 5 sec) znovu aktivujte stanoviště pomocí spínače s klíčkem. Při delší deaktivaci stanoviště dojde k zabrzdění střadačové brzdy!"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Dojde k vypnutí MIREL VZ1 a k aktivaci PZB/LZB a Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače PZB/LZB.\nPokud nebude nový systém zabezpečovače potvrzen, dojde k zablokování trakce!\nPokud není potvrzovací dialog zobrazen, případně se ztratí, lze jej deaktivací a opětovnou aktivací stanoviště spínačem s klíčkem znovu zobrazit a zabezpečovač potvrdit."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Zvedněte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Navolte směr „Vpřed“ a zrušte závěr (naplňte hlavní potrubí)."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Na displeji CCD zadejte data do PZB/LZB."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zapněte napájení vlaku (po rozběhu HBU)!"
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Proveďte zkoušku Sifa."
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Vzhledem k vypnutému zařízení MIREL VZ1 nepřekročte rychlost 100 km/h."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna napájecího systému za jízdy vlaku na DB Netz"
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Spusťte sběrač! Pro zamezení následného proudového nárazu při přepnutí systémů je možno ještě jednou obsloužit vypnutí hlavního vypínače. Tím dojde ke zrušení funkce udržování napětí na meziobvodu při staženém sběrači a vypnutém hlavním vypínači."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Další činnosti doporučujeme provádět až v úseku s „novým“ trolejovým napětím!\nNa obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „DE 15 kV AC“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače PZB/LZB."
+   },
+   {
+    "typ": "pozor",
+    "text": "POZOR! Potvrzení systému vlakového zabezpečovače PZB/LZB za jízdy musí být provedeno do 10 sekund, jinak dojde k nucenému brzdění do zastavení!"
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Po projetí trakčního dělení zvedněte na příslušnou návěst sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 23,
+    "text": "Zapněte napájení vlaku."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-db-cd-bez-etcs",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic DB – ČD (bez ETCS)",
+  "podnadpis": "Bad Schandau → Děčín; přepnutí 15 kV AC → 3 kV DC a PZB/LZB → MIREL VZ1",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 20.2 Pokynu 3/2023 – přejezd státní hranice DB – ČD s lokomotivou Vectron bez ETCS.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 20.2 DB – ČD (bez ETCS), str. 22–24",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Bad Schandau"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Nejsou nutná žádná opatření!"
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Nejsou potřebná žádná zvláštní opatření."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna napájecího systému za jízdy vlaku na SŽDC"
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Spusťte sběrač! Pro zamezení následného proudového nárazu při přepnutí systémů je možno ještě jednou obsloužit vypnutí hlavního vypínače. Tím dojde ke zrušení funkce udržování napětí na meziobvodu při staženém sběrači a vypnutém hlavním vypínači."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Další činnosti doporučujeme provádět až v úseku s „novým“ trolejovým napětím!\nNa displeji TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ DC 3 kV PZB“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“. Výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače PZB/LZB.\nPOZOR! Potvrzení systému vlakového zabezpečovače za jízdy musí být provedeno do 10 sekund, jinak dojde k nucenému brzdění do zastavení!"
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Po projetí trakčního dělení zvedněte na příslušnou návěst sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zapněte napájení vlaku (po rozběhu HBU)!"
+   },
+   {
+    "typ": "misto",
+    "text": "Další jízda do ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Vzhledem k vypnutému zařízení MIREL VZ1 nepřekročte rychlost 100 km/h."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Spusťte sběrač (nepoužijte polohu SOS)!"
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Na obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ 3 kV DC“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Deaktivujte stanoviště pomocí spínače s klíčkem! Při delší deaktivaci stanoviště dojde k zabrzdění střadačové brzdy!\nZde je vhodný čas k převzetí případného rozkazu!"
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Dojde k zapnutí MIREL VZ1 a k deaktivaci PZB/LZB a Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "Vyčkejte zhasnutí prvních dvou řádků LED diod na opakovači MIREL VZ1."
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Aktivujte stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače MIREL VZ1.\nPokud nebude nový systém zabezpečovače potvrzen, dojde k zablokování trakce!\nPokud není potvrzovací dialog zobrazen, případně se ztratí, lze jej deaktivací a opětovnou aktivací stanoviště strojvedoucího znovu zobrazit a zabezpečovač potvrdit."
+   },
+   {
+    "typ": "krok",
+    "c": 23,
+    "text": "Zvedněte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 24,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 25,
+    "text": "Navolte směr Vzad."
+   },
+   {
+    "typ": "krok",
+    "c": 26,
+    "text": "Navolte směr Vpřed.\nZcela odbrzděte přímočinnou brzdu (zde je nutno vyčkat cca 10 sec na úplné odvětrání pneumatického obvodu přímočinné brzdy – lze zkontrolovat / sledovat na snímku „Brzda“ – „CV – tlak přímá brzda“). POZOR – musí být odbrzděná střadačová brzda!"
+   },
+   {
+    "typ": "krok",
+    "c": 27,
+    "text": "Po zhasnutí příslušného řádku LED diod (5. řádek) zabrzděte úplně přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 28,
+    "text": "Zrušte závěr. Po naplnění hlavního potrubí dojde dvakrát k odpadu bezpečnostního ventilu MIREL VZ1. Tato procedura trvá poměrně dlouhý čas – cca 2 minuty!!!"
+   },
+   {
+    "typ": "krok",
+    "c": 29,
+    "text": "Po rozběhu HBU zapněte napájení vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 30,
+    "text": "Nastavte příslušné údaje v MIREL VZ1 pro další jízdu vlaku:\n• na opakovači je nastaven režim „POS“ – rychlost 40 km/h;\n• nastavte režim „PRE“;\n• nastavte maximální rychlost."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-cd-db-etcs-bez-baliz",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic ČD – DB (s ETCS bez přechodových balíz)",
+  "podnadpis": "Děčín → Bad Schandau; změna úrovně na NTC LZB/PZB v menu Main",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 21.1 Pokynu 3/2023 – přejezd státní hranice ČD – DB s lokomotivou Vectron s ETCS, bez přechodových balíz.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 21.1 ČD – DB (s ETCS bez přechodových balíz), str. 24",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na displeji TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Na obrazovce „Volba sítě“ vyberte mezisystém „CZ DC 3 kV PZB“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“. Požadovanou síť potvrďte tlačítkem „✓“."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zapněte napájení vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "V menu „Main“ → „Změna úrovně“ zvolte NTC „LZB/PZB“."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Dojde k deaktivaci MIREL VZ1 a k aktivaci LZB/PZB a Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Zkontrolujte vlaková data zadaná data v PZB/LZB."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Proveďte zkoušku Sifa."
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Vzhledem k vypnutému zařízení MIREL VZ1 nepřekročte rychlost 100 km/h."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna napájecího systému za jízdy vlaku na DB Netz"
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Spusťte sběrač (nepoužijte polohu SOS)!"
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Na obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „DE 15 kV AC“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „✓“."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Po projetí trakčního dělení zvedněte na příslušnou návěst sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Zapněte napájení vlaku."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-db-cd-etcs-bez-baliz",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic DB – ČD (s ETCS bez přechodových balíz)",
+  "podnadpis": "Bad Schandau → Děčín; změna úrovně na NTC LS v menu Main",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 21.2 Pokynu 3/2023 – přejezd státní hranice DB – ČD s lokomotivou Vectron s ETCS, bez přechodových balíz.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 21.2 DB – ČD (s ETCS bez přechodových balíz), str. 24–25",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Ve výchozí stanici vlaku"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zapněte systém ETCS a potřebné národní zabezpečovače pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zadejte potřebná data (strojvedoucí, vlak), proveďte nastavení a testy ETCS, Sifa, národních zabezpečovačů a AFB."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zvolte start jízdy s úrovní ETCS NTC LZB/PZB."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Bad Schandau"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "V ŽST Bad Schandau nejsou potřebná žádná zvláštní opatření."
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Nejsou potřebná žádná zvláštní opatření."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna systému za jízdy vlaku"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Spusťte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Na obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ 3 kV PZB“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Po projetí trakčního dělení zvedněte na příslušnou návěst sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zapněte napájení vlaku."
+   },
+   {
+    "typ": "misto",
+    "text": "Další jízda do ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Vzhledem k vypnutému zařízení MIREL VZ1 nepřekročte rychlost 100 km/h."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Na obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ 3 kV DC“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „✓“."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Zapněte napájení vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "V menu „Main“ → „Změna úrovně“ zvolte NTC „LS“."
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Dojde k aktivaci MIREL VZ1 a k deaktivaci LZB/PZB a Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Proveďte nastavení MIREL VZ1."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-db-cd-etcs-s-balizami",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic DB – ČD (s ETCS a přechodovými balízami)",
+  "podnadpis": "změna NTC LZB/PZB → LS na pokyn balízy; kapitola v dokumentu označena jako „bude ještě upřesněna“",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 21.3 Pokynu 3/2023 – přejezd státní hranice DB – ČD s lokomotivou Vectron s ETCS a přechodovými balízami. Nadpis kapitoly je v dokumentu označen fialově = činnosti, které budou ještě upřesněny.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 21.3 DB – ČD (s ETCS a přechodovými balízami), str. 25",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Ve výchozí stanici vlaku"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zapněte systém ETCS a potřebné národní zabezpečovače pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zadejte potřebná data a proveďte testy ETCS, Sifa a národních zabezpečovačů."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zvolte start jízdy s úrovní ETCS NTC LZB/PZB."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Bad Schandau"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Nejsou potřebná žádná opatření."
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Jízda probíhá s NTC LZB/PZB. Trakční systém „DE 15 kV AC“."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna napájecího systému a NTC"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na pokyn balízy dojde ke změně NTC z LZB/PZB na LS. Dojde k deaktivaci SIFA."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Strojvedoucí změní trakční systém na „CZ 3 kV DC“."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Nejsou potřebná žádná opatření."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-prejezd-cd-db-etcs-s-balizami",
+  "rada": "Vectron",
+  "nazev": "Přejezd hranic ČD – DB (s ETCS a přechodovými balízami)",
+  "podnadpis": "změna NTC LS → LZB/PZB na pokyn balízy; kapitola v dokumentu označena jako „bude ještě upřesněna“",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 21.4 Pokynu 3/2023 – přejezd státní hranice ČD – DB s lokomotivou Vectron s ETCS a přechodovými balízami. Nadpis kapitoly je v dokumentu označen fialově = činnosti, které budou ještě upřesněny.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 21.4 ČD – DB (s ETCS a přechodovými balízami), str. 25",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Ve výchozí stanici vlaku"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zapněte systém ETCS a potřebné národní zabezpečovače pro jízdu vlaku."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zadejte potřebná data a proveďte testy ETCS, Sifa a národních zabezpečovačů."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Zvolte start jízdy s úrovní ETCS NTC LS."
+   },
+   {
+    "typ": "misto",
+    "text": "Po zastavení v ŽST Děčín"
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Nejsou potřebná žádná opatření."
+   },
+   {
+    "typ": "misto",
+    "text": "Jízda ke státní hranici"
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Jízda probíhá s NTC LS. Trakční systém „CZ 3 kV DC“."
+   },
+   {
+    "typ": "misto",
+    "text": "Změna napájecího systému a NTC"
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na pokyn balízy dojde ke změně NTC z LS na LZB/PZB. Dojde k aktivaci SIFA."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Strojvedoucí změní trakční systém na „DE 15 kV AC“."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-zadani-dat-bez-etcs",
+  "rada": "Vectron",
+  "nazev": "Zadání dat (provoz bez ETCS)",
+  "podnadpis": "ID strojvedoucího, číslo vlaku, data AFB a PZB/LZB",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 22.1.1 Pokynu 3/2023 – zadání dat na lokomotivě Vectron při provozu bez ETCS.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 22.1.1 Zadání dat, str. 25–26",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "V menu „Main“ zadejte číslo (ID) strojvedoucího a data potvrďte."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Dále zadejte číslo vlaku a data potvrďte."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "V menu „Data“ zadejte data do AFB a PZB/LZB."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-test-mirel-vz1",
+  "rada": "Vectron",
+  "nazev": "Test MIREL VZ1 (provoz bez ETCS)",
+  "podnadpis": "lokomotiva přepnuta do systému ČD 3 kV nebo ČD 25 kV",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 22.1.2 Pokynu 3/2023. Pro provedení testu MIREL musí být lokomotiva přepnuta do systému ČD 3 kV nebo ČD 25 kV!",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 22.1.2 Test MIREL VZ1, str. 26",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "Pro provedení testu MIREL musí být lokomotiva přepnuta do systému ČD 3 kV nebo ČD 25 kV!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Naplňte hlavní potrubí na provozní tlak."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zabrzděte lokomotivu průběžnou brzdou (snižte tlak v HP o cca 0,5 baru)."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Odbrzděte střadačovou brzdu. Při prvním testu VZ MIREL (po zapnutí baterie), není nutno tuto činnost vykonat."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Přepněte směr do polohy „vzad“ a poté do polohy „vpřed“."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zcela odbrzděte a zabrzděte přímočinnou brzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zabrzděte střadačovou brzdu a zkontrolujte její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Odbrzděte lokomotivu průběžnou brzdou."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Dojde k odvětrání HP a k jeho opětovnému naplnění – 2 x."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "V některých případech je nutno ještě deaktivovat a opět aktivovat stanoviště spínačem s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Nastavte požadovaný režim provozu a rychlost."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-test-pzb-lzb",
+  "rada": "Vectron",
+  "nazev": "Test PZB/LZB (provoz bez ETCS)",
+  "podnadpis": "přepnutí na mezisystém CZ DC 3 kV PZB, test z obrazovky „Data“ a návrat na CZ 3 kV DC",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 22.1.3 Pokynu 3/2023 – test zabezpečovače PZB/LZB na lokomotivě Vectron při provozu bez ETCS.",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 22.1.3 Test PZB/LZB, str. 26–27",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Kohout PZB/LZB ve strojovně lokomotivy musí být otevřen (svislá poloha)."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zabrzděte střadačovou brzdu a zkontrolujte její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Spusťte sběrače (nepoužívejte polohu SOS)!"
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Na obrazovce TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ DC 3 kV PZB“ a výběr potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“, kterou potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Pro zapnutí zabezpečovače PZB/LZB a Sifa deaktivujte a po chvíli znovu aktivujte stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače PZB/LZB.\nPokud nebude nový systém zabezpečovače potvrzen, dojde k zablokování trakce!\nDeaktivací a opětovnou aktivací stanoviště strojvedoucího se tento dialog zobrazí znovu a je možné nově zvolený zabezpečovač potvrdit."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Navolte směr „Vpřed“ a naplňte hlavní potrubí (zrušte závěr)."
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Dojde k vypnutí MIREL VZ1 a k zapnutí PZB/LZB a Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Zdvihněte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 14,
+    "text": "Na obrazovce „Data“ aktivujte pomocí tlačítka „Test“ zkoušku VZ LZB/PZB. Během zkoušky dojde k odvětrání hlavního potrubí a celé řadě vnitřních testů zařízení. Během zkoušky svítí na provozní obrazovce nápis „kontrola funkce běží“. Zkouška trvá cca 1 minutu.\nTest je nutno vykonávat se samotnou lokomotivou. Pokud je potřebné vykonat zkoušku PZB/LZB s vlakem, je nutno před spuštěním testu aktivovat ep brzdu (Systém DB)!"
+   },
+   {
+    "typ": "misto",
+    "text": "Po ukončení zkoušky nastavte zpět systém „CZ 3 kV DC“ takto:"
+   },
+   {
+    "typ": "krok",
+    "c": 15,
+    "text": "Vypněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 16,
+    "text": "Spusťte sběrače (nepoužívejte polohu SOS)!"
+   },
+   {
+    "typ": "krok",
+    "c": 17,
+    "text": "Na displeji TDD zvolte pomocí tlačítka „Systém“ obrazovku „Volba sítě“."
+   },
+   {
+    "typ": "krok",
+    "c": 18,
+    "text": "Na obrazovce „Volba sítě“ vyberte systém „CZ 3 kV DC“ a vobu potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 19,
+    "text": "Zobrazí se obrazovka „potvrdit volbu sítě“. Volbu potvrďte tlačítkem „Enter“."
+   },
+   {
+    "typ": "krok",
+    "c": 20,
+    "text": "Pro zapnutí zabezpečovače MIREL VZ1 deaktivujte a po chvíli znovu aktivujte stanoviště pomocí spínače s klíčkem."
+   },
+   {
+    "typ": "krok",
+    "c": 21,
+    "text": "Na displeji CCD se objeví potvrzovací dialog, ve kterém potvrďte výběr systému vlakového zabezpečovače MIREL VZ1.\nPokud nebude nový systém zabezpečovače potvrzen, dojde k zablokování trakce!\nPokud není potvrzovací dialog zobrazen, případně se ztratí, lze jej deaktivací a opětovnou aktivací stanoviště strojvedoucího znovu zobrazit a zabezpečovač potvrdit."
+   },
+   {
+    "typ": "krok",
+    "c": 22,
+    "text": "Dojde k zapnutí MIREL VZ1 a k deaktivaci PZB/LZB a vypnutí Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 23,
+    "text": "Zdvihněte sběrač."
+   },
+   {
+    "typ": "krok",
+    "c": 24,
+    "text": "Zapněte hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 25,
+    "text": "Proveďte test D1 MIREL VZ1 a nastavte příslušné údaje pro další jízdu vlaku."
+   }
+  ]
+ },
+ {
+  "id": "vectron-p3-test-sifa",
+  "rada": "Vectron",
+  "nazev": "Test Sifa (provoz bez ETCS)",
+  "podnadpis": "z obrazovky „testy funkčnosti“ na TDD, nebo stlačením pedálu na cca 30 s",
+  "kategorie": "Ostatní",
+  "uvod": "Kap. 22.1.4 Pokynu 3/2023. Musí být navolen systém „CZ DC 3 kV PZB“, případně systém DB nebo ÖBB!",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Pokyn 3/2023 Vectron",
+   "clanek": "kap. 22.1.4 Test Sifa, str. 27",
+   "verze": "změna 5",
+   "ucinnost": "1. 12. 2025"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "Musí být navolen systém „CZ DC 3 kV PZB“, případně systém DB nebo ÖBB!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Na displeji TDD zvolte „testy funkčnosti“."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na obrazovce „testy funkčnosti“ spusťte test Sifa."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Postupujte podle pokynů na obrazovce."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Vyzkoušejte ovladač (tlačítka, pedál) pro obsluhu Sifa. Dále ponechte zařízení Sifa bez obsluhy. Po zvukové signalizaci dojde k zásahu Sifa a bude odvětráno hlavní potrubí. Zařízení Sifa uveďte do provozního stavu sešlápnutím a uvolněním pedálu. Hlavní potrubí bude naplněno.\nPři zkoušení se samotnou lokomotivou je nutno ověřit po zaúčinkování Sifa blokování trakce."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Ukončete test Sifa na displeji."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Test Sifa lze provádět i jen pouhým stlačením pedálu Sifa na dobu cca 30 sec."
+   }
+  ]
+ }
+]

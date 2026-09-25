@@ -1,0 +1,99 @@
+      Váš dopis zn.
+      Ze dne                                                            Správa železnic, státní organizace
+      Naše zn.      92062/2024-SŽ-GŘ-O11
+      Listů/příloh  1/0                                                 ředitel: O11, O18, CTD
+      Vyřizuje       Marcela Štrinclová
+                                                                                   všech OŘ, CDP
+      Mobil          +420 725 591 218                                   Dopravci
+      E-mail         strinclova@spravazeleznic.cz
+
+      Datum          6. prosince 2024
+
+
+
+
+      Navazování komunikace mezi zaměstnanci řízení provozu a doprovodem vlaku od
+      1. ledna 2025
+
+
+
+      Od 0:00 hod. dne 1. ledna 2025 je účinný předpis SŽ Z11 – Předpis pro obsluhu rádio-
+      vých zařízení (dále jen „SŽ Z11“).
+
+      V příloze C a D předpisu SŽ Z11 jsou uvedeny příklady pro navazování rádiové komu-
+      nikace mezi zaměstnanci řízení provozu a doprovodu vlaku (doprovodem vlaku a za-
+      městnanci řízení provozu) na dráhách provozovaných Správou železnic, státní organizací (dále
+      jen „Správa železnic“), která jsou v souladu s „PROVÁDĚCÍM NAŘÍZENÍM KOMISE (EU)
+      2019/773“.
+
+      Od účinnosti předpisu SŽ Z11:
+
+        a) musí zaměstnanci řízení provozu a zaměstnanci doprovodu vlaku při navazování rádiové
+           komunikace mimo jiné dodržet ustanovení tohoto předpisu podle druhu použitého rádio-
+           vého zařízení.
+
+            Při posunu zaměstnanec, který navazuje nebo přijímá rádiovou komunikaci, upraví text
+            navazování rádiové komunikace pro posun, přičemž musí být dodrženo, že bude:
+
+            •    uvedeno pracovní zařazení zaměstnance (výhybkář, vedoucí posunové čety apod.),
+                 který navazuje nebo přijímá rádiovou komunikaci, a
+
+            •    u zaměstnanec řízení provozu uvedeno i označení a umístění pracoviště (např. „Sta-
+                 vědlo jedna stanice Řevnice“), a
+
+            •    u zaměstnance doprovodu vlaku uvedeno označení posunového dílu (PMD) a jeho po-
+                 loha (např. „první záloha ve stanici Kočov“);
+
+        b) se neuplatňují ustanovení předpisu:
+
+            1. Z11 článku 18, oddíl 2, odst. (2) – poslední věta odstavce,
+
+            2. SŽ D1 ČÁST PRVNÍ článku 36, odst. (2) a (3),
+
+            3. SŽ D3 článku 64, odst. (1),
+
+            4. SŽ D4 článku 57, odst. (1),
+
+            5. SŽDC T1:
+
+                 •   článku 9.1.13, písm. a) a b),
+
+                 •   přílohy C.1 v předposledním a posledním řádku tabulky,
+
+                 •   přílohy C.2 v předposledním a posledním řádku tabulky.
+
+
+
+
+      Správa železnic, státní organizace                  Sídlo: Dlážděná 1003/7, 110 00 Praha 1   Generální ředitelství
+      zapsána v obchodním rejstříku vedeném Městským sou- IČO: 709 94 234 DIČ: CZ709 94 234        Dlážděná 1003/7
+1/2   dem v Praze, spisová značka A 48384                 spravazeleznic.cz                        110 00 Praha 1
+      S tímto dopisem prokazatelně seznamte všechny dotčené zaměstnance.
+
+      S pozdravem
+
+                        Mgr. Jaroslav Flegl
+                        08.12.2024 12:13
+                        Podepsáno
+                        elektronicky
+
+
+
+      Ing. Jaroslav Flegl, LL.M
+      náměstek generálního ředitele pro řízení provozu
+
+
+
+
+2/2
+Ověřovací doložka změny datového formátu dokumentu podle § 69a zákona č. 499/2004 Sb.
+Doložka číslo: 5189073
+Původní datový formát: application/pdf
+UUID původní komponenty: 1e1c2d49-b643-4faa-b8fb-694db5b62638
+Jméno a příjmení osoby, která změnu formátu dokumentu provedla:
+Systém ERMS (zpracovatel dokumentu Marcela ŠTRINCLOVÁ)
+Subjekt, který změnu formátu provedl: Správa železnic, státní organizace
+Datum vyhotovení ověřovací doložky: 06.12.2024 08:02:13
+Hash komponenty: 3711a6613a1a642657859f617ebb31b8b9c0fae5bba1444eb6ac99791c32d6ee
+Hashovací funkce: sha256Hex
+

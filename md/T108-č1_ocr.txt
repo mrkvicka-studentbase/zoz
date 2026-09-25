@@ -1,0 +1,194 @@
+=== STRANA 1 ===
+ČESKÉ DRÁHY
+
+čsp
+T 108
+
+OBSLUHA
+VLAKOVÉHO ZABEZPEČOVACÍHO
+ZAŘÍZENÍ
+
+ZMĚNA č.1
+
+schválená náměstkem zmocněnce vlády České republiky pro provoz
+a infrastrukturu Českých drah dne 28. 4. 1993 (čj. 59 760/92
+- 035)
+
+Účinnost od : 1. 1. 1994
+
+Vypracoval : GŘ ČD Sekce infrastruktury pro automatizaci a elek-
+trotechniku
+
+Vydáno : 28 000 výtisků
+
+Vydal : NADAS - AFGH s.r.o. Praha
+=== STRANA 2 ===
+ČSD T108 Obsluha vlakového zabezpečovacího zařízení Změna č. 1
+
+Pol. |str.| Článek Proveďte tyto opravy
+1 Obálka V záhlaví změňte : "Československé
+
+státní dráhy" na "České dráhy"
+
+2 1 |Titulní V záhlaví změňte : "Československé
+
+list státní dráhy" na "České dráhy"
+3 4 |Rozdělov- Změňte : "Federální ministerstvo dopra-
+ník vy" na "Ministerstvo dopravy"
+4 4 |Rozdělov- Změňte : "Ústřední ředitelství ČSD" na
+ník "Generální ředitelství ČD" a "Oblastní
+ředitelství ČSD" na "Oblastní ředitels-
+tví čD".
+5 V celém Změňte název "náčelník" na "přednosta".
+předpisu
+6 5 Rozsah V názvu | služebního odvětví dopravy
+znalosti a přepravy škrtněte "a přepravy“.
+7 5 Rozsah Ve znalosti pracovníků služebního od-
+znalosti větví dopravy škrtněte "kapitola I.,
+články 92 a 93, kapitoly XIII a XIV.
+Informativní £: kapitola XII. Přílohy
+
+č.1 a 2". Napište " články 5, 6, 92,
+165-167, 169 a 181".
+
+8 5 Rozsah Ve sloupci Funkce-Pracovní činnost slu-
+znalosti žebního odvětví dopravy škrtněte "vlak-
+
+vedoucí".
+9 6 Rozsah Ve sloupci Funkce —- pracovní činnost
+znalosti služebního odvětví sdělovací a zabezpe-
+
+čovací techniky škrtněte "expertizní
+s kontrolní měření a laboratorní prá-
+ce", Napište "sdělovací a zabezpečovací
+
+laboratoř".
+10 7 Rozsah Ve sloupci Funkce —- pracovní činnost
+znalosti služebního odvětví sdělovací a zabezpe-
+
+čovací techniky škrtněte před názvem
+zabezpečovací, sdělovací obvodář "-".
+
+11 8 | Seznam Změňte "FMD" na "MD ČR" a "federální
+Akratek ministerstvo dopravy“ na " ministerstvo
+
+dopravy České republiky"
+12 8 | Seznam Změňte "ÚŘ ČSD" na "GŘ ČD" a "Ústřední
+zkratek ředitelství Československých státních
+
+- 2-
+=== STRANA 3 ===
+ČSD T108 Změna č. 1
+drah" na "Generální ředitelství Českých
+drah“.
+
+13 s 1 V prvém řádku škrtněte "a přepravy".
+
+14 9 4 Změňte na konci druhého a třetího od-
+stavce "ČSD" na "ČD“.
+
+15 10 5 Doplňte text ve druhém řádku takto :
+"... nekódovaných, periodicky prověřuje
+vlakový zabezpečovač bdělost strojve-
+
+| doucího."
+
+16 11 12 Změňte "ČSD" na "ČD" a "ÚŘ ČSD" na "GŘ
+čD".
+
+17 12 18 Za první odstavec nalepte nálepku č.1
+
+18 13 26 V posledním řádku změňte slovo "přehlí-
+dek" na "prohlídek".
+
+19 13 30 Zařaďte nový článek. Za článek 29 na-
+lepte nálepku č.2
+
+20 13 30.- 34. Upravte na "31. + 34. neobsazeno"
+
+21 20 84 V prvém řádku nahraďte slovo "rozbory"
+
+slovem "kontrolou".
+Ve čtvrtém řádku nahraďte slovo "části"
+slovem "část".
+
+22 21 92 Ve druhém odstavci, čtvrtý řádek uprav-
+te text takto : "...motivního dispečera
+s vlakovým dispečerem, ...“.
+
+23 21 Ve druhém řádku škrtněte : "a provede
+
+zápis do Záznamníku“.
+
+24 95 c) Znění odstavce přelepte nálepkou č. 3
+
+25 96 a) Ve druhém řádku škrtněte : "“a) stav mo-
+bilní části VZ při odstavování nebo
+předávání hnacího vozidla (např. VZ
+v pořádku)".
+
+26 Změňte označení odstavců b) na a), c)
+na b), d) na c).
+
+27 23 Ve druhém řádku škrtněte "kmitavé"
+a napište "přerušované".
+
+28 Na konci druhé odrážky doplňte : ")".
+
+29 Ve druhém odstavci škrtněte slovo “bez-
+
+-3-
+=== STRANA 4 ===
+ČSD T108 Změna č. 1
+prostředně".
+
+30 34 167 Ve třetím řádku za slovem "rozkazem
+"y"“ napište ".". Ve třetím a čtvrtém
+řádku škrtněte text: " např. "Traťová
+část VZ mezi Valciřovem a Kozlovem po-
+rouchána, stanice Kozlov zpravena.""
+
+31 35 181 Ve druhém odstavci škrtněte : "do příš-
+tí stanice pravidelného zastavení, kde
+strojvedoucí ohlásí | poruchu mobilní
+části VZ výpravčímu".
+
+32 36 182 Škrtněte poslední větu : "Poruchu ohlá-
+sí až při nejbližším zastavení ve sta-
+nici.“
+
+33 37 |Souvisící Změňte označení norem ON 34 2601 na TNŽ
+
+normy 34 2601 a ON 34 2640 na TNŽ 34 2640.
+34 49 |příloha Očíslujte průběžně stránky 50 až 60.
+č. 4
+35 56 |Příklady Škrtněte bez náhrady příklady zápisů ze
+zápisů dne 24.3. v 0,20 a 24.3. v 5,00.
+
+=== STRANA 5 ===
+Nálepka č. 1
+
+Přesuny hnacích vozidel mimo obvod udržující sdělovací
+a zabezpečovací distance (článek 14) je lokomotivní depo povinno
+ohlásit zúčastněným distancím. Povinnosti stanovené články 26 až
+28 zabezpečí lokomotivní depo a sdělovací a zabezpečovací di-
+stance, ke které bylo hnací vozidlo přesunuto.
+
+Nálepka č. 2
+
+30. Strojmistr nebo určený pracovník lokomotivního depa
+nesmí přistavit na výkon hnací vozidlo u kterého nebyla po jeho
+periodické údržbě provedena prohlídka mobilní části VZ ve smyslu
+předpisu ČSD T128.
+
+Nálepka č. 3
+
+©) při převzetí po provozním ošetření (pouze u hnacích vo-
+zidel s mobilní částí VZ upravenou pro provoz na kódova-
+ných tratích), periodické prohlídce hnacího vozidla
+a neplánované opravě mobilní části VZ, zkontroluje Zá-
+znamník a přesvědčí se, zda zařízení mobilní části je
+přezkoušeno (článek 146) a je v pořádku. Viz též předpis
+ČSD V 2 EM.
+
+-5

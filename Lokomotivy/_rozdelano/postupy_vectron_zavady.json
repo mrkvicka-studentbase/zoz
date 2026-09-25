@@ -1,0 +1,767 @@
+[
+ {
+  "id": "vectron-bezpecny-stav",
+  "rada": "Vectron",
+  "nazev": "Bezpečný stav lokomotivy",
+  "podnadpis": "",
+  "kategorie": "Bezpečný stav",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Bezpečný stav lokomotivy, str. 2–3",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "misto",
+    "text": "Na stanovišti"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zabrzdi střadačovou brzdu a zkontroluj její zabrzdění."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Vypni hlavní vypínač."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Stáhni sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na displeji zkontroluj vypnutí hlavního vypínače a beznapěťový stav lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Pohledem z vnějšku lokomotivy zkontroluj stažení sběračů."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Spínačem s klíčem deaktivuj stanoviště."
+   },
+   {
+    "typ": "misto",
+    "text": "Panel pomocného vzduchového zařízení ve strojovně"
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Ve strojovně na panelu pomocného vzduchového zařízení otoč a vyjmi modrý klíč."
+   },
+   {
+    "typ": "misto",
+    "text": "Panel přístrojů VN DC"
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "Modrý klíč vlož do modře označeného zámku a otoč jím doprava."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Ovládací páku odpojovače - uzemňovače DC přelož do polohy „Uzemněno“. Páku je nutno potáhnout k sobě pro uvolnění její aretace."
+   },
+   {
+    "typ": "krok",
+    "c": 10,
+    "text": "Otoč žlutým klíčem doprava a vytáhni jej."
+   },
+   {
+    "typ": "info",
+    "text": "Pro manipulaci s topnou spojkou vyjmi žlutý klíč s klíčem zásuvky centrálního napájení vlaku. Nyní je vytvořen bezpečný stav pro manipulaci se spojkou napájení vlaku (topnou spojkou). Pro vytvoření bezpečného stavu celé lokomotivy pokračuj dále!"
+   },
+   {
+    "typ": "misto",
+    "text": "Panel přístrojů VN AC"
+   },
+   {
+    "typ": "krok",
+    "c": 11,
+    "text": "Žlutý klíč z panelu přístrojů VN DC vlož do žlutého zámku odpojovače a uzemňovače AC a otoč jím doleva."
+   },
+   {
+    "typ": "krok",
+    "c": 12,
+    "text": "Odpojovač - uzemňovač AC přelož do polohy „Uzemnění“."
+   },
+   {
+    "typ": "krok",
+    "c": 13,
+    "text": "Otoč černým klíčem doprava a vytáhni jej."
+   },
+   {
+    "typ": "konec",
+    "text": "Je zaveden bezpečný stav lokomotivy. Černý klíč slouží jako symbol bezpečného stavu na lokomotivě."
+   }
+  ]
+ },
+ {
+  "id": "vectron-vleceni",
+  "rada": "Vectron",
+  "nazev": "Vlečení lokomotivy",
+  "podnadpis": "vypnutá baterie, pneumatická brzda zapnutá",
+  "kategorie": "Přeprava a odtah",
+  "uvod": "VLEČENÍ - Přeprava lokomotivy jako brzděného vozidla cizí tažnou silou. Pokud lokomotiva nemůže nebo nemá vykonávat pohyb vlastní silou, musí být vlečena. Před vlečením lokomotivy jako brzděného vozidla musí být lokomotiva normálně odstavená.",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Vlečení lokomotivy, str. 4",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "info",
+    "text": "VLEČENÍ - Přeprava lokomotivy jako brzděného vozidla cizí tažnou silou. Pokud lokomotiva nemůže nebo nemá vykonávat pohyb vlastní silou, musí být vlečena. Před vlečením lokomotivy jako brzděného vozidla musí být lokomotiva normálně odstavená."
+   },
+   {
+    "typ": "pozor",
+    "text": "POZOR! Při odstavení lokomotivy musí dojít k úplnému odvětrání hlavního potrubí! Jen tak dojde k uzavření příslušného pneumatického ventilu a tím i k zamezení úniku vzduchu z lokomotivy při napájení hlavního potrubí z jiné lokomotivy!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Výchozí stav – lokomotiva standardně odstavená z provozu."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na panelu brzdových zařízení ve strojovně lokomotivy zkontroluj uzavření kohoutu B08/2 „ETCS“ (žlutý) - poloha „0“."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Po spojení lokomotivy šroubovkou spoj hlavní a napájecí potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Po naplnění hlavního potrubí zkontroluj odbrzdění střadačové a pneumatické brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Proveď zkoušku brzdy. Funkci pneumatické brzdy lokomotivy zkontroluj na venkovních ukazatelích."
+   },
+   {
+    "typ": "konec",
+    "text": "Lokomotiva je připravena k vlečení."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Po ukončení vlečení (ještě před odpojením vlečené lokomotivy) je nutné zcela odvětrat hlavní potrubí vlečené lokomotivy! Jen tak dojde k aktivaci střadačové brzdy!"
+   }
+  ]
+ },
+ {
+  "id": "vectron-odtazeni",
+  "rada": "Vectron",
+  "nazev": "Odtažení lokomotivy",
+  "podnadpis": "vypnutá baterie, pneumatická brzda vypnutá",
+  "kategorie": "Přeprava a odtah",
+  "uvod": "ODTAŽENÍ - Přeprava lokomotivy jako nebrzděného vozidla cizí tažnou silou. Pokud lokomotiva z důvodu závažné poruchy nebo nehody nemůže vykonávat pohyb vlastní silou a nemůže být brzděna nepřímočinnou brzdou, musí být odtažena jako nebrzděná. Před odtažením lokomotivy jako nebrzděného vozidla musí být lokomotiva normálně odstavená.",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Odtažení lokomotivy, str. 5–6",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "info",
+    "text": "ODTAŽENÍ - Přeprava lokomotivy jako nebrzděného vozidla cizí tažnou silou. Pokud lokomotiva z důvodu závažné poruchy nebo nehody nemůže vykonávat pohyb vlastní silou a nemůže být brzděna nepřímočinnou brzdou, musí být odtažena jako nebrzděná. Před odtažením lokomotivy jako nebrzděného vozidla musí být lokomotiva normálně odstavená."
+   },
+   {
+    "typ": "pozor",
+    "text": "POZOR! Při odstavení lokomotivy musí dojít k úplnému odvětrání hlavního potrubí! Jen tak dojde k uzavření příslušného pneumatického ventilu a tím i k zamezení úniku vzduchu z lokomotivy při napájení hlavního potrubí z jiné lokomotivy!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Výchozí stav – lokomotiva standardně odstavená z provozu."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Na panelu brzdových zařízení ve strojovně lokomotivy zkontroluj uzavření kohoutu B08/2 „ETCS“ (žlutý) - poloha „0“."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Po spojení lokomotivy šroubovkou spoj hlavní a napájecí potrubí, případně zajisti odtahovanou lokomotivu proti samovolnému pohybu v obou směrech klíny nebo zarážkami."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Uzavři uzavírací kohout střadačové brzdy (B03) na panelu brzdových zařízení (poloha „0“)."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Uzavři kohouty pneumatické brzdy podvozků 1 (B02.03/1) a 2 (B02.03/2) na panelu brzdových zařízení (poloha „0“)."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Zkontroluj venkovní ukazatele brzdy – ukazatel střadačové brzdy musí ukazovat „X“, ukazatele pneumatické brzdy stav „odbrzděno“."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "Nouzově odbrzdi střadače brzdy na všech 4 nápravách a zkontroluj jejich odbrzděný stav."
+   },
+   {
+    "typ": "konec",
+    "text": "Lokomotiva je připravena k odtažení."
+   },
+   {
+    "typ": "krok",
+    "c": 9,
+    "text": "Po ukončení odtažení musí být odtahovaná lokomotiva zajištěna proti pohybu klíny nebo zarážkami ještě před odvěšením!"
+   }
+  ]
+ },
+ {
+  "id": "vectron-nouzove-odbrzdeni-stradacove-brzdy",
+  "rada": "Vectron",
+  "nazev": "Nouzové odbrzdění střadačové brzdy",
+  "podnadpis": "",
+  "kategorie": "Brzdy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Nouzové odbrzdění střadačové brzdy, str. 7",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "POZOR! Stanovené činnosti a jejich pořadí je nutno bezpodmínečně dodržet!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Zajisti lokomotivu proti pohybu pomocí klínů nebo zarážek!"
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Uzavři kohout střadačové brzdy B03.04 na panelu brzdových zařízení."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Uzavři kohouty pneumatické brzdy podvozků 1 (B02.03/1) a 2 (B02.03/2) na panelu brzdových zařízení (poloha „0“)."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Odbrzdění střadačové brzdy proveď klíčem nouzového odbrzdění přímo na jednotce brzdových čelistí na nouzovém odbrzďovacím zařízení. Mechanické odbrzdění proveď úplným vytažením čepu nouzového odbrzdění. Vzdálenost od horní drážky odbrzďovacího kolíku ke spodní hraně tělesa střadačové brzdy musí být cca 0,5 cm! Nouzového odbrzdění pružinové brzdy proveď vždy na všech nápravách!"
+   },
+   {
+    "typ": "konec",
+    "text": "Střadačová brzda je nouzově odbrzděna."
+   }
+  ]
+ },
+ {
+  "id": "vectron-zpetna-aktivace-stradacove-brzdy",
+  "rada": "Vectron",
+  "nazev": "Zpětná aktivace střadačové brzdy",
+  "podnadpis": "po nouzovém odbrzdění střadačové brzdy",
+  "kategorie": "Brzdy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Nouzové odbrzdění střadačové brzdy – Zpětná aktivace střadačové brzdy, str. 8",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Otevři uzavírací kohouty pneumatické brzdy podvozků B02.03/1 a B02.03/2."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Otevři uzavírací kohout střadačové brzdy B03.04 na panelu brzdových zařízení do provozní polohy."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Odbrzdi střadačovou brzdu pomocí tlačítka „Odbrzdění střadačové brzdy“ na mezistěně kabiny strojvedoucího."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zabrzdi střadačovou brzdu pomocí tlačítka „Zabrzdění střadačové brzdy“ a zkontroluj její zabrzdění na TDD. Pro korektní činnost střadačové brzdy je nutno odbrzdění a zabrzdění několikrát opakovat (min. 3x)."
+   },
+   {
+    "typ": "konec",
+    "text": "Střadačová brzda je aktivována."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-primarni-pruzina",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Poškození primární pružiny",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Poškození primární pružiny, str. 9",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "V případě lomu jedné nebo obou pružin na jednom ložisku nápravy pokračuj v jízdě vlastním pohonem: • nejvyšší rychlost 10 km/h; • jen do příští stanice; • další přeprava lokomotivy jen odtažením."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-sekundarni-pruzina",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Poškození sekundární pružiny",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Poškození sekundární pružiny, str. 9",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "V případě lomu jedné nebo obou pružin pokračuj v jízdě vlastním pohonem: • maximální rychlostí 30 km/h; • jen do příští stanice; • další přeprava lokomotivy jen odtažením."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-kyvadlovy-zaves-tm",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Poškození kyvadlového závěsu trakčního motoru",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Poškození kyvadlového závěsu trakčního motoru, str. 9",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Na panelu jističů pomocných pohonů vypni jistič motoru ventilátoru příslušného trakčního motoru – ASG odpojí trakční motor."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Uzavři kohout pneumatické brzdy příslušného podvozku (B02.03/1 nebo B02.03/2)."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Poté pokračuj v jízdě vlastním pohonem: • maximální rychlost 30 km/h; • jen do nejbližší opravny, kde lze poškození opravit."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-tazna-ojnicka",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Poškození tažné ojničky nápravy",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Poškození tažné ojničky nápravy, str. 10",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Na panelu jističů pomocných pohonů vypni jistič motoru ventilátoru příslušného trakčního motoru – ASG odpojí trakční motor."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Uzavři kohout pneumatické brzdy příslušného podvozku (B02.03/1 nebo B02.03/2)."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Poté je možné pokračovat v jízdě vlastním pohonem: • maximální rychlost 10 km/h; • jen do nejbližší opravny, kde lze poškození opravit."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-svisle-pricne-tlumice",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Nefunkční svislé a příčné tlumiče",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Nefunkční svislé a příčné tlumiče, str. 10",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "• nejvyšší rychlost 100 km/h; • je možná další jízda až do stanice určení; • po ukončení jízdy musí být poškozené tlumiče bezpodmínečně vyměněny."
+   }
+  ]
+ },
+ {
+  "id": "vectron-pojezd-torzni-tlumice",
+  "rada": "Vectron",
+  "nazev": "Poškození na pojezdu – Zablokované torzní tlumiče",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Poškození na pojezdu lokomotivy – Zablokované torzní tlumiče, str. 10",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Blokující torzní tlumiče musí být kompletně demontovány ihned po zjištění závady. Poté je možné pokračovat v jízdě vlastním pohonem lokomotivy: • nejvyšší rychlost 100 km/h; • je možná další jízda až do stanice určení; • po ukončení jízdy musí být torzní tlumiče bezpodmínečně vyměněny."
+   }
+  ]
+ },
+ {
+  "id": "vectron-porucha-fc-239-240",
+  "rada": "Vectron",
+  "nazev": "Porucha FC 239/240",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Porucha FC 239/240, str. 11",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Uvedené činnosti proveď na obou stanovištích."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Přestav páku brzdiče do polohy „5 bar“ a zaveď nízkotlaké přebití brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vyčkej vyrovnání tlaku v HL na 5 baru."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "POMALU postupně proveď úplné zabrzdění a vyčkej ustálení tlaku v HP."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zaveď rychlobrzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Přestav brzdič zpět do polohy úplného zabrzdění a vyčkej vyrovnání tlaku v HP."
+   },
+   {
+    "typ": "krok",
+    "c": 7,
+    "text": "POMALU postupně odbrzdi."
+   },
+   {
+    "typ": "krok",
+    "c": 8,
+    "text": "V případě neúspěchu odvětrej prostory brzdy pomocí odvzdušňovací páky rozvaděče a celý postup opakuj."
+   }
+  ]
+ },
+ {
+  "id": "vectron-porucha-fc-252",
+  "rada": "Vectron",
+  "nazev": "Porucha FC 252",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Porucha FC 252, str. 11",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Proveď úplné zabrzdění a vyčkej ustálení tlaku v hlavním potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Ve strojovně na panelu brzd přepni přepínač nouzového ovládání brzdiče do polohy „BACKUP“."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Páku ovladače brzdiče přelož do polohy odbrzděno (5 bar)."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Úplně provozně zabrzdi (max.)."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Páku přestav do polohy odbrzděno (5 bar)."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Ve strojovně přepni přepínač nouzového ovládání brzdiče do polohy „NORMAL“."
+   }
+  ]
+ },
+ {
+  "id": "vectron-porucha-fc-290-293",
+  "rada": "Vectron",
+  "nazev": "Porucha FC 290 a FC 293",
+  "podnadpis": "Dále uvedené činnosti proveď na obou stanovištích!",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Porucha FC 290 a FC 293, str. 12",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "pozor",
+    "text": "Dále uvedené činnosti proveď na obou stanovištích!"
+   },
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Proveď úplné zabrzdění a vyčkej ustálení tlaku v hlavním potrubí."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Zaveď rychlobrzdu."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Přestav brzdič zpět do polohy úplného zabrzdění a vyčkej vyrovnání tlaku v HP."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Odbrzdi."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "Zaveď nízkotlaké přebití brzdy."
+   },
+   {
+    "typ": "krok",
+    "c": 6,
+    "text": "Všechny ovladače přímočinné brzdy na stanovišti přestav postupně do polohy zabrzděno, odbrzděno a zpět do střední polohy. Pozor – vždy musí být aktivován příslušný boční ovládací panel."
+   }
+  ]
+ },
+ {
+  "id": "vectron-porucha-asg",
+  "rada": "Vectron",
+  "nazev": "Porucha ASG – nejde zapnout SS HV",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Porucha ASG – nejde zapnout SS HV, str. 13",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Stáhni sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Vypni a po cca 20 sec zapni jističe SR1 a SR2 na rozvaděči nízkého napětí."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Vyčkej uvolnění zvednutí sběrače."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Zapni hlavní vypínač."
+   }
+  ]
+ },
+ {
+  "id": "vectron-porucha-piskovani",
+  "rada": "Vectron",
+  "nazev": "Porucha pískování",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": false,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Porucha pískování, str. 14",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Uzavři příslušný kohout pískování. Kohouty pro 1. a 4. nápravu jsou umístěny v pultech na stanovištích. Kohouty pro 2. a 3. nápravu jsou na podlaze ve strojovně lokomotivy."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "POZOR! Pokud uzavřeš jeden a více uzavíracích kohoutů pro pískování, musíš vypnout jistič pro vytápění pískování (na elektrickém rozvaděči brzd jistič -MB-F11). Teprve když jsou všechny kohouty pro pískování otevřené, smíš jistič pro topení pískování opět zapnout."
+   }
+  ]
+ },
+ {
+  "id": "vectron-vypadek-displeje",
+  "rada": "Vectron",
+  "nazev": "Výpadek displeje",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Výpadek displeje, str. 15",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Při výpadku jednoho displeje pokračuj v jízdě s jedním funkčním displejem - spodní výběrové menu je nutné přepínat dvojklikem tlačítka (tlačítko se symbolem oboustranné šipky)."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Reset nefunkčního displeje proveď vypnutím příslušného jističe displeje (v pultu u pomocníka strojvedoucího v levých dveřích)."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "Po cca 2 minutách jistič opět zapni a vyčkej inicializaci displeje."
+   },
+   {
+    "typ": "krok",
+    "c": 4,
+    "text": "Na lokomotivách, které jsou vybaveny dotykovými displeji (SW F) je nutno resetovat též příslušnou výpočetní jednotku displeje pomocí jističe (LSS -JC-F05, -JC-F09, -JC-F10, -JC-F11). Jističe jsou umístěny na zadní mezistěně stanoviště."
+   },
+   {
+    "typ": "krok",
+    "c": 5,
+    "text": "V případě neúspěchu nebo výpadku obou displejů proveď reset lokomotivy."
+   }
+  ]
+ },
+ {
+  "id": "vectron-vypadek-navestniho-osvetleni",
+  "rada": "Vectron",
+  "nazev": "Výpadek návěstního osvětlení",
+  "podnadpis": "",
+  "kategorie": "Poruchy",
+  "uvod": "",
+  "zavazne_poradi": true,
+  "zdroj": {
+   "predpis": "Závady v kostce HV Vectron v3",
+   "clanek": "Výpadek návěstního osvětlení, str. 16",
+   "verze": "3",
+   "ucinnost": "1. 4. 2026"
+  },
+  "kroky": [
+   {
+    "typ": "krok",
+    "c": 1,
+    "text": "Vypni příslušný jistič displeje TDD (v pultu na straně „pomocníka“ strojvedoucího v levých dveřích)."
+   },
+   {
+    "typ": "krok",
+    "c": 2,
+    "text": "Po cca 2 minutách jistič opět zapni a ověř funkčnost ovládání návěstních světel."
+   },
+   {
+    "typ": "krok",
+    "c": 3,
+    "text": "V případě neúspěchu použij přepínač přemostění návěstních světel na mezistěně. Na vhodném místě proveď reset lokomotivy."
+   }
+  ]
+ }
+]

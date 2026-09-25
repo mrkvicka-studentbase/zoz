@@ -1,0 +1,698 @@
+             České dráhy, a.s.
+
+
+
+ČD
+V 32
+
+
+
+                 Předpis
+       o nouzovém svěšování vozidel
+
+
+
+
+              Úroveň přístupu „B1“
+                                              Označení předpisu – Účinnost od
+
+
+
+
+                   České dráhy, a.s.
+
+
+
+ČD
+V 32
+
+
+
+                        Předpis
+          o nouzovém svěšování vozidel
+
+
+
+
+       Schváleno rozhodnutím náměstka ministra dopravy
+                     dne 17. července 1971
+                     č.j.: 40 217/71-12
+
+
+
+
+                     Účinnost od 1.3.1972
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                                 2
+                                                                                  ČD V 32 – Účinnost od 1.3.1972
+
+
+                                                  OBSAH
+
+Záznam o změnách ................................................................................                 5
+Rozsah znalostí ......................................................................................            7
+ÚVOD ......................................................................................................      9
+1. SVĚŠOVÁNÍ VOZIDEL, U NICHŽ DOŠLO K PORUŠE ŠROUBOVKY,
+   TÁHLOVÉHO HÁKU ČI NÁRAZNÍKŮ ...............................................                                   10
+   1.1. POPIS TAHADLOVÉHO ÚSTROJÍ ...........................................                                    10
+   1.2. PORUCHY ............................................. ...................................                11
+   1. 3. ZPŮSOBY NOUZOVÉHO SVĚŠOVÁNÍ VOZIDEL S
+         POŠKOZENÝM TAHADLOVÝM ÚSTROJÍM ............................                                             12
+         1.3.1. Přetržené táhlo ................................................................                 12
+         1.3.2. Táhlový hák je přetržen v oku pro svorník šroubovky ......                                       15
+         1.3.3. Vytržení čelníku ................................................................                16
+   1.4. ZPŮSOBY SVĚŠOVÁNÍ VOZIDEL PŘI POŠKOZENÝCH
+         NÁRAZNÍCÍCH ...........................................................................                 16
+         1.4.1. Poškozené nárazníky na hnacích vozidlech .....................                                   16
+         1.4.2. Poškozené nárazníky na ostatních vozidlech ...................                                   16
+         1.4.3. Zvláštní ustanovení ...........................................................                  17
+2. SVĚŠOVÁNÍ VOZIDEL VYBAVENÝCH ŠROUBOVKAMI A
+   NÁRAZNÍKY S VOZIDLY VYBAVENÝMI SAMOČINNÝM SPŘÁHLEM
+   SCHARFENBERG ...............................................................................                  18
+   2.1. POPIS FUNKCE SAMOČINNÉHO SPŘÁHLA SCHARFENBERG                                                            18
+   2.2. NOUZOVÉ SVĚŠENÍ SAMOČINNÉHO SPŘÁHLA
+         SCHARFENBERG S TÁHLOVÝM HÁKEM VOZIDLA
+         VYBAVENÉHO ŠROUBOVKAMI A NÁRAZNÍKY .......................                                              19
+   2.3. ROZVĚŠENÍ SAMOČINNÉHO SPŘÁHLA SCHARFENBERG A
+         NOUZOVÉHO SPŘÁHLA .............................................................                         21
+   2.4. PROVOZNÍ PODMÍNKY PRO POUŽITÍ NOUZOVÉHO SPŘÁHLA                                                          21
+3. SVĚŠOVÁNÍ VOZIDEL VYBAVENÝCH ŠROUBOVKAMI A
+   NÁRAZNÍKY S VOZIDLY VYBAVENÝMI SAMOČINNÝM SPŘÁHLEM
+   SA 3 ......................................................................................................   23
+   3.1. POPIS FUNKCE SAMOČINNÉHO SPŘÁHLA SA 3 ....................                                               23
+   3.2. NOUZOVÉ SVĚŠOVÁNÍ VOZIDEL SE SPŘÁHLEM SA 3 S
+        VOZIDLY SE ŠROUBOVKAMI A NÁRAZNÍKY ...........................                                           24
+        3.2.1. Starší způsob .....................................................................               24
+        3.2.2. Nouzové spřáhlo typu "První Brněnská" ............................                                24
+        3.2.3. Nouzové spřáhlo typu "OSŽD" ...........................................                           25
+   3.3. PROVOZNÍ PODMÍNKY PRO POUŽITÍ NOUZOVÝCH SPŘÁHEL
+        "PRVNÍ BRNĚNSKÁ" A "OSŽD" ...................................................                            26
+
+
+
+
+                                                           3
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                                 4
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                   ZÁZNAM O ZMĚNÁCH 1)
+
+               Změna                                  Předpis
+     číslo
+      č.j.          účinnost od           opravil           dne           podpis
+
+
+
+
+1) Držitel tohoto výtisku je odpovědný za včasné a správné provedení schvále-
+   ných změn a provedení záznamu na této stránce.
+
+
+
+                                      5
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                                 6
+                                         ČD V 32 – Účinnost od 1.3.1972
+
+
+                      ROZSAH ZNALOSTÍ
+
+Organizační
+  složka                        Funkce                   Znalost
+
+
+              Pomocník strojvedoucího               část 1., 3.
+              Strojvedoucí                          celý předpis
+              Vedoucí posunu                        část 1., 3.
+              Vlakvedoucí                           část 1., 3.
+              Vozmistr                              část 1., 3.
+              Četař vozmistr                        část 1., 3.
+              Výpravčí                              část 1., 3.
+
+
+
+
+                                    7
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                                 8
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+
+                                 ÚVOD
+V železniční dopravě při přechodu vozidel zahraničních železničních správ do
+sítě ČSD nebo při nasazování vozidel různých konstrukcí do provozu dochází
+k případům, kdy je nutno svěšovat mezi sebou vozidla s různým druhem
+spřáhlového ústrojí.
+Šroubovka a nárazníky – už jako historický druh tahadlového a narážecího
+ústrojí železničních vozidel – jsou konstrukčně už na svém vrcholu. Často se
+poškozují a jsou příčinou vzniku i některých nehod.
+Úkolem tohoto předpisu je seznámit pracovníky, kteří přijdou do styku se
+svěšováním a rozvěšováním vozidel, jak postupovat při výskytu různých druhů
+tahadlového a narážecího ústrojí, která je zapotřebí mezi sebou svěsit.
+Rovněž jsou v něm uvedeny postupy pro svěšování vozidel, u nichž došlo k
+poškození šroubovek, táhlových háků a nárazníků.
+Vozidla, jež jsou v provozu na normálně rozchodných tratích ČSD, i na tratích
+o rozchodu 1524 mm, jsou vybavena tímto tahadlovým a narážecím ústrojím:
+a) šroubovkami s táhlovými háky a nárazníky,
+b) samočinným spřáhlem Schanferberg,
+c) samočinným spřáhlem SA 3.
+V případech poruch tahadlového a narážecího ústrojí vozidel nebo v případech
+svěšování vozidel různého tahadlového a narážecího ústrojí mezi sebou je
+nutno dodržovat postupy a zásady uvedené v tomto předpise.
+aa)   Svěšování vozidel, u nichž došlo k poruše šroubovky, táhlového háku či
+      nárazníků.
+bb)   Svěšování vozidel se šroubovkami a nárazníky s vozidlem, jež je
+      vybaveno samočinným spřáhlem Scharfenberg.
+cc)   Svěšování vozidla se šroubovkami a nárazníky s vozidlem, jež je
+      vybaveno samočinným spřáhlem SA 3.
+
+
+
+
+                                     9
+ČD V 32 – Účinnost od 1.3.1972
+
+
+             1. SVĚŠOVÁNÍ VOZIDEL,
+     U NICHŽ DOŠLO K PORUŠE ŠROUBOVKY,
+        TÁHLOVÉHO HÁKU ČI NÁRAZNÍKŮ
+
+                   1.1. POPIS TAHADLOVÉHO ÚSTROJÍ
+
+
+
+
+                         Obr. 1. Šroubovka s táhlovým hákem
+
+Vozidla jsou na svých čelech vybavena, kromě nárazníků různých konstrukcí,
+táhlovými háky a šroubovkami.
+Táhlový hák je opatřen svorníkem 8, na němž jsou uchyceny závěsnice 2,
+spojené maticí závěsnice 7.
+Šroubovka se třmenem 1, který lze zaklesnout do táhlového háku sousedního
+vozidla, má matici třmenu 6, která je prostřednictvím vřetene 3 spojená s
+maticí závěsnice 7.
+Vřeteno 3 má závity v matici třmenu 6 a v matici závěsnice 7, závity opačné
+orientace, takže otáčením vřetene 3, pomocí rukojeti 4, lze měnit vzdálenost
+mezi maticí třmenu 6 a maticí závěsnic 2 a tím měnit vzdálenost mezi
+svěšenými vozidly.
+
+
+
+
+                                        10
+                                                       ČD V 32 – Účinnost od 1.3.1972
+
+                              1.2. PORUCHY
+
+Dojde-li k poruše tahadlového ústrojí kteréhokoli vozidla ve vlaku na širé trati,
+je strojvedoucí povinen zajistit vlak proti ujetí s respektováním povinností
+vyplývajících z ustanovení Dopravních předpisů a Návěstních předpisů.
+Teprve potom přikročí k nouzovému svěšení vozidla s poškozeným
+tahadlovým ústrojím k vozidlu sousednímu. Je k tomu zapotřebí kladivo,
+sekáč, průbojník, několik závlaček o průměru 10 mm, dlouhých 90 mm a asi 1
+m měkkého drátu o průměru 2 až 3 mm.
+Podle rozsahu a poškození tahadlového ústrojí rozhodne strojvedoucí, zda se
+díly vlaku spojí, aby vlak mohl být spolehlivě a bezpečně dopraven do nejbližší
+stanice najednou, anebo, zda bude vlak odvezen z trati po částech. V
+případech, že vlak bude dopraven do stanice po částech, stanoví postup při
+spojování dílů vlaku a při jeho dopravě do stanice.
+Při tomto rozhodování se musí strojvedoucí řídit následujícími zásadními
+pravidly:
+a)   Přetržení některé součástky šroubovky nebo nosu táhlového háku
+     nevyžaduje nouzového svěšení sousedních vozů. V tomto případě se ke
+     svěšení použije šroubovka sousedního vozu.
+b)   Zůstal-li poškozený vůz na konci předního dílu vlaku, odváží se vlak po
+     částech, aniž je nutno vozy mezi sebou nouzově svěšovat.
+c)   Je-li poškozený vůz na začátku druhého, utrženého dílu vlaku, je nutno po
+     potřebných přípravách najet opatrně s předním dílem na druhý díl vlaku,
+     zavěsit poškozený vůz na přední díl vlaku a odvést jej společně s ním do
+     stanice.
+d)   Je-li druhá část vlaku lehká a poškození vozu v místě přetržení je takové,
+     že nouzové spojení je dostatečné a spolehlivé, může strojvedoucí po
+     pečlivém uvážení všech okolností (váha druhé části vlaku, spádové
+     poměry, vzdálenost do stanice apod.) rozhodnout, aby celý vlak byl velmi
+     opatrně odvezen najednou. Tento postup je ovšem velice výjimečný a
+     přípustný jen za mimořádně příznivých okolnosti.
+Protože na druhou část vlaku – utrženou – bude najíždět první díl vlaku nebo
+jen hnací vozidlo, musí být zajištěna proti pohybu utažením potřebného počtu
+ručních brzd.
+Dopravní předpisy určují, kdo je odpověden za zajištění druhé části vlaku proti
+ujetí. Návěstní předpisy pak stanoví, jak se druhá část vlaku označí návěstmi.
+Ve stanicích, kde je přítomen vozmistr, provádí nouzové svěšování on, kde
+není, provádí je strojvedoucí.
+
+
+
+
+                                       11
+ČD V 32 – Účinnost od 1.3.1972
+
+       1. 3. ZPŮSOBY NOUZOVÉHO SVĚŠOVÁNÍ VOZIDEL
+             S POŠKOZENÝM TAHADLOVÝM ÚSTROJÍM
+1.3.1. Přetržené táhlo
+Způsob nouzového svěšování vozů s přetrženým táhlem závisí na tom, zda
+vodítko táhla na čelníku má čtvercový otvor (u vozů starší stavby) nebo otvor
+obdélníkový (u vozů novější stavby). Na tuto okolnost je třeba pamatovat při
+rozhodování, kterého způsobu se ke svěšení vozů použije.
+V případech, že vodítko táhla na čelníku vozu má čtvercový otvor a táhlo je
+přetrženo za čelníkem ve větší vzdálenosti za táhlovým hákem, volí se způsob
+zobrazený na obr. 2.
+
+
+
+
+              Obr. 2. Nouzové svěšení šroubovky při přetrženém táhle
+
+Svorník šroubovky se vyjme z přetrženého táhla a třmen sejmuté šroubovky se
+navlékne zezadu na přetržené táhlo. Závěsnice této šroubovky se spolu spojí
+vyjmutým svorníkem šroubovky, a to tak, aby procházel zároveň i třmenem
+šroubovky sousedního vozu. Obě šroubovky se stáhnou tak, aby se nárazníky
+jen dotýkaly.
+Jiný způsob:
+
+
+
+
+                  Obr. 3. Jiný způsob svěšení při přetrženém táhle
+
+                                        12
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+Svorník šroubovky se vyjme z přetrženého táhla a třmen sejmuté šroubovky se
+navlékne zezadu na přetržené táhlo. Závěsnice této šroubovky se znovu spojí
+s hákem přetrženého táhla normálním způsobem a šroubovka se podle
+potřeby stáhne, aby se nárazníky jen dotýkaly.
+Oba způsoby zobrazené na obr. 2 a 3 lze použít jen pro odvezení jediného
+vozu.
+V případech, že vodítko táhla na čelníku vozu má čtvercový otvor a táhlo je
+přetrženo poblíž táhlového háku, lze volit způsob zobrazený na obr. 4.
+
+
+
+
+             Obr. 4. Další možnost svěšení při přetrženém táhle
+
+
+Svorník šroubovky se vyjme z přetrženého táhla. Táhlový hák se zbytkem
+táhla se zasune do otvoru vodítka, ale z vnitřní strany čelníku. Třmen
+odebrané šroubovky se zavěsí na hák za čelníkem a závěsnice se spojí
+vyjmutým čepem šroubovky tak, aby procházel zároveň i třmenem šroubovky
+sousedního vozu. Obě šroubovky se stáhnou tak, aby se nárazníky jen
+dotýkaly.
+Tento způsob nelze u každé konstrukce vozu použít. Použije-li se, pak jenom k
+odvezení jediného vozu.
+V případech, že vodítko táhla v čelníku má obdélníkový otvor a táhlo je
+přetrženo v libovolném místě za táhlovým hákem, lze volit způsob zobrazený
+na obr. 5, 6 a 7.
+Obr. 5. Svorník šroubovky na přetrženém táhle se vyjme a z odebrané
+šroubovky se uvolní obě závěsnice, jejichž konce na přetrženém táhle, které
+byly spojeny maticí, se zasunou naplocho do otvoru ve vodítku táhla a
+závěsnice se otočí o 90° kolem vlastní osy. Konce závěsnic vyčnívající z
+vodítka se spojí odebraným svorníkem šroubovky, a to tak, aby svorník
+procházel třmenem šroubovky sousedního vozu. Šroubovka se podle potřeby
+stáhne.
+
+
+
+                                     13
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+                           Obr. 5. Možnost svěšení za čelník
+
+Obr. 6. Svorník šroubovky na přetrženém táhle se vyjme a z odebrané
+šroubovky se uvolní obě závěsnice, jejichž konce, které byly spojeny s
+táhlovým hákem se naplocho vsunou do otvoru ve vodítku táhla a závěsnice
+se otočí o 90° kolem vlastní osy.
+
+
+
+
+                  Obr. 6. Svěšení za čelník pomocí obou šroubovek
+
+Konce vyčnívající z vodítka táhla se opět navléknou na čepy matice závěsnic a
+na nich normálním způsobem zajistí. Třmen jedné šroubovky se vsune do třme-
+nu šroubovky sousedního vozu a zajistí se v něm odebraným svorníkem šrou-
+bovky. Podle potřeby se obě šroubovky stáhnou, aby se nárazníky dotýkaly.
+
+
+
+
+                                          14
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+           Obr. 7. Svěšení za čelník pomocí části druhé šroubovky
+
+
+Obr. 7. Svorník šroubovky se na přetrženém táhle vyjme a u sejmuté šroubovky
+se přesekne pojistný kroužek na třmenové straně vřetene, aby se matice třmenu
+mohla z vřetene vyšroubovat.
+Takto uvolněný konec vřetene se provlékne otvorem ve vodítku táhla a z vnitřní
+strany čelníku se matice třmenu i se třmenem znovu našroubuje na vřeteno.
+Volné konce závěsnic se spojí svorníkem šroubovky, který se zároveň provleče
+třmenem šroubovky sousedního vozu, a ta se podle potřeby stáhne. Tohoto
+způsobu lze použít i u vozů, jejichž vodítko má čtvercový otvor.
+
+1.3.2. Táhlový hák je přetržen v oku pro svorník šroubovky
+
+
+
+
+         Obr. 8. Svěšení při přetržení táhlového háku v oku šroubovky
+
+
+Svorník šroubovky poškozeného háku se vyjme a uvolněné závěsnice se znovu
+spojí svorníkem tak, aby visely na táhle poškozeného háku. U sousedního vozu
+se vyjme svorník šroubovky a uvolněná šroubovka se zavěsí třmenem na vlast-
+ní hák. Závěsnice se spojí vlastním svorníkem tak, aby zároveň procházel i
+třmenem šroubovky zavěšené na táhle poškozeného háku. Obě šroubovky se
+podle potřeby stáhnou.
+
+                                     15
+ČD V 32 – Účinnost od 1.3.1972
+
+1.3.3. Vytržení čelníku
+
+
+
+
+                         Obr. 9. Svěšení při vytrženém čelníku
+
+Svorník šroubovky přetrženého táhla se vyjme a uvolněná šroubovka se
+zavěsí za některou vhodnou část spodku vozu závěsnicemi spojenými
+svorníkem. K tomuto zavěšení lze použít šikmé vzpěry, kotevníku brzdy,
+příčníku, krakorce koníku apod. U sousedního vozu se vyjme svorník
+šroubovky a uvolněná šroubovka se zavěsí třmenem na vlastní hák. Její
+závěsnice se spojí vlastním svorníkem tak, aby zároveň procházel i třmenem
+šroubovky zavěšené na spojce vozu. Obě šroubovky se podle potřeby
+stáhnou.
+Tohoto způsobu lze využít jen k odvezení jediného vozu.
+
+
+   1.4. ZPŮSOBY SVĚŠOVÁNÍ VOZIDEL PŘI POŠKOZENÝCH
+                     NÁRAZNÍCÍCH
+1.4.1. Poškozené nárazníky na hnacích vozidlech
+Je-li poškozen nebo schází-li na hnacím vozidle alespoň jeden nárazník, je
+hnací vozidlo neschopné provozu.
+Rovněž je provozu neschopné, jsou-li na jediném čelníku namontovány dva
+nárazníky ploché.
+1.4.2. Poškozené nárazníky na ostatních vozidlech
+Je-li poškozen nebo schází-li na jednom čelníku vozidla jeden nárazník, lze
+tato vozidla přepravovat tak, že se nejprve na poškozené vozidlo opatrně
+najede; po zastavení, kdy se nárazníky dotýkají, může se teprve vstoupit mezi
+obě vozidla a svěsit je k sobě. S takovými vozidly se posunuje krokem.
+Jsou-li poškozeny nebo scházejí-li oba nárazníky na jednom čelníku, nelze na
+ně ze strany poškozeného čelníku najíždět, ani s nimi posunovat.
+Taková vozidla se ve vlacích přepravují jen jako náběžníky.
+
+
+
+
+                                          16
+                                                   ČD V 32 – Účinnost od 1.3.1972
+
+1.4.3. Zvláštní ustanovení
+Způsob posunu s hnacími vozidly, jež nemají nárazníky, např. ve
+správkárnách lokomotivních dep nebo v dílnách pro opravu vozidel, musí být
+zakotven v provozním řádu příslušné výkonné jednotky.
+Tento předpis neřeší svěšování a postupy pro manipulaci s poškozenými
+vozidly, která se po nehodách přepravují zvláštními jízdami pomocí
+nehodových prostředků.
+
+
+
+
+                 Obr. 10. Samočinné spřáhlo Scharfenberg
+
+
+
+
+                                   17
+ČD V 32 – Účinnost od 1.3.1972
+
+
+    2. SVĚŠOVÁNÍ VOZIDEL VYBAVENÝCH
+              ŠROUBOVKAMI
+    A NÁRAZNÍKY S VOZIDLY VYBAVENÝMI
+  SAMOČINNÝM SPŘÁHLEM SCHARFENBERG
+           2.1. POPIS FUNKCE SAMOČINNÉHO SPŘÁHLA
+                        SCHARFENBERG
+Konstrukce samočinného spřáhla Scharfenberg slučuje v sobě funkci
+tahadlového a narážejícího ústrojí. Při najetí dvou vozidel k sobě, zavěsí se
+obě spřáhla samočinně. Přitom se současně spojí hlavní potrubí tlakové brzdy,
+napájející potrubí od hlavních vzduchojemů a elektrické kabely.
+Samočinným spřáhlem Scharfenberg jsou u ČSD až dosud vybavena hnací
+vozidla, u nichž především byla váha spřáhla vítanou předností.
+Rozvěšování dvou zaklesnutých samočinných spřáhel Scharfenberg lze
+provést buď ze stanoviště strojvedoucího pomocí stlačeného vzduchu, nebo
+ručně pomocí rukojeti na hlavě spřáhla – tahem. V obou případech se všechna
+vzduchová potrubí spřáhel uzavřou samočinně. Pro případy netěsností je
+hlavní potrubí tlakové brzdy opatřeno ještě koncovým kohoutem.
+
+
+
+
+                      Obr. 11. Nouzové spřáhlo v táhlovém háku
+
+
+
+
+                                        18
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+     2.2. NOUZOVÉ SVĚŠENÍ SAMOČINNÉHO SPŘÁHLA
+                   SCHARFENBERG
+        S TÁHLOVÝM HÁKEM VOZIDLA VYBAVENÉHO
+                    ŠROUBOVKAMI
+                     A NÁRAZNÍKY
+
+Pro toto svěšování – při posunu, při dopravě vozidla z trati – je každé hnací
+vozidlo se samočinným spřáhlem Scharfenberg vybaveno nouzovým
+spřáhlem. Nouzové spřáhlo je v podstatě hlava samočinného spřáhla
+vybavená na druhém konci pevným třmenem.
+Nouzové spřáhlo se zvedne do sklonu asi 60 ° od vodorovné osy táhla, hlavou
+vzhůru a pevným třmenem se zavěsí do táhlového háku. Jeho poloha v
+táhlovém háku se upraví aretačním šroubem tak, aby spřáhlo bylo také ve
+vodorovné rovině, obr. 11.
+Při najíždění s vozidlem vybaveným nouzovým spřáhlem na vozidlo se
+spřáhlem Scharfenberg je třeba volit rychlost 2 až 3 km/h, aby došlo ke
+spolehlivému svěšení obou spřáhel.
+Pro eventuální spojení hlavního potrubí tlakové brzdy obou vozidel je na
+nouzovém spřáhle vyvedena odbočka pro upevnění pryžové spojky, kterou lze
+svěsit s pryžovou spojkou hlavního potrubí sousedního vozidla.
+
+
+
+
+                                     19
+ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+            Obr. 12. Nouzové spřáhlo v táhlovém háku – pohled zprava
+
+
+
+
+             Obr. 13. Nouzové spřáhlo v táhlovém háku – pohled zleva
+
+
+                                       20
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+2.3. ROZVĚŠENÍ SAMOČINNÉHO SPŘÁHLA SCHARFENBERG
+                A NOUZOVÉHO SPŘÁHLA
+
+Při rozvěšování obou spřáhel nutno nejprve uzavřít koncový kohout hlavního
+potrubí tlakové brzdy na straně nouzového spřáhla, rozvěsit pryžovou spojku a
+zavěsit ji do jalového hrdla nebo do držáku na vozidle.
+Je-li stanoviště strojvedoucího na hnacím vozidle se samočinným spřáhlem
+Scharfenberg obsazeno strojvedoucím, provede se rozvěšení spřáhla pomocí
+stlačeného vzduchu. Jinak lze spřáhla rozvěsit ručně.
+
+
+   2.4. PROVOZNÍ PODMÍNKY PRO POUŽITÍ NOUZOVÉHO
+                      SPŘÁHLA
+Nouzové spřáhlo je konstruováno tak, že umožňuje namáhání v tahu tak jako
+šroubovka s táhlovým hákem a pokud jde o namáhání v tlaku, je dovoleno
+sunout zátěž do váhy 250 t.
+
+
+
+
+                 Obr. 14. Nouzové svěšení táhlového háku
+                  se samočinným spřáhlem Scharfenberg
+
+
+
+
+                                     21
+ČD V 32 – Účinnost od 1.3.1972
+
+Rychlost při jízdách při použití nouzového spřáhla je omezována konstrukční
+rychlostí některého z vozidel nebo je určena pokud jde o rychlosti při posunu
+nebo pro sunuté vlaky, Dopravními předpisy.
+Při použití samočinné tlakové brzdy, při jízdách vozidel svěšených nouzovým
+spřáhlem, je nutno souhlasně nastavit funkci rozváděčů tlakové brzdy obou
+vozidel, tj. činného i vlečeného, aby nedocházelo během brzdění či
+odbrzďování ke škodlivým rázům ve vlaku.
+Pokud se svěšují, či rozvěšují hnací vozidla mezi sebou, je vždy strojvedoucí
+hnacího vozidla, jež je opatřeno nouzovým spřáhlem, odpovědný za správné
+postupy při těchto manipulacích. Rovněž je odpovědný za svěšení.
+S ohledem na značnou váhu nouzového spřáhla, zavěšují je do táhlového
+háku dva zaměstnanci.
+Při svěšování dvou vozidel pomocí nouzového spřáhla je zakázáno vstupovat
+mezi obě přibližující se vozidla dříve, než dojde k dokonalému svěšení obou
+spřáhel. Teprve potom lze provádět další manipulace, jako svěšování
+pryžových spojek apod.
+
+
+
+
+                      Obr. 15. Nouzové svěšení – pohled z boku
+
+
+
+
+                                        22
+                                                   ČD V 32 – Účinnost od 1.3.1972
+
+
+   3. SVĚŠOVÁNÍ VOZIDEL VYBAVENÝCH
+             ŠROUBOVKAMI
+         A NÁRAZNÍKY S VOZIDLY
+VYBAVENÝMI SAMOČINNÝM SPŘÁHLEM SA 3
+     3.1. POPIS FUNKCE SAMOČINNÉHO SPŘÁHLA SA 3
+Samočinné spřáhlo SA 3 slučuje ve své konstrukci funkci tahadlového i
+narážecího ústrojí. Při najetí dvou vozidel k sobě dojde k samočinnému
+svěšení dvou spřáhel.
+Vozidla se rozvěšují od sebe tak, že se ručně zvedne rameno rozvěšovací
+páky, která je zavěšena po straně na čelníku vozidla. Protože je páka se
+zámkem a pojistkou zámku spojena mj. prostřednictvím řetězu, dojde k
+rozvěšení hlav obou spřáhel.
+Pryžové spojky hlavního potrubí tlakové brzdy a koncové kohouty odpovídají
+svým provedením shodnému zařízení na vozidlech vybavených šroubovkami a
+nárazníky a také se shodně obsluhují.
+
+
+
+
+                                   23
+ČD V 32 – Účinnost od 1.3.1972
+
+ 3.2. NOUZOVÉ SVĚŠOVÁNÍ VOZIDEL SE SPŘÁHLEM SA 3 S
+         VOZIDLY SE ŠROUBOVKAMI A NÁRAZNÍKY
+
+
+3.2.1. Starší způsob
+U staršího typu samočinného spřáhla SA 3 je z boku na hlavě spřáhla ozub,
+do nějž lze zavěsit třmen šroubovky sousedního vozidla. Pomocí rukojeti lze
+otáčet vřetenem šroubovky a měnit tím její délku podle potřeby.
+
+
+
+
+                      Obr. 16. Samočinné spřáhlo SA 3 na voze
+
+3.2.2. Nouzové spřáhlo typu "První Brněnská"
+Toto nouzové spřáhlo sestává ze spojky, středního článku řetězu a z koncového
+článku řetězu.
+Spojka se svrchu zasune do hlavy spřáhla SA 3 a koncový článek řetězu se
+zavěsí do táhlového háku sousedního vozidla. Tuto manipulaci lze provádět až
+po najetí vozidel k sobě, tj. při stlačených náraznících.
+Při rozvěšování se nejprve uvolní rozvěšovací pákou spřáhlo SA 3, spojka nou-
+zového spřáhla se z hlavy spřáhla vysune směrem vzhůru a pak se vyvěsí kon-
+cový článek řetězu z táhlového háku sousedního vozidla.
+
+
+
+
+                                        24
+                                                     ČD V 32 – Účinnost od 1.3.1972
+
+
+
+
+              Obr. 17. Nouzové spřáhlo typu "První Brněnská"
+
+
+
+
+         Obr. 18. Nouzové spřáhlo typu "První Brněnská" v půdorysu
+
+
+3.2.3. Nouzové spřáhlo typu "OSŽD"
+Po najetí vozidel k sobě při stlačených náraznících se nouzové spřáhlo
+upravené vodicím válečkem v tělese na tzv. prodlouženou úpravu a zasune
+spojkou do hlavy spřáhla SA 3. Nos na držadle nouzového spřáhla přitom
+dosedne na zámek spřáhla SA 3, přičemž vodicí dřík usnadňuje samotné
+zasunutí spojky nouzového spřáhla do hlavy spřáhla SA 3. Pojistka nouzového
+spřáhla zabraňuje zpětnému pohybu spojky z hlavy spřáhla.
+Pak se, stále při stlačených náraznících obou vozidel, upraví délka nouzového
+spřáhla, a to pomocí vodicího válečku – na tzv. krátkou úpravu.
+Rozvěšování takto svěšených vozidel se provádí rozvěšovací pákou spřáhla
+SA 3, z něhož je opět nutno spojku nouzového spřáhla vysunout směrem
+vzhůru. Nouzové spřáhlo zůstane pak už jen zavěšeno v táhlovém háku
+sousedního vozidla, odkud se rovněž vyvěsí.
+
+
+
+
+                                     25
+ČD V 32 – Účinnost od 1.3.1972
+
+    3.3. PROVOZNÍ PODMÍNKY PRO POUŽITÍ NOUZOVÝCH
+           SPŘÁHEL "PRVNÍ BRNĚNSKÁ" A "OSŽD"
+
+Nouzová spřáhla jsou konstruována tak, že umožňují namáhání v tahu tak jako
+šroubovka, takže ji plně nahrazují.
+Svěšování vozidel vybavených samočinným spřáhlem SA 3 s vozidly se
+šroubovkami a nárazníky je možné jen za předpokladu, že obě vozidla jsou
+vybavena nárazníky.
+
+
+
+
+                        Obr. 19. Nouzové spřáhlo typu "OSŽD"
+
+Při svěšování dvou vozidel pomocí těchto nouzových spřáhel je zakázáno
+vstupovat mezi ně dříve, než na sebe dolehly talíře nárazníků a vozidla jsou v
+klidu. Teprve potom lze provádět vlastní úkony spojené se svěšováním
+vozidel.
+Za podmínky, že vozidlo se samočinným spřáhlem SA 3 je vybaveno
+nárazníky, nahrazuje nouzové spřáhlo obou typů šroubovku a vozidla se
+spřáhly SA 3 mohou být řazena jako normální do vlaků v provozu ČSD.
+Je zakázáno svěšovat prostřednictvím spřáhla "První Brněnská", "OSŽD" nebo
+jen šroubovkou vozidla se spřáhlem SA 3, pokud nemají nárazníky.
+
+
+
+
+                                        26
+

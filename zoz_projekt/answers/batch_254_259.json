@@ -1,0 +1,204 @@
+[
+ {
+  "n": 254,
+  "otazka": "Vlak odjížděl od nástupiště ŽST Krašov, po rozjezdu mimořádně zastavil z důvodu odpadnutí ventilu VZ a část soupravy zůstala u nástupiště. V TJŘ ŽST Krašov není ve sloupci 2 symbol „Výpravky“. Jak bude strojvedoucí postupovat po odstranění závady VZ?",
+  "obrazky": [
+   "img/q254_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 361 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 361 odst. (3)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 276"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (18)"
+   }
+  ],
+  "odpoved": "Výpravku ani pokyn výpravčího nepotřebuje – stanice není v TJŘ označena symbolem výpravky, vlak vypravuje návěst odjezdového návěstidla; po úkonech dle ČD D2 čl. 276 se rozjede.",
+  "plne_zneni": "SŽ D1 čl. 361 odst. (3): Výprava vlaků s přepravou cestujících, které stojí (pravidelně nebo mimořádně) v prostoru pro výstup a nástup cestujících, je možná návěstí hlavního návěstidla při dodržení těchto dalších podmínek: a) ve stanici je možnost výpravy vlaků návěstí hlavního návěstidla ze všech kolejí, na kterých je možný výstup a nástup cestujících, a do všech směrů; b) stanice, v nichž je tento postup možný, stanoví příslušný náměstek generálního ředitele SŽ.\n\nSŽ D1 čl. 361 odst. (4): V TJŘ musí být označeny značkou „ “ (symbol výpravky) stanice, ve kterých není výprava vlaků s přepravou cestujících, které stojí v prostoru pro výstup a nástup cestujících, dovolena návěstí hlavního návěstidla. Takto se označí dotčené stanice v TJŘ všech vlaků s přepravou cestujících […]. Ve stanicích, ve kterých není prostor pro výstup a nástup cestujících (nástupiště), se tato značka neuvádí.\n\nČD D2 čl. 276: Zastaví-li vlak s přepravou cestujících z jakýchkoliv příčin mimořádně v prostoru pro výstup a nástup cestujících (byť jen částí soupravy určené pro přepravu cestujících), smí pokračovat v další jízdě po pominutí příčiny zastavení při dodržení následujících podmínek:\na) pokud jsou všechny nástupní dveře soupravy ovládány strojvedoucím vedoucího vozidla vlaku v systému CODS, TB S, SSOD nebo LAT a tento strojvedoucí během pobytu nástupní dveře neodjistil (neotevřel) nebo nezjistil ztrátu kontroly uzavření dveří, uvede vlak do pohybu;\nb) pokud nejsou všechny nástupní dveře soupravy ovládány v systému CODS, TB S, SSOD nebo LAT strojvedoucím vedoucího vozidla vlaku nebo je vlak veden v systému TB 5, musí být zachován postup před odjezdem vlaku s přepravou cestujících dle ustanovení článků 273 až 275 tohoto předpisu a postup dle příslušného systému ovládání nástupních dveří.\n\nSŽ D1 čl. 113 odst. (18): Rychlost 40 km/h a volno – žluté světlo, nad ním zelené světlo.",
+  "distraktory": [
+   "Výpravku si musí vyžádat od výpravčího – vlak s přepravou cestujících, který mimořádně zastavil částí soupravy u nástupiště, smí být vypraven jen výpravkou, popř. písemným rozkazem.",
+   "Zastavení ohlásí výpravčímu a vyčká, až odjezdové návěstidlo přestaví na návěst Volno; teprve pak smí po úkonech před odjezdem dle ČD D2 uvést vlak do pohybu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku stojí čelo vlaku u odjezdového návěstidla s návěstí žluté světlo a nad ním zelené = Rychlost 40 km/h a volno (návěstidlo tedy stále dovoluje jízdu, vlak jej ještě neminul), část soupravy zůstává u nástupiště; ve sloupci 2 TJŘ Krašov není symbol výpravky, takže podle čl. 361 odst. (4) SŽ D1 je zde výprava vlaku s cestujícími stojícího u nástupiště návěstí hlavního návěstidla dovolena. Rozsah úkonů před rozjezdem určuje čl. 276 ČD D2 (ovládá-li všechny dveře strojvedoucí v systému CODS/TB S/SSOD/LAT a během pobytu je neodjistil, uvede vlak do pohybu; jinak zopakuje postup dle čl. 273 až 275). Samotnou závadu VZ hlásí strojvedoucí dle ČD V2/T108, na výpravu vlaku to však nemá vliv."
+ },
+ {
+  "n": 255,
+  "otazka": "Vlak s přepravou cestujících bez obsluhy vlaku Os 19998 zastavil na zastávce Unětice. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, je-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?",
+  "obrazky": [
+   "img/q255_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 275 písm. a)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 261"
+   }
+  ],
+  "odpoved": "Návěst Výzva k pohotovosti nedává – místo ní použije před uzavřením dveří akustickou signalizaci, přesvědčí se o ukončení výstupu a nástupu, uzavře dveře a rozjede se.",
+  "plne_zneni": "ČD D2 čl. 275 písm. a): U vlaku s přepravou cestujících a bez obsluhy vlaku se při odjezdu vlaku zachová následující postup (systém ovládání nástupních dveří CODS, TB S, SSOD nebo LAT):\na) strojvedoucí vedoucího vozidla vlaku dá těsně před dobou pravidelného odjezdu návěst Výzva k pohotovosti, přesvědčí se o ukončení výstupu a nástupu cestujících, uzavře centrálně ovládané nástupní dveře a uvede vlak do pohybu. [poznámka pod čarou: pod pojmem těsně je pro účely tohoto článku myšlena doba v řádech jednotek vteřin před časem pravidelného odjezdu vlaku.]\nStrojvedoucí před uzavřením nástupních dveří musí použít akustickou signalizaci uzavírání dveří nebo hlášení informačního systému, je-li zřízen a funkční. V tomto případě, nebo pokud převzal rozkaz k odjezdu slyšitelnou návěstí Převzetí pokynu, se návěst Výzva k pohotovosti nedává.\n\nČD D2 čl. 275 písm. c): v případě, že se strojvedoucí před odjezdem vlaku z místa určeného pro výstup a nástup cestujících nemůže ze svého stanoviště bezpečně přesvědčit v celé délce soupravy vlaku o ukončení výstupu a nástupu cestujících (např. porucha kamerového systému, zhoršená povětrnostní situace), uzavře centrálně ovládané nástupní dveře, poté vystoupí na nástupiště […] a pochůzkou podél soupravy si pohledem ověří, zda došlo k ukončení výstupu a nástupu cestujících […].\n\nČD D2 čl. 261: Návěst Výzva k pohotovosti (jeden krátký a jeden dlouhý zvuk píšťalkou nebo lokomotivní houkačkou s tónem nižší intenzity nebo lokomotivní píšťalou) je slyšitelnou návěstí a vyzývá členy doprovodu vlaku k oznámení připravenosti vlaku k odjezdu. Lokomotivní houkačku s tónem vyšší intenzity je zakázáno k vyjádření této návěsti použít.",
+  "distraktory": [
+   "Návěst Výzva k pohotovosti dá vždy – akustickou signalizaci uzavírání dveří použije až po jejím dání, poté se přesvědčí o ukončení výstupu a nástupu a uvede vlak do pohybu.",
+   "Nejdříve 20 sekund před odjezdem dá návěst Výzva strojvedoucího, po uzavření dveří vystoupí na nástupiště a pochůzkou podél soupravy ověří ukončení výstupu a nástupu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Obrázek ukazuje pouze motorovou jednotku (vlak bez obsluhy vlaku, centrálně ovládané dveře) – rozhodující údaj je v textu otázky. Stejně jako akustická signalizace působí i hlášení informačního systému, je-li zřízeno a funkční; pochůzka podél soupravy dle čl. 275 písm. c) ČD D2 se provádí jen tehdy, nelze-li se ze stanoviště bezpečně přesvědčit o ukončení výstupu a nástupu v celé délce vlaku."
+ },
+ {
+  "n": 256,
+  "otazka": "Vlak s přepravou cestujících bez obsluhy vlaku Os 19996 zastavil na zastávce Běloky. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, není-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?",
+  "obrazky": [
+   "img/q256_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "ČD D2",
+  "zdroje": [
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 275 písm. a)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 261"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a)"
+   }
+  ],
+  "odpoved": "Těsně (jednotky vteřin) před časem pravidelného odjezdu dá návěst Výzva k pohotovosti, přesvědčí se o ukončení výstupu a nástupu, uzavře dveře a rozjede se.",
+  "plne_zneni": "ČD D2 čl. 275 písm. a): U vlaku s přepravou cestujících a bez obsluhy vlaku se při odjezdu vlaku zachová následující postup (systém ovládání nástupních dveří CODS, TB S, SSOD nebo LAT):\na) strojvedoucí vedoucího vozidla vlaku dá těsně před dobou pravidelného odjezdu návěst Výzva k pohotovosti, přesvědčí se o ukončení výstupu a nástupu cestujících, uzavře centrálně ovládané nástupní dveře a uvede vlak do pohybu. [poznámka pod čarou: pod pojmem těsně je pro účely tohoto článku myšlena doba v řádech jednotek vteřin před časem pravidelného odjezdu vlaku.]\nStrojvedoucí před uzavřením nástupních dveří musí použít akustickou signalizaci uzavírání dveří nebo hlášení informačního systému, je-li zřízen a funkční. V tomto případě, nebo pokud převzal rozkaz k odjezdu slyšitelnou návěstí Převzetí pokynu, se návěst Výzva k pohotovosti nedává.\n\nČD D2 čl. 261: Návěst Výzva k pohotovosti (jeden krátký a jeden dlouhý zvuk píšťalkou nebo lokomotivní houkačkou s tónem nižší intenzity nebo lokomotivní píšťalou) je slyšitelnou návěstí a vyzývá členy doprovodu vlaku k oznámení připravenosti vlaku k odjezdu. Lokomotivní houkačku s tónem vyšší intenzity je zakázáno k vyjádření této návěsti použít.",
+  "distraktory": [
+   "Nejdříve 20 sekund před časem pravidelného odjezdu dá návěst Výzva strojvedoucího opisováním písmene V, uzavře centrálně ovládané dveře a ihned uvede vlak do pohybu.",
+   "Návěst Výzva k pohotovosti dá lokomotivní houkačkou s tónem vyšší intenzity, přesvědčí se o ukončení výstupu a nástupu, uzavře dveře a uvede vlak do pohybu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Obrázek ukazuje pouze motorový vůz – rozhodující údaj (chybějící akustická signalizace) je v textu otázky. Návěst Výzva k pohotovosti se nedává také tehdy, je-li zřízeno a funkční hlášení informačního systému nebo převzal-li strojvedoucí rozkaz k odjezdu slyšitelnou návěstí Převzetí pokynu."
+ },
+ {
+  "n": 257,
+  "otazka": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "obrazky": [
+   "img/q257_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (1)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a) bod aa)"
+   },
+   {
+    "predpis": "ČD OŘ O18 36/2025",
+    "clanek": "list 1B.0"
+   }
+  ],
+  "odpoved": "Pokyn výpravčího nepotřebuje – nejdříve v čase odjezdu po úkonech dle ČD D2 se rozjede a jede podle dovolující návěsti návěstidla L1.",
+  "plne_zneni": "SŽ D1 čl. 359 odst. (1): Po zastavení vlaku z důvodu výstupu a nástupu cestujících na zastávce (a to i na zastávce v obvodu stanice nebo odbočky), ve stanici s výlukou dopravní služby výpravčího nebo po zastavení pro výstup nebo nástup zaměstnance Správy železnic v místě mimo prostor pro výstup a nástup cestujících, musí doprovod vlaku před uvedením vlaku do pohybu dodržet postup stanovený dopravcem.\n\nSŽ D1 čl. 359 odst. (2): Na zastávce v obvodu stanice (odbočky) si strojvedoucí musí vždy vyžádat pokyn k jízdě vlaku od výpravčího v těchto případech:\na) Dojde-li na zastávce ke změně směru jízdy vlaku a z obvodu zastávky není další jízda vlaku povolována návěstí hlavního návěstidla nebo návěstí DNS stop značky, nebo\nb) po změně směru jízdy vlaku, je-li mezi čelem vlaku a nejbližším hlavním návěstidlem nebo stop značkou ve směru jízdy vlaku výhybka, centrální přechod s VZPK nebo přejezd s PZZ. Toto ustanovení platí i pro případ, že tímto nejbližším hlavním návěstidlem nebo stop značkou je vjezdové návěstidlo nebo vjezdová stop značka pro opačný směr jízdy.\n\nČD D2 čl. 273 písm. a) bod aa): strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. Návěst Výzva strojvedoucího nebo Výzva k pohotovosti smí dát nejdříve 20 sekund před časem pravidelného odjezdu vlaku […] aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti.\n\nČD OŘ O18 36/2025, list 1B.0 – Zastávka v obvodu stanice, případ E1 (vlak po zastavení pro nástup a výstup cestujících pokračuje v jízdě stejným směrem, čl. 359 SŽ D1): „Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu L1 (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává).“",
+  "distraktory": [
+   "Pokyn výpravčího nepotřebuje – nejdříve v čase odjezdu po úkonech dle ČD D2 se rozjede, až k návěstidlu L1 však nesmí překročit rychlost 40 km/h.",
+   "Musí si vždy vyžádat pokyn k jízdě od výpravčího, protože je mezi čelem vlaku a návěstidlem L1 výhybka; teprve pak provede úkony před odjezdem a rozjede se."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na schématu stojí vlak u nástupiště zastávky v obvodu stanice a jede doprava: návěstidla S1 a S2 platí pro opačný směr jízdy (hlavy návěstidel jsou obrácené opačně), návěstidlem platným pro směr jízdy vlaku je odjezdové návěstidlo L1, které návěstí Volno. Protože vlak pokračuje stejným směrem, nenastal žádný z případů čl. 359 odst. (2) SŽ D1 a pokyn výpravčího se nevyžaduje. Úkony před odjezdem dle ČD D2 zahrnují i návěst Výzva strojvedoucího nebo Výzva k pohotovosti, která se na zastávce v obvodu stanice dává vždy."
+ },
+ {
+  "n": 258,
+  "otazka": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "obrazky": [
+   "img/q258_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (1)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a) bod aa)"
+   },
+   {
+    "predpis": "ČD OŘ O18 36/2025",
+    "clanek": "list 1B.0"
+   }
+  ],
+  "odpoved": "Pokyn výpravčího nepotřebuje – nejdříve v čase odjezdu po úkonech dle ČD D2 se rozjede a k návěstidlu L1, na jehož návěst nevidí, jede připraven zastavit.",
+  "plne_zneni": "SŽ D1 čl. 359 odst. (1): Po zastavení vlaku z důvodu výstupu a nástupu cestujících na zastávce (a to i na zastávce v obvodu stanice nebo odbočky), ve stanici s výlukou dopravní služby výpravčího nebo po zastavení pro výstup nebo nástup zaměstnance Správy železnic v místě mimo prostor pro výstup a nástup cestujících, musí doprovod vlaku před uvedením vlaku do pohybu dodržet postup stanovený dopravcem.\n\nSŽ D1 čl. 359 odst. (2): Na zastávce v obvodu stanice (odbočky) si strojvedoucí musí vždy vyžádat pokyn k jízdě vlaku od výpravčího v těchto případech:\na) Dojde-li na zastávce ke změně směru jízdy vlaku a z obvodu zastávky není další jízda vlaku povolována návěstí hlavního návěstidla nebo návěstí DNS stop značky, nebo\nb) po změně směru jízdy vlaku, je-li mezi čelem vlaku a nejbližším hlavním návěstidlem nebo stop značkou ve směru jízdy vlaku výhybka, centrální přechod s VZPK nebo přejezd s PZZ. Toto ustanovení platí i pro případ, že tímto nejbližším hlavním návěstidlem nebo stop značkou je vjezdové návěstidlo nebo vjezdová stop značka pro opačný směr jízdy.\n\nČD D2 čl. 273 písm. a) bod aa): strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. Návěst Výzva strojvedoucího nebo Výzva k pohotovosti smí dát nejdříve 20 sekund před časem pravidelného odjezdu vlaku […] aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti.\n\nČD OŘ O18 36/2025, list 1B.0 – Zastávka v obvodu stanice, případ E1 (vlak po zastavení pro nástup a výstup cestujících pokračuje v jízdě stejným směrem, čl. 359 SŽ D1): „Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu L1 (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává).“\n\nSŽ D1 čl. 356 odst. (10) – pro srovnání (na tento případ se přímo nevztahuje, protože vlak ze zastávky v obvodu stanice není vypravován): Strojvedoucí, který byl a) vypraven výpravkou nebo b) vypraven písemným rozkazem nebo c) informován telekomunikačním zařízením o skutečnosti, že hlavní návěstidlo dovoluje jízdu nebo d) informován návěstním napodobovačem […] a nevidí na hlavní návěstidlo, které dovoluje jeho jízdu, nesmí překročit rychlost 40 km/h. Jakmile strojvedoucí bezpečně zjistí, jakou návěstí je dovolena jízda vlaku, jedná podle této návěsti.",
+  "distraktory": [
+   "Protože na návěst návěstidla L1 nevidí, musí si před uvedením vlaku do pohybu vždy vyžádat pokyn k jízdě od výpravčího; ten mu jízdu dovolí telekomunikačním zařízením.",
+   "Nejdříve v čase odjezdu po úkonech dle ČD D2 se rozjede a až k návěstidlu L1 jede podle rozhledových poměrů rychlostí nejvýše 40 km/h, i když návěstidlo dovoluje jízdu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Schéma je shodné s otázkou 257, jen návěstidlo L1 (odjezdové návěstidlo platné pro směr jízdy vlaku) je zakryto stromy – strojvedoucí na jeho návěst ze zastávky nevidí. Jistá je první část odpovědi: čl. 359 odst. (2) SŽ D1 vyžaduje pokyn výpravčího jen při změně směru jízdy, zde se tedy výprava ani pokyn nedává a vlak odjede nejdříve v čase odjezdu. Omezení 40 km/h podle čl. 356 odst. (10) ani podle čl. 362 odst. (6) písm. b) bodu 1. SŽ D1 zde doslovně neplatí – obě ustanovení se týkají vlaku, který byl vypraven (výpravkou, písemným rozkazem, telekomunikačním zařízením, návěstním napodobovačem, popř. návěstí hlavního návěstidla z dopravní koleje), kdežto ze zastávky v obvodu stanice se výprava nedává. Část lektorů přesto učí obdobu 40 km/h; doporučuji nechat posoudit, kterou variantu má zkoušející za správnou."
+ },
+ {
+  "n": 259,
+  "otazka": "Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?",
+  "obrazky": [
+   "img/q259_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 359 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 104 odst. (1)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 273 písm. a) bod aa)"
+   },
+   {
+    "predpis": "ČD OŘ O18 36/2025",
+    "clanek": "list 1B.0"
+   }
+  ],
+  "odpoved": "Pokyn výpravčího nepotřebuje – nejdříve v čase odjezdu po úkonech dle ČD D2 se rozjede, ale jede jen k odjezdovému návěstidlu L1, před nímž musí pro návěst Stůj zastavit.",
+  "plne_zneni": "SŽ D1 čl. 359 odst. (1): Po zastavení vlaku z důvodu výstupu a nástupu cestujících na zastávce (a to i na zastávce v obvodu stanice nebo odbočky), ve stanici s výlukou dopravní služby výpravčího nebo po zastavení pro výstup nebo nástup zaměstnance Správy železnic v místě mimo prostor pro výstup a nástup cestujících, musí doprovod vlaku před uvedením vlaku do pohybu dodržet postup stanovený dopravcem.\n\nSŽ D1 čl. 359 odst. (2): Na zastávce v obvodu stanice (odbočky) si strojvedoucí musí vždy vyžádat pokyn k jízdě vlaku od výpravčího v těchto případech:\na) Dojde-li na zastávce ke změně směru jízdy vlaku a z obvodu zastávky není další jízda vlaku povolována návěstí hlavního návěstidla nebo návěstí DNS stop značky, nebo\nb) po změně směru jízdy vlaku, je-li mezi čelem vlaku a nejbližším hlavním návěstidlem nebo stop značkou ve směru jízdy vlaku výhybka, centrální přechod s VZPK nebo přejezd s PZZ. Toto ustanovení platí i pro případ, že tímto nejbližším hlavním návěstidlem nebo stop značkou je vjezdové návěstidlo nebo vjezdová stop značka pro opačný směr jízdy.\n\nSŽ D1 čl. 104 odst. (1): Nejzávažnější návěstí vjezdových, cestových a odjezdových návěstidel je návěst Stůj a má absolutní význam návěsti Stůj. Odst. (4): Strojvedoucí se po zastavení před návěstí Stůj vjezdového návěstidla ohlásí po uplynutí 5 minut výpravčímu přední stanice. […]\n\nČD D2 čl. 273 písm. a) bod aa): strojvedoucí vedoucího vozidla vlaku je povinen zahájit úkony před pravidelným odjezdem vlaku tak včas, aby mohl vlak uvést do pohybu v čase pravidelného odjezdu vlaku. Návěst Výzva strojvedoucího nebo Výzva k pohotovosti smí dát nejdříve 20 sekund před časem pravidelného odjezdu vlaku […] aa) při odjezdu vlaku ze stanice (včetně stanice s výlukou dopravní služby výpravčího, dopravny D3) nebo zastávky v obvodu stanice dá strojvedoucí vždy návěst Výzva strojvedoucího nebo Výzva k pohotovosti.\n\nČD OŘ O18 36/2025, list 1B.0 – Zastávka v obvodu stanice, případ E1 (vlak po zastavení pro nástup a výstup cestujících pokračuje v jízdě stejným směrem, čl. 359 SŽ D1): „Nejdříve v čase odjezdu po provedení úkonů dle předpisu ČD D 2 pokračuje vlak v jízdě k návěstidlu L1 (výpravčí pokyn k jízdě nebo výpravu vlaku ze zastávky v obvodu stanice nedává).“",
+  "distraktory": [
+   "Nesmí uvést vlak do pohybu, dokud návěstidlo L1 nedovolí jízdu nebo dokud mu výpravčí nedá pokyn k jízdě; výpravu vlaku ze zastávky v obvodu stanice výpravčí nedává.",
+   "Nejdříve v čase odjezdu se rozjede k návěstidlu L1 s návěstí Stůj a pokyn k další jízdě si po zastavení vyžádá od výpravčího až po uplynutí 5 minut."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Schéma je shodné s otázkou 257, jen odjezdové návěstidlo L1 platné pro směr jízdy vlaku návěstí Stůj (návěstidla S1, S2 platí pro opačný směr). Rozjezd ze zastávky není vázán na dovolující návěst – výprava se zde nedává – vlak však musí před návěstí Stůj zastavit; povinnost ohlásit se po 5 minutách platí jen u vjezdového návěstidla, u odjezdového vyčká dovolující návěsti, popř. pokynu výpravčího."
+ }
+]

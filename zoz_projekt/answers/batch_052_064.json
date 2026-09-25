@@ -1,0 +1,419 @@
+[
+ {
+  "n": 52,
+  "otazka": "Samostatný mot. vůz přijel jako vlak Os 5309 do obratové ŽST v systému GSM-R a dále se bez provedení posunu vrací zpět pod číslem vlaku Os 5308. Od koho obdrží strojvedoucí pokyn ke změně čísla vlaku a funkčního kódu?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 52 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 51 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 58 odst. (2)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha I"
+   }
+  ],
+  "odpoved": "Od nikoho – souhlas výpravčího je nutný jen při posunu; zde strojvedoucí sám podle platných DAP (dokumentů a předpisů) přeregistruje 2 05309 01 na 2 05308 01, FC zůstává 01.",
+  "plne_zneni": "SŽ Z11 čl. 52 odst. (1): Strojvedoucí vlaku (PMD) musí provést odregistraci FN vlaku s funkčním kódem (FC) odpovídajícím jeho provozní pozici a podle pokynů platných DAP v těchto případech: […] • při změně čísla vlaku uvnitř oblasti vybavené GSM-R CZ; […]\n\nSŽ Z11 čl. 51 odst. (3): Strojvedoucí vlaku (PMD) provede registraci FN vlaku s funkčním kódem (FC) odpovídajícím jeho provozní pozici a podle pokynů platných DAP v těchto případech: • při vzniku výchozího vlaku uvnitř oblasti vybavené GSM-R CZ; […] • při změně čísla vlaku uvnitř oblasti vybavené GSM-R CZ; • při změně FN v režimu dalšího použití HV pro jízdu vlaku (např. změna vedoucího HV na postrk apod.) nebo při souvisejícím posunu HV od vlaku / na vlak s využitím režimu spojení „bod-bod“ uvnitř oblasti vybavené GSM-R CZ, a to za podmínek stanovených v čl. 58; […]\n\nSŽ Z11 čl. 58 odst. (2): Pokud není v tomto článku dále stanoveno jinak, podléhá použití příslušného FC 01 až 05 při posunu a následné nastavení (registrace) nového FN s příslušným FC schválení výpravčího a musí být v souladu s technologickými postupy a podmínkami následujících odstavců tohoto článku. […]\n\nSŽ Z11 Příloha I, tab. I.1: Volání na vedoucí HDV vlaku 175 – CT 2, číslo vlaku 00175, FC 01, celé FN 2 00175 01.",
+  "distraktory": [
+   "Od výpravčího obratové stanice – ten strojvedoucímu nařídí odregistrovat 2 05309 01 a zaregistrovat nové FN 2 05308 01 i příslušný funkční kód.",
+   "Od provozního dispečera, který jediný disponuje funkčními kódy; strojvedoucí zaregistruje 2 05308 03 a přepne zpět na 01 až po jeho pokynu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Souhlas výpravčího je podle SŽ Z11 čl. 58 odst. (2) nutný jen při posunu; zde se posun neprovádí, proto změnu FN provede strojvedoucí sám podle platných DAP (dokumenty a předpisy). Funkční kód se nemění – zůstává 01 (vedoucí HDV)."
+ },
+ {
+  "n": 53,
+  "otazka": "Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo vlaku 1900?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha I (tab. I.1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 47 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 47 odst. (2) a (3)"
+   }
+  ],
+  "odpoved": "Funkční číslo 2 01900 01 – typ volání 2 (FN vlaku), pětimístné číslo vlaku 01900 a funkční kód 01 (vedoucí HDV na vlaku).",
+  "plne_zneni": "SŽ Z11 čl. 47 odst. (1): Pro sestavení spojení s účastníkem sítě GSM-R prostřednictvím FN se používají tzv. čísla evropské integrované železniční rádiové sítě (dále jen „EIRENE“) s tímto formátem: CT – UIN – FC. […] CT – typ volání; UIN – identifikační číslo účastníka (číslo vlaku, číslo HDV apod.); FC – funkční kód účastníka.\n\nSŽ Z11 čl. 47 odst. (2), tabulka 16 – Typy volání: 2 = FN vlaku; 3 = FN HDV; 4 = FN vozu; 6 = týmy v oblasti činnosti posunu a údržby; 7 = čísla výpravčích a dispečerů; 8 = čísla mobilních účastníků.\n\nSŽ Z11 čl. 47 odst. (3), tabulka 17 – Funkční kódy: 01 = vedoucí HDV na vlaku; 02 = vlakové HDV na vlaku s přípřežním HDV nebo vložené HDV; 03 a 04 = HDV odstupující od vlaku nebo čekající na vlak; 05 = postrkové HDV; 10 = vedoucí obsluhy vlaku.\n\nSŽ Z11 Příloha I, tab. I.1 – Sestava FN vlaku registrovaného v síti GSM-R CZ: Volání na vedoucí HDV vlaku 175 – CT 2, číslo vlaku 00175, FC 01 → celé FN 2 00175 01.",
+  "distraktory": [
+   "Funkční číslo 3 01900 01 – typ volání 3 (FN HDV), pětimístné číslo vlaku 01900 a funkční kód 01 (vedoucí HDV na vlaku).",
+   "Funkční číslo 2 1900 01 – typ volání 2 (FN vlaku), čtyřmístné číslo vlaku 1900 a funkční kód 01 (vedoucí HDV na vlaku)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 54,
+  "otazka": "Jakými čísly vlaku a funkčními kódy se strojvedoucí soupravy vlaku dle obrázku zaregistrují v systému GSM-R pro vlak 1900?",
+  "obrazky": [
+   "img/q054_1.png"
+  ],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 47 odst. (3)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "Příloha I (tab. I.1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 51 odst. (3)"
+   }
+  ],
+  "odpoved": "Oba pod číslem vlaku 1900: vedoucí HDV (el. lokomotiva v čele) FN 2 01900 01, druhé HDV v soupravě FN 2 01900 02 (kdyby šlo o postrk, měl by FC 05).",
+  "plne_zneni": "SŽ Z11 čl. 47 odst. (3), tabulka 17 – Funkční kódy: 01 = vedoucí HDV na vlaku; 02 = vlakové HDV na vlaku s přípřežním HDV nebo vložené HDV; 03 a 04 = HDV odstupující od vlaku nebo čekající na vlak; 05 = postrkové HDV.\n\nSŽ Z11 čl. 47 odst. (2), tabulka 16 – Typy volání: 2 = FN vlaku.\n\nSŽ Z11 Příloha I, tab. I.1: Volání na vedoucí HDV vlaku 175 – CT 2, UIN 00175, FC 01 → 2 00175 01. Tab. I.3 uvádí i příklad druhého HDV vlaku: „Volání na druhé HDV vlaku 43304 registrovaného v síti GSM-R NL – 900 031 2 43304 02“.\n\nSŽ Z11 čl. 51 odst. (3): Strojvedoucí vlaku (PMD) provede registraci FN vlaku s funkčním kódem (FC) odpovídajícím jeho provozní pozici a podle pokynů platných DAP […] před začátkem úseku trati vybavené GSM-R CZ na základě příslušné návěsti radiovníku (km poloha je uvedena v TTP) […].",
+  "distraktory": [
+   "Oba pod číslem vlaku 1900: vedoucí HDV (el. lokomotiva v čele) FN 2 01900 01, druhé HDV v soupravě FN 2 01900 03 (kdyby šlo o postrk, měl by FC 04).",
+   "Jen vedoucí HDV se registruje FN 2 01900 01; na druhé HDV v soupravě se volá přes FN hnacího vozidla, tedy 3 54 810 001 01."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). FC 02 = vlakové HDV na vlaku s přípřežním HDV nebo vložené HDV (SŽ Z11 čl. 47 odst. (3), tab. 17). Kdyby bylo HDV na konci soupravy nasazeno jako postrk, registrovalo by se s FC 05."
+ },
+ {
+  "n": 55,
+  "otazka": "Strojvedoucí vlaku je zpraven tímto textem SPO. Jakou návěst vztahující se k této pomalé jízdě strojvedoucí očekává?",
+  "obrazky": [
+   "img/q055_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 180 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 180 odst. (14)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 180 odst. (5)"
+   }
+  ],
+  "odpoved": "Návěst Začátek nepředvěstěné pomalé jízdy – žlutou desku s oranžovým okrajem a černým číslem 3 (30 km/h); konec označí tabule K.",
+  "plne_zneni": "SŽ D1 čl. 180 odst. (4): Začátek nepředvěstěné pomalé jízdy – žlutá, na kratší straně postavená obdélníková deska s oranžovým okrajem a s černým číslem mající hodnotu desetiny čísla rychlosti pomalé jízdy; návěstidlo může být vyrobeno z reflexního materiálu • přikazuje strojvedoucímu od tohoto návěstidla nepřekročit rychlost pomalé jízdy. Pomalá jízda nejvýše 5 km/h se vyjadřuje zlomkem ½.\n\nSŽ D1 čl. 180 odst. (3): Začátek pomalé jízdy – žlutá, na kratší straně postavená obdélníková deska s bílým okrajem a s černým číslem mající hodnotu desetiny čísla rychlosti pomalé jízdy […].\n\nSŽ D1 čl. 180 odst. (14): V obvodu stanice, odbočky, dopravny D3 nebo dopravny RB nemusí být předvěstní štít umístěn, pokud: […] V případech uvedených v tomto odstavci musí být na začátku pomalé jízdy umístěno přenosné návěstidlo s návěstí Začátek nepředvěstěné pomalé jízdy.\n\nSŽ D1 čl. 180 odst. (5): Konec pomalé jízdy – bílá, na kratší straně postavená obdélníková deska s černým písmenem „K“ […] • upozorňuje strojvedoucího na místo, kde končí pomalá jízda nebo nepředvěstěná pomalá jízda.",
+  "distraktory": [
+   "Návěst Začátek pomalé jízdy – žlutou desku s bílým okrajem a černým číslem 3 (30 km/h), předvěstěnou žlutým trojúhelníkovým předvěstním štítem.",
+   "Návěst Začátek nepředvěstěné dočasné pomalé jízdy – žlutou desku s oranžovým okrajem a číslem 3, nad ní žlutou desku s černým písmenem „T“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 56,
+  "otazka": "Vlak projíždí stanicí Chválkov. Tato stanice má ve sloupci 2 TJŘ symbol „N“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?",
+  "obrazky": [
+   "img/q056_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (6) písm. b)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (8) písm. c) bod 2."
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (5) a (9)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 504 odst. (15) a (17)"
+   }
+  ],
+  "odpoved": "V úsecích A až D nejvýše 40 km/h; v úseku E už traťovou rychlostí.",
+  "plne_zneni": "SŽ D1 čl. 126 odst. (3): Stanice s hlavními návěstidly na sobě nezávislými jsou označeny v TJŘ značkou „N“.\n\nSŽ D1 čl. 126 odst. (5): Od úrovně vjezdového návěstidla musí strojvedoucí jet rychlostí podle návěstního znaku vjezdového návěstidla (případně doplněnou značením indikátorovou tabulkou s číslicí „3“ nebo „5“).\n\nSŽ D1 čl. 126 odst. (6): Když vlak minul obvod výhybek přilehlých k vjezdovému (cestovému) návěstidlu, musí strojvedoucí jet k hlavnímu návěstidlu, umístěnému přímo u koleje, pro kterou platí nebo k návěsti Konec vlakové cesty tak, aby vlak nepřekročil: […] b) rychlost stanovenou mechanickým vjezdovým návěstidlem (popř. doplněným indikátorovou tabulkou s číslicí „5“) s návěstí Rychlost 40 km/h a výstraha nebo Rychlost 40 km/h (viz čl. 504); […]\n\nSŽ D1 čl. 126 odst. (8): U odjíždějícího vlaku musí strojvedoucí po rozjezdu jet do úrovně odjezdového (cestového) návěstidla […] tak, aby vlak nepřekročil: […] c) rychlost 40 km/h, byla-li na odjezdovém (cestovém) návěstidle: […] 2. návěst Volno nebo Výstraha mechanického odjezdového návěstidla (viz čl. 504), odjíždí-li vlak z hlavní koleje jiným než přímým směrem nebo z jiné než hlavní koleje a na odjezdovém návěstidle není indikátorová tabulka s číslicí „5“ […]\n\nSŽ D1 čl. 504 odst. (15): Rychlost 40 km/h – dvě červenobílá ramena vpravo šikmo vzhůru v úhlu 45° • přikazuje strojvedoucímu vlaku jet v obvodu výhybek přilehlých k hlavnímu návěstidlu rychlostí nejvýše 40 km/h a • předvěstí návěst Stůj na následujícím hlavním návěstidle bez samostatné předvěsti.\n\nSŽ D1 čl. 504 odst. (17): Návěsti Volno a Výstraha strojvedoucímu vlaku rychlost v obvodu výhybek přilehlých k hlavnímu návěstidlu nenávěstí a přikazují mu jet nejvýše traťovou rychlostí. […] Výjimkou jsou odjezdová (cestová) návěstidla při odjezdu jiným než přímým směrem ve stanicích bez rychlostní návěstní soustavy a ve stanicích s hlavními návěstidly na sobě nezávislými.",
+  "distraktory": [
+   "V úsecích B až D nejvýše 40 km/h; v úsecích A a E traťovou rychlostí 60 km/h.",
+   "V úsecích A až D nejvýše 50 km/h; v úseku E už traťovou rychlostí."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Mechanické vjezdové návěstidlo se dvěma červenobílými rameny v úhlu 45° = návěst Rychlost 40 km/h (SŽ D1 čl. 504 odst. (15)); omezení 40 km/h platí v úsecích A až D, teprve v úseku E se jede traťovou rychlostí. Pozor: údaj ve sloupci 3 TJŘ je jízdní doba v minutách, ne číslo koleje."
+ },
+ {
+  "n": 57,
+  "otazka": "Jak pojede strojvedoucí k přejezdu, když je mu nařízena jízda se zvýšenou opatrností?",
+  "obrazky": [],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 23 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 148 odst. (3) e) 4."
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 23 odst. (5) a (6)"
+   }
+  ],
+  "odpoved": "Od vzdálenosti alespoň 250 m před přejezdem opakovaně (nejméně třikrát) dává návěst Pozor a v úseku alespoň 60 m před přejezdem jede nejvýše 10 km/h.",
+  "plne_zneni": "SŽ D1 čl. 23 odst. (4): Jízda se zvýšenou opatrností je takový způsob jízdy, při kterém musí strojvedoucí: a) od vzdálenosti alespoň 250 m před přejezdem (centrálním přechodem vybaveným výstražným zařízením pro přechod kolejí […]) dávat opakovaně návěst Pozor, dokud čelo vlaku (PMD, posunového dílu) nemine přejezd (centrální přechod s VZPK) a zároveň b) v úseku alespoň 60 m před přejezdem (centrálním přechodem s VZPK) až do okamžiku, kdy čelo vlaku (PMD, posunového dílu) mine přejezd (centrální přechod s VZPK), jet strojvedoucí rychlostí nejvíce 10 km/h. Podle písm. a) a b) tohoto odstavce postupuje strojvedoucí i při plnění pokynu pro jízdu se zvýšenou opatrností přes přejezd (centrální přechod s VZPK) daného štítem Op nebo přejezdníkem. […]\n\nSŽ D1 čl. 23 odst. (5): V případě, že byl strojvedoucí zpraven o jízdě se zvýšenou opatrností ve vzdálenosti kratší než 250 m, popř. 60 m před přejezdem (centrálním přechodem s VZPK), jedná podle odst. (4), písm. a) a b) tohoto článku od místa zpravení.\n\nSŽ D1 čl. 23 odst. (6): Při jízdě se zvýšenou opatrností musí strojvedoucí vedoucího vozidla (i zaměstnanec v čele sunutých vozidel) před náhle vzniklou překážkou na přejezdu […] využít všech dostupných prostředků pro zastavení vlaku, PMD nebo posunového dílu.\n\nSŽ D1 čl. 148 odst. (3) e) 4.: Při zpravení písemným rozkazem o jízdě se zvýšenou opatrností – [návěst Pozor] nejméně třikrát od vzdálenosti alespoň 250 m před přejezdem, dokud čelo prvního vozidla nemine přejezd.",
+  "distraktory": [
+   "Od vzdálenosti alespoň 250 m před přejezdem opakovaně dává návěst Pozor a v úseku alespoň 100 m před přejezdem jede nejvýše 20 km/h.",
+   "Od vzdálenosti alespoň 100 m před přejezdem opakovaně dává návěst Pozor a před přejezdem zastaví; dál pokračuje podle rozhledových poměrů nejvýše 40 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 58,
+  "otazka": "Strojvedoucí stojí s vlakem R 1292 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Výstraha“. Může strojvedoucí uvést vlak do pohybu?",
+  "obrazky": [
+   "img/q058_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 121 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 362 odst. (6) b)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 119"
+   }
+  ],
+  "odpoved": "Nesmí – opakování návěsti Výstraha předvěstí na odjezdovém návěstidle S1 návěst Stůj, vlak tedy není vypraven; vyčká dovolující návěst, popř. pokyn výpravčího.",
+  "plne_zneni": "SŽ D1 čl. 121 odst. (3): Opakování návěsti Výstraha – bílé světlo a nad ním žluté světlo • předvěstí návěst Stůj na následujícím hlavním návěstidle, umístěném na nedostatečnou zábrzdnou vzdálenost.\n\nSŽ D1 čl. 119: Samostatná světelná předvěst a samostatná opakovací světelná předvěst je závislá na hlavním návěstidle a neplní funkci hlavního návěstidla.\n\nSŽ D1 čl. 356 odst. (3): Strojvedoucí nesmí ve stanici: a) projet bez výpravy, b) uvést vlak do pohybu bez výpravy.\n\nSŽ D1 čl. 356 odst. (4): Výprava vlaku se uskutečňuje: a) oprávněním k jízdě (MA) nebo b) návěstí hlavního návěstidla dovolující jízdu vlaku nebo c) návěstí DNS stop značky dovolující jízdu vlaku nebo d) výpravkou nebo e) písemným rozkazem.\n\nSŽ D1 čl. 362 odst. (6) b): nevidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (a ani tuto skutečnost nezjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), vyžádá si od výpravčího pokyn k uvedení vlaku do pohybu.",
+  "distraktory": [
+   "Smí – opakovací předvěst je návěstí dovolující jízdu vlaku; k odjezdovému návěstidlu S1 však nesmí překročit rychlost 40 km/h.",
+   "Smí, protože nastal čas pravidelného odjezdu a opakovací předvěst svítí; na odjezdovém návěstidle S1 musí očekávat rychlost 40 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 59,
+  "otazka": "Strojvedoucí stojí s vlakem R 1294 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Volno“. Může strojvedoucí uvést vlak do pohybu?",
+  "obrazky": [
+   "img/q059_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 121 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 362 odst. (6) a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (5) a) 3."
+   }
+  ],
+  "odpoved": "Ano – z opakování návěsti Volno zjistil, že odjezdové návěstidlo S1 dovoluje jízdu, a po dopravcem předepsaných úkonech uvede vlak do pohybu.",
+  "plne_zneni": "SŽ D1 čl. 121 odst. (4): Opakování návěsti Volno – bílé světlo, nad ním zelené světlo • předvěstí dovolující návěst vyjádřenou jedním světlem na následujícím hlavním návěstidle, umístěném na nedostatečnou zábrzdnou vzdálenost.\n\nSŽ D1 čl. 356 odst. (5): Strojvedoucí, může obdržet informaci o skutečnosti, že: a) hlavní návěstidlo dovoluje jízdu i následovně: 1. návěstí předchozího hlavního návěstidla nebo 2. návěstí samostatné předvěsti nebo 3. návěstí samostatné opakovací předvěsti nebo 4. návěstí návěstního napodobovače nebo 5. přenosem kódu národního vlakového zabezpečovače nebo 6. telekomunikačním zařízením […]\n\nSŽ D1 čl. 362 odst. (6) a): vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (nebo tuto skutečnost zjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), uvede po provedení dopravcem předepsaných úkonů vlak do pohybu.\n\nSŽ D1 čl. 362 odst. (3): Stojí-li na téže koleji před odjezdovým, cestovým nebo vloženým návěstidlem připraveno k jízdě více vlaků, platí výprava tímto návěstidlem jen pro první vlak stojící před ním. […] i v případě, že: a) u koleje je zřízena samostatná opakovací předvěst nebo návěstní napodobovač […]",
+  "distraktory": [
+   "Ano, ale nejprve si musí od výpravčího vyžádat pokyn k uvedení vlaku do pohybu, protože na odjezdové návěstidlo S1 přímo nevidí.",
+   "Ne – opakovací předvěst jízdu nedovoluje; vlak smí uvést do pohybu, až sám uvidí dovolující návěst odjezdového návěstidla S1."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 60,
+  "otazka": "Strojvedoucí pravidelně projíždějícího vlaku s přepravou cestujících vjíždí do stanice Kaprun. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?",
+  "obrazky": [
+   "img/q060_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 155 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 373 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 155 odst. (3)"
+   }
+  ],
+  "odpoved": "Co nejblíže před návěstí Místo zastavení – jako vlak mimořádně zastavující, a to i když po zastavení neuvidí na návěst odjezdového návěstidla.",
+  "plne_zneni": "SŽ D1 čl. 155 odst. (1): Místo zastavení – bílá obdélníková deska s červeným okrajem, postavená na delší straně […] • přikazuje strojvedoucímu zastavit co nejblíže před touto návěstí: 1. čelo pravidelně nebo mimořádně zastavujícího vlaku, 2. čelo PMD, vjíždějícího do stanice, dopravny D3 nebo dopravny RB.\n\nSŽ D1 čl. 155 odst. (3): Místo zastavení – bílá obdélníková deska s červeným okrajem […], uprostřed desky jsou černá písmena „Os“ […] • přikazuje strojvedoucímu vlaku, vjíždějícího do stanice […] a pravidelně nebo mimořádně zastavujícího pro výstup a nástup cestujících, zastavit čelo vlaku co nejblíže před touto návěstí.\n\nSŽ D1 čl. 373 odst. (2): Místo, kde musí vlak zastavit, může být ve stanici označeno tímto návěstidlem nebo návěstí: a) stop značkou; b) hlavním návěstidlem s návěstí zakazující jízdu vlaku; c) návěstí Místo zastavení (viz ustanovení čl. 155 tohoto předpisu); d) přenosnou návěstí Stůj; e) návěstí Stůj dávanou červeným praporkem nebo malým červeným terčem […] Ve všech případech, kdy je místo zastavení označeno podle písm. c) až e) tohoto odstavce před hlavním návěstidlem, zastaví strojvedoucí před touto návěstí, a to i tehdy, že po zastavení vlaku neuvidí návěsti hlavního návěstidla. V tomto případě strojvedoucí výpravčímu neohlašuje, že nevidí na příslušné návěsti hlavního návěstidla a výpravčí postupuje jako by mu strojvedoucí tuto skutečnost ohlásil.",
+  "distraktory": [
+   "Až před odjezdovým návěstidlem S1 s návěstí Stůj – návěst Místo zastavení platí jen pro vlaky zastavující pro výstup a nástup cestujících.",
+   "Co nejblíže před návěstí Místo zastavení, a neuvidí-li pak na odjezdové návěstidlo, ohlásí to výpravčímu a popojede až k tomuto návěstidlu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 61,
+  "otazka": "Strojvedoucí Lv vlaku vjíždí do stanice Kaprun na návěst „Výstraha“. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?",
+  "obrazky": [
+   "img/q061_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 155 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 373 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 120 odst. (2)"
+   }
+  ],
+  "odpoved": "Co nejblíže před návěstí Místo zastavení – platí i pro Lv vlak, protože vjezd na návěst Výstraha z něj dělá vlak mimořádně zastavující.",
+  "plne_zneni": "SŽ D1 čl. 155 odst. (1): Místo zastavení – bílá obdélníková deska s červeným okrajem, postavená na delší straně […] • přikazuje strojvedoucímu zastavit co nejblíže před touto návěstí: 1. čelo pravidelně nebo mimořádně zastavujícího vlaku, 2. čelo PMD, vjíždějícího do stanice, dopravny D3 nebo dopravny RB.\n\nSŽ D1 čl. 120 odst. (2): Výstraha – žluté světlo • předvěstí návěst Stůj na následujícím hlavním návěstidle.\n\nSŽ D1 čl. 373 odst. (2): […] Ve všech případech, kdy je místo zastavení označeno podle písm. c) až e) tohoto odstavce [c) návěstí Místo zastavení] před hlavním návěstidlem, zastaví strojvedoucí před touto návěstí, a to i tehdy, že po zastavení vlaku neuvidí návěsti hlavního návěstidla. V tomto případě strojvedoucí výpravčímu neohlašuje, že nevidí na příslušné návěsti hlavního návěstidla a výpravčí postupuje jako by mu strojvedoucí tuto skutečnost ohlásil.\n\nSŽ D1 čl. 155 odst. (3): [varianta návěsti s písmeny „Os“] přikazuje strojvedoucímu vlaku […] pravidelně nebo mimořádně zastavujícího pro výstup a nástup cestujících, zastavit čelo vlaku co nejblíže před touto návěstí.",
+  "distraktory": [
+   "Až před odjezdovým návěstidlem S1 s návěstí Stůj – návěst Místo zastavení pro Lv vlak bez přepravy cestujících neplatí.",
+   "Co nejblíže před návěstí Místo zastavení, ale jen je-li doplněna indikátorovou tabulkou se šipkou ke koleji, na kterou vlak vjíždí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 62,
+  "otazka": "Vlak projíždí stanicí Děvín. Tato stanice má ve sloupci 2 TJŘ symbol „P“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?",
+  "obrazky": [
+   "img/q062_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (8) písm. c) bod 1."
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (6) písm. a)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 113 odst. (12)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 112 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 126 odst. (2), (5) a (9)"
+   }
+  ],
+  "odpoved": "V úsecích A, B i C nejvýše 60 km/h, odjezdovým zhlavím (úsek D) nejvýše 40 km/h; v úseku E už traťovou rychlostí.",
+  "plne_zneni": "SŽ D1 čl. 126 odst. (2): Stanice bez rychlostní návěstní soustavy jsou označeny v TJŘ značkou „P“.\n\nSŽ D1 čl. 113 odst. (12): Rychlost 60 km/h a výstraha – žluté světlo doplněné pod ním vodorovným žlutým pruhem a nad ním žluté světlo. [čl. 113 odst. (1) a): Dolním světlem […] přikazují strojvedoucímu jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše návěstěnou rychlostí.]\n\nSŽ D1 čl. 126 odst. (5): Od úrovně vjezdového návěstidla musí strojvedoucí jet rychlostí podle návěstního znaku vjezdového návěstidla (případně doplněnou značením indikátorovou tabulkou s číslicí „3“ nebo „5“).\n\nSŽ D1 čl. 126 odst. (6) písm. a): Když vlak minul obvod výhybek přilehlých k vjezdovému (cestovému) návěstidlu, musí strojvedoucí jet k hlavnímu návěstidlu […] tak, aby vlak nepřekročil: a) rychlost stanovenou dolním světlem (popř. doplněným indikátorovou tabulkou s číslicí „5“) světelného vjezdového (cestového) návěstidla, byla-li na vjezdovém (cestovém) návěstidle dvousvětlová návěst.\n\nSŽ D1 čl. 126 odst. (8) písm. c) bod 1.: U odjíždějícího vlaku musí strojvedoucí po rozjezdu jet […] tak, aby vlak nepřekročil: […] c) rychlost 40 km/h, byla-li na odjezdovém (cestovém) návěstidle: 1. návěst vyjádřená jedním světlem, odjíždí-li vlak z hlavní koleje jiným než přímým směrem nebo z jiné než hlavní koleje a na odjezdovém (cestovém) návěstidle není indikátorová tabulka s číslicí „5“.\n\nSŽ D1 čl. 112 odst. (1): Návěsti dovolující jízdu vlaku vyjádřené jedním světlem: […] u hlavních návěstidel přikazují strojvedoucímu jet nejvýše traťovou rychlostí. Výjimkou jsou odjezdová (cestová) návěstidla při odjezdu jiným než přímým směrem ve stanicích bez rychlostní návěstní soustavy.\n\nSŽ D1 čl. 126 odst. (9): Od úrovně odjezdového (cestového) návěstidla […] musí strojvedoucí jet podle návěstního znaku odjezdového (cestového) návěstidla (případně doplněného indikátorovou tabulkou s číslicí „3“ nebo „5“). Pokud strojvedoucí odjíždí na návěst Volno (Výstraha) nesmí překročit rychlost 40 km/h, pokud odjíždí z hlavní koleje jiným než přímým směrem, pokud je na návěstidle: a) indikátorová tabulka s číslicí 3, pak rychlost 30 km/h, b) indikátorová tabulka s číslicí 5, pak rychlost 50 km/h.",
+  "distraktory": [
+   "V úsecích A, B i C nejvýše 60 km/h, odjezdovým zhlavím (úsek D) nejvýše 50 km/h; v úseku E už traťovou rychlostí.",
+   "V úsecích A, B, C i D nejvýše 60 km/h; v úseku E už traťovou rychlostí."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Vjezdové návěstidlo S dává návěst Rychlost 60 km/h a výstraha, vlak projíždí po jiné než hlavní koleji a odjezdové návěstidlo S3 dává návěst Volno bez indikátorové tabulky → odjezdovým zhlavím 40 km/h. Pozor: údaj „2⁵“ ve sloupci 3 TJŘ je jízdní doba 2,5 minuty, nikoli kolej č. 2 s indikátorem „5“."
+ },
+ {
+  "n": 63,
+  "otazka": "Jak bude postupovat strojvedoucí v červeně označeném úseku?",
+  "obrazky": [
+   "img/q063_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 138 odst. (16)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 138 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 120 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 106 odst. (1)"
+   }
+  ],
+  "odpoved": "Jízdu podle rozhledových poměrů PN na oddílovém návěstidle AH nenařizuje – jede traťovou rychlostí a podle předvěsti PřL s návěstí Výstraha zastaví před návěstidlem L.",
+  "plne_zneni": "SŽ D1 čl. 138 odst. (16): PN na oddílovém návěstidle hlásky, hradla a AH strojvedoucímu vlaku jízdu podle rozhledových poměrů nenařizuje.\n\nSŽ D1 čl. 138 odst. (1): Přivolávací návěst – přerušované bílé světlo […] strojvedoucímu ostatních vlaků • dovoluje jízdu kolem návěstidla, u kterého nelze rozsvítit návěsti dovolující jízdu vlaku • nařizuje jízdu podle rozhledových poměrů (viz odst. (6), (7) a (13) tohoto článku) […]\n\nSŽ D1 čl. 106 odst. (1): Nejzávažnější návěstí na oddílovém návěstidle AH je návěst Stůj a má absolutní význam návěsti Stůj. [odst. (4): U oddílového návěstidla AH, na kterém je umístěna návěst Hlavní návěstidlo sloučeno s předvěstí, a strojvedoucímu je dovolována jízda kolem tohoto návěstidla na PN nebo písemným rozkazem, musí strojvedoucí při jízdě kolem tohoto návěstidla jednat jako u předvěsti s návěstí Výstraha.]\n\nSŽ D1 čl. 120 odst. (2): Výstraha – žluté světlo • předvěstí návěst Stůj na následujícím hlavním návěstidle.\n\nSŽ D1 čl. 138 odst. (6) b) 2.: […] v případě oddílového návěstidla automatického hradla [PN informuje] o volnosti následujícího traťového oddílu a dovolení jízdy vlaku do tohoto oddílu.",
+  "distraktory": [
+   "PN na oddílovém návěstidle AH nařizuje jízdu podle rozhledových poměrů nejvýše 40 km/h až k samostatné předvěsti PřL, odtud jede traťovou rychlostí.",
+   "PN na oddílovém návěstidle AH nařizuje jízdu podle rozhledových poměrů až k vjezdovému návěstidlu L, kde vlak zastaví; rychlost nesmí překročit 40 km/h."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Odpověď vychází z obrázku: oddílové návěstidlo Lo automatického hradla Vystrkov dává návěst PN (červené světlo + přerušované bílé světlo), v oddílu je samostatná předvěst PřL s návěstí Výstraha a vjezdové návěstidlo L stanice Malinová má návěst Stůj. Oddílové návěstidlo není sloučeno s předvěstí, takže se neuplatní SŽ D1 čl. 106 odst. (4)."
+ },
+ {
+  "n": 64,
+  "otazka": "Na trati je umístěna návěst „Začátek dočasné pomalé jízdy“. Za jaké podmínky se jí strojvedoucí řídí?",
+  "obrazky": [
+   "img/q064_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 181 odst. (5)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 181 odst. (2)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 181 odst. (6)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 178 odst. (2)"
+   }
+  ],
+  "odpoved": "Jen v den a v čase, na který je platnost vymezena písemným rozkazem, jímž musí být zpraven; mimo toto časové vymezení návěstidla pro dočasnou pomalou jízdu neplatí.",
+  "plne_zneni": "SŽ D1 čl. 181 odst. (2): Začátek dočasné pomalé jízdy – návěst Začátek pomalé jízdy, doplněná o žlutou obdélníkovou desku, uprostřed s černým písmenem „T“ umístěnou nad ní; návěstidlo může být vyrobeno z reflexního materiálu • má časově vymezenou platnost písemným rozkazem • přikazuje strojvedoucímu od tohoto návěstidla nepřekročit rychlost dočasné pomalé jízdy.\n\nSŽ D1 čl. 181 odst. (5): Strojvedoucí vlaku nebo PMD (zaměstnanec v čele sunutého vlaku nebo sunutého posunového dílu) jedoucí v den platnosti dočasné pomalé jízdy, musí být o této pomalé jízdě vždy zpraveni písemným rozkazem včetně časového vymezení její platnosti (od – do hodin).\n\nSŽ D1 čl. 181 odst. (6): V kalendářní den platnosti dočasné pomalé jízdy, v době mimo časové vymezení platnosti dočasné pomalé jízdy: a) návěstidla pro dočasnou pomalou jízdu, pro strojvedoucího vlaku nebo PMD (zaměstnance v čele sunutého vlaku nebo sunutého posunového dílu), neplatí; b) se návěstidla pro dočasnou pomalou jízdu nezakrývají ani neodstraňují.\n\nSŽ D1 čl. 178 odst. (2): Dočasná pomalá jízda je přechodné omezení traťové rychlosti s časově vymezenou platností.\n\nSŽ D1 čl. 181 odst. (10): Zjistí-li strojvedoucí, že jsou na trati umístěna návěstidla pro dočasnou pomalou jízdu a nebyl o této skutečnosti zpraven, podle možností upraví rychlost vlaku tak, aby dodržel rychlost pomalé jízdy, a ohlásí tuto skutečnost výpravčímu. Dále postupuje podle pokynů výpravčího.",
+  "distraktory": [
+   "Jen v den, na který je platnost vymezena písemným rozkazem; v tento den platí nepřetržitě od 0:00 do 23:59 a časový údaj v rozkazu je jen orientační.",
+   "Vždy, dokud jsou návěstidla v kolejišti umístěna; nejsou-li zakryta ani odstraněna, musí se jimi strojvedoucí řídit i mimo časové vymezení platnosti."
+  ],
+  "jistota": "vysoká"
+ }
+]

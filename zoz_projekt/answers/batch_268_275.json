@@ -1,0 +1,241 @@
+[
+ {
+  "n": 268,
+  "otazka": "Kdy musí provést strojvedoucí synchronizaci dat ve služebním přiděleném tabletu?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+  "zdroje": [
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+    "clanek": "čl. 42"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+    "clanek": "čl. 49"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+    "clanek": "čl. 41"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+    "clanek": "čl. 25"
+   }
+  ],
+  "odpoved": "Vždy při nástupu na směnu (tablet musí být zapnutý, nabitý a funkční); byla-li synchronizace opakovaně neúspěšná, musí ji neprodleně během směny zopakovat.",
+  "plne_zneni": "ČD OP ředitele O18 č. 38/2020 čl. 42: Strojvedoucí provádí synchronizaci dokumentů vždy při nástupu na směnu v souladu s č. 49 tohoto opatření. O úspěšně provedené synchronizaci je informován notifikační zprávou ihned po jejím úspěšném dokončení a trvalým nápisem v menu synchronizace. Podrobnější popis aktualizovaných dokumentů je zobrazen v historii synchronizací a zároveň je odeslán do jeho služební e-mailové schránky.\nByla-li synchronizace dat při nástupu na směnu opakovaně neúspěšná, nesmí strojvedoucí při dalším výkonu své služby do doby provedení úspěšné synchronizace používat TTP a další dokumenty potřebné při jízdě vlaku (vč. např. ZCP a TTP ŽSR, DB Netz La) dostupné v aplikaci MAPSIS. Potřebné dokumenty pro vedení vlaku získá způsobem uvedeným v čl. 25 a 26 výše. Neprodleně během své směny, ve vhodné době a na vhodném místě, provede synchronizaci opětovně. Po jejím dokončení postupuje, v závislosti na jejím výsledku, dle ustanovení tohoto článku.\n\nČD OP ředitele O18 č. 38/2020 čl. 49: Strojvedoucí musí mít při nástupu na směnu zapnutý, nabitý a funkční tablet tak, aby mohla být provedena synchronizace dat.\n\nČD OP ředitele O18 č. 38/2020 čl. 41: Pravidelná synchronizace provozních dokumentů je realizována prostřednictvím: a. WiFi; b. Datové SIM karty; c. USB adaptéru – na vybraných nástupních místech nebo na pracovišti, kde dochází k personifikaci tabletu. Způsob připojení pro provedení synchronizace volí strojvedoucí dle vybavení nástupního místa. Je-li na nástupním místě zřízeno WiFi, musí strojvedoucí tento způsob synchronizace využít přednostně.\n\nČD OP ředitele O18 č. 38/2020 čl. 25: V případě neúspěšné synchronizace dat v aplikaci MAPSIS (viz i čl. 42) […] s následkem nemožného zobrazení dat TTP pro daný výkon, kontaktuje strojvedoucí dispečera osobní dopravy ČD a vyžádá si od něj příslušné dokumenty, příp. si požadované dokumenty najde na Portálu provozovatele dráhy […].",
+  "distraktory": [
+   "Vždy při nástupu na směnu i před jejím ukončením; byla-li synchronizace opakovaně neúspěšná, musí ji neprodleně během směny zopakovat.",
+   "Nejméně jednou za 24 hodin, vždy před první jízdou vlaku ve směně; při opakovaném neúspěchu ji provede až po ohlášení strojmistrovi."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 269,
+  "otazka": "Jak se provádí ověření činnosti brzdy posunového dílu?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 159"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 157"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 156"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 155"
+   }
+  ],
+  "odpoved": "Na pokyn Zabrzděte sníží strojvedoucí tlak v hlavním potrubí o cca 0,5 bar; na posledním průběžně brzděném vozidle se ověří zabrzdění a po pokynu Odbrzděte odbrzdění.",
+  "plne_zneni": "ČD V15/I čl. 159: OČBP provede vedoucí posunové čety tak, že:\n– po naplnění hlavního potrubí na provozní tlak na pokyn (Zabrzděte) zaměstnance provádějícího OČBP sníží strojvedoucí tlak v hlavním potrubí o cca 0,5 bar;\n– poté se ověří zabrzdění (přilehnutí brzdových špalíků nebo pomocí ukazatele kotoučové brzdy) na posledním průběžně brzděném vozidle;\n– na pokyn (Odbrzděte) zaměstnance provádějícího OČBP strojvedoucí odbrzdí;\n– po ustálení tlaku v hlavním potrubí se ověří odbrzdění (odlehnutí brzdových špalíků nebo pomocí ukazatele kotoučové brzdy) na posledním průběžně brzděném vozidle;\n– poté se vyrozumí strojvedoucí o počtu průběžně brzděných vozidel a ukončení OČBP.\nVykonává-li OČBP samotný strojvedoucí vedoucího vozidla, provádí tyto úkony na příslušných vozidlech sám.\n\nČD V15/I čl. 157: OČBP se, po svěšení a propojení vozidel hlavním potrubím, popř. i dalšími vedeními […], provede vždy před prvním uvedením vozidel do pohybu. Za provedení OČBP odpovídá zaměstnanec řídící posun.\n\nČD V15/I čl. 156: OČBP se musí provést v případě, že posunující HV je s ostatními vozidly v posunovém dílu propojeno hlavním potrubím průběžné brzdy.\n\nČD V15/I čl. 155: Ověření činnosti brzdy posunového dílu (dále jen OČBP) je úkon, kterým se ověřuje účinek brzd vozidel v průběžně brzděném posunovém dílu.",
+  "distraktory": [
+   "Na pokyn Zabrzděte sníží strojvedoucí tlak v hlavním potrubí o cca 1,0 bar; na posledním průběžně brzděném vozidle se ověří zabrzdění a po pokynu Odbrzděte odbrzdění.",
+   "Na pokyn Zabrzděte zavede strojvedoucí rychločinné brzdění; zabrzdění a odbrzdění se pak ověří na všech průběžně brzděných vozidlech posunového dílu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 270,
+  "otazka": "Jakým způsobem je strojvedoucí informován o změnách TTP nebo ZDD, dojde-li ke změně traťových nebo místních poměrů?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 209"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 207 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 206"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+    "clanek": "čl. 64, 66, 67"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "čl. 13"
+   }
+  ],
+  "odpoved": "Změna se oznámí v TTP (ZDD) a strojvedoucí je o ní zpravován 21 dní ode dne účinnosti změny; v MAPSIS se navíc seznámí s textovým upřesněním vloženým jako první strana TTP.",
+  "plne_zneni": "SŽ D1 čl. 206: SŽ musí dopravcům oznámit předpokládané změny stavebně technických parametrů dráhy, které mají přímý vliv na bezpečnost a plynulost drážní dopravy, nejméně 21 dní před dnem jejich účinnosti (účinnost změny uvedené v TTP a ZDD).\n\nSŽ D1 čl. 207 odst. (1): Změny stavebně technických parametrů dráhy, které mají podle čl. 206 přímý vliv na bezpečnost a plynulost provozování drážní dopravy, jsou SŽ oznamovány: a) v TTP (zpravidla změny na trati) nebo b) v ZDD (zpravidla změny v dopravnách s kolejovým rozvětvením) nebo c) „Seznamem plánovaných omezení v provozování dráhy a změn stavebně technických parametrů dráhy“ nebo d) písemnými rozkazy.\n\nSŽ D1 čl. 209: SŽ o změnách stavebně technických parametrů dráhy, které mají přímý vliv na bezpečnost a plynulost provozování drážní dopravy, zpravuje následovně:\na) O změnách, které byly dopravcům zveřejněny v TTP před dnem účinnosti změny, musí být strojvedoucí zpravován 21 dní ode dne účinnosti změn v TTP, není-li depeší stanoveno jinak.\nb) Pokud změny nebyly v TTP uveřejněny před dnem jejich skutečného uvedení do provozu, musí být strojvedoucí zpravován od okamžiku skutečného uvedení změny do provozu a následně ještě 21 dní ode dne účinnosti změny v TTP, není-li depeší stanoveno jinak.\nc) O trvalé změně těch stavebně technických parametrů dráhy, které mají přímý vliv na bezpečnost a plynulost drážní dopravy, a které nejsou uváděny v TTP (např. aktivace odjezdového návěstidla), musí být strojvedoucí zpravován po dobu nejméně 21 dnů ode dne uvedení změny do provozu. Zpravování může být ukončeno pouze v případě, že změna je zapracována do ZDD (ne však dříve než po 21 dnech).\n\nČD OP ředitele O18 č. 38/2020 čl. 64: Při každé změně TTP mající vliv na výkon práce strojvedoucího je vytvořeno pověřeným zaměstnancem OŘOD textové upřesnění změny […].\nčl. 66: Textové upřesnění vytvořené dle čl. 64 zašle pověřený zaměstnanec OŘOD Správci OŘOD, který ho vloží jako první novou stranu příslušného TTP.\nčl. 67: Strojvedoucí se pomocí aplikace MAPSIS seznamuje se změnami v TTP, které jsou textově upřesněny a vloženy na začátek každého dokumentu TTP, ve kterém proběhla změna. Seznámení se se změnou v TTP potvrdí stiskem tlačítka „ano“ v dialogovém okně aplikace MAPSIS, které se zobrazí při zavření dotyčného dokumentu TTP, ve kterém proběhla změna.\n\nČD D2 čl. 13: […] ředitel OŘOD zajistí, aby příslušní odborně způsobilí zaměstnanci byli neprodleně po zveřejnění změny TTP, ZDD, Provozního řádu pracoviště ČD nebo ZPD – část B (pokud se tato změna týká jejich pracovních činností) zpraveni o vydání této změny. Se změnou TTP jsou zaměstnanci povinni se seznámit nejpozději před prvním výkonem na dané trati. […] Se změnou ZDD, Provozního řádu pracoviště ČD nebo ZPD – část B jsou zaměstnanci povinni se seznámit nejpozději při nástupu na první směnu v dané lokalitě po účinnosti změny.",
+  "distraktory": [
+   "Změna se oznámí v TTP (ZDD) a strojvedoucí je o ní zpravován 7 dní ode dne účinnosti změny; v MAPSIS se navíc seznámí s textovým upřesněním vloženým jako první strana TTP.",
+   "Změnu oznámí strojvedoucímu výpravčí telekomunikačním zařízením před vjezdem do dotčeného úseku; upřesnění si strojvedoucí sám vyhledá na Portálu provozování dráhy."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Otázka nerozlišuje, zda se ptá na zpravování ze strany SŽ (SŽ D1 čl. 206–209 – oznámení v TTP/ZDD a zpravování strojvedoucího po dobu 21 dnů), nebo na způsob seznámení u dopravce (ČD – textové upřesnění změny jako první strana TTP v MAPSIS, potvrzení seznámení tlačítkem; ČD D2 čl. 13 – se změnou TTP před prvním výkonem na trati, se změnou ZDD při nástupu na první směnu v lokalitě). Odpověď pokrývá obojí."
+ },
+ {
+  "n": 271,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q271_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 66"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 105"
+   }
+  ],
+  "odpoved": "Návěst „Zabrzděte“ – přikazuje zaměstnanci ovládajícímu brzdu zkoušených vozidel provést úkon vedoucí k jejich zabrzdění (snížení tlaku v HP na předepsanou hodnotu).",
+  "plne_zneni": "ČD V15/I čl. 66: Strojvedoucí smí zabrzdit nebo odbrzdit na zkoušku jen na pokyn daný OZZ kontrolujícího účinek brzdy jednotlivých vozidel v soupravě. Jednotlivé pokyny pro zkoušku brzdy jsou:\n– Zabrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich zabrzdění (např. snížení tlaku v HP na předepsanou hodnotu apod.);\n– Odbrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich odbrzdění (např. zvýšení tlaku v HP na hodnotu provozního tlaku apod.);\n– Brzda v pořádku – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku) udávající výsledek a informaci o ukončení zkoušky brzdy (Ověření činnosti brzdy).\nPokyny pro zkoušku brzdy se dávají ručními návěstmi (jako denní nebo noční znak […]), ústně nebo prostřednictvím telekomunikačního zařízení. […]\nTabulka ručních návěstí: Zabrzděte – denní znak: sepnutí rukou nad hlavou; noční znak: opisování písmena „D“ svítilnou s bílým světlem. Ústně „Zabrzděte“, radiostanicí např.: „Vlak 353 na koleji číslo 5 Zabrzděte“.",
+  "distraktory": [
+   "Návěst „Odbrzděte“ – přikazuje zaměstnanci ovládajícímu brzdu zkoušených vozidel provést úkon vedoucí k jejich odbrzdění (zvýšení tlaku v HP na hodnotu provozního tlaku).",
+   "Návěst „Zabrzděte“ – přikazuje strojvedoucímu zabrzdit soupravu zajišťovací (ruční) brzdou a zajistit ji po dobu zkoušky brzdy proti samovolnému pohybu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 272,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q272_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 66"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 106"
+   }
+  ],
+  "odpoved": "Návěst „Odbrzděte“ – přikazuje zaměstnanci ovládajícímu brzdu zkoušených vozidel provést úkon vedoucí k jejich odbrzdění (zvýšení tlaku v HP na provozní tlak).",
+  "plne_zneni": "ČD V15/I čl. 66: Strojvedoucí smí zabrzdit nebo odbrzdit na zkoušku jen na pokyn daný OZZ kontrolujícího účinek brzdy jednotlivých vozidel v soupravě. Jednotlivé pokyny pro zkoušku brzdy jsou:\n– Zabrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich zabrzdění (např. snížení tlaku v HP na předepsanou hodnotu apod.);\n– Odbrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich odbrzdění (např. zvýšení tlaku v HP na hodnotu provozního tlaku apod.);\n– Brzda v pořádku – pokyn […] udávající výsledek a informaci o ukončení zkoušky brzdy (Ověření činnosti brzdy).\nTabulka ručních návěstí: Odbrzděte – denní znak: půlkruhové pohyby ruky nad hlavou; noční znak: denní návěst svítilnou s bílým světlem. Ústně „Odbrzděte“, radiostanicí např.: „Vlak 353 na koleji číslo 5 Odbrzděte“.\n\nČD V15/I čl. 106: Když dojde OZZ kontrolující účinek brzdy jednotlivých vozidel k poslednímu čelu na opačném konci soupravy, dá strojvedoucímu pokyn Odbrzděte.",
+  "distraktory": [
+   "Návěst „Zabrzděte“ – přikazuje zaměstnanci ovládajícímu brzdu zkoušených vozidel provést úkon vedoucí k jejich zabrzdění (snížení tlaku v HP na předepsanou hodnotu).",
+   "Návěst „Brzda v pořádku“ – udává zaměstnanci ovládajícímu brzdu zkoušených vozidel výsledek a informaci o ukončení zkoušky brzdy (ověření činnosti brzdy)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 273,
+  "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+  "obrazky": [
+   "img/q273_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 66"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 69"
+   }
+  ],
+  "odpoved": "Návěst „Brzda v pořádku“ – udává zaměstnanci ovládajícímu brzdu zkoušených vozidel výsledek a informaci o ukončení zkoušky brzdy (ověření činnosti brzdy).",
+  "plne_zneni": "ČD V15/I čl. 66: […] Jednotlivé pokyny pro zkoušku brzdy jsou:\n– Zabrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich zabrzdění […];\n– Odbrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich odbrzdění […];\n– Brzda v pořádku – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku) udávající výsledek a informaci o ukončení zkoušky brzdy (Ověření činnosti brzdy).\nTabulka ručních návěstí: Brzda v pořádku – denní znak: obě vzpažené paže svisle vzhůru; noční znak: opisování vodorovné osmičky svítilnou s bílým světlem. Ústně „Brzda v pořádku“, radiostanicí např.: „Vlak 353 na koleji číslo 5 Brzda v pořádku“.\n\nČD V15/I čl. 69: […] Pokyn Brzda v pořádku se smí strojvedoucímu předat až poté, co stejný pokyn dali ostatní OZZ provádějící kontrolu účinku brzd vozidel.",
+  "distraktory": [
+   "Návěst „Odbrzděte“ – přikazuje zaměstnanci ovládajícímu brzdu zkoušených vozidel provést úkon vedoucí k jejich odbrzdění (zvýšení tlaku v HP na provozní tlak).",
+   "Návěst „Brzda v pořádku“ – dovoluje strojvedoucímu uvést vlak do pohybu a nahrazuje zápis o provedené zkoušce brzdy ve Zprávě o brzdění."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 274,
+  "otazka": "Na trati jsou umístěny horní a dolní rychlostníky N. Který rychlostník platí pro vlak dle obrázku, pokud je v ZOB uvedeno „PASS 2“?",
+  "obrazky": [
+   "img/q274_1.png"
+  ],
+  "tema": "Návěsti",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 177 odst. (2)"
+   },
+   {
+    "predpis": "ČD D2",
+    "clanek": "Příloha 2, čl. 1–3"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+    "clanek": "kap. 6A.0 Rychlostní profil / horní rychlostníky N"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 174 odst. (6) a (7)"
+   }
+  ],
+  "odpoved": "Platí horní rychlostník N – údaj PASS 2 v ZOB znamená, že všechna vozidla vlaku vyhovují průjezdu obloukem při nedostatku převýšení 130 mm.",
+  "plne_zneni": "SŽ D1 čl. 177 odst. (2): Při umístění dvou rychlostníků N nad sebou přikazuje strojvedoucímu nepřekročit od tohoto návěstidla rychlost udanou číslem horního rychlostníku N, jestliže: a) všechna vozidla vlaku jsou schopná průjezdu obloukem při působícím nedostatku převýšení 130 mm nebo vyšším, nesplňují-li podmínky stanovené odst. (12) tohoto článku; b) jsou u všech hnacích vozidel řazených ve vlaku splněny podmínky dané v aplikaci IS REVOZ (např. sloupec 2 tabulka 1j předpisu D2/1); c) jsou splněny podmínky stanovené výrobcem vozidla.\n\nSŽ D1 čl. 174 odst. (7): Rychlostník N je nepřenosné návěstidlo, které návěstí traťovou rychlost pro soupravy, jejichž strojvedoucí se v daném místě neřídí návěstmi rychlostníku NS ani rychlostníku R.\n\nČD D2 Příloha 2 čl. 1: Vozidla jsou provozována s následujícími nedostatky převýšení při průjezdu oblouku: PASS 1 – 100 mm; PASS 2 – 130 mm; PASS 3 (není návěstěn) – 150 mm; TILT 6 – 275 mm.\nčl. 2: Vozidla, která vyhovují průjezdu oblouky při nedostatku převýšení do 130 mm (PASS 2) a zároveň nepřekračují zatížení 18 tun na jednu nápravu: a) hnací vozidla specifikovaná ve sl. 2 tabulky 1j a zároveň ve sl. 7 tabulky 1a až 1h předpisu SŽDC (ČD) D2/1 a v aplikaci SŽ REVOZ […]; b) osobní a řídicí vozy s kotoučovou brzdou; c) vozy pro přepravu osobních automobilů řady DDm 915.\nčl. 3: Strojvedoucí je informován o rychlostním profilu soupravy vlaku pomocí ZOB.\n\nČD OP ředitele O18 č. 36/2025, kap. 6A.0: PASS 1 = spodní rychlostníky (nedostatek převýšení 100 mm); PASS 2 = horní rychlostníky (nedostatek převýšení 130 mm); PASS 3 = nedostatek převýšení 150 mm (např. HV 650.2, 847); TILT 6 = nedostatek převýšení 275 mm (např. HV 680). […] Je-li ve vlaku zařazeno i jen jediné vozidlo nevyhovující některé z výše uvedených podmínek, platí pro jízdu vlaku dolní rychlostník N = v ZOB PASS 1.",
+  "distraktory": [
+   "Platí dolní rychlostník N – podle horního rychlostníku N smí jet jen souprava, která má v ZOB uveden rychlostní profil PASS 3 (nedostatek převýšení 150 mm).",
+   "Platí horní rychlostník N jen tehdy, je-li opatřen svislými černými pruhy s bílými kruhy; bez tohoto označení platí pro vlak dolní rychlostník N."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na obrázku je souprava Railjet s HV řady 1216 (ES64U4) – jde o vlak bez naklápěcích skříní, rychlostníky NS tedy neplatí. Pozor na odlišný případ horního rychlostníku N se svislými černými pruhy a bílými kruhy (SŽ D1 čl. 177 odst. (3)), kde je navíc podmínka rozhodného zatížení na nápravu nejvýše 18 t a splnění podmínek oznamuje strojvedoucímu dopravce."
+ },
+ {
+  "n": 275,
+  "otazka": "Na vlaku Ex je vykonávána ÚZB v režimu R+Mg. Po zabrzdění na zkoušku brzdy a provedené kontrole stavu zabrzděno obdrží strojvedoucí od vozmistra kontrolujícího účinek brzdy vozidel opětovně pokyn „Zabrzděte“ pro vykonání kontroly správné funkce Mg-brzdy. Jaký úkon na základě tohoto pokynu strojvedoucí provede?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "ČD V15/I",
+  "zdroje": [
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 105"
+   },
+   {
+    "predpis": "ČD V15/I",
+    "clanek": "čl. 66"
+   }
+  ],
+  "odpoved": "Zavede rychločinné brzdění; teprve tím se u vozů s přestavovačem v poloze R+Mg umožní vyzkoušení funkce magnetické kolejnicové brzdy.",
+  "plne_zneni": "ČD V15/I čl. 105: U vlaků se zařazenými vozidly vybavenými elektromagnetickou brzdou (dále také Mg-brzda) s nastavenou polohou přestavovače R+Mg provede OZZ také vyzkoušení její správné funkce následujícím způsobem.\nPo provedení kontroly zabrzdění u jednotlivých vozidel v soupravě vlaku dle čl. 100 – 103 tohoto oddílu, dá OZZ strojvedoucímu pokyn k zabrzdění na zkoušku Mg-brzdy (opakuje návěst Zabrzděte) a strojvedoucí zavede rychločinné brzdění.\nOZZ provede u každého vozidla vybaveného Mg-brzdou kontrolu její správné funkce tak, že po stisknutí tlačítka elektromagnetického ventilu na panelu Mg-brzdy ověří dosednutí všech viditelných trámců na kolejnice a současné rozsvícení kontrolky správné činnosti Mg-brzdy. Po uvolnění tlačítka elektromagnetického ventilu ověří zvednutí všech trámců. […]\nKontrolu správné funkce Mg-brzdy prvního odstavce tohoto článku je také možné provést až po kontrole odbrzdění jednotlivých vozidel v soupravě vlaku a odbrzdění vozidel v soupravě vlaku opětovně ověřit po vyzkoušení funkce Mg-brzdy.\n\nČD V15/I čl. 66: Strojvedoucí smí zabrzdit nebo odbrzdit na zkoušku jen na pokyn daný OZZ kontrolujícího účinek brzdy jednotlivých vozidel v soupravě. […] Zabrzděte – pokyn pro zaměstnance ovládajícího brzdu zkoušených vozidel (vlaku), aby provedl úkon vedoucí k jejich zabrzdění […].",
+  "distraktory": [
+   "Sníží tlak v hlavním potrubí na 3,5 bar; teprve tím se u vozů s přestavovačem v poloze R+Mg umožní vyzkoušení funkce magnetické kolejnicové brzdy.",
+   "Zavede rychločinné brzdění a současně stiskne na stanovišti tlačítko elektromagnetického ventilu, čímž se Mg-brzda aktivuje na všech vozidlech soupravy."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "V otázce je v podkladu (questions_raw.json) na konci připojena patička dokumentu „Změna od 13. 2. 2026 – upraveny obrázky otázek 55 a 68 Změna od 18. 2. 2026 – doplněn obrázek otázky 246“, která k otázce nepatří a byla odstraněna."
+ }
+]

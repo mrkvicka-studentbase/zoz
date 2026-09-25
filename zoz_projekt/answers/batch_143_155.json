@@ -1,0 +1,427 @@
+[
+  {
+    "n": 143,
+    "otazka": "Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Kotlíkov, pro lok. od vlaku 10254 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se11 a najedeme na první koleji na vlak 10258. Posun dovolen od 10:30 do 10:45 hod. Funkční kód RDST 04.“. Strojvedoucí kvůli mlze nevidí na návěst nejbližšího hlavního návěstidla. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q143_1.png"
+    ],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 244 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 236 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 234 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 228 odst. (3)"
+      },
+      {
+        "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+        "clanek": "kap. 3A.0 Posun"
+      }
+    ],
+    "odpoved": "Nesmí zahájit posun: obdržel jen sjednání posunu, údaj „Posun dovolen od 10:30 do 10:45“ je časové vymezení, ne souhlas k posunu – ten si vyžádá od výpravčího rádiem.",
+    "plne_zneni": "SŽ D1 čl. 228 odst. (1): Souhlas k posunu je informací pro zaměstnance řídícího posun, že jsou splněny podmínky pro jízdu posunového dílu.\n\nSŽ D1 čl. 228 odst. (3): Sjednáním posunu se rozumí sdělení požadavku na posun (viz čl. 229 odst. (4) a (5)) a projednání vlastní technologie provádění posunu.\n\nSŽ D1 čl. 234 odst. (2): Výpravčí vždy oznámí zaměstnanci řídícímu posun technologii posunu: a) Začátek a konec posunových cest […] b) Časové vymezení povoleného posunu, je-li to vzhledem k dopravní situaci ve stanici (v odbočce) nutné (např. „Posun dovolen od 10:00 do 10:20“). […]\n\nSŽ D1 čl. 236 odst. (1): Souhlas k posunu se uděluje zaměstnanci řídícímu posun následovně: a) Návěstí Posun dovolen. […] b) Návěstí Stop značka ETCS a posun dovolen. […] c) Návěstí Souhlas k jízdě. d) Ústně nebo telekomunikačním zařízením. […] e) Návěstí dovolující jízdu vlaku hlavního návěstidla platného jen pro příslušnou kolej […].\n\nSŽ D1 čl. 244 odst. (2): Strojvedoucí může uvést posunový díl do pohybu za těchto podmínek: a) při posunu s posunovou četou obdržel pokyn k uvedení posunového dílu do pohybu od vedoucího posunové čety nebo jím určeného člena posunové čety; b) při posunu bez posunové čety obdržel souhlas k posunu a jen za podmínky, že zná technologii posunu. Je-li posunový díl průběžně brzděn, musí být ověřena činnost průběžné brzdy. […]\n\nČD Opatření ředitele O18 č. 36/2025, kap. 3A.0 Posun: […] Sjednání posunu – „Hnací vozidlo vlaku 123 z třetí koleje do výtažné koleje za návěstidlo Se 15, po první koleji na jižní zhlaví za návěstidlo Sc 1 a zpět na třetí kolej na soupravu. Použijte funkční kód 01.“ […] Nesmí uvést posunový díl do pohybu dokud neobdrží Souhlas k posunu. […] „Lok od vlaku 123 ve stanici Cheb ze třetí koleje k návěstidlu L3 posun dovolen“.",
+    "distraktory": [
+      "Smí zahájit posun: údaj „Posun dovolen od 10:30 do 10:45“ je souhlasem k posunu, na návěst hlavního návěstidla proto strojvedoucí vidět nemusí.",
+      "Nesmí zahájit posun: musí vyčkat, až mlha odezní a uvidí na návěst hlavního návěstidla, protože souhlas k posunu nelze udělit ústně ani rádiem."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Obrázek je záměrně zašedlý (mlha) – návěst nejbližšího hlavního návěstidla (červeno-bílý označovací pás) není rozeznatelná. Sdělení výpravčího obsahuje jen sjednání posunu podle čl. 229/234 (technologie + časové vymezení + funkční kód RDST 04 = HDV odstupující od vlaku, SŽ Z11 čl. 47 odst. (3))."
+  },
+  {
+    "n": 144,
+    "otazka": "Strojvedoucí bude po zastavení vlaku odstupovat do depa a obdržel od posunovače tuto informaci: „Lokomotiva od vlaku 9890 na druhé koleji je odvěšená“. Strojvedoucí s výpravčím nekomunikoval. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q144_1.png"
+    ],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 244 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 228 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 234 odst. (1)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 106"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 104"
+      }
+    ],
+    "odpoved": "Nesmí uvést posunový díl do pohybu: sdělení posunovače o odvěšení není sjednáním posunu ani souhlasem k posunu – posun musí nejprve sjednat s výpravčím.",
+    "plne_zneni": "ČD D2 čl. 106: Nástup a odstup samotných nebo spojených hnacích vozidel na vlak a od vlaku a objíždění souprav vlaku osobní dopravy se považuje za posun bez posunové čety a to i v případech, kdy je k dispozici posunová četa (posunovač) nebo obsluha vlaku. […]\n\nČD D2 čl. 104: Zaměstnanec řídící posun je při posunu bez posunové čety vždy strojvedoucí. […] Zaměstnanec řídící posun je vždy oprávněný zaměstnanec dopravce k ohlášení požadavku na provádění posunu a jeho sjednání se zaměstnancem řízení provozu provozovatele dráhy.\n\nSŽ D1 čl. 228 odst. (3): Sjednáním posunu se rozumí sdělení požadavku na posun (viz čl. 229 odst. (4) a (5)) a projednání vlastní technologie provádění posunu.\n\nSŽ D1 čl. 234 odst. (1): Posunovat na kolejích určených pro jízdu vlaků se smí jen se souhlasem výpravčího.\n\nSŽ D1 čl. 244 odst. (2): Strojvedoucí může uvést posunový díl do pohybu za těchto podmínek: […] b) při posunu bez posunové čety obdržel souhlas k posunu a jen za podmínky, že zná technologii posunu. […]",
+    "distraktory": [
+      "Smí uvést posunový díl do pohybu: odvěšení ohlásil posunovač jako vedoucí posunové čety a návěst Posun dovolen na hlavním návěstidle je souhlasem k posunu.",
+      "Nesmí uvést posunový díl do pohybu: posun musí nejprve sjednat s posunovačem, který je při odstupu hnacího vozidla vždy zaměstnancem řídícím posun."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je nejbližší hlavní návěstidlo (trpasličí, červeno-bílý označovací pás) s návěstí Posun dovolen – ta je sice souhlasem k posunu, ale posun nebyl sjednán a strojvedoucí nezná technologii posunu."
+  },
+  {
+    "n": 145,
+    "otazka": "Strojvedoucí bude po zastavení vlaku odstupovat do depa. Po výstupu cestujících se změní návěst nejbližšího hlavního návěstidla z návěsti „Stůj“ na návěst „Posun dovolen“. Komunikace mezi výpravčím a strojvedoucím neproběhla. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q145_1.png"
+    ],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 244 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 221 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 228 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 234 odst. (1)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 104"
+      }
+    ],
+    "odpoved": "Nesmí zahájit posun: návěst Posun dovolen je sice souhlasem k posunu, ale posun nebyl sjednán – musí jej sjednat s výpravčím a znát technologii posunu.",
+    "plne_zneni": "SŽ D1 čl. 221 odst. (1): Zaměstnanec, který obsluhuje hlavní návěstidlo platné pro posun, může toto návěstidlo obsloužit (rozsvítit návěst Posun dovolen) až po sjednání posunu (viz čl. 229 a čl. 234) a splnění podmínek pro zahájení posunu (postavení posunové cesty apod.). […]\n\nSŽ D1 čl. 221 odst. (2): Posun dovolen – bílé světlo – nedovoluje jízdu vlaku; dovoluje posun; je-li na návěstidle platném jen pro jednu kolej: 1. informuje o postavené posunové cestě za tímto návěstidlem, 2. je souhlasem k posunu.\n\nSŽ D1 čl. 228 odst. (3): Sjednáním posunu se rozumí sdělení požadavku na posun (viz čl. 229 odst. (4) a (5)) a projednání vlastní technologie provádění posunu.\n\nSŽ D1 čl. 234 odst. (1): Posunovat na kolejích určených pro jízdu vlaků se smí jen se souhlasem výpravčího.\n\nSŽ D1 čl. 244 odst. (2): Strojvedoucí může uvést posunový díl do pohybu za těchto podmínek: […] b) při posunu bez posunové čety obdržel souhlas k posunu a jen za podmínky, že zná technologii posunu. […]\n\nČD D2 čl. 104: Zaměstnanec řídící posun je při posunu bez posunové čety vždy strojvedoucí. […]",
+    "distraktory": [
+      "Smí zahájit posun: návěstidlo se smí obsloužit až po sjednání posunu, rozsvícení návěsti Posun dovolen je proto zároveň sjednáním i souhlasem k posunu.",
+      "Nesmí zahájit posun: vyčká, až mu výpravčí udělí souhlas k posunu rádiem, protože návěst Posun dovolen na hlavním návěstidle souhlasem k posunu není."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 146,
+    "otazka": "Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Baníkov, pro motor od vlaku 19999 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se22 a najedeme na první koleji na vlak 19998. Funkční kód RDST 01.“. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q146_1.png"
+    ],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 244 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 236 odst. (1) a)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 220 odst. (5)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 229 odst. (5)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 47 odst. (3)"
+      }
+    ],
+    "odpoved": "Posun je sjednán a návěst Posun dovolen na Se22 je souhlasem k posunu – strojvedoucí nastaví funkční kód 01 a smí uvést posunový díl do pohybu.",
+    "plne_zneni": "SŽ D1 čl. 229 odst. (5): Oprávněný zaměstnanec dopravce musí odborně způsobilému zaměstnanci SŽ oznámit tyto informace o požadovaném posunu: […] e) způsob komunikace zaměstnance řídícího posun s výpravčím (výhybkářem), případně rádiovou síť, prostřednictvím které bude posun prováděn; […]\n\nSŽ D1 čl. 220 odst. (5): Posun dovolen – bílé světlo – dovoluje posun; je-li na návěstidle platném jen pro jednu kolej: 1. informuje o postavené posunové cestě za tímto návěstidlem, 2. je souhlasem k posunu.\n\nSŽ D1 čl. 236 odst. (1) a): Souhlas k posunu se uděluje zaměstnanci řídícímu posun následovně: a) Návěstí Posun dovolen. Rozsvícením návěsti Posun dovolen informuje zaměstnanec obsluhující toto návěstidlo, že jsou splněny podmínky pro jízdu posunového dílu nejen za toto návěstidlo, ale i mezi čelem posunového dílu a tímto návěstidlem. […]\n\nSŽ D1 čl. 244 odst. (2): Strojvedoucí může uvést posunový díl do pohybu za těchto podmínek: […] b) při posunu bez posunové čety obdržel souhlas k posunu a jen za podmínky, že zná technologii posunu. […]\n\nSŽ Z11 čl. 47 odst. (3) (tabulka 17 – Funkční kódy): 01 – vedoucí HDV na vlaku; […] 04 – HDV odstupující od vlaku nebo čekající na vlak. […]",
+    "distraktory": [
+      "Posun je sjednán, ale návěst Posun dovolen na Se22 není souhlasem k posunu – ten si musí strojvedoucí po nastavení funkčního kódu 01 vyžádat od výpravčího.",
+      "Posun sjednán není: sdělení výpravčího je pouze souhlasem k posunu, technologii posunu si musí strojvedoucí vyžádat rádiem ještě před uvedením dílu do pohybu."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je trpasličí seřaďovací návěstidlo Se22 (modro-bílý označovací pás) s rozsvícenou návěstí Posun dovolen (bílé světlo) – souhlas k posunu je tedy udělen. Kdyby návěstidlo návěst Posun dovolen neukazovalo, platil by postup jako u ot. 143."
+  },
+  {
+    "n": 147,
+    "otazka": "Jak je zpraven strojvedoucí o poruše PZZ při posunu přes přejezdy s poruchou PZZ?",
+    "obrazky": [],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 252 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 252 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 234 odst. (2) e)"
+      },
+      {
+        "predpis": "SŽ D1/1",
+        "clanek": "Rozkaz 55, pokyn 55.10 a 55.10a"
+      }
+    ],
+    "odpoved": "Vždy písemným rozkazem (rozkaz 55 – Jízda se zvýšenou opatrností) s km polohou PZZ, poruchou přejezdu, časovým vymezením posunu a nařízením jízdy se zvýšenou opatrností.",
+    "plne_zneni": "SŽ D1 čl. 252 odst. (3): Strojvedoucí musí být zpraven písemným rozkazem o poruše (vypnutí) PZZ. O poruše (vypnutí) PZZ musí být zpraven i zaměstnanec v čele sunutého posunového dílu. Způsob zpravení musí stanovit dopravce svým vnitřním předpisem.\n\nSŽ D1 čl. 252 odst. (4): V písemném rozkaze musí být uvedeno: a) km poloha PZZ; b) že je přejezd v poruše (a to i v případě, že je vypnuto PZZ); c) časové vymezení povoleného posunu přes dotčený přejezd; d) nařízení jízdy se zvýšenou opatrností.\n\nSŽ D1 čl. 234 odst. (2) e): Mimořádnosti, které zaměstnanci řídícímu posun nemohou být známy a ovlivňují bezpečné provádění posunu (např. přechodné omezení rychlosti na kolejích, na kterých se bude posunovat, porucha PZZ apod.). O mimořádnostech uvedených v tomto písmenu, musí být strojvedoucí zpraven vždy písemným rozkazem.\n\nSŽ D1/1, Rozkaz 55 – Jízda se zvýšenou opatrností: význam – Informuje o nutnosti jízdy se zvýšenou opatrností přes přejezdy nebo centrální přechody vybavené VZPK. Vyplnění rozkazu – Označí se křížkem, pokud je nutné strojvedoucího informovat o poruše (příp. vypnutí) PZZ nebo VZPK, nebo chybí-li dopravní značka Výstražný kříž pro železniční přejezd. Pokyn 55.10 – […] Nařizuje jízdu se zvýšenou opatrností přes přejezd nebo centrální přechod vybavený VZPK, který je uveden v pokynu 55.10a, příp. 55.10b až 55.10e. Související předpis: SŽ D1 – 234 (2); 248 (12); 252 (3); […]",
+    "distraktory": [
+      "Vždy ústně nebo rádiem při sjednání posunu; výpravčí sdělí km polohu PZZ, poruchu přejezdu, časové vymezení posunu a nařídí jízdu se zvýšenou opatrností.",
+      "Vždy písemným rozkazem (rozkaz 3 – Omezení rychlosti) s km polohou PZZ, časovým vymezením posunu a nařízením jízdy podle rozhledových poměrů nejvýše 40 km/h."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Zaměstnanec v čele sunutého posunového dílu se o poruše zpravuje způsobem, který stanoví dopravce svým vnitřním předpisem (ČD D2/V2), nikoli nutně písemným rozkazem."
+  },
+  {
+    "n": 148,
+    "otazka": "O posunu bez posunové čety rozhoduje:",
+    "obrazky": [],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 245 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 245 odst. (2)"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 104"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 106"
+      }
+    ],
+    "odpoved": "Strojvedoucí; ten je při posunu bez posunové čety vždy zaměstnancem řídícím posun a posun musí být sjednán podle čl. 229 a 234.",
+    "plne_zneni": "SŽ D1 čl. 245 odst. (1): O tom, že bude posun prováděn bez posunové čety, rozhoduje strojvedoucí vyjma případů uvedených v odst. (2) tohoto článku.\n\nSŽ D1 čl. 245 odst. (2): Posun bez posunové čety lze provádět při posunu: a) tažených posunových dílů; b) samostatných hnacích vozidel; c) spojených více hnacích vozidel, jsou-li hnací vozidla řízena ze stanoviště, z něhož je nejlepší rozhled; d) speciálních vozidel podle čl. 246.\n\nSŽ D1 čl. 245 odst. (3): Posun bez posunové čety musí být sjednán v souladu s čl. 229 a čl. 234.\n\nČD D2 čl. 104: Zaměstnanec řídící posun je při posunu bez posunové čety vždy strojvedoucí. […]\n\nČD D2 čl. 106: Nástup a odstup samotných nebo spojených hnacích vozidel na vlak a od vlaku a objíždění souprav vlaku osobní dopravy se považuje za posun bez posunové čety a to i v případech, kdy je k dispozici posunová četa (posunovač) nebo obsluha vlaku.",
+    "distraktory": [
+      "Výpravčí (zaměstnanec řízení provozu); ten je při posunu bez posunové čety vždy zaměstnancem řídícím posun a posun s ním musí být sjednán.",
+      "Vedoucí posunové čety, popř. dopravce svým vnitřním předpisem; strojvedoucí v tomto případě pouze plní pokyny zaměstnance řídícího posun."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Čl. 245 odst. (1) obsahuje odkaz „vyjma případů uvedených v odst. (2)“, tj. výčet případů, kdy posun bez posunové čety lze vůbec provádět (tažené díly, samostatná i spojená HV, speciální vozidla dle čl. 246); ČD D2 čl. 106 navíc některé případy za posun bez posunové čety prohlašuje závazně."
+  },
+  {
+    "n": 149,
+    "otazka": "Kolik vozidel normální stavby smí být sunuto při posunu bez posunové čety?",
+    "obrazky": [],
+    "tema": "Posun",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 245 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 246 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 246 odst. (2)"
+      }
+    ],
+    "odpoved": "Žádné – sunout se při posunu bez posunové čety smí pouze speciální vozidla, a to do délky nejvýše 25 m; vozidla normální stavby se smí jen táhnout.",
+    "plne_zneni": "SŽ D1 čl. 245 odst. (2): Posun bez posunové čety lze provádět při posunu: a) tažených posunových dílů; b) samostatných hnacích vozidel; c) spojených více hnacích vozidel, jsou-li hnací vozidla řízena ze stanoviště, z něhož je nejlepší rozhled; d) speciálních vozidel podle čl. 246.\n\nSŽ D1 čl. 246 odst. (1): Při posunu bez posunové čety speciálními vozidly je možné sunutí speciálních vozidel; délka takto sunutých speciálních vozidel může být maximálně 25 m, pokud strojvedoucímu při řízení speciálního vozidla nebrání ve výhledu konstrukce sunutých speciálních vozidel nebo případný náklad spočívající na těchto sunutých speciálních vozidlech.\n\nSŽ D1 čl. 246 odst. (2): Při posunu bez posunové čety speciálními vozidly je sunutí speciálních vozidel v místech určených pro veřejnost (nástupiště s úrovňovým přístupem) zakázáno, vyjma posunu kolem nástupišť s mimoúrovňovým přístupem nebo centrálním přechodem s VZPK.\n\nSŽ D1 čl. 245 odst. (6): Nejsou-li splněny podmínky pro posun bez posunové čety podle tohoto článku, nesmí být posun bez posunové čety prováděn.",
+    "distraktory": [
+      "Nejvýše dvě vozidla normální stavby, a to do celkové délky 25 m a jen tehdy, nebrání-li strojvedoucímu ve výhledu na kolej před posunovým dílem.",
+      "Počet není omezen, všechna sunutá vozidla však musí být zapojena do průběžné brzdy a rychlost posunového dílu nesmí překročit 30 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 150,
+    "otazka": "Jak dá signalista strojvedoucímu při posunu bez posunové čety návěst „Souhlas k jízdě“ pomocí radiostanice?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 4 odst. (19), tabulka 1"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 227 odst. (15)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 236 odst. (1) c)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 31 odst. (5) a (7)"
+      }
+    ],
+    "odpoved": "Závazným zněním: „Vlak/záloha/posun/PMD … ve stanici … ze … koleje směrem/za návěstidlo/k návěstidlu … posun dovolen.“ – platí jen pro souhlas daný výhybkářem.",
+    "plne_zneni": "SŽ Z11 čl. 4 odst. (19), tabulka 1 – Definice závazných slovních znění prostřednictvím rádiové sítě:\nnávěst Souhlas k jízdě – „Vlak / záloha / posun / PMD (uvede se označení) ve stanici / v dopravně / mezi stanicemi … (uvede se místo) ze … (uvede se číslo) koleje směrem / za návěstidlo / k návěstidlu … (uvede se směr posunu / označení návěstidla) posun dovolen.“\nPoznámky k tabulce 1: návěst – Souhlas k jízdě: slovní znění pokynu pro návěst Souhlas k jízdě je určen pouze pro souhlas k posunu daný výhybkářem.\n\nSŽ D1 čl. 227 odst. (15): Souhlas k jízdě – denní návěst: opisování svislé osmičky červeným praporkem; noční návěst: opisování svislé osmičky ruční svítilnou s bílým světlem – dává výhybkář; informuje zaměstnance řídícího posun o postavené posunové cestě; je souhlasem k posunu.\n\nSŽ D1 čl. 31 odst. (5): Výhybkář je společný název pro všechny zaměstnance určené k obsluze výhybek a výkolejek (např. výhybkář, dozorce výhybek, signalista, výpravčí).\nSŽ D1 čl. 31 odst. (7): Signalista je zaměstnanec, který staví jízdní cesty na pracovišti s ústředně přestavovanými výhybkami a výkolejkami a obsluhuje staniční zabezpečovací zařízení.",
+    "distraktory": [
+      "Závazným zněním: „Vlak/záloha/posun/PMD … ve stanici … z koleje … směrem … posunuj.“ – platí jen pro souhlas k posunu daný výhybkářem.",
+      "Závazným zněním: „Vlak/záloha/posun/PMD … ve stanici … ze … koleje k návěstidlu … souhlas k jízdě.“ – platí jen pro souhlas k posunu daný výpravčím."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 151,
+    "otazka": "Jaký je název této návěsti a jaký pokyn dává?",
+    "obrazky": [
+      "img/q151_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 227 odst. (17)"
+      }
+    ],
+    "odpoved": "Návěst „Výhybka je uvolněna“ – dává ji na žádost výhybkáře strojvedoucí a upozorňuje jí, že všechna vozidla uvolnila výhybkářem určenou výhybku.",
+    "plne_zneni": "SŽ D1 čl. 227 odst. (17): Výhybka je uvolněna\nslyšitelná návěst: dva krátké zvuky lokomotivní houkačkou\n• dává na žádost výhybkáře strojvedoucí\n• upozorňuje na to, že všechna vozidla uvolnila výhybkářem určenou výhybku\n\nSŽ D1 čl. 227 odst. (1): Ruční návěsti pro posun jsou návěsti, kterými se dává pokyn k uvedení posunového dílu do pohybu nebo se jimi pohyb ovlivňuje. Podle potřeby se viditelné návěsti doplňují slyšitelnými návěstmi. Ručními návěstmi pro posun se mohou udělovat pokyny i strojvedoucímu vlaku (např. uvolnění zadního námezníku).",
+    "distraktory": [
+      "Návěst „Výhybka je uvolněna“ – dává ji na žádost strojvedoucího výhybkář a upozorňuje jí, že výhybka je pro jízdu posunového dílu správně přestavena.",
+      "Návěst „Stlačit“ – přikazuje strojvedoucímu stlačit vozidla tak, aby mohla být svěšena nebo rozvěšena; dává ji zaměstnanec řídící posun."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku jsou u popisku „lokomotivní houkačka“ dvě plné tečky = dva krátké zvuky."
+  },
+  {
+    "n": 152,
+    "otazka": "Jaký je název této návěsti?",
+    "obrazky": [
+      "img/q152_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 221 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 221 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 236 odst. (1) a)"
+      }
+    ],
+    "odpoved": "Návěst „Posun dovolen“ (bílé světlo a nad ním červené) – nedovoluje jízdu vlaku, dovoluje posun a na návěstidle platném jen pro jednu kolej je souhlasem k posunu.",
+    "plne_zneni": "SŽ D1 čl. 221 odst. (3): Posun dovolen\nbílé světlo a nad ním, popř. pod ním, červené světlo\n• nedovoluje jízdu vlaku\n• dovoluje posun\n• je-li na návěstidle platném jen pro jednu kolej: 1. informuje o postavené posunové cestě za tímto návěstidlem, 2. je souhlasem k posunu\n\nSŽ D1 čl. 221 odst. (4): Pro návěst Posun dovolen světelného hlavního návěstidla platného pro jízdu vlaku i posun platí všechna ustanovení jako pro návěst Posun dovolen seřaďovacího návěstidla.\n\nSŽ D1 čl. 221 odst. (1): Zaměstnanec, který obsluhuje hlavní návěstidlo platné pro posun, může toto návěstidlo obsloužit (rozsvítit návěst Posun dovolen) až po sjednání posunu (viz čl. 229 a čl. 234) a splnění podmínek pro zahájení posunu (postavení posunové cesty apod.). […]",
+    "distraktory": [
+      "Přivolávací návěst (návěst „Opatrně“) – dovoluje jízdu vlaku kolem návěstidla, u kterého nelze rozsvítit návěst dovolující jízdu vlaku, a nařizuje jízdu podle rozhledu.",
+      "Návěst „Posun zakázán“ – zakazuje posun, čelo posunového dílu musí zastavit ještě před návěstidlem, popř. před námezníkem na konci příslušné koleje."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je trpasličí hlavní návěstidlo platné pro jízdu vlaku i posun: bílé světlo a nad ním červené, obě stálá (bez paprsků). Kdyby bylo bílé světlo přerušované, šlo by o přivolávací návěst (SŽ D1 čl. 138 odst. (1) a (2))."
+  },
+  {
+    "n": 153,
+    "otazka": "Za provedení Ověření činnosti brzdy posunového dílu odpovídá?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 157"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 155, 156"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 159"
+      },
+      {
+        "predpis": "ČD D2",
+        "clanek": "čl. 104"
+      }
+    ],
+    "odpoved": "Zaměstnanec řídící posun; při posunu bez posunové čety je jím vždy strojvedoucí. OČBP se provádí vždy před prvním uvedením vozidel do pohybu.",
+    "plne_zneni": "ČD V15/I čl. 155: Ověření činnosti brzdy posunového dílu (dále jen OČBP) je úkon, kterým se ověřuje účinek brzd vozidel v průběžně brzděném posunovém dílu.\n\nČD V15/I čl. 156: OČBP se musí provést v případě, že posunující HV je s ostatními vozidly v posunovém dílu propojeno hlavním potrubím průběžné brzdy.\n\nČD V15/I čl. 157: OČBP se, po svěšení a propojení vozidel hlavním potrubím, popř. i dalšími vedeními […], provede vždy před prvním uvedením vozidel do pohybu. Za provedení OČBP odpovídá zaměstnanec řídící posun.\n\nČD V15/I čl. 159: OČBP provede vedoucí posunové čety tak, že: po naplnění hlavního potrubí na provozní tlak na pokyn (Zabrzděte) zaměstnance provádějícího OČBP sníží strojvedoucí tlak v hlavním potrubí o cca 0,5 bar; […] Vykonává-li OČBP samotný strojvedoucí vedoucího vozidla, provádí tyto úkony na příslušných vozidlech sám.\n\nČD D2 čl. 104: Zaměstnanec řídící posun je při posunu bez posunové čety vždy strojvedoucí. […]\n\nSŽ D1 čl. 244 odst. (2): […] Je-li posunový díl průběžně brzděn, musí být ověřena činnost průběžné brzdy. Způsob ověření účinku průběžné brzdy stanoví předpis dopravce.",
+    "distraktory": [
+      "Strojvedoucí vedoucího vozidla posunového dílu, a to vždy – i při posunu s posunovou četou, kdy úkony na vozidlech provádí vedoucí posunové čety.",
+      "Výpravčí, se kterým byl posun sjednán; ten odpovídá za to, že byl účinek průběžné brzdy posunového dílu ověřen před udělením souhlasu k posunu."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 154,
+    "otazka": "Jak zní slovní znění návěsti „Vzdálit“ dávané pomocí rádiové stanice?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 19 odst. (1), tabulka 5"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 227 odst. (5)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 237 odst. (2)"
+      }
+    ],
+    "odpoved": "„Vlak/záloha/posun/PMD ve stanici/v dopravně/mezi stanicemi … z koleje … směrem … posunuj.“ – stejné znění jako u návěsti Přiblížit, liší se jen uvedený směr.",
+    "plne_zneni": "SŽ Z11 čl. 19 odst. (1), tabulka 5 – Doporučená slovní znění pokynů nahrazujících ruční návěsti pro posun:\nVzdálit – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … z koleje … směrem … posunuj.“\nPřiblížit – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … z koleje … směrem … posunuj.“\nStůj – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … na koleji … stůj.“\n\nSŽ Z11 čl. 19 odst. (1): Pro předávání pokynů při provádění posunu prostřednictvím simplexních rádiových sítí je nutno dodržet následující zásady: přesná identifikace účastníka rádiového provozu prováděná slovním zněním; přesná definice směru pohybu HDV; přesně definovaná činnost vyplývající z dohodnuté technologie posunu.\n\nSŽ D1 čl. 227 odst. (5): Vzdálit – denní návěst: svislé dlouhé pohyby červeným praporkem; noční návěst: svislé dlouhé pohyby ruční svítilnou s bílým světlem; slyšitelné doplnění návěsti: podle potřeby doplněné o jeden dlouhý zvuk píšťalky • přikazuje pohyb vozidel směrem od zaměstnance, který tuto návěst dává.\n\nSŽ D1 čl. 237 odst. (2): Při dávání pokynů pro posun rádiovým zařízením se postupuje podle ustanovení předpisu Z11.",
+    "distraktory": [
+      "„Vlak/záloha/posun/PMD ve stanici/v dopravně/mezi stanicemi … na koleji … směrem … popotáhni.“ – od návěsti Přiblížit se liší jen uvedeným směrem.",
+      "„Vlak/záloha/posun/PMD ve stanici/v dopravně/mezi stanicemi … z koleje … směrem … vzdal.“ – u návěsti Přiblížit se místo toho uvede „přibliž“."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Tabulka 5 v Z11 uvádí pro Vzdálit i Přiblížit shodné znění („… posunuj.“); rozlišuje je jen uvedený směr pohybu (Vzdálit = směrem od zaměstnance dávajícího pokyn). Na rozdíl od tabulky 1 (Stůj, zastavte všemi prostředky; Souhlas k jízdě) jde o znění doporučená, nikoli závazná."
+  },
+  {
+    "n": 155,
+    "otazka": "Jak zní slovní znění návěsti „Přiblížit“ dávané pomocí rádiové stanice?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 19 odst. (1), tabulka 5"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 227 odst. (7)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 237 odst. (2)"
+      }
+    ],
+    "odpoved": "„Vlak/záloha/posun/PMD ve stanici/v dopravně/mezi stanicemi … z koleje … směrem … posunuj.“ – stejné znění jako u návěsti Vzdálit, liší se jen uvedený směr.",
+    "plne_zneni": "SŽ Z11 čl. 19 odst. (1), tabulka 5 – Doporučená slovní znění pokynů nahrazujících ruční návěsti pro posun:\nPřiblížit – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … z koleje … směrem … posunuj.“\nVzdálit – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … z koleje … směrem … posunuj.“\nPomalu – „Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … na koleji … pomalu.“\n\nSŽ D1 čl. 227 odst. (7): Přiblížit – denní návěst: vodorovné dlouhé pohyby červeným praporkem; noční návěst: vodorovné dlouhé pohyby ruční svítilnou s bílým světlem; slyšitelné doplnění návěsti: podle potřeby doplněné o dva dlouhé zvuky píšťalky • přikazuje pohyb vozidel směrem k zaměstnanci, který tuto návěst dává.\n\nSŽ Z11 čl. 19 odst. (5): Jako minimální hodnota opakovací doby potřebné pro bezpečné předání pokynu je časový interval 5 sekund. […]\n\nSŽ D1 čl. 237 odst. (2): Při dávání pokynů pro posun rádiovým zařízením se postupuje podle ustanovení předpisu Z11.",
+    "distraktory": [
+      "„Vlak / záloha / posun / PMD ve stanici / v dopravně / mezi stanicemi … na koleji … směrem … popotáhni.“ – od návěsti Vzdálit se liší jen uvedeným směrem.",
+      "„Vlak/záloha/posun/PMD ve stanici/v dopravně/mezi stanicemi … z koleje … směrem … přibliž.“ – u návěsti Vzdálit se místo toho uvede „vzdal“."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Tabulka 5 v Z11 uvádí pro Přiblížit i Vzdálit shodné znění („… posunuj.“); rozlišuje je jen uvedený směr pohybu (Přiblížit = směrem k zaměstnanci dávajícímu pokyn). Jde o znění doporučená, nikoli závazná."
+  }
+]

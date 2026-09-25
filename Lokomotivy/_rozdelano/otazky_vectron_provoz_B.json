@@ -1,0 +1,915 @@
+[
+ {
+  "n": 1101,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu nejde zapnout stejnosměrný hlavní vypínač a jde o poruchu ASG. Jak postupuješ?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.24 Porucha ASG – nejde zapnout SS HV, str. 37"
+   }
+  ],
+  "odpoved": "Spustím sběrače, vypnu a po cca 20 s zapnu jističe SR1 a SR2 na rozváděči s voltmetrem baterie, vyčkám uvolnění zvednutí sběrače a zapnu hlavní vypínač.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.24 Porucha ASG – nejde zapnout SS HV:\n1 Spusťte sběrače!\n2 Vypněte a po cca 20 sec zapněte jističe SR1 a SR2 na rozváděči s voltmetrem baterie.\n3 Vyčkejte uvolnění zvednutí sběrače.\n4 Zapněte hlavní vypínač.",
+  "distraktory": [
+   "Spustím sběrače, vypnu a po cca 20 s zapnu jistič F01 na panelu nízkého napětí, vyčkám uvolnění zvednutí sběrače a zapnu hlavní vypínač.",
+   "Vypnu stykač baterie, po 2–3 minutách baterii znovu zapnu (reset lokomotivy), zvednu sběrač a zapnu hlavní vypínač."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1102,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se zobrazila porucha FC 207 – porucha uzavření smyčky rychločinného brzdění. Co uděláš?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.25 Porucha FC 207, str. 37"
+   }
+  ],
+  "odpoved": "Zajistím loko proti pohybu, odbrzdím (HP 5,0 bar), zavedu rychlobrzdu hlavní pákou na 5 s a odbrzdím; pak rychlobrzdu pákou na obou bočních panelech a tlačítkem nouzového zastavení.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.25 Porucha FC 207 – Porucha uzavření smyčky rychločinného brzdění:\n1 Zajistěte lokomotivu proti pohybu.\n2 Odbrzděte nepřímočinnou brzdu a vyčkejte ustálení tlaku v HP 5,0 bar.\n3 Zaveďte rychločinné brzdění hlavní brzdovou pákou a vyčkejte 5 vteřin.\n4 Odbrzděte.\n5 Zaveďte rychločinné brzdění pákou na bočním panelu a po úplném odvětrání přestavte páku do polohy „0“.\n6 Postup opakujte i na druhém pomocném panelu.\n7 Stiskněte ovladač nouzového zastavení (velký červený knoflík na ovládacím pultu), vyčkejte odvětrání HP a vraťte ovladač do základní polohy.",
+  "distraktory": [
+   "Zajistím loko proti pohybu, provozně zabrzdím, ve strojovně přepnu přepínač nouzového ovládání brzdiče do „Backup“, odbrzdím a přepnu zpět do „NORMAL“; trvá-li porucha, HW test brzd.",
+   "Na obou stanovištích odbrzdím a zavedu nízkotlaké přebití, vyčkám 5 bar, pomalu úplně zabrzdím, zavedu rychlobrzdu, vrátím do úplného zabrzdění a pomalu odbrzdím."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1103,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu hlásí displej poruchu FC 239 nebo FC 240 – nepřímočinná brzda se neuvolňuje. Jak postupuješ?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.26 Porucha FC 239 a FC 240, str. 37"
+   }
+  ],
+  "odpoved": "Na obou stanovištích: odbrzdím a zavedu nízkotlaké přebití, vyčkám vyrovnání tlaku na 5 bar, POMALU úplně zabrzdím, zavedu rychlobrzdu, vrátím brzdič do úplného zabrzdění a POMALU odbrzdím.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.26 Porucha FC 239 a FC 240 – Nepřímočinná brzda se neuvolňuje:\n0 Uvedené činnosti proveďte na obou stanovištích.\n1 Odbrzděte a zaveďte nízkotlaké přebití brzdy.\n2 Vyčkejte vyrovnání tlaku v HL na 5 baru.\n3 POMALU proveďte úplné zabrzdění a vyčkejte ustálení tlaku v HP.\n4 Zaveďte rychlobrzdu.\n5 Přestavte brzdič zpět do polohy úplného zabrzdění a vyčkejte vyrovnání tlaku v HP.\n6 POMALU odbrzděte.",
+  "distraktory": [
+   "Na obou stanovištích: zajistím loko proti pohybu, odbrzdím na 5,0 bar, zavedu rychlobrzdu hlavní pákou na 5 s, odbrzdím a totéž zopakuji pákami na obou bočních panelech.",
+   "Jen na obsazeném stanovišti: provozně zabrzdím, přepnu přepínač nouzového ovládání brzdiče do „Backup“, odbrzdím, zabrzdím a odbrzdím a vrátím přepínač do „NORMAL“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1104,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se objevila porucha FC 252 – porucha záložního ovládání hlavního potrubí. Co uděláš a kde?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.27 Porucha FC 252, str. 37"
+   }
+  ],
+  "odpoved": "Provozně zabrzdím, ve strojovně přepnu přepínač nouzového ovládání brzdiče do „Backup“, odbrzdím, provozně zabrzdím a odbrzdím, přepnu zpět do „NORMAL“; trvá-li porucha, HW test brzd.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.27 Porucha FC 252 – Porucha záložního ovládání hl. potrubí (číslování kroků v dokumentu: 1, 3, 5, 8, 6):\n1 Proveďte provozní zabrzdění.\n3 Ve strojovně přepněte přepínač nouzového ovládání brzdiče do polohy „Backup“.\n5 Odbrzděte, zabrzděte provozním zabrzděním a opět odbrzděte. Vždy vyčkejte ustálení tlaku v HP a brzdových válcích.\n8 Ve strojovně přepněte přepínač nouzového ovládání brzdiče do polohy „NORMAL“.\n6 Pokud porucha nadále trvá, proveďte HW test brzd.",
+  "distraktory": [
+   "Provozně zabrzdím, na ovládacím panelu brzdy na stanovišti přepnu přepínač vyřazení BSG do „BACKUP“, ovladač brzdiče do „Jízda“ a provedu ověření ovládání průběžné brzdy a HW test brzd.",
+   "Na obou stanovištích odbrzdím a zavedu nízkotlaké přebití, vyčkám 5 bar, pomalu úplně zabrzdím, zavedu rychlobrzdu a pomalu odbrzdím; trvá-li porucha, HW test brzd."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Čísla kroků v dokumentu jsou 1, 3, 5, 8, 6 (zřejmě chyba dokumentu); pořadí úkonů převzato podle pořadí řádků v tabulce."
+ },
+ {
+  "n": 1105,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se hlásí porucha FC 261. Co to obvykle znamená a co uděláš?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.28 Porucha FC 261, str. 38"
+   }
+  ],
+  "odpoved": "Většinou porucha ep brzdy nebo NBÜ na soupravě; po odpojení soupravy potvrdím přemostění pákou brzdy do polohy „Švih“, při trvající poruše reset celé loko a znovu „Švih“.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.28 Porucha FC 261:\n0 Většinou se jedná o poruchu ep brzdy nebo NBÜ na soupravě vlaku.\n1 Po odpojení soupravy potvrďte přemostění pákou brzdy do polohy „Švih“.\n2 V případě dále trvající poruchy je nutný reset celé lokomotivy a opětovné potvrzení přemostění pákou brzdy do polohy „Švih“.",
+  "distraktory": [
+   "Většinou porucha uzavření smyčky rychločinného brzdění; zajistím loko proti pohybu, zavedu rychlobrzdu hlavní pákou na 5 s a odbrzdím, pak totéž z obou bočních panelů.",
+   "Většinou porucha ovládací páky přímé brzdy SFE; aktivuji příslušný boční ovládací panel a přestavím ovladač přímočinné brzdy postupně do všech poloh."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1106,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu nejde odbrzdit přímočinná brzda. Co zkontroluješ jako první?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.30 Přímočinná brzda nejde odbrzdit, str. 38"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 29.6 Přímočinná brzda, str. 39"
+   }
+  ],
+  "odpoved": "Polohy všech ovladačů přímočinné brzdy na stanovišti – je-li kterákoli páka v poloze úplného zabrzdění, nelze přímočinnou brzdu jinou pákou odbrzdit.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.30 Přímočinná brzda nejde odbrzdit:\n1 Zkontrolujte polohy všech ovladačů přímočinné brzdy na stanovišti.\n\nKap. 29.6 Přímočinná brzda: Pokud se přestaví ovládací páka na obsazeném stanovišti strojvedoucího do plného zabrzdění, deaktivuje se protismyková ochrana pneumatické brzdy. Je-li libovolná ovládací páka přímočinné brzdy v poloze úplného zabrzdění, nelze přímočinnou brzdu lokomotivy jinou pákou odbrzdit! Přímočinnou brzdu lze uzavřít pomocí uzavíracího kohoutu (B17.02) na panelu brzdových zařízení. Uzavření kohoutu způsobí současně odbrzdění přímočinné brzdy. Uzavírací kohout se monitoruje a uzavřený stav kohoutu se zobrazí na displeji.",
+  "distraktory": [
+   "Polohu přepínače ovládání brzd (vyřazení BSG) na ovládacím panelu brzdy – musí být v poloze „BACKUP“, jinak přímočinnou brzdu nelze odbrzdit.",
+   "Polohu uzavíracího kohoutu B15.05 (redundance rozváděče) na panelu brzdových zařízení – v uzavřeném stavu nelze přímočinnou brzdu odbrzdit."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1107,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu je porucha systému brzdičů a potřebuješ ručně přepnout na záložní provoz (vyřadit BSG). Jak postupuješ?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.6 Porucha brzdiče, str. 33–34"
+   }
+  ],
+  "odpoved": "Zabrzdím přímočinnou brzdu, brzdič nepřímočinné brzdy do úplného zabrzdění (max), přepínač ovládání brzd na ovládacím panelu brzdy do „BACKUP“, brzdič do „Jízda“; pak ověření a HW test brzd.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.6 Porucha brzdiče:\nAutomatické přepnutí v průběhu brzdění\n1 V případě poruchy systému brzdičů zablokuje ZSG automaticky normální provoz systému brzdičů. ZSG přepne systém automaticky do záložního provozu (BSG je blokován). Strojvedoucí je informován diagnostickým hlášením.\nManuální přepnutí\n2 Zabrzděte přímočinnou brzdu.\n3 Ovladač brzdiče nepřímočinné brzdy přestavte do polohy úplného zabrzdění (max).\n4 Přepněte přepínač ovládání brzd (vyřazení BSG) na ovládacím panelu brzdy do polohy „BACKUP“.\n5 Ovladač brzdiče nepřímočinné brzdy přestavte do polohy „Jízda“.\n6 Na displeji TDD se objeví hlášení o záložním provozu ovládání brzdiče hlavního potrubí.\n7 Proveďte ověření ovládání průběžné brzdy a HW test brzd.",
+  "distraktory": [
+   "Zabrzdím přímočinnou brzdu, brzdič nepřímočinné brzdy do polohy „Jízda“, ve strojovně přepnu přepínač nouzového ovládání brzdiče do „Backup“; pak ověření a HW test brzd.",
+   "Provozně zabrzdím, uzavřu kohout vlečení B09.10 do vodorovné polohy, přepínač ovládání brzd do „BACKUP“, brzdič do úplného zabrzdění (max) a provedu HW test brzd."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1108,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu výrazně stoupl tlak v hlavním potrubí nad 5,7 baru. Co to signalizuje a co uděláš?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.7 Nadměrně zvýšený tlak v hlavním potrubí, str. 34"
+   }
+  ],
+  "odpoved": "Závadu v pneumatickém systému loko; uzavřu kohout vlečení B09.10 (do vodorovné polohy), odstraním přebití brzdy odvzdušňovací pákou na rozváděči a ověřím ovládání průběžné brzdy.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.7 Nadměrně zvýšený tlak v hlavním potrubí:\nPři výrazném zvýšení tlaku v hlavním potrubí nad 5,7 barů je nutno předpokládat závadu v pneumatickém systému lokomotivy. Proveďte tyto činnosti:\n1 Uzavřete kohout vlečení (B09.10) – přestavte jej do vodorovné polohy.\n2 Odstraňte případné přebití brzdy odvzdušňovací pákou na rozváděči pneumatické brzdy.\n3 Proveďte ověření ovládání průběžné brzdy.",
+  "distraktory": [
+   "Závadu v pneumatickém systému loko; uzavřu kohout redundance rozváděče B15.05 (do vodorovné polohy), odstraním přebití odvzdušňovací pákou na rozváděči a ověřím ovládání průběžné brzdy.",
+   "Poruchu brzdiče; přepnu přepínač ovládání brzd (vyřazení BSG) do „BACKUP“, přebití brzdy odstraním zavedením nízkotlakého přebití a provedu HW test brzd."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1109,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Potřebuješ na Vectronu vyřadit podvozek z trakce. Jak to provedeš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.3 Vyřazení podvozku z trakce, str. 31–32"
+   }
+  ],
+  "odpoved": "Vypnu hlavní vypínač, spustím sběrače a na displeji TDD vyberu požadovaný podvozek „za/vypnutí DG 1“, případně DG 2 – vypne se tím celá měničová skříň.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.3 Vyřazení podvozku z trakce:\n1 Vypněte hlavní vypínač.\n2 Spusťte sběrače.\n3 Na displeji TDD stiskněte tlačítko [ikona] a vyberte požadovaný podvozek pro vypnutí „za/vypnutí DG 1“, případně DG 2 (tímto se vypne celá měničová skříň).",
+  "distraktory": [
+   "Vypnu hlavní vypínač, spustím sběrače a v panelu pomocných pohonů vypnu jistič motoru ventilátoru trakčního motoru – ASG tím odpojí celý podvozek z trakce.",
+   "Při zapnutém hlavním vypínači na displeji TDD vyberu „za/vypnutí DG 1“, případně DG 2; hlavní vypínač ani sběrače není nutné předem vypínat."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1110,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu nouzově odbrzďuješ střadačovou brzdu. Který kohout uzavřeš jako první a proč je pořadí důležité?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.4 Nouzové odbrzdění střadačové brzdy, body 1–3, str. 32"
+   }
+  ],
+  "odpoved": "Po zajištění loko klíny nejprve kohout střadačové brzdy B03.02, pak kohouty podvozků B02.03/1 a B02.03/2; při záměně se neodvětrá řízení střadačové brzdy a loko není zajištěna.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.4 Nouzové odbrzdění střadačové brzdy: Při poruše střadačové brzdy je tuto nutné ručně nouzově odbrzdit. POZOR! Pořadí následujících činností je nutno dodržet!\n1 Zajistěte lokomotivu proti pohybu pomocí klínů nebo zarážek.\n2 Uzavřete kohout střadačové brzdy B03.02 na panelu brzdových zařízení.\n3 Zajistěte odvětrání brzdových válců uzavřením kohoutů podvozků B02.03/1 a B02.03/2. Při záměně činností v bodech 2 a 3 není lokomotiva zajištěna střadačovou brzdou, neboť při uzavření kohoutů k brzdovým válcům není odvětrán prostor řízení střadačové brzdy a střadačová brzda nezabrzdí!\n4 Odbrzdění proveďte klíčem nouzového odbrzdění přímo na jednotce brzdových čelistí na nouzovém odbrzďovacím zařízení. Mechanické nouzové odbrzdění se provede úplným vytažením čepu nouzového odbrzdění.\n5 Pokud je vzdálenost od horní drážky odbrzďovacího kolíku ke spodní hraně tělesa střadačové brzdy cca 0,5 cm, je střadačová brzda nouzově odbrzděna.\n6 Nouzového odbrzdění pružinové brzdy proveďte vždy na všech nápravách.",
+  "distraktory": [
+   "Po zajištění loko klíny nejprve kohouty podvozků B02.03/1 a B02.03/2, pak kohout střadačové brzdy B03.02; při záměně zůstanou brzdové válce naplněny a brzdu nelze odbrzdit.",
+   "Po zajištění loko klíny nejprve kohout B08/2 „ETCS“ (žlutý), pak kohout střadačové brzdy B03.02; při záměně se neodvětrá hlavní potrubí a střadačová brzda nezabrzdí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1111,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu byl zjištěn lom sekundární pružiny. Jak smíš pokračovat v jízdě?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.5.1 Poškození sekundární pružiny, str. 32"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.5.2 Poškození primární pružiny, str. 32"
+   }
+  ],
+  "odpoved": "Vlastním pohonem nejvýše 30 km/h a jen do příští stanice; další přeprava lokomotivy jen odtažením.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.5.1 Poškození sekundární pružiny: V případě lomu jedné nebo obou pružin lze pokračovat v jízdě vlastním pohonem: • maximální rychlostí 30 km/h; • jen do příští stanice; • další přeprava lokomotivy jen odtažením (viz 20.2.).\n\nKap. 27.5.2 Poškození primární pružiny: V případě lomu jedné nebo obou pružin na jednom ložisku osy lze pokračovat v jízdě vlastním pohonem: • nejvyšší rychlost 10 km/h; • jen do příští stanice; • další přeprava lokomotivy jen odtažením (viz 20.2.).",
+  "distraktory": [
+   "Vlastním pohonem nejvýše 10 km/h a jen do příští stanice; další přeprava lokomotivy jen odtažením.",
+   "Vlastním pohonem nejvýše 100 km/h až do stanice určení; po ukončení jízdy musí být pružina bezpodmínečně vyměněna."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Dokument odkazuje na odtažení „viz 20.2.“, ve skutečnosti je odtažení popsáno v kap. 26.2 (zastaralý odkaz v dokumentu). U primární pružiny platí 10 km/h."
+ },
+ {
+  "n": 1112,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu je poškozen kyvadlový závěs trakčního motoru (motor se opírá o nouzový doraz). Co musíš zajistit a jak smíš dál jet?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.5.3 Poškození kyvadlového závěsu trakčního motoru, str. 32–33"
+   }
+  ],
+  "odpoved": "Vypnout jistič motoru ventilátoru příslušného TM v panelu pomocných pohonů (ASG odpojí TM) a zavřít kohout pneumatické brzdy podvozku B02.03/1 nebo /2; dál max. 30 km/h do nejbližší opravny.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.5.3 Poškození kyvadlového závěsu trakčního motoru: V případě poškození kyvadlového závěsu, nebo jeho šroubů se trakční motor opírá o nouzový doraz. Je třeba zajistit: • vypnout jistič (v panelu pomocných pohonů) motoru ventilátoru příslušného trakčního motoru – ASG odpojí trakční motor; • zavřít uzavírací kohout pneumatické brzdy příslušného podvozku (B02.03/1 nebo B02.03/2). Poté je možné pokračovat v jízdě vlastním pohonem: • maximální rychlost 30 km/h; • jen do nejbližší opravny, kde lze poškození opravit.\n\nKap. 27.5.4 Poškození tažné ojničky nápravy: (stejné úkony – jistič ventilátoru TM a kohout B02.03/1 nebo B02.03/2) Poté lze pokračovat v jízdě vlastní silou: • nejvyšší rychlost 10 km/h; • jen do příští stanice; • další přeprava lokomotivy jen odtažením.",
+  "distraktory": [
+   "Vypnout jistič motoru ventilátoru příslušného TM v panelu pomocných pohonů a zavřít kohout střadačové brzdy B03.02; dál max. 10 km/h jen do příští stanice, pak odtažení.",
+   "Na displeji TDD vyřadit příslušný podvozek („za/vypnutí DG“) a zavřít kohout B02.03/1 nebo /2; dál max. 100 km/h až do stanice určení, pak výměna závěsu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1113,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jedeš s Vectronem úsekem se zákazem rekuperace. Co nesmíš použít a jak EDB deaktivuješ?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.8 Deaktivace EDB – Zákaz rekuperace, str. 34"
+   }
+  ],
+  "odpoved": "Nesmím použít AFB (při regulaci aktivuje EDB) ani páku pro přímé zadání EDB; EDB deaktivuji tlačítkem v ovládací páce pneumatické brzdy, AFB jen po vypnutí EDB na panelu brzd ve strojovně.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.8 Deaktivace EDB – Zákaz rekuperace: V případě potřeby lze deaktivovat EDB tlačítkem v ovládací páce pneumatické brzdy. POZOR!\n1 V případě jízdy v úseku se zákazem rekuperace se nesmí použít AFB, které při regulaci rychlosti EDB aktivuje! Taktéž se nesmí použít ovládací páka pro přímé zadání EDB! AFB je možno používat jen po vypnutí EDB na panelu brzd ve strojovně.",
+  "distraktory": [
+   "Nesmím použít páku pro přímé zadání EDB; AFB použít mohu, protože při regulaci rychlosti brzdí jen pneumaticky; EDB deaktivuji spínačem dobrzďovací funkce na elektroskříni brzd.",
+   "Nesmím použít AFB ani páku pro přímé zadání EDB; EDB deaktivuji uzavřením kohoutu B15.05 na panelu brzdových zařízení, poté lze AFB používat bez omezení."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1114,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu jsi zavedl rychločinné brzdění (bez EDB) z rychlosti vyšší než 160 km/h. Jaký to má následek?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.9 Rychločinné brzdění (bez EDB) z vyšších rychlostí, str. 34"
+   }
+  ],
+  "odpoved": "Automaticky se na 10 minut omezí rychlost (v trakci) na 140 km/h.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.9 Rychločinné brzdění (bez EDB) z vyšších rychlostí:\n1 V případě rychločinného brzdění (bez EDB) z rychlosti vyšší než 160 km/h je automaticky omezena na 10 minut rychlost (v trakci) na 140 km/h.",
+  "distraktory": [
+   "Automaticky se na 10 minut zablokuje trakce a zabrzdí se střadačová brzda.",
+   "Automaticky se na 5 minut omezí rychlost (v trakci) na 100 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1115,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu je porucha radiostanice (RST). Kde provedeš její reset a jak lze vyřešit funkci dálkového zastavení (STOP adaptér)?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.10 Porucha radiostanice, str. 34"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 34 písm. G (radiostanice Mesa 26), str. 49"
+   }
+  ],
+  "odpoved": "Reset jističem F01 na panelu nízkého napětí; STOP adaptér: v sw E přemostit přepojením konektoru v pultu na stanovišti I, v sw F poruchový spínač dálkového zastavení ve skříni 3 zabezpečovačů.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.10 Porucha radiostanice:\n1 Reset RST lze provést jističem F01 na panelu nízkého napětí.\n2 V případě poruchy RST lze: • V sw „E“ přemostit STOP adaptér přepojením konektoru v pultu na stanovišti I., • V sw „F“ obsloužit poruchový spínač dálkového zastavení vlaku ve skříni 3 zabezpečovačů.\n\nKap. 34 písm. G: Na lokomotivách je instalována radiostanice Mesa 26. Funkce dálkového zastavení (STOP adaptér) je integrována přímo do radiostanice. Poruchový spínač pro vypnutí této funkcionality je ve skříni zabezpečovačů 3 a v normálním provozu musí být ve svislé poloze! Je tedy společný pro více národních nastavení.",
+  "distraktory": [
+   "Reset jističem -JC-F04 na zadní mezistěně stanoviště; STOP adaptér: v sw E přemostit poruchovým spínačem ve skříni 3 zabezpečovačů, v sw F přepojením konektoru v pultu na stanovišti II.",
+   "Reset jističi SR1 a SR2 na rozváděči s voltmetrem baterie; STOP adaptér se v obou sw verzích přemostí přepnutím přepínače ETCS (CEA) do polohy „X“ na panelu skříně zabezpečovačů."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1116,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu vypadl jeden ze dvou displejů. Co nesmíš udělat a jak pokračuješ v jízdě?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.11 Výpadek displeje, str. 34"
+   }
+  ],
+  "odpoved": "Neaktivovat zpětnou kameru (většinou shodí i druhý displej); v jízdě lze pokračovat s jedním funkčním displejem, spodní výběrové menu přepínám dvojklikem tlačítka.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.11 Výpadek displeje: Při výpadku jednoho displeje lze pokračovat v jízdě s pouze jedním funkčním displejem (spodní výběrové menu je možno přepínat dvojklikem tlačítka: [ikona]). Pozor – při výpadku displeje neaktivujte zpětnou kameru! Aktivace kamery vede většinou k pádu i druhého displeje. V případě výpadku obou displejů je nutné provést jejich restart takto:\n0 U displeje TDD někdy pomůže ještě před resetem jističem vyvolat snímek závad lokomotivy a přepnutí zpět do základní obrazovky.\n1 Vypněte příslušný jistič displeje (v pultu u pomocníka strojvedoucího v levých dveřích).\n2 Po cca 2 minutách jistič opět zapněte a vyčkejte inicializaci zařízení.\n3 Při výpadku displeje v sw „F“ je většinou nutno resetovat jističi i výpočetní jednotky pro displeje. Jističe (-JC-F05, -JC-F09, -JC-F10, -JC-F11) jsou umístěny na zadní mezistěně stanoviště.",
+  "distraktory": [
+   "Neaktivovat funkční testy na displeji (většinou shodí i druhý displej); v jízdě lze pokračovat až po resetu lokomotivy vypnutím baterie na 2–3 minuty.",
+   "Nesmím pokračovat v jízdě s jedním displejem; ihned vypnu jistič displeje v pultu u pomocníka strojvedoucího, po 2 minutách jej zapnu a do inicializace stojím."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1117,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu vznikl požár. Jaké jsou první úkony podle Pokynu 3/2023?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.13 Postup v případě požáru, body 1–6, str. 35"
+   }
+  ],
+  "odpoved": "Zachovat klid, vypnout napájení vlaku (topení), informovat řízení provozu, pokud lze zastavit na vhodném přístupném místě, zajistit vlak proti ujetí a informovat obsluhu vlaku.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.13 Postup v případě požáru: Záchrana osob má přednost před všemi ostatními úkoly! Vždy zajistěte přednostně bezpečnost cestujících, obsluhy vlaku a svoji!\n1 Zachovejte klid a rozvahu.\n2 Vypněte napájení vlaku (vlakové topení).\n3 Informujte řízení provozu.\n4 Pokud lze, zastavte na vhodném a přístupném místě.\n5 Zajistěte vlak proti ujetí.\n6 Informujte obsluhu vlaku.\n7 Vypněte hlavní vypínač.\n8 Spusťte sběrač.\n9 Deaktivujte stanoviště spínačem s klíčkem.\n10 Vypněte stykač baterie.\n11 Dveře a okna nechte pokud možno zavřená.\n12 V místech zařízení pod napětím neprovádějte pokusy o hašení.",
+  "distraktory": [
+   "Ihned zastavit, vypnout stykač baterie, spustit sběrač, vypnout hlavní vypínač, informovat obsluhu vlaku a teprve poté řízení provozu.",
+   "Zachovat klid, vypnout hlavní vypínač a spustit sběrač, otevřít dveře a okna kvůli odvětrání, informovat obsluhu vlaku a zajistit vlak proti ujetí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1118,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Při požáru na Vectronu – kde se smíš pokusit hasit a co uděláš s použitými hasicími přístroji?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.13 Postup v případě požáru, body 11–16, str. 35"
+   }
+  ],
+  "odpoved": "Hasit lze přenosnými přístroji jen při požáru na stanovišti strojvedoucího; v místech zařízení pod napětím nehasit. Použité přístroje nezavěšovat zpět, nahradit novými.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.13 Postup v případě požáru:\n11 Dveře a okna nechte pokud možno zavřená.\n12 V místech zařízení pod napětím neprovádějte pokusy o hašení.\n13 V případě požáru na stanovišti strojvedoucího se lze pokusit o hašení přenosnými hasicími přístroji.\n14 Sledujte uhašené ohnisko požáru, pokud je to bezpečné.\n15 Po uhašení požáru důkladně vyvětrejte místo požáru, aby mohly uniknout vzniklé plyny.\n16 Použité přenosné hasicí přístroje nezavěšujte zpět do držáku. Je třeba je nahradit novými přenosnými hasicími přístroji.",
+  "distraktory": [
+   "Hasit lze přenosnými přístroji i ve strojovně po vypnutí hlavního vypínače a spuštění sběrače; použité přístroje po vychladnutí zavěsit zpět do držáku.",
+   "Hasit se na lokomotivě nesmí, jen vyčkat příjezdu hasičů; dveře a okna otevřít, aby unikly plyny; nepoužité přístroje zavěsit zpět do držáku."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1119,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Při uvádění Vectronu do provozu za horkého dne se spustil poplach detektorů kouře, ale nehoří. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.14 Falešný poplach detektorů kouře, str. 35"
+   }
+  ],
+  "odpoved": "Vždy se ujistím, že skutečně nehoří; reset alarmu provedu vypnutím a opětovným zapnutím LSS -JC-F04, po vypnutí jističe vyčkám alespoň 10 sekund.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.14 Falešný poplach detektorů kouře: Při vysokých venkovních teplotách může při uvádění lokomotivy do provozu dojít k nežádoucímu poplachu detektorů kouře. Nejčastěji k tomu dochází, pokud byla lokomotiva, příp. stanoviště strojvedoucího déle vystaveno přímému slunečnímu záření. Vždy se ujistěte, že skutečně nedošlo ke vzniku požáru. Reset alarmu proveďte pomocí vypnutí a opětovného zapnutí LSS [-JC-F04]. Při vypnutí jističe vyčkejte alespoň 10 sekund.",
+  "distraktory": [
+   "Vždy se ujistím, že skutečně nehoří; reset alarmu provedu vypnutím a opětovným zapnutím jističe F01 na panelu nízkého napětí, po vypnutí vyčkám alespoň 20 sekund.",
+   "Vždy se ujistím, že skutečně nehoří; reset alarmu provedu deaktivací a opětovnou aktivací stanoviště spínačem s klíčkem, mezi tím vyčkám alespoň 10 sekund."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1120,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Potřebuješ na Vectronu vypnout (izolovat) ETCS. Kde je přepínač a co je nutné udělat navíc podle SW verze?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.15 Vypnutí ETCS, str. 35"
+   }
+  ],
+  "odpoved": "Na panelu skříně vlakových zabezpečovačů přepínač ETCS (CEA) do „X“; SW F1: vypnout/zapnout řízení stanoviště a potvrdit národní VZ; SW F23: vypnout ETCS i všechny národní VZ, pak zapnout požadovaný.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.15 Vypnutí ETCS:\n1 Na panelu skříně vlakových zabezpečovačů (1/2) přepněte přepínač ETCS (CEA) do polohy „X“ (porucha).\n2 SW – F1 – při vypnutí (izolaci) ETCS je nutno vypnout a znovu zapnout řízení stanoviště a potvrdit národní zabezpečovač.\n3 SW – F23 – při vypnutí (izolaci) ETCS je nutno vypnout ETCS a všechny národní zabezpečovače. Poté je možné zapnout a potvrdit požadovaný národní zabezpečovač. Většinou je nutno kvitovat tuto volbu (Porucha 207) zavedením rychločinného brzdění (z naplněného HP) a opětovným naplněním HP.",
+  "distraktory": [
+   "Na panelu nastavení brzd přepínač ETCS (CEA) do „X“; SW F1: vypnout ETCS i všechny národní VZ a zapnout požadovaný; SW F23: jen vypnout/zapnout řízení stanoviště a potvrdit národní VZ.",
+   "Na panelu skříně vlakových zabezpečovačů přepínač ETCS (CEA) do „X“; v obou SW verzích stačí deaktivovat stanoviště na 10 s a znovu aktivovat, národní VZ se zapne automaticky."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1121,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jaké je pořadí úkonů při vypnutí vlakového zabezpečovače PZB/LZB na Vectronu?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.16 Vypnutí, zapnutí a reset PZB/LZB – Vypnutí VZ PZB/LZB, str. 35–36"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 24 Jízda s přípřeží a na postrku, bod 4, str. 28"
+   }
+  ],
+  "odpoved": "Vypnout hlavní vypínač, spustit sběrače, směr do „0“, deaktivovat stanoviště klíčkem a na panelu vlakových zabezpečovačů vypnout jistič PZB/LZB (v SW F23 hlavní vypínač PZB/LZB).",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.16 Vypnutí, zapnutí a reset PZB/LZB – Vypnutí VZ PZB/LZB:\n1 Vypněte hlavní vypínač.\n2 Spusťte sběrače!\n3 Nastavte směr do „0“.\n4 Deaktivujte stanoviště spínačem s klíčkem.\n5 Na panelu vlakových zabezpečovačů vypněte jistič PZB/LZB, případně v SW F23 vypnout hlavní vypínač PZB/LZB.\n\nKap. 24 Jízda s přípřeží a na postrku, bod 4 – Provoz s VZ LZB/PZB a SIFA: Vypněte VZ LZB/PZB – pořadí následujících bodů musí být dodrženo: vozidlo musí stát; musí být naplněno hlavní potrubí; vypněte hlavní vypínač; spusťte sběrače (nepoužívejte polohu SOS)!; nastavte směr do „0“; deaktivujte stanoviště spínačem s klíčkem; ve strojovně vypněte jistič zařízení PZB/LZB; v případě potřeby vypněte na panelu brzdového zařízení SIFA.",
+  "distraktory": [
+   "Deaktivovat stanoviště klíčkem, vypnout hlavní vypínač, spustit sběrače, směr do „0“ a na panelu nastavení brzd přepnout přepínač PZB/LZB do polohy „X“ (porucha).",
+   "Vypnout hlavní vypínač, spustit sběrače polohou SOS, směr do „0“, na panelu vlakových zabezpečovačů vypnout jistič PZB/LZB a teprve poté deaktivovat stanoviště klíčkem."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1122,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Za jakých podmínek smíš na Vectronu zapnout (resetovat, testovat) PZB/LZB a co je nutné udělat po cca 3–4 minutách?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.16 Vypnutí, zapnutí a reset PZB/LZB – Zapnutí a Reset VZ PZB/LZB, str. 36"
+   }
+  ],
+  "odpoved": "Jen když loko není propojena hlavním potrubím se soupravou (jinak aktivovat ep brzdu, je-li jí souprava vybavena); po 3–4 min od aktivace deaktivovat a znovu aktivovat stanoviště klíčkem, pak test.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.16 – Zapnutí VZ PZB/LZB:\n1 Zapnutí VZ PZB/LZB, případně reset a test zařízení lze provádět jen s lokomotivou, která není propojená hlavním potrubím se soupravou vlaku! Pokud je lokomotiva spojena s vlakem, je nutno aktivovat systém ep brzdy, pokud je jím souprava vybavena.\n2 Zapněte jistič (sw F23 – hlavní vypínač) PZB/LZB.\n3 Aktivujte stanoviště spínačem s klíčkem (na TDD je stále zobrazována porucha PZB/LZB).\n4 Zdvihněte sběrač a zapněte hlavní vypínač.\n5 Po cca 3 - 4 minutách deaktivujte a znovu aktivujte stanoviště spínačem s klíčkem (na TDD je stále zobrazována porucha PZB/LZB).\n6 Proveďte test PZB/LZB (po ukončení testu se spustí VZ PZB/LZB do zapnutého stavu a lze zadat příslušná data).\nReset VZ PZB/LZB:\n1 Reset zařízení proveďte vypnutím a opětovným zapnutím VZ PZB / LZB. Po vypnutí vyčkejte se zapnutím alespoň 20 s.",
+  "distraktory": [
+   "Jen když je loko propojena hlavním potrubím se soupravou a HP je naplněno; po 3–4 min od aktivace vypnout a znovu zapnout hlavní vypínač, pak provést test PZB/LZB.",
+   "Jen při vypnuté baterii lokomotivy; po 3–4 min od zapnutí baterie aktivovat stanoviště klíčkem, zvednout sběrač, zapnout hlavní vypínač a provést test PZB/LZB."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1123,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron se SW E1/E2 se samovolně pohne. Kdy zasáhne ochrana proti ujetí a co musíš udělat pro nové naplnění hlavního potrubí?",
+  "obrazky": [],
+  "tema": "Obsluha a ovládání",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 31.5 Ochrana proti ujetí a zpětnému pohybu lokomotivy, str. 43"
+   }
+  ],
+  "odpoved": "Se směrem: po >10 m nebo >5 km/h proti směru; bez směru / deaktivovaná stanoviště: po >1 m – odvětrá se HP (nouzové zastavení). Pro nové naplnění HP zavést rychlobrzdu a odbrzdit.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 31.5 Ochrana proti ujetí a zpětnému pohybu lokomotivy (Změny v SW E1 + E2):\n31.5.1 Při nastaveném směru jízdy: Pohybuje-li se lokomotiva déle než 10 metrů nebo rychleji než 5 km/h proti nastavenému směru jízdy, dojde k nouzovému zastavení (odvětrání hlavního potrubí).\n31.5.2 Směr jízdy není nastaven nebo jsou stanoviště deaktivována: Po ujetí více než 1 metru dojde k nouzovému zastavení (odvětrání hlavního potrubí). Pro nové naplnění potrubí je nutno zavést rychlobrzdu a odbrzdit.",
+  "distraktory": [
+   "Se směrem: po >1 m proti směru; bez směru / deaktivovaná stanoviště: po >10 m nebo >5 km/h – odvětrá se HP. Pro nové naplnění HP stačí deaktivovat a znovu aktivovat stanoviště.",
+   "Se směrem: po >10 m nebo >5 km/h proti směru; bez směru: po >1 m – zabrzdí střadačová brzda. Pro odbrzdění stisknout tlačítko „Odbrzdění střadačové brzdy“ na mezistěně."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Kapitola 31 je nadepsána „Změny v SW E1 + E2“; dokument neuvádí, zda totéž platí i pro SW F."
+ },
+ {
+  "n": 1124,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu vypínáš VZ MIREL přepínačem do polohy „X“. Co se stane a s jakým omezením smíš pokračovat?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.17 Vypnutí VZ MIREL, str. 36"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.18 Vypnutí SIFA, str. 36"
+   }
+  ],
+  "odpoved": "Automaticky se aktivuje SIFA; s ní lze pokračovat do konečné stanice max. 100 km/h. Pro jízdu zcela bez zabezpečovačů nutno vypnout i SIFA (panel nastavení brzd, „X“), příp. uzavřít kohout B 08/1.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.17 Vypnutí VZ MIREL: Na panelu vlakových zabezpečovačů přepněte přepínač VZ MIREL do polohy „X“ (porucha). POZOR!\n1 Po vypnutí VZ MIREL dojde k automatické aktivaci zařízení SIFA! S tímto zařízením lze pokračovat v jízdě vlaku do konečné stanice maximální rychlostí 100 km/h! Pokud bude požadována jízda zcela bez zabezpečovačů, je nutno ještě vypnout zařízení SIFA. V případě potřeby lze uzavřít na pneumatickém panelu kohout B 08/1.\n\nKap. 27.18 Vypnutí SIFA:\n1 Na panelu nastavení brzd přepněte přepínač SIFA do polohy „X“ (porucha).\n2 V případě potřeby lze uzavřít na pneumatickém panelu kohout B 08/1.",
+  "distraktory": [
+   "Automaticky se aktivuje PZB/LZB; s ním lze pokračovat do konečné stanice max. 100 km/h. Pro jízdu zcela bez zabezpečovačů nutno vypnout i jistič PZB/LZB a uzavřít kohout B08/2.",
+   "Automaticky se aktivuje SIFA; s ní lze pokračovat jen do nejbližší stanice max. 30 km/h. Pro jízdu zcela bez zabezpečovačů nutno vypnout i SIFA na panelu vlakových zabezpečovačů."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1125,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu zaúčinkovala kontrola celistvosti sběrače (ADD) a trakce je trvale zablokovaná. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.20 Porucha sběrače, str. 36"
+   }
+  ],
+  "odpoved": "Řídím se textem nápovědy na displeji a vadný sběrač deaktivuji voličem sběračů ve strojovně – nastavím trvalé používání nepoškozeného sběrače; dodržím národní předpisy.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.20 Porucha sběrače: Zaúčinkování kontroly celistvosti sběrače ADD může způsobit trvalé zablokování trakce. V tomto případě je nutno:\n1 Řiďte se textem nápovědy.\n2 Deaktivujte vadný sběrač voličem sběračů ve strojovně (voličem nastavte trvalé používání nepoškozeného sběrače). Dodržte postupy stanovené národními předpisy!",
+  "distraktory": [
+   "Řídím se textem nápovědy a vadný sběrač deaktivuji ovladačem sběračů na řídicím pultu polohou „SOS“; poté zvednu nepoškozený sběrač a zapnu hlavní vypínač.",
+   "Vypnu a po 20 s zapnu jističe SR1 a SR2 na rozváděči s voltmetrem baterie, vyčkám uvolnění zvednutí sběrače a zvednu nepoškozený sběrač voličem v poloze „AUTO“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1126,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu v režimu ETCS „ON“ se vzájemně zaměnilo zobrazení displejů CCD a TDD. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.21 Záměna displejů CCD/TDD v režimu ETCS „ON“, str. 36"
+   }
+  ],
+  "odpoved": "Deaktivuji stanoviště strojvedoucího, vyčkám minimálně 10 vteřin a stanoviště znovu aktivuji.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.21 Záměna displejů CCD/TDD v režimu ETCS „ON“:\n1 Deaktivujte stanoviště strojvedoucího, vyčkejte minimálně 10 vteřin a následně stanoviště aktivujte.",
+  "distraktory": [
+   "Vypnu jistič displeje v pultu u pomocníka strojvedoucího v levých dveřích, po cca 2 minutách jej zapnu a vyčkám inicializaci.",
+   "Resetuji výpočetní jednotky displejů jističi -JC-F05, -JC-F09, -JC-F10, -JC-F11 na zadní mezistěně stanoviště."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1127,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw „F“ je déle než 5 vteřin fialově (magenta) orámován ukazatel rychlosti. Co to znamená a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.22 Porucha rychloměru – záznamu dat, str. 37"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 34 písm. A b. Poruchy displejů, str. 47"
+   }
+  ],
+  "odpoved": "Signalizuje poruchu rychloměru/záznamu dat – údaj není spolehlivý; provedu reset výpočetních jednotek displejů, příp. reset lokomotivy; při neúspěchu je loko neschopná (národní předpisy).",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.22 Porucha rychloměru – záznamu dat:\n1 Svítí kontrolka poruchy záznamového zařízení na stanovišti. Na lokomotivách s sw „F“ je fialově orámován ukazatel rychlosti, případně celý displej na dobu delší než 5 vteřin.\n2 Proveď reset výpočetních jednotek pro displeje (sw „F“), případně reset lokomotivy.\n3 V případě neúspěchu je lokomotiva neschopná. Postupujte podle národních předpisů!\n4 Pro zjištění stavu zaplnění paměti stiskněte na displeji CCD „Data“ → „Data Rec“.\n\nKap. 34 A b. Poruchy displejů: Na displejích nebo softwarových tlačítkách může dojít k zobrazení jednoho nebo více rámečků v barvě magenta. Kromě toho je barva používána v ukazateli rychloměru pro potlačení zobrazení nerelevantní rychlosti. Krátkodobé zobrazení rámečků (< 5 s) může být ignorováno. V případě, že je ale v barvě magenta zobrazen permanentní rámeček nebo je potlačeno zobrazení rychlosti, nepovažují se orámované informace za spolehlivé. Strojvedoucí musí postupovat podle národních předpisů – např. takto je signalizována porucha rychloměru.",
+  "distraktory": [
+   "Signalizuje ztrátu komunikace displeje s ETCS – údaj rychlosti platí; deaktivuji stanoviště na 10 s a znovu aktivuji; při neúspěchu pokračuji podle nápovědy na displeji.",
+   "Signalizuje přechodový stav při startu systému – vyčkám ustálení zobrazení; krátkodobé i trvalé orámování lze ignorovat, lokomotiva zůstává schopná provozu."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1128,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu je hlášena porucha řídicího počítače ZSG 1. Jak postupuješ a kdy smíš přepnout na ZSG 2?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 27.23 Porucha ZSG 1, str. 37"
+   }
+  ],
+  "odpoved": "Postupuji podle návodu na displeji; přepnutí na záložní systém ZSG 2 musí být provedeno při vypnuté baterii.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 27.23 Porucha ZSG 1:\n1 Postupujte podle návodu na displeji!\n2 Přepnutí na záložní systém ZSG 2 musí být provedeno při vypnuté baterii!",
+  "distraktory": [
+   "Postupuji podle návodu na displeji; přepnutí na záložní systém ZSG 2 se provede za jízdy na displeji TDD bez nutnosti vypínat baterii.",
+   "Přepnu ihned na ZSG 2 při zapnuté baterii a deaktivovaném stanovišti; poté je nutný reset výpočetních jednotek displejů jističi na mezistěně."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1129,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jsi na lokomotivě 193 ZSSK se sběrači varianty A10 (193.026, 027, 029, 032). Které sběrače použiješ na tratích ČD?",
+  "obrazky": [],
+  "tema": "Obsluha a ovládání",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 33 Lokomotivy 193 ZSSK, str. 44–46"
+   }
+  ],
+  "odpoved": "Na stejnosměrné soustavě ČD pouze sběrač 2, na střídavé soustavě ČD sběrače 1 + 4.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 33 Lokomotivy 193 ZSSK: Některé lokomotivy 193 ZSSK jsou vybaveny sběrači pro nasazení na NL a IT. Pozor při používání sběračů na točnách a pod trakčním dělením.\nSběrače varianta A10 – 193.026, 027, 029, 032 ZSSK: [obr. Uspořádání sběračů: A kabina strojvedoucího 1, B kabina strojvedoucího 2; 1 sběrač SA AC1 b (DE, AT, CZ, SK, HU, RO, BG, TR, DK, NL, SE, NO); 2 sběrač SA DC2 bC (CZ, SK, PL, BE); 3 sběrač SA DC3 aC (NL, BE); 4 sběrač SA AC1 b] ČD SS – pouze sběrač 2. ČD ST – sběrače 1 + 4.\nSběrače varianta A35 – 193.025 ZSSK: [1 SA AC3 b (BE, HR, RS, TR); 2 SA DC1 bC (IT, SI); 3 SA DC2 bC (CZ, SK, PL, BE); 4 SA AC1 b] ČD SS – pouze sběrač 3. ČD ST – pouze sběrač 4. [obr. str. 46: Panel nízkého napětí (NSG) – 5 Volič sběrače proudu [-FB-S01] bez funkce]",
+  "distraktory": [
+   "Na stejnosměrné soustavě ČD pouze sběrač 3, na střídavé soustavě ČD pouze sběrač 4.",
+   "Na stejnosměrné soustavě ČD sběrače 1 + 4, na střídavé soustavě ČD pouze sběrač 2."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Číslování sběračů 1–4 podle obrázku „Uspořádání sběračů“ (1, 2 u kabiny A; 3, 4 u kabiny B). U varianty A35 (193.025) platí SS jen sběrač 3, ST jen sběrač 4 a podle obr. na str. 46 je volič sběrače -FB-S01 na panelu NSG bez funkce."
+ },
+ {
+  "n": 1130,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Přistavuješ nečinný a neobsazený Vectron k přepravě na vlaku osobní dopravy. V jaké poloze musí být volič dálkového řízení GC-S03 a kdy vypneš baterii?",
+  "obrazky": [],
+  "tema": "Přeprava a odtah",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 26.3 Přeprava nečinné a neobsazené lokomotivy na vlaku osobní dopravy, body 1–11, str. 30–31"
+   }
+  ],
+  "odpoved": "Volič GC-S03 v poloze „0“; lokomotivní baterie musí být vypnuta ještě před propojením hlavního potrubí; kohout ETCS uzavřen, brzdí v režimu „P“ (95 t, u sw F 80 t).",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 26.3 Přeprava nečinné a neobsazené lokomotivy na vlaku osobní dopravy: Platí příloha č. 6 předpisu ČD D 2. Dopravovaná lokomotiva:\n1 Funkční protismykové zařízení (z tohoto hlediska je nutné brát zřetel na momentální kapacitu a stav baterie).\n2 Uzavřen kohout ETCS, je-li hnací vozidlo tímto systémem vybaveno.\n3 Musí být po přidání lokomotivy na vlak vykonána na této lokomotivě JZB.\n4 Musí mít plně funkční a vyzkoušenou samočinnou tlakovou brzdu, která musí být vždy zapnuta a zapojena do průběžné brzdy vlaku.\n5 Musí mít na všech nápravách funkční pružinovou střadačovou zajišťovací brzdu.\n6 Volič provozních režimů dálkového řízení GC-S03 musí být v poloze „0“.\n7 Musí mít před propojením hlavního potrubí vypnutou lokomotivní baterii.\n8 Musí mít všechny kohouty na pneumatickém panelu v základních polohách.\n9 Je-li řazena na konci vlaku, na zadním stanovišti ve směru jízdy musí být s ohledem na kapacitu baterie přepínačem „Přemostěný provoz návěstních světel“ aktivována návěst „Konec vlaku“ nebo pomocí koncovek z inventáře lokomotivy navěštěn „Konec vlaku“.\n10 Musí mít se soupravou vlaku propojeno hlavní a pokud možno i napájecí potrubí.\n11 Je brzděna v režimu „P“ a její brzdící váha je v sw verzi „C“, „D“ a „E“ 95 t, ve verzi „F“ 80 t.",
+  "distraktory": [
+   "Volič GC-S03 v poloze ÖBB-WTB; lokomotivní baterie se vypne až po propojení hlavního potrubí a zkoušce brzdy; kohout ETCS otevřen, brzdí v režimu „R“ (95 t).",
+   "Volič GC-S03 v poloze „0“; baterie zůstává zapnutá kvůli protismykovému zařízení a návěsti Konec vlaku; kohout ETCS uzavřen, brzdí v režimu „G“ (80 t)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1131,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Připravuješ Vectrony pro vícenásobnou trakci (WTB). Co nastavíš na řízených lokomotivách?",
+  "obrazky": [],
+  "tema": "Obsluha a ovládání",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 25.1 Uvedení do provozu pro vícenásobnou trakci, body 12–16, str. 28"
+   }
+  ],
+  "odpoved": "Vypnout VZ MIREL poruchovým spínačem, volič provozního režimu vlakové sběrnice na panelu nízkého napětí do ÖBB-WTB, volič sběračů v „AUTO“, režim brzdění G-P-R a volič intenzity návěstních světel.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 25.1 Uvedení do provozu pro vícenásobnou trakci – Na řízených lokomotivách:\n12 Vypněte VZ MIREL poruchovým spínačem.\n13 Volič provozního režimu vlakové sběrnice na panelu nízkého napětí nastavte do požadované polohy ÖBB-WTB.\n14 Zkontrolujte, zda se volič sběračů nachází v poloze „AUTO“ (pokud není nutno zvolit jiný sběrač).\n15 Nastavte potřebný režim brzdění G-P-R.\n16 Zkontrolujte, zda se volič intenzity návěstních světel na pultu strojvedoucího nachází v příslušné poloze.\nNa řídicí lokomotivě:\n17 Volič provozního režimu vlakové sběrnice na panelu nízkého napětí nastavte do požadované polohy ÖBB-WTB.\n18 Zkontrolujte, zda se volič sběračů nachází v poloze „AUTO“ (pokud není nutno zvolit jiný sběrač).\n19 Nastavte potřebný režim brzdění G-P-R.",
+  "distraktory": [
+   "Vypnout VZ MIREL přepnutím do režimu „ZAV“, volič provozního režimu vlakové sběrnice na panelu nízkého napětí do ÖBB-WTB, volič sběračů v „AUTO“ a zhasnout návěstní světla.",
+   "VZ MIREL ponechat zapnutý, volič provozního režimu vlakové sběrnice na panelu brzdových zařízení do polohy „0“, volič sběračů na nepoškozený sběrač, režim brzdění G-P-R."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1132,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Ve vícenásobné trakci Vectronů se zobrazí hlášení „Porucha E-brzdy lokomotiva x“. Co to pro tebe znamená?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 25.2 Provozní pokyny pro vícenásobnou trakci, bod 6, str. 29"
+   }
+  ],
+  "odpoved": "Pokud byla ED brzda této lokomotivy započítána do skutečných brzdících procent vlaku, je nutno provést nový výpočet brzdících procent.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 25.2 Provozní pokyny pro vícenásobnou trakci:\n4 Omezení trakčního proudu – Omezení celkového trakčního proudu nelze ve vícenásobné trakci nastavit zadáním hodnoty na displeji na řídicí lokomotivě.\n5 Test pískovacího zařízení – Zkouška pískovacího zařízení v klidovém stavu vozidla je možná pouze s aktivovaným funkčním testem na displeji řídicí lokomotivy.\n6 Hlášení „Porucha E-brzdy lokomotiva x“. Pokud byla ED brzda lokomotivy s výpadkem EDB započítána do skutečných brzdících procent vlaku, je nutno provést nový výpočet.\n7 Celková tažná síla nebo celková brzdná síla se zobrazují v sestavě vlaku v provozním režimu WTB digitálně na TDD.\n8 Lokomotiva v síti 25kV AC napájí vlak vždy napětím 1500 V. Lokomotiva nesmí napájet vozy bez vícesystémového topení.",
+  "distraktory": [
+   "Je nutno na řídicí lokomotivě zadat na displeji omezení celkového trakčního proudu a pokračovat v jízdě max. 100 km/h do konečné stanice.",
+   "Je nutno lokomotivu x vyřadit z trakce na displeji TDD („za/vypnutí DG 1 a DG 2“) a dále ji ve vlaku dopravovat jen jako vlečenou."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1133,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu není dostatek vzduchu pro zdvižení sběrače a selhal tlakový spínač pomocného kompresoru. Co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 29.12 Pomocný kompresor, str. 40"
+   }
+  ],
+  "odpoved": "Aktivuji nouzový provoz – držím stisknuté tlačítko manuálního režimu pomocného kompresoru po dobu potřebnou k vytvoření tlaku; k odblokování sběrače dojde cca za 3 minuty.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 29.12 Pomocný kompresor: Pokud není pro zdvižení sběrače k dispozici dostatečný tlak v příslušném vzduchojemu a selhal tlakový spínač pomocného kompresoru, lze aktivovat jeho nouzový provoz. Stiskněte tlačítko pro manuální režim pomocného vzduchového kompresoru na dobu potřebnou k vytvoření tlaku pro zdvižení sběrače. K odblokování sběrače dojde cca za 3 minuty.",
+  "distraktory": [
+   "Aktivuji nouzový provoz – vypnu a po 20 s zapnu jističe SR1 a SR2 na rozváděči s voltmetrem baterie; k odblokování sběrače dojde cca za 3 minuty.",
+   "Přepnu ve strojovně přepínač ovládání baterie do polohy „I“ a držím ovladač sběrače v horní poloze; k odblokování sběrače dojde cca za 10 minut."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1134,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Při uvádění Vectronu do provozu je napětí baterie pod 22 V. Co uděláš a na co si dát pozor?",
+  "obrazky": [],
+  "tema": "Převzetí a odstavení",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 29.13 Ochrana vybití baterie, str. 40"
+   }
+  ],
+  "odpoved": "Ve strojovně přepnu přepínač ovládání baterie do polohy „I“ a pokusím se loko zprovoznit; v poloze „I“ hrozí při nezprovoznění totální vybití – po dobití vrátit při odstavené loko do „automaticky“.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 29.13 Ochrana vybití baterie: Napětí baterie je menší než cca 22 V. Pokud klesne napětí baterie při uvádění do provozu pod 22 V, přepněte ve strojovně přepínač ovládání baterie do polohy „I“ a pokuste se lokomotivu zprovoznit. Pokud je přepínač ovládání baterie v poloze „I“, hrozí v případě nezprovoznění lokomotivy totální vybití baterie! Po dobití baterie je nutno přepínač ovládání baterie přepnout zpět při odstavené lokomotivě do polohy „automaticky“.\nPokles napětí baterie: Pokud klesne napětí baterie během jízdy pod hodnotu 21,5 V, je strojvedoucí informován hlášením na displeji. K automatickému odstavení lokomotivy nedojde. Pokud klesne napětí baterie při stání lokomotivy pod tuto nastavenou hodnotu, je strojvedoucí prostřednictvím hlášení na displeji o nadcházejícím odstavení lokomotivy informován. Strojvedoucí může dobu do začátku odstavení lokomotivy o 15 minut odložit. […]\nPřemostění ochrany proti absolutnímu vybití baterie: Ochranu proti podpětí i ochranu proti absolutnímu vybití baterie lze přemostit pomocí přepínače ovládání baterie ve strojovně. POZOR! Hrozí poškození baterie v důsledku úplného vybití!",
+  "distraktory": [
+   "Ve strojovně přepnu přepínač ovládání baterie do polohy „0“ a po 2–3 minutách zpět do „automaticky“ (reset lokomotivy); poté se pokusím loko zprovoznit.",
+   "Ve strojovně vypnu a zapnu jistič -JC-F04 (po vypnutí vyčkat min. 10 s) a pokusím se loko zprovoznit; přepínač ovládání baterie musí zůstat v poloze „automaticky“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1135,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Za jízdy Vectronu se zobrazí hlášení, že byla aktivována ochrana proti absolutnímu vybití baterie a bude následovat automatické odstavení. Co to znamená?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 29.13 Ochrana vybití baterie – Ochrana proti absolutnímu vybití baterie, str. 40–41"
+   }
+  ],
+  "odpoved": "Napětí baterie kleslo pod 20,5 V; loko bude odstavena za 1 minutu po zobrazení hlášení – za jízdy lze zadáním na displeji odstavení oddálit o 5 minut, při stání oddálit nelze.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 29.13 – Ochrana proti absolutnímu vybití baterie: Ochrana chrání baterii před vybitím odpojením spotřebičů v bateriovém obvodu A. Pokud klesne napětí baterie pod 20,5 V a lokomotiva stojí, dojde s časovým prodlením k automatickému vypnutí hlavního stykače baterie. Na displeji se vypíše hlášení, že byla aktivována ochrana proti absolutnímu vybití a že bude neprodleně následovat automatické odstavení lokomotivy. Dojde-li k aktivaci ochrany proti absolutnímu vybití během jízdy, obdrží strojvedoucí hlášení na displeji, v němž je oznámeno automatické odstavení. Lokomotiva bude za 1 minutu po zobrazení hlášení na displeji odstavena. Strojvedoucí má během jízdy možnost prostřednictvím zadání na displeji oddálit dobu odstavení o 5 minut. Pokud lokomotiva stojí, nelze čas odstavení oddálit a dojde k automatickému odstavení lokomotivy.\nRežim Stand-by: Pokud není baterie dobíjena a vozidlo stojí, dojde po 45 minutách k automatickému odstavení lokomotivy. Strojvedoucí má krátce před aktivací režimu Stand-by možnost odstavení odložit. […] Pokud neprovede žádné zadání, dojde k procesu odstavení lokomotivy po uplynutí doby 5 minut.\nPosunutí odstavení lokomotivy: Po zobrazení dialogu stojí kurzor v poli „Odzbrojit“. Pomocí trojúhelníkového softwarového tlačítka \"dolů\" na pravé straně displeje může strojvedoucí zvolit pole \"Odložit odzbrojení\". Tlačítkem \"E\" potvrdí volbu.",
+  "distraktory": [
+   "Napětí baterie kleslo pod 21,5 V; loko bude odstavena za 5 minut po zobrazení hlášení – za jízdy lze zadáním na displeji odstavení oddálit o 15 minut, při stání oddálit nelze.",
+   "Napětí baterie kleslo pod 22 V; k automatickému odstavení za jízdy nedojde, po zastavení lze odstavení opakovaně odkládat po 15 minutách, dokud se baterie nedobije."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1136,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu klesá tlak v hlavním vzduchojemu. Při jakých hodnotách se zablokuje trakce a kdy se spustí nucené brzdění?",
+  "obrazky": [],
+  "tema": "Brzdy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 29.10 Pokles tlaku v hlavním vzduchojemu, str. 40"
+   }
+  ],
+  "odpoved": "Pod 6,0 baru se zablokuje trakce (uvolní se nad 6,5 baru); pod 5,5 baru se spustí nucené brzdění (zruší se nad 6,0 baru); u stojící lokomotivy k nucenému brzdění nedojde.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 29.10 Pokles tlaku v hlavním vzduchojemu: Při poklesu tlaku v hlavním vzduchojemu pod 6,0 barů se zablokuje trakce, která se při překročení hodnoty tlaku nad 6,5 baru opět zruší. Při poklesu tlaku v hlavním vzduchojemu pod 5,5 baru se spustí nucené brzdění. Při nárůstu tlaku nad 6,0 barů se nucené brzdění zase zruší. Pokud lokomotiva stojí, ke spuštění nuceného brzdění nedojde.",
+  "distraktory": [
+   "Pod 5,5 baru se zablokuje trakce (uvolní se nad 6,0 baru); pod 5,0 baru se spustí nucené brzdění (zruší se nad 5,5 baru); u stojící lokomotivy k nucenému brzdění nedojde.",
+   "Pod 6,0 baru se spustí nucené brzdění (zruší se nad 6,5 baru); pod 5,5 baru se zablokuje trakce (uvolní se nad 6,0 baru); u stojící lokomotivy k blokování trakce nedojde."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1137,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jedeš s Vectronem a soupravou Railjet v režimu ovládání dveří ÖBB. Co znamená žlutě a co modře podbarvený symbol „T“ na displeji CCD?",
+  "obrazky": [],
+  "tema": "Obsluha a ovládání",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 30 Provoz se soupravou Railjet – Ovládání brzd / dveří, str. 42"
+   }
+  ],
+  "odpoved": "Žlutý = neuzavřená zelená linka (smyčka) dveří; modrý = uzavřené dveře soupravy a správné návěstní znaky na čele i konci soupravy. Žlutočerně blikající = blokování dveří čtyřhranem.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 30 Provoz se soupravou Railjet: V režimu ovládání dveří ÖBB je kontrolována celá zelená linka (smyčka) soupravy. Pomocí příslušného tlačítka uvolnění dojde k odblokování pouze jedné strany soupravy. Na provozní obrazovce CCD je při tomto režimu ovládání dveří v klidu soupravy zobrazován barevný symbol „T“: • modře podbarvený symbol značí uzavřené dveře soupravy a správné návěstní znaky (pro vlak) na čele i na konci soupravy, • žlutě podbarvený symbol značí neuzavřenou zelenou linku (smyčku), • žlutočerně blikající symbol značí blokování dveří soupravy pomocí čtyřhranu při současně otevřených nástupních dveří v místě obsloužení čtyřhranu; pokud do stanovené doby nedojde k uzavření těchto nástupních dveří, je na lokomotivě generována červená (A) porucha dveří – pro její odstranění je nutno nástupní dveře místně uzavřít. Tlačítko „Zrušení uvolnění dveří“ je nutné obsluhovat vždy. Modré (C) hlášení „659 RM_Chyba zavření_dveří“ se chybně zobrazuje při uvolnění dveří. Toto hlášení lze ignorovat.",
+  "distraktory": [
+   "Žlutý = uzavřené dveře soupravy a správné návěstní znaky; modrý = neuzavřená zelená linka (smyčka) dveří. Žlutočerně blikající = probíhá test homogenity.",
+   "Žlutý = probíhá proces zavírání dveří; modrý = dveře uvolněny/otevřeny. Žlutočerně blikající = chyba ovládání dveří generovaná červenou (A) poruchou."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1138,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Zapnul jsi baterii Vectronu se sw „F1“. Kdy nejdříve smíš aktivovat stanoviště klíčkem řízení a jak dlouho čekat při resetu lokomotivy?",
+  "obrazky": [],
+  "tema": "Převzetí a odstavení",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 34 písm. Q a R, str. 51"
+   },
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 35 písm. D, str. 54"
+   }
+  ],
+  "odpoved": "Stanoviště aktivovat nejdříve 3 minuty po zapnutí lokomotivní baterie; při resetu po vypnutí baterie vyčkat s novým zapnutím minimálně 2, lépe 3 minuty.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 34 Lokomotivy 193 se sw „F1“:\nQ. Aktivace stanoviště klíčkem řízení může být provedena nejdříve 3 minuty po zapnutí lokomotivní baterie!\nR. Reset lokomotivy – po vypnutí baterie vyčkejte s novým zapnutím minimálně 2, lépe 3 minuty!\n\nKap. 35 Lokomotivy se sw „F23“, D. Reset lokomotivy – po vypnutí baterie vyčkejte s novým zapnutím minimálně 2, lépe 3 minuty!",
+  "distraktory": [
+   "Stanoviště aktivovat nejdříve 10 vteřin po zapnutí lokomotivní baterie; při resetu po vypnutí baterie vyčkat s novým zapnutím minimálně 20 vteřin.",
+   "Stanoviště lze aktivovat ihned po zapnutí baterie; při resetu po vypnutí baterie vyčkat s novým zapnutím minimálně 10 minut."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1139,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Po restartu Vectronu se sw „F1“ se zobrazí poruchová hlášení 396 „DG1 vyřazeno manuálně“ / 406 „DG2 vyřazeno manuálně“. Co to znamená a co uděláš?",
+  "obrazky": [],
+  "tema": "Poruchy",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 34 písm. S e., str. 52"
+   }
+  ],
+  "odpoved": "Hlášení vzniká zpožděným rozběhem sběrnice MVB a znamená vyřazené podvozky; dotčený podvozek 1 a/nebo 2 musím zařadit manuálně na displeji.",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 34 písm. S Upozornění na výskyt nových poruch (nový SW – nové chyby):\ne. Poruchové hlášení 396/406 „DG1/DG2 manuálně vyřazeno“. Po restartu lokomotivy mohou být poruchová hlášení 396 „DG1 vyřazeno manuálně“ a 406 „DG2 vyřazeno manuálně“ hlášena z důvodu zpožděného rozběhu sběrnice MVB. Poruchová hlášení poukazují na to, že jsou podvozky [vyřazeny]. Dotčený podvozek 1 a/nebo podvozek 2 musí být zařazen manuálně na displeji.\n\nDalší hlášení tamtéž: b. 3147 „Defekt – ETCS GSM-R modem 1 nebo 2“ – při výskytu chyby se musí systém ETCS restartovat. c. 3281 „Vadný Mirel SIFA“ a 3132 „Komunikační chyba EVC“ – proveďte nový restart vozidla. d. 3116 „Vadný datový rekordér“ – musí se provést odstavení a opětovné uvedení vozidla do provozu.",
+  "distraktory": [
+   "Hlášení znamená poruchu měničové skříně podvozku; podvozek zůstane vyřazen a v jízdě pokračuji s jedním podvozkem max. 100 km/h do stanice určení.",
+   "Hlášení vzniká chybou ETCS GSM-R modemu; musí se restartovat systém ETCS a po restartu se podvozky zařadí do trakce automaticky."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Věta v dokumentu „Poruchová hlášení poukazují na to, že jsou podvozky.“ je neúplná (chybí slovo, patrně „vyřazeny“)."
+ },
+ {
+  "n": 1140,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw „F23“ potřebuješ přejít na provoz s vypnutým ETCS a zapnutým národním zabezpečovačem. Jaký postup musíš přesně dodržet?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 3/2023 Vectron",
+  "zdroje": [
+   {
+    "predpis": "Pokyn 3/2023 Vectron",
+    "clanek": "kap. 35 písm. B d., str. 53"
+   }
+  ],
+  "odpoved": "Vypnout HV, stáhnout sběrač, deaktivovat stanoviště, ve strojovně vypnout poruchovým spínačem ETCS, LZB/PZB – Haupt, SHP a VZ MIREL; po chvíli zapnout požadovaný národní VZ (MIREL: STB → test D1).",
+  "plne_zneni": "Pokyn 3/2023 Vectron, kap. 35 písm. B d. Přechod do provozu lokomotivy s vypnutým ETCS a zapnutým národním zabezpečovačem (postup je nutno přesně dodržet):\ni. Vypněte hlavní vypínač,\nii. Stáhněte sběrač,\niii. Deaktivujte stanoviště pomocí klíčku řízení,\niv. Ve strojovně vypněte poruchovým spínačem: • ETCS, • LZB/PZB – Haupt, • SHP (má být vypnuto), • VZ MIREL.\nv. Po chvíli zapněte požadovaný národní zabezpečovač! Jen tímto postupem přejde MIREL ze stavu STB do testu D1!\n\ne. Nastavení dat VZ MIREL: i. Po ukončení testu MIREL přejde tento do stavu STB. Po ukončení testu (do 5 minut) lze po znovuspuštění testu zadat druh provozu a maximální rychlost (MIREL se aktivuje). Systém uvolní zadání pouze na cca 10 vteřin a poté se přepne zpět do stavu STB! Když požadované nastavení nestihnete, lze zadání opět na 10 vteřin vyvolat novým spuštěním testu. ii. Po uplynutí 5 minut od posledního vyvolání testu již nejdou data nastavit a spustí se opět test D1 (je zaveden cca po 10 vteřinách vyvolání testu).",
+  "distraktory": [
+   "Vypnout HV, stáhnout sběrač, deaktivovat stanoviště, ve strojovně vypnout poruchovým spínačem jen ETCS; národní zabezpečovače ponechat zapnuté, MIREL přejde ze STB do testu D1 sám.",
+   "Vypnout HV, deaktivovat stanoviště, ve strojovně vypnout poruchovým spínačem ETCS a VZ MIREL, poté zapnout požadovaný národní VZ a teprve pak stáhnout sběrač a znovu jej zvednout."
+  ],
+  "jistota": "vysoká"
+ }
+]

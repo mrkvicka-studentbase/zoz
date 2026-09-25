@@ -1,0 +1,886 @@
+                České dráhy
+
+
+
+SŽDC (ČD)
+V 65 / 1
+
+
+
+
+                 Předpis
+ pro provozování diagnostiky závad jedoucích
+                   vozidel
+                     České dráhy
+
+
+
+SŽDC (ČD)
+V 65 / 1
+
+
+
+                       Předpis
+ pro provozování diagnostiky závad jedoucích
+                   vozidel
+
+                        ve znění:
+
+     PPD č. 4/2017 (učinnost od 15. 3. 2017)
+
+
+
+                    Schváleno rozhodnutím
+
+            generálního ředitele Českých drah a.s
+
+                       dne 14.2.2005
+
+
+                     č.j. 58 996/2004-O14
+
+
+                    Účinnost od 1.7.2005
+
+
+
+                               2
+                                                                                V65/1 - Účinnost od 1.7.2005
+
+
+                                                OBSAH
+
+
+
+OBSAH...........................................................................................................1
+ZÁZNAM O ZMĚNÁCH ...................................................................................2
+ROZSAH ZNALOSTÍ.......................................................................................3
+SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK ................................................6
+ČÁST PRVNÍ
+ZÁKLADNÍ USTANOVENÍ ..............................................................................7
+  Kapitola I Úvodní ustanovení ...................................................................7
+  Kapitola II Základní názvy a pojmy...........................................................8
+ČÁST DRUHÁ
+Výstavba ..................................................................................................... 10
+ Podmínky pro výstavbu zařízení ............................................................. 10
+Část třetí
+Podmínkypro provozování a povinnosti organizačních složek ČD
+zúčastněných na provozování Diagnostiky ................................................ 12
+  Kapitola I Odvětví provozování dráhy ..................................................... 12
+  Kapitola II Odvětví kolejových vozidel .................................................... 14
+  Kapitola III Odvětví údržby dopravní cesty ............................................. 15
+  Kapitola IV TÚČD ..................................................................................... 17
+Část čtvrtá
+Výcvik a školení zaměstnanců pro údržbu a obsluhu Diagnostiky ............ 18
+Část pátá
+Kontrolní činnost ........................................................................................ 19
+SOUVISEJÍCÍ PŘEDPISY A NORMY ............................................................ 20
+SOUVISEJÍCÍ ZAVÁDĚCÍ LISTY................................................................... 21
+PŘÍLOHY ...................................................................................................... 22
+
+
+
+
+                                                       1
+V 65/1 - Účinnost od 1.7.2005
+
+
+                         ZÁZNAM O ZMĚNÁCH 1
+
+
+Změna                                    Předpis
+číslo
+č.j.                účinnost od          opravil            dne              podpis
+S 6735/2017-             15.03.2017
+SŽDC-O14
+
+
+
+
+1
+ Držitel tohoto výtisku je odpovědný za včasné a správné provedení schválených změn
+a provedení záznamu na této stránce
+
+                                              2
+                                                      V65/1 - Účinnost od 1.7.2005
+
+
+ROZSAH ZNALOSTÍ
+
+ Organizační
+               Funkce                                              Znalost
+   složka
+
+                zaměstnanci zabývající se předpisovou
+GŘ ČD           a normotvornou činností (gestoři,
+                zpracovatelé) nebo jinou činností, která
+                se přímo týká technických věcí při
+SŽDC            provozování Diagnostiky
+                zaměstnanci, kteří organizují, provádějí            Úplná
+                nebo kontrolují technické činnosti při
+TÚČD            provozování Diagnostiky nebo ověřují
+                znalosti a dovednosti jiných zaměstnanců
+                při prokazování odborné způsobilosti
+                k činnostem podle tohoto rozsahu
+                znalostí
+
+                zaměstnanci zabývající se činností
+                související s provozováním zařízení
+                Diagnostiky dle tohoto předpisu
+                                                                  rozsah
+                                                                  stanoví
+                                                                   vrchní
+                                                                 přednosta
+                                                                    DKV
+DKV
+
+
+
+                                                              úplná:čl. 1-3,
+                strojvedoucí
+                                                              11-13, 20-22,
+                                                              55
+                                                              informativní:
+                                                              čl.51
+
+
+
+
+                                   3
+V 65/1 - Účinnost od 1.7.2005
+
+
+                        Vrchní přednosta uzlové železniční
+                                                                      Úplná:
+                        stanice, dopravní náměstek,
+                                                                  čl. 1,11,12,13,
+                        přednosta, pokud je v jím řízeném
+                                                                  20-29,49,50,
+                        obvodu provozováno zařízení
+                                                                   51,77,82,83
+                        Diagnostiky
+                        Technolog, inženýr železniční                 Ostatní
+UŽST
+                        dopravy, který zpracovává technologické    informativní
+                        postupy úkonů stanice
+žst.
+                                                                      Úplná:
+                        Výpravčí, pokud zabezpečuje jízdu vlaků
+                                                                        čl.
+                        v mezistaničním úseku, kde je
+                                                                   1, 11, 12, 13,
+                        provozováno zařízení Diagnostiky
+                                                                    20-29,50,51
+                        Zaměstnanec určený k obsluze
+                                                                      Ostatní
+                        stanoviště obsluhy Diagnostiky
+                                                                   informativní
+
+
+                        Vrchní přednosta
+                        Náměstek pro infrastrukturu
+SDC                                                                Informativní
+                        Technický náměstek, Vedoucí
+                        provozního oddělení
+
+
+
+                        Přednosta ST
+                        Vedoucí provozního oddělení –              Informativní
+Správa tratí            zástupce přednosty
+SDC
+                        Inženýr železniční dopravy
+                                                                  Úplná:
+                        Vedoucí provozního střediska
+                                                                  Část třetí,
+                        Vrchní mistr, Mistr tratí                 kap.III
+
+                        Přednosta
+Správa elek-            Vedoucí provozního oddělení –             Informativní
+trotechniky a           zástupce přednosty
+energetiky
+SDC
+                                                                  Úplná:
+                        Vedoucí provozního střediska
+                                                                  Část třetí,
+                        Vrchní mistr, mistr                       kap.III
+
+
+
+                                               4
+                                                     V65/1 - Účinnost od 1.7.2005
+
+
+                  Přednosta
+                  Vedoucí provozního oddělení –                Informativní
+Správa            zástupce přednosty
+sdělovací a
+zabezpečovací
+techniky SDC      Inženýr železniční dopravy
+
+                  Vedoucí technického oddělení                     Úplná
+
+                  Vedoucí provozního střediska
+                  Vrchní mistr, návěstní technik
+
+
+
+
+      DOPLŇUJÍCÍ USTANOVENÍ K ROZSAHU ZNALOSTÍ
+
+
+Zaměstnancům organizací uvedených s úplnou znalostí musí být předpis
+přidělen do osobního užívání.
+
+
+
+
+                                    5
+V 65/1 - Účinnost od 1.7.2005
+
+
+       SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+
+
+ČD                       České dráhy, a.s.
+GŘ                       Generální ředitelství ČD
+IBŽD                     Inspektorát bezpečnosti železniční dopravy
+IHL                      Indikátor horkoběžnosti
+IHO                      Indikátor horkých obručí a brzd
+IPK                      Indikátor plochých kol
+O11                      Odbor řízení provozu a organizování drážní dopravy
+O12                      Odbor kolejových vozidel
+O13                      Odbor stavební
+O14                      Odbor automatizace a elektrotechniky
+O18                      Inspektorát bezpečnosti železniční dopravy
+OJ                       Organizační jednotka
+SDC                      Správa dopravní cesty
+SEE                      Správa elektrotechniky a energetiky
+SSZT                     Správa sdělovací a zabezpečovací techniky
+ST                       Správa tratí
+SŽDC                     Správa železniční dopravní cesty, s. o.
+TÚČD                     Technická ústředna českých drah
+VJ                       Výkonná jednotka
+VÚŽ                      Výzkumný ústav železniční
+ZL                       Zaváděcí list sdělovací a zabezpečovací techniky
+UŽST                     Uzlová železniční stanice
+žst.                     Železniční stanice
+
+
+
+
+                                                  6
+                                                          V65/1 - Účinnost od 1.7.2005
+
+
+                              ČÁST PRVNÍ
+
+                   ZÁKLADNÍ USTANOVENÍ
+
+
+
+                                  Kapitola I
+                            Úvodní ustanovení
+
+1.     Předpis ČD V65/1 stanovuje zásady provozování následujících zařízení
+pro diagnostiku závad jedoucích železničních vozidel (dále v textu
+„Diagnostika“):
+a) indikátor horkoběžnosti ložisek (dále v textu „IHL“), indikující teplotu
+   nápravových čepů kol,
+b) indikátor horkých obručí a brzd (dále v textu „IHO“), indikující teplotu obručí
+   kol, brzdových špalíků a disků kotoučových brzd,
+c) indikátor plochých kol (dále v textu „IPK“), indikující závady na obvodu kol a
+   závady valivosti kol.
+
+
+2.     Diagnostika je speciální zařízení dopravní cesty nutné pro zajištění
+bezpečného provozování drážní dopravy indikováním závad na jedoucích
+železničních vozidlech.
+3.      Předpis je závazný pro organizace, zajišťující provozování a udržování
+zařízení pro diagnostiku závad jedoucích železničních vozidel používaných na
+železniční dráze, která je ve vlastnictví SŽDC nebo ČD a na které
+provozuschopnost zařízení zajišťují ČD. Vztahuje se na zaměstnance, kteří toto
+zařízení obsluhují, udržují nebo na základě jeho činnosti jednají při výkonu
+služby.
+4.    Předpis upravuje provozní podmínky výstavby, činnosti, technologii,
+evidenci a provozní opatření při provozování a údržbě zařízení.
+5.    Provozování Diagnostiky jiných typů v tomto předpise blíže
+nespecifikovaných musí být prováděno na základě dokumentace a předpisů
+výrobce, jež jsou součástí sjednané dokumentace k ZL na toto zařízení.
+6. - 10.   Neobsazeno.
+
+
+
+
+                                        7
+V 65/1 - Účinnost od 1.7.2005
+
+
+
+
+                                      Kapitola II            Znění podle PPD č. 4/2017
+                                                             čj. S 6735/2017-SŽDC-O14
+                                Základní názvy a pojmy
+
+11.   Indikátor horkoběžnosti IHL je částí Diagnostiky, indikující teplotu
+nápravových čepů kol.
+12.    Indikátor horkých obručí a brzd IHO je částí Diagnostiky indikující
+teplotu obručí kol, brzdových špalíků a disků kotoučových brzd.
+13.   Indikátor plochých kol IPK je částí Diagnostiky indikující závady na
+obvodu kol a závady valivosti kol.
+14.     Traťová část Diagnostiky představuje měřicí čidla namontovaná na
+kolejnici nebo blízko ní. Hlavním úkolem čidel je měření fyzikálních veličin a
+jejich převedení na elektrický signál, který je zpracováván v základní jednotce.
+15.     Základní jednotka Diagnostiky se skládá z elektronických přístrojů
+umístěných v traťovém objektu (domku) v bezprostřední blízkosti kolejí traťové
+části. Jejím základním úkolem je zpracování signálů traťové části a jejich přenos
+na stanoviště obsluhy.
+16.    Stanoviště obsluhy Diagnostiky je vybaveno počítačem s tiskárnou a
+je umístěno v dopravní kanceláři žst. určené k manipulaci s diagnostikovaným
+vlakem. Provádí následné zpracování přicházejících diagnostických dat. Na
+monitoru počítače jsou zobrazeny údaje o diagnostikovaném vlaku. V případě
+závady na vlaku je kromě výpisu na obrazovce a na tiskárně obsluha
+upozorněna na mimořádný stav akustickým signálem.
+17.   Pokyny pro údržbu tratě v místě instalace snímačů traťové části
+Diagnostiky jsou částí dokumentace Diagnostiky předávané dodavatelem.
+18.   Pokyny pro údržbu zařízení Diagnostiky jsou částí dokumentace
+Diagnostiky předávané dodavatelem.
+19.  Pokyny pro obsluhu stanoviště obsluhy Diagnostiky jsou částí
+dokumentace Diagnostiky předávané dodavatelem.
+20.   Poplach je signalizací Diagnostiky o překročení nastavené úrovně
+diagnostikované závady na jedoucím vozidle.
+21.   Druh poplachu je signalizací Diagnostiky o překročení nastavené
+úrovně IHL, IHO a IPK.
+22.    Stupeň poplachu je signalizací Diagnostiky o překročení nastavené
+úrovně IHL, IHO a IPK vyjádřené stupni podle závažnosti :
+a) nižší stupeň s označením K (Kontrola),
+b) vyšší stupeň s označením STOP.
+
+
+
+
+                                             8
+Znění podle PPD č. 4/2017
+čj. S 6735/2017-SŽDC-O14                                        V65/1 - Účinnost od 1.7.2005
+
+      23.    Diagnostická zpráva je výsledkem diagnostického procesu při průjezdu
+      vlaku, je zobrazena na monitoru a v případě poplachu i vytištěna na tiskárně
+      Diagnostiky /viz čl. 51b) c)/.
+      24.    Servisní zpráva je zpráva Diagnostiky signalizující poruchové stavy
+      zařízení.
+      25.    Servisní zpráva informativní signalizuje poruchový stav o kterém je
+      nutno informovat údržbu zařízení /viz čl. 51 d)/.
+      26.    Servisní zpráva omezující některé funkce Diagnostiky signalizuje
+      poruchový stav některé z funkcí IHL, IHO či IPK . Na funkce Diagnostiky
+      v poruše nebere obsluha v diagnostické zprávě zřetel, pouze informuje údržbu
+      zařízení /viz čl. 51 e)/.
+      27.    Servisní zpráva omezující všechny funkce Diagnostiky signalizuje
+      takový poruchový stav, kdy na diagnostickou zprávu obsluha nebere zřetel
+      pouze informuje údržbu zařízení /viz čl. 51 f)/.
+      28.   Okamžité zastavení vlaku je zajištění okamžitého zastavení jízdy vlaku
+      ihned po zobrazení diagnostické zprávy s příslušným předepsaným druhem a
+      stupněm poplachu.
+      29.     Zastavení vlaku ve stanici je zajištění zastavení jízdy vlaku v železniční
+      stanici určené k zastavování a manipulaci s vozy indikovanými Diagnostikou na
+      základě diagnostické zprávy s příslušným předepsaným druhem a stupněm
+      poplachu.
+      30.   Záznamník je tiskopis (ČD 735 1 6516) „Záznamník poruch na
+      sdělovacím a zabezpečovacím zařízení“.
+      31.    Evidence diagnostikovaných závad IHL, IHO a IPK je přehlednou
+      evidencí závad na diagnostikovaných vozidlech za určené období. Slouží
+      k systematickému sledování a vyhodnocování činnosti zařízení a je podkladem
+      k návrhu na změnu nastavení úrovně stupňů poplachů.
+
+
+      32. – 36. Neobsazeno
+
+
+
+
+                                              9
+V 65/1 - Účinnost od 1.7.2005
+
+
+                                ČÁST DRUHÁ
+
+                                 Výstavba
+
+
+
+                       Podmínky pro výstavbu zařízení
+
+                                                                      2
+37.     Rozmístění Diagnostiky v síti ČD určuje schválená koncepce.
+38.     Při umístění a zabudování musí být dodrženy podmínky výrobce.
+39.    Uplatnění podmínek výrobce stanovuje TÚČD a v případě, že nelze
+některou z podmínek výrobce dodržet, rozhoduje o požadovaných změnách.
+40.    Každému zabudování Diagnostiky musí předcházet výběr staveniště,
+který svolá investor za účasti všech organizačních složek ČD zúčastněných na
+výstavbě a provozu Diagnostiky.
+41.    Projektová dokumentace, technické a organizační zabezpečení provozu
+musí být vždy předloženy k posouzení TÚČD, která:
+a) se vyjadřuje k rozmístění zařízení síti ČD z hlediska provozně technického
+    využití,
+b) posuzuje dokumentace a vykonává technický dozor při výstavbě,
+c) se vyjadřuje k návrhům potřebného organizačního a technického
+    zabezpečení provozu Diagnostiky dle článku 42.
+d) vydává rozhodnutí o způsobilosti zařízení po jeho instalaci.
+42.    Současně s projektovými pracemi zpracuje UŽST a ostatní výkonné
+jednotky, kterých se bude činnost Diagnostiky týkat, návrh potřebného
+organizačního a technického zabezpečení provozu Diagnostiky, zejména:
+a) technologické postupy práce v příslušných železničních stanicích,
+b) manipulace s vozem indikovaným Diagnostikou,
+c) vyškolení a poučení pracovníků provádějících obsluhu a údržbu.
+      Organizační a technické zabezpečení provozu Diagnostiky je v žst.
+uloženo jako součást příloh ZDD, ve Staničním řádu a Obsluhovacím řádu.
+Osnova pro její zpracování je uvedena v příloze 1 předpisu V65/1.
+
+
+
+
+2
+ „Koncepce sledování nepravidelných jízdních vlastností vozidel u ČD“ č.j. 60
+685 / 98 – O 14, schválená generálním ředitelem ČD dne 16.2.1999.
+
+
+                                      10
+                                                   V65/1 - Účinnost od 1.7.2005
+
+43.   Kolaudační řízení svolává investor určeným způsobem a navíc za
+neopominutelné účasti :
+a) zástupce GŘ ČD O11,
+b) zástupce UŽST, SDC, DKV v jejichž obvodu je Diagnostika zabudována,
+c) zástupce TÚČD.
+44.    Při kolaudaci se navíc zjišťuje, zda byla všemi zainteresovanými
+organizačními složkami ČD realizována opatření pro správnou činnost a
+obsluhu dle článku 42.
+45.   Diagnostika se uvede do provozu rozkazem vrchního přednosty SDC, a
+to na základě rozhodnutí kolaudační komise, o splnění všech podmínek pro
+provoz. Tento rozkaz se postoupí všem zúčastněným organizačním složkám,
+výkonným jednotkám a TÚČD.
+46. – 48. Neobsazeno
+
+
+
+
+                               11
+V 65/1 - Účinnost od 1.7.2005
+
+
+                                   Část třetí
+
+        Podmínky pro provozování a povinnosti
+
+      organizačních složek ČD zúčastněných na
+
+                        provozování Diagnostiky
+
+
+
+                                    Kapitola I
+                            Odvětví provozování dráhy
+
+49.    Vrchní přednosta UŽST:
+a) zabezpečuje spolupráci při výstavbě Diagnostiky zejména při výběru místa
+    umístění stanoviště obsluhy Diagnostiky,
+b) určí zaměstnance k obsluze stanoviště obsluhy,
+c) odpovídá za vyškolení a přezkoušení zaměstnanců obsluhy,
+d) kontroluje zda je Diagnostika v činnosti a správně obsluhována,
+e) zabezpečuje vedení evidence diagnostikovaných závad IHL, IHO a IPK,
+f) zabezpečuje uschování Diagnostikou vytištěných zpráv po dobu 30 dnů.
+
+
+50.    Výpravčí s provozním dispečerem:
+a) zabezpečuje, aby při jízdě vlaku v prostoru traťové části Diagnostiky byl na
+    návěstidlech návěstní znak „Volno“, pokud to provozní situace umožňuje,
+b) zabezpečuje dostatečnou propustnost železniční stanice ve které se provádí
+    zastavení vlaku se závadou indikovanou Diagnostikou.
+
+
+51.      Obsluha Diagnostiky zajišťuje provoz stanoviště obsluhy v rozsahu
+pokynů pro obsluhu a při tom je povinna:
+a) při nástupu a odevzdávce služby překontrolovat provozní stav zařízení, další
+    kontrolu provést nejméně 1x za směnu,
+b) při diagnostické zprávě IHL stupně STOP zajistit dle místních směrnic :
+   okamžité zastavení vlaku,
+   vyrozumění strojvedoucího, které musí obsahovat druh poplachu, stupeň
+   poplachu, stranu vlaku a číslo nápravy,
+   doplnění diagnostické zprávy číslem vlaku a podpisem.      Znění podle PPD č. 4/2017
+                                                              čj. S 6735/2017-SŽDC-O14
+                                       12
+                                                          V65/1 - Účinnost od 1.7.2005
+
+c) při diagnostické zprávě IHL stupně K a diagnostické zprávě IHO i IPK
+    stupňů STOP i K zajistit dle místních směrnic:
+   zastavení vlaku ve stanici,
+   vyrozumění DKV, které musí obsahovat druh poplachu, stupeň poplachu,
+   stranu vlaku a číslo nápravy,
+   vyrozumění doprovodu vlaku,                               Znění podle PPD č. 4/2017
+   v případě potřeby manipulaci s vadným vozem,              čj. S 6735/2017-SŽDC-O14
+   doplnění diagnostické zprávy číslem vlaku a podpisem.
+d) při servisní zprávě informativní zajistit informování zaměstnance údržby
+    SSZT SDC,
+e) při servisní zprávě omezující některé funkce IHL, IHO a IPK Diagnostiky: bere
+   zřetel pouze na diagnostické zprávy IHL, IHO a IPK v servisní zprávě
+   neomezené,
+   zajistí informování zaměstnance údržby SSZT SDC,
+f) při servisní zprávě omezující všechny funkce Diagnostiky:
+   na diagnostickou zprávu nebere zřetel,
+   zajistí informování zaměstnance údržby SSZT SDC
+   provede záznam do Záznamníku
+g) Při servisní zprávě s obsahem o neoprávněném vstupu do traťové části,
+    zobrazené v době, kdy není údržbou hlášena práce na traťové části, zajistí
+    neprodleně informování zaměstnance údržby SSZT SDC.
+52. – 54. Neobsazeno
+
+
+
+
+                                   13
+V 65/1 - Účinnost od 1.7.2005
+
+
+
+
+                                    Kapitola II
+                                                             Znění podle PPD č. 4/2017
+                            Odvětví kolejových vozidel       čj. S 6735/2017-SŽDC-O14
+
+
+55.     Příslušné DKV zajistí prokazatelně seznámení všech strojvedoucích,
+kteří vykonávají službu v daném traťovém úseku:
+a) s uvedením Diagnostiky do provozu a umístěním její traťové části (poloha
+    viz Tabulka traťových poměrů),
+b) s možností příkazu k okamžitému zastavení vlaku, nutnosti prohlídky ložisek
+    dle předpisu ČD V62 čl. 26., po projetí místa traťové části Diagnostiky,
+c) s nutností sledování těchto míst při jízdách vlaků a nutností zabezpečit
+    průjezd vedeného vlaku tak, aby nedocházelo k neodůvodněnému brzdění
+    nebo zastavení vlaku v prostoru traťové části Diagnostiky.
+56.     Příslušné DKV:
+a) zajišťuje manipulaci s vozem indikovaným Diagnostikou v rozsahu předpisu
+    ČD V62 a směrnic pro manipulaci s vozem indikovaným indikátorem
+                                   3
+    plochých kol a horkých obručí,
+b) na základě zjištěných skutečností předkládá TÚČD doporučení na změnu
+    hodnot poplachových úrovní Diagnostiky,
+c) ohlásí TÚČD každé zjištěné horkoběžné ložisko u vlaku, které nebylo
+    Diagnostikou registrováno, a to do vzdálenosti 30 km za traťovou částí
+    Diagnostiky, současně s údaji o jízdě a pobytu vlaku v úseku 20 km před
+    traťovou částí Diagnostiky,
+d) doplňuje evidenci diagnostikovaných závad IHL, IHO a IPK o zjištění
+    technického stavu vozmistrem.
+
+57.- 59. Neobsazeno
+
+
+
+
+3
+    Směrnice pro manipulaci s vozem indikovaným indikátorem plochých kol a
+     horkých obručí je směrnicí vydanou O12.
+
+
+                                        14
+                                                        V65/1 - Účinnost od 1.7.2005
+
+                                Kapitola III
+                   Odvětví údržby dopravní cesty
+
+60.   SEE SDC vykonává údržbu napájecí sítě až po jistič, kterým je
+Diagnostika napájena.
+61.   SEE SDC ohlásí předpokládanou výluku napětí pro Diagnostiku SSZT
+SDC předem a výpravčímu žst. se stanovištěm obsluhy Diagnostiky těsně před
+zahájením výluky napětí.
+62.     ST SDC zajišťuje údržbu železničního svršku a spodku v místě traťové
+části Diagnostiky:
+a) v rozsahu předpisu ČD S3, část třináctá,           kapitola IV – Indikátor
+    horkoběžnosti a Indikátor plochých kol,
+b) v rozsahu pokynů pro údržbu tratě v místě traťové části Diagnostiky
+    /viz čl. 17/.
+
+63.   ST SDC při všech plánovaných opravách v obvodu traťové části
+Diagnostiky vyrozumí SSZT SDC o zamýšlených pracích.
+64.   ST SDC zajistí, aby osádky všech strojů těžké mechanizace byly
+poučeny o nutnosti zvýšené opatrnosti při přejíždění úseku traťové části
+Diagnostiky a pracích v jejich blízkosti.
+65.     SSZT SDC po kolaudaci a uvedení Diagnostiky do provozu zabezpečuje
+její provozuschopnost a zajišťuje:
+a) pro technickou údržbu určí zaměstnance, zajistí jejich vyškolení se znalostí
+     obsluhy a údržby a zajistí jejich potřebné vybavení,
+b) oznámení dlouhodobého vyřazení Diagnostiky z činnosti příslušným UŽST a
+     DKV,
+c) opatření při údržbě:
+   při údržbě jsou zaměstnanci povinni dodržovat ustanovení předpisů a norem
+   vztahujících se k zajištění bezpečnosti při práci a bezpečnosti vlakové
+   dopravy,
+   před zahájením prací na Diagnostice, při nichž je třeba zařízení částečně
+   nebo úplně vypnout z provozu, musí udržující zaměstnanec oznámit předem
+   svůj záměr výpravčímu a zahájení prací zapsat do Záznamníku,
+   při ukončení prací a přezkoušení zařízení zapíše udržující pracovník
+   provedené úkony do Záznamníku a ukončení prací oznámí výpravčímu,
+   správná funkce Diagnostiky se musí vždy po ukončení udržovacích prací
+   ověřit na záznamu alespoň jednoho vlaku, jehož číslo se uvede do
+   Záznamníku,
+d) kontrolu činnosti zařízení na základě sdělení zaměstnance obsluhy,
+e) pravidelné prohlídky zařízení v rozsahu stanoveném pokyny pro údržbu,
+f) opravu zjištěných závad a závad nahlášených obsluhou Diagnostiky,
+
+
+                                      15
+V 65/1 - Účinnost od 1.7.2005
+
+   V případech, kdy oprava zařízení přesahuje možnosti SDC závadu odstranit,
+   vyžádá opravu u servisní služby dodavatele a vyrozumí TÚČD,
+g) na požádání ST SDC demontáž nebo montáž zařízení při opravách koleje
+   nebo jiných pracích na železničním svršku,
+h) na požádání ST SDC dohled při pracích na železničním svršku v místě
+   traťové části.
+66.    Zaměstnanec údržby Diagnostiky provádí údržbu zařízení v rozsahu
+předpisu ČD T 300 a pokynů pro údržbu.
+67.- 69. Neobsazeno
+
+
+
+
+                                        16
+                                                         V65/1 - Účinnost od 1.7.2005
+
+
+
+
+                                 Kapitola IV
+                                    TÚČD
+
+70.      TÚDC zabezpečuje s celosíťovou působností metodickou, kontrolní a
+řídící činnost na úseku výstavby, provozu a údržby Diagnostiky.
+71.    Na úseku provozu:
+a) provádí roční kontrolu technického stavu, činnosti, údržby a obsluhy zařízení
+    za účasti SDC,
+b) účastní se pololetních prohlídek technického stavu zařízení,
+c) stanovuje způsob a rozsah vedení přehledné evidence diagnostikovaných
+    závad IHL, IHO a IPK na diagnostikovaných vozidlech za určené období,
+d) systematicky sleduje a vyhodnocuje činnost zařízení a navrhuje opatření
+    k dosažení maximální účinnosti zařízení,
+e) vydává posudky technického stavu zařízení IBŽD a jiným kontrolním
+    orgánům.
+72.   Ve zdůvodněných případech nebo na požadavek IBŽD zajišťuje
+provedení revize zařízení dodavatelem za účasti SDC a TÚČD.
+73.   Na zavedeném zařízení povoluje změny technického provedení,
+programového vybavení a dokumentace.
+74. – 76. Neobsazeno
+
+
+
+
+                                      17
+V 65/1 - Účinnost od 1.7.2005
+
+
+                                Část čtvrtá
+
+    Výcvik a školení zaměstnanců pro údržbu a
+
+                            obsluhu Diagnostiky
+
+
+77.    Přednostové všech výkonných jednotek zúčastněných na provozu
+Diagnostiky jsou povinni zabezpečit potřebný počet vyškolených zaměstnanců
+pro údržbu a obsluhu zařízení.
+78.   Vyškolení zaměstnanců pro údržbu zabezpečí TÚČD, která na požádání
+zabezpečí také školení pro obsluhu a kontrolní činnost.
+79. - 81. Neobsazeno
+
+
+
+
+                                       18
+                                                       V65/1 - Účinnost od 1.7.2005
+
+
+                              Část pátá
+
+                        Kontrolní činnost
+
+
+82.    Pravidelnou kontrolu provádí:
+a) vrchní přednosta UŽST nebo jím pověřený zaměstnanec,
+b) přednosta SSZT SDC nebo jím pověřený zaměstnanec a to s přihlédnutím
+    na zaměstnance obsluhující stanoviště obsluhy,
+c) ředitel TÚČD nebo jím pověřený zaměstnanec, z hlediska údržby, nastavení
+    provozní činnosti a obsluhy zařízení.
+83.    Kontrolu technického stavu činnosti a obsluhy Diagnostiky a povinnosti
+vyplývající z ustanovení tohoto předpisu ve vztahu k provozu Diagnostiky
+vykonávají:
+a) přednostové výkonných jednotek nebo jimi pověření zaměstnanci,
+b) ředitel TÚČD nebo jím pověřený zaměstnanec.
+
+
+84.   Ředitel TÚČD projednává zjištěné nedostatky s přednostou příslušné
+výkonné jednotky, v závažnějších případech s příslušným odborem GŘ ČD.
+85.   Zápis o každém poškození Diagnostiky je nutné zaslat řediteli TÚČD.
+86. - 88. Neobsazeno
+
+
+
+
+                                     19
+V 65/1 - Účinnost od 1.7.2005
+
+
+             SOUVISEJÍCÍ PŘEDPISY A NORMY
+
+
+Obecně závazné právní předpisy v platném znění:
+
+266/1994 Sb.   Zákon o dráhách
+100/1995 Sb. Vyhláška ministerstva dopravy, kterou se stanoví podmínky
+               pro provoz, konstrukci a výrobu určených technických zařízení
+               a jejich konkretizace (Řád určených technických zařízení)
+173/1995 Sb.   Vyhláška ministerstva dopravy, kterou se vydává dopravní řád
+               drah
+177/1995 Sb.   Vyhláška ministerstva dopravy, kterou se vydává stavební
+               a technický řád drah
+Interní předpisy ČD:
+
+D1                    Předpis pro používání návěstí při organizování a provozování
+                      drážní dopravy
+D2                    Předpis pro organizování a provozování drážní dopravy
+D5                    Předpis pro tvorbu a zpracování základní dopravní
+                      dokumentace
+D7/2                  Předpis pro organizování výluk na síti Českých drah
+D9                    Směrnice pro sestavení Dodatku k předpisu ČD D2
+M1                    Předpis pro tvorbu technických norem a interních předpisů
+                      Českých drah
+M15                   Metrologický řád Českých drah
+Op16                  Základní směrnice o bezpečnosti a ochraně zdraví při práci
+                      v železniční dopravě
+
+SR1(M)                Registr TNP
+S3                    Železniční svršek
+T100                  Provoz zabezpečovacích zařízení
+T124                  Údržba indikátoru horkoběžnosti
+T260                  Organizace údržby sdělovacích a zabezpečovacích zařízení
+T300                  Stanovení časové potřeby a počtu zaměstnanců pro údržbu
+                      sdělovacích a zabezpečovacích zařízení
+V2                    Předpis pro lokomotivní čety
+V62                   Provozně technický předpis pro železniční vozy
+V65                   Předpis pro provoz indikátoru horkoběžnosti
+Z11                   Předpis pro obsluhu rádiových zařízení
+
+
+
+                                          20
+                                                   V65/1 - Účinnost od 1.7.2005
+
+
+            SOUVISEJÍCÍ ZAVÁDĚCÍ LISTY
+
+
+
+
+ZL 16/2001-SZ   Indikátor závad na jedoucím vlaku ASDEK
+
+
+
+
+                                  21
+V 65/1 - Účinnost od 1.7.2005
+
+
+                                PŘÍLOHY
+
+
+
+
+                                    22
+                                                Příloha 1 k ČD V65/1 - Účinnost od 1.7.2005
+Znění podle PPD č. 4/2017
+čj. S 6735/2017-SŽDC-O14
+                                Osnova
+        organizačního provozního zabezpečení provozu Diagnostiky
+       Organizační a technické zabezpečení provozu Diagnostiky
+
+
+
+  Opatření pro obsluhu indikátorů horkoběžnosti ložisek, plochých
+  kol a horkých obručí a brzd
+          Popis zařízení, kolej a km poloha umístění traťové části, umístění
+          stanoviště obsluhy a „Pokynů pro obsluhu“.
+          Stručný popis činnosti zařízení, co umožňuje, kdo jej obsluhuje a
+          zajišťuje uschování vytištěných zpráv.
+
+  A.    Vyrozumívání zaměstnanců DKV
+          Uvede se způsob vyrozumívání, spojení, pracoviště
+  B.    Manipulace s vozem indikovaným Diagnostikou
+         Odkaz na „Směrnici“ číslo jednací 39/2002-O12/1-Ba ze dne
+         30.10.2003, která stanovuje postup při manipulaci s vozy, na jejichž
+         dvojkolí byly indikovány závady na jízdní ploše nebo horká obruč.
+       Technologický postup při indikování závady
+          Uvedou se činnosti a povinnosti, kdo zajistí, jakým způsobem, pro
+          všechny případy indikací, a to i pro vlaky při jízdě proti správnému
+          směru
+          Vyhodnocení Diagnostikou:
+  •     Indikace IHL „STOP“
+
+  •     Indikace IHL „K“
+
+  •     Indikace IHO „K“ nebo „STOP“
+
+  •     Indikace IPK „K“ nebo „STOP“
+
+
+
+
+                                          1
+                                                              Znění podle PPD č. 4/2017
+Příloha 1 k ČD V 65/1 - Účinnost od 1.7.2005
+                                                              čj. S 6735/2017-SŽDC-O14
+C.    Technologický postup pro zajištění bezpečnosti při nutném posunu se
+      soupravou
+        Uvede se postup posunu v rozdělení dle druhu vlaku
+1.   Vlaky osobní dopravy:
+2.   Vlaky nákladní dopravy:
+
+D.    Opatření při výlukách
+       Záznam o výluce zařízení, zásadní povinnosti při výluce zařízení,
+       vyrozumívání, opětné uvedení zařízení v činnost
+        1. Předpokládaná výluka zařízení:
+
+        2. Nepředpokládaná výluka zařízení
+
+
+E.    Vyškolení a poučení zaměstnanců provádějících obsluhu a údržbu
+
+
+
+
+                                               2
+                                                     V 65/1 - Účinnost od
+
+
+
+
+Gestorský útvar:     České dráhy, a.s.
+                     Generální ředitelství
+                     Odbor automatizace a elektrotechniky
+                     Nábřeží L. Svobody 1222
+                     110 15 Praha 1
+
+Vydavatel:           České dráhy, a.s.
+                     Technická ústředna dopravní cesty
+                     Sekce sdělovací a zabezpečovací techniky
+                     Bělehradská 22
+                     120 00 Praha 2
+
+Tisk a distribuce:   České dráhy, a.s.
+                     Zásobovací centrum Praha
+                     Jana Želivského 2
+                     130 73 Praha 3
+
+Náklad:              500 výtisků
+
+
+
+
+                               23
+

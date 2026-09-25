@@ -1,0 +1,375 @@
+[
+ {
+  "n": 104,
+  "otazka": "Strojvedoucí není zpraven žádným písemným rozkazem o zhoršených povětrnostních poměrech a za jízdy vlaku zjistí, že dochází k pohybu větví stromů a silnému nárazovému větru. Jaký bude jeho další postup?",
+  "obrazky": [
+   "img/q104_1.png"
+  ],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 484"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 480 odst. (1)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 481 odst. (1)"
+   }
+  ],
+  "odpoved": "Musí ihned upozornit výpravčího, který řídí a organizuje drážní dopravu v pojížděném úseku, že dochází ke zhoršení povětrnostní situace ohrožující provoz.",
+  "plne_zneni": "SŽ D1 čl. 484 (Povinnosti strojvedoucího): Strojvedoucí vlaku (PMD) musí ihned upozornit výpravčího, který řídí a organizuje drážní dopravu v jím pojížděném úseku trati na to, že během jeho jízdy došlo/dochází ke zhoršení povětrnostní situace, která ohrožuje provozování dráhy a drážní dopravy.\n\nSŽ D1 čl. 480 odst. (1): Pro potřeby tohoto předpisu se zhoršenou povětrnostní situací rozumí situace, kdy vlivem hydrologických anebo meteorologických jevů (např. vítr, dešťové a sněhové srážky, bouřka, námraza) může dojít k ohrožení provozování dráhy a drážní dopravy. Vlivem těchto jevů dochází např.: a) ke kymácení stromů, případně lámání a opadu větví; b) k pádům stromů; […]\n\nSŽ D1 čl. 481 odst. (1): V případě, že je vydána výstraha ČHMÚ s: a) nízkým stupněm nebezpečí (žlutá), musí výpravčí zpravovat strojvedoucího písemným rozkazem od okamžiku, kdy skutečně zjistí sám nebo mu bylo ohlášeno zhoršení povětrnostní situace do doby, kdy sám zjistil zklidnění povětrnostní situace […]\n\nSŽ D1 čl. 481 odst. (3): Výpravčí postupuje podle tohoto článku i v případě, že nastalo zhoršení povětrnostní situace bez předchozího vydání výstrahy ČHMÚ nebo po jejím ukončení.\n\nSŽ D1 čl. 23 odst. (8): Jízda za zhoršených povětrnostních podmínek je takový způsob jízdy, kdy strojvedoucí musí přizpůsobit rychlost jízdy vlaku (PMD) tak, aby na vzdálenost rovnající se délce volné koleje, na kterou vidí před sebou, s využitím všech dostupných prostředků zastavil podle možnosti před případnou překážkou nebo nesjízdným místem na trati (viz čl. 481).",
+  "distraktory": [
+   "Musí upozornit výpravčího až po dojezdu do nejbližší stanice, kde mu výpravčí vydá písemný rozkaz o zhoršené povětrnostní situaci.",
+   "Musí sám zavést jízdu za zhoršených povětrnostních podmínek a jet nejvýše 40 km/h; výpravčímu tuto skutečnost hlásit nemusí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 105,
+  "otazka": "Vlak byl po odjezdu od nástupiště zastaven návěstí „Stůj, zastavte všemi prostředky“. Za jakých podmínek může vlak pokračovat v další jízdě, pokud byl výpravčí o zastavení vlaku návěstí „Stůj, zastavte všemi prostředky“ informován ?",
+  "obrazky": [
+   "img/q105_1.png"
+  ],
+  "tema": "Výprava a odjezd",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 360 odst. (6)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 356 odst. (11)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 360 odst. (7)"
+   }
+  ],
+  "odpoved": "Až po odstranění závady nebo překážky, pro kterou byla návěst použita, a nebyla-li výprava vlaku výpravčím odvolána; dál pokračuje na pokyn výpravčího.",
+  "plne_zneni": "SŽ D1 čl. 360 odst. (6): Byl-li vlak po výpravě zastaven ve stanici (odbočce) návěstí Stůj, zastavte všemi prostředky, může strojvedoucí pokračovat v další jízdě po odstranění závady nebo překážky, pro kterou byla použita návěst Stůj, zastavte všemi prostředky a nebyla-li předchozí výprava vlaku výpravčím odvolána.\n\nSŽ D1 čl. 356 odst. (11): Zastavil-li vlak po jeho výpravě z důvodu: a) návěsti Stůj, zastavte všemi prostředky; b) náhlé změny návěsti dovolující jízdu vlaku na návěst zakazující jízdu vlaku; c) náhlého zhasnutí návěstidla; musí strojvedoucí tuto skutečnost ohlásit výpravčímu a v další jízdě pokračuje na pokyn výpravčího.\n\nSŽ D1 čl. 360 odst. (7): Pokud je z jakéhokoliv důvodu nutné, aby výpravčí odvolal výpravu vlaku, musí postupovat následovně: a) výpravčí oznámí strojvedoucímu odvolání výpravy vlaku telekomunikačním zařízením takto: „Ruším výpravu vlaku 550 ve stanici Řevnice ze druhé koleje do stanice Třebaň. Bára“ […]\n\n(Pro tratě bez konvenčních návěstidel platí shodné ustanovení v SŽ D1 čl. 367 odst. (7), odvolání výpravy pak v čl. 367 odst. (8).)",
+  "distraktory": [
+   "Až po odstranění závady nebo překážky, pro kterou byla návěst použita, i když výpravčí mezitím výpravu vlaku odvolal; nová výprava se nevyžaduje.",
+   "Až po nové výpravě vlaku písemným rozkazem; zastavením návěstí Stůj, zastavte všemi prostředky předchozí výprava vlaku vždy zaniká."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 106,
+  "otazka": "Strojvedoucí potřebuje ohlásit mimořádnou událost, která vznikla na širé trati. Základní ani náhradní rádiové spojení nelze pro poruchu použít. Strojvedoucí je nucen použít nouzové spojení pomocí mobilního telefonu. Ze kterého dokumentu zjistí telefonní číslo na ohlašovací pracoviště?",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+  "zdroje": [
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+    "clanek": "list 10.A.0 Postup při vzniku MU"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 64 odst. (5)"
+   },
+   {
+    "predpis": "ČD D17",
+    "clanek": "čl. 45"
+   }
+  ],
+  "odpoved": "Z tabulek traťových poměrů (TTP) pro pojížděný úsek – z tabulky 3b, kde je uvedeno nouzové spojení i telefonní číslo na ohlašovací pracoviště.",
+  "plne_zneni": "ČD Opatření ředitele O18 č. 36/2025, list 10.A.0 – Postup při vzniku MU: „Došlo k MU – v případě zranění, úmrtí, požáru apod. volat IZS (112, aplikace Záchranka); ohlásit na ohlašovací pracoviště (přednostně RDST). Ohlašovací pracoviště: MU na dráze jiného provozovatele dráhy (např. SŽ) → dle Tab. 3b TTP + dispečer osobní dopravy ČD; MU na kolejišti ČD (vlečky a depa) → dispečer osobní dopravy ČD + strojmistr.“\n\nSŽ Z11 čl. 64 odst. (4) a (5): Nouzovým spojením může být: všeobecná operativní síť (VOS); mobilní spojení strojvedoucího prostřednictvím veřejného operátora. — Nouzové spojení je uvedeno pro příslušnou trať nebo její část v TTP.\n\nČD D17 čl. 45: Ohlašovacími pracovišti: a) při provozování dráhy a drážní dopravy na dráze ČD jsou: aa) pracoviště územně příslušného regionálního dispečera ČD, ab) pracoviště územně příslušného strojmistra, b) při provozování drážní dopravy na dráze SŽ jsou: ba) pracoviště výpravčího, dispečera CDP (dle ZDD a TTP), bb) pracoviště síťového nebo územně příslušného regionálního dispečera ČD.",
+  "distraktory": [
+   "Z tabulek traťových poměrů (TTP) pro pojížděný úsek – z tabulky 1, kde jsou uvedena volací čísla výpravčích a čísla ohlašovacích pracovišť.",
+   "Z Ohlašovacího rozvrhu uloženého v Knize předávky hnacího vozidla, který obsahuje telefonní čísla všech ohlašovacích pracovišť dopravce."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). Samotné TTP (Tabulky traťových poměrů) nejsou ve složce k dispozici, proto nelze citovat konkrétní tabulku přímo z TTP. Odpověď je opřena o ČD OŘ O18 č. 36/2025 (list 10.A.0 – výslovně „dle Tab. 3b TTP“) a SŽ Z11 čl. 64 odst. (5) („Nouzové spojení je uvedeno pro příslušnou trať nebo její část v TTP“)."
+ },
+ {
+  "n": 107,
+  "otazka": "Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní vlak je:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 4 odst. (19) – tabulka 1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (2)"
+   }
+  ],
+  "odpoved": "„Pozor, pozor, všechny vlaky na příjmu, stop, stop.“ – odlišné znění pro konkrétní vlak předpis nestanoví, pokyn platí pro všechna HDV v dosahu radiostanice.",
+  "plne_zneni": "SŽ Z11 čl. 4 odst. (19), tabulka 1 – Definice závazných slovních znění prostřednictvím rádiové sítě:\nnázev návěsti: Stůj, zastavte všemi prostředky — slovní znění pokynu: „Pozor, pozor, všechny vlaky na příjmu, stop, stop“.\n\nPoznámky k tabulce 1, návěst Stůj, zastavte všemi prostředky:\n• zastavení provozu se vždy týká všech hnacích drážních vozidel (dále jen „HDV“) v dosahu radiostanice bez rozdílu (tedy všech vlaků, posunu a PMD);\n• strojvedoucí dotčených HDV musí neprodleně zahájit rychločinné brzdění i v případech, kdy uslyší i jen část ze slovního znění pokynu pro tuto návěst;\n• pokud je to účelné nebo to provozní situace vyžaduje, je doporučeno opakovat slovní znění pokynu pro tuto návěst, a to i v případech, kdy je slovní pokyn vyslán automaticky přehráním hlasové zprávy z obslužného zařízení.\n\nSŽ Z11 čl. 29 odst. (2): Při navazování spojení k nouzovému zastavení provozu HDV se volací značky nepoužívají.",
+  "distraktory": [
+   "„Pozor, pozor, vlak číslo … (uvede se číslo vlaku), stop, stop.“ – znění se pro konkrétní vlak vždy doplní o jeho číslo.",
+   "„Vlak … (uvede se číslo) ve stanici / mezi stanicemi … (uvede se místo), stop, stop.“ – pokyn platí jen pro takto označený vlak."
+  ],
+  "jistota": "střední",
+  "poznamka": "Pavel 20. 9. 2026: odpověď vypadá správně, ale ponechat označené k dopracování. SŽ Z11 (od 14. 12. 2025) v tabulce 1 definuje pro návěst Stůj, zastavte všemi prostředky JEDINÉ závazné slovní znění, a to „Pozor, pozor, všechny vlaky na příjmu, stop, stop“ – samostatné znění pro konkrétní vlak ani pro konkrétní traťový úsek už předpis nezná (poznámka pod tabulkou výslovně uvádí, že zastavení se vždy týká všech HDV v dosahu radiostanice). Otázka zřejmě vychází ze staršího znění předpisu; Pavel by měl ověřit, zda zkušební komise nevyžaduje starší (rozlišené) varianty znění."
+ },
+ {
+  "n": 108,
+  "otazka": "Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní traťový úsek je:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 4 odst. (19) – tabulka 1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (5)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (1)"
+   }
+  ],
+  "odpoved": "„Pozor, pozor, všechny vlaky na příjmu, stop, stop.“ – zvláštní znění vymezující traťový úsek předpis nestanoví; pokyn platí pro všechna HDV v dosahu ZR.",
+  "plne_zneni": "SŽ Z11 čl. 4 odst. (19), tabulka 1 – Definice závazných slovních znění prostřednictvím rádiové sítě:\nnázev návěsti: Stůj, zastavte všemi prostředky — slovní znění pokynu: „Pozor, pozor, všechny vlaky na příjmu, stop, stop“.\nPoznámka k tabulce 1: zastavení provozu se vždy týká všech hnacích drážních vozidel v dosahu radiostanice bez rozdílu (tedy všech vlaků, posunu a PMD).\n\nSŽ Z11 čl. 29 odst. (1): Při bezprostředním ohrožení železničního provozu, zvláště jsou-li ohroženy lidské životy a hrozí-li nebezpečí z prodlení, musí obsluhující zaměstnanec neprodleně provést činnost vedoucí k nouzovému zastavení provozu HDV, tedy jízd vlaků (PMD) nebo posunu v příslušné dopravně nebo v traťovém úseku.\n\nSŽ Z11 čl. 29 odst. (5): Pokud je nutné vyslat pokyn k zastavení provozu i v navazujícím rádiovém úseku, musí výpravčí, který vyslal hlasovou výzvu k zastavení provozu, neprodleně vhodným způsobem upozornit obsluhujícího zaměstnance, který organizuje a řídí drážní dopravu v navazujícím rádiovém úseku, na vzniklou situaci a vyzvat ho k vyslání pokynu k zastavení provozu prostřednictvím TRS (SRV) nebo k neprodlenému vyslání příkazu/povelu G-STOP ve svém řízeném rádiovém úseku […], aby došlo k plnému překrytí celého mezistaničního úseku, případně celé tratě.",
+  "distraktory": [
+   "„Pozor, pozor, všechny vlaky v úseku … (uvede se traťový úsek), stop, stop.“ – znění se pro traťový úsek vždy doplní o jeho vymezení.",
+   "„Pozor, pozor, všechny vlaky a posun v obvodu stanice … (uvede se název), stop, stop.“ – pokyn platí jen pro vyjmenovaný obvod."
+  ],
+  "jistota": "střední",
+  "poznamka": "Pavel 20. 9. 2026: odpověď vypadá správně, ale ponechat označené k dopracování. Platí totéž co u otázky 107: SŽ Z11 (od 14. 12. 2025) zná pro tuto návěst jen jedno závazné slovní znění. Rozšíření platnosti na navazující traťový úsek se neřeší změnou slovního znění, ale postupem podle čl. 29 odst. (5) – výzvou sousednímu výpravčímu, aby pokyn (příp. G-STOP) vyslal ve svém rádiovém úseku. Otázka patrně vychází ze staršího znění předpisu."
+ },
+ {
+  "n": 109,
+  "otazka": "Může výpravčí požádat strojvedoucího ve stanici s DOZ o přesvědčení se o zjevné příčině nemožnosti přestavení výhybky?",
+  "obrazky": [],
+  "tema": "Ostatní",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 60 odst. (6)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 60 odst. (7)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 60 odst. (5)"
+   }
+  ],
+  "odpoved": "Ano, ale jen není-li ve stanici s DOZ přítomen zaměstnanec řízení provozu SŽ; strojvedoucí smí žádost odmítnout a výpravčí s ním musí sjednat podmínky bezpečnosti.",
+  "plne_zneni": "SŽ D1 čl. 60 odst. (5): Pokud ve stanici (odbočce) nelze přestavit výhybku nebo výkolejku, musí výpravčí zjistit důvod nepřestavení sám nebo prostřednictvím zaměstnance řízení provozu, popř. zaměstnance OSPD.\n\nSŽ D1 čl. 60 odst. (6): V případě, že ve stanici s DOZ není přítomen zaměstnanec řízení provozu SŽ, může výpravčí požádat strojvedoucího o zjištění příčiny nemožnosti přestavení výhybky nebo výkolejky a podle možností o odstranění zjištěné závady (kámen, led, sníh nebo jiná zjevná překážka znemožňující přestavení výhybky nebo výkolejky). Strojvedoucí může tuto žádost odmítnout. V případě, že strojvedoucí odsouhlasí zjištění a případné odstranění závady, musí s ním výpravčí sjednat podmínky zajišťující bezpečnost jeho pohybu a práce v kolejišti.\n\nSŽ D1 čl. 60 odst. (7): Bezpečnost pohybu a práce v kolejišti podle odst. (6) tohoto článku musí být zajištěna: a) zavedením bezpečnostní pomalé jízdy nebo b) zákazem jízdy drážních vozidel.\n\nSŽ D1 čl. 60 odst. (8): Strojvedoucí může pověřit jiného zaměstnance dopravce zjištěním zjevného důvodu nemožnosti přestavení výhybky nebo výkolejky a podle možnosti odstraněním zjištěné závady a musí ho seznámit se sjednanými podmínkami bezpečnosti pohybu a práce v kolejišti.",
+  "distraktory": [
+   "Ano, kdykoli ve stanici s DOZ; strojvedoucí žádost odmítnout nesmí a výpravčí mu pouze sdělí podmínky bezpečnosti pohybu v kolejišti.",
+   "Ne, příčinu nemožnosti přestavení výhybky smí zjišťovat pouze zaměstnanec řízení provozu nebo zaměstnanec OSPD, nikdy strojvedoucí."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 110,
+  "otazka": "Jak strojvedoucí ohlásí traťovému dispečerovi ve stanici DOZ zjištění, že protijedoucí vlak vjel do stanice celý?",
+  "obrazky": [],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 307 odst. (10) písm. b)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 307 odst. (10)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 307 odst. (1)"
+   }
+  ],
+  "odpoved": "U jiného (protijedoucího) vlaku nehlásí „vjel celý“, ale zjištěný stav: „Vlak ve stanici … na … koleji má ze strany od stanice … návěst Konec vlaku.“",
+  "plne_zneni": "SŽ D1 čl. 307 odst. (10): Ve stanici s DOZ může strojvedoucí, na základě žádosti výpravčího (traťového dispečera) z důvodu mimořádnosti (porucha staničního nebo traťového zabezpečovacího zařízení), zjišťovat, zda vlak (jeho vlastní nebo jiný) vjel do stanice celý za předpokladu, že může tuto skutečnost zjistit strojvedoucí sám ze svého stanoviště, příp. vzdálením se z kabiny hnacího vozidla (za podmínek stanovených dopravcem) při současném zajištění bezpečnosti své i cestujících či jiných přepravovaných osob, nebo může tímto pověřit jiného člena doprovodu vlaku. […] Traťový dispečer (výpravčí DOZ) žádá strojvedoucího např. takto:\na) pro vlastní vlak: „Vjel vlak 667 do stanice Hulín na čtvrtou kolej celý?“ — Strojvedoucí, který může zjistit, že je ve stanici celý, ohlásí, že je vlak celý např. takto: „Ano, vlak 667 ve stanici Hulín na čtvrté koleji celý.“\nb) pro jiný vlak: „Zjistěte, zda vlak ve stanici Hulín na čtvrté koleji má ze strany od stanice Otrokovice návěst Konec vlaku.“ — Strojvedoucí zjištěný stav ohlásí např. takto: „Vlak ve stanici Hulín na čtvrté koleji má ze strany od stanice Otrokovice návěst Konec vlaku.“ nebo „Vlak ve stanici Hulín na čtvrté koleji nemá návěst Konec vlaku.“\n\nSŽ D1 čl. 307 odst. (1) písm. a): Zjištění, že vlak vjel celý, je možno provést pohledem na návěst Konec vlaku.",
+  "distraktory": [
+   "Ohlásí to stejně jako u vlastního vlaku: „Ano, vlak 667 ve stanici Hulín na čtvrté koleji celý“, a to i pro protijedoucí vlak.",
+   "Ohlásí: „Vlak ve stanici Hulín na čtvrté koleji vjel celý a uvolnil zadní námezník nejméně na 20 m“, jinak hlášení nesmí podat."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 111,
+  "otazka": "Z jakého dokumentu zjistí strojvedoucí Číslo telefonu na „ohlašovací pracoviště“?",
+  "obrazky": [],
+  "tema": "Mimořádné události",
+  "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+  "zdroje": [
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+    "clanek": "list 10.A.0 Postup při vzniku MU"
+   },
+   {
+    "predpis": "ČD D17",
+    "clanek": "čl. 45"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 64 odst. (5)"
+   }
+  ],
+  "odpoved": "Z tabulek traťových poměrů (TTP) pojížděné trati, tabulky 3b; při MU v kolejišti ČD volá dispečera osobní dopravy ČD a územně příslušného strojmistra.",
+  "plne_zneni": "ČD Opatření ředitele O18 č. 36/2025, list 10.A.0 – Postup při vzniku MU: „ohlásit na ohlašovací pracoviště (přednostně RDST). Ohlašovací pracoviště: MU na dráze jiného provozovatele dráhy (např. SŽ) → dle Tab. 3b TTP + dispečer osobní dopravy ČD; MU na kolejišti ČD (vlečky a depa) → dispečer osobní dopravy ČD + strojmistr.“\n\nČD D17 čl. 45: Ohlašovacími pracovišti: a) při provozování dráhy a drážní dopravy na dráze ČD jsou: aa) pracoviště územně příslušného regionálního dispečera ČD, ab) pracoviště územně příslušného strojmistra; b) při provozování drážní dopravy na dráze SŽ jsou: ba) pracoviště výpravčího, dispečera CDP (dle ZDD a TTP), bb) pracoviště síťového nebo územně příslušného regionálního dispečera ČD.\n\nČD D17 čl. 44: Vedoucí organizační jednotky (OJ) provozovatele dráhy nebo drážní dopravy zajistí seznámení všech zaměstnanců s umístěním ohlašovacích pracovišť a odpovídá za vypracování ohlašovacího rozvrhu v obvodu jeho působnosti a za jeho aktuálnost.\n\nSŽ Z11 čl. 64 odst. (5): Nouzové spojení je uvedeno pro příslušnou trať nebo její část v TTP.",
+  "distraktory": [
+   "Z Prováděcího nařízení k předpisu SŽ D1 (PND), jehož příloha obsahuje seznam ohlašovacích pracovišť i s telefonními čísly.",
+   "Ze Základní dopravní dokumentace (ZDD) výchozí stanice, kde je pro celý oběh vlaku uvedeno příslušné ohlašovací pracoviště."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Potvrzeno Pavlem (20. 9. 2026). TTP (Tabulky traťových poměrů) nejsou ve složce k dispozici, konkrétní tabulku tedy nelze ověřit přímo v TTP. Odpověď se opírá o ČD OŘ O18 č. 36/2025 (list 10.A.0 uvádí výslovně „dle Tab. 3b TTP“), ČD D17 čl. 45 a SŽ Z11 čl. 64 odst. (5)."
+ },
+ {
+  "n": 112,
+  "otazka": "Strojvedoucí slyší v radiostanici toto hlášení: \"příjmu, stop, stop\" Jaký bude jeho postup?",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 4 odst. (19) – poznámky k tabulce 1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (3) – tabulka 8 písm. B)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (6) – tabulka 9 písm. B)"
+   }
+  ],
+  "odpoved": "Zavede okamžitě rychločinné brzdění, i když slyšel jen část znění; po zastavení vyčká na pokyny výpravčího a bez zjištění důvodu nesmí pokračovat v jízdě.",
+  "plne_zneni": "SŽ Z11 čl. 4 odst. (19), poznámky k tabulce 1, návěst Stůj, zastavte všemi prostředky:\n• zastavení provozu se vždy týká všech hnacích drážních vozidel (dále jen „HDV“) v dosahu radiostanice bez rozdílu (tedy všech vlaků, posunu a PMD);\n• strojvedoucí dotčených HDV musí neprodleně zahájit rychločinné brzdění i v případech, kdy uslyší i jen část ze slovního znění pokynu pro tuto návěst.\n\nSŽ Z11 čl. 29 odst. (3), tabulka 8 – B) činnost strojvedoucího HDV, který přijal pokyn k zastavení:\n1. zavede okamžitě rychločinné brzdění;\n2. po zastavení HDV vyčká na pokyny výpravčího *), který mu určí v souladu s DAP podmínky pro další jízdu;\n– v případě následně zjištěné poruchy VR (např. nelze zprávy vysílat, jen přijímat), se musí pokusit navázat spojení s výpravčím všemi dostupnými telekomunikačními prostředky;\n3. do doby zjištění důvodu zastavení a přijetí dalších pokynů a podmínek jízdy od výpravčího *) nesmí pokračovat v další jízdě.\n*) jedná se o výpravčího, který organizuje a řídí drážní dopravu v úseku, v němž se HDV nachází.",
+  "distraktory": [
+   "Zavede provozní brzdění a dotazem u výpravčího si ověří, zda se pokyn týkal i jeho vlaku; teprve po potvrzení zastaví rychločinným brzděním.",
+   "Zavede okamžitě rychločinné brzdění; po zastavení se ohlásí výpravčímu a po 5 minutách může pokračovat podle rozhledových poměrů nejvýše 40 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 113,
+  "otazka": "Strojvedoucí zjistí za jízdy vlaku na dvoukolejné trati překážku v sousední koleji. Jak bude dále postupovat?",
+  "obrazky": [],
+  "tema": "Jízda vlaku",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 462 odst. (4)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (5)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 145 odst. (4)"
+   }
+  ],
+  "odpoved": "Na hnacím vozidle rozsvítí návěst Stůj, zastavte všemi prostředky (při protijedoucích vozidlech nebo za snížené viditelnosti i slyšitelnou) a ihned zpraví výpravčího.",
+  "plne_zneni": "SŽ D1 čl. 462 odst. (4): Zpozoruje-li strojvedoucí při jízdě vlaku na vícekolejné trati (při souběhu tratí), že by mohl být ohrožen jiný vlak poruchou koleje, trakčního vedení, překážkou na trati nebo v její blízkosti apod., musí na hnacím vozidle rozsvítit návěst Stůj, zastavte všemi prostředky, případně ji při zpozorování protijedoucích vozidel nebo za snížené viditelnosti doplnit i návěstí slyšitelnou a co nejrychleji zpravit výpravčího a řídit se jeho pokyny. V případě nebezpečí z prodlení použije strojvedoucí i výpravčí všech dostupných prostředků k zastavení vlaku, jehož jízda je zjištěnou překážkou ohrožená.\nPodle tohoto odstavce musí jednat strojvedoucí sám nebo prostřednictvím členů doprovodu vlaku použít všech dostupných prostředků k zastavení vlaku, jehož jízda je zjištěnou překážkou ohrožená, nemůže-li vyrozumět výpravčího o ohrožení jízdy vlaku po sousední koleji.\n\nSŽ D1 čl. 145 odst. (5): […] Strojvedoucí vlaku (PMD, posunového dílu), který zjistil nesjízdné místo na sousední koleji (kolejích) nebo mu bylo oznámeno, a není rozhodující, zda se jedná o jedoucí nebo stojící vlak (PMD, posunový díl), musí učinit opatření k zastavení ostatních pohybujících se vozidel a na hnacím vozidle rozsvítit návěst Stůj, zastavte všemi prostředky.\n\nSŽ D1 čl. 145 odst. (4): Stůj, zastavte všemi prostředky – jedno červené světlo svítilny na hnacím vozidle, podle možnosti doplňované o přerušované rozsvěcování reflektorové svítilny nebo horního návěstního světla hnacího vozidla.",
+  "distraktory": [
+   "Na hnacím vozidle rozsvítí návěst Stůj, zastavte všemi prostředky a překážku ohlásí výpravčímu až po příjezdu do nejbližší stanice.",
+   "Neprodleně zastaví vlastní vlak, ohlásí překážku výpravčímu a dále pokračuje podle rozhledových poměrů rychlostí nejvýše 40 km/h."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 114,
+  "otazka": "Strojvedoucí posunového dílu ve stanici Libavá slyší v radiostanici toto hlášení: Pozor, pozor, všechny vlaky na příjmu, stop. stop. Jaký bude jeho další postup:",
+  "obrazky": [],
+  "tema": "GSM-R a rádio",
+  "predpis": "SŽ Z11",
+  "zdroje": [
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 4 odst. (19) – poznámky k tabulce 1"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (1)"
+   },
+   {
+    "predpis": "SŽ Z11",
+    "clanek": "čl. 29 odst. (3) – tabulka 8 písm. B)"
+   }
+  ],
+  "odpoved": "Pokyn se týká všech HDV v dosahu radiostanice, tedy i posunu – zavede okamžitě rychločinné brzdění a do zjištění důvodu vyčká na pokyny výpravčího.",
+  "plne_zneni": "SŽ Z11 čl. 4 odst. (19), poznámky k tabulce 1, návěst Stůj, zastavte všemi prostředky:\n• zastavení provozu se vždy týká všech hnacích drážních vozidel (dále jen „HDV“) v dosahu radiostanice bez rozdílu (tedy všech vlaků, posunu a PMD);\n• strojvedoucí dotčených HDV musí neprodleně zahájit rychločinné brzdění i v případech, kdy uslyší i jen část ze slovního znění pokynu pro tuto návěst.\n\nSŽ Z11 čl. 29 odst. (1): Při bezprostředním ohrožení železničního provozu, zvláště jsou-li ohroženy lidské životy a hrozí-li nebezpečí z prodlení, musí obsluhující zaměstnanec neprodleně provést činnost vedoucí k nouzovému zastavení provozu HDV, tedy jízd vlaků (PMD) nebo posunu v příslušné dopravně nebo v traťovém úseku.\n\nSŽ Z11 čl. 29 odst. (3), tabulka 8 – B) činnost strojvedoucího HDV, který přijal pokyn k zastavení:\n1. zavede okamžitě rychločinné brzdění;\n2. po zastavení HDV vyčká na pokyny výpravčího, který mu určí v souladu s DAP podmínky pro další jízdu;\n3. do doby zjištění důvodu zastavení a přijetí dalších pokynů a podmínek jízdy od výpravčího nesmí pokračovat v další jízdě.",
+  "distraktory": [
+   "Pokyn se týká jen vlaků a PMD – posunový díl může v posunu pokračovat, jen si dotazem u výpravčího ověří důvod zastavení vlaků.",
+   "Pokyn se týká všech HDV v dosahu radiostanice – zavede provozní brzdění a po zastavení může po dohodě s vedoucím posunu pokračovat."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 115,
+  "otazka": "Platí pro PMD krycí návěstidlo?",
+  "obrazky": [],
+  "tema": "PMD",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 109 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 257 odst. (3)"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 109 odst. (4)"
+   }
+  ],
+  "odpoved": "Platí jen tehdy, je-li o jeho platnosti strojvedoucí PMD zpraven písemným rozkazem; jinak na širé trati platí pro PMD pouze vjezdová návěstidla a vjezdové stop značky.",
+  "plne_zneni": "SŽ D1 čl. 109 odst. (3): Krycí návěstidlo platí: a) pro vlak; b) pro jízdu PMD, pokud je o jeho platnosti zpraven písemným rozkazem; c) pro posunový díl v dopravnách s kolejovým rozvětvením, je-li to stanoveno ZDD.\n\nSŽ D1 čl. 257 odst. (3): Na širé trati pro jízdu PMD platí pouze vjezdová návěstidla a vjezdové stop značky. Nemá-li příslušná traťová kolej vjezdové návěstidlo, musí být v písemném rozkaze stanoven způsob vjezdu do stanice (odbočky). V případě, že pro strojvedoucího PMD platí oddílové návěstidlo, krycí návěstidlo, návěstidlo dopravny Portál nebo oddílová stop značka, musí být o této skutečnosti zpraven písemným rozkazem.\n\nSŽ D1 čl. 109 odst. (4): Strojvedoucí vlaku (PMD, pokud je o platnosti krycího návěstidla pro jeho jízdu zpraven písemným rozkazem) se po zastavení před návěstí Stůj krycího návěstidla na širé trati ohlásí po uplynutí 5 minut výpravčímu přední stanice. […]\n\nSŽ D1 čl. 109 odst. (5): Zastaví-li PMD před platným krycím návěstidlem, zakazujícím jízdu nebo poškozeným, postupuje strojvedoucí stejně, jako zastaví-li před takovým návěstidlem vlak.",
+  "distraktory": [
+   "Platí pro PMD vždy stejně jako pro vlak; písemným rozkazem se strojvedoucí PMD zpravuje pouze o platnosti oddílových návěstidel.",
+   "Neplatí pro PMD nikdy; na širé trati platí pro PMD jen vjezdová návěstidla a přenosné návěsti Stůj u nesjízdného místa."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 116,
+  "otazka": "Jaká je rychlost PMD pro uváznutý vlak na trati, když není známa jeho kilometrická poloha?",
+  "obrazky": [],
+  "tema": "PMD",
+  "predpis": "SŽ D1",
+  "zdroje": [
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 256 odst. (7) písm. c)"
+   },
+   {
+    "predpis": "ČD Opatření ředitele O18 č. 36/2025",
+    "clanek": "list 7A.0 Posun mezi dopravnami"
+   },
+   {
+    "predpis": "SŽ D1",
+    "clanek": "čl. 256 odst. (7)"
+   }
+  ],
+  "odpoved": "Nejvýše 20 km/h od úrovně vjezdového návěstidla pro opačný směr jízdy, tj. v celém traťovém úseku mimo obvod stanice, a vždy podle rozhledových poměrů.",
+  "plne_zneni": "SŽ D1 čl. 256 odst. (7): Při jízdě PMD musí strojvedoucí vždy dodržet podmínky pro jízdu podle rozhledových poměrů, a to i v případě, že je mu jízda povolována návěstmi platnými pro jízdu vlaku. Se zřetelem na případná trvalá nebo přechodná omezení rychlosti může být rychlost jízdy PMD nejvíce:\na) 40 km/h, je-li tažen nebo jedná-li se o samotné hnací vozidlo (spojená hnací vozidla);\nb) 30 km/h, je-li sunut;\nc) 20 km/h od úrovně vjezdového návěstidla pro opačný směr jízdy: 1. jede-li na traťovou kolej obsazenou vlakem (jiným PMD); 2. jede-li na trať z důvodu zjištění volnosti a průjezdnosti koleje nebo odstranění překážky;\nd) 50 km/h při práci speciálního vozidla na širé trati, je-li to nařízeno předpisem dopravce nebo zařaditele vozidla.\n\nSŽ D1 čl. 266 odst. (10): Jízda PMD od vzdálenosti 10 m (odhadem) před stojícími vozidly uvázlého vlaku je považována za posun; zaměstnancem řídícím posun je strojvedoucí vedoucího vozidla uvázlého vlaku.\n\nČD OŘ O18 č. 36/2025, list 7A.0 – Posun mezi dopravnami: „Za jízdy podmínky jako při posunu: podle rozhledových poměrů; rychlost max. 40 km/h (při sunutí 30 km/h), při jízdě pro uvázlý vlak rychlost max. 20 km/h v celém úseku mimo obvod stanice.“",
+  "distraktory": [
+   "Nejvýše 40 km/h od úrovně vjezdového návěstidla pro opačný směr jízdy; na 20 km/h musí snížit až 300 m před stojícím uvázlým vlakem.",
+   "Nejvýše 30 km/h v celém traťovém úseku mimo obvod stanice; omezení 20 km/h platí jen tehdy, je-li PMD pro uvázlý vlak sunut."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Předpis omezení 20 km/h neváže na (ne)znalost kilometrické polohy uvázlého vlaku – 20 km/h od úrovně vjezdového návěstidla pro opačný směr jízdy platí vždy, jede-li PMD na traťovou kolej obsazenou vlakem. Neznalost km polohy tedy na hodnotě rychlosti nic nemění."
+ }
+]

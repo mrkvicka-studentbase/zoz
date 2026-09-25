@@ -1,0 +1,449 @@
+                     Správa železniční dopravní cesty, státní organizace
+                     Generální ředitelství
+                     Dlážděná 1003/7
+                     110 00 Praha 1
+
+
+
+ Pokyn provozovatele dráhy k zajištění plynulé a bezpečné
+     drážní dopravy č. 6/2008 ve znění změn č. 1 až 6
+Věc: Provozní opatření k provozování drážního vozidla typu ES64U4-C
+a ES64U4-D ve znění změn č.1 až 6.
+
+Č. j.: 11445/2014-O12
+
+Ukládací znak         : 01.3.2
+Skartační znak a lhůta: A 10
+
+Počet listů             : 10
+Počet příloh            : 1
+Počet listů příloh      : 1
+
+Gestorský útvar         : Odbor základního řízení provozu
+Zpracovatel             : Bc. Zdeněk Bek, Milan Karban, Ing. Josef Dostál,
+Tel.                    : 972 244 424     972 244 475, 972 244 476
+Fax                     : 222 335698
+E-mail                  : bek@szdc.cz, karban@szdc.cz, dostalj@szdc.cz,
+
+Rozdělovník             : dopravci, kteří používají dopravní cestu provozovanou SŽDC,
+                          MD ČR, DI ČR, DÚ, SŽDC,
+
+Rozsah znalostí         : strojvedoucí drážních vozidel typu ES64U4-C a ES64U4-D –
+                          úplná znalost,
+                          zaměstnanci     zabývající   se     činnostmi  souvisejícími
+                          s provozováním dráhy – úplná znalost,
+                          zaměstnanci     organizující    činnost   výše   uvedených
+                          zaměstnanců - úplná znalost.
+
+Účinnost od             : dnem zveřejnění
+
+
+
+V Praze dne:           :28.07.2016
+
+
+
+                                                              Ing. Pavel Surý
+                                                              generální ředitel
+ Pokyn provozovatele dráhy k zajištění plynulé a bezpečné
+     drážní dopravy č. 6/2008 ve znění změn č.1 až 6.
+
+
+
+                   Změna č. 1 schválena generálním ředitelem SŽDC
+                                     dne: 9.10.2009
+                                 č. j.: 26234/2009-OŘ
+
+                   Změna č. 2 schválena generálním ředitelem SŽDC
+                                      dne: 4.1.2011
+                                 č. j.: 49150/2010-OŘ
+
+                   Změna č. 3 schválena generálním ředitelem SŽDC
+
+                                      dne: 3.7.2012
+                               č. j.: 24910/2012-OZŘP
+
+                   Změna č. 4 schválena generálním ředitelem SŽDC
+
+                                      dnem podpisu
+                                č. j.: 11445/2014-O12
+
+
+                   Změna č. 5 schválena generálním ředitelem SŽDC
+
+                                     dnem podpisu
+                             č. j.: 3306/2016-SŽDC-O12
+
+
+                   Změna č. 6 schválena generálním ředitelem SŽDC
+
+                                     dnem podpisu
+                            č. j.:S 28003/2016-SŽDC-O12
+
+
+
+
+Gestorský útvar:     Správa železniční dopravní cesty, státní organizace
+                     Odbor základního řízení provozu
+                     Dlážděná 1003/7
+                     110 00 Praha 1
+Rok vydání:          2016
+
+
+
+
+                                          2
+                                       OBSAH
+Obsah                                                               4
+List provedených změn                                               5
+Seznam použitých značek a zkratek                                   6
+Část první - úvodní ustanovení                                      7
+Část druhá - přehled tratí                                          7
+Část třetí - trakční zařízení                                       8
+Část čtvrtá - sdělovací a zabezpečovací zařízení                    9
+Část pátá - přechodnost a traťové poměry                            9
+Část šestá Závěrečná ustanovení                                     9
+Příloha č. 1 - Seznam tratí omezující podmínky provozu lokomotivy   10
+
+
+
+
+                                            3
+                       LIST PROVEDENÝCH ZMĚN
+
+         Č. j. změny                                                          Změnu
+                                                                Datum         provedl
+ Číslo                   Změna se týká ustanovení a
+          Datum                                                účinnosti     příjmení a
+změny                              příloh:
+         schválení                                              změny         jméno /
+                                                                              podpis
+         26234/2009-
+                     Rozšíření pravidelného provozu o                       Bc. Zdeněk Bek
+             OŘ
+  1.                 úsek Přerov – Břeclav (316).
+                                                               15.10.2009
+                     Zrušení rychlostního omezení H.
+          9.10.2009 Dvořiště – Č. Budějovice.
+
+         49150/2010-
+                     Rozšíření o řadu ES64U4-D. Změny                       Bc. Zdeněk Bek
+              OŘ
+  2.                 omezení v Příloze č.2. Zrušena             5.1.2011
+           4.1.2011 příloha č.2 Základní technické údaje
+
+         24910/2012-
+                                                                            Bc. Zdeněk Bek
+            OZŘP     Rozšíření části druhé bod 2.1.
+  3.                 o provozované tratě,                      16.7.2012
+           3.7.2012 doplnění části třetí bod 3.3.
+
+         11445/2014-
+                                                                            Bc. Zdeněk Bek
+             O12     Na základě TZ001/2014 a
+  4.                 TZ003/2014 se mění čl. 1.1.,              17.3.2014
+            Dnem     doplňuje čl. 2.1. až 2.4, ruší čl. 3.1.
+          zveřejnění
+
+         3306/2016-
+                                                                            Bc. Zdeněk Bek
+         SŽDC-O12 Na základě TZ014/2015 se mění                  Dnem
+  5.
+                    čl. 1.1. a doplňuje čl. 2.1. až 2.4.       zveřejnění
+         10.02.2016
+
+         28003/2016-
+                                                                            Bc. Zdeněk Bek
+         SŽDC-O12                                                Dnem
+  6.                   Změna čl. 2.1. a přílohy č. 1.
+                                                               zveřejnění
+         28.07.2016
+
+
+
+
+                                             4
+        SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+SŽDC      Správa železniční dopravní cesty
+MD ČR     Ministerstvo dopravy České republiky
+DI ČR     Drážní inspekce České republiky
+DÚ        Drážní úřad
+ŽST       železniční stanice
+
+
+
+
+                                     5
+                                         ČÁST PRVNÍ
+                                   Úvodní ustanovení
+      1.1      Drážní úřad jako správní drážní úřad podle § 54 odst. 1 a § 55 zákona
+      č. 266/1994 Sb. o dráhách, ve znění pozdějších předpisů rozhodl podle § 43 odst.
+      4 zákona o dráhách vydal Rozhodnutí č. j. DUCR-24098/10/Kv ze dne 13.5.2010
+      o schválení typu a č. j. DUCR-59191/13/Fr ze dne 31.10.2013 o schválení změny
+      drážního vozidla elektrické lokomotivy typu ES64U4-C a ES64U4-D.
+           Správa železniční dopravní cesty, státní organizace, jako provozovatel dráhy
+      vydává na základě Technických zpráv TZ 021/2008, SPO 005/2012, TZ001/2014,
+      TZ 003/2014 a TZ 014/2015 v souladu s výše uvedeným Rozhodnutím o schválení typu
+      drážního vozidla elektrické lokomotivy typu ES64U4-C a ES64U4-D provozní opatření.
+
+
+                                        ČÁST DRUHÁ
+                                         Přehled tratí
+      2.1      Seznam tratí, kde může být drážní vozidlo provozováno, zpracovaný na
+      základě technických zpráv pověřené právnické osoby podle § 43 zákona č. 266/1994 Sb.
+      o dráhách.
+ Trať číslo                                          Traťový úsek
+301           Mosty u Jablůnkova st. hr. – Dětmarovice – Bohumín,
+              Petrovice u Karviné st. hr. – Petrovice u Karviné – Dětmarovice,
+              Odb. Koukolná – Odb. Závada,
+              Odb. Chotěbuz – Ostrava–Kunčice,Ostrava uhelné nádraží – Ostrava–KunčiceOstrava-
+              Kunčice – Ostrava-Vítkovice1) – Odb. Odra – Výh. Polanka,
+              Odb. Odra – Ostava-Svinov,
+                   1)
+              -      v ŽST Ostrava-Vítkovice dovolen provoz pouze po koleji č. 1, 2, 3 a 4. Ostatní koleje
+                   vjezd zakázán, včetně vlečky Acelor.
+305           Bohumín st. hr. – Bohumín
+              Bohumín – Ostrava hl.n. – Hranice na Moravě (včetně 4. koleje směr Drahotuše) – Přerov,
+              Přerov – Nedakonice,
+              Studénka – Sedlnice,
+              Sedlnice – Mošnov,
+              Přerov – Nezamyslice8),
+              8)
+                 Z důvodů nekompatibility s kolejovým obvodem v ŽST Kojetín směr vlečka Seliko
+              je zakázána jízda ve 3. kusé koleji za návěstidlo Se3.
+308           Hranice na Moravě – Valašské Meziříčí (mimo)3) – Horní Lideč st.hr.
+              3)
+               Z důvodů nekompatibility s kolejovými obvody v části ŽST Valašské Meziříčí je od vj.n. až
+              po vj.n. z opačné strany povolena jízda pouze s přípřežním hnacím vozidlem, případně
+              vysunutím ze ŽST Valašské Meziříčí.
+309           Přerov – Česká Třebová,
+              Třebovice v Č. – Česká Třebová vj. skupina,
+              Třebovice v Č. – Odb. Les - Česká Třebová odj. skupina,
+
+
+
+                                                    6
+      Prosenice – výhybna Dluhonice.
+315   Nezamyslice – Brno hl.n..
+316   Nedakonice – Břeclav
+320   Lanžhot st. hr. – Břeclav – Brno hl.n.,
+      Brno-Horní Heršpice – Brno dolní nádraží – Odb. Brno Židenice,
+      (Hohenau) – Břeclav st. hr. – Břeclav,
+      Odb. Židenice – Brno Maloměřice – Brno Maloměřice st.6,
+      Brno Horní Heršpice – 3. traťová kolej – Brno hl.n.,
+      Brno Horní Heršpice – Brno jih – Brno Modřice.
+324   Brno hl.n. – Odb. Brno–Židenice – Kutná Hora.
+326   Odb. Brno–Židenice – Svitavy
+501   Česká Třebová – Praha–Libeň,
+      Svitavy – Česká Třebová,
+      Česká Třebová odj. skupina – Odb. Parník,
+      Odb. Zádulka – Odb. Les,
+      Odb. Zádulka – Česká Třebová vj. skupina,
+      Odb. Zádulka – Česká Třebová odj. Skupina.
+      Kutná Hora – Kolín – Nymburk 4) – Lysá n.L.,
+502
+      Nymburk hl.n. 4) – Poříčany,
+      4)
+        Z důvodů nekompatibility s kolejovými obvody musí být provoz lokomotiv zajištěn podle
+      podmínek uvedených v článcích 2.2, 2.3 a 2.4. Pokud nebudou podmínky splněny, musí být
+      při řízení provozu zjišťována volnost vlakové cesty v celé ŽST Nymburk hl.n. vizuálně
+      v kolejišti a nikoliv pouze podle indikačních prvků zabezpečovacího zařízení ve znění
+      staničních řádů.
+503   Lysá nad Labem – Štětí,
+           -        pokračující část tratě Štětí – Ústí n.L. západ je nekompatibilní - povolena jízda
+                    pouze s přípřežním hnacím vozidlem.
+504   Ústí nad Labem západ. – Bohosudov (mimo), (část od prvních seř. náv. Se1 a Se2 za vj. náv.
+      L a 1L do Bohosudova až do Bíliny (mimo) je nekompatibilní - povolena jízda pouze
+      s přípřežním hnacím vozidlem),
+      Bílina – Most – Chomutov – Kadaň–Prunéřov,
+      Odb. České Zlatníky – Obrnice
+      Další nekompatibilní úseky na této trati, kde je povolena jízda pouze s přípřežním hnacím
+      vozidlem: Ústí nad Labem západ (mimo) – Úpořiny – Bílina(mimo), Most (mimo) – Most
+      n.n., Třebušice (mimo) – Most n.n.
+505   Pardubice hl.n. – Opatovice nad Labem – Hradec Králové6),
+      Choceň – Hradec Králové – ŽST Choťovice6) – ŽST Nové Město nad Cidlinou6) – Velký
+      Osek,
+      Odb. Plačice – Opatovice nad Labem.
+               6)
+      -        Z důvodů nekompatibility s kolejovými obvody v ŽST Choťovice a ŽST Nové Město
+           nad Cidlinou od vj.n. až po vj.n. z opačné strany je povolena jízda pouze výběhem a
+           přímým směrem (chod pomocných pohonů lokomotivy ES64U4-C a ES64U4-D
+           možný).
+           6)
+      -       Z důvodů nekompatibility s kolejovými obvody v ŽST Hradec Králové na zhlaví směr
+           Třebechovice v Č. od úrovně cestových návěstidel Lc2 – Lc8, Lc1 – Lc13až po vj.n. HS
+           z opačné strany povolena jízda pouze výběhem (chod pomocných pohonů lokomotivy
+
+
+
+                                                7
+           ES64U4-C a ES64U4-D možný). Nesmí na koleje č. 17 – 23.
+512   Lichkov – Ústí nad Orlicí,
+      Lichkov st.hr. – Lichkov
+519   Benešov u Prahy – Praha–Hostivař – Praha–Vršovice.
+521   Praha Vršovice vj.n. – Praha-Krč (mimo) 7) – Praha Radotín,
+      Praha Smíchov (mimo) – Beroun (mimo).
+      7)
+        Z důvodů nekompatibility s kolejovými obvody v obvodu ŽST Praha Smíchov a ŽST
+      Praha-Krč je od vj.n. až po vj.n. z opačné strany povolena jízda pouze s přípřežním hnacím
+      vozidlem, případně vysunutím.
+524   Lysá n. L. – Mstětice8) – Praha–Vysočany,
+      8)
+        Z důvodů nekompatibility s kolejovými obvody musí být provoz lokomotiv zajištěn podle
+      podmínek uvedených v článcích 2.2, 2.3 a 2.4. Pokud nebudou podmínky splněny, musí být
+      při řízení provozu zjišťována volnost vlakové cesty v celé v ŽST Mstětice vizuálně v kolejišti
+      a nikoliv pouze podle indikačních prvků zabezpečovacího zařízení ve znění staničních řádů.
+525   Praha–Libeň – Praha hl. n.,
+      Praha–Vysočany – Praha hl. n.,
+      Praha–Vršovice – Praha hl. n.,
+      Praha–Běchovice – Praha–Malešice – Praha–Vršovice – Výh. Praha–Vyšehrad – Praha-
+      Smíchov ,
+      Praha–Vysočany – Praha–Libeň – Praha–Malešice – Praha–Hostivař,
+      Praha–Vršovice – km 0,429 – Praha odstavné nádraží (majetek ČD),
+      Praha–Vršovice – km 3,75 – Praha odstavné nádraží (majetek ČD)
+526   Praha–Libeň – Praha–Holešovice – Praha–Holešovice Stromovka,
+      Praha–Libeň – Praha–Bubny – Praha–Holešovice Stromovka – Praha–Bubeneč,
+      Odb. Balabenka – Praha–Holešovice obvod Rokytka,
+      Odb. Balabenka – Praha Masarykovo n. obvod Sluncová – Praha–Masarykovo n.
+527   Praha Bubeneč – Ústí nad Labem hl.n. jih – Ústí nad Labem hl.n. – Děčín hl.n.,
+      Ústí nad Labem jih – Ústí nad Labem západ (v celém obvodu).
+531   Odb. Č. Zlatníky – Obrnice – Postoloprty.
+532   Kralupy nad Vltavou – Chvatěruby.
+533   Kadaň–Prunéřov – (Chodov) – Cheb.
+544   Děčín hl.n. – Děčín st.hr.,
+      Děčín východ dolní n. – Děčín–Prostřední Žleb.
+701   Veselí nad Lužnicí – Jihlava – Havlíčkův Brod,
+      -    v úseku Jihlava město – Horní Cerekev a v obvodu ŽST Jihlávka mezi vj. návěstidly
+           z obou stran je povolen provoz pouze podle čl. 2.5 (150A).
+704   České Budějovice – Ševětín a Soběslav – Benešov u Prahy,
+      -    v úseku Ševětín – Soběslav je zatím do doby dokončení výstavby koridoru povolen
+           provoz pouze podle čl. 2.5(150A).
+705   Č. Velenice st. hr. – České Budějovice.
+706   Horní Dvořiště st. hr. – České Budějovice.
+709   České Budějovice – Plzeň hl. n.
+713   Beroun9) – Plzeň hl. n. (v úseku Chrást u Plzně – Plzeň hl.n. mezi vj. náv. CH1L a CH2L v
+
+
+
+                                            8
+              km 108,002 a vj. náv. 1S, 2S a 3S v km 351,441 směr Cheb je zatím do doby dokončení
+              výstavby koridoru povolen provoz pouze podle čl. 2.5), 713A,
+              Plzeň hl. n. - Cheb.
+              9)
+                 V ŽST Beroun jsou úseky mezi náv. Se27 a Sc201-211 a do úrovní náv. Sc213-219 jsou
+              nekompatibilní. Vjezd z/do ŽST Beroun seř. nádraží od St.1 lze bez přípřeže pouze po koleji
+              č. 93s přes výhybku 203b tedy pouze na koleje 201 až 211.
+
+
+
+      2.2      Bez zvláštních opatření musí být pro průjezd ŽST Nymburk hl. n. použity
+pouze staniční koleje 1, 2, 3, 4, 6 a 8 osobního nádraží. Není dovolen vjezd za výměnu č. 101
+a č. 7 na předjízdné koleje 203, 205 a 207, a za výměnu č. 25, 53 a 54 na koleje č. 12 až 26,
+101 až 110.
+      Do obvodu seřaďovacího nádraží Nymburk není dovolen vjezd ze směru od Kostomlat
+nad Labem za výměny č. 53 koleje č.110b a č. 54 koleje č. 109b osobního nádraží.
+      Do obvodu seřaďovacího nádraží Nymburk není dovolen vjezd ve směru od Odbočky
+Babín po traťové koleji č. 3 a č. 4.
+
+      2.3       Za stávajícího uspořádání napájení trakčního vedení v ŽST Nymburk hl. n. je
+technicky zajištěno splnění požadavků TZ 001/2014 a TZ 003/2014 v následujících staničních
+kolejích s nekompatibilními fázově necitlivými kolejovými obvody se signálním kmitočtem
+50 Hz:
+      • 203, 205, 207 – kusá,
+      • 12, 14, 16 – kusá, 18,
+      • 24 a 26.
+
+      2.4      Bez zvláštních opatření musí být pro průjezd ŽST Mstětice použity pouze
+staniční koleje 1, 2 a 4. Není dovolen vjezd trakčně činného vozidla do obvodu výhybek
+č. V15J, V18J a V15J/A1J na kolejích 3, 5 a 7.
+
+     2.5     Na základě podmínek stanovených v technické zprávě TZ-014/2015 může na
+uvedených traťových úsecích s kolejovými obvody 25 Hz lokomotiva vyvíjet tažnou sílu
+pouze pokud má zajištěno omezení maximálního trakčního výkonu proudově na hodnotu
+150 A.
+
+
+                                       ČÁST TŘETÍ
+                                     Trakční zařízení
+     3.1      Zrušen. (vydáním změny č. 4; obsahově byl zrušen již vydáním Pokynu
+provozovatele dráhy č. 1/2013 a následně novelizací předpisu SŽDC D1 s účinností
+od 1.7.2013).
+
+
+       3.2     Podmínky použití rekuperační brzdy na infrastruktuře SŽDC při současném
+navracení elektřiny do trakčního vedení, nebo udržování napětí v trakčním vedení při
+rekuperaci pro drážní vozidla typu ES64U4-C a ES64U4-D jsou uvedené v platném znění
+pokynu generálního ředitele SŽDC č.14/2008 č. j. 1252/08-OAE platného od 1.11.2008 pro
+provoz na trakční soustavě 25 kV,50 Hz a platném znění pokynu generálního ředitele 11/2009
+č. j. 31611/2009-S ze dne 10.9.2009 na trakční soustavě 3 kV za předpokladu dodržení všech
+
+
+
+                                                  9
+ustanovení a povinností z nich plynoucích a dále ustanovení bodů 12 a 15.7 normy
+ČSN EN 50388 ed. 2.
+
+     3.3        Na tratích SŽDC není povoleno používat hnací vozidla se sběrači proudu
+vybavenými ocelovým nebo měděným obložením smýkadla sběrače. Sběrače provozovaných
+vozidel včetně i použitého materiálu obložení smýkadla musí být schváleny pro provoz na
+železniční síti ČR.
+
+
+
+                             ČÁST ČTVRTÁ
+                      Sdělovací a zabezpečovací zařízení
+
+      4.1     Uvedené drážní vozidlo smí být z hlediska svých účinků na zabezpečovací
+zařízení provozováno na všech tratích uvedených v části druhé jako jediné činné vozidlo na
+vlaku. Toto hnací vozidlo může pracovat se čtyřmi resp. třemi trakčními jednotkami.
+
+
+                                ČÁST PÁTÁ
+                         Přechodnosti a traťové poměry
+
+      5.1       Na tratích uvedených v opatření může být hnací vozidlo provozováno jako
+činné, k službě pohotové nebo nečinné.
+      Z toho důvodu určuji, že z hlediska svislých účinků na železniční svršek a železniční
+spodek nepřesahuje účinnost lokomotivy skupinu přechodnosti traťové třídy C2. Příčné
+účinky na trať jsou stanoveny do skupiny přechodnosti 2.
+      Hnací vozidlo může být na tratích uvedených v článku 2.1 provozováno podle horních
+rychlostníků N.
+      5.2      Na tratích neuvedených v opatření může být vozidlo provozováno pouze jako
+nečinné. Z toho důvodu určuji, že z hlediska svislých účinků na železniční svršek a železniční
+spodek nepřesahuje účinnost lokomotivy ekvivalent traťové třídy C2.
+      Příčné účinky na trať jsou stanoveny do skupiny přechodnosti 3.
+    5.3        Pro jízdy v trati Praha-Vršovice – km 0,429 a km 3,75 - Praha ONJ
+vjezd/odjezd a zpět, povolujeme mimořádnou přechodnost lokomotivy ES64U4-C
+a ES64U4-D.
+    5.4        Omezující podmínky pro provoz lokomotivy ES64U4-C a ES64U4-D na
+jednotlivých traťových úsecích jsou uvedeny v příloze č. 1 tohoto pokynu.
+
+
+                                  ČÁST ŠESTÁ
+                                Závěrečná ustanovení
+
+    6.1        Technické parametry vozidla jsou uvedeny v předpise SŽDC (ČD) D2/1,
+případně v aplikaci REVOZ.
+    6.2        Se zněním tohoto výnosu prokazatelně seznamte všechny v úvahu přicházející
+zaměstnance.
+    6.3        Obsah tohoto výnosu zařaďte do náplně nejbližšího povinného školení
+zúčastněných zaměstnanců.
+
+
+                                             10
+    6.4      Za dodržení pokynu provozovatele dráhy č. 6/2008 a podmínek stanovených
+v tomto pokynu je zodpovědný dopravce.
+
+
+
+
+                                          11
+Příloha 1:
+Seznam tratí s omezujícími podmínkami pro provoz lokomotivy typu ES64U4-C a ES64U4-D při zařazení do kategorie „2“ z hlediska příčných účinků
+ s platností rychlostníků N. Tato tabulka doplňuje údaje TTP, tabulek 6 a 11 příslušných tratí.
+Číslo tratě dle SJŘ               Traťový úsek                     Traťová omezení                           Důvody omezení
+525/526 Praha-Vršovice - km                                        povolena mimořádná přechodnost lokomotivy
+0,429 a Praha-Vršovice - km                                        ES64U4-C a ES64U4-D.
+3,75 - Praha ONJ (ONJ v
+majetku ČD a.s.)
+

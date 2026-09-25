@@ -1,0 +1,608 @@
+ČD
+1759/21-O10
+Ok 3
+
+
+
+
+                                    Předpis
+                  o stejnokroji zaměstnanců ČD, a.s.
+
+
+
+       Schváleno usnesením Představenstva společnosti České dráhy, a.s. dne 21.12.2021
+
+
+
+
+       Účinnost od 01.01.2022
+
+
+                                 Úroveň přístupu „C“
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                                                                     OBSAH
+OBSAH .................................................................................................................................................... 2
+ZÁZNAM O ZMĚNÁCH ........................................................................................................................... 3
+OBSAH ZMĚN......................................................................................................................................... 4
+ROZSAH ZNALOSTÍ ............................................................................................................................... 5
+SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK ....................................................................................... 6
+ČÁST PRVNÍ ZÁKLADNÍ USTANOVENÍ ................................................................................................ 7
+   KAPITOLA I ÚVODNÍ USTANOVENÍ ............................................................................................................ 7
+   KAPITOLA II ZÁKLADNÍ POJMY ................................................................................................................. 7
+   KAPITOLA III POVINNOSTI ZAMĚSTNAVATELE A ZAMĚSTNANCE .................................................................. 7
+ČÁST DRUHÁ PODMÍNKY NÁROKOVOSTI ......................................................................................... 8
+   KAPITOLA I PŘIDĚLOVÁNÍ STEJNOKROJE A AKČNÍHO ODĚVU ...................................................................... 8
+   KAPITOLA II PŘÍDĚL BODŮ ...................................................................................................................... 9
+   KAPITOLA III VÝSTROJNÍ NÁROK ............................................................................................................ 10
+ČÁST TŘETÍ KATEGORIZACE STANOVENÉHO OKRUHU PROVOZNÍCH ZAMĚSTNANCŮ ......... 11
+   KAPITOLA I ZAŘAZENÍ DO JEDNOTLIVÝCH KATEGORIÍ .............................................................................. 11
+ČÁST ČTVRTÁ TECHNOLOGICKÝ POSTUP PRO OBJEDNÁVÁNÍ A DISTRIBUCI VÝSTROJNÍCH
+SOUČÁSTÍ ZÁSILKOVÝM SYSTÉMEM ............................................................................................... 11
+ČÁST PÁTÁ ZÁVĚREČNÁ USTANOVENÍ ........................................................................................... 13
+
+
+
+
+                                                                             2
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                                    ZÁZNAM O ZMĚNÁCH
+  (Držitel tohoto dokumentu je odpovědný za včasné a správné provedení a zaznamenání schválených
+                                       změn na této stránce.)
+
+                          Změna                                           Předpis
+                                                                                 Podpis
+Poř.
+              Číslo jednací                Účinnost od      Opravil   Dne        (v případě tiskové
+č.
+                                                                                 podoby předpisu)
+
+
+
+
+                                                      3
+ Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                                            OBSAH ZMĚN
+
+Změna
+                            Obsah změny1                           Účinnost od     Změnu provedl 2
+  č.
+
+
+
+
+ 1 Uvést výčet ustanovení předpisu, u kterých proběhla změna (např. změna v ČÁSTl. …. v Kap. …apod.).
+ 2 Gestor předpisu.
+
+
+
+                                                       4
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+
+                                      ROZSAH ZNALOSTÍ
+
+    Organizační
+                                           Funkce                                    Znalost
+      složka
+                                                                      informativní
+     Generální        vedoucí zaměstnanci GŘ ČD
+   ředitelství ČD
+                                                                      úplná
+                      pověření zaměstnanci
+                                                                      úplná
+                      zaměstnanci s nárokem na stejnokroj
+                                                                      informativní
+    Organizační       vedoucí OS ČD
+     složky ČD
+                                                                      úplná
+                      pověření zaměstnanci
+                                                                      úplná
+                      zaměstnanci s nárokem na stejnokroj
+
+
+
+
+                                                      5
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                   SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+a.s.                     akciová společnost
+BOZP                     Bezpečnost a ochrana zdraví při práci
+CIS                      Centrum interních služeb
+ČD                       České dráhy, a. s.
+DPČ                      Dohoda o pracovní činnosti
+DPP                      Dohoda o provedení práce
+ELDP                     Evidenční list důchodového pojištění
+GŘ ČD                    Generální ředitelství Českých drah
+HPP                      Hlavní pracovní poměr
+HRSAP                    Modul lidských zdrojů v SAPu
+KZAM                     Klasifikace zaměstnání (v podmínkách ČD SR 73)
+MMSAP                    Modul materiálního hospodářství v SAPu
+MTZ                      Materiálně technické zásobování
+OL                       Objednací list výstrojních součástí ČD
+OS ČD                    Organizační složka ČD
+O 10 GŘ ČD               Odbor péče o zaměstnance
+OOPP                     Osobní ochranné pracovní prostředky
+PKS                      Podniková kolektivní smlouva
+SR                       Služební rukověť
+UB                       Objednávka přeskladnění
+UBV                      Objednávka výstrojních součástí
+VS                       Výstrojní součásti
+ZC                       Zásobovací centrum
+ZS                       Zásilkový systém
+
+
+
+
+                                                      6
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                                      ČÁST PRVNÍ
+                                  ZÁKLADNÍ USTANOVENÍ
+                                             Kapitola I
+                                         Úvodní ustanovení
+
+    1. Tento předpis stanovuje zásady pro poskytování a nošení stejnokroje stanovenému
+       okruhu zaměstnanců ČD, kteří přicházejí při výkonu práce (pracovní činnosti) do
+       bezprostředního styku se zákazníkem a akčního oděvu v případech, kdy vykonávají i
+       činnosti provozního charakteru.
+
+    2. Příspěvek na čištění výstrojních součástí je řešen Opatřením ředitele O10
+       k poskytování příspěvku na údržbu výstrojních součástí, v platném znění.
+
+    3. Tento předpis je závazný pro všechny zaměstnance ČD.
+
+
+
+                                              Kapitola II
+                                            Základní pojmy
+
+    1. Stejnokroj – jednotné pracovní oblečení poskytované určenému okruhu zaměstnanců
+       plnící reprezentační účely.
+       Akční oděv – oděv určený pro výkon některých provozních činností.
+       Výstrojní součásti – označení pro stejnokrojové i akční součásti.
+       Stejnokrojové součásti – jednotlivé součásti stejnokroje.
+       Akční součásti – jednotlivé oděvní součásti akčního oděvu.
+       Systém výstrojních bodů – vnitřní systém ČD určený k odběru a ohodnocení
+       výstrojních součástí. Každé výstrojní součásti odpovídá daný počet bodů.
+       Zaměstnanec disponuje počtem bodů dle nároku.
+       Kategorie A, B, C, D, E – odstupňovaný nárok výstrojních bodů s ohledem na výkon
+       profese a opotřebení výstrojních součástí.
+       Zásilkový systém – systém distribuce výstrojních součástí.
+       Výstrojní bod – jednotka ohodnocení výstrojních součástí ve vnitřním systému ČD.
+       Měřenka – výstrojní součást nestandardní velikosti, kterou je povoleno objednat pouze
+       v případě, že se míry konkrétního zaměstnance pohybují mimo velikostní rozsah
+       konkrétního sortimentu.
+       Reklamace – uplatňuje se v případě, kdy má výstrojní součást zjevnou či skrytou vadu,
+       přičemž zjevnou vadou se rozumí i případ, kdy zaměstnanec obdrží prokazatelně jinou
+       velikost, než bylo uvedeno na objednávce (např. v požadavku je uvedena velikost L,
+       dodána je součást s označením S).
+       Výměna – uplatňuje se v případě, kdy dodaná velikost výstrojní součásti se
+       zaměstnanci po prvotním posouzení jeví jako neodpovídající velikosti výstrojní součásti
+       objednané.
+
+                                       Kapitola III
+                         Povinnosti zaměstnavatele a zaměstnance
+
+    1. Povinnosti zaměstnavatele:
+
+         umožnit zaměstnanci s nárokem na stejnokroj nebo akční oděv, vybavit se
+          výstrojními součástmi v rámci ustanovení tohoto předpisu.
+         kontrolovat a vyžadovat v rámci své pravomoci dodržování podmínek pro
+          poskytování a užívání stejnokroje a akčního oděvu stanovených tímto předpisem,
+
+
+                                                      7
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+            kontrolovat řádnou úpravu stejnokroje nebo akčního oděvu svých podřízených
+            zaměstnanců, zejména při nástupu do výkonu práce (pracovní činnosti) a
+            postupovat dle platných vnitřních norem společnosti.
+
+    2. Povinnosti zaměstnance:
+
+            po vykonání příslušné odborné zkoušky objednat výstrojní součásti (balíček),
+            pravidelně využívat obnovu výstrojních součástí, dle přídělu bodů,
+            nosit stejnokroj nebo akční oděv při výkonu povolání (pracovní činnosti),
+            při výkonu povolání (pracovní činnosti) být řádně upraven s vědomím, že
+             reprezentuje ČD,
+            používat výstrojní součásti šetrně a udržovat je v řádném a čistém stavu
+            příspěvek na čištění výstrojních součástí je řešen Opatřením ředitele O10
+             k poskytování příspěvku na údržbu výstrojních součástí, v platném znění,
+            nosit stejnokrojové součásti v souladu s Procesním listem osobní přepravy –
+             Stejnokroje, který je nedílnou součástí Předpisu ČD KC 13 – Předpis pro osobní
+             přepravu,
+            nosit akční oděv vhodným způsobem dle přidělených výstrojních součástí,
+            v případě ukončení pracovního poměru vrátit zaměstnavateli jednotlivé výstrojní
+             součásti, u nichž neuplynula stanovená vynášecí doba. Vrácení výstrojních
+             součástí je součástí procesu vyrovnání závazků zaměstnance vůči zaměstnavateli
+             při ukončení pracovního poměru. Tato povinnost se nevztahuje na zaměstnance,
+             jejichž pracovní poměr skončil z důvodu uvedených v části druhé, kap.I, bodu 7.
+
+    3. Nenošení stejnokroje nebo akčního oděvu, nebo nošení stejnokroje nebo akčního
+       oděvu v znečištěném a neupraveném stavu při výkonu povolání (pracovní činnosti),
+       pro které je určen, je posuzováno jako porušení platných vnitřních norem společnosti.
+
+
+
+
+                                     ČÁST DRUHÁ
+                                PODMÍNKY NÁROKOVOSTI
+                                           Kapitola I
+                           Přidělování stejnokroje a akčního oděvu
+
+    1. Stejnokroj i akční oděv je přidělován zaměstnancům na základě povolání, která jsou
+       stanovena tímto předpisem a dle zařazení do kategorie. Vyjmenované profese v
+       kategoriích A, B, C mají nárok na stejnokroj a profese v kategorii D, E mají nárok na
+       akční oděv. Dle zařazení povolání do kategorií je přidělen příslušný počet výstrojních
+       bodů.
+
+    2. Výstrojní období se stanoví vždy na 12 měsíců, od účinnosti bodového konta.
+
+    3. Objednávání výstrojních součástí probíhá prostřednictvím e-katalogu výstrojních
+       součástí.
+
+    4. Způsoby doručení:
+           zásilka na určenou adresu zaměstnance,
+           zásilka je doručena na uvedenou domovskou stanici.
+
+    5. Výstrojní součásti a výstrojní body jsou vlastnictvím ČD, které je zálohově poskytují
+       zaměstnancům s nárokem na stejnokroj nebo akční oděv. Do osobního vlastnictví
+
+
+                                                      8
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+        zaměstnance přecházejí jednotlivé výstrojní součásti, které byly odebrány na základě
+        výstrojních bodů, až po uplynutí stanovené vynášecí doby (příloha č. 1).
+
+    6. V případě zániku nároku na stejnokroj nebo akční oděv zaměstnanec ztrácí nárok na
+       zbylé výstrojní body. Zaměstnanci je zakázáno ode dne podání výpovědi nebo
+       uzavření dohody o ukončení pracovního poměru objednávat výstrojní součásti.
+       Bodové konto zaměstnance bude ke dni podání výpovědi nebo uzavření dohody o
+       ukončení pracovního poměru zablokováno a nebude již umožněno objednávání
+       výstrojních součástí. V případě čerpání bodů v období od fyzického podání výpovědi
+       po systémový zápis (evidence v SAP HR) bude zaměstnanec povinen uhradit OS ČD
+       hodnotu (v Kč) jednotlivých odebraných výstrojních součástí. Do vynášecí doby
+       výstrojních součástí se započítává i výpovědní doba. Ve výjimečných případech může
+       vedoucí OS GŘ ve spolupráci s garantem Ok3 rozhodnout jinak.
+            Hodnota výstrojního bodu je aritmetický průměr poměru poslední nákupní ceny
+               a počtu bodů za jednotlivé výstrojní součásti za uplynulý kalendářní rok.
+               Hodnota výstrojního bodu se stanovuje zvlášť za stejnokrojové součásti a akční
+               součásti.
+            Pověřený pracovník CIS ČD zkalkuluje zůstatkovou hodnotu v Kč jednotlivých
+               výstrojních součástí zaměstnance. Před výpočtem pověřený pracovník CIS ČD
+               v ZC ověří, zda zaměstnanec obdržel všechny součásti, které pro něj byly před
+               jeho odchodem objednány. V případě zjištění, že některé součásti nebyly
+               zaměstnanci dodány, budou tyto ze základu pro výpočet (uplatněné požadavky
+               v SAP HR) odstraněny, aby nedošlo k jejich započítání do zůstatkové hodnoty
+               (v Kč).
+            Pokud zaměstnanec, v případě ukončení pracovního poměru, jednotlivé
+               výstrojní součásti, u nichž neuplynula stanovená vynášecí doba,
+               zaměstnavateli nevrátí, nebo pokud projeví zájem si výstrojní součásti
+               ponechat, je povinen uhradit jejich zůstatkovou hodnotu, kterou zkalkuluje
+               pověřený pracovník CIS. . Uhrazení zůstatkové hodnoty výstrojních součástí je
+               součástí procesu vyrovnání závazků zaměstnance vůči zaměstnavateli při
+               ukončení pracovního poměru.
+            Pořizovací hodnota / vynášecí doba v měsících x nevynesené měsíce =
+               zůstatková hodnota v Kč.
+
+    7. U zaměstnanců odcházejících do starobního důchodu, do invalidního důchodu, při
+       ztrátě zdravotní způsobilosti, při skončení pracovního poměru výpovědí dle § 52, písm.
+       a) až e) zákoníku práce č. 262/2006 Sb. v platném znění se vrácení výstrojových bodů,
+       případně úhrada zůstatkové hodnoty v Kč jednotlivých výstrojních součástí (dle bodu
+       6), nevyžaduje. Zaměstnanec ztrácí nárok na nevyčerpané výstrojní body k datu, kdy
+       došlo k výše uvedené skutečnosti.
+
+
+
+                                                    Kapitola II
+                                                   Příděl bodů
+
+a) Hlavní pracovní poměr
+
+    1. Nově příchozí zaměstnanec HPP má bodové konto rozděleno do dvou skupin:
+            Povinné body – balíček výstrojních součástí.
+            Variabilní body.
+
+    2. Nově příchozí zaměstnanec s již aktivní DPP, DPČ (s nárokem na výstrojní součásti)
+            Balíček již čerpán z dohody, není přidělen, nejedná-li se o typový přechod
+               balíčku (akční oděv/stejnokroj).
+
+                                                      9
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                Výpočet bodů HPP dle kategorie a přičtení přídělu 600 bodu za dohodu (v rámci
+                 bodového přídělu po 12-ti měsících).
+
+    3. Stávající zaměstnanec:
+             KZAM s nárokem na výstrojní součásti – body dle kategorie (A, B, C, D, E)
+             Kumulace funkcí (hlavní KZAM nárok na výstrojní součásti) – nejvyšší možný
+                příděl dle přídělu KZAM (u nově vzniklé kumulace dojde k přepočtu až
+                v následujícím přídělu).
+             Kumulace funkcí (hlavní KZAM bez nároku na výstrojní součásti) - při vzniku
+                nové kumulace je vyvolán příděl příslušného balíčku a následující bodový příděl
+                vzniká výpočtem převážnosti (01 – 12 měsíců) odpracované doby dle KZAM
+                (50% a méně odpracované doby z nároku KZAM – bodový příděl činí
+                konstantní výši 50% bodů).
+
+b) Dohody
+
+    4. Nově příchozí zaměstnanec DPP, DPČ (samostatná dohoda):
+            Povinné body – balíček výstrojních součástí.
+            Variabilní body kráceny na 50% dle kategorie.
+
+    5. Stávající zaměstnanec na DPP, DPČ (samostatná dohoda):
+             KZAM s nárokem na výstrojní součásti – body dle kategorie kráceny na 50%.
+             Přidělení balíčku opakovaně vždy po 36 měsících.
+
+    6. Stávající zaměstnanec na DPP, DPČ v souběhu s HPP (s nárokem na výstrojní
+       součásti)
+             Bodový příděl u HPP navýšen o 600 bodů (za dohodu)
+
+    7. Stávající zaměstnanec na DPP, DPČ v souběhu s HPP (bez nároku na výstrojní
+       součásti)
+             Bez bodového přídělu
+
+c) Ostatní
+
+    8. Uvolnění funkcionáři
+             bez bodového přídělu
+
+                                              Kapitola III
+                                            Výstrojní nárok
+
+    1. Nárok na přidělení VS vzniká zaměstnanci po zmocnění k samostatnému výkonu
+       práce, tj. po vykonání příslušných odborných zkoušek.
+
+    2. V případě poškození stejnokroje nebo akčního oděvu ve smyslu § 250 zákoníku práce
+       č. 262/2006 Sb. v platném znění poskytne garant Ok3 zaměstnanci neprodleně
+       náhradu na základě protokolu o události, který s ním sepíše příslušný vedoucí OS ČD.
+       Garant Ok3 posoudí oprávněnost požadavku. Na základě rozhodnutí dojde k navýšení
+       bodového konta, popřípadě k zamítnutí požadavku.
+
+
+
+
+                                                     10
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+                         ČÁST TŘETÍ
+        KATEGORIZACE STANOVENÉHO OKRUHU PROVOZNÍCH
+                        ZAMĚSTNANCŮ
+                                           Kapitola I
+                               Zařazení do jednotlivých kategorií
+
+    1. Výstrojní body jsou přidělovány dle nároku na období 12 měsíců od přidělení nároku.
+       Kategoriím A, B, C je přiřazen stejnokroj a kategorii D, E je určen akční oděv.
+
+    2. Nově příchozím zaměstnancům bude přidělen tzv. balíček (příloha č. 2) základních
+       výstrojních součástí. Balíček výstrojních součástí jsou povinné položky, které musí být
+       zohledněny v požadavku zadaném přes e-katalog. Body za přidělený balíček budou
+       odečteny z přiděleného bodového konta zaměstnance. Zbylé body mohou být využity
+       variabilně dle nabízeného sortimentu pouze v případě provedení první objednávky
+       v podobě balíčku.
+
+    3. Stávající zaměstnanec má přiděleno bodové konto (příloha č. 2). Body lez využít
+       variabilně dle nabízeného sortimentu.
+
+                     ČÁST ČTVRTÁ
+   TECHNOLOGICKÝ POSTUP PRO OBJEDNÁVÁNÍ A DISTRIBUCI
+       VÝSTROJNÍCH SOUČÁSTÍ ZÁSILKOVÝM SYSTÉMEM
+    1. Každý zaměstnanec si může objednávat výstrojní součásti pouze jedné velikosti a
+       pouze pánské nebo dámské části. Každý zaměstnanec je zodpovědný za uvedení své
+       správné velikosti do objednávky výstrojních součástí. V případě objednání
+       nadstandardní velikosti (měřenky), využije zaměstnanec v e-katalogu k tomu určené
+       kódy materiálů (KSM) a doplní požadované hodnoty potřebné k výrobě výstrojní
+       součásti na míru.
+
+    2. Zaměstnanci si výstrojní součásti objednávají na e-katalogu prostřednictvím
+       zaměstnaneckého portálu (internet/intranet http://zamportal.cd.cz – výstrojní katalog).
+       K přihlášení od e-katalogu zaměstnanec použije své logserverové heslo. Zaměstnanec
+       je průběžně informován o stavu objednávky prostřednictvím emailových notifikací na
+       zadanou elektronickou adresu nebo v rámci přehledu vývoje objednávek uživatele
+       přímo ve výstrojním katalogu. Zaměstnanec má možnost zvolit adresu doručení
+       (doručovací adresu lze změnit v aplikaci Personalistika), v případě uplatnění změny
+       doručovací adresy prostřednictvím Personalistiky je nutné v rámci e-katalogu provést
+       odhlášení a přihlášení pro aktualizaci adresy (nedochází k výmazu košíku).
+
+    3. Vyřízení objednávky provede Zásobovací centrum ve lhůtě:
+       a) standardní velikosti do 30 kalendářních dnů,
+       b) měřenkové velikosti do 90 kalendářních dnů.
+       Součástí každé vyřízené objednávky - zásilky bude dodací list.
+
+    4. Distribuce výstrojních součástí vystrojovaných zaměstnanců ČD dle předpisu ČD Ok 3
+       je prováděna v souladu s Procesním listem osobní přepravy – Stejnokroje, který je
+       nedílnou součástí Předpisu ČD KC 13 – Předpis pro osobní přepravu, na základě
+       objednávek uplatněných přes e-katalog u Zásobovacího centra Česká Třebová, PJ
+       Praha a Postupu pro převzetí zásilek (dodávek) ze Zásobovacího centra –
+       distribučního skladu ČD Zlín. Distribuci zásilek provádí distribuční sklad ČD Zlín
+       prostřednictvím zasilatelské společností (PPL).
+
+
+                                                     11
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+    5. Zásilky budou doručeny v uvedené provozní době na stanovené pracoviště do stanic
+       určení, které jsou vyjmenované v seznamu pro distribuci stejnokrojů, popřípadě na
+       adresu určenou zaměstnancem na území České republiky. Zaměstnanec je o příchodu
+       zásilky informován na telefonním čísle, které uvedl v e-katalogu.
+
+    6. Zásilka na určenou adresu zaměstnance je doručována jedním pokusem doručení.
+       Komunikace PPL se zaměstnancem probíhá prostřednictvím SMS, případně e-mailem,
+       pokud je uveden. Pokud řidič nezastihne zaměstnance na adrese při prvním
+       doručování, může být zásilka uložena na nejbližším výdejním místě PPL, tzv.
+       Parcelshopu. Svůj balík si zde může zaměstnanec vyzvednout do 7 kalendářních dnů
+       od uložení. O uložení je zaměstnanec informován prostřednictvím SMS, případně e-
+       mailem, pokud je uveden. K vyzvednutí je potřeba znát PIN, který zasílá PPL v SMS,
+       případně e-mailové zprávě. V případě nepřevzetí zásilky s výstrojními součástmi
+       zaslanými prostřednictvím PPL (Parcelshop) na adresu určenou zaměstnancem,
+       nebude zaměstnanec již znovu kontaktován a zásilka bude zaslána na stanici určení,
+       kterou zaměstnanec uvedl ve svých předchozích požadavcích. Pokud se jedná o první
+       příděl zaměstnance, bude zaměstnanec kontaktován prostřednictvím Zásobovacího
+       centra pro upřesnění místa dodání u zaměstnavatele. Opakované zaslání na adresu
+       zaměstnance není možné.
+
+    7. Výměna výstrojních součástí – se uplatňuje požadavkem přes e-katalog v případě,
+       kdy zaměstnanec požaduje původní objednanou velikost výstrojní součásti vyměnit za
+       velikost novou (pouze výměna za správnou velikost) Výměna jednoho druhu za jiný
+       druh výstrojní součásti je nepřípustná (např. výměna bundy za kabát). Výstrojní
+       součást určenou k výměně je nutné zaslat zpět na adresu Distribučního skladu Zlín
+       nejpozději do 30 kalendářních dnů od data potvrzení o odběru zásilky příslušným
+       zaměstnancem. Na pozdější požadavky nebude brán zřetel.
+
+    8. Uplatnění výměny jednoho druhu výstrojní součásti bude provedeno pouze dvakrát. Při
+       opakovaném pokusu o výměnu či nedodržení výše uvedených podmínek bude zaslaná
+       výstrojní součást vrácena zpět odesílateli bez nároku na výměnu. Výjimka při uplatnění
+       výměny po delší době než 30 dnů je možná pouze po předchozí telefonické domluvě
+       se Zásobovacím centrem, a to při prokazatelně vzniklé skutečnosti, která má za
+       následek nedodržení stanovené lhůty (např. dlouhodobá nemoc).
+
+    9. Reklamace výstrojní součásti - se uplatňuje požadavkem přes e-katalog v případě,
+       kdy má výstrojní součást zjevnou či skrytou vadu. Reklamující je povinen předložit
+       reklamované zboží přiměřeně vyčištěné, zbavené nečistot a hygienicky nezávadné.
+       Zásobovací centrum si vyhrazuje právo odmítnout převzít k reklamačnímu řízení zboží,
+       které nebude splňovat výše uvedené zásady obecné hygieny (vyhláška č. 306/2012
+       Sb., o podmínkách předcházení vzniku a šíření infekčních onemocnění a o
+       hygienických požadavcích na provoz zdravotnických zařízení a ústavu sociální péče).
+       Všechny příchozí reklamace v neodpovídajícím stavu budou vráceny zpět odesílateli
+       s vyjádřením, že je reklamace prozatím zamítnuta z hygienických důvodů. Za vadu
+       nelze považovat změnu (vlastnosti) zboží, která vznikla v průběhu záruční doby
+       v důsledku jeho opotřebení, nesprávného používání, nedostatečné nebo nevhodné
+       údržby, v důsledku přirozených změn materiálů, z nichž je zboží vyrobeno, v důsledku
+       jakéhokoliv poškození uživatelem či třetí osobou nebo jiného nesprávného a
+       neodborného zásahu.
+
+    10. Právo z odpovědnosti za vady musí být uplatněno v záruční době. Reklamaci je
+        nezbytně nutné uplatnit bez zbytečného odkladu, ihned jakmile se objeví vada.
+        Případné prodlení při pokračujícím užívání zboží může zapříčinit prohloubení vady,
+        znehodnocení zboží a může být důvodem odmítnutí reklamace dodavatelem. Záruční
+        doba výstrojních součástí je 24 měsíců, není-li uvedeno jinak.
+
+                                                     12
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+
+    11. Zaměstnanec po vyplnění výměnného, nebo reklamačního požadavku zadaného přes
+        e-katalog se všemi vyplněnými údaji zašle vyměňované nebo reklamované výstrojní
+        součásti spolu s kopií Dodacího listu a požadavku na výměnu či reklamaci zpět na
+        adresu Zásobovacího centra (sklad Zlín) buď jako služební zásilku nebo jako
+        odpovědní zásilku České pošty.
+
+        Zásilky bez přiložené kopie Dodacího listu budou vráceny zpět uživateli a
+        reklamace či výměna bude zamítnuta.
+
+        a)      Služební zásilka
+        Podej je možný ze stanic dle Seznamu pro distribuci, reklamaci či výměnu stejnokrojů
+        na Průvodku pro služební zásilku. Při posílání služebních zásilek se postupuje
+        v souladu s Procesním listem osobní přepravy - Přeprava zásilek pro služební účely,
+        který je nedílnou součástí Předpisu ČD KC 13 – Předpis pro osobní přepravu.
+
+        Vyplnění Průvodky pro služební zásilku:
+            stanice určení - vždy stanice Zlín (střed),
+            obsah zásilky – reklamace (výměna) výstrojních součástí + číslo dodacího listu
+            adresu příjemce – Zásobovací centrum, distribuční sklad Zlín, Hlavničkovo
+              nábřeží 5649, areál Svit, budova 79, 760 01 Zlín.
+
+        Při podeji zásilky bude zaměstnanci vrácen 2. díl (Druhopis) průvodky pro služební
+        zásilku.
+
+        b)     Odpovědní zásilka České pošty
+        Zásilku lze bezplatně podat na kterékoliv pobočce České pošty (poštovné je hrazeno
+        zaměstnavatelem na základě zaslané faktury, zaměstnanec při podeji zásilky nehradí
+        žádné výdaje). Zaměstnanec je povinen opatřit zásilku adresním štítkem, který je
+        k dispozici na určeném výdejním místě ve stanicích určení. Na štítku je předtištěna
+        adresa distribučního skladu Zlín a další údaje vztahující se k zásilce. Zaměstnanec
+        vyplní podací lístek (obdrží na pobočce České pošty), na který mu bude potvrzeno
+        odeslání zásilky. Podací lístek si uschová pro případnou reklamaci.
+
+    12. Vyřízení výměny bude provedeno Zásobovacím centrem v nejkratším možném
+        termínu, v závislosti na aktuálním stavu zásob požadované velikosti výstrojní součásti.
+        V případě, že požadovaná výstrojní součást není skladem, bude Zásobovací centrum
+        zaměstnance o náhradním dodacím termínu informovat telefonicky nebo e-mailem.
+        Vyřízení reklamace bude provedeno do 45 kalendářních dnů od přijetí reklamované
+        výstrojní součásti Zásobovacím centrem. Zásobovací centrum je pouze prostředníkem
+        při uplatnění reklamace u dodavatele.
+
+
+
+                                     ČÁST PÁTÁ
+                                ZÁVĚREČNÁ USTANOVENÍ
+    1. Výjimečný příděl balíčku či bodového konta je řešen individuálně garantem Ok3 ve
+       spolupráci s vedoucím zaměstnancem.
+
+    2. Změny v nárokovosti výstrojních součástí, systému jejich poskytování, nebo stanovení
+       nového okruhu zaměstnanců, kterým je uložena povinnost nošení stejnokroje nebo
+       akčního oděvu, lze upravit vydáním změny k tomuto předpisu.
+
+
+
+                                                     13
+Předpis o stejnokroji zaměstnanců ČD, a.s. – Účinnost od 01.01.2022
+
+
+
+    3. Přílohy nepodléhají změnovému řízení tohoto předpisu. Dílčí změny v přílohách tohoto
+       předpisu je zmocněn schválit ředitel O10 po předchozím projednání s odborovými
+       organizacemi.
+
+    4. Je přísně zakázáno prodávat externím zájemcům mimo ČD jakékoliv výstrojní součásti.
+       Odprodej výstrojních součástí, tj. jednotlivé součásti stejnokroje a jednotlivé součásti
+       akčního oděvu, je umožněn pouze zaměstnancům společnosti České dráhy se
+       souhlasem jejich nadřízeného a v souladu s Ekonomickými pravidly společnosti.
+
+    5. Účinnost tohoto předpisu je od 01. 01. 2022.
+
+
+
+
+Označení zrušovaných či nahrazovaných norem:
+    - Předpis o stejnokroji zaměstnanců Českých drah, a.s. Ok3 – č.j. 59 177/2014 – O10
+    - Pokyn č.j. 2198/2019-O10 Odprodej výstrojních součástí
+    - Pokyn č.j. 3675/2019-O10 Redukce číselníku KZAM s nárokem na výstrojní části
+
+Přehled souvisejících právních předpisů a vnitřních norem:
+     - Zákoník práce č. 262/2006 Sb., v platném znění
+     - Předpis pro vnitřní normotvorbu společnosti České dráhy, a.s.
+     - Předpis ČD KC 13 – „Předpis pro osobní přepravu – Procesní listy osobní přepravy“
+     - Klasifikace zaměstnání v železniční dopravě SR 73
+     - Opatření ředitele personálního odboru k poskytování příspěvku na údržbu výstrojních součástí
+
+Seznam příloh:
+     - Příloha č. 1 Seznam výstrojních součástí
+     - Příloha č. 2 Kategorie balíčku
+     - Příloha č. 3 Postup pro převzetí zásilek (dodávek) ze Zásobovacího centra distribučního
+        skladu ČD Zlín
+
+
+
+
+                                                     14
+

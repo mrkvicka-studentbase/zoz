@@ -1,0 +1,3186 @@
+                                            úroveň přístupu
+                                  předpis
+                                                  A
+
+
+
+
+SŽ Z2
+
+
+
+
+Předpis pro obsluhu přejezdových zabezpečovacích
+zařízení a výstražných zařízení pro přechod kolejí
+
+ve znění změny č. 1
+
+
+
+účinnost od 1. června 2024
+(účinnost od 14. prosince 2025)
+
+
+
+
+Schváleno pod čj. 387/2023-SŽ-GŘ-O11
+dne 19. února 2024
+
+
+
+
+Bc. Jiří Svoboda, MBA, v. r.
+generální ředitel
+SŽ Z2                                                           účinnost od 1. června 2024
+ve znění změny č. 1                                        (účinnost od 14. prosince 2025)
+
+
+
+
+                                      ANOTACE
+
+Předpis popisuje přejezdová zabezpečovací zařízení a výstražná zařízení
+pro přechod kolejí a stanovuje postupy pro jejich obsluhu při běžné
+činnosti nebo při poruchách.
+
+
+                                 KLÍČOVÁ SLOVA
+
+přejezdová; zabezpečovací; zařízení; přejezd; přechod
+
+
+
+
+SŽ Z2
+Předpis pro obsluhu přejezdových zabezpečovacích zařízení
+a výstražných zařízení pro přechod kolejí
+ve znění změny č. 1
+
+gestorský     Správa železnic, státní organizace
+útvar:        Generální ředitelství
+              odbor předpisů a technologie
+              Praha
+              spravazeleznic.cz
+rok vydání:   2024
+náklad:       1 000 výtisků, formát A5
+
+© Správa železnic, státní organizace, 2024
+Tento dokument je duševním vlastnictvím státní organizace Správa železnic, na které se
+vztahuje zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem
+autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů.
+Státní organizace Správa železnic je v uvedené souvislosti rovněž vykonavatelem
+majetkových práv. Tento dokument smí fyzická osoba použít pouze pro svou osobní potřebu,
+právnická osoba pro svou vlastní vnitřní potřebu. Poskytování tohoto dokumentu nebo jeho
+části v jakékoli formě nebo jakýmkoli způsobem třetí osobě je bez svolení státní organizace
+Správa železnic zakázáno.
+
+
+
+
+2
+SŽ Z2                                                       účinnost od 1. června 2024
+ve znění změny č. 1                                    (účinnost od 14. prosince 2025)
+
+
+                 ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné
+zapracování účinných oprav a změn a za provedení příslušného záznamu.
+
+  oprava/změna
+                                                                opravu/změnu
+  a její pořadové        číslo jednací        účinnost od
+                                                                  zapracoval
+        číslo
+
+                          75935/2025-         14. prosince
+     změna č. 1                                                   David Spisar
+                           SŽ-GŘ-O11              2025
+
+
+
+
+                      SEZNAM TYPOVÝCH ROZŠÍŘENÍ
+
+    označení          číslo jednací      účinnost od             obsah
+
+   SŽ TR (Z2)         60539/2023-         1. června      MPD 70 – Zařízení pro
+    01/2024            SŽ-GŘ-O11            2024              přenos dat
+
+
+
+
+                                                                                    3
+SŽ Z2                                                                      účinnost od 1. června 2024
+ve znění změny č. 1                                                   (účinnost od 14. prosince 2025)
+
+
+                                              OBSAH
+
+                                                                                                    strana
+
+ROZSAH ZNALOSTÍ .................................................................................... 6
+ZKRATKY A ZNAČKY ................................................................................... 9
+1               ZÁKLADNÍ USTANOVENÍ ......................................................... 11
+1.1             Úvodní ustanovení ................................................................. 11
+1.2             Základní pojmy ..................................................................... 14
+1.3             Třídění přejezdových zabezpečovacích zařízení .......................... 19
+1.3.1           Mechanická přejezdová zabezpečovací zařízení .......................... 19
+1.3.2           Světelná přejezdová zabezpečovací zařízení .............................. 20
+1.3.3           Výstražná zařízení pro přechod kolejí ....................................... 21
+1.4             Obsluha přejezdových zabezpečovacích zařízení ........................ 22
+1.4.1           Obecná obsluha ..................................................................... 22
+1.4.2           Dopravní klid na přejezdu ....................................................... 24
+1.5             Poruchy přejezdových zabezpečovacích zařízení ........................ 25
+1.5.1           Obecné poruchy .................................................................... 25
+1.5.2           Poruchy napájení PZS ............................................................ 26
+1.5.3           Poruchy výstražného kříže ...................................................... 27
+2               MECHANICKÉ PŘEJEZDOVÉ ZABEZPEČOVACÍ ZAŘÍZENÍ ............. 28
+2.1             PZM obsluhované místně ........................................................ 28
+2.1.1           Popis .................................................................................... 28
+2.1.2           Obsluha ................................................................................ 28
+2.1.3           Poruchy ................................................................................ 29
+2.2             PZM obsluhované dálkově ....................................................... 30
+2.2.1           Popis .................................................................................... 30
+2.2.2           Obsluha ................................................................................ 30
+2.2.3           Poruchy ................................................................................ 32
+2.3             PZM 2 uzamykatelné na místě ................................................. 33
+2.3.1           Popis .................................................................................... 33
+2.3.2           Obsluha ................................................................................ 34
+2.3.3           Poruchy ................................................................................ 36
+3               SVĚTELNÉ PŘEJEZDOVÉ ZABEZPEČOVACÍ ZAŘÍZENÍ .................. 37
+3.1             Přejezdové zabezpečovací zařízení typu VÚD ............................. 37
+3.1.1           Popis .................................................................................... 37
+3.1.2           Obsluha ................................................................................ 41
+3.1.3           Poruchy ................................................................................ 41
+3.2             Přejezdové zabezpečovací zařízení světelné typu SSSR............... 43
+
+
+4
+SŽ Z2                                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                                  (účinnost od 14. prosince 2025)
+
+3.2.1          Popis .................................................................................... 43
+3.2.2          Obsluha ................................................................................ 46
+3.2.3          Poruchy ................................................................................ 47
+3.3            Přejezdové zabezpečovací zařízení světelné typu AŽD 71 ............ 49
+3.3.1          Popis .................................................................................... 49
+3.3.2          Obsluha ................................................................................ 52
+3.3.3          Poruchy ................................................................................ 53
+3.4            Přejezdové zabezpečovací zařízení světelné nově
+               budovaných typů ................................................................... 55
+3.4.1          Popis .................................................................................... 55
+3.4.2          Obsluha ................................................................................ 64
+3.4.3          Poruchy ................................................................................ 65
+4              VÝSTRAŽNÉ ZAŘÍZENÍ PRO PŘECHOD KOLEJÍ ........................... 68
+4.1            Popis .................................................................................... 68
+4.2            Obsluha ................................................................................ 69
+4.3            Poruchy ................................................................................ 70
+5              SKŘÍŇKA MÍSTNÍ OBSLUHY..................................................... 71
+5.1            Popis .................................................................................... 71
+5.2            Obsluha ................................................................................ 72
+5.3            Poruchy ................................................................................ 73
+6              POMOCNÉ STAVĚDLO ............................................................. 74
+6.1            Popis .................................................................................... 74
+6.2            Poruchy ................................................................................ 75
+7              RÁDIOVÝ OVLADAČ ................................................................ 76
+7.1            Popis .................................................................................... 76
+7.2            Obsluha ................................................................................ 77
+7.3            Poruchy ................................................................................ 77
+8              ZÁVĚREČNÁ USTANOVENÍ ...................................................... 78
+8.1            Zmocňovací ustanovení .......................................................... 78
+8.2            Zrušovací ustanovení ............................................................. 78
+8.3            Přechodná ustanovení ............................................................ 79
+SOUVISEJÍCÍ DOKUMENTY......................................................................... 80
+Příloha A      Značky používané ve schématech uspořádání indikačních
+               desek, ovládacích stolů, kontrolních skříněk a ovládacích
+               skříněk ................................................................................. 83
+
+
+
+
+                                                                                                          5
+SŽ Z2                                                       účinnost od 1. června 2024
+ve znění změny č. 1                                    (účinnost od 14. prosince 2025)
+
+
+                             ROZSAH ZNALOSTÍ
+
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní
+zařazení (funkci) nebo činnost, přičemž:
+
+•        informativní znalostí se rozumí taková znalost, při které příslušný
+         zaměstnanec má povědomí o tomto dokumentu, zná předmět jeho úpravy
+         a při náhledu do příslušného ustanovení je schopen se podle takového
+         ustanovení samostatně řídit nebo podle něj samostatně konat;
+
+•        úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec
+         má povědomí o tomto dokumentu, zná předmět jeho úpravy a bez náhledu
+         do příslušného ustanovení je schopen se podle takového ustanovení
+         samostatně řídit nebo podle něj samostatně konat;
+
+•        doslovnou znalostí se rozumí taková znalost, při které příslušný
+         zaměstnanec zná text, který je v příslušném ustanovení napsán
+         v uvozovkách kurzivou, přesně a je schopen jej bez náhledu do příslušného
+         ustanovení samostatně reprodukovat.
+
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven,
+stanoví rozsah znalostí, pokud je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+           pracovní činnost
+                                                  znalost ustanovení
+        nebo zařazení (funkce)
+
+    zaměstnanci s pracovní činností      úplná: článek 1.1, 1.2, 1.3.1.1,
+    v rozsahu zkoušky D-01, D-02/hl,     1.3.1.2, 1.3.1.4, 1.3.2.1, 1.3.2.2,
+    D-02/hr, ND-03/PZZ                   1.3.2.3, 1.3.3.1, 1.4, 1.5, 2, 3, 4.1
+                                         informativní: článek 1.3.1.3, 1.3.2.4,
+                                         1.3.3.2, 4.2, Příloha A
+
+
+    zaměstnanci s pracovní činností      úplná: článek 1.1, 1.2, 1.3.1.1,
+    v rozsahu zkoušky D-07, D-08         1.3.1.2, 1.3.1.4, 1.3.2.1, 1.3.2.2,
+                                         1.3.2.3, 1.3.3.1, 1.4, 1.5, 2, 3, 4.1
+                                         informativní: článek 1.3.1.3, 1.3.2.4,
+                                         1.3.3.2, 4.2, Příloha A
+
+
+    zaměstnanci s pracovní činností      úplná: předpis
+    v rozsahu zkoušky D-09, D-12
+                                         informativní: Příloha A
+
+
+
+
+6
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+
+         pracovní činnost
+                                            znalost ustanovení
+      nebo zařazení (funkce)
+
+ zaměstnanci s pracovní činností   úplná: článek 1.1.1, 1.1.2, 1.1.3,
+ v rozsahu zkoušky Z-00, Z-01,     1.1.4, 1.1.6, 1.1.7, 1.1.11, 1.1.12,
+ Z-03, Z-04, Z-05, Z-06a, Z-06b    1.1.13, 1.2, 1.4.1.1, 1.4.1.4, 1.4.1.5,
+                                   1.4.2.1, 1.5.1.5, 1.5.1.8, 8.3
+                                   informativní: článek 1.1.9, 1.3,
+                                   1.4.1.6, 1.4.1.11, 1.5.1.2, 1.5.1.3,
+                                   1.5.1.4, 1.5.1.6, 1.5.1.7, 1.5.2, 1.5.3,
+                                   2, 3, 4, 5, 6, 7, 8.1, 8.2, Příloha A
+
+
+ zaměstnanci s pracovní činností   úplná: článek 1.1, 1.2, 1.4.1.1,
+ v rozsahu zkoušky Z-04a, Z-06,    1.4.1.4, 1.4.1.5, 1.4.2.1, 1.5.1.5,
+ Z-06c, Z-07                       1.5.1.8, 8.3
+                                   informativní: článek 1.3, 1.4.1.2,
+                                   1.4.1.3, 1.4.1.6, 1.4.1.7, 1.4.1.8,
+                                   1.4.1.9, 1.4.1.10, 1.4.1.11, 1.4.1.12,
+                                   1.4.2.2, 1.5.1.1, 1.5.1.2, 1.5.1.3,
+                                   1.5.1.4, 1.5.1.6, 1.5.1.7, 1.5.2, 1.5.3,
+                                   2, 3, 4, 5, 6, 7, 8.1, 8.2, Příloha A
+
+
+ zaměstnanci s pracovní činností   úplná: článek 1.1.1, 1.1.2, 1.1.3,
+ v rozsahu zkoušky TZE, Z-06e      1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8,
+                                   1.1.12, 1.1.13, 1.2, 1.4.1.5, 1.4.2.1,
+                                   1.5.1.6, 8.3
+                                   informativní: článek 1.1.9, 1.3,
+                                   1.4.1.1, 1.4.1.8, 1.4.1.11, 1.5.1.7,
+                                   1.5.1.8, 2.1.1, 2.1.2.2, 2.2.1, 2.2.2.1,
+                                   2.3.1, 2.3.2, 3.1.1, 3.1.2.1, 3.1.2.3,
+                                   3.1.2.4, 3.2.1, 3.2.2.1, 3.2.2.4, 3.3.1,
+                                   3.3.2.1, 3.3.2.4, 3.4.1, 3.4.2.1,
+                                   3.4.2.5, 4.1, 4.2.1, 4.2.3, 4.2.5, 4.2.6,
+                                   5.1, 6.1, 7.1, 7.2.1, 7.3.1, 7.3.3, 8.1,
+                                   8.2, Příloha A
+
+
+ zaměstnanci zajišťující smlouvy   úplná: článek 1.1
+ s CPS
+
+
+
+
+                                                                               7
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+
+         pracovní činnost
+                                                 znalost ustanovení
+      nebo zařazení (funkce)
+
+ zaměstnanci s pracovní činností       úplná: článek 1.1, 1.2, 1.4.1.1,
+ v rozsahu zkoušky HZS-SDV,            1.4.1.2, 1.4.1.5, 1.4.1.7, 1.4.1.8,
+ D-04, ZOZ-04 1)                       1.4.1.9, 1.4.1.10, 1.4.1.12, 1.5.1.3,
+                                       4.1.1, 4.1.2, 4.2.5, 4.2.6, 4.3.2, 5,
+                                       6, 7
+                                       informativní: článek 1.3, 8.1, 8.2
+
+
+ zaměstnanci dopravce 1)               úplná: článek 1.1, 1.2, 1.4.1.1,
+                                       1.4.1.2, 1.4.1.5, 1.4.1.7, 1.4.1.8,
+                                       1.4.1.9, 1.4.1.10, 1.4.1.12, 1.5.1.3,
+                                       4.1.1, 4.1.2, 4.2.5, 4.2.6, 4.3.2, 5,
+                                       6, 7
+                                       informativní: článek 1.3, 8.1, 8.2
+
+
+ 1)    Dopravce musí upřesnit rozsah znalostí pro jednotlivé pracovní zařazení
+       a pro vykonávané pracovní úkony svých zaměstnanců svým vnitřním
+       předpisem.
+
+
+
+
+8
+SŽ Z2                                                         účinnost od 1. června 2024
+ve znění změny č. 1                                      (účinnost od 14. prosince 2025)
+
+
+                               ZKRATKY A ZNAČKY
+
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto předpisu.
+V seznamu se neuvádějí legislativní zkratky, zkratky a značky obecně známé,
+zavedené právními předpisy, uvedené v obrázcích, příkladech nebo tabulkách.
+
+CPS ............. cizí právní subjekt
+DAP ............. dokumenty a předpisy
+DKNP ........... dopravní klid na přejezdu
+DU ............... doplňující ustanovení k obslužnému předpisu
+EMZ ............. elektromagnetický zámek
+KÚ ............... kolejový úsek
+OUZZ ........... organizace udržující zabezpečovací zařízení
+PN ............... přivolávací návěst
+PZM ............. přejezdové zabezpečovací zařízení mechanické
+PZS ............. přejezdové zabezpečovací zařízení světelné
+PZZ ............. přejezdové zabezpečovací zařízení
+RB ............... radioblok
+SMO ............ skříňka místní obsluhy
+SZZ ............. staniční zabezpečovací zařízení
+SŽ ............... Správa železnic, státní organizace
+SŽDC ........... Správa železniční dopravní cesty, státní organizace (původní název
+                 organizace Správa železnic, státní organizace)
+VZPK ........... výstražné zařízení pro přechod kolejí
+ZDD ............. základní dopravní dokumentace
+
+
+
+
+                                                                                      9
+SŽ Z2                      účinnost od 1. června 2024
+ve znění změny č. 1   (účinnost od 14. prosince 2025)
+
+
+
+
+10
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+
+
+
+Generální ředitel schválil podle článku 14 odstavce 1 a článku 15 Statutu
+státní organizace Správa železnic (dále také „SŽ“) tento předpis SŽ Z2 –
+Předpis    pro    obsluhu     přejezdových    zabezpečovacích     zařízení
+a výstražných zařízení pro přechod kolejí.
+
+
+
+
+1           ZÁKLADNÍ USTANOVENÍ
+
+1.1          Úvodní ustanovení
+
+1.1.1        Předpis SŽ Z2 – Předpis pro obsluhu přejezdových
+             zabezpečovacích zařízení a výstražných zařízení pro
+             přechod kolejí (dále jen „předpis SŽ Z2“ nebo „tento
+             předpis“) a jeho příloha popisují přejezdová zabezpečovací
+             zařízení (dále také „PZZ“) a výstražná zařízení pro přechod
+             kolejí (dále také „VZPK“) na dráhách, kde je provozovatel
+             dráhy Správa železnic, státní organizace.
+
+             Popis a obsluha PZZ a VZPK z jednotného obslužného
+             pracoviště jsou uvedeny v předpise SŽ Z3 – Předpis pro
+             obsluhu zabezpečovacích zařízení ovládaných z jednotného
+             obslužného pracoviště (dále jen „předpis SŽ Z3“).
+
+1.1.2        Předpis SŽ Z2 stanovuje způsob obsluhy PZZ a VZPK při běžné
+             činnosti a při závadách nebo poruchách těchto zařízení.
+
+1.1.3        Obrazovou část tohoto předpisu rozšiřuje služební rukověť SŽ
+             SR101/1(Z) – Obrazová příloha k předpisům pro obsluhu
+             zabezpečovacích a spádovištních zařízení.
+
+1.1.4        Předpis SŽ Z2 je závazný pro zaměstnance, kteří:
+
+             a)   obsluhují, kontrolují nebo udržují PZZ nebo VZPK;
+
+             b)   organizují nebo   kontrolují   činnost   výše    uvedených
+                  zaměstnanců;
+
+             c)   školí nebo zkouší výše uvedené zaměstnance;
+
+             d)   navrhují, projektují, přezkušují PZZ nebo VZPK, nebo se
+                  podílí na jejich výstavbě nebo rekonstrukci.
+
+
+
+
+                                                                             11
+SŽ Z2                                                      účinnost od 1. června 2024
+ve znění změny č. 1                                   (účinnost od 14. prosince 2025)
+
+1.1.5        Závaznost tohoto předpisu pro cizí právní subjekty a jejich
+             zaměstnance musí být zajištěna smluvně.
+
+             Zaměstnanci odpovědní za uzavírání smluv jsou povinni
+             v příslušné smlouvě zakotvit smluvní závazek dodržování
+             tohoto předpisu.
+
+1.1.6        Pro PZZ nebo VZPK, jehož popis nebo obsluha je odchylná od
+             předpisu SŽ Z2, musí být vydáno Doplňující ustanovení
+             k předpisu SŽ Z2 (dále jen „DU“).
+
+1.1.7        Pro PZZ a zařízení ve vazbě na PZZ1, jejichž popis a obsluha
+             není v předpise SŽ Z2 uvedena, ale tato zařízení jsou
+             zavedena a schválena, se vydá Typové rozšíření
+             k ustanovení předpisu SŽ Z2 (dále jen „Typové rozšíření“).
+
+1.1.8        Nově vybudované zabezpečovací zařízení smí být uvedeno do
+             provozu až tehdy, je-li jeho obsluha v souladu s ustanoveními
+             předpisu SŽ Z2. Obdobně musí být postupováno
+             i u provozovaného zabezpečovacího zařízení, na kterém byla
+             provedena změna závislostí (např. doplnění nových
+             indikačních nebo ovládacích prvků).
+
+1.1.9        Podmínky pro zpracování a vydání DU stanovuje předpis SŽ
+             Z1 – Předpis pro obsluhu staničních a traťových
+             zabezpečovacích zařízení (dále jen „předpis SŽ Z1“) a předpis
+             SŽ D5-2 – Prováděcí pokyny pro tvorbu a zpracování
+             doplňujících  ustanovení    k    předpisům     pro   obsluhu
+             zabezpečovacích zařízení.
+
+1.1.10       Podmínky pro zpracování           a vydání    Typového rozšíření
+             stanovuje předpis SŽ Z1.
+
+1.1.11       Znalost ustanovení DU nebo Typového rozšíření se ověřuje
+             v rámci zkoušky praktické způsobilosti. Rozsah znalostí DU
+             nebo Typového rozšíření pro zkoušku praktické způsobilosti
+             musí být stanoven v základní dopravní dokumentaci (dále jen
+             „ZDD“), případně v příslušném dokumentu dopravce nebo
+             udržující organizační složky nebo jiné organizační složky.
+
+1.1.12       Pro rozlišení druhu PZZ v tomto předpise je PZZ mechanické
+             uváděno zkratkou „PZM“ a PZZ světelné zkratkou „PZS“.
+
+
+
+
+1 Například dohlédací servery, řídící stanice apod.
+
+
+
+12
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+1.1.13       Pro označení přejezdu na ovládacích a kontrolních skříňkách,
+             ovládacích stolech a indikačních deskách se uvádí zkratka
+             druhu zařízení, definiční staničení2 přejezdu a identifikační
+             číslo přejezdu3, např. „PZS km 123,456 (P4321)“.
+
+1.1.14       Pro označení přechodu kolejí na ovládacích a kontrolních
+             skříňkách, ovládacích stolech a indikačních deskách se uvádí
+             zkratka druhu zařízení a definiční staničení přechodu kolejí,
+             např. „VZPK2 km 12,345“.
+
+1.1.15       Je-li přejezd nebo přechod kolejí přes více kolejí různých tratí,
+             označí se přejezd nebo přechod kolejí pouze kilometrickou
+             polohou4 hlavní tratě.
+
+1.1.16       Seznam značek používaných ve schématech uspořádání
+             indikačních desek, ovládacích stolů, kontrolních nebo
+             ovládacích skříněk apod. je uveden v Příloze A tohoto
+             předpisu.
+
+
+
+
+2 Pro potřeby obslužných předpisů je pojem „definiční staničení“ uváděn také jako
+
+„skutečná kilometrická poloha“.
+3 Jednotná identifikace přejezdů pro jednoznačnou a nezaměnitelnou identifikaci
+
+při vzniku kolizní situace silničního a železničního provozu a pro umožnění
+zastavení drážní dopravy a přivolání složky integrovaného záchranného systému.
+4 Kilometrické polohy ostatních tratí (srovnávací kilometr) se uvádí v ZDD, např.
+
+situační schéma, tabulka přejezdu apod.
+
+                                                                                13
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+1.2          Základní pojmy
+
+1.2.1        Přejezd je křížení dráhy celostátní, dráhy regionální, dráhy
+             místní nebo vlečky s pozemní komunikací v úrovni kolejí a je
+             označeno předepsaným způsobem.
+
+1.2.2        Otevřený přejezd je stav přejezdu v době, kdy přejezdové
+             zabezpečovací zařízení nebrání provozu na pozemní
+             komunikaci (PZZ nedává výstrahu).
+
+1.2.3        Uzavřený přejezd je stav přejezdu v době, kdy přejezdové
+             zabezpečovací zařízení zakazuje uživatelům pozemní
+             komunikace jízdu nebo chůzi přes přejezd (PZZ dává
+             výstrahu).
+
+1.2.4        Pohon závor je pro účely tohoto předpisu část PZM, ze které
+             se ruční obsluhou ovládá pohyb břeven závor.
+
+1.2.5        Břevno závory je část závory, která při dávání výstrahy PZZ
+             zasahuje do průjezdného prostoru pozemní komunikace a tím
+             dává mechanickou výstrahu.
+
+1.2.6        Výstražník je část PZZ, která dává uživatelům pozemní
+             komunikace světelnou, případně i zvukovou signalizací
+             informaci o tom, zda na přejezd smí nebo nesmí vjet nebo
+             vstoupit.
+
+1.2.7        Závorový stojan je část PZZ, na které je namontováno
+             břevno závory, potřebné převody a u PZS se závorami
+             i elektromotor.
+
+1.2.8        Výstraha je vnější projev PZZ, kterým se zakazuje
+             uživatelům pozemní komunikace vjezd (vstup) na přejezd
+             nebo přikazuje jeho urychlené uvolnění (vyklizení).
+
+             Výstraha může být dávána signalizací:
+
+             a) mechanickou;
+
+             b) světelnou;
+
+             c) zvukovou.
+
+1.2.9        Mechanická výstraha je výstražný signál dávaný
+             mechanickou signalizací (sklápěním, sklopenou polohou nebo
+             zdviháním břeven závor).
+
+
+
+
+14
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+1.2.10       Světelná výstraha je dávaná přerušovaným svícením dvou
+             červených světel5 výstražníku ve směru k uživatelům pozemní
+             komunikace.
+
+1.2.11       Zvuková výstraha je výstražný signál dávaný zvukovou
+             signalizací.
+
+1.2.12       Obvod přejezdu je pro potřeby tohoto předpisu část
+             železniční trati, která ovlivňuje činnost PZS.
+
+1.2.13       Ovládací úsek je vymezená část koleje v obvodu přejezdu,
+             vybavená technickým zařízením pro spolupůsobení drážního
+             vozidla na činnost PZS.
+
+1.2.14       Přibližovací úsek je ovládací úsek přejezdu (vybaveného
+             PZS) před přejezdem ve směru jízdy drážního vozidla.
+
+1.2.15       Vzdalovací úsek je ovládací úsek přejezdu (vybaveného
+             PZS) za přejezdem ve směru jízdy drážního vozidla.
+
+1.2.16       Základní stav je určený stav PZZ v době, kdy není ovlivněno
+             jízdou drážního vozidla, ani ovládacími prvky pro místní nebo
+             dálkovou obsluhu.
+
+1.2.17       Výstražný signál je signál, který varuje uživatele pozemní
+             komunikace před ohrožením drážním vozidlem (uzavřený
+             přejezd).
+
+1.2.18       Varovný signál je signál, který neposkytuje uživateli
+             pozemní komunikace informaci, zda se k přejezdu blíží nebo
+             neblíží drážní vozidlo, které by jej mohlo ohrozit.
+
+1.2.19       Pozitivní signál je přerušované svícení bílého světla
+             výstražníku ve směru k uživatelům pozemní komunikace
+             a informuje uživatele pozemní komunikace, že v obvodu
+             přejezdu není drážní vozidlo, které by jej mohlo ohrozit (buď
+             není v obvodu přejezdu, nebo nemá dovoleno vjet na přejezd
+             bez varování uživatele pozemní komunikace jiným
+             způsobem).
+
+
+
+
+5 Při poruše může svítit na výstražníku pouze jedno přerušované, nebo jedno stálé
+
+červené světlo, nebo dvě stálá červená světla, nebo jedno stálé a druhé
+přerušované červené světlo.
+
+                                                                                15
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+1.2.20       Bezporuchový stav je stav PZS v době, kdy na něm není
+             vyhodnocen nouzový stav ani poruchový stav.
+
+1.2.21       Pohotovostní stav je stav PZS v době, kdy na něm není
+             vyhodnocen poruchový stav.
+
+1.2.22       Dopravní opatření jsou administrativní úkony k zajištění
+             bezpečnosti železničního provozu, jejichž zavedení je nařízeno
+             dokumenty a předpisy vnitropodnikové legislativy SŽ (dále jen
+             „DAP“), zejména v případě, kdy bezpečnost železničního
+             provozu (případně i provozu na pozemní komunikaci) nemůže
+             být zajištěna obsluhou zabezpečovacího zařízení (při
+             poruchách zabezpečovacího zařízení, při mimořádnostech, při
+             výlukové činnosti apod.). Zavedení dopravních opatření může
+             být nařízeno i v jiných případech.
+
+1.2.23       Nouzový stav je stav PZS při poruše, která nemůže ohrozit
+             bezpečnost provozu na přejezdu. Dopravní opatření se pro
+             jízdu drážního vozidla nezavádí, není-li tímto předpisem
+             stanoveno jinak.
+
+1.2.24       Poruchový stav je stav PZS při poruše, která může ohrozit
+             bezpečnost provozu na přejezdu. Dopravní opatření se pro
+             jízdu drážního vozidla zavádí.
+
+1.2.25       Hlavní napájení je napájení, které zajišťuje plnohodnotnou
+             činnost PZS, např. z veřejné elektrovodné sítě.
+
+1.2.26       Náhradní napájení je napájení, které při výpadku hlavního
+             napájení zajišťuje činnost PZS pouze po omezenou dobu,
+             např. z měniče, baterie.
+
+1.2.27       Anulace (Anulační stav) je stav, při kterém je vyloučen
+             automatickou činností vliv obsazení vzdalovacího úseku
+             v konkrétní koleji na uvedení PZS do výstrahy6.
+
+1.2.28       Bezanulační stav je stav, při kterém není vyloučen
+             automatickou činností vliv obsazení ovládacího úseku
+             v konkrétní koleji na uvedení PZS do výstrahy.
+
+
+
+
+6 Anulační stav nastane, když došlo k vyhodnocení projetí drážního vozidla
+přejezdem a přibližovací úsek PZS v konkrétní koleji byl uvolněn. Anulační stav se
+ukončí uvolněním vzdalovacího úseku, opětovným obsazením přibližovacího úseku
+PZS, uplynutím mezní doby anulace nebo příslušným povelem.
+
+16
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+1.2.29       Mezní doba anulace (anulační doba) je stanovená doba,
+             po kterou je vyloučen vliv obsazení vzdalovacího úseku na
+             uvedení PZS do výstrahy.
+
+1.2.30       Dopravní klid na přejezdu (dále také „DKNP“) je stav PZS,
+             při kterém je na základě povelu obsluhujícího zaměstnance
+             vyloučen vliv obsazení ovládacích úseků příslušné koleje
+             (nebo všech kolejí) na uvedení PZS do výstrahy.
+
+1.2.31       Kontrolní stanoviště je společný název pro místo, kde jsou
+             umístěny     ovládací   a    indikační  prvky   přejezdových
+             zabezpečovacích zařízení (např. v dopravní kanceláři, na
+             stavědle, v centrálním nebo regionálním dispečerském
+             pracovišti, na hradle, na hlásce, na závorářském stanovišti).
+
+1.2.32       Ruční obsluha je ovládání PZZ, při kterém je spuštění nebo
+             ukončení výstrahy vyvoláno obsluhujícím zaměstnancem
+             (např. tlačítkem, klikou pohonu závor), bez spolupůsobení
+             drážního vozidla.
+
+1.2.33       Dálková obsluha PZS je ruční obsluha z kontrolního
+             stanoviště při podmínkách stanovených tímto předpisem
+             a předpisem SŽ D1 (porucha, výluka, údržba, zkoušení,
+             zachování výstražného stavu PZS při křižování apod.).
+
+1.2.34       Místní obsluha PZS je ruční obsluha ze skříňky místní
+             obsluhy (dále také „SMO“) z místa přejezdu (porucha, výluka,
+             údržba, zkoušení apod.).
+
+1.2.35       Trvalá anulace je porucha, při které po uvolnění obvodu
+             přejezdu drážním vozidlem zůstane v konkrétní koleji anulace.
+
+1.2.36       Trvalá výstraha je výstraha, která probíhá nadbytečně a je
+             vyvolaná jinou než normální činností zařízení (porucha,
+             chybná obsluha).
+
+1.2.37       Závada je odchylka od správné funkce PZZ, kterou lze
+             odstranit předepsaným obslužným úkonem. Vyskytne-li se
+             závada opakovaně, považuje se za poruchu.
+
+1.2.38       Porucha je odchylka od správné funkce PZZ, kterou nelze
+             odstranit předepsaným obslužným úkonem.
+
+
+
+
+                                                                            17
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+1.2.39       Druh PZZ je označení PZZ doplněné stanovenými znaky
+             (např. „PZS 3SBI“) a odpovídá třídění přejezdových zařízení
+             dle jejich vybavení a konfigurace, v souladu s ČSN 34 2650
+             ed. 2, případně je doplněno dalšími písmeny dle tohoto
+             předpisu.
+
+1.2.40       Druh VZPK je označení VZPK doplněné stanovenými znaky
+             a odpovídá třídění těchto zařízení dle jejich vybavení
+             a konfigurace, v souladu s TS 1/2018-Z.
+
+1.2.41       Výpravčí je společný název pro pracovní zařazení výpravčí,
+             traťový dispečer, dirigující dispečer a dispečer radiobloku
+             (dále jen „RB“), není-li nutno rozlišit konkrétní pracovní
+             zařazení.
+
+1.2.42       Obsluhující zaměstnanec je společný název pro
+             zaměstnance provozovatele dráhy úseku řízení provozu bez
+             rozlišení pracovního zařazení nebo zaměstnance dopravce,
+             kteří kontrolují stav zabezpečovacího zařízení, případně jej
+             i obsluhují, není-li   třeba  nutno    rozlišit konkrétního
+             zaměstnance.
+
+1.2.43       Kontrolní skříňka je samostatná skříňka s indikačními
+             a ovládacími prvky PZZ nebo VZPK umístěná na kontrolním
+             stanovišti.
+
+             Ustanovení platná pro kontrolní skříňku se vztahují i na
+             indikační a ovládací prvky PZZ nebo VZPK umístěné na
+             ovládacím stole, indikační desce apod.
+
+1.2.44       Ovládací skříňka je skříňka, která je umístěná mimo
+             kontrolní stanoviště, např. v kolejišti, a zpravidla obsahuje
+             pouze vybrané indikační a ovládací prvky PZS nebo VZPK
+             (např. pro posun).
+
+1.2.45       Další pojmy, týkající se jednotlivých zařízení, jsou vysvětleny
+             v textu příslušných článků tohoto předpisu, případně v DU
+             nebo v Typovém rozšíření.
+
+
+
+
+18
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+1.3          Třídění přejezdových zabezpečovacích zařízení
+
+1.3.1        Mechanická přejezdová zabezpečovací zařízení
+
+1.3.1.1      PZM 1 je mechanické PZZ obsluhované dálkově z kontrolního
+             stanoviště.
+1.3.1.2      PZM 2 je mechanické PZZ obsluhované na místě z kontrolního
+             stanoviště.
+             Kontrolní stanoviště PZM 2 splňuje tyto podmínky:
+             a)   pohon závor není vzdálen více než 60 m od přejezdu;
+             b)   z místa obsluhy je přehled na celý přejezd, a to i za
+                  snížené viditelnosti.
+             PZM 2 může být i jako uzamykatelné na místě, obsluhované
+             pouze z místa přejezdu (nemá kontrolní stanoviště). Zpravidla
+             se otevírá jen na požádání.
+1.3.1.3      Druhy PZM 1 – PZM 2 mohou být doplněny písmeny:
+             •    „S“ – PZM je doplněno světelnou výstrahou (např. „PZM
+                  2S“);
+             •    „L“ – PZM dává informaci o svém stavu strojvedoucímu
+                  přejezdníkem (např. „PZM 1L“);
+             •    „SL“ – PZM je doplněno světelnou výstrahou a dává
+                  informaci o svém stavu strojvedoucímu přejezdníkem
+                  (např. „PZM 1SL“);
+             •    „U“ – PZM 2 uzamykatelné na místě („PZM 2U“).
+1.3.1.4      PZM má v určených případech zřízenou závislost do staničního
+             nebo traťového zabezpečovacího zařízení prostřednictvím
+             mechanického zámku pohonu závor (uzamyká pohon závor při
+             sklopených    břevnech    závor)  a   elektromagnetického,
+             elektrického nebo zástrčkového zámku.
+             Hlavní návěstidlo je v takových případech možno přestavit na
+             návěst dovolující jízdu vlaku, mimo Přivolávací návěst (dále
+             jen „PN“) jen za předpokladu uzavření přejezdu, uzamčení
+             pohonu závor a uzamčení závislostního klíče v zámku.
+             Otevřít přejezd je v takových případech možno po přestavení
+             hlavního návěstidla na návěst zakazující jízdu, případně až po
+             zrušení závěru jízdní cesty nebo po uvolnění mezistaničního
+             oddílu.
+
+
+                                                                            19
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+1.3.2        Světelná přejezdová zabezpečovací zařízení
+
+1.3.2.1      PZS 1 je jednoduché světelné PZZ bez závislostí na jízdě
+             drážního vozidla a ovládané na místě z kontrolního stanoviště.
+             Na kontrolním stanovišti je indikován minimálně výstražný
+             stav a pohotovostní stav.
+1.3.2.2      PZS 2 je světelné PZZ, jehož ovládaní je automatické,
+             v odůvodněných případech může být ovládání ruční. PZS musí
+             být z důvodu bezpečnosti doplněno přejezdníky z obou stran
+             přejezdu, případně musí být krytí přejezdu provedeno hlavním
+             návěstidlem nebo seřaďovacím návěstidlem. Indikace stavu
+             PZS na kontrolním stanovišti PZS nemusí být zřízeny, pokud
+             je přejezd kryt z obou stran přejezdníky.
+1.3.2.3      PZS 3 je světelné PZZ, jehož ovládaní je automatické,
+             v odůvodněných případech může být ovládání ruční. Indikace
+             stavu PZS na kontrolním stanovišti jsou zřízeny. Podle indikací
+             musí být před odjezdem vlaku z dopravny možno zjistit
+             pohotovostní stav nebo bezporuchový stav, bezanulační stav,
+             případně u nově budovaných typů PZS také bezvýlukový stav.
+             Pokud je přejezd s PZS 3 kryt z obou stran přejezdníky,
+             nemusí být indikace stavu PZS na kontrolním stanovišti
+             zřízeny (např. nelze-li tyto indikace na kontrolním stanovišti
+             zřídit).
+1.3.2.4      Druhy PZS 1 – PZS 3 mohou být doplněny písmeny:
+             a)   na první pozici:
+                  •   „Z“ – PZS se závorami;
+                  •   „S“ – PZS bez závor;
+             b)   na druhé pozici:
+                  •   „B“ – PZS s pozitivním signálem;
+                  •   „N“ – PZS bez pozitivního signálu;
+             c)   na třetí pozici:
+                  •   „L“ – PZS dává informaci o svém stavu přejezdníkem
+                      nebo na návěstidle7 kryjícím přejezd je možno
+                      rozsvítit návěst dovolující jízdu (mimo PN) v závislosti
+                      na stavu PZS;
+
+
+
+7 Zpravidla krycí návěstidlo.
+
+
+
+20
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+                  •   „I“ – PZS dává informace o svém stavu obsluhujícímu
+                      zaměstnanci.
+             V případě dávání informace o stavu PZS dle obou odrážek
+             písmene c) se doplňuje druh PZS o oba znaky „LI“, např. „PZS
+             3ZBLI“.
+
+1.3.3        Výstražná zařízení pro přechod kolejí
+
+1.3.3.1      Výstražná zařízení pro přechod kolejí se označují zkratkou
+             „VZPK“.
+1.3.3.2      Druh VZPK se za zkratkou          „VZPK“    doplní     mezerou
+             a příslušnými písmeny:
+             a)   na první pozici:
+                  •   „R“ – při odjezdu (průjezdu) přes přechod kolejí
+                      s VZPK je vyžadovaná obsluha strojvedoucím;
+                  •   „A“ – při odjezdu (průjezdu) přes přechod kolejí
+                      s VZPK není umožněna obsluha strojvedoucím;
+                  •   „K“ – při odjezdu (průjezdu) přes přechod kolejí
+                      s VZPK není vyžadována obsluha strojvedoucím,
+                      v určených případech je vyžadovaná obsluha
+                      strojvedoucím (porucha staničního zabezpečovacího
+                      zařízení [dále jen „SZZ“], výluka dopravní služby
+                      apod.);
+             b)   na druhé pozici:
+                  •   „Z“ – VZPK se závorami (např. „VZPK RZ“);
+             c)   na poslední pozici:
+                  •   „L“ – informace o stavu VZPK jsou předávány
+                      strojvedoucímu (např. „VZPK AL“);
+                  •   „LI“ – informace o stavu VZPK jsou předávány
+                      strojvedoucímu i obsluhujícímu zaměstnanci (např.
+                      „VZPK KZLI“).
+
+
+
+
+                                                                           21
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+1.4          Obsluha přejezdových zabezpečovacích zařízení
+
+1.4.1        Obecná obsluha
+
+1.4.1.1      Pro obsluhu a poruchy VZPK (přechody kolejí) platí stejná
+             ustanovení jako pro PZZ (přejezdy), není-li dále stanoveno
+             jinak.
+1.4.1.2      Obsluhovat PZZ smí pouze oprávněný zaměstnanec ve službě,
+             nebo u PZM 2 uzamykatelného na místě také osoba určená
+             k jeho obsluze.
+1.4.1.3      Při převzetí dopravní služby se obsluhující zaměstnanec musí
+             podle záznamů uvedených v předávané dokumentaci
+             přesvědčit o stavu PZZ, o zavedených dopravních opatřeních
+             a dále:
+             a)   neporušenosti plomb příslušných ovládacích prvků na
+                  kontrolním stanovišti (za neporušenost plomby se
+                  považuje takový stav, kdy není možné ovládací prvek
+                  obsloužit bez odstranění plomby);
+             b)   stavu počítadel obsluh;
+             c)   případných sejmutých plombách;
+             d)   zda jsou skutečnosti dle písmene b) a c) uvedeny
+                  v odevzdávce dopravní služby a zda souhlasí se
+                  skutečným stavem.
+1.4.1.4      Obsluhující zaměstnanec je povinen umožnit udržujícímu
+             zaměstnanci přezkoušení PZZ na základě jeho žádosti,
+             dovoluje-li to dopravní situace.
+1.4.1.5      Obsluha PZZ jednotlivých typů se provádí dle příslušného
+             článku tohoto předpisu, případně také dle vydaného DU nebo
+             Typového rozšíření.
+1.4.1.6      Obsluhující zaměstnanec udržuje vnější části zařízení
+             (indikačních desek, skříněk, pohonu závor, zadávacího
+             počítače apod.) v čistotě. K čištění používá vhodných
+             prostředků k tomu určených.
+1.4.1.7      Obsluhující zaměstnanec je povinen provést obsluhu PZZ tak,
+             aby nedošlo k ohrožení bezpečnosti provozu na přejezdu, ani
+             k narušení plynulosti železničního provozu.
+
+
+
+
+22
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+1.4.1.8      PZZ je dovoleno obsluhovat jen předepsaným způsobem. Je
+             zakázáno ovládací prvky zapevňovat v pracovní poloze, pokud
+             není tímto předpisem, případně DU nebo Typovým rozšířením
+             stanoveno jinak.
+1.4.1.9      Ovládací prvky opatřené plombou na šňůrce nebo zařízením
+             pro evidenci obsluhy (počítadlem) je nutno po jejich obsluze
+             zajistit uzávěrou proti náhodné obsluze.
+1.4.1.10     Před povolením jízdy drážního vozidla na přejezd je obsluhující
+             zaměstnanec povinen se přesvědčit, že:
+             a)   přejezd je uzavřen, nebo
+             b)   podle indikací je PZZ schopno předepsaným způsobem
+                  varovat uživatele pozemní komunikace, že se k přejezdu
+                  blíží drážní vozidlo, nebo
+             c)   pro jízdu drážního vozidla na přejezd bylo zavedeno
+                  dopravní opatření.
+1.4.1.11     Stav PZS může být kontrolován pomocí akustické indikace
+             kontroly stavu PZS v okruhu traťového telefonu. Tyto indikace
+             se nově nezřizují. Stávající akustické indikace se nechají
+             v činnosti do nejbližší rekonstrukce PZS. Použití a význam
+             akustické indikace je uvedeno v ZDD.
+1.4.1.12     Pokud se obsluhující zaměstnanec dozví, že na přejezdu je
+             překážka nebo jiné možné ohrožení bezpečnosti provozu na
+             přejezdu, např. uvázlé silniční vozidlo, spadlý náklad apod., je
+             povinen neprodleně učinit takové opatření, aby bylo
+             zabráněno jízdě drážního vozidla na přejezd.
+
+
+
+
+                                                                              23
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+1.4.2        Dopravní klid na přejezdu
+
+1.4.2.1      DKNP je používán v případech:
+             a)   při zavedení výluky dopravní služby dle předpisu SŽ D1;
+             b)   při trvalé výstraze na přejezdu z důvodu poruchy
+                  ovládacích úseků PZS podle podmínek stanovených tímto
+                  předpisem;
+             c)   při výlukové činnosti organizované dle předpisu SŽ D7/2
+                  – Organizování výlukových činností (dále jen „předpis SŽ
+                  D7/2“) a SŽ T100 – Předpis pro provozování
+                  zabezpečovacích zařízení (dále jen „předpis SŽ T100“),
+                  kdy by činnost ovládacích úseků PZS vylučovala nebo
+                  omezovala tuto výlukovou činnost nebo vedla k trvalé
+                  výstraze;
+             d)   bude-li posun mezi dopravnami manipulovat delší dobu
+                  v přibližovacím nebo vzdalovacím úseku přejezdu,
+                  případně se bude z přibližovacího úseku vracet a na
+                  přejezd vůbec nedojede a jde-li o povel platný jen pro
+                  jednu kolej;
+             e)   při    žádosti   zaměstnance       organizace    udržující
+                  zabezpečovací zařízení (dále jen „OUZZ“), např. pro účely
+                  přezkušování zabezpečovacího zařízení, na základě
+                  zápisu    v    Záznamníku     poruch     na   sdělovacím
+                  a zabezpečovacím zařízení (dále jen „Záznamník
+                  poruch“);
+             f)   při jízdě vlaku na nákladiště nebo vlečku na širé trati8.
+1.4.2.2      Před zavedením a při ukončení DKNP musí být provedena
+             všechna    potřebná   opatření   k  zajištění bezpečnosti
+             železničního provozu stanovená tímto předpisem a předpisy
+             SŽ D1, SŽ T100 a SŽ D7/2.
+1.4.2.3      Obsluhující zaměstnanec musí před dovolením jízdy drážních
+             vozidel, která nejsou použita při výluce koleje, na kolej se
+             zavedeným DKNP zavést dopravní opatření.
+
+
+
+
+8 Nově se zřizuje pouze se souhlasem odboru předpisů a technologie a odboru
+
+zabezpečovací a telekomunikační techniky.
+
+24
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+1.5          Poruchy přejezdových zabezpečovacích zařízení
+
+1.5.1        Obecné poruchy
+
+1.5.1.1      Poruchy nebo závady vzniklé na podřízeném nebo závislém
+             obslužném pracovišti9, musí obsluhující zaměstnanec oznámit
+             neprodleně výpravčímu (není-li jím sám).
+1.5.1.2      Výpravčí je povinen všechny poruchy zabezpečovacího
+             zařízení ohlásit neprodleně zaměstnanci udržující OS
+             a evidovat je v Záznamníku poruch v souladu s předpisem SŽ
+             T100, případně postupovat dle ustanovení tohoto předpisu.
+1.5.1.3      Zjistí-li obsluhující zaměstnanec při obsluze nebo podle
+             indikací nebo je-li mu ohlášeno, že PZZ vykazuje odchylnou
+             činnost od činnosti uvedené u jednotlivých typů PZZ, případně
+             od činnosti uvedené v kapitole 5, 6, 7 tohoto předpisu, jedná
+             se o poruchu. Poruchy a způsob zajištění bezpečnosti provozu
+             na přejezdu je uveden u jednotlivých typů PZZ, případně
+             v kapitole 5, 6, 7 tohoto předpisu.
+1.5.1.4      V případě, kdy obsluhující zaměstnanec při obsluze zjistí, nebo
+             je-li mu ohlášeno, že PZZ je ve stavu, kdy není schopno
+             předepsaným způsobem informovat uživatele pozemní
+             komunikace o blížícím se drážním vozidle, ale indikace tuto
+             situaci nepostihují (např. poškozené nebo přeražené břevno
+             závory, poškozený závorový stojan, u PZS zůstalo břevno
+             závory i po stanovené době v horní poloze apod.), musí zavést
+             před dovolením jízdy drážního vozidla dopravní opatření.
+1.5.1.5      Obsluhující zaměstnanec podle možností sdělí na vyžádání
+             udržujícímu zaměstnanci podrobnější informace o stavu
+             zařízení a při jaké dopravní situaci porucha vznikla.
+1.5.1.6      Případy, kde je rozsvícení PN hlavního návěstidla závislé na
+             uplynutí stanovené doby od uvedení PZS do výstrahy, se
+             uvedou v ZDD.
+1.5.1.7      Světelná výstraha u PZM (je-li zřízena) se indikuje na
+             kontrolním stanovišti. Poruchu svícení oznámí obsluhující
+             zaměstnanec udržujícímu zaměstnanci. Dopravní opatření se
+             nezavádí.
+
+
+
+
+9 Včetně ohlašování poruch (závad), které nařizují jiné DAP.
+
+
+
+                                                                                25
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+1.5.1.8      Přejezdník u PZM (je-li zřízen) kontroluje úplné sklopení
+             břeven závor. V případě nebezpečí na uzavřeném přejezdu je
+             obsluhující   zaměstnanec     povinen    sejmout    plombu
+             z dvoupolohového nevratného tlačítka „Stop“ pro nouzovou
+             obsluhu přejezdníku a stlačením tohoto tlačítka zhasnout na
+             přejezdníku návěst „Uzavřený přejezd“.
+
+1.5.2        Poruchy napájení PZS
+
+1.5.2.1      Pokud PZS indikuje výpadek hlavního napájení (dle typu PZS),
+             zapíše obsluhující zaměstnanec pouze informaci o výpadku
+             hlavního napájení a času jeho vzniku do Záznamníku poruch,
+             bez evidování poruchy.
+1.5.2.2      Je-li do 1 hodiny od vzniku výpadku hlavního napájení hlavní
+             napájení obnoveno, zapíše obsluhující zaměstnanec čas
+             obnovení hlavního napájení do Záznamníku poruch.
+             Udržujícímu zaměstnanci tuto skutečnost neohlašuje.
+1.5.2.3      Pokud po uplynutí 1 hodiny od vzniku výpadku hlavního
+             napájení není hlavní napájení PZS obnoveno, ohlásí
+             obsluhující zaměstnanec tento stav udržujícímu zaměstnanci
+             dle předpisu SŽ T100 (případně jinému určenému
+             zaměstnanci) a zapíše tuto skutečnost do Záznamníku poruch.
+1.5.2.4      Trvá-li výpadek hlavního napájení déle než 3 hodiny, je
+             obsluhující zaměstnanec povinen zavést pro jízdu dalších
+             drážních vozidel na přejezd dopravní opatření a v Záznamníku
+             poruch doplní k zápisu o výpadku hlavního napájení aktuální
+             číslo poruchy, mimo případy uvedené v článku 1.5.2.7.
+1.5.2.5      Vzory zápisů do Záznamníku poruch při výpadku hlavního
+             napájení PZS jsou uvedeny v předpise SŽ T100.
+1.5.2.6      Zápis o výpadku hlavního napájení PZS obsluhující
+             zaměstnanec v Záznamníku poruch neprovádí, jedná-li se o:
+             a)   plánovaný výpadek hlavního napájení PZS v rámci výluky
+                  a tato informace je uvedena ve výlukovém rozkaze;
+             b)   plánovaný výpadek hlavního napájení PZS v rámci
+                  údržby, s uvedením této skutečnosti v Záznamníku
+                  poruch udržujícím zaměstnancem (dle předpisu SŽ T100).
+
+
+
+
+26
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+1.5.2.7      V případě výpadku hlavního napájení PZS nad 3 hodiny, kde
+             je PZS vybaveno prostředkem pro sledování stavu baterie
+             (např. hlídač napětí baterie), může ZDD10 dovolit, aby
+             obsluhující zaměstnanec nemusel zavádět dopravní opatření
+             (odchylně od článku 1.5.2.4), je-li indikován pohotovostní
+             nebo nouzový stav PZS. Popis a podmínky musí být uvedeny
+             v ZDD.
+1.5.2.8      Nastane-li u PZS dle předchozího článku poruchový stav, musí
+             obsluhující zaměstnanec zavést pro jízdu drážních vozidel
+             dopravní opatření.
+1.5.2.9      Zjistí-li při rušení DKNP obsluhující zaměstnanec v době
+             ukončování VDS (dle typu PZS), že je výpadek hlavního
+             napájení PZS, je povinen neprodleně zavést dopravní opatření
+             pro jízdu dalších drážních vozidel na přejezd a ohlásit tento
+             stav udržujícímu zaměstnanci dle předpisu SŽ T100 (případně
+             jinému určenému zaměstnanci), včetně zápisu do Záznamníku
+             poruch.
+             Je-li PZS vybaveno prostředkem pro sledování stavu baterie,
+             postupuje obsluhující zaměstnanec dle článku 1.5.2.7
+             a 1.5.2.8.
+1.5.2.10     Vzniknou-li ve směně obsluhujícího zaměstnance 3 výpadky
+             hlavního napájení trvající méně než 1 hodinu, postupuje
+             obsluhující zaměstnanec při vzniku třetího výpadku hlavního
+             napájení (bez ohledu na jeho délku trvání) podle ustanovení
+             pro výpadek hlavního napájení PZS trvající déle než 1 hodinu.
+
+1.5.3        Poruchy výstražného kříže
+
+1.5.3.1      Za poruchu výstražného kříže se považuje stav, kdy značka
+             „Výstražný kříž pro železniční přejezd“ (dále jen „výstražný
+             kříž“) neplní funkci dopravní značky, tj. chybí, je poškozená
+             apod.
+1.5.3.2      Dojde-li na přejezdu pouze k poruše výstražného kříže,
+             eviduje tuto situaci obsluhující zaměstnanec v telefonním
+             zápisníku, bez ohledu na skutečnost, zda je přejezd vybaven
+             PZZ nebo pouze výstražnými kříži.
+1.5.3.3      Při poruše výstražného kříže musí obsluhující zaměstnanec
+             pro jízdu drážních vozidel zavést dopravní opatření v souladu
+             s předpisem SŽ D1.
+
+
+10 Na základě prokazatelně dodaných podkladů OUZZ.
+
+
+
+                                                                            27
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+2           MECHANICKÉ PŘEJEZDOVÉ ZABEZPEČOVACÍ
+            ZAŘÍZENÍ
+
+2.1          PZM obsluhované místně
+
+2.1.1        Popis
+
+2.1.1.1      PZM obsluhované místně je jednoduché zařízení, zpravidla
+             s vazbou na jiné zabezpečovací zařízení.
+2.1.1.2      PZM obsluhované místně má tyto hlavní části:
+             a)   pohon závor jednoduchý nebo s převodem;
+             b)   drátovody;
+             c)   závorové stojany;
+             d)   břevna závor.
+2.1.1.3      Na pohonu závor je         vyznačena     kilometrická     poloha
+             obsluhovaného přejezdu.
+
+2.1.2        Obsluha
+
+2.1.2.1      Obsluhující zaměstnanec při převzetí služby prohlédne pohon
+             závor, případně přezkouší jeho funkci.
+2.1.2.2      Při obsluze PZM musí obsluhující zaměstnanec otáčet klikou
+             pohonu rovnoměrně. Otáčením kliky pohonu závor:
+             a)   doprava se břevna závor sklápějí;
+             b)   doleva se břevna závor zdvihají.
+2.1.2.3      Obsluhující zaměstnanec:
+             a)   uzavírá přejezd včas před příjezdem drážního vozidla,
+                  přitom postupuje tak, aby břevny závor neohrozil
+                  uživatele pozemní komunikace a aby nedocházelo
+                  v koncových polohách břeven k prudkým nárazům;
+             b)   sleduje jízdu drážního vozidla na určeném místě;
+             c)   po průjezdu drážního vozidla otevře přejezd na základě
+                  podmínek zjištění uvolnění přejezdu drážním vozidlem
+                  uvedených v ZDD.
+
+
+
+
+28
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+2.1.2.4      Při obsluze je zakázáno:
+             a)   Ponechat nebo zapevňovat západku proti zpětnému
+                  točení klikou v neutrální poloze (mimo pastorek).
+                  Západka musí při obsluze zařízení zapadat do pastorku na
+                  hlavě kliky pohonu závor.
+             b)   Ponechat břevna závor v jiné než koncové poloze.
+
+2.1.3        Poruchy
+
+2.1.3.1      Pokud nedojde při obsluze k úplnému sklopení závor, je
+             ohrožena bezpečnost provozu na přejezdu. Obsluhující
+             zaměstnanec je povinen neprodleně zavést pro jízdu dalších
+             drážních vozidel na přejezd dopravní opatření a dále provede:
+             a)   ohlášení poruchy výpravčímu (není-li jím sám);
+             b)   prohlídku pohonu závor, drátovodů, závorových stojanů
+                  a břeven závor;
+             c)   evidenci poruchy (závady) dle předpisu SŽ T100.
+2.1.3.2      Pokud při obsluze PZM vykazuje těžký nebo lehký chod
+             pohonu závor a dojde k úplnému sklopení, resp. zvednutí
+             závor, provede obsluhující zaměstnanec v době, kdy to
+             dopravní situace umožňuje, prohlídku pohonu závor,
+             drátovodů, závorových stojanů a břeven závor.
+2.1.3.3      Pokud obsluhující zaměstnanec při prohlídce zjistí příčinu
+             odchylky od správné činnosti, kterou může sám odstranit (cizí
+             předmět bránící správné funkci pohonu závor nebo pohybu
+             drátových táhel, odbočných nebo výstupních kladek apod.),
+             jedná se o závadu.
+2.1.3.4      Pokud obsluhující zaměstnanec zjistí jinou odchylku od
+             normální funkce, jedná se o poruchu.
+2.1.3.5      Pokud při obsluze PZM nedojde ke spuštění světelné výstrahy,
+             jedná se o poruchu, u které se dopravní opatření pro jízdu
+             drážního vozidla nezavádí.
+
+
+
+
+                                                                            29
+SŽ Z2                                                    účinnost od 1. června 2024
+ve znění změny č. 1                                 (účinnost od 14. prosince 2025)
+
+2.2          PZM obsluhované dálkově
+
+2.2.1        Popis
+
+2.2.1.1      PZM obsluhované dálkově má tyto hlavní části:
+             a)   pohon závor rychlostní;
+             b)   drátovody;
+             c)   závorové stojany, alespoň jeden s předzváněčem;
+             d)   břevna závor.
+2.2.1.2      Na krytu pohonu závor je vyznačena kilometrická poloha
+             obsluhovaného přejezdu a potřebný počet otáček kliky
+             nutných pro úplnou obsluhu.
+
+2.2.2        Obsluha
+
+2.2.2.1      Otáčením kliky pohonu závor:
+             a)   doprava se břevna závor sklápějí;
+             b)   doleva se břevna závor zdvihají.
+2.2.2.2      Obsluhující zaměstnanec:
+             a)   uzavírá přejezd včas před příjezdem drážního vozidla,
+                  přitom postupuje tak, aby nedocházelo v koncových
+                  polohách břeven k prudkým nárazům;
+             b)   sleduje jízdu drážního vozidla;
+             c)   po průjezdu drážního vozidla otevře přejezd na základě
+                  zjištění uvolnění přejezdu drážním vozidlem dle místních
+                  podmínek uvedených v ZDD.
+2.2.2.3      Při obsluze je zakázáno:
+             a)   Ponechat nebo zapevňovat západku proti zpětnému
+                  točení klikou v neutrální poloze (mimo pastorek).
+                  Západka musí při obsluze zařízení zapadat do pastorku na
+                  hlavě kliky pohonu závor.
+             b)   Ponechat břevna závor v jiné než koncové poloze.
+2.2.2.4      Klikou pohonu závor je nutno otáčet rovnoměrnou rychlostí
+             bez přerušení (přibližně jedna otáčka za sekundu) až do
+             koncových poloh zařízení.
+
+
+
+30
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+             Při menší rychlosti nebo při přerušení otáčení při sklápění se
+             pohon závor samočinně zapevní.
+             Při větší rychlosti při sklápění působí odstředivá brzda pohonu
+             závor.
+2.2.2.5      Obsluhující zaměstnanec počítá otáčky nebo sleduje značku
+             na drátových táhlech, aby nedošlo v koncových polohách
+             k prudkému nárazu v pohonu závor. Značka na drátových
+             táhlech se smí používat jen tehdy, je-li zhotovena příslušnou
+             OUZZ a je-li její používání povoleno v ZDD.
+2.2.2.6      U některých pohonů závor je ukazatel polohy závor, který se
+             zacloní:
+             a)   při zdvižených břevnech závor červeně;
+             b)   při sklopených břevnech závor bíle.
+2.2.2.7      Samočinné zapevnění pohonu závor znemožní dokončení
+             obsluhy. Obsluhující zaměstnanec musí vrátit zařízení do
+             základní polohy opačným otáčením kliky pohonu závor
+             a zavírání znovu opakovat nebo při nebezpečí z prodlení použít
+             nouzového vybavovacího zařízení.
+             Jiná obsluha není dovolena.
+2.2.2.8      Pohon závor rychlostní typu Liberta je vybaven nouzovým
+             vybavovacím zařízením, které obsluhující zaměstnanec
+             použije v případě samočinného zapevnění pohonu závor při
+             uzavírání přejezdu a současném nebezpečí z prodlení při
+             opakování obsluhy.
+             Postup obsluhy:
+             a)   po sejmutí plomby z nouzového vybavovacího zařízení se
+                  vyjme zajišťovací kolík;
+             b)   pootočí se kolečko a po třech až čtyřech otáčkách klikou
+                  doprava se kolečko vrátí zpět a dokončí se sklopení závor
+                  (nutno dodržet předepsaný počet otáček kliky);
+             c)   vrátí se zajišťovací kolík.
+             Každé  použití  nouzového     vybavovacího    zařízení           je
+             zaznamenáno na počítadle v kontrolním okénku.
+             Použití nouzového vybavení a číslo počítadla zaznamená
+             obsluhující zaměstnanec do dopravní dokumentace.
+
+
+
+
+                                                                             31
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+2.2.2.9      Pokud dojde k samočinnému zapevnění pohonu závor typu
+             Liberta při sklápění závor vlivem poruchy v pohonu závor,
+             musí se kolečko nouzového vybavovacího zařízení přidržovat
+             až do úplného sklopení závor. Přitom se musí dodržovat
+             stanovený počet otáček klikou, aby nedošlo k poškození
+             pohonu závor, případně drátovodů.
+2.2.2.10     Pohon závor rychlostní typu ČKD je vybaven nouzovým
+             vybavovacím zařízením, které obsluhující zaměstnanec
+             použije v případě samočinného zapevnění pohonu při
+             uzavírání přejezdu a současném nebezpečí z prodlení při
+             opakování obsluhy.
+             Postup obsluhy:
+             a)   sejme se plomba z kličky pro nouzové uvolnění pohonu
+                  závor;
+             b)   přeloží se klička doleva (tím dojde k uvolnění pohonu
+                  závor);
+             c)   dokončí se sklopení závor do koncové polohy;
+             d)   přeloží se klička do základní polohy (doprava).
+             Použití nouzového    vybavení   zaznamená              obsluhující
+             zaměstnanec do dopravní dokumentace.
+
+2.2.3        Poruchy
+
+2.2.3.1      Zjistí-li obsluhující zaměstnanec při obsluze poruchu
+             (mimořádně těžký nebo lehký chod pohonu závor) nebo
+             nelze-li dodržet předepsaný počet otáček klikou pohonu, musí
+             předpokládat, že přejezd je otevřen. Obsluhující zaměstnanec
+             je povinen neprodleně zavést pro jízdu dalších drážních
+             vozidel na přejezd dopravní opatření a dále provede:
+             a)   ohlášení poruchy výpravčímu (není-li jím sám);
+             b)   prohlídku pohonu závor, drátovodů, závorových stojanů
+                  a břeven závor;
+             c)   evidenci poruchy (závady) dle předpisu SŽ T100.
+2.2.3.2      Pokud obsluhující zaměstnanec při prohlídce zjistí příčinu
+             odchylky od správné činnosti, kterou může sám odstranit (cizí
+             předmět bránící správné funkci pohonu závor nebo pohybu
+             drátových táhel, odbočných nebo výstupních kladek apod.),
+             jedná se o závadu.
+
+
+
+32
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+2.2.3.3      Pokud při obsluze PZM nedojde ke spuštění světelné výstrahy,
+             jedná se o poruchu, u které se dopravní opatření pro jízdu
+             drážního vozidla nezavádí.
+
+2.3          PZM 2 uzamykatelné na místě
+
+2.3.1        Popis
+
+2.3.1.1      PZM uzamykatelné na místě (dále také „PZM 2U“) je
+             jednoduché zařízení obsluhované z místa přejezdu, s vazbou
+             na    jiné zabezpečovací     zařízení,  zpravidla   pomocí
+             elektromagnetického zámku (dále jen „EMZ“).
+2.3.1.2      PZM 2U má tyto hlavní části:
+             a)   závorové stojany s pohony          závor    a    zámkovým
+                  mechanismem s krytem;
+             b)   břevna závor;
+             c)   popisné, informační a označovací štítky;
+             d)   elektrický dohled celistvosti závorového        břevna      ve
+                  vodorovné poloze (je-li zřízen).
+2.3.1.3      Na závorovém stojanu je umístěn:
+             a)   označovací štítek (Obrázek 1) s kilometrickou polohou
+                  přejezdu, návodem pro obsluhu a názvem dopravny
+                  a číslem telefonního spojení na výpravčího;
+             b)   pořadové číslo břevna.
+
+
+
+
+                                                                             33
+SŽ Z2                                                      účinnost od 1. června 2024
+ve znění změny č. 1                                   (účinnost od 14. prosince 2025)
+
+
+
+
+                  Obrázek 1 – Vzor označovacího štítku PZM 2U
+
+2.3.2        Obsluha
+
+2.3.2.1      Postup obsluhujícího zaměstnance při otevírání přejezdu:
+             a)    po uvolnění a vyjmutí klíče z EMZ a sejmutí krytu
+                   mechanického zámku na závorovém stojanu uzamkne klíč
+                   v kontrolním zámku závory č. 1;
+             b)    otáčí klikou pohonu závor rovnoměrnou rychlostí bez
+                   přerušení (přibližně jedna otáčka za sekundu) až do horní
+                   koncové polohy břevna závory;
+             c)    z kontrolního zámku vyjme závislostní klíč;
+             d)    sejme kryt mechanického zámku u další závory
+                   a uzamkne závislostní klíč v jednoduchém zámku (nebo
+                   kontrolním zámku v případě více závor) této závory;
+             e)    otáčí klikou pohonu závor rovnoměrnou rychlostí bez
+                   přerušení (přibližně jedna otáčka za sekundu) až do horní
+                   koncové polohy břevna závory;
+             f)    v případě více závor vyjme závislostní klíč z kontrolního
+                   zámku a postupuje u další závory znovu od písmene d).
+2.3.2.2      Otáčením kliky pohonu závor u pravé závory (Obrázek 2):
+             a)    doprava se břevna závor zdvihají;
+             b)    doleva se břevna závor sklápějí.
+
+
+
+34
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+
+
+
+       Obrázek 2 – Směr otáčení kliky pohonu závor u pravé závory
+
+2.3.2.3      Je-li zřízena k pravé závoře na jedné straně přejezdu současně
+             i levá závora nebo je-li zřízena pouze levá závora, je směr
+             otáčení kliky pohonu závor levé závory opačný (Obrázek 3):
+
+
+
+
+   Obrázek 3 – Směr otáčení kliky pohonu závor u levé a pravé závory
+
+2.3.2.4      Postup obsluhujícího zaměstnance při uzavírání přejezdu:
+             a)   otáčí klikou pohonu závor s jednoduchým mechanickým
+                  zámkem rovnoměrnou rychlostí bez přerušení (přibližně
+                  jedna otáčka za sekundu) až do spodní koncové polohy
+                  břevna závory;
+
+                                                                            35
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+             b)   odemkne klíč v jednoduchém zámku této závory, vyjme
+                  jej a nasadí kryt mechanického zámku;
+             c)   otáčí klikou pohonu závor s kontrolním zámkem
+                  rovnoměrnou rychlostí bez přerušení (přibližně jedna
+                  otáčka za sekundu) až do spodní koncové polohy břevna
+                  závory;
+             d)   vloží závislostní klíč do kontrolního zámku a uzamkne jej;
+             e)   vyjme výsledný klíč z kontrolního zámku a pak jej vloží
+                  a uzamkne v EMZ, v případě více závor postupuje znovu
+                  od písmene c).
+
+2.3.3        Poruchy
+
+2.3.3.1      Nejde-li z důvodu poruchy nebo poškození vyjmout klíč z EMZ
+             nebo závislostní klíč z mechanického kontrolního zámku
+             závory nebo došlo-li ke ztrátě klíče, je nutno vydat náhradní
+             klíč v souladu s DAP. Ztratí-li se hlavní nebo náhradní klíč nebo
+             je-li vydán náhradní klíč, musí být zavedeno pro jízdu drážních
+             vozidel dopravní opatření.
+2.3.3.2      Nejde-li z důvodu poruchy, ztráty nebo poškození vyjmout klíč
+             z jednoduchého zámku nebo výsledný klíč z kontrolního
+             zámku, musí obsluhující zaměstnanec přesto sklopit všechny
+             závory.
+             Klíč, který jako poslední bylo možno vyjmout, předá
+             výpravčímu a pro jízdu drážních vozidel na přejezd musí být
+             zvedeno dopravní opatření.
+2.3.3.3      Nejde-li z důvodu poruchy PZM 2U přejezd uzavřít, musí být
+             zavedeno pro jízdu drážních vozidel dopravní opatření.
+2.3.3.4      Nedojde-li po vložení a uzamčení klíče v EMZ k jeho zapevnění
+             (klíč lze po uzamknutí vyjmout), musí obsluhující
+             zaměstnanec předat tento klíč výpravčímu nebo musí být pro
+             jízdu drážních vozidel na přejezd zavedeno dopravní opatření.
+2.3.3.5      Dojde-li k indikování ztráty celistvosti břevna závory nebo ke
+             ztrátě dohledu klíče v EMZ, musí být zavedeno pro jízdu
+             drážních vozidel dopravní opatření.
+
+
+
+
+36
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+3           SVĚTELNÉ PŘEJEZDOVÉ ZABEZPEČOVACÍ
+            ZAŘÍZENÍ
+
+3.1          Přejezdové zabezpečovací zařízení typu VÚD
+
+3.1.1        Popis
+
+3.1.1.1      PZS typu VÚD je zařízení bez závor, ovládané zpravidla jízdou
+             drážního vozidla. Má tyto hlavní části:
+             a)   výstražníky;
+             b)   vnitřní část zařízení;
+             c)   ovládací úseky v kolejích;
+             d)   kontrolní skříňku na kontrolním stanovišti.
+3.1.1.2      Typová kontrolní skříňka PZS typu VÚD má základní ovládací
+             a indikační prvky11 (Obrázek 4):
+             a)   Doutnavka „D2“;
+             b)   Žárovka „L1“ – hlavní napájení (síť);
+             c)   Žárovka „L2“ – náhradní napájení (měnič);
+             d)   Tx – dvoupolohové vratné tlačítko pro nouzové vypnutí
+                  PZS z činnosti.
+3.1.1.3      Kombinace doutnavky „D2“ a žárovek „L1“ a „L2“ mohou
+             indikovat tyto stavy PZS:
+             a)   Pohotovostní stav – doutnavka „D2“ a žárovka „L1“
+                  nebo „L2“ svítí stálým světlem (na PZS není výstražný
+                  stav, ani poruchový stav)12.
+             b)   Výstražný stav – doutnavka „D2“ svítí přerušovaným
+                  světlem a žárovka „L1“ nebo „L2“ stálým světlem (na PZS
+                  je výstražný stav a není poruchový stav).
+             c)   Anulační stav – doutnavka „D2“ nesvítí a žárovka „L1“
+                  nebo „L2“ svítí stálým světlem.
+
+
+
+
+11 Doutnavka D2 a žárovky L1 a L2 nemají určenou barvu indikace.
+
+12 U PZS typu VÚD se za pohotovostní stav považuje stav PZS v době, kdy na něm
+
+není vyhodnocen poruchový ani výstražný stav.
+
+                                                                              37
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+             d)   Hlavní napájení – žárovka „L1“ svítí stálým světlem,
+                  žárovka „L2“ nesvítí.
+             e)   Náhradní napájení – žárovka „L2“ svítí stálým světlem,
+                  žárovka „L1“ nesvítí.
+             f)   Poruchový stav – nesvítí žádné kontrolní světlo, nebo
+                  svítí doutnavka „D2“ stálým nebo přerušovaným světlem
+                  a nesvítí žárovka „L1“ ani „L2“.
+3.1.1.4      Ovládací skříňka může obsahovat další ovládací prvky dle
+             místních podmínek (Obrázek 5):
+             a)   Tlv – dvoupolohové vratné tlačítko pro uvedení PZS do
+                  výstražného stavu (u některých řešení kontrolních skříněk
+                  je tlačítko označeno jako „Výstraha“).
+             b)   Tlo – dvoupolohové vratné tlačítko pro zrušení
+                  výstražného stavu (u některých řešení kontrolních skříněk
+                  je tlačítko označeno jako „Anulace“).
+             c)   Výstraha při posunu – dvoupolohové nevratné tlačítko
+                  uzamykatelné. Jeho stlačením se uvede PZS do výstrahy,
+                  povytažením se výstraha zruší.
+                  Výstraha   při  posunu    je   indikována         střídavým
+                  přerušovaným    svícením    žárovek   „L1“         a    „L2“
+                  a přerušovaným svícením doutnavky „D2“.
+             d)   Výluka při posunu – dvoupolohové nevratné tlačítko
+                  uzamykatelné. Jeho stlačením se vyloučí vliv ovládacích
+                  úseků13 na PZS, povytažením se výluka zruší.
+                  Výluka při posunu je indikována střídavým přerušovaným
+                  svícením žárovek „L1“ a „L2“ a stálým svícením
+                  doutnavky „D2“.
+             e)   Předání obsluhy – dvoupolohové nevratné tlačítko
+                  uzamykatelné. Slouží k předání obsluhy PZS z ovládací
+                  skříňky u přejezdu (je-li zřízena).
+3.1.1.5      V kontrolní skříňce mohou být zřízeny červené indikace stavu
+             příslušných kolejových úseků (dále jen „KÚ“).
+3.1.1.6      Pro místní obsluhu může být u přejezdu zřízena ovládací
+             skříňka. Popis a obsluha se uvede v DU.
+
+
+
+
+13 KÚ stanovené projektem.
+
+
+
+38
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+3.1.1.7      Indikační a ovládací prvky mohou být případně integrovány do
+             ovládacího stolu nebo indikační desky SZZ.
+
+
+
+
+Obrázek 4 – Příklad kontrolní skříňky PZS typu VÚD se základními prvky
+
+
+
+
+                                                                           39
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+
+
+
+            Obrázek 5 – Příklad kontrolní skříňky PZS typu VÚD
+                        s dalšími ovládacími prvky
+
+
+
+
+40
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+3.1.2        Obsluha
+
+3.1.2.1      Za normálního stavu je činnost PZS automatická v závislosti
+             na jízdě drážního vozidla a nevyžaduje žádnou obsluhu ze
+             strany obsluhujícího zaměstnance.
+3.1.2.2      Obsluhující zaměstnanec je povinen se před dovolením jízdy
+             drážního vozidla na přejezd podle indikací přesvědčit, že
+             zařízení je schopno předepsaným způsobem varovat uživatele
+             pozemní komunikace:
+             a)   Pohotovostní stav (doutnavka „D2“ a žárovka „L1“ nebo
+                  „L2“ svítí stálým světlem).
+             b)   Anulační stav (doutnavka „D2“ nesvítí, žárovka „L1“ nebo
+                  „L2“ svítí stálým světlem), jestliže se jedná o jízdu
+                  drážního vozidla ve stejném směru jako předchozí
+                  (předchozí ještě neopustilo vzdalovací úsek přejezdu).
+3.1.2.3      Jestliže je nutno pro jízdu drážního vozidla uzavřít přejezd
+             ruční obsluhou (např. nedostatečná délka přibližovacího úseku
+             apod.), stlačí obsluhující zaměstnanec před povolením jeho
+             jízdy tlačítko „Tlv“ a přesvědčí se, že je indikován „Výstražný
+             stav“.
+             Pokud drážní vozidlo projelo přejezdem a nedošlo k otevření
+             přejezdu    automaticky,     obsluhující    zaměstnanec      po
+             spolehlivém zjištění, že drážní vozidlo opustilo obvod přejezdu
+             (případně neuskuteční-li se jízda drážního vozidla vůbec),
+             otevře přejezd tlačítkem „Tlo“.
+3.1.2.4      Povinnosti obsluhujících zaměstnanců        v   případě    výluky
+             dopravní služby určuje ZDD.
+
+3.1.3        Poruchy
+
+3.1.3.1      Jestliže zařízení indikuje poruchový stav (nesvítí žádné
+             kontrolní světlo nebo svítí doutnavka „D2“ stálým, případně
+             přerušovaným světlem a nesvítí žárovka „L1“ ani „L2“), je
+             obsluhující zaměstnanec povinen pro jízdu drážních vozidel
+             zavést dopravní opatření.
+3.1.3.2      Jestliže je PZS v trvalém výstražném stavu a v obvodu
+             přejezdu není žádné drážní vozidlo ani se k němu neblíží, musí
+             obsluhující zaměstnanec neprodleně zavést pro jízdu dalších
+             drážních vozidel na přejezd dopravní opatření. Po uplynutí
+             nejméně deseti minut výstražného stavu stlačí obsluhující
+
+
+
+                                                                             41
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+             zaměstnanec tlačítko „Tx“14 (před uplynutím této doby nelze
+             stlačením tlačítka výstražný stav zrušit) a tím vypne PZS
+             z činnosti.  Po    odstranění   poruchy   uvede    udržující
+             zaměstnanec zařízení opět do činnosti.
+3.1.3.3      Jestliže zařízení indikuje „Anulační stav“ (doutnavka „D2“
+             nesvítí a žárovka „L1“ nebo „L2“ svítí stálým světlem),
+             přestože obsluhující zaměstnanec spolehlivě zjistil, že
+             předcházející drážní vozidlo, pro které byl přejezd uzavřen,
+             opustilo vzdalovací úsek přejezdu, je povinen zavést pro jízdu
+             dalších drážních vozidel dopravní opatření.
+3.1.3.4      Pokud zařízení indikuje výpadek hlavního napájení (nesvítí
+             žárovka „L1“) a činnost měniče náhradního napájení (svítí
+             žárovka „L2“), postupuje obsluhující zaměstnanec podle
+             článku 1.5.2 tohoto předpisu.
+3.1.3.5      Jestliže je indikována „Výluka při posunu“ a nelze ji zrušit
+             povytažením příslušného tlačítka, je obsluhující zaměstnanec
+             povinen zavést pro jízdu dalších drážních vozidel na přejezd
+             dopravní opatření.
+3.1.3.6      Jestliže se po obsluze tlačítka „Tlv“ neindikuje „Výstražný
+             stav“, je obsluhující zaměstnanec povinen zavést pro jízdy
+             dalších drážních vozidel na přejezd dopravní opatření.
+
+
+
+
+14 Nedojde-li po uplynutí 10 minut a stlačení tlačítka k nouzovému vypnutí PZS
+
+z činnosti, lze po uplynutí cca 3 minut zkusit obsloužit tlačítko znovu.
+
+42
+SŽ Z2                                                    účinnost od 1. června 2024
+ve znění změny č. 1                                 (účinnost od 14. prosince 2025)
+
+3.2          Přejezdové zabezpečovací zařízení světelné typu SSSR
+
+3.2.1        Popis
+
+3.2.1.1      PZS typu SSSR je zařízení ovládané zpravidla jízdou drážního
+             vozidla. Má tyto hlavní části:
+             a)   výstražníky;
+             b)   závorové stojany se závorami (jsou-li zřízeny);
+             c)   vnitřní část zařízení;
+             d)   ovládací úseky v kolejích;
+             e)   kontrolní skříňku na kontrolním stanovišti;
+             f)   skříňku místní obsluhy.
+3.2.1.2      Kontrolní skříňka PZS typu SSSR může mít tyto ovládací
+             a indikační prvky (Obrázek 6):
+             a)   AK, BK, CK – bílá indikace stavu ovládacích úseků15. Svítí
+                  stálým světlem při obsazení příslušného ovládacího úseku
+                  (jsou-li zřízeny).
+             b)   Porucha sítě – červená indikace hlavního napájení. Svítí
+                  stálým světlem při výpadku napájení.
+             c)   Přejezd otevřen (Závory otevřeny) – červená
+                  indikace. Svítí stálým světlem v době, kdy PZS nedává
+                  výstrahu.
+             d)   Přejezd uzavřen (Závory uzavřeny) – bílá indikace:
+                  •   PZS bez závor:
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha;
+                  •   PZS se závorami:
+                      −   svítí přerušovaným světlem v době, kdy je dávána
+                          výstraha a břevna závor nejsou sklopena (probíhá
+                          měření doby do zahájení sklápění závor nebo
+                          sklápění či zdvihání břeven závor);
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha a jsou sklopena břevna závor.
+
+
+15 U vícekolejných přejezdů jsou indikace zřízeny samostatně pro každou kolej.
+
+
+
+                                                                               43
+SŽ Z2                                                    účinnost od 1. června 2024
+ve znění změny č. 1                                 (účinnost od 14. prosince 2025)
+
+             e)   Anulační stav – bílá indikace16. Svítí stálým světlem,
+                  je-li PZS ve stavu anulace.
+             f)   Kontrola světel výstražníků – červená indikace. Svítí
+                  přerušovaným světlem při poruše jedné žárovky
+                  výstražníku, svítí stálým světlem při poruše obou žárovek
+                  jednoho výstražníku.
+             g)   Zavřeno – třípolohové vratné tlačítko pro uvedení PZS do
+                  výstražného stavu. Stlačením se přejezd uzavírá,
+                  povytažením otevírá.
+             h)   Otevřeno – dvoupolohové vratné tlačítko s plombou na
+                  šňůrce, pro nouzové zrušení výstražného stavu. Po dobu
+                  jeho stlačení je přejezd otevřen.
+3.2.1.3      Indikační a ovládací prvky mohou být případně integrovány do
+             ovládacího stolu nebo indikační desky SZZ.
+
+
+
+
+16 U vícekolejných přejezdů jsou indikace zřízeny samostatně pro každou kolej.
+
+
+
+44
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+
+
+
+            Obrázek 6 – Příklad kontrolní skříňky PZS typu SSSR
+
+
+
+
+                                                                           45
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+3.2.2        Obsluha
+
+3.2.2.1      Za normálního stavu je činnost PZS automatická v závislosti
+             na jízdě drážního vozidla nebo na obsluze SZZ a nevyžaduje
+             žádnou další obsluhu ze strany obsluhujícího zaměstnance.
+3.2.2.2      Obsluhující zaměstnanec je povinen se před dovolením jízdy
+             drážního vozidla na přejezd podle indikací přesvědčit, že
+             zařízení indikuje normální činnost, tj.:
+             a)   Svítí pouze červená indikace „Přejezd otevřen“ („Závory
+                  otevřeny“), případně i červená indikace „Porucha sítě“ —
+                  v obvodu přejezdu není žádné drážní vozidlo.
+             b)   Svítí bílá indikace „AK“ nebo „CK“ (případně současně
+                  i „BK“) a současně bílá indikace „Přejezd uzavřen“
+                  („Závory uzavřeny“) — v přibližovacím úseku je drážní
+                  vozidlo. O normální činnost se jedná jen v případě, že se
+                  (zejména u mezistaničních úseků dělených na traťové
+                  oddíly) jedná o jízdu drážního vozidla ve stejném směru
+                  jako předchozí drážní vozidlo.
+             c)   Svítí bílá indikace „Anulační stav“ a současně bílá indikace
+                  „AK“ nebo „CK“ — ve vzdalovacím úseku je drážní vozidlo.
+                  O normální činnost se jedná jen v případě, že se (zejména
+                  u mezistaničních úseků dělených na traťové oddíly) jedná
+                  o jízdu drážní vozidla ve stejném směru jako předchozí
+                  drážní vozidlo.
+             d)   Svítí bílá indikace „Přejezd uzavřen“ („Závory uzavřeny“).
+                  O normální činnost se jedná v případě uzavření přejezdu
+                  v souvislosti se stavěním jízdní cesty obsluhou SZZ, ruční
+                  obsluhou nebo jízdou drážního vozidla po jiné koleji
+                  přejezdu.
+3.2.2.3      Jestliže je nutno pro jízdu drážního vozidla uzavřít přejezd
+             ruční obsluhou (vozidlo nesplňuje podmínky pro spolehlivou
+             činnost KÚ apod.), stlačí obsluhující zaměstnanec před
+             povolením jeho jízdy tlačítko „Zavřeno“ a přesvědčí se, zda:
+             a)   u PZS bez závor bylo uvedeno PZS do výstražného stavu,
+                  tj. zhasne červená indikace "Přejezd otevřen" a rozsvítí se
+                  se bílá indikace "Přejezd uzavřen";
+             b)   u PZS se závorami bylo PZS uvedeno do výstražného
+                  stavu, tj. zhasne červená indikace "Závory otevřeny"
+                  a rozsvítí se se bílá indikace "Závory uzavřeny", jízdu
+                  drážního vozidla lze dovolit až po rozsvícení bílé indikace
+                  "Závory uzavřeny" stálým světlem."
+
+46
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+             Po spolehlivém zjištění, že drážní vozidlo minulo přejezd,
+             obsluhující zaměstnanec povytažením tohoto tlačítka přejezd
+             otevře.
+3.2.2.4      Povinnosti obsluhujících zaměstnanců         v   případě    výluky
+             dopravní služby určuje ZDD.
+
+3.2.3        Poruchy
+
+3.2.3.1      O poruchu PZS se jedná, jestliže:
+             a)   svítí některá z indikací „AK“, „BK“, „CK“ a obsluhující
+                  zaměstnanec spolehlivě zjistil, že v obvodu přejezdu není
+                  žádné drážní vozidlo;
+             b)   svítí bílá indikace „Přejezd uzavřen“ („Závory uzavřeny“)
+                  a obsluhující zaměstnanec spolehlivě zjistil, že v obvodu
+                  přejezdu není žádné drážní vozidlo a přejezd nebyl
+                  uzavřen ruční obsluhou;
+             c)   svítí bílá indikace „Anulační stav“ a obsluhující
+                  zaměstnanec spolehlivě zjistil, že předcházející drážní
+                  vozidlo, pro které byl přejezd uzavřen, opustilo vzdalovací
+                  úsek přejezdu;
+             d)   svítí červená indikace „Porucha sítě“ nepřetržitě déle než
+                  3 hodiny;
+             e)   svítí přerušovaným nebo stálým světlem červená indikace
+                  „Kontrola světel výstražníků“ v době, kdy PZS dává
+                  výstrahu;
+             f)   svítí přerušovaným světlem bílá indikace „Přejezd
+                  uzavřen“ („Závory uzavřeny“) i po uplynutí doby do
+                  zahájení sklápění závor a doby sklápění břeven závor;
+             g)   případně svítí i kombinace některých uvedených indikací
+                  (např. a) + b) nebo a) + c) apod.);
+             h)   nesvítí žádná indikace.
+             Obsluhující zaměstnanec je povinen zavést pro jízdu dalších
+             drážních vozidel na přejezd dopravní opatření.
+             Jestliže se jedná jen o poruchu dle písmene c) a obsluhující
+             zaměstnanec uzavře přejezd ruční obsluhou, není nutno
+             zavádět pro jízdu drážního vozidla dopravní opatření.
+3.2.3.2      Jestliže je PZS v trvalém výstražném stavu (porucha dle
+             písmene b) předchozího článku), i když v obvodu přejezdu
+             není žádné drážní vozidlo, je obsluhující zaměstnanec povinen
+
+                                                                              47
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+             umožnit provoz na pozemní komunikaci, tj. pokud to dopravní
+             situace umožní a k přejezdu se neblíží žádné drážní vozidlo,
+             otevřít přejezd opakovaně na dobu nejméně 2 minuty
+             obsluhou tlačítka „Otevřeno“, po sejmutí plomby. Dopravní
+             opatření je pak možno odvolat po odstranění poruchy
+             a obnovení plomby.
+3.2.3.3      Pokud zařízení indikuje výpadek hlavního napájení (svítí
+             červená indikace „Porucha sítě“), postupuje obsluhující
+             zaměstnanec podle článku 1.5.2 tohoto předpisu.
+
+
+
+
+48
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+3.3          Přejezdové zabezpečovací zařízení světelné typu
+             AŽD 71
+
+3.3.1        Popis
+
+3.3.1.1      PZS AŽD 71 je zařízení ovládané zpravidla jízdou drážního
+             vozidla. Má tyto hlavní části:
+             a)   výstražníky;
+             b)   závorové stojany se závorami (jsou-li zřízeny);
+             c)   vnitřní část zařízení;
+             d)   ovládací úseky v kolejích (jsou-li zřízeny);
+             e)   kontrolní skříňku na kontrolním stanovišti;
+             f)   skříňku místní obsluhy.
+3.3.1.2      Typová kontrolní skříňka PZS AŽD 71 bez závor i se závorami
+             má základní ovládací a indikační prvky (Obrázek 7):
+             a)   Pohotovostní stav (Bezporuchový stav) — zelená
+                  indikace. Svítí-li stálým světlem, indikuje, že na zařízení
+                  se nevyskytuje žádná porucha a není použito povelu
+                  k nouzovému otevření.
+             b)   Nouzový stav — žlutá indikace. Svítí-li stálým světlem,
+                  indikuje, že na zařízení je porucha, která neohrožuje
+                  bezpečnost provozu na přejezdu, a není použito povelu
+                  k nouzovému otevření. Je doprovázena vypínatelnou
+                  akustickou indikací.
+             c)   Poruchový stav — červená indikace. Svítí-li stálým
+                  světlem, indikuje, že na přejezdu je porucha, která
+                  ohrožuje bezpečnost provozu na přejezdu, nebo je
+                  použito povelu k nouzovému otevření. Je doprovázena
+                  vypínatelnou akustickou indikací.
+             d)   Výstražný stav — bílá indikace:
+                  •   PZS bez závor, u něhož není zřízena závislost
+                      návěstidla na době trvání výstrahy:
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha;
+                  •   PZS se závorami, u něhož není zřízena závislost
+                      návěstidla na době trvání výstrahy:
+
+
+
+                                                                              49
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+                      −   svítí přerušovaným světlem v době, kdy je dávána
+                          výstraha a břevna závor nejsou sklopena (probíhá
+                          měření doby do zahájení sklápění závor nebo
+                          sklápění závor);
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha a jsou sklopena břevna závor;
+                  •   PZS se závorami nebo bez závor, u něhož je zřízena
+                      závislost návěstidla na době trvání výstrahy:
+                      −   svítí přerušovaným světlem v době, kdy je dávána
+                          výstraha a probíhá měření doby potřebné pro
+                          uzavření PZS od spuštění výstrahy (tj. nejdelší
+                          doba, než se na návěstidlech kryjících přejezd smí
+                          rozsvítit návěst dovolující jízdu);
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha a již bylo ukončeno měření doby
+                          potřebné pro uzavření PZS od spuštění výstrahy
+                          (tj. nejdelší doba, než se na návěstidlech kryjících
+                          přejezd smí rozsvítit návěst dovolující jízdu,
+                          případně návěst „Uzavřený přejezd“).
+             e)   Anulační stav — bílá indikace. U vícekolejných přejezdů
+                  je indikace anulačního stavu samostatná pro každou
+                  kolej.
+                  U starších zařízení svítí přerušovaným světlem, je-li PZS
+                  v anulačním stavu. Stálým světlem svítí po překročení
+                  mezní doby anulace a uvedení PZS opět do výstrahy.
+                  U novějších zařízení svítí stálým světlem, je-li PZS
+                  v anulačním stavu, po překročení mezní doby anulace
+                  a uvedení PZS opět do výstrahy nesvítí (uvede se v ZDD).
+             f)   Chod měniče — bílá indikace. Svítí stálým světlem
+                  v době, kdy PZS nemá hlavní napájení a je napájeno
+                  z náhradního zdroje.
+                  U novějších zařízení je indikace označena jako „Náhradní
+                  napájení“ a doplněna vypínatelnou akustickou indikací.
+
+
+
+
+50
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+             g)   Vypnutí zvonku nouzového stavu — dvoupolohové
+                  nevratné tlačítko, jehož stlačením se vypne akustická
+                  indikace při nouzovém stavu, povytažením se po
+                  odstranění nouzového stavu vypne obnovená akustická
+                  indikace.
+             h)   Vypnutí zvonku poruchového stavu — dvoupolohové
+                  nevratné tlačítko s plombou na šňůrce, jehož stlačením se
+                  vypne akustická indikace při poruchovém stavu,
+                  povytažením se po odstranění poruchového stavu vypne
+                  obnovená akustická indikace.
+             i)   Vypnutí zvonku poruchy napájení — dvoupolohové
+                  nevratné tlačítko s plombou na šňůrce, jehož stlačením se
+                  vypne akustická indikace při poruše hlavního napájení
+                  PZS, povytažením se po odstranění poruchy hlavního
+                  napájení PZS vypne obnovená akustická indikace.
+             j)   Zavřeno — dvoupolohové nevratné tlačítko, jehož
+                  stlačením se PZS dálkově uvede do výstrahy,
+                  povytažením se povel k uzavření zruší, PZS se uvede do
+                  základního stavu, pokud mezitím nedošlo k ovlivnění PZS
+                  jízdou drážního vozidla.
+             k)   Otevřeno — dvoupolohové vratné tlačítko s plombou na
+                  šňůrce pro nouzové zrušení výstražného stavu. Toto
+                  tlačítko může být místo plomby na šňůrce v provedení
+                  tlačítka s uzávěrou proti náhodné obsluze, neplombované
+                  a s počítadlem obsluh. Přejezd je otevřen po dobu stlačení
+                  tlačítka.
+                  Nově se tlačítko zřizuje pouze s plombou na šňůrce.
+3.3.1.3      Indikační a ovládací prvky mohou být případně integrovány do
+             ovládacího stolu nebo indikační desky SZZ.
+3.3.1.4      Kontrolní skříňka může obsahovat další ovládací prvky pro
+             obsluhu PZS podle místních podmínek, např. „Výluka při
+             posunu“.
+3.3.1.5      U rekonstruovaných PZS typu AŽD 71 mohou být provedeny
+             indikační a ovládací prvky jako u nově budovaných typů PZS.
+             V tomto případě se pak postupuje podle článku 3.4 tohoto
+             předpisu.
+3.3.1.6      Ve stanici, kde není instalována kontrolní skříňka, může být
+             pouze zelená indikace „Pohotovostní stav“, a to i jako sloučená
+             indikace pro více přejezdů (např. v mezistaničním úseku
+             s traťovým zabezpečovacím zařízením 3. kategorie). Tato
+
+                                                                             51
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+             indikace svítí stálým světlem, není-li na žádném PZS porucha,
+             která ohrožuje bezpečnost provozu na přejezdu a žádné PZS
+             není nouzově otevřeno.
+
+
+
+
+           Obrázek 7 – Příklad kontrolní skříňky PZS typu AŽD 71
+
+3.3.2        Obsluha
+
+3.3.2.1      Za normálního stavu je činnost PZS zpravidla automatická
+             v závislosti na jízdě drážního vozidla, případně i na obsluze
+             SZZ a nevyžaduje žádnou další obsluhu ze strany
+             obsluhujícího zaměstnance.
+3.3.2.2      Obsluhující zaměstnanec je povinen se před dovolením jízdy
+             drážního vozidla na přejezd podle indikací přesvědčit, že
+             zařízení je schopno předepsaným způsobem varovat uživatele
+             pozemní komunikace, tj:
+             a)   Svítí pouze zelená indikace „Pohotovostní stav“
+                  („Bezporuchový stav“) nebo žlutá indikace „Nouzový
+                  stav“, případně i bílá indikace „Chod měniče“ („Náhradní
+                  napájení“) – v obvodu přejezdu není žádné drážní vozidlo.
+             b)   Svítí zelená indikace „Pohotovostní stav“ („Bezporuchový
+                  stav“)     nebo    žlutá    indikace   „Nouzový      stav“
+                  a přerušovaným nebo stálým bílým světlem indikace
+                  „Výstražný stav“ – v přibližovacím úseku je drážní vozidlo.
+
+52
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+                  O normální činnost se jedná jen v případě, že se (zejména
+                  u mezistaničních úseků dělených na traťové oddíly) jedná
+                  o dovolení jízdy drážního vozidla ve stejném směru jako
+                  předchozí drážní vozidlo nebo v případě uzavření přejezdu
+                  v souvislosti se stavěním jízdní cesty obsluhou SZZ, ruční
+                  obsluhou nebo jízdou drážního vozidla po jiné koleji.
+             c)   Svítí zelená indikace „Pohotovostní stav“ („Bezporuchový
+                  stav“) nebo žlutá indikace „Nouzový stav“ a indikace
+                  „Anulační stav“ (přerušovaným nebo stálým svícením) –
+                  ve vzdalovacím úseku je drážní vozidlo.
+                  O normální činnost se jedná jen v případě, že se (zejména
+                  u mezistaničních úseků dělených na traťové oddíly) jedná
+                  o dovolení jízdy drážního vozidla ve stejném směru jako
+                  předchozí drážní vozidlo.
+3.3.2.3      Jestliže je nutno pro jízdu drážního vozidla uzavřít přejezd
+             ruční obsluhou (vozidlo nesplňuje podmínky pro spolehlivou
+             činnost    kolejových   úseků   apod.),   stlačí obsluhující
+             zaměstnanec před povolením jeho jízdy tlačítko „Zavřeno“
+             a přesvědčí se, zda zařízení bylo uvedeno do výstražného
+             stavu (indikace „Výstražný stav“ svítí stálým světlem)
+             a teprve potom povolí jeho jízdu. Po spolehlivém zjištění, že
+             drážní vozidlo minulo přejezd, obsluhující zaměstnanec
+             povytažením tohoto tlačítka přejezd otevře.
+3.3.2.4      Povinnosti obsluhujících zaměstnanců         v   případě    výluky
+             dopravní služby určuje ZDD.
+
+3.3.3        Poruchy
+
+3.3.3.1      O poruchu PZS se jedná, jestliže:
+             a)   nesvítí   zelená    indikace      „Pohotovostní    stav“
+                  („Bezporuchový stav“) ani žlutá indikace „Nouzový stav“;
+             b)   svítí červená indikace „Poruchový stav“;
+             c)   svítí bílá indikace „Výstražný stav“ a obsluhující
+                  zaměstnanec spolehlivě zjistil, že v obvodu přejezdu není
+                  žádné drážní vozidlo a nebyla použita ruční obsluha;
+             d)   svítí bílá indikace „Anulační stav“ a obsluhující
+                  zaměstnanec spolehlivě zjistil, že předcházející drážní
+                  vozidlo, pro které byl přejezd uzavřen, opustilo vzdalovací
+                  úsek přejezdu;
+
+
+
+                                                                              53
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+             e)   svítí déle než 3 hodiny bílá indikace „Chod měniče“
+                  („Náhradní napájení“) a popřípadě svítí zároveň žlutá
+                  indikace „Nouzový stav“ doprovázená akustickou indikací,
+                  kterou lze vypnout tlačítkem „Vypnutí zvonku nouzového
+                  stavu“;
+             f)   svítí přerušovaným světlem bílá indikace „Výstražný stav“
+                  i po uplynutí doby potřebné pro uzavření PZS od spuštění
+                  výstrahy, po jejímž uplynutí smí být dovolena jízda
+                  drážních vozidel na přejezd;
+             g)   případně i kombinace některých uvedených indikací,
+                  např. a) + c);
+             h)   nesvítí žádná indikace.
+             Obsluhující zaměstnanec je povinen zavést pro jízdu dalších
+             drážních vozidel dopravní opatření.
+             Jestliže se jedná pouze o poruchu dle písmene d) a obsluhující
+             zaměstnanec uzavře přejezd ruční obsluhou, není nutno
+             zavádět pro jízdu drážního vozidla dopravní opatření.
+3.3.3.2      Jestliže je PZS v trvalém výstražném stavu (porucha dle
+             písmene c) předchozího článku), i když v obvodu přejezdu
+             není žádné drážní vozidlo, je obsluhující zaměstnanec povinen
+             umožnit provoz na pozemní komunikaci, tj. pokud to dopravní
+             situace umožní a k přejezdu se neblíží žádné drážní vozidlo,
+             otevřít přejezd opakovaně na dobu nejméně 2 minuty
+             obsluhou tlačítka „Otevřeno“ po sejmutí plomby. Dopravní
+             opatření je pak možno odvolat po odstranění poruchy
+             a obnovení plomby.
+3.3.3.3      Pokud zařízení indikuje výpadek hlavního napájení (svítí bílá
+             indikace „Chod měniče“, popř. i žlutá indikace „Nouzový
+             stav“), postupuje obsluhující zaměstnanec podle článku 1.5.2
+             tohoto předpisu.
+             Není-li zřízena indikace „Chod měniče“ je obsluhující
+             zaměstnanec při svícení žluté indikace „Nouzový stav“ povinen
+             po uplynutí 3 hodin postupovat jako při výpadku hlavního
+             napájení dle článku 1.5.2 tohoto předpisu.
+
+
+
+
+54
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+3.4          Přejezdové zabezpečovací zařízení světelné nově
+             budovaných typů
+
+3.4.1        Popis
+
+3.4.1.1      PZS nově budovaných typů je zařízení ovládané jízdou
+             drážního vozidla, případně s vazbou na SZZ. Má tyto hlavní
+             části:
+             a)   výstražníky;
+             b)   závorové stojany se závorami (jsou-li zřízeny);
+             c)   vnitřní část zařízení;
+             d)   ovládací úseky v kolejích;
+             e)   indikační a ovládací prvky na kontrolním stanovišti (je-li
+                  zřízeno);
+             f)   přejezdníky (jsou-li zřízeny);
+             g)   skříňku místní obsluhy.
+3.4.1.2      Indikační prvky stavu PZS:
+             a)   Bezporuchový stav — zelená indikace. Svítí stálým
+                  světlem a indikuje, že na zařízení se nevyskytuje žádná
+                  porucha, není použito povelu k nouzovému otevření
+                  (místní ani dálkové), PZS není ve stavu DKNP a není
+                  zavedena výluka ovládacích úseků (při zavedení DKNP
+                  a výluce ovládacích úseků zhasíná pouze tehdy, není-li
+                  zřízena samostatná indikace „Bezvýlukový stav“).
+             b)   Nouzový stav — žlutá indikace. Svítí stálým světlem
+                  a indikuje, že na zařízení je porucha, která neohrožuje
+                  bezpečnost provozu na přejezdu, není použito povelu
+                  k nouzovému otevření (místní ani dálkové), PZS není ve
+                  stavu DKNP a není zavedena výluka ovládacích úseků (při
+                  zavedení DKNP a výluce ovládacích úseků zhasíná pouze
+                  tehdy, není-li zřízena samostatná indikace „Bezvýlukový
+                  stav“). Je doprovázena vypínatelnou akustickou indikací.
+             c)   Poruchový stav — červená indikace. Svítí stálým
+                  světlem a indikuje, že na přejezdu je porucha, která
+                  ohrožuje bezpečnost provozu na přejezdu, nebo je
+                  přejezd otevřen použitím povelu k nouzovému otevření
+                  (místní či dálkové), nebo je PZS ve stavu DKNP, nebo je
+                  zavedena výluka ovládacích úseků (při zavedení DKNP
+                  a výluce ovládacích úseků se nerozsvěcí tehdy, je-li
+
+                                                                              55
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+                  zřízena samostatná indikace „Bezvýlukový stav“). Je
+                  doprovázena vypínatelnou akustickou indikací.
+             d)   Přejezd uzavřen — bílá indikace:
+                  •   PZS bez závor, u něhož není zřízena závislost
+                      návěstidla na době trvání výstrahy:
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha;
+                  •   PZS se závorami, u něhož není zřízena závislost
+                      návěstidla na době trvání výstrahy:
+                      −   svítí přerušovaným světlem v době, kdy je dávána
+                          výstraha a břevna závor nejsou sklopena (probíhá
+                          měření doby do zahájení sklápění závor nebo
+                          sklápění závor);
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha a jsou sklopena břevna závor;
+                  •   PZS se závorami nebo bez závor, u něhož je zřízena
+                      závislost návěstidla na době trvání výstrahy:
+                      −   svítí přerušovaným světlem v době, kdy je dávána
+                          výstraha a probíhá měření doby potřebné pro
+                          uzavření PZS od spuštění výstrahy (tj. nejdelší
+                          doba, než se na návěstidlech kryjících přejezd smí
+                          rozsvítit návěst dovolující jízdu);
+                      −   svítí stálým světlem v době, kdy je dávána
+                          výstraha a již bylo ukončeno měření doby
+                          potřebné pro uzavření PZS od spuštění výstrahy
+                          (tj. nejdelší doba, než se na návěstidlech kryjících
+                          přejezd smí rozsvítit návěst dovolující jízdu,
+                          případně návěst „Uzavřený přejezd“).
+             e)   Bezanulační stav — modrá indikace. Svítí stálým
+                  světlem v době, kdy na PZS neprobíhá anulace.
+                  U vícekolejných přejezdů je samostatná pro každou kolej.
+             f)   Bezvýlukový stav — bílá indikace. Svítí stálým světlem
+                  v době, kdy není zavedena výluka určených ovládacích
+                  prvků přejezdu na přítomnosti drážního vozidla ani DKNP.
+                  U vícekolejných přejezdů je samostatná pro každou kolej.
+
+
+
+
+56
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+             g)   Pohotovostní stav — zelená indikace. Svítí stálým
+                  světlem a indikuje, že na zařízení se nevyskytuje žádná
+                  porucha ohrožující bezpečnost provozu na přejezdu, PZS
+                  není otevřeno použitím povelu k nouzovému otevření
+                  (místní ani dálkové), není ve stavu DKNP a není zavedena
+                  výluka ovládacích úseků (při zavedení DKNP a výluce
+                  ovládacích úseků zhasíná pouze tehdy, není-li zřízena
+                  samostatná indikace „Bezvýlukový stav“). Na kontrolním
+                  stanovišti pak nejsou zpravidla zřízeny indikace
+                  bezporuchového stavu a nouzového stavu.
+             h)   Porucha napájení — žlutá indikace. Svítí stálým světlem
+                  při poruše základního napájení. Je doprovázena
+                  vypínatelnou akustickou indikací.
+             i)   Výstraha při odjezdu – bílá indikace. Svítí stálým
+                  světlem při zavedení výstrahy při odjezdu, současně se
+                  rozsvítí i indikace „Přejezd uzavřen“ na kontrolním
+                  stanovišti (je-li zřízena).
+             j)   Výstraha při posunu – bílá indikace. Svítí stálým
+                  světlem při zavedení výstrahy při posunu, současně se
+                  rozsvítí i indikace „Přejezd uzavřen“ na kontrolním
+                  stanovišti (je-li zřízena).
+             k)   Výluka při odjezdu – bílá indikace. Svítí stálým světlem
+                  při zavedení výluky při odjezdu, současně zhasne
+                  i indikace „Bezvýlukový stav“ na kontrolním stanovišti
+                  (je-li zřízena).
+             l)   Výluka při posunu – červená indikace. Svítí stálým
+                  světlem při zavedení výluky při posunu, současně zhasne
+                  i indikace „Bezvýlukový stav“ na kontrolním stanovišti,
+                  (je-li zřízena).
+3.4.1.3      Ovládací prvky pro ruční obsluhu:
+             a)   Dopravní klid na přejezdu (DKNP) — dvoupolohové
+                  nevratné tlačítko nebo třípolohové vratné tlačítko
+                  s počítadlem a uzávěrou proti náhodné obsluze,
+                  neplombované. U vícekolejných přejezdů může být
+                  samostatné pro každou kolej. Stlačením se zavede DKNP,
+                  povytažením se zruší. Pokud je DKNP zaveden, nesvítí
+                  indikace „Bezvýlukový stav“. Jestliže tato indikace není
+                  zřízena, nesvítí žádná z indikací „Bezporuchový stav“,
+                  „Nouzový stav“ a „Pohotovostní stav“ a zpravidla svítí
+                  červená indikace „Poruchový stav“.
+
+
+
+                                                                            57
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+             b)   Nouzové vypnutí z činnosti — dvoupolohové vratné
+                  tlačítko s plombou na šňůrce. Stlačením tlačítka se
+                  nouzově vypne PZS z činnosti. Pokud je PZS vypnuto
+                  z činnosti, nesvítí žádná z indikací „Bezporuchový stav“,
+                  „Nouzový stav“ a „Pohotovostní stav“. Zpravidla svítí
+                  červená indikace „Poruchový stav“. Opětovné zapnutí PZS
+                  do činnosti může provést pouze udržující zaměstnanec.
+             c)   Nouzové otevření — dvoupolohové vratné tlačítko
+                  s plombou na šňůrce. Po dobu jeho stlačení je přejezd
+                  nouzově otevřen a nesvítí žádná z indikací „Bezporuchový
+                  stav“, „Nouzový stav“ a „Pohotovostní stav“. Zpravidla
+                  svítí červená indikace „Poruchový stav“.
+                  Poznámka: Označení „Dálkové otevření“ se nově
+                  nezřizuje a při nejbližší vhodné rekonstrukci SZZ nebo
+                  PZS se musí přejmenovat na „Nouzové otevření“.
+             d)   Uzavření — dvoupolohové nevratné tlačítko. Stlačením
+                  se přejezd uzavře, povytažením otevře (pokud jsou
+                  splněny podmínky pro jeho otevření).
+             e)   Stop — dvoupolohové nevratné tlačítko s plombou na
+                  šňůrce. Stlačením se na přejezdnících zruší návěst
+                  „Uzavřený přejezd“.
+             f)   Vypnutí zvonku nouzového stavu — dvoupolohové
+                  nevratné tlačítko, stlačením se vypne akustická indikace
+                  při nouzovém stavu, povytažením se po jeho odstranění
+                  vypne obnovená akustická indikace.
+             g)   Vypnutí zvonku poruchového stavu — dvoupolohové
+                  nevratné tlačítko s plombou na šňůrce, stlačením se
+                  vypne akustická indikace při poruchovém stavu,
+                  povytažením se po odstranění poruchového stavu vypne
+                  obnovená akustická indikace.
+             h)   Vypnutí zvonku poruchy napájení – dvoupolohové
+                  nevratné tlačítko, stlačením se vypne akustická indikace
+                  při vzniku poruchy hlavního napájení, povytažením se po
+                  jeho obnovení vypne obnovená akustická indikace.
+
+
+
+
+58
+SŽ Z2                                                       účinnost od 1. června 2024
+ve znění změny č. 1                                    (účinnost od 14. prosince 2025)
+
+             i)   Výstraha při odjezdu – třípolohové vratné tlačítko17,
+                  stlačením se výstraha při odjezdu zavede, povytažením
+                  se zruší nebo se ukončí automaticky po vyhodnocení
+                  projetí drážního vozidla přejezdem.
+             j)   Výstraha při posunu – dvoupolohový řadič18,
+                  přeložením doprava se výstraha při posunu zavede,
+                  přeložením doleva se zruší.
+             k)   Výluka při odjezdu – třípolohové vratné tlačítko19,
+                  stlačením se výluka při odjezdu zavede, povytažením se
+                  zruší nebo se ukončí automaticky obsazením a uvolněním
+                  stanoveného KÚ.
+             l)   Výluka při posunu – dvoupolohový řadič20, přeložením
+                  doprava se výluka při posunu zavede, přeložením doleva
+                  se zruší.
+             m) Nouzové uvolnění přejezdu – dvoupolohové vratné
+                tlačítko s počítadlem a uzávěrou proti náhodné obsluze,
+                neplombované, jeho stlačením dojde k ukončení výstrahy
+                spuštěné ovládacím prvkem pro výstrahu při odjezdu
+                v příslušné koleji nebo v případech uvedených v ZDD21
+                (je-li PZS uzavřeno z jiné koleje nebo ruční obsluhou
+                jiným ovládacím prvkem než „Výstraha při odjezdu“,
+                přejezd nebude otevřen).
+3.4.1.4      Pokud je v mezistaničním úseku více přejezdů s PZS, mohou
+             mít indikace sloučené, tj. zelená indikace „Pohotovostní stav“
+             svítí jen tehdy, není-li na žádném PZS porucha, která ohrožuje
+             bezpečnost provozu, a žádné PZS není nouzově otevřeno
+             (dálkově ani místně) a popřípadě na jednokolejné trati žádné
+             z nich není ve stavu DKNP, ani není zavedena výluka
+             ovládacích úseků. V tomto případě zařízení umožňuje na
+
+17 Zřizuje se např. u SZZ bez odjezdových návěstidel nebo pro návrat vlaku ze
+
+zastávky.
+18 Zřizuje se zpravidla na jiném ovládacím pracovišti, než je umístěna kontrolní
+
+skříňka, např. na ovládací skříňce v kolejišti apod.
+19 Zřizuje se zpravidla na vlečkách a nákladištích pro návrat drážního vozidla ve
+
+směru od přejezdu s PZS.
+20Zřizuje se zpravidla na vlečkách, nákladištích, ve stanicích bez odjezdových
+návěstidel, v dopravnách D3 nebo u SZZ 1. a 2. kategorie dle SŽ TNŽ 34 2620.
+21Zpravidla u PZS ovládaného bodovými prvky, např. kolejnicový spínač, indukční
+smyčka.
+
+                                                                                  59
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+             kontrolním stanovišti (pokud je v obou sousedních
+             dopravnách, pak alespoň na jednom) zjistit stav konkrétního
+             PZS.
+3.4.1.5      Na vícekolejné trati může být zřízena sloučená indikace
+             "Bezvýlukový stav" pro každou traťovou kolej samostatně.
+             Indikace "Bezvýlukový stav" pro příslušnou kolej svítí jen
+             tehdy, pokud v této koleji žádné PZS není ve stavu DKNP, ani
+             není zavedena výluka ovládacích úseků.
+3.4.1.6      Indikační a ovládací prvky mohou být případně integrovány do
+             ovládacího stolu nebo indikační desky SZZ.
+
+
+
+
+60
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+
+
+
+                  Obrázek 8 – Příklad kontrolní skříňky PZS
+                 nově budovaných typů na dvoukolejné trati
+
+
+
+
+                                                                            61
+SŽ Z2                                              účinnost od 1. června 2024
+ve znění změny č. 1                           (účinnost od 14. prosince 2025)
+
+
+
+
+     Obrázek 9 – Příklad kontrolní skříňky PZS nově budovaných typů
+         na jednokolejné trati (sloupcové uspořádání ovládacích
+                           a indikačních prvků)
+
+
+62
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+
+
+
+      Obrázek 10 – Příklad kontrolní skříňky nově budovaných typů
+      na jednokolejné trati s dalšími ovládacími a indikačními prvky
+      (s bodovými zapínacími prvky pro nouzové uvolnění přejezdu)
+
+
+
+
+                                                                           63
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+3.4.2        Obsluha
+
+3.4.2.1      Za normálního stavu je činnost PZS zpravidla automatická
+             v závislosti na jízdě drážního vozidla, případně i na obsluze
+             SZZ, a nevyžaduje žádnou další obsluhu ze strany
+             obsluhujícího zaměstnance.
+3.4.2.2      Obsluhující zaměstnanec je povinen se před dovolením jízdy
+             drážního vozidla na přejezd podle indikací přesvědčit, že
+             zařízení indikuje stav, kdy je schopno předepsaným způsobem
+             varovat uživatele pozemní komunikace před příjezdem
+             drážního vozidla na přejezd, tj:
+             a)   Svítí pouze zelená indikace „Bezporuchový stav“
+                  („Pohotovostní stav“) nebo žlutá indikace „Nouzový stav“,
+                  modrá indikace „Bezanulační stav“ a bílá indikace
+                  „Bezvýlukový stav“ — v obvodu přejezdu není žádné
+                  drážní vozidlo.
+             b)   Svítí zelená indikace „Bezporuchový stav“ („Pohotovostní
+                  stav“) stav nebo žlutá indikace „Nouzový stav“, modrá
+                  indikace „Bezanulační stav“, bílá indikace „Bezvýlukový
+                  stav“ a přerušovaně nebo nepřerušovaně bílá indikace
+                  „Přejezd uzavřen“ — v přibližovacím úseku je drážní
+                  vozidlo nebo je přejezd uzavřen ruční obsluhou.
+                  O normální činnost se jedná jen v případě, že se (zejména
+                  u mezistaničních úseků dělených na traťové oddíly) jedná
+                  o dovolení jízdy drážního vozidla ve stejném směru jako
+                  předchozí drážní vozidlo nebo v případě uzavření přejezdu
+                  v souvislosti se stavěním jízdní cesty obsluhou SZZ, ruční
+                  obsluhou nebo jízdou drážního vozidla po jiné koleji.
+             c)   Svítí zelená indikace „Bezporuchový stav“ („Pohotovostní
+                  stav“) stav nebo žlutá indikace „Nouzový stav“, nesvítí
+                  modrá indikace „Bezanulační stav“ a svítí bílá indikace
+                  „Bezvýlukový stav“ — ve vzdalovacím úseku je drážní
+                  vozidlo. O normální činnost se jedná jen v případě, že se
+                  (zejména u mezistaničních úseků dělených na traťové
+                  oddíly) jedná o dovolení jízdy drážního vozidla ve stejném
+                  směru jako předchozí drážní vozidlo.
+3.4.2.3      V případech, kde návěst hlavního návěstidla dovolujícího jízdu
+             (mimo PN) je závislá na stavu PZS, může ZDD povolit, aby se
+             kontrola činnosti PZS před dovolením jízdy drážního vozidla
+             návěstí dovolující jízdu (mimo PN) na přejezd neprováděla.
+
+
+
+
+64
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+3.4.2.4      Jestliže je nutno pro jízdu drážního vozidla uzavřít přejezd
+             ruční obsluhou (vozidlo nesplňuje podmínky pro spolehlivou
+             činnost KÚ apod.), stlačí obsluhující zaměstnanec tlačítko
+             „Uzavření“ a přesvědčí se, že PZS bylo uvedeno do
+             výstražného stavu (indikace „Přejezd uzavřen“ svítí stálým
+             světlem) a teprve potom povolí jeho jízdu. Po spolehlivém
+             zjištění, že drážní vozidlo minulo přejezd, obsluhující
+             zaměstnanec povytažením tohoto tlačítka přejezd otevře.
+3.4.2.5      V určených případech se zavádí Dopravní klid na přejezdu.
+             Stlačením tlačítka se zavede DKNP a tím se vyloučí vliv
+             ovládacích úseků na uvedení PZS do výstrahy. Po zavedení
+             DKNP zhasne indikace "Bezvýlukový stav" pro příslušnou kolej
+             (na jednokolejných přejezdech se může místo toho indikovat
+             "Poruchový stav"). Povytažením tlačítka se DKNP zruší.
+             Podmínky použití stanoví ZDD.
+
+3.4.3        Poruchy
+
+3.4.3.1      O poruchu PZS se jedná, jestliže:
+             nesvítí zelená indikace „Bezporuchový stav“ („Pohotovostní
+             stav“) ani žlutá indikace „Nouzový stav“ (na žádném
+             z kontrolních stanovišť);
+             a)   svítí červená indikace „Poruchový stav“;
+             b)   svítí bílá indikace „Přejezd uzavřen“ i po zjištění, že
+                  v obvodu přejezdu není žádné drážní vozidlo a přejezd
+                  nebyl uzavřen ruční obsluhou;
+             c)   nesvítí modrá indikace „Bezanulační stav“ a obsluhující
+                  zaměstnanec spolehlivě zjistil, že předcházející drážní
+                  vozidlo, pro něž byl přejezd uzavřen, opustilo vzdalovací
+                  úsek přejezdu;
+             d)   svítí déle než 3 hodiny žlutá indikace „Porucha napájení“,
+                  nebo žlutá indikace „Nouzový stav“ (není-li zřízena
+                  indikace „Porucha napájení“);
+             e)   svítí přerušovaným světlem bílá indikace „Přejezd
+                  uzavřen“ i po uplynutí doby potřebné pro uzavření PZS od
+                  spuštění výstrahy, tj. doby, po jejímž uplynutí smí být
+                  dovolena jízda drážních vozidel na přejezd;
+             f)   nesvítí bílá indikace „Výstraha při odjezdu“, bylo-li
+                  stlačeno tlačítko „Výstraha při odjezdu“;
+
+
+
+                                                                             65
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+             g)   nesvítí bílá indikace „Výstraha při posunu“, byl-li přeložen
+                  řadič „Výstraha při posunu“;
+             h)   případně svítí i kombinace některých uvedených indikací,
+                  např. a) + c) nebo
+             i)   nesvítí žádná indikace.
+             Obsluhující zaměstnanec je povinen zavést pro jízdu dalších
+             drážních vozidel dopravní opatření. Jestliže se jedná pouze
+             o poruchu dle písmene d) a obsluhující zaměstnanec uzavře
+             přejezd ruční obsluhou, není nutno zavádět pro jízdu drážního
+             vozidla dopravní opatření.
+3.4.3.2      Jestliže je PZS ve výstražném stavu (porucha dle písmene c)
+             předchozího článku), i když v obvodu přejezdu není žádné
+             drážní vozidlo, je obsluhující zaměstnanec povinen umožnit
+             provoz na pozemní komunikaci, tj. pokud to dopravní situace
+             umožní a k přejezdu se neblíží žádné drážní vozidlo, musí
+             otevřít přejezd opakovaně na dobu nejméně 2 minut obsluhou
+             tlačítka „Nouzové otevření“ po sejmutí plomby. Dopravní
+             opatření je pak možno odvolat po odstranění poruchy
+             a obnovení plomby.
+3.4.3.3      Je-li PZS v trvalém výstražném stavu z důvodu poruchy
+             ovládacího úseku a neblíží-li se k přejezdu drážní vozidlo,
+             může obsluhující zaměstnanec:
+             a)   ukončit výstrahu stlačením tlačítka „Nouzové uvolnění
+                  přejezdu“;
+             b)   zavést DKNP nebo
+             c)   stlačením tlačítka „Nouzové vypnutí z činnosti“ vypnout
+                  PZS z činnosti.
+             Další podmínky stanoví ZDD.
+3.4.3.4      Je-li u PZS indikován "Poruchový stav" a "Přejezd uzavřen",
+             v obvodu přejezdu není drážní vozidlo, PZS není uzavřeno
+             ruční obsluhou a nelze-li ukončit výstrahu PZS ani tlačítkem
+             "Nouzové otevření", může se jednat o poruchu zvedání závor.
+             Obsluhující zaměstnanec o tom přednostně informuje
+             udržujícího zaměstnance.
+3.4.3.5      Pokud zařízení indikuje výpadek hlavního napájení (svítí žlutá
+             indikace   „Porucha     napájení“),  postupuje    obsluhující
+             zaměstnanec podle článku 1.5.2 tohoto předpisu.
+
+
+
+
+66
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+3.4.3.6      Pokud nesvítí indikace „Bezvýlukový stav“ (je-li zřízena), musí
+             být pro jízdu drážních vozidel:
+             a)   zrušeny zavedené výluky (DKNP, výluka při posunu
+                  apod.) nebo
+             b)   PZS uvedeno ruční obsluhou do výstrahy tlačítkem
+                  „Uzavření“ nebo
+             c)   zavedeno dopravní opatření.
+
+
+
+
+                                                                             67
+SŽ Z2                                                         účinnost od 1. června 2024
+ve znění změny č. 1                                      (účinnost od 14. prosince 2025)
+
+4            VÝSTRAŽNÉ ZAŘÍZENÍ PRO PŘECHOD KOLEJÍ
+
+4.1           Popis
+
+4.1.1         Výstražné zařízení pro přechod kolejí je zabezpečovací
+              zařízení zřízené u přechodu kolejí a sloužící k zajištění
+              přístupu22 na poloostrovní nebo vnější23 nástupiště.
+
+4.1.2         Přechod kolejí je přechod v úrovni kolejí určený pro přístup
+              cestujících na poloostrovní nebo vnější nástupiště ve stanicích
+              na jednokolejných tratích24.
+
+4.1.3         VZPK se zřizuje pouze ve stanici, dopravně D3 nebo dopravně
+              RB. VZPK se nezřizuje na zastávkách.
+
+4.1.4         Je-li v příslušné dopravně:
+
+              a)   jeden přechod kolejí s VZPK, označuje se textem „VZPK“;
+
+              b)   více přechodů kolejí s VZPK, označují se textem „VZPK“
+                   a arabským číslem dle nejnižšího čísla dopravní koleje
+                   přes kterou přechod kolejí s VZPK vede (bez dalších
+                   písmenných indexů kolejí), např. „VZPK1“, „VZPK6“
+                   apod.;
+
+              c)   více přechodů s VZPK se stejným číslem, rozliší se jejich
+                   označení doplněním velkého písmene, počínaje „A“ od
+                   začátku trati, např. „VZPK3A“, „VZPK3B“ apod.
+
+4.1.5         VZPK je zařízení ovládané zpravidla jízdou drážního vozidla.
+              Má tyto hlavní části:
+
+              a)   světelnou signalizaci;
+
+              b)   zdroje akustických signálů;
+
+              c)   závorové stojany se závorami (jsou-li zřízeny);
+
+              d)   ovládací úseky v kolejích25;
+
+
+22 V případě, kde nemůže být přechod pod dozorem a ani nemůže být provozován
+
+jako bezpečný přechod pro zrakově postižené osoby.
+23 Nástupiště umístěné na vnější straně krajní koleje.
+
+24
+     Viz ČSN 73 4959 článek 5.1.
+25 Zpravidla jsou součástí staničního zabezpečovacího zařízení.
+
+
+
+68
+SŽ Z2                                                    účinnost od 1. června 2024
+ve znění změny č. 1                                 (účinnost od 14. prosince 2025)
+
+             e)   skříňku místní obsluhy (je-li zřízena).
+
+4.1.6        Ovládací a indikační prvky (jsou-li zřízeny) jsou v provedení
+             jako u PZS nově budovaných typů.
+
+             U ovládacích a indikačních prvků pro přechod kolejí se
+             v názvech těchto prvků slovo „Přejezd“ nahradí slovem
+             „Přechod“ („Přechod uzavřen“, „Dopravní klid na přechodu“,
+             „Nouzové uvolnění přechodu“).
+
+4.1.7        VZPK umožňuje dávat signály:
+
+             a)   „Volno“ – pouze akustickým signálem26;
+
+             b)   „Stůj“ – světelným a akustickým signálem, případně
+                  i mechanickým signálem (závorové břevno).
+
+             Světelný signál „Stůj“ je vyjádřen přerušovaným červeným
+             světlem se symbolem stojícího chodce.
+
+4.2          Obsluha
+
+4.2.1        Za normálního stavu je činnost VZPK zpravidla automatická
+             v závislosti na obsluze SZZ a jízdě drážního vozidla
+             a nevyžaduje žádnou další obsluhu ze strany obsluhujícího
+             zaměstnance.
+
+4.2.2        Obsluhující zaměstnanec je povinen se před dovolením jízdy
+             drážního vozidla na přechod kolejí s VZPK podle indikací
+             přesvědčit, že VZPK je schopno předepsaným způsobem
+             varovat cestující před vstupem na přechod kolejí (příchod na
+             nástupiště).
+
+4.2.3        V případech, kde návěst hlavního návěstidla dovolujícího jízdu
+             (mimo PN) je závislá na stavu VZPK, může ZDD dovolit, aby
+             se kontrola činnosti VZPK před dovolením jízdy drážního
+             vozidla na přechod kolejí neprováděla.
+
+4.2.4        Jestliže je nutno pro jízdu drážního vozidla uzavřít VZPK ruční
+             obsluhou, uzavře obsluhující zaměstnanec VZPK ruční
+             obsluhou a před dovolením jízdy drážního vozidla na přechod
+             kolejí s VZPK se přesvědčí, že VZPK bylo uvedeno do
+             výstražného stavu (indikace „Přechod uzavřen“ svítí stálým
+
+
+
+
+26 Na základě příjmu signálu z vysílačky zrakově postižené osoby.
+
+
+
+                                                                               69
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+             světlem). Po spolehlivém zjištění, že drážní vozidlo minulo
+             přechod kolejí, obsluhující zaměstnanec otevře VZPK.
+
+4.2.5        V určených případech může být obsluha VZPK prováděna ruční
+             obsluhou, zpravidla rádiovým dálkovým ovladačem27 nebo
+             ovládacím prvkem (tlačítko „Výstraha při odjezdu“) v místě
+             přechodu kolejí s VZPK (SMO nebo uzamykatelná skříňka).
+
+4.2.6        Pomocí ovládacích prvků uvedených v předchozím článku je
+             zavedena výstraha při odjezdu, která se automaticky ukončí
+             vyhodnocením projetí drážního vozidla přechodem kolejí
+             s VZPK28.
+
+4.3          Poruchy
+
+4.3.1        V případě poruchy VZPK postupuje obsluhující zaměstnanec
+             jako u přejezdů s PZS nově budovaných typů.
+
+4.3.2        V případě poruchy rádiového ovladače postupuje zaměstnanec
+             dopravce podle článku 7.3 tohoto předpisu.
+
+
+
+
+27 Například rádiový dálkový ovladač RF Key.
+
+28 Nedojde-li v dopravnách D3, resp. dopravnách RB k vyhodnocení projetí
+
+drážního vozidla přechodem kolejí s VZPK bez indikací VZPK u dirigujícího
+dispečera, resp. dispečera RB, ukončí se výstraha uplynutím mezní výstražné
+doby.
+
+70
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+5           SKŘÍŇKA MÍSTNÍ OBSLUHY
+
+5.1          Popis
+
+5.1.1        SMO umožňuje místní obsluhu PZS nebo VZPK.
+
+5.1.2        SMO se umísťuje v uzamykatelné skříňce v místě přejezdu
+             nebo přechodu kolejí na místě s dobrým rozhledem na přejezd
+             nebo přechod kolejí. V blízkosti SMO je umístěn i telefonní
+             přístroj (v případě potřeby může být spojení uskutečněno
+             i jiným telekomunikačním zařízením).
+
+5.1.3        V době, kdy není SMO obsluhována, musí být uzamčena. Místo
+             uložení klíče je uvedeno v ZDD.
+
+5.1.4        SMO obsahuje tyto ovládací a indikační prvky (Obrázek 11):
+
+             a)   Zavřeno – dvoupolohový řadič nebo dvoupolohové
+                  nevratné tlačítko. Přeložením řadiče (stlačením tlačítka)
+                  se přejezd nebo přechod kolejí uzavře, přeložením řadiče
+                  do základní polohy (povytažením tlačítka) se přejezd nebo
+                  přechod kolejí otevře.
+
+             b)   Otevřeno – dvoupolohové vratné tlačítko pro nouzové
+                  otevření přejezdu nebo přechodu kolejí. Přejezd nebo
+                  přechod kolejí je otevřen po dobu stlačení tlačítka.
+
+             c)   Výstraha – bílá indikace (je-li zřízena). Svítí stálým
+                  světlem při uvedení PZS nebo VZPK do výstrahy
+                  ovládacím prvkem ze SMO a zároveň na PZS nebo VZPK
+                  není porucha světelné výstrahy.
+
+
+
+
+                                                                             71
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+
+
+
+                 Obrázek 11 – Příklad skříňky místní obsluhy
+                s rozmístěním ovládacích a indikačních prvků
+
+5.2          Obsluha
+
+5.2.1        Nouzové otevření přejezdu nebo přechodu kolejí tlačítkem ze
+             SMO má vyšší prioritu než ovládací prvky na kontrolním
+             stanovišti.
+
+5.2.2        Nouzovým otevřením přejezdu nebo přechodu kolejí, u něhož
+             je zřízena vazba na návěstidlo kryjící přejezd, ze SMO, dojde
+             v případě postavené jízdní cesty s vazbou na toto PZS nebo
+             VZPK k přestavení tohoto návěstidla na návěst zakazující jízdu
+             (případně u přejezdníků na návěst "Otevřený přejezd").
+
+5.2.3        Bylo-li PZS nebo VZPK nouzově vypnuto z činnosti (např.
+             z kontrolního stanoviště), nelze přejezd nebo přechod kolejí
+             uzavřít ani ruční obsluhou ze SMO.
+
+5.2.4        Uzavření přejezdu nebo přechodu kolejí ovládacím prvkem ze
+             SMO má nejvyšší prioritu.
+
+5.2.5        K použití ovládacího prvku pro nouzové otevření přejezdu ze
+             SMO musí mít zaměstnanec buď souhlas výpravčího, nebo při
+             výluce musí použití tohoto prvku nařizovat výlukový rozkaz.
+
+
+
+72
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+5.3          Poruchy
+
+             Je-li SMO v poruše nebo nerozsvítí-li se po přeložení řadiče
+             nebo stlačení tlačítka „Zavřeno“ bílá indikace „Výstraha“ (je-li
+             zřízena), musí obsluhující zaměstnanec, který obsluhuje PZS
+             nebo VZPK místně ze SMO, zavést před dovolením jízdy
+             drážního vozidla dopravní opatření.
+
+
+
+
+                                                                              73
+SŽ Z2                                                  účinnost od 1. června 2024
+ve znění změny č. 1                               (účinnost od 14. prosince 2025)
+
+6           POMOCNÉ STAVĚDLO
+
+6.1          Popis
+
+6.1.1        Pomocné stavědlo (dále také „PSt“) umožňuje obsluhu PZS
+             případně VZPK, pokud je toto PZS nebo VZPK v působnosti
+             PSt.
+
+6.1.2        Z PSt musí být umožněn dobrý rozhled na přejezd nebo
+             přechod kolejí.
+
+6.1.3        PSt obsahuje tyto ovládací a indikační prvky (Obrázek 12):
+
+             a)   Uzavření – dvoupolohové nevratné tlačítko, případně
+                  dvoupolohový řadič. Stlačením tlačítka (přeložením řadiče
+                  vpravo) se přejezd nebo přechod kolejí uzavře,
+                  povytažením tlačítka (přeložením řadiče vlevo) se otevře.
+
+             b)   Výstraha – bílá indikace. Svítí přerušovaným světlem
+                  v době, kdy je dávána výstraha a probíhá stanovená doba
+                  do uzavření přejezdu nebo přechodu kolejí (případně
+                  i sklopení břeven závor). Svítí stálým světlem v době, kdy
+                  je dávána výstraha a již bylo ukončeno měření doby
+                  potřebné pro uzavření PZS nebo VZPK od spuštění
+                  výstrahy (tj. nejdelší doba, než se na návěstidlech
+                  kryjících přejezd nebo přechod koleji smí rozsvítit návěst
+                  dovolující jízdu).
+
+
+
+
+            Obrázek 12 – Příklad ovládacích a indikačních prvků
+                          v ovládací skříňce PSt
+
+
+74
+SŽ Z2                                                 účinnost od 1. června 2024
+ve znění změny č. 1                              (účinnost od 14. prosince 2025)
+
+6.2          Poruchy
+
+             Je-li PZS nebo VZPK v poruše nebo nerozsvítí-li se po stlačení
+             tlačítka „Uzavření“ a uplynutí stanovené doby bílá indikace
+             „Výstraha“ stálým světlem, musí obsluhující zaměstnanec,
+             který obsluhuje PZS nebo VZPK místně z PSt, zavést před
+             dovolením jízdy drážního vozidla dopravní opatření.
+
+
+
+
+                                                                            75
+SŽ Z2                                                    účinnost od 1. června 2024
+ve znění změny č. 1                                 (účinnost od 14. prosince 2025)
+
+7           RÁDIOVÝ OVLADAČ
+
+7.1          Popis
+
+7.1.1        Rádiový ovladač slouží v určených případech jako ovládací
+             prvek pro PZS, zpravidla:
+
+             a)   v dopravnách D3, dopravnách RB, ve kterých
+                  zabezpečovací zařízení neumožňuje provést závěr jízdní
+                  cesty, nebo na zastávkách;
+
+             b)   v případech, kde vzdálenost vnějšího prvku závislého na
+                  jízdě drážního vozidla od přejezdu není dostatečná
+                  vzhledem ke stanovené délce přibližovacího úseku;
+
+             c)   na nákladištích nebo vlečkách, kde je třeba vyvolat
+                  výstrahu PZS povelem obsluhujícího zaměstnance a zrušit
+                  ji automaticky projetím vypínacích prvků PZS apod.;
+
+             d)   na zastávkách, odkud se vlak vrací zpátky na přejezd
+                  nebo kde v ovládacím obvodu přejezdu stojí vlak delší
+                  dobu (např. prodej jízdenek strojvedoucím).
+
+7.1.2        Rádiový ovladač je vybaven jedním nebo více tlačítky pro
+             určené funkce k ovládání PZS, např. tlačítko pro funkci
+             „Výstraha při odjezdu“.
+
+7.1.3        Rozsah a popis tlačítek a funkcí rádiového ovladače a umístění
+             přijímacího bodu musí být uveden v ZDD.
+
+
+
+
+                      Obrázek 13 – Příklad rádiového ovladače
+
+76
+SŽ Z2                                                   účinnost od 1. června 2024
+ve znění změny č. 1                                (účinnost od 14. prosince 2025)
+
+7.2          Obsluha
+
+7.2.1        Před jízdou drážního vozidla obsluhující zaměstnanec obslouží
+             klávesnici (tlačítko) rádiového ovladače a sleduje, zda zařízení
+             přijalo povel, např. spuštěním výstrahy na přejezdu,
+             rozsvícením případné indikace na místě uvedeném v ZDD,
+             změnou návěsti na kmenovém nebo opakovacím přejezdníku
+             apod.
+
+7.2.2        Klávesnici rádiového ovladače některých typů lze určenou
+             kombinací kláves uzamknout pro zamezení nechtěné aktivace
+             dostupných funkcí.
+
+7.3          Poruchy
+
+7.3.1        Nelze-li pro poruchu obsloužit klávesnici rádiového ovladače
+             nebo zabezpečovací zařízení povel nepřijme, postupuje
+             obsluhující zaměstnanec podle ustavení v ZDD, např.
+             obsluhou ovládacího prvku v ovládací skříňce nebo SMO
+             u přejezdu apod.
+
+7.3.2        Nelze-li při poruše rádiového ovladače uzavřít přejezd ani
+             z ovládací skříňky nebo ze SMO, ohlásí obsluhující
+             zaměstnanec tuto poruchu výpravčímu a pro jízdu drážního
+             vozidla je nutno zavést dopravní opatření, případně zajistit
+             jízdu drážního vozidla podle návěsti přejezdníku.
+
+7.3.3        Nedojde-li po průjezdu drážního vozidla přejezdem k ukončení
+             výstrahy29, musí obsluhující zaměstnanec po bezpečném
+             zjištění, že v obvodu přejezdu se nenachází drážní vozidlo,
+             zrušit výstrahu na přejezdu tlačítkem nebo povelem pro
+             nouzové uvolnění přejezdu.
+
+
+
+
+29 Včetně případu, kdy k ukončení výstrahy nedojde ani po uplynutí mezní
+výstražné doby.
+
+                                                                              77
+SŽ Z2                                                     účinnost od 1. června 2024
+ve znění změny č. 1                                  (účinnost od 14. prosince 2025)
+
+8           ZÁVĚREČNÁ USTANOVENÍ
+
+8.1          Zmocňovací ustanovení
+
+8.1.1        Předpis SŽ Z2 včetně příloh schvaluje generální ředitel Správy
+             železnic.
+
+8.1.2        Pro povolování výjimek z tohoto předpisu a jeho příloh
+             a zpracování žádostí o výjimky platí v plném rozsahu
+             ustanovení předpisu SŽ N1 – Tvorba a vydávání vnitřních
+             předpisů a služebních rukovětí státní organizace Správa
+             železnic.
+
+8.1.3        Jediným oprávněným k podávání výkladu k ustanovením
+             tohoto předpisu a jeho příloh je jeho gestorský útvar30.
+
+8.2          Zrušovací ustanovení
+
+             Dnem účinnosti tohoto předpisu se zrušují:
+
+             a)   předpis SŽDC (ČD) Z2 – Předpis pro obsluhu
+                  přejezdových zabezpečovacích zařízení, čj. 59 968/2001-
+                  O11, účinný od 1. prosince 2001;
+
+             b)   depeše 309 15/02, pokyn k provedení rukopisné změny
+                  předpisu ČD Z2;
+
+             c)   depeše 398 19/04, pokyn se závažným vysvětlením
+                  k příloze 4 předpisu ČD Z2;
+
+             d)   Gestorský výklad ustanovení předpisu SŽDC (ČD) Z2,
+                  čj. 58364/10-OŘ, ze dne 15. listopadu 2010;
+
+             e)   Doplnění gestorského výkladu ustanovení předpisu SŽDC
+                  (ČD) Z2, čj. 21326/11-OŘ, ze dne 2. května 2011;
+
+             f)   Stanovisko k žádosti o gestorské vyjádření k předpisu
+                  SŽDC (ČD) Z2, čj. 48758/2014-O12, ze dne 10. listopadu
+                  2014;
+
+             g)   Gestorský výklad k ruční obsluze přejezdů s PZS,
+                  čj. 43525-2019-SŽDC-GŘ-O11, ze dne 19. července
+                  2019;
+
+
+
+30 V době schválení předpisu je to odbor předpisů a technologie.
+
+
+
+78
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+             h)   Gestorský výklad k evidenci výpadku hlavního napájení
+                  PZS, čj. 55101/2019-SŽDC-GŘ-O11, ze dne 27. září
+                  2019;
+
+             i)   Gestorský výklad k článku 41 předpisu SŽDC (ČD) Z2 pro
+                  zavádění dopravního klidu na přejezdu, čj. 26034/2022-
+                  SŽ-GŘ-O11, ze dne 4. dubna 2022.
+
+8.3          Přechodná ustanovení
+
+             Označení přejezdů s PZZ a přechodů kolejí v VZPK na
+             ovládacích a kontrolních skříňkách, ovládacích stolech
+             a indikačních deskách musí být provedena v souladu
+             s ustanovením tohoto předpisu při nejbližší vhodné
+             rekonstrukci zabezpečovacího zařízení, nejpozději však do
+             31. prosince 2034.
+
+
+
+
+                                                                           79
+SŽ Z2                                                účinnost od 1. června 2024
+ve znění změny č. 1                             (účinnost od 14. prosince 2025)
+
+                      SOUVISEJÍCÍ DOKUMENTY
+
+Mezinárodní a národní právní předpisy, technické normy,
+v platném znění
+
+Vyhláška č. 173/1995      Vyhláška Ministerstva dopravy, kterou se
+Sb.                       vydává dopravní řád drah
+
+Vyhláška č. 177/1995      Vyhláška Ministerstva dopravy, kterou se
+Sb.                       vydává stavební a technický řád drah
+
+ČSN 34 2650 ed.2          Železniční zabezpečovací zařízení –
+                          Přejezdová zabezpečovací zařízení
+
+ČSN 73 4959               Nástupiště a nástupištní přístřešky na
+                          drahách celostátních, regionálních a vlečkách
+
+ČSN 73 6380               Železniční přejezdy a přechody
+
+SŽ TNŽ 34 2620            Železniční zabezpečovací zařízení. Staniční
+                          a traťové zabezpečovací zařízení
+
+Vnitřní předpisy, v aktuálním znění
+
+SŽ D1                     Dopravní a návěstní předpis
+
+
+SŽ D3                     Předpis pro zjednodušené řízení drážní
+                          dopravy
+
+SŽ D4                     Předpis pro řízení drážní dopravy na tratích
+                          vybavených radioblokem
+
+SŽ D5-2                   Prováděcí pokyny pro tvorbu a zpracování
+                          doplňujících ustanovení k předpisům pro
+                          obsluhu zabezpečovacích zařízení
+
+SŽ D7/2                   Organizování výlukových činností
+
+SŽDC M21                  Topologie sítě a staničení tratí železničních
+                          drah
+
+SŽ N1                     Tvorba a vydávání vnitřních předpisů
+                          a služebních rukovětí státní organizace
+                          Správa železnic
+
+
+
+
+80
+SŽ Z2                                            účinnost od 1. června 2024
+ve znění změny č. 1                         (účinnost od 14. prosince 2025)
+
+
+SŽ T100               Předpis pro provozování zabezpečovacích
+                      zařízení
+
+SŽ S4/4               Železniční přejezdy
+
+SŽ SR101/1(Z)         Obrazová příloha k předpisům pro obsluhu
+                      zabezpečovacích a spádovištních zařízení
+
+SŽ Z1                 Předpis pro obsluhu staničních a traťových
+                      zabezpečovacích zařízení
+
+SŽ Z3                 Předpis pro obsluhu zabezpečovacích zařízení
+                      ovládaných z jednotného obslužného
+                      pracoviště
+
+SŽ Zam1               Předpis o odborné způsobilosti a znalosti osob
+                      při provozování dráhy a drážní dopravy
+
+
+Ostatní DAP, v aktuálním znění
+
+TS 1/2018-Z           Výstražné zařízení pro přechod kolejí
+
+
+
+
+                                                                       81
+SŽ Z2                      účinnost od 1. června 2024
+ve znění změny č. 1   (účinnost od 14. prosince 2025)
+
+
+
+
+82
+SŽ Z2                                                      účinnost od 1. června 2024
+ve znění změny č. 1                                   (účinnost od 14. prosince 2025)
+
+                                                      Příloha A (informativní)
+
+
+ Značky používané ve schématech uspořádání indikačních
+ desek, ovládacích stolů, kontrolních skříněk a ovládacích
+                          skříněk
+
+ č.             popis           značka   č.             popis              značka
+  1    indikace (bez určení              9    tlačítko s uzávěrou
+       barvy)                                 proti náhodné obsluze,
+                                              plombované
+
+
+  2    zelená indikace                   10   tlačítko s počítadlem
+
+
+
+
+  3    žlutá indikace                    11   tlačítko s uzávěrou
+                                              proti náhodné obsluze,
+                                              neplombované,
+                                              s počítadlem
+
+  4    červená indikace                  12   tlačítko uzamykatelné,
+                                              klíč v zámku
+
+
+
+  5    bílá indikace                     13   tlačítko uzamykatelné,
+                                              klíč vyjmut
+
+
+
+  6    modrá indikace                    14   tlačítko prosvětlovací
+                                              (příklad s červenou
+                                              indikací)
+
+
+  7    tlačítko obyčejné                 15   řadič
+
+
+
+
+  8    tlačítko s uzávěrou
+       proti náhodné obsluze,
+       neplombované
+
+
+
+
+                                                                                 83
+SŽ Z2                      účinnost od 1. června 2024
+ve znění změny č. 1   (účinnost od 14. prosince 2025)
+
+
+
+
+84
+

@@ -1,0 +1,275 @@
+1 [1 img]  Vlak zastavil před oddílovým návěstidlem AB s návěstí „Stůj“. V následujícím traťovém oddílu je výhybka odbočující ze širé tratě. Za jakých podmínek a jakým způsobem může vlak pokračovat v jízdě?
+2  Strojvedoucímu se nepodařilo provést zkoušku spojení kódovaným hlášením „D“ u rádiovníku s návěstí „Přepněte kanálovou skupinu - 65“. Jaký bude jeho další postup?
+3  Volací čísla pro adresné zkrácené volby v systému GSM-R strojvedoucí nalezne:
+4  Jaké údaje (FN a FC) nastaví strojvedoucí HV na radiostanici v systému GSM-R při posunu z depa na vlak?
+5  Jaký bude postup strojvedoucího, který nezná po ukončení jízdy vlaku další nasazení HV a radiostanici má zaregistrovanou v systému GSM-R?
+6  Jaké volací číslo použije strojvedoucí pro volání hnacího vozidla Českých drah, a.s. 162 053-3 v systému GSM-R?
+7  Jak zní informace o návěsti dovolující jízdu vlaku telekomunikačním zařízením pro vlak 19524, který stojí na třetí koleji ve stanici Eden?
+8 [1 img]  Za jízdy vlaku R 663 za ŽST Nezvěstice dojde k poruše radiostanice a strojvedoucí se nemůže spojit s výpravčím (dispečerem) jiným způsobem. Jak bude strojvedoucí postupovat?
+9  Jak provede strojvedoucí zkoušku spojení v systému GSM-R?
+10 [1 img]  Vlak zastavil v ŽST Praha Dejvice. V jaký čas může odjet?
+11  Strojvedoucí zastavil s vlakem bez ETCS u návěsti AB s návěstí „Stůj“ za mlhy. Jiná vozidla v následujícím traťovém oddílu nevidí. Jak bude postupovat?
+12  Při jízdě přes diagnostiku závad jedoucích vozidel (ASDEK) strojvedoucí musel vzhledem k vzniklé situaci použít průběžnou brzdu. Jak bude následně postupovat při obdržení informace od výpravčího např.: „Vlak číslo, indikována horká obruč stupně K, zastavte ve stanici“?
+13 [1 img]  Ve sloupci 2 TJŘ za názvem stanice Opatov je uvedena značka „3>“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet v červeně vyznačeném úseku?
+14  Výpravčí doručí na hnací vozidlo písemný rozkaz. Jak bude postupovat strojvedoucí?
+15  Při kontrole chodu soupravy za jízdy průvan vynesl písemný rozkaz z okna kabiny a strojvedoucí si nepamatuje obsah písemného rozkazu pro další úsek. Jaký bude jeho další postup?
+16  Strojvedoucí má poruchu tabletu a nepamatuje si znění textu SPO pro úsek ve kterém vede vlak. Jaký bude jeho další postup?
+17 [1 img]  Strojvedoucí za jízdy zpozoruje světelný výstražný terč s návěstí „Práce na trati“. Kdy musí dávat návěst „Pozor“?
+18  Jak bude strojvedoucí postupovat při obdržení informace „Vlak 9308, indikováno horké ložisko stupně STOP, okamžitě zastavte!“:
+19 [1 img]  Jaký bude postup strojvedoucího po zastavení u oddílového návěstidla AH s návěstí „Stůj“?
+20 [1 img]  Jaký bude postup strojvedoucího po zastavení u zhaslého oddílového návěstidla AH?
+21 [1 img]  V ŽST Mrákoty nelze z důvodu poruchy obsluhovat odjezdové návěstidlo L2. Výpravčí pouze zpraví strojvedoucího telekomunikačním zařízením takto: „Odjezdové návěstidlo L2 stanice Mrákoty se neobsluhuje. Vlak 9998 ve stanici Mrákoty z druhé koleje do stanice Chvojkovice odjezd.“ Uvede strojvedoucí vlak do pohybu?
+22 [1 img]  Vlak s přepravou cestujících vjíždí do stanice Liptákov na návěst „Výstraha“ vjezdového návěstidla. Na odjezdovém návěstidle platném pro jednu kolej je návěst „Přivolávací návěst“. Jak bude strojvedoucí postupovat?
+23 [1 img]  Vlak s přepravou cestujících stojí ve stanici Nepomuk označené v TJŘ symbolem „výpravky“ v prostoru pro výstup a nástup cestujících. Cestové návěstidlo platné jen pro jednu kolej, na které tento vlak stojí, návěstí „Přivolávací návěst“. Je pro strojvedoucího návěst „Přivolávací návěst“ rozkazem k odjezdu?
+24 [1 img]  Vlak s přepravou cestujících stojí ve stanici Světlá nad Sázavou, která nemá ve sloupci 2 TJŘ žádnou značku. Odjezdové návěstidlo platné jen pro kolej, na které tento vlak stojí, návěstí návěst „Přivolávací návěst“. Je tato návěst pro strojvedoucího rozkazem k odjezdu?
+25 [1 img]  Vlak odjíždí ze stanice kolem cestového návěstidla s návěstí „Přivolávací návěst“. Na následujícím hlavním návěstidle je návěst dovolující jízdu. Pojede strojvedoucí podle rozhledových poměrů?
+26 [1 img]  Vlak vjíždí do stanice kolem vjezdového návěstidla s návěstí „Přivolávací návěst“. Na následujícím hlavním návěstidle je návěst dovolující jízdu. Jakou nejvyšší dovolenou rychlostí může jet strojvedoucí v úseku od námezníku k následujícímu hlavnímu návěstidlu (červeně označeno)?
+27 [1 img]  Jaký pokyn dává návěst přejezdníku?
+28 [1 img]  V modrém úseku mezi přejezdníkem a přejezdem vlak mimořádně zastaví. Jak pojede strojvedoucí k přejezdu?
+29  Jakou značkou se vyznačují pravidelné vjezdy na obsazenou kolej v tabelárním jízdním řádu příslušného vlaku?
+30 [1 img]  Jakým způsobem musí být strojvedoucí zpraven o mimořádném vjezdu na obsazenou kolej?
+31 [1 img]  Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?
+32 [1 img]  Strojvedoucí vjel do stanice kolem vjezdového návěstidla s návěstí „Volno“ a zastavil s vlakem ve stanici tak, že nevidí návěst nejbližšího hlavního návěstidla. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?
+33 [1 img]  Vlak Os 5555 stojí mimo prostor pro výstup a nástup cestujících a je připraven k odjezdu ze stanice Pavlíkov. Může strojvedoucí po změně návěstního znaku odjezdového návěstidla s vlakem ze stanice odjet?
+34 [1 img]  Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Strojvedoucí neodjistil centrálně ovládané dveře. Může strojvedoucí ze stanice odjet, pokud odjezdové návěstidlo je v poloze dovolující jízdu?
+35 [1 img]  Vlak Sp 1998 je po mimořádném zastavení připraven k odjezdu ze stanice Brno Slatina. Jedná se o vlak bez centrálního ovládaní dveří strojvedoucím. Vlak musí být ze stanice vypraven:
+36 [1 img]  Vlak Sv 9999 je připraven k odjezdu ze stanice Pavlíkov. Vlak musí být ze stanice vypraven:
+37  Je-li strojvedoucímu přidělen pilot, musí být i on zpraven o obsahu písemného rozkazu?
+38 [1 img]  Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí projíždějícího vlaku ve stanici Lhota. Odjezdové návěstidlo S1 není předvěstí dalšího hlavního návěstidla:
+39 [1 img]  Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí projíždějícího vlaku ve stanici Lhota. Odjezdové návěstidlo S3 není předvěstí dalšího hlavního návěstidla:
+40 [1 img]  Jakou návěst na odjezdovém návěstidle musí očekávat strojvedoucí zastavujícího vlaku ve stanici Lhota?
+41 [1 img]  Jakou rychlostí může jet strojvedoucí v obvodu stanice s výlukou dopravní služby výpravčího, svítí-li na hlavních návěstidlech tato návěst?
+42 [1 img]  Vlak Os 9898 stojí v ŽST Pavlíkov. Za jakých podmínek uvede strojvedoucí vlak do pohybu nastal-li již čas odjezdu vlaku dle TJŘ:
+43 [1 img]  Vlak Os 8898 stojí v ŽST Krašov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ? Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB.
+44 [1 img]  Vlak Os 9999 stojí v ŽST Pavlíkov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB.
+45 [1 img]  Vlak Ex 99 stojí v ŽST Božkov. Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať vybavenou oddílovými návěstidly AB:
+46 [1 img]  Jakou maximální rychlostí a jakým způsobem pojede strojvedoucí v situaci dle obrázku:
+47 [1 img]  Jakou maximální rychlostí a jakým způsobem pojede strojvedoucí v situaci dle obrázku:
+48 [1 img]  Vlak Os 8898 stojí v ŽST Krašov. Strojvedoucí obdržel písemný rozkaz PsD1, rozkaz 1, Povolení projet EOA (Konec oprávnění k jízdě) u návěstidla S1: Za jakých podmínek a jakou maximální rychlostí uvede strojvedoucí vlak do pohybu, nastal-li již čas odjezdu vlaku dle TJŘ. Vlak odjíždí na trať nevybavenou oddílovými návěstidly AB:
+49  Vlak s přepravou cestujících mimořádně zastaví ve stanici. Po zastavení vyrozumí výpravčí strojvedoucího o příčině zastavení. Jaký bude další postup strojvedoucího?
+50  Jak dá strojvedoucí pomocí radiostanice pokyn jinému vlaku k najetí na vozidlo?
+51  Po nástupu na HV se strojvedoucímu nepodařilo provést zaregistrování čísla vlaku s funkčním kódem a systém GSM-R není v poruše. Jaký bude jeho další postup?
+52  Samostatný mot. vůz přijel jako vlak Os 5309 do obratové ŽST v systému GSM-R a dále se bez provedení posunu vrací zpět pod číslem vlaku Os 5308. Od koho obdrží strojvedoucí pokyn ke změně čísla vlaku a funkčního kódu?
+53  Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo vlaku 1900?
+54 [1 img]  Jakými čísly vlaku a funkčními kódy se strojvedoucí soupravy vlaku dle obrázku zaregistrují v systému GSM-R pro vlak 1900?
+55 [1 img]  Strojvedoucí vlaku je zpraven tímto textem SPO. Jakou návěst vztahující se k této pomalé jízdě strojvedoucí očekává?
+56 [1 img]  Vlak projíždí stanicí Chválkov. Tato stanice má ve sloupci 2 TJŘ symbol „N“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?
+57  Jak pojede strojvedoucí k přejezdu, když je mu nařízena jízda se zvýšenou opatrností?
+58 [1 img]  Strojvedoucí stojí s vlakem R 1292 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Výstraha“. Může strojvedoucí uvést vlak do pohybu?
+59 [1 img]  Strojvedoucí stojí s vlakem R 1294 na staniční koleji č. 1 připravený k odjezdu. V čase pravidelného odjezdu vidí na opakovací samostatné předvěsti OpřS1 návěst „Opakování návěsti Volno“. Může strojvedoucí uvést vlak do pohybu?
+60 [1 img]  Strojvedoucí pravidelně projíždějícího vlaku s přepravou cestujících vjíždí do stanice Kaprun. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?
+61 [1 img]  Strojvedoucí Lv vlaku vjíždí do stanice Kaprun na návěst „Výstraha“. U staniční koleje je umístěno nepřenosné návěstidlo s návěstí „Místo zastavení“. Kde musí strojvedoucí zastavit?
+62 [1 img]  Vlak projíždí stanicí Děvín. Tato stanice má ve sloupci 2 TJŘ symbol „P“. Jakou nejvyšší dovolenou rychlostí může strojvedoucí jet?
+63 [1 img]  Jak bude postupovat strojvedoucí v červeně označeném úseku?
+64 [1 img]  Na trati je umístěna návěst „Začátek dočasné pomalé jízdy“. Za jaké podmínky se jí strojvedoucí řídí?
+65  Jaká je nejvyšší dovolená rychlost vlaku jedoucím v režimu nouzového spojení pomocí mobilního telefonu?
+66  Může být vystaveno na pravidelný výkon na trati vybavené signálem GSM-R vlakové HV pouze s nouzovým spojením pomocí mobilního telefonu?
+67 [1 img]  Jaký je název této návěsti?
+68 [1 img]  Uskutečňuje se tímto návěstidlem výprava vlaku?
+69 [1 img]  Jakou informaci zaměstnanci dává tato návěst?
+70 [1 img]  Jakou rychlostí bude vjíždět strojvedoucí do žst. Brno-Horní Heršpice, pokud bude na vjezdovém návěstidle tato návěst?
+71 [1 img]  Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?
+72 [1 img]  Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?
+73 [1 img]  Na jakou maximální rychlost smí strojvedoucí rozjet vlak, pokud se jedná o vlak výchozí?
+74 [1 img]  Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?
+75 [1 img]  Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?
+76 [1 img]  Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?
+77  Jakou rychlost předvěstí tato návěst?
+78  Po vjetí vlaku do traťového oddílu automatického bloku na návěst dovolující jízdu se na návěstním opakovači nerozsvítí žádné světlo (případně svítí jen modré světlo). Jaký bude další postup strojvedoucího?
+79  Jak zní závazné slovní znění při diagnostické zprávě IHL (indikace horkého ložiska) stupně STOP?
+80  Před odjezdem vlaku po obdržení rozkazu k odjezdu strojvedoucí zjistí, že nemůže s vlakem odjet (porucha HV, porucha dveří, VZ,….). Jaký bude jeho další postup?
+81  K jakému spojení se používá zkrácená volba v systému GSM-R?
+82 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+83 [1 img]  Jaký je název návěsti?
+84 [1 img]  Jaká návěst může být na nejbližším vjezdovém návěstidle?
+85 [1 img]  Jaká návěst může být na vjezdovém návěstidle?
+86 [1 img]  Jaká návěst může být na nejbližším oddílovém návěstidle?
+87 [1 img]  Jakou nejvyšší rychlostí může jet vlak v případě, že není na HV přenášen kód VZ, tlačítko bdělosti periodicky prověřuje bdělost strojvedoucího a strojvedoucí o této závadě ví?
+88  Jakými písmeny je označeno oddílové návěstidlo automatického hradla?
+89 [1 img]  Vlak zastavil u oddílového návěstidla AB s návěstí „Stůj“. Smí vlak pokračovat v další jízdě?
+90 [1 img]  Strojvedoucí u výchozího vlaku nevidí návěst nejbližšího hlavního návěstidla a na návěstním opakovači svítí zelené světlo. V TJŘ ve sloupci 2 není uvedena žádná značka. Jaký bude další postup strojvedoucího v čase odjezdu?
+91  V průběhu jízdy prostorovým oddílem kódované tratě dojde k náhlé změně světla na návěstním opakovači, a to ze žlutého na červené. Nejedná se o krátkodobé prokmitnutí červeného světla a na další návěstidlo není vidět. Strojvedoucí bude dále postupovat takto:
+92 [1 img]  Vlak zastavil ve stanici Praha-Libeň. V jaký čas může odjet?
+93 [1 img]  Vlak Os 14569 stojí na zastávce na širé trati, která má přístup na nástupiště pomocí úrovňového přejezdu, který je v činnosti. Po 1. TK proti správnému směru ho předjíždí Ex 51. Jaký bude postup strojvedoucího Ex 51 při průjezdu zastávkou až k přejezdu?
+94  Strojvedoucí vede vlak na trati s automatickým blokem dle svého TJŘ nejvyšší stanovenou rychlostí 160 km/h a vzhledem ke skutečným brzdícím procentům rozkládá svoji zábrzdnou dráhu na dvě zábrzdné vzdálenosti. Na návěstním opakovači se po minutí oddílového návěstidla AB rozsvítí žluté světlo. Na jakou novou rychlost musí strojvedoucí snížit rychlost vlaku u následujícího oddílového návěstidla AB?
+95 [1 img]  Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?
+96 [1 img]  Úsek Bálkov - Cvrkov je dvoukolejná trať. Lze uvedený úsek pojíždět proti správnému směru?
+97 [1 img]  Strojvedoucí na trati s pravostranným provozem projíždí stanicí Cvrkov. Vlaková cesta je postavena na 2. TK ve směru Liptákov. Jaký bude další postup strojvedoucího, pokud není zpraven žádným písemným rozkazem?
+98  Čím se řídí strojvedoucí vlaku jedoucího po objízdné trase ve stanici?
+99 [1 img]  Strojvedoucí při spatření této návěsti:
+100  Po projetí odjezdového návěstidla v poloze „Stůj“ z důvodu náhlé změny návěstního znaku je strojvedoucí povinen:
+101  Při srážce vlaku se zvěří nedošlo ke zranění osob ve vlaku, ale došlo k poškození a neschopnosti vozidla. Strojvedoucí je povinen:
+102  Strojvedoucí zjistí poruchu vozidlové radiostanice v systému GSM-R. Jak bude dále postupovat?
+103  Strojvedoucí zjistil za jízdy na trati požár ve vlaku. Jak bude dále postupovat?
+104 [1 img]  Strojvedoucí není zpraven žádným písemným rozkazem o zhoršených povětrnostních poměrech a za jízdy vlaku zjistí, že dochází k pohybu větví stromů a silnému nárazovému větru. Jaký bude jeho další postup?
+105 [1 img]  Vlak byl po odjezdu od nástupiště zastaven návěstí „Stůj, zastavte všemi prostředky“. Za jakých podmínek může vlak pokračovat v další jízdě, pokud byl výpravčí o zastavení vlaku návěstí „Stůj, zastavte všemi prostředky“ informován ?
+106  Strojvedoucí potřebuje ohlásit mimořádnou událost, která vznikla na širé trati. Základní ani náhradní rádiové spojení nelze pro poruchu použít. Strojvedoucí je nucen použít nouzové spojení pomocí mobilního telefonu. Ze kterého dokumentu zjistí telefonní číslo na ohlašovací pracoviště?
+107  Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní vlak je:
+108  Závazné slovní znění pro návěst „Stůj, zastavte všemi prostředky“ danou radiostanicí pro konkrétní traťový úsek je:
+109  Může výpravčí požádat strojvedoucího ve stanici s DOZ o přesvědčení se o zjevné příčině nemožnosti přestavení výhybky?
+110  Jak strojvedoucí ohlásí traťovému dispečerovi ve stanici DOZ zjištění, že protijedoucí vlak vjel do stanice celý?
+111  Z jakého dokumentu zjistí strojvedoucí Číslo telefonu na „ohlašovací pracoviště“?
+112  Strojvedoucí slyší v radiostanici toto hlášení: "příjmu, stop, stop" Jaký bude jeho postup?
+113  Strojvedoucí zjistí za jízdy vlaku na dvoukolejné trati překážku v sousední koleji. Jak bude dále postupovat?
+114  Strojvedoucí posunového dílu ve stanici Libavá slyší v radiostanici toto hlášení: Pozor, pozor, všechny vlaky na příjmu, stop. stop. Jaký bude jeho další postup:
+115  Platí pro PMD krycí návěstidlo?
+116  Jaká je rychlost PMD pro uváznutý vlak na trati, když není známa jeho kilometrická poloha?
+117  Jak musí být PMD označen?
+118  Musí být strojvedoucí PMD informován o vjezdu na obsazenou kolej?
+119 [1 img]  PMD při návratu z trati musí zastavit nejdále:
+120  Nepředpokládaný návrat vlaku (PMD) z trati je bez souhlasu výpravčího:
+121  PMD se uskutečňuje z důvodu zjištění volnosti a průjezdnosti tratě. Smí tento PMD přepravovat cestující?
+122 [1 img]  PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD označník?
+123  Jak bude zpraven strojvedoucí PMD, pokud mají pro odjezd PMD ze stanice platit návěsti odjezdových (cestových) návěstidel?
+124  PMD se blíží k oddílovému návěstidlu s návěstí „Stůj“. Platí oddílové návěstidlo pro PMD?
+125  Jak je prováděn návrat vlaku z trati, který zcela opustil obvod stanice?
+126  Jaké volací číslo zadá strojvedoucí při volání v systému GSM-R pokud volá vedoucí vozidlo PMD 865432?
+127  Strojvedoucí vedoucího vozidla vlaku, z něhož je ovládáno brzdění při PMD, zadá na radiostanici v systému GSM-R:
+128 [1 img]  Jak bude strojvedoucí jednat při jízdě PMD k oddílovému návěstidlu s návěstí Stůj?
+129 [1 img]  PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího nezpravil. Platí pro PMD návěstidlo Se 5 ve funkci označníku?
+130 [1 img]  PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího zpravil písemným rozkazem. Platí pro PMD návěstidlo Se 5 ve funkci označníku?
+131 [1 img]  PMD odjíždí ze stanice. O platnosti návěstí dovolující jízdu vlaku výpravčí strojvedoucího zpravil písemným rozkazem. Platí pro PMD označník?
+132 [1 img]  V nácestné stanici Križná je nutno odstavit z vlaku druhý vůz za lokomotivou. Doprovod vlaku nemá v této stanici znalost místních poměrů pro posun. Lze toto odstavení provést?
+133  Jakým způsobem jede strojvedoucí při posunu?
+134  O jaký posun se jedná při objíždění soupravy vlaku?
+135  Objížděná souprava, zajištěná odvětraným brzd. potrubím, může být spolehlivě zajištěna proti ujetí nejdéle:
+136  Hnací vozilo ř. 814 odstupuje v ŽST Baníkov od vlaku 9800 do depa. Kdo je zaměstnancem řídícím posun?
+137  V hranicích depa stojí lokomotiva jedoucí na vlak. Kdo je zaměstnancem řídícím posun?
+138  Po příjezdu vlaku do stanice Dukla odstupuje hnací vozidlo do depa. S kým strojvedoucí sjednává posun?
+139  Strojvedoucí zastavil v cílové ŽST Borišov a je nutno provést pravidelný posun s posunovou četou. Ze kterého dokumentu strojvedoucí zjistí, kdo bude vedoucím posunové čety?
+140  Jaký bude postup strojvedoucího po příjezdu vlaku 692 do konečné stanice, kde bude lokomotiva od vlaku v režimu GSM-R posunovat do depa?
+141  V jakých případech bude nastaven na radiostanici v systému GSM-R funkční kód 03?
+142  Souhlas k jízdě rádiovým zařízením pro vlak Os 6543 stojící na třetí koleji ve stanici Jeníkov zní:
+143 [1 img]  Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Kotlíkov, pro lok. od vlaku 10254 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se11 a najedeme na první koleji na vlak 10258. Posun dovolen od 10:30 do 10:45 hod. Funkční kód RDST 04.“. Strojvedoucí kvůli mlze nevidí na návěst nejbližšího hlavního návěstidla. Jaký bude další postup strojvedoucího?
+144 [1 img]  Strojvedoucí bude po zastavení vlaku odstupovat do depa a obdržel od posunovače tuto informaci: „Lokomotiva od vlaku 9890 na druhé koleji je odvěšená“. Strojvedoucí s výpravčím nekomunikoval. Jaký bude další postup strojvedoucího?
+145 [1 img]  Strojvedoucí bude po zastavení vlaku odstupovat do depa. Po výstupu cestujících se změní návěst nejbližšího hlavního návěstidla z návěsti „Stůj“ na návěst „Posun dovolen“. Komunikace mezi výpravčím a strojvedoucím neproběhla. Jaký bude další postup strojvedoucího?
+146 [1 img]  Strojvedoucí obdržel od výpravčího tuto informaci: „Výpravčí Baníkov, pro motor od vlaku 19999 ze čtvrté koleje vyjedeme na slatinské zhlaví za Se22 a najedeme na první koleji na vlak 19998. Funkční kód RDST 01.“. Jaký bude další postup strojvedoucího?
+147  Jak je zpraven strojvedoucí o poruše PZZ při posunu přes přejezdy s poruchou PZZ?
+148  O posunu bez posunové čety rozhoduje:
+149  Kolik vozidel normální stavby smí být sunuto při posunu bez posunové čety?
+150  Jak dá signalista strojvedoucímu při posunu bez posunové čety návěst „Souhlas k jízdě“ pomocí radiostanice?
+151 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+152 [1 img]  Jaký je název této návěsti?
+153  Za provedení Ověření činnosti brzdy posunového dílu odpovídá?
+154  Jak zní slovní znění návěsti „Vzdálit“ dávané pomocí rádiové stanice?
+155  Jak zní slovní znění návěsti „Přiblížit“ dávané pomocí rádiové stanice?
+156  Jak zní závazné slovní znění návěsti „Stlačit“ dávané pomocí rádiové stanice strojvedoucímu vlaku 9820?
+157  Jak zní závazné slovní znění návěsti „Stůj“ dávané pomocí rádiové stanice?
+158 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+159 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+160 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+161 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+162 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+163 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+164 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+165  Za jízdy elektrického hnacího vozidla dojde k výpadku napětí v troleji a lokomotiva nesignalizuje závadu sběrače. Jak bude strojvedoucí dále postupovat?
+166  Při jízdě elektrického hnacího vozidla strojvedoucí zjistí rozkmitání troleje a výpadek napětí v troleji. Další postup strojvedoucího bude:
+167 [1 img]  Jak bude strojvedoucí postupovat při jízdě elektrického hnacího vozidla úsekem s napěťovou výlukou označeným dle obrázku? Strojvedoucí je zpraven o umístění výlukových návěstidel pro elektrický provoz.
+168  Jak se strojvedoucí dozví o umístění výlukových návěstidel pro elektrický provoz?
+169 [1 img]  Strojvedoucí vjíždí do stanice. V úrovni vjezdového návěstidla uvidí výlukové návěstidlo s návěstí „Stáhněte sběrač“. Na písemném rozkaze není v této stanici žádná výluka trakčního vedení uvedena. Jak bude strojvedoucí postupovat?
+170 [1 img]  Strojvedoucí byl zpraven písemným rozkazem o mimořádné jízdě se staženými sběrači: „Ve Velimi při vjezdu projeďte beznapěťový úsek se staženými sběrači.“. Jak bude strojvedoucí postupovat při jízdě kolem výlukových návěstidel pro elektrický provoz?
+171 [1 img]  Jak postupuje strojvedoucí u návěsti „Úsekový dělič“?
+172 [1 img]  Jakým způsobem pojede strojvedoucí v úseku od návěsti „Vypněte trakční odběr“?
+173  Jak strojvedoucí postupuje za jízdy vlaku při zjištění poškození sběrače?
+174  Jak se provede kontrola sběrače a trolejového vedení po výpadku napětí u vlaku řízeného z řídícího vozu?
+175  Vykonává se součinnost přídavné a průběžné brzdy na stanovišti řídícího vozu v soupravě vlaku?
+176  Kdy provádí strojvedoucí funkční zkoušku zařízení SRD (vozidlové radiostanice)?
+177  Při odstavení osobních vozů a zajištění proti ujetí započítáváme brzdící váhu podle kterého údaje na voze?
+178  Brzdící váha vlaku je 100 tun při jeho hmotnosti 200 tun. Korekční součinitel kappa je roven 1. Jaké je skutečné brzdící procento vlaku?
+179  Do jaké polohy se přestaví přestavovače brzdy na vlacích osobní dopravy?
+180  Zkoušku spojení v SRD provádí strojvedoucí hnacího vozidla kódovaným hlášením:
+181  Co je simplexní kanál?
+182  Pokud byl vlak zastaven dálkově radiovým zařízením SRD, jaký symbol rutinního příkazu svítí na displeji radiostanice?
+183  Volací číslo vozidlové radiové stanice v SRD vedoucího hnacího vozidla vlaku 951 je:
+184  Jaké údaje musí vždy strojvedoucí zadat do elektronického rychloměru u vozidla bez ETCS?
+185 [1 img]  Jak bude postupovat strojvedoucí, zjistil-li při nástupu na vozidlo v domovském depu vozidla, že na rychloměru svítí červeně signalizace „Porucha“ a závadu se posléze nepodaří odstranit?
+186  V jakém případě neprověřuje vlakový zabezpečovač periodicky bdělost strojvedoucího při jízdě na tratích nevybavených ETCS před návěstí hl. návěstidla v poloze „Volno“?
+187  Součásti pro bezpečnostní brzdu (elektromagnetický ventil nebo jeho kryt, tlakový spínač a uzavírací kohout) jsou označeny barvou:
+188  Za jízdy vlaku dojde bez zjevné příčiny k úplnému vypuštění vzduchu z hlavního potrubí. Jaký bude další postup strojvedoucího?
+189  Jak lze odstranit nebo snížit skluz hnacích náprav kolejového vozidla?
+190  Pod pojmem „inversní ventil“ se rozumí?
+191  Rukojeť spojkového kohoutu hlavního brzdového potrubí je natřena barvou?
+192 [1 img]  Jaký bude postup doprovodu vlaku v čase odjezdu po výpravě vlaku výpravčím? Souprava vlaku má centrální ovládání dveří strojvedoucími, ale jen zadní motorový vůz je obsazen vlakovou četou:
+193 [1 img]  Jakým způsobem oznámí strojvedoucí zadní jednotky strojvedoucímu předního HV ř. 714 připravenost k odjezdu?
+194  Strojvedoucí vlaku s přepravou cestujících jedoucím v systému TB 5 obdržel návěst „Souhlas k odjezdu“. Dveře, ze kterých vlaková četa dává návěst zůstávají stále otevřené. Strojvedoucí se s vlakem rozjet:
+195  Strojvedoucí v čase pravidelného odjezdu po provedené výpravě vlaku dá vlakové četě návěst „Výzva strojvedoucího“ přes zpětné zrcátko. Vlaková četa nereaguje. Strojvedoucí dále postupuje takto:
+196  Vlak vedený HV ř. 841 zastavil pro výstup a nástup cestujících ve 22:42 hod. ve stanici s výlukou dopravní služby výpravčího. V čase pravidelného odjezdu postupuje strojvedoucí takto:
+197  Strojvedoucí měl klíče od odstaveného HV nepřetržitě u sebe. Kdy se ZBHV nemusí vykonat?
+198  Vykonává se pravidelně zkouška těsnosti na soupravách vlaků osobní dopravy?
+199  Dle jakého dokumentu se provádí u jednotek ZBHV?
+200  Co se musí provést při změně stanoviště řízení HV?
+201  Jaká zkouška brzdy se provádí při rozpojení vlaku na více než dvou místech?
+202 [1 img]  Jaká je nová stanovená rychlost vlaku pro vlak Sp 1565 v úseku Rakovník - Lužná u Rakovníka?
+203 [1 img]  Jaká je nová stanovená rychlost vlaku pro vlak Os 9710 v úseku Kralupy nad Vltavou - Olovnice?
+204 [1 img]  Za ŽST Starý Plzenec dojde k poruše národního vlakového zabezpečovače. Jak bude strojvedoucí pokračovat další v jízdě?
+205  HV má poruchu národního VZ. Na stanoviště strojvedoucího přichází člen obsluhy vlaku (p. Novák). Jak provede strojvedoucí zápis do Knihy předávky HV?
+206  Jakým průkazem se musí osoba požadující jízdu na stanovišti strojvedoucího z důvodu poznání traťových poměrů strojvedoucímu prokázat?
+207  Kolik osob smí být přítomno na stanovišti strojvedoucího z něhož je hnací vozidlo řízeno?
+208  Strojvedoucí odstaví lokomotivu vybavenou jednou ruční brzdou ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?
+209  Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami ve stanici na manipulační koleji, jejíž spád je 5 ‰. Jak bude vozidlo zajištěno proti ujetí?
+210  Strojvedoucí odstaví lokomotivu vybavenou dvěma ručními brzdami v obvodu depa. Jak provede zajištění vozidla proti ujetí?
+211 [1 img]  Dojde-li za jízdy vlaku Os 25906 u HV s mechanickým rychloměrem k poruše rychloměru za zastávkou Praha Jinonice. Kam smí vlak pokračovat v jízdě?
+212  K soupravě vlaku se připojí postrková lokomotiva. Jaký úkon se musí provést po propojení hlavního potrubí se soupravou vlaku?
+213 [1 img]  Sunutý vlak je připraven k odjezdu ze stanice Klatovy. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího vozidla vlaku dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?
+214 [1 img]  Sunutý vlak je připraven k odjezdu ze stanice Klatovy a na odjezdové návěstidlo doprovod vlaku nevidí. Jaká musí být splněna podmínka, aby mohl strojvedoucí vedoucího hnacího vozidla dát v čase odjezdu návěst „Výzva k pohotovosti“ nebo „Výzva strojvedoucího“?
+215  Jaké návěsti pomocí telekomunikačního zařízení předává strojvedoucímu vedoucího hnacího vozidla zaměstnanec v čele sunutého vlaku?
+216  Jak zajistíte soupravu vlaku proti ujetí na širé trati při neschopnosti hnacího vozidla (porucha kompresoru)?
+217 [1 img]  Jaký bude správný postup doprovodu vlaku před odjezdem vlaku ze zastávky v obvodu stanice. HV je řady 810, obsluha vlaku je u dveří vedle strojvedoucího a návěsti si budou uvedení zaměstnanci předávat ústně:
+218  Jak musí být při vzdálení se ze stanoviště strojvedoucího při střídání na ose zajištěna souprava vlaku proti ujetí?
+219  Vzdálením se ze stanoviště strojvedoucího se rozumí stav, kdy:
+220 [1 img]  Jakou rychlostí pojede vlak dle obrázku (max. rychlost ř. 844 je 120 km/h) v úseku A od návěsti „Traťová rychlost“?
+221  Předpis určuje povinnosti pro doprovod vlaku. Kterých zaměstnanců se tyto povinnosti týkají?
+222  Jak bude postupovat strojvedoucí, dojde-li ve stanici obsazené výpravčím k poruše rychloměru?
+223  Na vlakovém vozidle s přípřeží nezapojeném do vícenásobného řízení nastaví strojvedoucí vlaku 2568 do rychloměru číslo vlaku takto:
+224  Jako strojvedoucí posunujete na druhé posunové záloze. V rychloměru na pozici číslo vlaku bude zadán údaj v jakém formátu?
+225 [1 img]  Je třeba dopravit hnací vozidlo s vadnou mobilní částí VZ z jednoho depa do jiného. Je možné ho vystavit z depa na vlak, pokud bude celou cestu jako řízené v mnohočlenném řízení?
+226  Soupravový vlak zastavil na širé trati. Jak bude strojvedoucí postupovat v další jízdě v případě, že zjistil poruchu národního VZ?
+227  Vlak zastavil ve stanici pro poruchu národního VZ. Jak bude strojvedoucí postupovat před další jízdou v případě, že na stanoviště přichází další zaměstnanec?
+228 [1 img]  Jaká je nová stanovená rychlost vlaku pro vlak Os 5005 v úseku Kolín - Záboří nad Labem?
+229  Na jakou dobu se může strojvedoucí vzdálit ze stanoviště strojvedoucího, aniž by musel hnací vozidlo odstavit?
+230  Při poruše pískovacího zařízení s neúmyslným pískováním strojvedoucí předpokládá ovlivnění činnosti kolejových obvodů. Jaký bude jeho další postup?
+231  Po souhlasu k posunu na točnu nebo přesuvnu se při najíždění nesmí překročit rychlost jízdy:
+232  Jaký údaj zapíše strojvedoucí v Knize předávky HV do rubriky 8 „Informace o průběhu směny“ při ukončení směny na HV, v případě, že se na HV nevyskytla žádná závada?
+233  Kolikrát ve směně provádí strojvedoucí kontrolu pískování?
+234  Jak bude označeno HV při zavedení aktivního odstavení?
+235  Vlak Lv je veden samostatným HV řady 754. Smí strojvedoucí pro brzdění za běžných provozních podmínek použít přímočinnou brzdu?
+236  Je použití vysokotlakého plnicího švihu při zkoušce brzdy dovoleno?
+237  Strojvedoucí přivěšuje lokomotivu k soupravě vlaku, jejíž první vůz je vybaven napájecím potrubím. Spojí spolu s ostatními předepsanými vedeními také napájecí potrubí?
+238  Jaký úkon provede strojvedoucí vlaku sestaveného z osobních vozů klasické stavby (např. řady A, B apod.) na pokyn „Zabrzděte“ daný od vozmistra kontrolujícího účinek brzdy vozidel:
+239  Započítává se elektrodynamická brzda u lokomotiv?
+240  Započítává se elektrodynamická brzda u elektrických jednotek?
+241 [1 img]  Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?
+242 [1 img]  Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?
+243  Jak se strojvedoucí na elektrické jednotce seznámí se zprávou o brzdění:
+244  Vlak sestavený z lokomotivy a soupravy 5 vozů vjíždí do ŽST Kolejov s pobytem pro nástup a výstup cestujících. Jakým způsobem zastaví strojvedoucí vlak?
+245  Při jízdě vlaku nastanou zhoršené adhezní podmínky a vlak má zastavit na zastávce. Jak bude postupovat strojvedoucí, aby toto zastavení zajistil?
+246 [1 img]  Za jízdy vlaku Os 8189 se stanovenou rychlostí 100 km/h v úseku Kolejov – Zarážedlice hustě sněží a dochází k víření sněhu. Vlak má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude postup strojvedoucího za uvedených podmínek?
+247  Jaký je tlak v hlavní potrubí při úplném provozním zabrzdění:
+248  Je možné provést zkoušku brzdy jen pomocí diagnostického displeje vozidla:
+249 [1 img]  Jak se strojvedoucí vedoucího vozidla vlaku dorozumí s vedoucím obsluhy vlaku?
+250 [1 img]  Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1499 v úseku Zálezlice - Bítov bez obsluhy vlaku. Dá strojvedoucí souhlas s takovou jízdou, pokud níže uvedená souprava je vybavena systémem CODS?
+251 [1 img]  Z důvodu mimořádnosti rozhodne dispečer osobní dopravy o jízdě vlaku R 1599 v úseku Vranov - Bítov bez obsluhy vlaku. Může být vlak takto provozován, pokud níže uvedená souprava je provozována v systému TB 5?
+252  Jak se strojvedoucí dozví o připravenosti k odjezdu soupravového vlaku s obsluhou vlaku?
+253 [1 img]  Strojvedoucí obdrží v čase 17:20 hod od obsluhy vlaku návěst „Souhlas k odjezdu“. Jaký bude další postup strojvedoucího?
+254 [1 img]  Vlak odjížděl od nástupiště ŽST Krašov, po rozjezdu mimořádně zastavil z důvodu odpadnutí ventilu VZ a část soupravy zůstala u nástupiště. V TJŘ ŽST Krašov není ve sloupci 2 symbol „Výpravky“. Jak bude strojvedoucí postupovat po odstranění závady VZ?
+255 [1 img]  Vlak s přepravou cestujících bez obsluhy vlaku Os 19998 zastavil na zastávce Unětice. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, je-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?
+256 [1 img]  Vlak s přepravou cestujících bez obsluhy vlaku Os 19996 zastavil na zastávce Běloky. Jak bude strojvedoucí postupovat v čase odjezdu vlaku, není-li hnací vozidlo vybaveno akustickou signalizací uzavření dveří?
+257 [1 img]  Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?
+258 [1 img]  Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?
+259 [1 img]  Vlak zastavil na zastávce v obvodu stanice pro nástup a výstup cestujících a pokračuje v jízdě stejným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?
+260 [1 img]  Vlak zastavil na zastávce v obvodu stanice pro výstup a nástup cestujících a poté pokračuje v jízdě opačným směrem. Jaký bude postup strojvedoucího před rozjezdem vlaku?
+261 [1 img]  Jakou návěst a komu dá strojvedoucí postrkové jednotky po obdržení návěsti „Pohotovi k odjezdu“ od člena obsluhy vlaku 2 a uzavření dveří?
+262 [1 img]  Hlásí zaměstnanec v čele sunutého vlaku tuto návěst?
+263  Jak často opakuje u sunutého vlaku zaměstnanec v čele sunutého vlaku závazné slovní pokyny k sunutí?
+264  Od jaké vzdálenosti musí být u sunutého vlaku doplněn slovní pokyn k sunutí o informací o zbývajících metrech k místu zastavení?
+265  Musí strojvedoucí informaci o návěsti nepřenosného návěstidla prostřednictvím radiové stanice u sunutého vlaku potvrdit?
+266  Jaké poznání tratí lze realizovat pomocí videopoznání?
+267  Jaké poznání tratí lze realizovat pomocí fotopoznání?
+268  Kdy musí provést strojvedoucí synchronizaci dat ve služebním přiděleném tabletu?
+269  Jak se provádí ověření činnosti brzdy posunového dílu?
+270  Jakým způsobem je strojvedoucí informován o změnách TTP nebo ZDD, dojde-li ke změně traťových nebo místních poměrů?
+271 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+272 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+273 [1 img]  Jaký je název této návěsti a jaký pokyn dává?
+274 [1 img]  Na trati jsou umístěny horní a dolní rychlostníky N. Který rychlostník platí pro vlak dle obrázku, pokud je v ZOB uvedeno „PASS 2“?
+275  Na vlaku Ex je vykonávána ÚZB v režimu R+Mg. Po zabrzdění na zkoušku brzdy a provedené kontrole stavu zabrzděno obdrží strojvedoucí od vozmistra kontrolujícího účinek brzdy vozidel opětovně pokyn „Zabrzděte“ pro vykonání kontroly správné funkce Mg-brzdy. Jaký úkon na základě tohoto pokynu strojvedoucí provede? Změna od 13. 2. 2026 - upraveny obrázky otázek 55 a 68 Změna od 18. 2. 2026 - doplněn obrázek otázky 246

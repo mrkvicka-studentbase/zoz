@@ -1,0 +1,290 @@
+=== STRANA 1 ===
+Část čtvrtá
+
+VLAKOVÝ ZABEZPEČOVAČ
+
+XIY. Návěstní opakovač na hnacím vozidle
+
+156. Návěstní opakovač je součástí vlakového zabezpečovače na hnacím
+vozidle.
+
+Na kódovaných úsecích širé trati a v dopravnách, kde hlavní návěstidla
+následují za sebou na zábrzdnou vzdálenost, informuje strojvedoucího příslušným
+světlem o návěstním znaku návěstidla, k němuž se vlak blíží. V dopravnách,
+kde hlavní návěstidla následují za sebou na nedostatečnou zábrzdnou vzdálenost,
+informuje strojvedoucího příslušným světlem o návěstním znaku hlavního ná-
+věstidla na konci zábrzdné vzdálenosti, resp. o návěstním znaku nejbližšího
+hlavního návěstidla s povážlivější návěstí.
+
+Při práci na spádovišti informuje návěstní opakovač strojvedoucího o ná-
+věstním znaku spádovištního návěstidla.
+
+Při jízdě na trati s volicím přepínačem v poloze „Provoz“ kontroluje vlakový
+zabezpečovač bdělost strojvedoucího v případech, kdy přenášená návěst vyžaduje
+zvětšenou pozornost, jakož i v případech, kdy na vozidle není přenášená žádná
+
+návěst. Nereaguje-li strojvedoucí na výzvu k prokázání bdělosti, vlak samočinně
+zastaví.
+
+157. Světla návěstního opakovače mají tento význam:
+
+Zelené světlo
+
+Nejbližší hlavní návěstidlo ukazuje návěst I, Volno
+
+65
+=== STRANA 2 ===
+Žluté světlo
+
+9
++ Nejbližší hlavní návěstidlo ukazuje návěst 26,
+E Výstraha, nebo některou z návěstí:
+6, Očekávejte rychlost 100 km/h
+$ 11, Očekávejte rychlost 80 km/h
+16, Očekávejte rychlost 60 km/h
+P 21, Očekávejte rychlost 40 km/i
+
+Stupeň návěstěné (předvěstěné) rychlosti zjistí strojvedoucí z návěsti nej-
+bližšího hlavního návěstidla; je-li jím oddílové návěstidlo, které je zhaslé, musí
+vlak zmenšovat rychlost tak, aby mohl zastavit před hlavním návěstidlem na
+konci zábrzdné vzdálenosti, zakazujícím jízdu.
+
+Přerušované červené světlo
+
+©
+
+„ Nejbližší hlavní návěstidlo ukazuje návěst „Opa-
+* kování návěsti 26, Výstraha“
+
++
+
+Vlak je v předposledním oddíle se čtyřznakovým automatickým blokem
+před návěstí 31, Stůj, a nachází se v první polovině zábrzdné vzdálenosti;
+musí zmenšovat rychlost tak, aby u následujícího návěstidla s návěstí 31, Stůj,
+spolehlivě zastavil. Strojvedoucí musí periodicky obsluhovat tlačítko bdělosti;
+zanedbá-li jeho obsluhu, vlak samočinně zastaví.
+
+66
+=== STRANA 3 ===
+Červené světlo Po rozsvícení červeného světla se rozezvučí hou-
+
+kačka vlakového zabezpečovače, pokud strojve-
+
+doucí neobsluhuje tlačítko bdělosti ve stanoveném
+
+intervalu
+
+a) Nejbližší oddílové nebo krycí návěstidlo uka-
+zuje návěst 31, Stůj, a vlak musí před ním
+zastavit
+
+b) Vjezdové, cestové nebo odjezdové návěstidlo,
+následující na zábrzdnou vzdálenost po před-
+chozí návěsti 26, Výstraha, ukazuje návěst 31,
+Stůj, a vlak musí před ním zastavit
+
+c) Nejbližší opakovací světelná předvěst, vjezdo-
+vé, cestové nebo odjezdové návěstidlo ukazuje
+návěst „Opakování návěsti 26, Výstraha“
+(příp. ve spojení se zmenšením rychlosti spod-
+ním světlem), a vlak musí za ním zastavit
+na nedostatečnou zábrzdnou vzdálenost (před
+návěstí 31, Stůj, dalšího návěstidla)
+
+Strojvedoucí musí až do zastavení vlaku periodicky obsluhovat tlačítko
+bdělosti; zanedbá-li jeho obsluhu, vlak samočinně zastaví.
+
+Žluté mezikruží
+
+© Po rozsvícení žlutého mezikruží se rozezvučí hou-
+kačka vlakového zabezpečovače, pokud strojve-
+
+ki doucí neobsluhuje tlačítko bdělosti ve stanoveném
+
+© intervalu
+
+o Od hlavního návěstidla na konci zábrzdné vzdá-
+
+lenosti a v obvodu výhybek přilehlém k návěstidlu
+musí vlak jet zmenšenou rychlostí, určenou dvou-
+$ světlovou návěstí, včetně světelných pruhů a číslic
+
+Modré světlo
+
++
+© a) Volicí přepínač je v poloze „Postrk“
+
+b) Vybavovač samočinného brzdění při volicím
+k přepínači v poloze „Provoz“ byl vyloučen buď
+» prokázáním bdělosti strojvedoucího, nebo
+
+automatickou výlukou
+
+67
+=== STRANA 4 ===
+Žádné světlo
+
+kid
+
++
+
+e Po zhasnutí světla návěstního opakovače se ro-
+
+E zezvučí houkačka vlakového zabezpečovače, po-
+kud strojvedoucí neprokáže bdělost ve stanoveném
+intervalu
+
+©
+
+Na návěstním opakovači nesvítí žádné světlo (popř, svítí jen modré světlo),
+a to z těchto příčin:
+
+a) vlak je v obsazeném oddíle;
+
+b) vlak vjel do oddílu automatického bloku na návěst dovolující jízdu
+
+a došlo k poruše vlakového zabezpečovače na hnacím vozidle nebo na
+traťové části vlakového zabezpečovače, popř. k jiné závadě na trati
+(k lomu kolejnice, k náhlému obsazení oddílu vozidlem, k poruše
+automatického bloku apod.).
+
+V případech uvedených v a) nebo b) strojvedoucí neví, pro kterou
+z uvedených příčin došlo k zhasnutí světla na návěstním opakovači. Musí proto ,
+předpokládat překážku a jet podle rozhledových poměrů tak, aby mohl zastavit |
+za všech okolností včas před kolejovými vozidly, popř. podle možností před
+jinou překážkou; rychlost 30 km/h nesmí být překročena až k následujícímu
+hlavnímu návěstidlu. Od tohoto návěstidla dále podle návěstních znaků návěsti-,
+del. Periodicky obsluhuje tlačítko bdělosti; zanedbá-li jeho obsluhu, vlak samo-
+činně zastaví.
+
+Zjistí-li strojvedoucí, že jde o poruchu traťové části vlakového zabezpečo-
+vače, ohlásí to v nejbližší stanici, kde za tímto účelem zastaví. Projíždějící vlak
+v této stanici nemusí zastavit, je-li zpraven písemným rozkazem, radiotelefonním
+spojením nebo návěstí 85, Možno projet, že je porucha sousední stanici již
+ohlášena.
+
+c) Hnací. vozidlo je na nekódovaném úseku (ve stanici, na trati); takové
+úseky musí strojvedoucí vždy znát. Strojvedoucí smí jet největší dovole-
+nou rychlostí podle návěstí hlavních návěstidel a jejich předvěstí.,
+Bdělost strojvedoucího je kontrolována a strojvedoucí ji periodicky
+prokazuje obsluhou tlačítka bdělosti, změnou polohy kontroléru nebo
+jiného ovládače; neprokáže-li bdělost ve stanoveném intervalu, vlak
+samočinně zastaví.
+=== STRANA 5 ===
+158. Vlakový zabezpečovač nepřenáší informace samostatných opakovacích
+světelných předvěstí a opakování návěstí na vjezdových, cestových nebo odjez-
+dových návěstidlech, postavených na začátku nedostatečné zábrzdné vzdálenosti,
+Na návěstním opakovači vlakového zabezpečovače se proto i při normální
+činnosti vlakového zabezpečovače a zabezpečovacího zařízení může objevit
+povážlivější znak než na nepřenosném návěstidle, k němuž se vlak blíží.
+
+159. Pro přenos návěstí spádovištního návěstidla na hnací vozidlo, určené
+pro posun na spádovišti, je nahrazen normální kryt návěstního opakovače
+krytem pro vyjádření návěstních informací tohoto návěstidla. Takto upravené
+zařízení je jen zařízením informačním. Volicí přepínač je v poloze „Postrk“
+a hlavní vypínač v poloze „Zapnuto“. Vybavovač samočinného zabrzdění je
+vypnut.
+
+Světla upraveného návěstního opakovače mají při posunu na spádovišti
+zařízeném pro přenos návěstí tento význam:
+
+Modré světlo
+
+©
+
+s Návěstní opakovač je připraven k přenášení návěstí
+k: spádovištního návěstidla, žádná návěst není pře-
+*» nášena
+
+Bílé světlo
+svítící zároveň
+se světlem modrým
+
+«
+
+$
+
+o Spádovištní návěstidlo ukazuje návěst 116, Sunout
+© rychleji, jedním bílým světlem
+
+69
+=== STRANA 6 ===
+Bílé světlo s vodorovným pruhem,
+svítící zároveň se světlem modrým
+
+$ Spádovištní návěstidlo ukazuje návěst 115, Sunout
+3 pomalu, dvěma bílými světly, nebo návěst 118,
+
+Přísun soupravy vozidel ke spádovišti, dvěma pře-
+kod rušovanými bílými světly
+
+Strojvedoucí musí v obou případech očekávat změnu návěsti na návěst 114,
+Sunout zakázáno (návěstní opakovač ukazuje červené světlo svítící zároveň
+se světlem modrým), a v tomto případě neprodleně zastavit sunutí posunujícího
+dílu.
+
+Červené světlo svítící zároveň
+se světlem modrým
+
+©
+
+© Spádovištní návěstidlo ukazuje návěst [14, Sunout
+zakázáno, červeným světlem
+
+Bílé světlo s písmenem Z,
+svítící zároveň se světlem modrým
+
+kid
+
+*%
+
+© , šé
+
+a Spádovištní návěstidlo ukazuje návěst 117, Zpět,
+červeným světlem s bílým písmenem Z pod ním
+
+70
+=== STRANA 7 ===
+Žádné světlo
+
+kod
+
+$
+
+© Návěstní opakovač neúčinkuje, protože zařízení
++ není zapnuto nebo je v poruše
+
+©
+
+XY. Návěstidla pro vlakový zabezpečovač
+
+160. a) Návěst 44, Přepněte VZ na kmitočet 50 Hz
+
+Černá obdélníková deska s bílým okrajem, posta-
+vená na užší základně, Na desce bílá písmena VZ
+a číslice udávající kmitočet 50 Hz, doplněná bílými
+odrazkami
+
+Černá obdělníková deska s bílým okrajem, posta-
+vená na užší základně. Na desce bílá písmena
+VZ a číslice udávající kmitočet 75 Hz, doplněná
+bílými odrazkami
+
+"n
+=== STRANA 8 ===
+161. Na neelektrizovaných tratích a na tratích se stejnosměrnou trakční
+proudovou soustavou musí být přepínač kmitočtu, který je umístěn na stanovišti
+strojvedoucího, v poloze 50 Hz, pokud návěstidla pro vlakový zabezpečovač
+neurčují jinak. Na těchto tratích vybavených traťovou částí VZ se návěstidly
+pro vlakový zabezpečovač uděluje příkaz, v kterém místě trati je nutno přepnout
+přepínač kmitočtu z polohy 50 Hz na 75 Hz nebo opačně. Na ti atích se střídavou
+trakční proudovou soustavou musí být přepínač kmitočtu vždy v poloze 75 Hz.
+
+162. Návěstidla pro vlakový zabezpečovač se umísťují podle ustanovení
+či. 6.
+
+Ve všech případech se návěstidla pro vlakový zabezpečovač umísťují ve
+vzdálenosti maximálně 5 m před izolovaným stykem ohraničujícím kolejové
+obvody rozdílných kmitočtů.
+
+72

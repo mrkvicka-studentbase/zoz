@@ -1,0 +1,3978 @@
+                                                    úroveň přístupu
+                                          předpis
+                                                          A
+
+
+
+
+SŽ D5-3
+
+
+
+Prováděcí pokyny pro tvorbu a zpracování doplňujících
+ustanovení k předpisům pro obsluhu telekomunikačních zařízení
+a provozních řádů rádiových sítí
+
+
+
+
+účinnost od 14. prosince 2025
+
+
+
+
+Schváleno pod čj. 112471/2025-SŽ-GŘ-O11
+dne
+
+            Jiří Svoboda
+            13.11.2025 09:03
+            Podepsáno elektronicky
+
+Bc. Jiří Svoboda, MBA
+generální ředitel
+SŽ D5-3                                                                                   účinnost od 14. prosince 2025
+
+
+
+
+Změny proti předchozímu vydání předpisu SŽ D5-3:
+
+V novém vydání tohoto předpisu byly mimo formálních jazykových, stylistických a grafických
+úprav provedeny následující obsahové a věcné změny:
+
+•      obsah předpisu byl upraven a sjednocen s novelizovaným vydáním předpisu SŽ Z11 Předpis
+       pro obsluhu rádiových a telefonních zařízení;
+
+•      byly aktualizovány a upraveny zásady a podmínky pro zpracování provozních řádů
+       rádiových sítí;
+
+•      byly upraveny a doplněny postupy pro zpracování, schvalování a distribuci provozních řádů
+       rádiových sítí;
+
+•      došlo k úpravě a sjednocení použité terminologie s ostatními aktuálně platnými předpisy
+       a dokumenty ve vztahu k rádiovému provozu.
+
+
+                                                    ANOTACE
+
+Tento předpis upravuje pravidla a postupy pro zpracování doplňujících ustanovení k předpisům
+pro obsluhu telekomunikačních zařízení a provozních řádů rádiových sítí, včetně doporučené
+metodiky jejich zpracování, schvalování a distribuci.
+
+
+                                               KLÍČOVÁ SLOVA
+
+provozní; řád; rádiové; sítě; radiostanice; místní; traťové; doplňující; ustanovení; DU; správce;
+zařízení; servisní; organizace; základní; dopravní; dokumentace; dopravce; PŘ; RS; MRS; TRS;
+kontrolní; operatér; regionu; obsluha; dráha; hlavní; vrchní; hlavní; odpovědný; technika
+
+
+
+
+SŽ D5-3
+Prováděcí pokyny pro tvorbu a zpracování doplňujících ustanovení k předpisům pro obsluhu
+telekomunikačních zařízení a provozních řádů rádiových sítí
+
+
+gestorský útvar:       Správa železnic, státní organizace
+                       generální ředitelství
+                       odbor předpisů a technologie
+                       Praha
+                       spravazeleznic.cz
+rok vydání:            2025
+náklad:                vydáno pouze v elektronické podobě
+
+© Správa železnic, státní organizace, 2025
+Tento dokument je duševním vlastnictvím státní organizace Správa železnic, na které se vztahuje zákon č. 121/2000 Sb.,
+o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění
+pozdějších předpisů. Státní organizace Správa železnic je v uvedené souvislosti rovněž vykonavatelem majetkových práv.
+Tento dokument smí fyzická osoba použít pouze pro svou osobní potřebu, právnická osoba pro svou vlastní vnitřní potřebu.
+Poskytování tohoto dokumentu nebo jeho části v jakékoli formě nebo jakýmkoli způsobem třetí osobě je bez svolení státní
+organizace Správa železnic zakázáno.
+
+
+
+
+2
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+                           ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav
+a změn a za provedení příslušného záznamu.
+
+  oprava/změna a její                                                           opravu/změnu
+                                číslo jednací            účinnost od
+     pořadové číslo                                                               zapracoval
+
+
+
+
+                                                                                                      3
+SŽ D5-3                                                                                                  účinnost od 14. prosince 2025
+
+
+
+
+                                                               OBSAH
+                                                                                                                                    strana
+
+ROZSAH ZNALOSTÍ........................................................................................................................... 5
+ZKRATKY A ZNAČKY.......................................................................................................................... 6
+ČÁST PRVNÍ ZÁKLADNÍ USTANOVENÍ ................................................................................................. 9
+ČÁST DRUHÁ POKYNY PRO ZPRACOVÁNÍ A SCHVALOVÁNÍ DOKUMENTŮ ............................................... 12
+ČÁST TŘETÍ ZÁVĚREČNÁ USTANOVENÍ ............................................................................................. 22
+SOUVISEJÍCÍ DOKUMENTY ............................................................................................................... 23
+Příloha A (normativní) Zásady pro zpracování doplňujících ustanovení ................................................... 24
+Příloha B (informativní) Vzorový příklad zpracovaného doplňujícího ustanovení ...................................... 28
+Příloha C (normativní) Zásady pro zpracování provozních řádů místních rádiových sítí ............................. 37
+Příloha D (informativní) Vzorový příklad zpracovaného provozního řádu místních rádiových sítí ................ 45
+Příloha E (normativní) Zásady pro zpracování provozních řádů traťových rádiových sítí ........................... 61
+Příloha F (informativní) Vzorový příklad zpracovaného provozního řádu traťové rádiové sítě ..................... 68
+
+
+
+
+4
+SŽ D5-3                                                                            účinnost od 14. prosince 2025
+
+
+
+
+                                          ROZSAH ZNALOSTÍ
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci)
+nebo činnost, přičemž:
+
+•        informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+         dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen
+         se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+
+•        úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+         dokumentu, zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen
+         se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+
+•        doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který je
+         v příslušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu
+         do příslušného ustanovení samostatně reprodukovat.
+
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+
+                   pracovní činnost
+                                                                       znalost ustanovení
+                nebo zařazení (funkce)
+
+    zaměstnanci SŽ, kteří zpracovávají doplňující
+    ustanovení k předpisům pro obsluhu
+                                                        úplná: celý předpis
+    telekomunikačních zařízení nebo provozní řády
+    rádiových sítí
+
+    zaměstnanci SŽ, kteří se zabývají normotvornou
+    nebo předpisovou činností vztažné                   úplná: celý předpis
+    k telekomunikačnímu zařízení
+
+    zaměstnanci GŘ určení ředitelem O11 GŘ
+    zaměstnanci OŘ určení ředitelem OŘ
+                                                        úplná: celý předpis
+    zaměstnanci CDP určení ředitelem CDP
+    zaměstnanci PO určení přednostou PO
+
+    zaměstnanci SŽ, kteří mají odpovědnost
+    za správnost a úplnost dodaných podkladů k ZDD
+    nebo ROV, týkající se telekomunikačních zařízení    úplná: celý předpis
+    a souvisejících technologií
+    (v obvodu své působnosti)
+
+    určení zaměstnanci dopravce nebo CPS, který na
+    základě OVKS využívá rádiové sítě provozované SŽ    úplná: čl. 9
+    na ŽDC v obslužné součinnosti se zaměstnanci        informativní: čl. 1, 2, Příloha C
+    řízení provozu
+
+    určení zaměstnanci CPS, který na základě
+    smluvního vztahu se SŽ dodává podklady pro
+    zpracování doplňujících ustanovení k předpisům      úplná: čl. 1, 6-8
+    pro obsluhu telekomunikačních zařízení nebo         informativní: čl. 2
+    provozním řádům rádiových sítí
+    (v obvodu své působnosti)
+
+
+
+
+                                                                                                              5
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+                                               ZKRATKY A ZNAČKY
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto předpisu. V seznamu se neuvádějí
+legislativní zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích,
+příkladech nebo tabulkách.
+
+CDP ............. centrální dispečerské pracoviště
+CPS ............. cizí právní subjekt
+CTD ............. Centrum techniky a diagnostiky
+CZ ............... mezinárodní kódové označení pro Českou republiku
+DT ............... dotykový terminál
+DU ............... doplňující ustanovení k obslužným předpisům (telekomunikačním nebo zabezpečovacím)
+ERMS ........... elektronický systém spisové služby (z angl. Electronic Resource Management System)
+GŘ ............... generální ředitelství
+GSM-R ......... globální systém mobilní komunikace železnice (z angl. Global System for Mobile Communication
+                – Railway)
+HLO ............. hlavní operatér
+HTML. .......... hypertextový značkovací jazyk (z angl. Hypertext Markup Language)
+HDV ............. hnací drážní vozidlo
+HV ............... hnací vozidlo
+HW .............. hardware
+HZS ............. hasičský záchranný sbor
+KOD ............. kontrolní operatér dopravce
+KOO............. kontrolní operatér obsluhy dráhy
+KOR ............. kontrolní operatér regionu
+KOT ............. kontrolní operatér techniky
+MRS ............. místní rádiové sítě
+O11 ............. odbor předpisů a technologie
+O14 ............. odbor zabezpečovací a telekomunikační techniky
+ODO ............ odpovědný operatér
+OJ ............... organizační jednotka
+OŘ ............... oblastní ředitelství
+OS ............... organizační složka
+OVKS ........... Oprávnění k využívání kmitočtů a sítí
+OZR ............. Oprávnění k využívání základnových radiostanic
+OZT ............. oddělení základní technologie O11
+PI ................ provoz infrastruktury
+PMD ............. posun mezi dopravnami
+PO ............... provozní obvod
+PPD ............. Portál provozování dráhy
+PR ............... přenosná radiostanice
+PRO ............. provozní operatér
+PŘ ............... provozní řád
+ROV ............. rozkaz o výluce
+RS ............... rádiová síť
+
+
+
+
+6
+SŽ D5-3                                                            účinnost od 14. prosince 2025
+
+
+
+
+SHV ............. speciální hnací vozidlo
+SMV ............. síť manipulace vlaku
+SRD ............. síť radiodispečerská (v pásmu 450 MHz)
+SRV ............. síť radiodispečerská vlaková (v pásmu 150 MHz)
+SSZT............ správa sdělovací a zabezpečovací techniky
+STE.............. síť technologická
+SW .............. software
+SŽ ............... Správa železnic, státní organizace
+SŽG ............. Správa železniční geodézie
+TOS ............. technická operativní síť
+TRS ............. traťová rádiová síť
+TTP .............. tabulky traťových poměrů
+VKO ............. vrchní kontrolní operatér
+VOS ............. všeobecná operativní síť
+VR ............... vozidlová radiostanice
+ZDD ............. základní dopravní dokumentace
+ZR ............... základnová radiostanice
+ŽDC ............. železniční dopravní cesta
+ŽST ............. železniční stanice
+
+
+
+
+                                                                                              7
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+Generální ředitel schválil podle čl. 14 odst. (1) a čl. 15 Statutu státní organizace Správa železnic
+(dále jednotlivě jen „Statut“ a „SŽ“) tento předpis SŽ D5-3 Prováděcí pokyny pro tvorbu
+a zpracování doplňujících ustanovení k předpisům pro obsluhu telekomunikačních zařízení
+a provozních řádů rádiových sítí.
+
+
+
+
+                                       ČÁST PRVNÍ
+                                  ZÁKLADNÍ USTANOVENÍ
+
+                                          článek 1
+                                      Úvodní ustanovení
+
+(1)   Předpis SŽ D5-3 Prováděcí pokyny pro tvorbu a zpracování doplňujících ustanovení
+      k předpisům pro obsluhu telekomunikačních zařízení a provozních řádů rádiových sítí (dále
+      také „předpis SŽ D5-3“) a jeho přílohy stanovuje zásady, postupy a odpovědnost pro dodání
+      podkladů, zpracování, schvalování a zajištění vyvěšení na Portálu provozování dráhy (dále
+      jen „PPD“) těchto dokumentů:
+
+      a)    doplňujících ustanovení (dále jen „DU“) k předpisům pro obsluhu telekomunikačních
+            zařízení;
+
+      b)    provozní řád (dále jen „PŘ“) místních rádiových sítí (dále jen „MRS“);
+
+      c)    PŘ traťových rádiových sítí (dále jen „TRS“).
+
+(2)   Pokud jsou v textu tohoto předpisu uvedeny odkazy na jiné dokumenty (tj. jiné předpisy
+      nebo technické normy, právní předpisy apod.), rozumí se tímto odkaz na příslušný
+      dokument v platném znění.
+
+(3)   Dodržování ustanovení předpisu SŽ D5-3 je závazné pro každého zaměstnance SŽ, který
+      zpracovává dokumenty dle odst. (1) tohoto článku nebo se podílí na jejich tvorbě.
+
+(4)   Dodržování příslušných ustanovení tohoto předpisu, je závazné i pro všechny subjekty,
+      které se podílejí na tvorbě dokumentů dle odst. (1) tohoto článku nebo mají stanovenou
+      povinnost dodávat k nim potřebné podklady. Pokud není příslušnému subjektu tato
+      závaznost stanovena právním předpisem nebo normou, musí být k dodržování ustanovení
+      předpisu SŽ D5-3 zavázán smluvně.
+
+(5)   Je-li v tomto předpisu (v článku nebo v tabulce), zásadách, postupech a vzorových
+      příkladech pro zpracování příslušného dokumentu uveden text „kurzívou v uvozovkách“,
+      musí zpracovatel tento text do příslušného ustanovení dokumentu použít doslovně, a to
+      v souladu s případnými souvisejícími podmínkami, které jsou k tomuto textu uvedeny.
+
+(6)   Je-li ve vzorových příkladech pro zpracování dokumentů vyplněna tabulka, slouží údaje
+      v této tabulce (kromě záhlaví, které je pevně stanoveno) pouze jako návod nebo vzor
+      pro její vyplňování.
+
+
+
+
+                                                                                                      9
+SŽ D5-3                                                                                      účinnost od 14. prosince 2025
+
+
+
+
+                                                      článek 2
+                                                   Základní pojmy
+
+(1)       Určený zaměstnanec SŽ je pro potřeby tohoto předpisu zaměstnanec, kterému byla
+          povinnost zpracování příslušné části DU (technické nebo provozní) určena jeho pracovní
+          náplní nebo byl na základě své odbornosti, znalostí a pracovního zařazení k takové činnosti
+          určen vedoucím organizační složky (dále jen „OS“), která je za zpracování příslušné části
+          DU odpovědná.
+
+(2)       Správce zařízení je OS1 SŽ, která je mj. odpovědná za správu železničního
+          telekomunikačního majetku, zajišťování technické diagnostiky a měření, technický servis
+          pro železniční infrastrukturu, správu kmitočtového spektra a vydávání Oprávnění
+          k využívání kmitočtů a sítí (dále jen „OVKS“) a Oprávnění k využívání základnových
+          radiostanic (dále jen „OZR“).
+
+(3)       Servisní organizace je právnická osoba, která na základě smluvního vztahu se SŽ provádí
+          v potřebném rozsahu a za stanovených podmínek údržbu a servis určeného
+          telekomunikačního zařízení.
+
+(4)       PŘ MRS je souhrn technických a obslužných podmínek pro používání simplexních rádiových
+          sítí SŽ v příslušném obvodu (provozním [dále jen „PO“] nebo OS). Pro potřeby tohoto
+          předpisu mezi provozované MRS patří:
+
+          a)      všeobecná operativní síť (dále jen „VOS“);
+
+          b)      technická operativní síť (dále jen „TOS“);
+
+          c)      síť manipulace vlaku (dále jen „SMV“);
+
+          d)      síť manipulace vlaku 2 (dále jen „SMV 2“);
+
+          e)      síť technologická (dále jen „STE“);
+
+          f)      taktická síť hasičského záchranného sboru SŽ (dále jen „TSH“).
+
+(5)       PŘ TRS je souhrn technických a obslužných podmínek pro používání příslušného typu TRS
+          jako základního rádiového spojení SŽ na určené trati nebo v její stanovené části či oblasti.
+          Mezi provozované TRS patří:
+
+          a)      síť radiodispečerská vlaková (dále jen „SRV“);
+
+          b)      síť radiodispečerská (dále jen „SRD“);
+
+          c)      globální systém mobilní komunikace železnice (dále jen „GSM-R CZ“).
+
+(6)       Provozní řád rádiových sítí dopravce (dále jen „PŘ RS dopravce“) je souhrn technických
+          a obslužných podmínek pro používání rádiových sítí SŽ dopravcem (mimo SŽ) na určených
+          tratích a v dopravnách. PŘ RS dopravce (mimo SŽ) může obsahovat, v souladu s povolením
+          Českého telekomunikačního úřadu, i technické a obslužné podmínky pro používání
+          rádiových sítí, jejichž provozovatelem není SŽ (např. na vlečce dopravce).
+
+(7)       Vrchní kontrolní operatér (dále jen „VKO“) je zaměstnanec odboru zabezpečovací
+          a telekomunikační techniky (dále jen „O14“), který, na základě pověření náměstkem
+          generálního ředitele pro provozuschopnost dráhy, metodicky řídí činnost ostatních
+          kontrolních operatérů.
+
+
+
+
+1
+    V době schválení tohoto předpisu je správcem rádiových sítí SŽ Centrum techniky a diagnostiky
+
+
+
+
+10
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+(8)   Kontrolní operatér obsluhy dráhy (dále jen „KOO“) je zaměstnanec odboru předpisů
+      a technologie (dále jen „O11“), který, na základě pověření náměstka generálního ředitele
+      pro řízení provozu, je mj. kontaktní osobou ve věci využívání rádiových kmitočtů
+      a provozování rádiových sítí pro účely řízení a organizování drážní dopravy
+      a provozuschopnosti dráhy na železniční dopravní cestě (dále jen „ŽDC“).
+
+(9)   Kontrolní operatér techniky (dále jen „KOT“) je zaměstnanec Centra techniky
+      a diagnostiky (dále jen „CTD“), který, na základě pověření ředitele O14, mj. koordinuje
+      a kontroluje rádiový provoz na ŽDC, a zajišťuje kmitočtové plánování rádiových sítí SŽ;
+
+(10) Kontrolní operatér regionu (dále jen „KOR“) je zaměstnanec oblastního ředitelství (dále
+     jen „OŘ“), hasičského záchranného sboru SŽ (dále jen „HZS“) nebo Správy železniční
+     geodézie (dále jen „SŽG“), který mj. koordinuje a kontroluje rádiový provoz v obvodu
+     své působnosti.
+
+(11) Hlavní operatér (dále jen „HLO“) je pro potřeby tohoto předpisu zaměstnanec SŽ,
+     který mj. koordinuje a kontroluje rádiový provoz v obvodu své působnosti:
+
+      a)    provozní obvod (dále jen „PO“);
+
+      b)    příslušná správa pro provoz infrastruktury (dále jen „PI“) OŘ.
+
+
+
+
+                                                                                                   11
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+                                ČÁST DRUHÁ
+               POKYNY PRO ZPRACOVÁNÍ A SCHVALOVÁNÍ DOKUMENTŮ
+
+                                         článek 3
+                          Základní podmínky pro tvorbu dokumentů
+
+(1)   DU a PŘ rádiových sítí SŽ se zpracovávají pouze v elektronické podobě a pro jejich
+      zpracování v textovém editoru se používá výhradně písmo motivu Verdana.
+
+(2)   Úpravy DU a PŘ rádiových sítí SŽ se provádějí:
+
+      a)       změnou/opravou nebo
+
+      b)       novelizací.
+
+(3)   Určení odpovědnosti za zpracování, odsouhlasení, ověření a schválení DU a PŘ rádiových
+      sítí SŽ je uvedeno v tabulce 1.
+
+                          tabulka 1 – Stanovení odpovědnosti za proces zpracování,
+                               odsouhlasení, ověření a schvalování dokumentů
+
+
+                                                odsouhlasení za část
+                                                                                                 schvaluje
+                              zpracuje                                          ověřuje
+            označení                                                                                 2
+                                                                                                       )
+                                              technickou        provozní
+           dokumentu
+                                   1.              2.              3.              4.                5.
+
+                             určený         určený                          určený
+          DU                 zaměstnanec    zaměstnanec              -      zaměstnanec        ředitel OS 1)
+                             OS 1)          správce zařízení                OS 1)
+
+          PŘ MRS PO          HLO PO                                  -
+                                                                            KOR OŘ             ředitel OŘ
+          PŘ MRS PI          HLO PI                                  -
+
+          PŘ MRS HZS                                                                           ředitel HZS
+                             KOR HZS SŽ                              -      KOO
+          SŽ                                                                                   SŽ
+                                            KOT
+          PŘ MRS SŽG         KOR SŽG                                 -      KOO                ředitel SŽG
+
+          PŘ SRD
+                             KOR OŘ                            KOO
+                                                                            vedoucí OZT
+          PŘ SRV                                                                               ředitel O11
+                                                                            O11
+          PŘ GSM-R CZ        KOO            VKO                      -
+
+          Poznámky k tabulce 1:
+              •  1
+                   ) dle OS, která odpovídá za zpracování a vydání DU;
+              •  2
+                   ) elektronický podpis musí být ztvárněn na určeném místě titulní strany;
+              •  pořadí úkonů (1. až 5.) určené v záhlaví tabulky musí být vždy dodrženo.
+
+
+(4)   Proces schvalování DU a PŘ rádiových sítí SŽ musí probíhat v souladu s předpisem SŽ R2
+      Spisový řád státní organizace Správa železnic a prostřednictvím elektronického systému
+      spisové služby SŽ (dále jen „ERMS“).
+
+(5)   Každý dokument, vytvořený podle tohoto předpisu (DU nebo PŘ SŽ), musí být vyřízen
+      v ERMS příslušným zpracovatelem, který zodpovídá za jeho včasné a správné vyřízení.
+
+(6)   Číslo jednací generuje ERMS. Je zakázáno vygenerované číslo jednací jakkoli upravovat.
+
+(7)   Pod pojmy „odsouhlasí“, „ověřuje“ a „schvaluje“ dle tab. 1 se v rámci schvalování DU a PŘ
+      rádiových sítí SŽ rozumí proces, při kterém příslušný zaměstnanec potvrdí svým
+      elektronickým podpisem v ERMS souhlasné stanovisko s vydáním dokumentu.
+
+
+
+
+12
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+(8)   Strukturu zásad uvedených v tomto předpisu pro zpracování obsahu DU a PŘ SŽ tvoří:
+
+      a)       základní zásady pro zpracování článku nebo přílohy;
+
+      b)       upřesňující pokyny a vysvětlení pro zpracování článku nebo přílohy;
+
+      c)       vzorový příklad zpracovaného dokumentu.
+
+(9)   U obsahových částí (dle zásad pro zpracování dokumentů), které nejsou v DU
+      nebo příslušném PŘ obsahově využity, musí být zachován název článku nebo odstavce
+      dle struktury dokumentu a obsah textu musí být nahrazen slovem „Neobsazeno“.
+
+(10) V případě potřeby je v obsahové části dokumentu dovoleno používat zvýraznění důležitého
+     textu tučným písmem nebo podtržením, přičemž základní členění DU nebo PŘ tím nesmí
+     být narušeno.
+
+(11) Titulní list DU nebo PŘ SŽ musí být vytvořen v souladu s příslušným vzorem pro jeho
+     zpracování a musí obsahovat:
+
+      •        záhlaví s logem SŽ v barevném provedení;
+
+      •        název dokumentu, tedy „Provozní řád“ nebo „Doplňující ustanovení“;
+
+      •        ostatní údaje popisující dokument a jeho specifikaci, a to dle zásad pro zpracování
+               DU a PŘ;
+
+      •        obvod působnosti dokumentu;
+
+      •        uvedení OS, která dokument vydává;
+
+      •        číslo jednací, datum účinnosti, údaj pro případnou změnu a datum její účinnosti
+               a počet stran;
+
+      •        údaje o schvalovateli a zpracovateli dokumentu.
+
+      Vzorové příklady titulních listů jsou součástí vzorových příkladů zpracovaných dokumentů
+      v jednotlivých přílohách.
+
+(12) V záhlaví každé strany (kromě titulní strany) musí být uvedeno:
+
+      a)       v levé části:
+
+               •     název dokumentu zkratkou (např. PŘ MRS PO Kolín, PŘ SRV, PŘ GSM-R CZ);
+
+      b)       v pravé části:
+
+               •     slova „účinnost od“ a doplní se datum ve formátu DD. měsíc RRRR nebo
+
+               •     slova „účinnost od“ a doplní se číslem rozkazu o výluce (dále jen „ROV“)
+                     s příslušnou etapou (pokud je účinnost vázána na splnění podmínek výluky
+                     nebo aktivaci příslušného zařízení).
+
+
+
+
+          obrázek 1 – Vzorový příklad záhlaví každé strany (kromě titulní strany) pro PŘ MRS
+
+(13) Postup a zásady pro zpracování DU jsou uvedeny v Příloze A. Vzorový příklad zpracovaného
+     DU je uveden v Příloze B.
+
+(14) Postup a zásady pro zpracování PŘ MRS a PŘ TRS jsou součástí Přílohy C, resp. E. Vzorové
+     příklady zpracovaných PŘ MRS a PŘ TRS jsou součástí Přílohy D, resp. F.
+
+
+
+
+                                                                                                     13
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+(15) DU, PŘ MRS a PŘ TRS dle tohoto předpisu musí být vydány (vyvěšeny na PPD) min 15 dnů
+     před datem jejich účinnosti (tato podmínka platí i pro vydání opravy či změny). Výjimku
+     z tohoto ustanovení povoluje KOO.
+
+                                      článek 4
+             Úprava doplňujících ustanovení a provozních řádů novelizací
+
+(1)     Novelizací se pro účely tohoto předpisu rozumí vydání nového dokumentu, jímž je stávající
+        dokument nahrazen v plném rozsahu.
+
+(2)     Novelizovaný dokument musí mít přiděleno nové číslo jednací.
+
+(3)     V novelizovaném dokumentu musí být v příslušném článku (dle zásad pro jeho zpracování)
+        uvedeno, že stávající dokument v platném znění se ruší, včetně uvedení jeho plného názvu,
+        čísla jednacího, data vydání a účinnosti.
+
+(4)     Pro zpracování novelizovaného dokumentu platí v plném rozsahu ustanovení čl. 3.
+
+                                     článek 5
+      Úprava doplňujících ustanovení a provozních řádů změnou nebo opravou
+
+(1)     Opravou se rozumí formální úprava dokumentu, kterou se:
+
+        a)    odstraní chyby vzniklé při grafické úpravě;
+
+        b)    nahradí nesprávná označení předpisů, dokumentů, norem apod;
+
+        c)    nahradí nesprávné názvy organizačních míst ve struktuře SŽ.
+
+(2)     Změnou se rozumí věcná úprava dokumentu, kterou se jeho znění udržuje v souladu
+        s právními předpisy, technickými předpisy, technickými normami či jinými vnitřními
+        předpisy, a kterou dochází k doplnění, náhradě nebo zrušení některých jeho ustanovení.
+        Změnu lze užít pouze v případě, kdy nedochází k podstatnému snížení srozumitelnosti
+        úpravy.
+
+(3)     Každá změna nebo oprava DU nebo PŘ SŽ se čísluje pořadovým číslem a každá změna
+        nebo oprava musí mít přidělené samostatné číslo jednací, které se uvádí do části ZÁZNAMY
+        O OPRAVÁCH A ZMĚNÁCH.
+
+
+
+
+                       obrázek 2 – Vzorový příklad zápisu změny dokumentu
+
+(4)     Červeně se do záznamů o změně nebo opravě dokumentu uvádí vždy aktuální (poslední)
+        provedená změna/oprava. Předchozí provedené změny/opravy dokumentu se v záznamech
+        o změnách či opravách změní na černou barvu.
+
+(5)     Na titulní straně se ponechává původní číslo jednací a účinnost dokumentu černou barvou.
+        Červeně se doplní aktuálně přidělené číslo pro příslušnou změnu nebo opravu a datum její
+        účinnosti nebo číslo rozkazu o výluce (dále jen „ROV“) a příslušná etapa (pokud je účinnost
+        vázána na splnění podmínek výluky nebo aktivaci příslušného zařízení).
+
+
+
+
+14
+SŽ D5-3                                                                     účinnost od 14. prosince 2025
+
+
+
+
+                obrázek 3 – Vzorový příklad zápisu o změně na titulní straně PŘ MRS
+
+(6)   V záhlaví každé strany (kromě titulní strany) se vlevo, pod označení dokumentu, uvede
+      červeně text „ve znění změny“ nebo „ve znění opravy“ a doplní se pořadovým číslem (např.
+      č. 1). V pravé části, pod datum účinnosti dokumentu, se červeně uvede datum účinnosti
+      změny/opravy nebo se účinnost stanoví číslem ROV s příslušnou etapou (pokud je účinnost
+      vázána na splnění podmínek výluky nebo aktivaci příslušného zařízení).
+
+
+
+
+          obrázek 4 – Vzorový příklad záhlaví každé strany se zapracovanou změnou PŘ MRS
+
+(7)   Ve změněném nebo opravovaném dokumentu se:
+
+      a)       Nově doplněný nebo nahrazený text zvýrazní písmem červené barvy.
+
+      b)       Text, který byl zrušen bez náhrady nezvýrazňuje, v příslušném odstavci se však
+               písmem červené barvy zvýrazní poslední slovo před zrušeným textem a první slovo
+               za zrušeným textem; s posledním/prvním zvýrazněným slovem se zvýrazní rovněž
+               příslušné předložky nebo spojky.
+
+      c)       U textu, který bude rušen na konci článku nebo části, zvýrazní červeně poslední slovo
+               před zrušeným textem.
+
+      d)       Všechny předchozí změny či opravy v dokumentu označí černou barvou.
+
+      e)       Navazující obsah posune adekvátně směrem dolů nebo nahoru, a to v případě,
+               že text změny či opravy bude svým rozsahem větší nebo menší než původní text.
+
+      f)       Celkový nový počet stránek upraví červeně na titulní straně a červenou barvou musí
+               být opravena i čísla stránek jednotlivých ustanovení dokumentu v části OBSAH, a to
+               vždy, když dojde při změně či opravě dokumentu ke změně, zvětšení nebo zmenšení
+               počtu stránek. Čísla stránek na jednotlivých listech se v takovém případě ponechají
+               vždy černou barvou.
+
+(8)   Při změně nebo opravě dokumentu se vždy zpracovává a vydává pouze tzv. konsolidované
+      (sjednocené) znění dokumentu, tedy poslední verze se zapracovanou změnou či opravou.
+      Změna či oprava se pro žádný dokument dle tohoto předpisu samostatně nezpracovává
+      a nevydává.
+
+
+
+
+                                                                                                      15
+SŽ D5-3                                                                účinnost od 14. prosince 2025
+
+
+
+
+                                      článek 6
+                         Vypracování doplňujících ustanovení
+                            pro telekomunikační zařízení
+
+(1)   Na titulní straně musí být uveden:
+
+      a)    text „Doplňující ustanovení“;
+
+      b)    název vztažného předpisu, k němuž je DU vydáváno;
+
+      c)    úplný název telekomunikačního zařízení (zpravidla podle názvu definovaným
+            výrobcem zařízení);
+
+      d)    obvod působnosti DU.
+
+(2)   DU zpracuje určený zaměstnanec SŽ na základě podkladů vlastních a dodaných správcem
+      zařízení. Zpracovatel také odpovídá za správnou definici obslužných rozdílů a jejich
+      provozního využití ve vztahu k příslušnému předpisu pro obsluhu telekomunikačního
+      zařízení a zajišťuje vydání, distribuci, provádění změn či oprav a archivaci DU.
+
+(3)   Každé DU (nebo jeho změna), které má vliv na postup obsluhy telekomunikačního zařízení,
+      které ovládá TRS, musí být ověřena podle předpisu SŽ Zam1 Předpis o odborné způsobilosti
+      a znalosti osob při provozování dráhy a drážní dopravy příslušnou zkouškou praktické
+      způsobilosti, a to vždy na základě rozhodnutí zpracovatele, které uvede v DU. Zpracovatel
+      zajistí proces schvalování DU v souladu s ustanovením tabulky 1.
+
+(4)   Zpracovatel DU je kromě podmínek stanovených tímto předpisem odpovědný i za vyvěšení
+      schváleného DU na příslušné elektronické adrese ve složce „RÁDIOVÝ PROVOZ“ na Portálu
+      provozování dráhy (dále jen „PPD“) a předání odkazu (formou HTML odkazu) na tuto adresu
+      všem dotčeným OS, jichž se DU týká. Stejné podmínky platí i v případě prováděných změn
+      či oprav DU.
+
+(5)   Pokud se rozsah DU týká pouze obvodu jedné OS (např. jednoho OŘ), zajišťuje jeho
+      zpracování a vydání příslušná OS. Pokud se rozsah DU týká obvodů více OS, rozhodne
+      o zpracovateli (určení OS) KOO O11 GŘ po dohodě s VKO a příslušnými KOR.
+
+(6)   Pokud se žádné popisné ustanovení nebo obslužný postup daného telekomunikačního
+      zařízení nevztahuje k ustanovení platných dokumentů nebo předpisů (nový typ
+      telekomunikačního zařízení, které je zavedeno a schváleno), nebude DU zpracováváno,
+      ale pro obslužné použití uvedeného zařízení bude v souladu s příslušným předpisem vydáno
+      typové rozšíření. Vydání typové rozšíření zajišťuje gestorský útvar příslušného předpisu
+      pro obsluhu telekomunikačního zařízení v souladu s předpisem SŽ N1 Tvorba a vydávání
+      vnitřních předpisů a služebních rukovětí státní organizace Správa železnic (dále jen „SŽ
+      N1“).
+
+(7)   Název (označení) souboru v elektronické podobě (ve formátu pdf) je pro DU stanoveno
+      takto:
+
+      a)    DU_ … (název vztažného předpisu) … (název zařízení) … (název dopravny/úseku/
+            obvodu pro nějž DU platí);
+
+            PŘÍKLAD    DU_SŽ Z11_RVS 5_OŘ Ostrava;
+
+      b)    při změně/opravě DU se za název souboru doplní číslo změny či opravy;
+
+            PŘÍKLAD    DU_SŽ Z11_RVS 5_OŘ Ostrava_změna č. 1
+
+      c)    na PPD se do popisu dokumentu uvede datum účinnosti DU.
+
+
+
+
+16
+SŽ D5-3                                                                 účinnost od 14. prosince 2025
+
+
+
+
+                                    článek 7
+                Vypracování provozních řádů místních rádiových sítí
+
+(1)   PŘ MRS OS SŽ musí být vždy zpracován v souladu s tímto předpisem, předpisy SŽ T7
+      Rádiový provoz (dále jen „SŽ T7“) a SŽ Z11 Předpis pro obsluhu rádiových a telefonních
+      zařízení (dále jen „SŽ Z11“), popř. v souladu s dalšími vztažnými dokumenty a předpisy,
+      a musí být rovněž zpracován dle platného OZR a OVKS, vydanými pro dotčenou oblast,
+      obvod nebo OS SŽ.
+
+(2)   PŘ MRS PO:
+
+      a)   zpracovatelem PŘ je určený zaměstnanec PO, zpravidla ve funkci HLO;
+
+      b)   zpracovatel PŘ musí dodržet tento postup:
+
+           1.      zpracuje PŘ v souladu se zásadami dle Přílohy C a na základě podkladů
+                   vlastních a dodaných správcem zařízení;
+
+                   •     v případech, kdy zpracovateli dodá podklady servisní organizace, je
+                         za jejich správnost, aktuálnost a rozsah odpovědný vždy správce
+                         zařízení, který musí dodané podklady na vyžádání zpracovatele schválit;
+
+           2.      při zpracování PŘ musí dodržet podmínky dle odst. (1) tohoto článku;
+
+                   •     podmínky stanovené v OZR a OVKS dodá zpracovateli příslušný KOR OŘ;
+
+           3.      v případě potřeby obslužné součinnosti zaměstnance SŽ (výpravčí, traťový
+                   dispečer, signalista apod.) na provozu simplexní rádiové sítě SŽ určené
+                   pro výhradní provoz dopravce v příslušné dopravně nebo oblasti (zpravidla
+                   STE), musí od příslušného kontrolního operátora dopravce (dále jen „KOD“)
+                   obdržet podklady pro zpracování dotčených MRS;
+
+           4.      zpracování PŘ koordinuje s KOR OŘ;
+
+           5.      zpracovaný návrh PŘ převede do nepřepisovatelného formátu, a to pod
+                   názvem stanoveným předpisem SŽ D5 Předpis pro tvorbu a zpracování
+                   základní dopravní dokumentace (dále jen „SŽ D5“) pro zveřejňování základní
+                   dopravní dokumentace (dále jen „ZDD“);
+
+           6.      prostřednictvím ERMS zajistí proces schvalování PŘ v souladu s ustanovením
+                   tabulky 1;
+
+           7.      nově schválenou verzi PŘ následně bezodkladně dodá příslušnému KOR OŘ,
+                   který zajistí její vyvěšení ve složce „RÁDIOVÝ PROVOZ“ na PPD;
+
+                   •     při vyvěšování nově schválené verze PŘ na PDD musí KOR OŘ vždy
+                         označit položku „zahrnout do novinek s potvrzením“;
+
+           8.      předá formou hypertextového (dále jen „HTML“) odkazu elektronickou adresu
+                   uložení PŘ zaměstnancům OŘ, kteří zajišťují správu příslušné ZDD na PPD;
+
+                   •     podmínka pro odeslání HTML odkazu neplatí v případě, že vydáním
+                         změny, opravy nebo novelizace PŘ nedochází ke změně elektronické
+                         adresy uložení PŘ na PPD;
+
+                   •     na případnou změnu uložení PŘ upozorní zpracovatele příslušný KOR OŘ
+                         při vyvěšování PŘ na PPD;
+
+           9.      zajistí předání informace o vydání nově schválené verze PŘ MRS PO dotčeným
+                   zaměstnancům PO, jichž se PŘ týká.
+
+
+
+
+                                                                                                  17
+SŽ D5-3                                                               účinnost od 14. prosince 2025
+
+
+
+
+(3)   PŘ MRS pro provoz infrastruktury OŘ:
+
+      a)   rozhodnutí o vypracování PŘ podle jednotlivých správ nebo společného PŘ
+           pro všechny správy provozu infrastruktury OŘ je plně v kompetenci KOR OŘ;
+
+      b)   zpracovatelem PŘ je určený zaměstnanec OŘ, zpravidla ve funkci HLO;
+
+      c)   zpracovatel PŘ musí dodržet tento postup:
+
+           1.    zpracuje PŘ v souladu se zásadami dle Přílohy C a na základě podkladů
+                 vlastních a dodaných správcem zařízení;
+
+                 •     v případech, kdy zpracovateli dodá podklady servisní organizace, je
+                       za jejich správnost, aktuálnost a rozsah odpovědný vždy správce
+                       zařízení, který musí dodané podklady na vyžádání zpracovatele schválit;
+
+           2.    při zpracování PŘ musí dodržet podmínky dle odst. (1) tohoto článku;
+
+                 •     podmínky stanovené v OZR a OVKS dodá zpracovateli příslušný KOR OŘ;
+
+           3.    zpracování PŘ koordinuje s KOR OŘ;
+
+           4.    zpracovaný návrh PŘ převede do nepřepisovatelného formátu, a to pod
+                 názvem stanoveným předpisem SŽ D5 pro zveřejňování ZDD;
+
+           5.    prostřednictvím ERMS zajistí proces schvalování PŘ v souladu s ustanovením
+                 tabulky 1;
+
+           6.    nově schválenou verzi PŘ následně bezodkladně dodá příslušnému KOR OŘ,
+                 který zajistí její vyvěšení ve složce „RÁDIOVÝ PROVOZ“ na PPD;
+
+                 •     při vyvěšování nově schválené verze PŘ na PDD musí KOR OŘ vždy
+                       označit položku „zahrnout do novinek s potvrzením“;
+
+           7.    předá formou HTML odkazu elektronickou adresu uložení PŘ zaměstnancům
+                 OŘ, kteří zajišťují správu příslušné ZDD na PPD;
+
+                 •     podmínka pro odeslání HTML odkazu neplatí v případě, že vydáním
+                       změny, opravy nebo novelizace PŘ nedochází ke změně elektronické
+                       adresy uložení PŘ na PPD;
+
+                 •     na případnou změnu uložení PŘ upozorní zpracovatele příslušný KOR OŘ
+                       při vyvěšování PŘ na PPD;
+
+           8.    zajistí předání informace o vydání nově schválené verze PŘ dotčeným
+                 zaměstnancům OŘ (příslušných správ), jichž se PŘ týká;
+
+(4)   PŘ MRS HZS a PŘ MRS SŽG:
+
+      a)   zpracovatelem PŘ MRS HZS SŽ je KOR HZS SŽ, zpracovatelem PŘ MRS SŽG je KOR
+           SŽG.
+
+      b)   zpracovatel PŘ musí dodržet tento postup:
+
+           1.    zpracuje PŘ v souladu se zásadami dle Přílohy C a na základě podkladů
+                 vlastních a dodaných správcem zařízení;
+
+           2.    v případech, kdy zpracovateli dodá podklady servisní organizace, je za jejich
+                 správnost, aktuálnost a rozsah odpovědný vždy správce zařízení, který musí
+                 dodané podklady na vyžádání zpracovatele schválit;
+
+           3.    při zpracování PŘ musí dodržet podmínky dle odst. (1) tohoto článku;
+
+
+
+
+18
+SŽ D5-3                                                                 účinnost od 14. prosince 2025
+
+
+
+
+           4.     zpracování PŘ koordinuje s KOO;
+
+           5.     zpracovaný návrh PŘ převede do nepřepisovatelného formátu, a to pod
+                  názvem stanoveným předpisem SŽ D5 pro zveřejňování ZDD;
+
+           6.     prostřednictvím ERMS zajistí proces schvalování PŘ v souladu s ustanovením
+                  tabulky 1;
+
+           7.     nově schválenou verzi PŘ následně bezodkladně dodá KOO, který zajistí její
+                  vyvěšení ve složce „RÁDIOVÝ PROVOZ“ na PPD;
+
+                  •      při vyvěšování nově schválené verze PŘ na PDD musí KOO vždy označit
+                         položku „zahrnout do novinek s potvrzením“;
+
+           8.     zajistí předání informace o vydání nově schválené verze PŘ dotčeným
+                  zaměstnancům HZS SŽ, resp. SŽG, jichž se PŘ týká.
+
+                                     článek 8
+                Vypracování provozních řádů traťových rádiových sítí
+
+(1)   PŘ SRV a PŘ SRD:
+
+      a)   zpracovatelem PŘ je místně příslušný KOR OŘ, do jehož obvodu traťový úsek
+           vybavený příslušnou TRS patří;
+
+      b)   pokud oblast působnosti PŘ zasahuje do více obvodů OŘ, zpracují společný PŘ
+           příslušní KOR na základě vzájemné dohody, přičemž na titulní straně PŘ budou
+           uvedeni jako zpracovatelé oba KOR (všichni KOR, kteří se na zpracování podíleli)
+           a KOO následně rozhodne, které OŘ bude vydavatelem PŘ, a který KOR tak bude
+           odpovědný za konečné zpracování PŘ, zajištění schvalovacího procesu a vydání,
+           včetně zajištění zpracování následných změn, oprav nebo novelizace PŘ;
+
+      c)   zpracovatel PŘ musí dodržet tento postup:
+
+           1.     zpracuje PŘ v souladu se zásadami dle Přílohy E a na základě podkladů
+                  vlastních a dodaných správcem zařízení;
+
+                  •      v případech, kdy zpracovateli dodá podklady servisní organizace, je
+                         za jejich správnost, aktuálnost a rozsah odpovědný vždy správce
+                         zařízení, který musí dodané podklady na vyžádání zpracovatele schválit;
+
+           2.     při zpracování PŘ musí dodržet podmínky předpisů SŽ T7 a SŽ Z11 a dalších
+                  vztažných dokumentů a směrnic, včetně OZR a OVKS;
+
+           3.     zpracování PŘ koordinuje s KOO, případně s KOT;
+
+           4.     zpracovaný návrh PŘ převede do nepřepisovatelného formátu,                  a   to
+                  pod názvem stanoveným předpisem SŽ D5 pro zveřejňování ZDD;
+
+           5.     prostřednictvím ERMS zajistí proces schvalování PŘ v souladu s ustanovením
+                  tabulky 1;
+
+           6.     nově schválenou verzi PŘ následně bezodkladně vyvěsí ve složce „RÁDIOVÝ
+                  PROVOZ“ na PPD;
+
+                  •      při vyvěšování nově schválené verze PŘ na PDD musí vždy označit
+                         položku „zahrnout do novinek s potvrzením“;
+
+           7.     předá formou HTML odkazu elektronickou adresu uložení PŘ zaměstnancům
+                  OŘ, kteří zajišťují správu příslušné ZDD na PPD;
+
+
+
+
+                                                                                                  19
+SŽ D5-3                                                                účinnost od 14. prosince 2025
+
+
+
+
+                  •    podmínka pro odeslání HTML odkazu neplatí v případě, že vydáním
+                       změny, opravy nebo novelizace PŘ nedochází ke změně elektronické
+                       adresy uložení PŘ na PPD;
+
+                  •    v případě potřeby změny uložení nebo nového začlenění elektronické
+                       adresy PŘ SRV nebo PŘ SRD na PPD ve složce „RÁDIOVÝ PROVOZ“
+                       (např. z důvodu sloučení nebo rozdělení adresných položek s číslem tratí
+                       dle tabulek traťových poměrů [dále jen „TTP“]), sjedná potřebnou
+                       úpravu po dohodě s KOO;
+
+      d)   zajistí předání informace o vydání nově schválené verze PŘ SRV nebo PŘ SRD
+           dotčeným OS, jichž se PŘ týká.
+
+(2)   PŘ GSM-R CZ:
+
+      a)   zpracovatelem PŘ je KOO;
+
+      b)   zpracovatel PŘ musí dodržet tento postup:
+
+           1.     zpracuje PŘ v souladu se zásadami dle Přílohy E a na základě podkladů
+                  vlastních, dodaných správcem zařízení nebo předložených jednotlivými KOR
+                  a HLO příslušného Centrálního dispečerského pracoviště (dále jen „CDP“);
+
+                  •    v případech, kdy zpracovateli dodá podklady servisní organizace, je
+                       za jejich správnost, aktuálnost a rozsah odpovědný vždy správce
+                       zařízení, který musí dodané podklady na vyžádání zpracovatele schválit;
+
+           2.     při zpracování PŘ musí dodržet podmínky předpisů SŽ T7 a SŽ Z11,
+                  technických specifikací pro provoz sítě GSM-R a dalších vztažných dokumentů
+                  a směrnic;
+
+           3.     zpracování PŘ koordinuje s VKO;
+
+           4.     zpracovaný návrh PŘ převede nepřepisovatelného do formátu, a to pod
+                  názvem stanoveným předpisem SŽ D5 pro zveřejňování ZDD;
+
+           5.     prostřednictvím ERMS zajistí proces schvalování PŘ v souladu s ustanovením
+                  tabulky 1;
+
+           6.     nově schválenou verzi PŘ následně bezodkladně vyvěsí ve složce „RÁDIOVÝ
+                  PROVOZ“ na PPD;
+
+                  •    při vyvěšování nově schválené verze PŘ na PDD musí vždy označit
+                       položku „zahrnout do novinek s potvrzením“;
+
+           7.     předá formou HTML odkazu elektronickou adresu uložení PŘ zaměstnancům
+                  OŘ, kteří zajišťují správu příslušné ZDD na PPD;
+
+                  •    podmínka pro odeslání HTML odkazu neplatí v případě, že vydáním
+                       změny, opravy nebo novelizace PŘ nedochází ke změně elektronické
+                       adresy uložení PŘ na PPD;
+
+           8.     zajistí předání informace o vydání nově schválené verze PŘ GSM-R CZ
+                  dotčeným OS, jichž se PŘ týká.
+
+                                    článek 9
+                Vypracování provozních řádů rádiových sítí dopravce
+
+(1)   Dopravce (mimo SŽ), který využívá na základě platného OVKS (OZR) rádiové sítě SŽ
+      vyhotovuje PŘ dle vnitřních podmínek a interních předpisů vlastní organizace.
+      Pro zpracování PŘ může dopravce využít zásady a podmínky uvedené v tomto předpisu,
+      a to v potřebném rozsahu a obsahu.
+
+
+
+
+20
+SŽ D5-3                                                                   účinnost od 14. prosince 2025
+
+
+
+
+(2)   PŘ rádiových sítí dopravce (mimo SŽ):
+
+      a)     zpracování PŘ zajišťuje KOD v souladu s ustanovením předpisů SŽ T7 a SŽ Z11, popř.
+             dle dalších vztažných dokumentů a směrnic SŽ a na základě platného OVKS,
+             příp. i OZR (pokud bylo pro dopravce vydáno);
+
+      b)     v případě potřeby obslužné součinnosti zaměstnance SŽ (výpravčí, dispečer,
+             signalista apod.) na provozu simplexní rádiové sítě SŽ určené pro výhradní provoz
+             dopravce v příslušné dopravně nebo oblasti (např. STE, SPZ), je KOD povinen zajistit
+             koordinaci postupu zpracování souvisejícího obsahu s příslušným KOR a následně
+             dodat potřebné podklady zpracovateli dotčeného PŘ MRS PO tak včas, aby bylo
+             možné stanovit vhodný termín účinnosti PŘ MRS PO;
+
+             •     v případě neshody mezi KOR a KOD při stanovení správného technologického
+                   postupu použití příslušné rádiové sítě nebo v případě jiné související
+                   problematice radioprovozu v souvislosti se součinnostním zpracováním PŘ RS
+                   dopravce a PŘ MRS, rozhodne o dalších opatřeních KOO;
+
+      c)     vypracovaný PŘ předá KOD v elektronické podobě (ve formátu pdf) KOO, který zajistí
+             jeho vyvěšení ve složce „RÁDIOVÝ PROVOZ“ na PPD;
+
+      d)     rozhodnutí o provedení a vydání změn, oprav nebo novelizaci PŘ a způsob jejich
+             provedení, je plně v kompetenci dopravce.
+
+(3)   Obdobné podmínky pro zpracování a vydání PŘ rádiových sítí dle tohoto článku, platí
+      v potřebném rozsahu i pro cizí právní subjekty (dále jen „CPS“), který je držitelem OVKS
+      vydaným pro provoz rádiových sítí SŽ.
+
+                                    článek 10
+           Další podmínky pro vypracování provozních řádů rádiových sítí
+
+(1)   Všechny PŘ rádiových sítí, jejichž provozovatelem je SŽ, musí být v aktuální
+      a plnohodnotné elektronické verzi uloženy dle zásad uvedených v tomto předpisu pouze
+      ve složce „RÁDIOVÝ PROVOZ“ na PPD. Ukládání duplikátů PŘ do jiných částí PPD
+      nebo pod jiným názvem souboru je zakázáno!
+
+(2)   PŘ rádiových sítí dle zásad tohoto předpisu zpracovává a vydává pouze OS SŽ, která je
+      držitelem OVKS a OZR (pokud bylo pro provoz ZR vydáno).
+
+(3)   Ukončení platnosti PŘ rádiových sítí, jejichž zpracovatelem je příslušná OS SŽ, je zpravidla
+      uvedeno v novelizovaném vydání tohoto PŘ. To se týká i případů, kdy dochází ke sloučení
+      rádiových sítí do společné oblasti, úseku nebo obvodu, a je vydáván nový (společný) PŘ.
+
+      •      Pokud tuto podmínku nelze splnit, např. z důvodu ukončení provozu rádiové sítě,
+             pro kterou je PŘ vydán, musí být platnost PŘ ukončena ROV, jehož se ukončení
+             provozu rádiové sítě týká (zpravidla ROV pro aktivaci rádiové sítě, která dotčenou
+             rádiovou síť nahrazuje).
+
+
+
+
+                                                                                                    21
+SŽ D5-3                                                                   účinnost od 14. prosince 2025
+
+
+
+
+                                                 ČÁST TŘETÍ
+                                           ZÁVĚREČNÁ USTANOVENÍ
+
+                                                  článek 11
+                                             Zmocňovací ustanovení
+
+(1)       Změny nebo doplňky předpisu SŽ D5-3 schvaluje generální ředitel SŽ.
+
+(2)       K vydávání výjimek z předpisu SŽ D5-3 je zmocněn jeho gestorský útvar2. Z ustanovení,
+          která vyplývají z obecně závazných právních předpisů, není možno výjimky udělovat.
+
+(3)       Pro povolování výjimek z předpisu SŽ D5-3 a zpracování žádostí o výjimky platí v plném
+          rozsahu vztažná ustanovení předpisu SŽ N1.
+
+(4)       Oprávněným k podávání výkladu k ustanovením předpisu SŽ D5-3 je jeho gestorský útvar.
+
+                                                    článek 12
+                                               Zrušovací ustanovení
+
+          Dnem účinnosti tohoto předpisu se zrušuje předpis SŽ D5-3 Prováděcí pokyny pro tvorbu
+          a zpracování doplňujících ustanovení k předpisům pro obsluhu telekomunikačních zařízení
+          a provozních řádů rádiových sítí, schválený generálním ředitelem SŽ dne 7. června 2022,
+          pod čj. 38679/2022-SŽ-GŘ-O11, vydaný s účinností od 1. července 2022.
+
+                                                   článek 13
+                                              Závěrečná ustanovení
+
+          Předpis SŽ D5-3 nabývá platnosti zveřejněním v elektronické knihovně dokumentů
+          a předpisů (eDAP) a účinnosti dne 14. prosince 2025.
+
+
+
+
+2
+    V době schválení tohoto předpisu je to odbor předpisů a technologie
+
+
+
+
+22
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+                                    SOUVISEJÍCÍ DOKUMENTY
+Mezinárodní a národní právní předpisy, technické normy, ve znění pozdějších předpisů
+
+Zákon ČNR č. 133/1985 Sb., o požární ochraně, ve znění pozdějších předpisů
+
+Zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů
+
+Zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů
+
+Vyhláška Ministerstva dopravy č. 100/1995 Sb., kterou se stanoví podmínky pro provoz, konstrukci a výrobu
+určených technických zařízení a jejich konkretizace (Řád určených technických zařízení), ve znění pozdějších
+předpisů
+
+Vyhláška Ministerstva dopravy č. 173/1995 Sb., kterou se vydává dopravní řád drah, ve znění pozdějších
+předpisů
+
+Vyhláška Ministerstva dopravy č. 177/1995 Sb., kterou se vydává stavební a technický řád drah, ve znění
+pozdějších předpisů
+
+Vnitřní předpisy, v aktuálním znění
+
+SŽ D1 Dopravní a návěstní předpis
+
+SŽ D3 Předpis pro zjednodušené řízení drážní dopravy
+
+SŽ D4 Předpis pro řízení drážní dopravy na tratích vybavených radioblokem
+
+SŽ D5 Předpis pro tvorbu a zpracování základní dopravní dokumentace
+
+SŽ D5-1 Prováděcí pokyny pro tvorbu a zpracování staničních řádů, obsluhovacích řádů, prováděcích nařízení,
+přípojových provozních řádů, provozních řádů vleček
+
+SŽ D5-2 Prováděcí pokyny pro tvorbu a zpracování doplňujících ustanovení k předpisům pro obsluhu
+zabezpečovacích zařízení
+
+SŽ N1 Tvorba a vydávání vnitřních předpisů a služebních rukovětí státní organizace Správa železnic
+
+SŽ R2 Spisový řád státní organizace Správa železnic
+
+SŽ T1 Telefonní provoz
+
+SŽ T7 Rádiový provoz
+
+SŽ T100 Předpis pro provozování zabezpečovacích zařízení
+
+SŽ Z11 Předpis pro obsluhu rádiových a telefonních zařízení
+
+SŽ Zam1 Předpis o odborné způsobilosti a znalosti osob při provozování dráhy a drážní dopravy
+
+
+
+
+                                                                                                           23
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+                                                                      Příloha A (normativní)
+
+
+                   Zásady pro zpracování doplňujících ustanovení
+
+A.1 Všeobecné zásady pro zpracování DU
+
+(1)   Jednotlivé části DU jsou popsány v čl. A.2 a jejich pořadí je při zpracování nutné vždy
+      dodržet.
+
+(2)   Názvy nadpisů a názvy jednotlivých článků, které jsou uvedeny v těchto zásadách
+      kurzívou bez podbarvení, je nutné je při zpracování přesně dodržet. Do zpracovaného DU
+      se tyto názvy uvádějí tučně a bez kurzívy.
+
+(3)   Grafická a textová podoba titulní strany a samostatných stránek pro záznamy o opravách
+      a změnách, obsah, rozsah znalostí a zkratky a značky je uvedena ve vzorovém příkladu
+      zpracovaného DU v Příloze B.
+
+A.2 Zásady pro zpracování jednotlivých částí DU
+
+(1)   Titulní strana DU:
+
+      •     textová část titulní strany musí být zpracována v souladu s čl. 3.
+
+(2)   Záhlaví, zápatí a označování jednotlivých stránek DU
+
+      •     záhlaví každé stránky DU (vyjma titulní strany) musí být zpracováno v souladu
+            s čl. 3;
+
+      •     v zápatí každé stránky musí být uvedeno její číslo, počínaje stranou 2;
+
+(3)   Každá část DU dle tohoto odstavce se při zpracování uvádí na samostatnou stranu:
+
+      a)    záznamy o opravách a změnách:
+
+            •     záznamy o opravách a změnách se uvádějí vždy na první stranu za titulní list.
+
+      b)    obsah DU;
+
+      c)    rozsah znalostí;
+
+      d)    zkratky a značky:
+
+            •     seznam značek a zkratek se řadí abecedně (i v případě pozdějších změn
+                  nebo doplnění);
+
+            •     zkratky cizích slov nebo v cizím jazyce popište v českém překladu a v závorce
+                  doplňte jejich popis v původním jazyce, a to v uvozovkách a kurzívou.
+
+            Vzorový příklad zápisu zkratky cizích slov:
+
+            HTML …… hypertextový značkovací jazyk (z angl. „Hypertext Markup Language“)
+
+      e)    členění a obsahová část DU:
+
+            •     číselné členění jednotlivých článků a odstavců DU dle níže uvedených zásad je
+                  nutné vždy dodržet;
+
+
+
+
+24
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+             •      v případě, že v obsahové části DU bude nutné nebo potřebné použít obrázky,
+                    mohou se k tomuto účelu využívat i fotografie příslušného zařízení nebo jeho
+                    částí, a to s dostatečným rozlišením, barevností, ostrostí, kontrastu, a pokud
+                    možno bez částí jiných zařízení nebo technologií, které se zařízením, k němuž
+                    je fotografie ve formě obrázku použita nesouvisí;
+
+             •      do obsahové části DU uveďte postupně tyto články a text:
+
+1     ZÁKLADNÍ USTANOVENÍ
+1.1   Úvodní ustanovení
+      Uveďte:
+      •   obecně závazné podmínky (stanovení rozsahu platnosti a závaznosti DU, seznam dokumentů
+          ke zrušení od doby účinnosti DU apod.).
+
+1.2   Charakteristika a důvod použití zařízení
+      Uveďte:
+      •   stručnou základní charakteristiku zařízení (např. dle výrobce);
+      •   důvod zavedení použitého zařízení, pro jehož obsluhu je DU platné, včetně konfiguračního rozsahu
+          jeho působnosti (celá ŽST nebo trať, část ŽST nebo trati apod).
+
+1.3   Napájení zařízení
+      Uveďte:
+      •   způsob základního, náhradního a nouzového napájení příslušného telekomunikačního zařízení
+          a jejich indikace (pokud je zřízena);
+      •   odkaz na návod pro obsluhu zařízení, pokud je způsob napájení jeho součástí;
+      •   způsob přepínání jednotlivých druhů napájení (poloautomatický, ruční) a jejich indikace (pokud je
+          zřízena); neuvádějte, pokud je přepínání automatické bez vlivu obsluhy nebo je jeho popis součástí
+          návodu pro obsluhu zařízení;
+      •   maximální dobu činnosti nouzového napájení (pokud je k dispozici) a uvedení konkrétních částí
+          telekomunikačního zařízení, které jím nejsou případně napájeny; neuvádějte, pokud je činnost
+          nouzového napájení popsána v návodu pro obsluhu zařízení.
+
+1.4   Protipožární opatření
+      Uveďte:
+      •   obslužné způsoby k zajištění ochrany telekomunikačního zařízení před vznikem a šířením požáru
+          (umístění obslužných prvků pro vypnutí napájení a způsoby jejich použití apod.); pokud jsou tyto
+          obslužné způsoby součástí návodu pro obsluhu zařízení, odkažte se pouze na tento návod.
+
+1.5   Dokumentace pro obsluhu
+      Uveďte:
+      •   výpis dokumentů pro obsluhu platných pro použité telekomunikační zařízení;
+      •   přesné uvedení názvu nebo označení platné HW a SW verze návodu pro obsluhu zařízení.
+
+1.6   Provozní ošetřování
+      Uveďte:
+      •   specifický postup provozního ošetřování použitého telekomunikačního zařízení;
+      •   systém provozního ošetřování dálkově ovládaného telekomunikačního zařízení v ŽST, které nejsou
+          trvale obsazeny obsluhujícím zaměstnancem.
+
+2     TELEKOMUNIKAČNÍ ZAŘÍZENÍ
+2.1   Úvodní ustanovení
+      Uveďte:
+      •   popis základních podmínek použití místního, popř. dálkového ovládání telekomunikačního zařízení,
+          pro jehož obsluhu je DU platné pro celý obvod jeho působnosti.
+
+2.2   Popis zařízení
+      Uveďte:
+
+
+
+
+                                                                                                           25
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+      •   popis telekomunikačního zařízení, pro jehož obsluhu je DU platné pro celý obvod jeho působnosti;
+      •   popis dalších případných vztažných prvků použitého telekomunikačního zařízení, pro jehož obsluhu
+          je DU platné;
+      •   popis adresných specifik vyplývajících z funkcionalit příslušného telekomunikačního zařízení v dané
+          lokalitě.
+
+2.3   Místní obsluha
+      Uveďte:
+      •   popis všech obslužných postupů, které nejsou uvedeny v příslušných obslužných předpisech
+          nebo jsou od nich odlišné;
+      •   v případě, kdy jsou v platné a aktualizované verzi návodu k obsluze s uvedením HW a SW použitého
+          telekomunikačního zařízení uvedeny typově shodné obslužné postupy příslušné běžně použitému
+          druhu telekomunikačního zařízení, není nutno provádět v tomto bodě plné výpisy obslužných
+          úkonů, ale je možno uvést pouze přesné odkazy na konkrétní body v návodu k obsluze.
+
+2.4   Místní obsluha při poruchách
+      Uveďte:
+      •   popis všech obslužných postupů při vzniku poruchy nebo závady na použitém telekomunikačním
+          zařízení, které nejsou uvedeny v příslušných obslužných předpisech nebo jsou od nich odlišné;
+      •   v případě, kdy jsou v platné a aktualizované verzi návodu k obsluze s uvedením HW a SW použitého
+          telekomunikačního zařízení uvedeny typově shodné obslužné postupy příslušné běžně použitému
+          druhu telekomunikačního zařízení, není nutno provádět v tomto bodě plné výpisy obslužných
+          úkonů, ale je možno uvést pouze přesné odkazy na konkrétní body v návodu k obsluze;
+      •   u každé typové skupiny poruchy nebo závady uvést stručný a adresný odkaz na případné zavedení
+          potřebného dopravního opatření vztažného ke konkrétní provozní situaci.
+
+2.5   Dálková obsluha
+      Uveďte:
+      •   popis vnějších částí konkrétního zařízení, pro jehož obsluhu je DU platné;
+      •   popis vnitřních částí konkrétního zařízení, pro jehož obsluhu je DU platné;
+      •   popis dalších případných vztažných prvků pro jehož obsluhu je DU platné;
+      •   popis adresných specifik vyplývajících z funkcionalit příslušného zařízení v konkrétní lokalitě;
+      •   popis všech obslužných postupů, které nejsou uvedeny v příslušných předpisech pro obsluhu
+          telekomunikačních zařízení nebo jsou od nich odlišné;
+      •   v případě, kdy jsou v platné a aktualizované verzi návodu k obsluze s uvedením HW a SW
+          konkrétního telekomunikačního zařízení uvedeny typově shodné obslužné postupy příslušné běžně
+          použitému druhu zařízení, není nutno provádět v tomto bodě plné výpisy obslužných úkonů, ale je
+          možno uvést pouze přesné odkazy na konkrétní body v návodu k obsluze;
+      •   popis všech obslužných postupů při vzniku poruchy nebo závady na konkrétním zařízení,
+          které nejsou uvedeny v příslušných obslužných předpisech nebo jsou od nich odlišné;
+      •   u každé typové skupiny poruchy nebo závady uvést stručný a adresný odkaz na případné zavedení
+          potřebného dopravního opatření vztažného ke konkrétní provozní situaci.
+
+3     PŘECHODNÁ USTANOVENÍ
+3.1   Úvodní ustanovení
+      Uveďte:
+      •   zdůvodnění zavedení přechodných ustanovení;
+      •   uvést dobu platnosti jednotlivých konkrétních přechodných ustanovení.
+
+3.2   Přechodná ustanovení pro místní obsluhu
+      Uveďte:
+      •   popis opatření týkajících se obsluhy nebo technologických postupů používaných po dobu platnosti
+          konkrétních přechodných ustanovení.
+
+3.3   Přechodná ustanovení pro dálkovou obsluhu
+      Uveďte:
+      •   popis opatření týkajících se obsluhy nebo technologických postupů používaných po dobu platnosti
+          konkrétních přechodných ustanovení.
+
+
+
+
+26
+SŽ D5-3                                                                         účinnost od 14. prosince 2025
+
+
+
+
+      Přílohy
+      Uveďte:
+      •   seznam platných a aktualizovaných HW a SW verzí návodu k obsluze, příslušných k použitému
+          telekomunikačnímu zařízení;
+      •   přílohy vztažné k problematice obsluhy telekomunikačního zařízení uváděného v příslušné části DU,
+          která doplňuje popisné nebo obslužné dokumenty nebo postupy.
+
+
+
+
+                                                                                                          27
+SŽ D5-3                                                                 účinnost od 14. prosince 2025
+
+
+
+
+                                                                    Příloha B (informativní)
+
+
+              Vzorový příklad zpracovaného doplňujícího ustanovení
+
+B.1 Obecná ustanovení pro vzorový příklad zpracovaného DU
+
+(1)   Dle výrobce se jedná o zařízení Adaptér RV3 TRS pro dálkovou a místní obsluhu,
+      které doplňuje předpis SŽ Z11 pro ovládání SRD v režimu místní nebo dálkové obsluhy
+      na pracovištích výpravčích v obvodu OŘ Praha a traťových dispečerů CDP Praha.
+
+(2)   DU je zpracováno pouze jako vzorový příklad pro potřeby tohoto předpisu a údaje v něm
+      uvedené nemusí odpovídat skutečnosti.
+
+(3)   Z důvodu zachování co nejvěrnějšího vzorového příkladu zpracovaného DU jsou příslušné
+      části DU uvedeny na jednotlivých stranách tak, aby odpovídaly podmínkám zpracování
+      dle tohoto předpisu a zásadám uvedených v Příloze A.
+
+B.2 Vysvětlující podmínky při zpracování vzorového příkladu DU
+
+(1)   Vzorový příklad záhlaví jednotlivých stránek (kromě titulní strany) je formou obrázku
+      uveden pouze na druhé straně DU (na straně se záznamy o opravách a změnách DU).
+      Ostatní strany vzorového příkladu DU tento obrázek neobsahují a při zpracování záhlaví
+      stránek DU je nutné postupovat v souladu se zásadami dle tohoto předpisu.
+
+(2)   Samostatné číslování stránek vzorového příkladu DU není ve vzoru k dispozici. Stránky jsou
+      ve vzoru číslovány průběžně, a to výhradně pro účely tohoto předpisu.
+
+(3)   Textový obsah DU, vytvořený černou barvou písma, je ve vzorovém příkladu
+      pro zpracovatele závazný.
+
+(4)   Textový obsah DU, vytvořený modrou barvou písma, byl vytvořen v souladu se zásadami
+      pro vytvoření DU dle tohoto předpisu a je pouze příkladem, jak lze DU zpracovat.
+
+B.3 Vzorový příklad zpracovaného DU
+
+
+
+
+28
+SŽ D5-3                                                         účinnost od 14. prosince 2025
+
+
+
+
+          obr. B.1 – Titulní strana vzorového příkladu zpracovaného DU
+
+
+
+
+                                                                                          29
+SŽ D5-3                                                                     účinnost od 14. prosince 2025
+
+
+
+
+                     obr. B.2 – Vzorový příklad záhlaví každé strany zpracovaného DU
+
+                                                OBSAH
+                                                                                           strana
+
+ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH                                                               3
+ROZSAH ZNALOSTÍ                                                                            4
+ZKRATKY A ZNAČKY                                                                           5
+1 ZÁKLADNÍ USTANOVENÍ                                                                      6
+1.1 Úvodní ustanovení                                                                      6
+1.2 Charakteristika a důvod použití zařízení                                               6
+1.3 Napájení zařízení                                                                      6
+1.4 Protipožární opatření                                                                  6
+1.5 Dokumentace pro obsluhu                                                                6
+1.6 Provozní ošetřování                                                                    6
+2 POPIS A OBSLUHA TELEKOMUNIKAČNÍHO ZAŘÍZENÍ                                               6
+2.1 Úvodní ustanovení                                                                      6
+2.2 Popis zařízení                                                                         7
+2.3 Místní obsluha                                                                         7
+2.4 Místní obsluha při poruchách                                                           7
+2.5 Dálková obsluha                                                                        7
+3 PŘECHODNÁ USTANOVENÍ                                                                     7
+3.1 Úvodní ustanovení                                                                      7
+3.2 Přechodná ustanovení pro místní obsluhu                                                7
+3.3 Přechodná ustanovení pro dálkovou obsluhu                                              7
+PŘÍLOHY                                                                                    7
+
+
+
+
+30
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+                          ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav
+a změn a za provedení příslušného záznamu.
+
+   oprava/změna                                                                 opravu/změnu
+   a její pořadové               číslo jednací              účinnost od
+         číslo                                                                    zapracoval
+
+
+
+
+                                                                                                     31
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+                                         ROZSAH ZNALOSTÍ
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci)
+nebo činnost, přičemž:
+
+        •   informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí
+            o tomto dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen
+            se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+        •   úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+            dokumentu, zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen
+            se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+        •   doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který je
+            v příslušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu
+            do příslušného ustanovení samostatně reprodukovat.
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+             pracovní činnost nebo
+                                                                   znalost ustanovení
+               zařazení (funkce)
+
+     zaměstnanec SŽ, kterému je stanovena
+                                                 úplná: celý předpis
+     činnost podle předpisu SŽ Z11
+
+     zaměstnanec SŽ, kterému je stanovena
+                                                 informativní: celý předpis
+     činnost podle předpisu SŽ Z11
+
+
+
+
+32
+SŽ D5-3                                                                               účinnost od 14. prosince 2025
+
+
+
+
+                                            ZKRATKY A ZNAČKY
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto dokumentu. V seznamu se neuvádějí
+legislativní zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích,
+příkladech nebo tabulkách.
+
+AC ............... střídavý elektrický proud (z angl. „alternating current“)
+CDP ............. centrální dispečerské pracoviště
+CTD ............. Centrum techniky a diagnostiky (správce železničního telekomunikačního majetku)
+ČD-T ............ ČD Telematika (servisní organizace rádiového zařízení)
+DU ............... doplňující ustanovení
+LED.............. elektroluminiscenční dioda (z angl. „light-Emitting Diode“)
+OŘ ............... oblastní ředitelství
+RV ............... ucelený systém dálkového ovládání pro dispečerské použití (z angl. „RadioVoice“)
+SRD ............. síť radiodispečerská
+SŽ ............... Správa železnic, státní organizace
+TRS ............. traťová rádiová síť
+VoIP............. technologie pro přenos hlasu prostřednictvím sítě (z angl. „Voice over Internet Protocol“)
+ZO ............... ovládací přístroj základnové radiostanice sítě radiodispečerské
+ŽST ............. železniční stanice
+
+
+
+
+                                                                                                                33
+SŽ D5-3                                                                účinnost od 14. prosince 2025
+
+
+
+
+1         ZÁKLADNÍ USTANOVENÍ
+
+1.1       Úvodní ustanovení
+          Doplňující ustanovení pro obsluhu telekomunikačního zařízení (dále jen „DU“) je
+          závazné pro zaměstnance obsluhující telekomunikační zařízení, zaměstnance
+          provádějící jeho údržbu a zaměstnance vykonávající nad jejich činností kontrolu.
+
+          Do obvodu působnosti DU patří pracoviště traťových dispečerů CDP Praha a výpravčích
+          v ŽST Loděnice, Králův Dvůr, Rudná u Prahy, Zdice a Vráž u Berouna, vybavených
+          adaptérem Radiovoice RV3 adaptér TRS (dále jen „adaptér“).
+
+          DU doplňuje a upřesňuje ustanovení ČÁSTI TŘETÍ předpisu SŽ Z11 Předpis pro obsluhu
+          rádiových a telefonních zařízení (dále jen „SŽ Z11“) pro obsluhu SRD.
+
+          Ustanovení DU smí měnit pouze schvalovatel.
+
+1.2       Charakteristika a důvod použití zařízení
+          Adaptér je součást systému RadioVoice RV3, rozšiřující možnosti tohoto systému
+          o komunikaci v SRD, a to v režimu místního nebo dálkového ovládání.
+
+1.3       Napájení zařízení
+          Základní a náhradní napájení adaptéru, včetně jejich bezobslužného automatického
+          přepnutí je popsáno v návodu pro obsluhu. Napájení je na adaptéru indikováno LED
+          zelené barvy.
+
+1.4       Protipožární opatření
+          Neobsazeno.
+
+1.5       Dokumentace pro obsluhu
+          Obsluha rádiového zařízení se provádí v souladu s platným předpisem SŽ Z11.
+
+1.6       Provozní ošetřování
+          Provozní ošetřování vnějších částí adaptéru provádí obsluhující zaměstnanec suchým
+          hadříkem jako u zabezpečovacího zařízení, a to způsobem uvedeným v předpisu SŽ Z1
+          Předpis pro obsluhu staničních a traťových zabezpečovacích zařízení v kapitole
+          pro provozní ošetřování.
+
+          Provozní ošetřování vnitřních částí (čištění od prachu apod.) provádí udržující
+          zaměstnanec. V případě nadměrné prašnosti okolí může dojít k zanesení vnitřních částí
+          adaptéru prachem a tím i ke snížení účinnosti chlazení (adaptér je aktivně chlazen
+          pasivně). Adaptér toto oznámí formou informace o přehřátí. V takovémto případě je
+          možné adaptér vyčistit. Pro čistění musí být adaptér vypnut a odpojen od všech
+          přívodních kabelů a demontován ze skříně. Následně je možné demontovat horní víko
+          adaptéru a vnitřní prostor šetrným způsobem zbavit prachu (vysát nebo vyfoukat).
+          Při zpětné montáži je nutné dbát na opětné připojení zemnícího kabelu horního víka
+          adaptéru a použití všech šroubů upevňujících horní víko.
+
+2         TELEKOMUNIKAČNÍ ZAŘÍZENÍ
+
+2.1       Úvodní ustanovení
+          Adaptér slouží k připojení ZR SRD do komunikačního systému Radiovoice RV3. Adaptér
+          se připojuje mezi ZR a ovládací skříňku (ZO) SRD. Zajišťuje jednak převod analogových
+          hlasových signálů ze SRD do digitální formy a jejich přenos prostřednictvím VoIP
+          protokolu do systému Radiovoice, a dále ovládání zařízení SRD a kompatibilitu
+          s ovládací skříňkou pro správnou funkci interní diagnostiky SRD.
+
+
+
+
+34
+SŽ D5-3                                                                   účinnost od 14. prosince 2025
+
+
+
+
+          Adaptér se připojuje v místě původního pracoviště výpravčího obsluhujícího ovládací
+          skříňku v dosahu své ZR SRD a umožňuje integraci ovládání SRD do ovládacího
+          pracoviště systému Radiovoice RV3 a tím dálkové ovládání SRD z centralizovaného
+          pracoviště. Adaptér je umístěn na pracovišti pro místní obsluhu a v základním režimu
+          je přepnutý na dálkové ovládání.
+
+2.2       Popis zařízení
+          Pro přepnutí mezi místním ovládáním SRD prostřednictvím ovládací skříňky ZO
+          a dálkovým ovládáním prostřednictvím adaptéru a systému Radiovoice RV3 slouží
+          přepínač druhu provozu (viz obr. 1). Tento přepínač je možné umístit na pracoviště
+          obsluhy SRD pod ovládací skříňku a v případě potřeby jím ovládání přepnout
+          do místního režimu.
+
+          Ovladač obsahuje dvě indikační LED:
+
+          •   „Napájení“ (zelená LED) – indikuje napájení adaptéru, k jejímu rozsvícení dojde
+              okamžitě po zapnutí napájení adaptéru;
+          •   „Dálk. ovlád.“ (žlutá LED) – indikuje přepnutí adaptéru do dálkového režimu,
+              k jejímu rozsvícení dojde po přepnutí adaptéru do dálkového režimu;
+          Ovladač obsahuje jeden ovládací prvek:
+
+          •   dvoupolohový kolíbkový přepínač „Dálkové“ a „Místní“ obsluhy.
+
+
+
+
+                             obr. 1 - Ovládací skříňka RV3 adaptéru TRS
+
+2.3       Místní obsluha
+          Výchozí stav po zapnutí adaptéru je místní režim, indikační zelená LED „Napájení“ svítí
+          stálým zeleným světlem, indikační žlutá LED „Dálk. ovlád.“ je zhasnutá. V případě
+          potřeby dálkového ovládání ZR SRD provede obsluhující zaměstnanec, v souladu
+          s interními předpisy a ZDD, přepnutí přepínače do polohy pro „Dálk. ovlád.“, čímž
+          dojde k přepnutí adaptéru do dálkového režimu a rozsvícení indikační žluté LED
+          na čelním panelu adaptéru za současného svícení indikační zelené LED napájení.
+          Přepnutí adaptéru do místního režimu provede obsluhující zaměstnanec v souladu
+          s interními předpisy a ZDD (předání řízení ŽST na místní obsluhu), a to přepnutím
+          přepínače do polohy „Místní“. Přepnutí se indikuje zhasnutím indikační žluté LED
+          na ovládacím panelu za současného svícení indikační zelené LED napájení.
+
+2.4       Místní obsluha při poruchách
+          V případě poruchy adaptéru při přepojení na místní režim nelze ovládat základnovou
+          stanici SRD v dálkovém režimu. V případě výpadku napájení adaptéru dojde
+          k automatickému přepojení na místní režim a nelze ovládat ZR SRD v dálkovém
+          režimu. Poruchy adaptéru odstraňuje servisní organizace (ČD-Telematika). Ohlášení
+          poruchy musí být obsluhujícím zaměstnancem provedeno na pracoviště s nepřetržitým
+          provozem - tel. číslo 972 110 000.
+
+2.5       Dálková obsluha
+          Dálková obsluha zařízení SRD je možná po přepnutí ovládacího prvku adaptéru
+          do polohy „Dálk. Ovlád“.
+
+
+
+
+                                                                                                    35
+SŽ D5-3                                                účinnost od 14. prosince 2025
+
+
+
+
+3          PŘECHODNÁ USTANOVENÍ
+
+3.1        Úvodní ustanovení
+           Neobsazeno.
+
+3.2        Přechodná ustanovení pro místní obsluhu
+           Neobsazeno.
+
+3.3        Přechodná ustanovení pro dálkovou obsluhu
+           Neobsazeno.
+
+Přílohy:
+
+           Neobsazeno.
+
+
+
+
+36
+SŽ D5-3                                                                   účinnost od 14. prosince 2025
+
+
+
+
+                                                                                        Příloha C
+                                                                                      (normativní)
+
+
+           Zásady pro zpracování provozních řádů místních rádiových sítí
+
+C.1 Všeobecné zásady pro zpracování PŘ MRS
+
+(1)   Jednotlivé části PŘ MRS jsou popsány v čl. C.2 a jejich pořadí je při zpracování nutné
+      vždy dodržet.
+
+(2)   Názvy nadpisů a názvy jednotlivých článků, které jsou uvedeny v těchto zásadách
+      kurzívou, je nutné je při zpracování přesně dodržet. Do zpracovaného PŘ se tyto názvy
+      uvádějí tučně a bez kurzívy.
+
+(3)   Texty obsahové části PŘ MRS, které jsou pevně stanoveny, jsou v těchto zásadách
+      uvedeny kurzívou se šedivě podbarveným písmem a zpracovatel je musí při zpracování
+      uvést v doslovném znění. Pokud je dovoleno tyto závazné texty upravovat nebo měnit, je
+      to v příslušné části zásad uvedeno. Do zpracovaného PŘ se tyto závazné texty uvádějí
+      standardním písmem a bez podbarvení.
+
+(4)   Grafická a textová podoba titulní strany a samostatných stránek pro záznamy o opravách
+      a změnách, obsah, rozsah znalostí a zkratky a značky je uvedena ve vzorovém příkladu
+      zpracovaného PŘ MRS v Příloze D.
+
+(5)   Pro zpracování PŘ MRS je vydávána šablona, kterou je zpracovatel povinen použít.
+
+C.2 Zásady pro zpracování jednotlivých částí PŘ MRS
+
+(1)   Titulní strana PŘ MRS:
+
+      •      textová část titulní strany musí být zpracována v souladu s čl. 3.
+
+(2)   Záhlaví, zápatí a označování jednotlivých stránek PŘ MRS:
+
+      •      záhlaví každé strany PŘ (vyjma titulní strany) musí být zpracováno v souladu s čl. 3;
+
+      •      v zápatí každé strany musí být uvedeno její číslo, počínaje stranou 2.
+
+(3)   Každá část DU dle tohoto odstavce se při zpracování uvádí na samostatnou stranu a jejich
+      pořadí dle odrážek a) až e) musí být dodrženo.
+
+      a)     záznamy o opravách a změnách:
+
+             •     záznamy o opravách a změnách se uvádějí vždy na první stranu za titulní list.
+
+      b)     obsah PŘ;
+
+      c)     rozsah znalostí;
+
+      d)     zkratky a značky:
+
+             •     seznam značek a zkratek se řadí abecedně (i v případě pozdějších změn
+                   nebo doplnění);
+
+             •     zkratky cizích slov nebo v cizím jazyce se uvádějí v českém překladu
+                   a v závorce se doplní jejich popis v původním jazyce, a to v uvozovkách
+                   a kurzívou.
+
+
+
+
+                                                                                                    37
+SŽ D5-3                                                                            účinnost od 14. prosince 2025
+
+
+
+
+               Vzorový příklad zápisu zkratky cizích slov:
+
+               HTML …… hypertextový značkovací jazyk (z angl. „Hypertext Markup Language“)
+
+       e)      členění a obsahová část PŘ MRS:
+
+               •      číselné členění jednotlivých článků a odstavců PŘ MRS dle níže uvedených
+                      zásad je nutné vždy dodržet;
+
+               •      do obsahové části PŘ MRS uveďte postupně tyto články a obsah takto:
+
+1      VŠEOBECNÉ ORGANIZAČNÍ ZÁSADY
+1.1.   Úvodní ustanovení
+       Uveďte text:
+       Provozní řád místních rádiových sítí řeší organizaci rádiového provozu simplexních sítí na pracovištích
+       v obvodu … (uveďte název OJ nebo OS), je zpracován ve smyslu předpisu SŽ T7 a SŽ Z11 v platném
+       znění a dalších vztažných obecně právních a rezortních předpisů, a je závazný pro všechny uživatele
+       těchto rádiových sítí, včetně zaměstnanců dopravců a CPS.
+
+1.2.   Obvod působnosti PŘ
+       Uveďte:
+       •    slovní popis obvodu (rozsahu) působnosti, jehož se PŘ týká;
+       •    v případě PŘ MRS PO vyjmenujte abecedně všechny                dopravny,   včetně    dalších   míst
+            (např. nákladiště, vlečky SŽ), jichž se rádiový provoz týká.
+
+1.3.   Jiná závazná opatření
+       Uveďte:
+       •    číslo jednací (evidenční) a datum vydání OZR a OVKS platných pro obvod působnosti PŘ; pro PO
+            a OJ provozu infrastruktury dodá údaje KOŘ OŘ;
+       •    seznam vztažných dokumentů ke zrušení ke dni účinnosti PŘ MRS (údaje o zrušení předchozí verze
+            PŘ uvádějte pouze v případě novelizace PŘ).
+
+2      PROVOZOVANÉ RÁDIOVÉ SÍTĚ
+       Zpracovatel PŘ MRS PO uvede text:
+       V níže uvedené tabulce jsou abecedně uvedeny dopravny v obvodu PO … (uveďte název), v nichž je
+       příslušné pracoviště zaměstnance řízení provozu vybaveno ZR s MRS, a to na základě platného OZR.
+       Podrobná specifikace pro každou síť je uvedena v článcích 9.1 až 9. … (číslo doplňte podle celkového
+       počtu MRS, které v obvodu provozujete);
+       • seznam provozovaných MRS v jednotlivých dopravnách v obvodu PO zpracujte do tabulky 1;
+       • pro názvy jednotlivých sítí používejte platné zkratky.
+       Zásady pro zpracování tabulky 1 v PŘ MRS PO:
+       •    tabulka musí mít vždy uvedený počet sloupců dle vzoru;
+       •    sítě v jednotlivých sloupcích seřaďte vždy podle uvedeného vzoru (nejprve vždy tzv. národní
+            kmitočty VOS, TOS, SMV a SMV 2);
+       •    ke každé síti uveďte dle výše uvedeného vzoru číselnou specifikaci v článku pro místních opatření
+            9.1 až 9.x;
+       •    pro STE uveďte přesný název sítě v řádku u příslušné dopravny dle OZR a OVKS (např. STE 1, STE
+            SŽ apod.);
+       •    pokud není příslušná síť v dopravně k dispozici (není zde ZR nebo ZR tuto síť nemá k dispozici)
+            označte buňku malým písmenem „x“;
+       •    pokud je síť v dopravně aktivní dle předpisu SŽ Z11, označte ji v příslušné buňce velkým písmenem
+            „(A)“ v závorce;
+       •    pokud je síť v dopravně pasivní dle předpisu SŽ Z11, označte ji v buňce velkým písmenem „(P)“
+            v závorce;
+       •    do seznamu se uvádí jen MRS dle OZR a OVKS;
+       •    dopravny řaďte v tabulce abecedně, to platí i v případě změny (doplnění nebo zrušení dopravny);
+       •    pod tabulku vložte poznámku:
+            Podrobná specifikace pro každou síť je uvedena v článcích 9.1 až 9. … (doplňte dle celkového počtu
+            MRS) místních opatření.
+
+
+
+
+38
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+                             tabulka 1 – Seznam rádiových sítí v obvodu PO
+
+                                                                 název sítě:
+                                   VOS       TOS       SMV       SMV 2
+                                                                                          STE
+ lokalita /dopravna:               9.1       9.2       9.3.       9.4
+
+
+        Zpracovatel PŘ MRS provozu infrastruktury, PŘ MRS HZS SŽ a PŘ SŽG uvede:
+        •   v souladu s OVKS (OZR) pouze seznam MRS, jejich rozsah (obvod) působnosti a odkaz na podrobné
+            specifikace v článcích 9.1 až 9.x. (dle celkového počtu MRS, které OS dle OVKS využívá);
+        •   pro zpracování seznamu MRS použijte tabulku 1 dle vzoru níže;
+        •   pro názvy jednotlivých sítí používejte platné zkratky.
+                    tabulka 1 – Seznam rádiových sítí v obvodu … (doplňte název OS)
+
+       název sítě                     rozsah (obvod) působnosti                      podrobnosti v článku
+
+
+
+3       ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ
+        Uveďte:
+        Kontrolní operatér regionu (KOR) … (uveďte název OŘ nebo příslušné OS).
+        Hlavní operatér (HLO) … (uveďte název OJ nebo OS).
+        Odpovědný operatér (ODO) … (pokud je ustanoven uveďte název OJ nebo OS).
+        • jména a kontakty KOR, HLO a ODO neuvádějte;
+        • pokud ODO nejsou ustanoveni, příslušné pojmy pro tuto funkci neuvádějte;
+        • pod seznam těchto operatérů uveďte vždy text:
+        Aktuální jmenovitý seznam KOR, HLO a ODO, včetně kontaktů, je k dispozici na Portálu provozování
+        dráhy (PPD) ve složce RÁDIOVÝ PROVOZ.
+        •   text výše uvedené věty upravte podle aktuální stavu nadřízených operatérů ve vašem obvodu;
+        Dále uveďte:
+        Provozní operatér (PRO):
+        •   pod textem uveďte pracovní zařazení vlastních zaměstnanců obslužně využívající rádiový provoz
+            v obvodu OJ nebo OS (např. výpravčí, dirigující dispečer, traťový dispečer, signalista, dozorce
+            výhybek, technik SSZT“, traťmistr, strojvedoucí, velitel jednotky, velitel zásahu apod.);
+        •   jednotlivé profese oddělujte čárkou.
+        Pod seznam pracovních zařazení vlastních provozních operatérů uveďte dále text:
+        •   zaměstnanci dopravců a CPS dle pracovního zařazení uvedených v příslušném PŘ rádiových sítí
+            dopravce nebo CPS.
+
+4       ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ
+4.1.    Specifikace servisní organizace ZR
+        Uveďte:
+        •   specifikaci organizace provádějící servis rádiového zařízení v obvodu působnosti PŘ, včetně rozsahu
+            její působnosti a způsobu spolupráce.
+
+4.2.    Specifikace servisní organizace PR
+        Uveďte:
+        •   specifikaci organizace provádějící servis rádiového zařízení v obvodu působnosti PŘ, včetně rozsahu
+            její působnosti a způsobu spolupráce.
+
+4.3.    Specifikace servisní organizace VR
+        Uveďte:
+        •   jen VR v majetku SŽ;
+        •   specifikaci organizace provádějící servis rádiového zařízení v obvodu působnosti PŘ, včetně rozsahu
+            její působnosti a způsobu spolupráce.
+
+5       PORUCHY RÁDIOVÉHO ZAŘÍZENÍ
+5.1.    Specifikace zásad ve vztahu k ohlašování a odstraňování poruch ZR
+        Uveďte text:
+
+
+
+
+                                                                                                              39
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+       Poruchu na ZR nebo rádiové sítě zaznamená obsluhující zaměstnanec v souladu s ustanovením
+       předpisu SŽ Z11 a předpisu SŽ T100 do určeného Záznamníku poruch na sdělovacím a zabezpečovacím
+       zařízení.
+       Obsluhující zaměstnanec nebo zaměstnanec určený ZDD ohlásí příslušnou poruchu na telefonní linku
+       972 110 000.
+       Hlášení poruchy musí obsahovat:
+       •   jméno a příjmení ohlašovatele;
+       •   přesný čas volání;
+       •   lokalitu umístění techniky;
+       •   kontaktní telefonní číslo ohlašovatele (telefonní kontakt na lokalitu umístění techniky);
+       •   podrobný popis poruchy zařízení.
+
+5.2.   Specifikace zásad ve vztahu k ohlašování a odstraňování poruch PR
+       Uveďte:
+       •   sjednané zásady pro ohlašování a odstraňování poruch PR;
+       •   odkaz na předpis SŽ Z11, případně stručně popište (v případě potřeby místní specifikace), jak má
+           provozní operatér v případě poruchy postupovat.
+
+5.3.   Specifikace zásad ve vztahu k ohlašování a odstraňování poruch VR
+       Uveďte:
+       •   sjednané zásady pro ohlašování a odstraňování poruch VR;
+       •   odkaz na předpis SŽ Z11, případně stručně popište (v případě potřeby místní specifikace), jak má
+           provozní operatér v případě poruchy postupovat.
+
+6      ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ
+6.1.   Všeobecné zásady
+       Uveďte:
+       •   stručně všechny obecně nebo místně platné legislativní a organizační podmínky nebo dokumenty
+           související s rádiovým provozem platné pro příslušný obvod OJ nebo OS;
+       •   neuvádějte duplicitní ustanovení, která jsou obsažena v předpisu SŽ Z11.
+
+6.2.   Napájení radiostanic a zařízení, která je ovládají
+       Pro ZR (pokud jsou provozovány) uveďte text:
+       Základní napájení ZR je zajištěno z centrálního napájecího zdroje 230V/50Hz. Náhradní napájení je
+       zajištěno bezobslužně po dobu minimálně 6 hodin. V případě vzniku požáru je vypínač základního
+       napájení ZR umístěn v rozvodné skříni. Ohlášení požáru se řídí dokumentací požární ochrany.
+       •   v případě, že pro napájení ZR a pro vznik požáru nelze uvedený text plnohodnotně použít, upravte
+           text podle místních specifik nebo uveďte případný popis obsluhy zařízení, která je po provozním
+           operatérovi požadována.
+       Pro PR uveďte text:
+       PR provozních operatérů jsou napájené z bateriových zdrojů, které jsou jejich součástí. Dobíjení
+       a provozuschopnost zdrojů zajišťují PRO, kterým byly radiostanice přiděleny.
+       Pro VR (pokud jsou provozovány) uveďte text:
+       VR jsou napájené z napájecího zdroje příslušného vozidla. Provozuschopnost zdroje a opatření
+       pro odpojení napájecího zdroje v případě vzniku požáru zajišťuje PRO.
+       •   v případě, že pro napájení VR a pro vznik požáru nelze uvedený text plnohodnotně použít, upravte
+           text podle místních specifik nebo uveďte případný popis obsluhy zařízení, která je po provozním
+           operatérovi požadována.
+
+6.3.   Provozní ošetřování
+       Uveďte text:
+       Provozní ošetřování radiostanic v majetku SŽ provádí obsluhující zaměstnanec ve službě. Pokud není
+       stanoveno jinak, provádí se provozní ošetření radiostanice minimálně 1× za směnu, zpravidla na jejím
+       konci. Pokyny pro provozní ošetřování radiostanic jsou uvedeny v návodu pro obsluhu.
+       •   v případě, že pro konkrétní typ radiostanice je výrobcem specifikováno provozní ošetření
+           radiostanice odlišným způsobem, než je uvedeno v textu výše, uveďte popis provozního ošetření
+           v souladu s návodem pro obsluhu nebo dle doporučení výrobce.
+
+6.4.   Seznam volacích značek a kombinace selektivní volby
+6.4.1. Základnové radiostanice
+       Uveďte:
+
+
+
+
+40
+SŽ D5-3                                                                              účinnost od 14. prosince 2025
+
+
+
+
+      •    formou tabulky dle vzoru pro tabulku 2;
+      •    seznam dopraven řaďte v tabulce abecedně, a to i v případě změny (doplnění nebo zrušení
+           příslušného pracoviště);
+      •    pokud lze ZR ovládat místně i dálkově, použijte pro příslušnou dopravnu tolik řádků, kolik je
+           aktuálních možností ovládání a obslužných pracovišť; název dopravny poté slučte pro všechny
+           řádky dohromady;
+      •    do sloupce „obsluhuje“ uvádějte pouze pracovní zařazení obsluhujícího zaměstnance (výpravčí,
+           výpravčí PPV, výpravčí RDP, signalista, dirigující dispečer, traťový dispečer) s případným doplněním
+           o místní název dle ZDD (ve zkratce);
+      •    do sloupce „ovládání“ uveďte slovo „místní“ nebo „dálkové“ podle druhu ovládání ZR
+           pro příslušného zaměstnance;
+      •    volací značky uvádějte v souladu s předpisem SŽ Z11;
+      •    u radiostanic bez kombinace selektivní volby uveďte slovo „není“;
+      •    v případě potřeby doplňte tabulku vhodnou poznámkou, kterou popište pod tabulkou.
+                                   tabulka 2 - Základnové radiostanice
+
+                                                                                                    selektivní
+    název dopravny              obsluhuje         ovládání              volací značka
+                                                                                                      volba
+
+
+6.4.2. Přenosné radiostanice SŽ
+      Uveďte:
+      •    formou tabulky dle vzoru tabulky 3;
+      •    do seznamu uveďte (do samostatných řádků) všechna pracovní zařazení zaměstnanců, kteří jsou
+           oprávněni obsluhovat PR ve vašem obvodu;
+      •    volací značky uvádějte v souladu s předpisem SŽ Z11, a to zpravidla bez názvu příslušné dopravny
+           (úseku), a to především u zaměstnanců bez trvalého pracoviště;
+      •    název dopravny (úseku) u příslušných volacích značek nahraďte třemi tečkami (vysvětlení tohoto
+           zápisu musí být závazně uvedeno vysvětlivkou dle vzoru v tabulce);
+      •    v případě, že lze předpokládat, že ve stejné lokalitě (např. v dopravně) a ve stejné rádiové síti bude
+           PR současně používat více zaměstnanců se stejným pracovním zařazením, uveďte ve sloupci
+           „případný rozlišující znak“ slovo/slova, která budou obsluhující zaměstnanci v takovém případě
+           muset ve volací značce používat (např. příjmení, pořadová číslovka, název útvaru, název OJ, název
+           střediska apod);
+      •    tabulku případně doplňte vhodnou poznámkou, kterou popište pod tabulkou;
+      •    číslo tabulky upravte podle skutečného počtu použitých tabulek.
+                                    tabulka 3 – Přenosné radiostanice
+
+          pracovní zařazení
+                                                volací značka                  případný rozlišující znak
+            zaměstnance
+
+
+ Vysvětlivky k tabulce:
+ •    … - zaměstnanec doplní název příslušné dopravny (úseku) v souladu s předpisem SŽ Z11 dle aktuální
+      provozní situace.
+
+      Pod tabulku uveďte text:
+      Použití volacích značek zaměstnanců obsluhujících PR pro navázání spojení, musí být provedeno
+      před zahájením jejich související pracovní činnosti nebo před vstupem tohoto zaměstnance
+      do provozované dopravní cesty. V případě, že by obsluhující zaměstnanec musel navázat spojení
+      s použitím volacích značek v průběhu již prováděné pracovní činnosti (po vstupu do provozované
+      dopravní cesty), musí tuto pracovní činnost nejprve přerušit a zaujmout takovou pozici (místo),
+      v souladu s ustanovením příslušných dokumentů a předpisů, aby nemohlo dojít při navazování spojení
+      k ohrožení jeho bezpečnosti.
+
+6.4.3. Vozidlové radiostanice dopravce SŽ
+      Uveďte:
+      •    seznam pracovních zařazení zaměstnanců vaší OS nebo OJ, kteří jsou oprávněni obsluhovat VR;
+      •    volací značky uvádějte v souladu s předpisem SŽ Z11.
+      OJ (OS) SŽ, která provozuje VR uvede pro strojvedoucí tyto texty:
+      Strojvedoucí vlaku (PMD) s přiděleným číslem používá volací značku v souladu s předpisem SŽ Z11.
+      Strojvedoucí na HDV bez přiděleného čísla vlaku (PMD) použije místo výkonu práce ve volací značce
+      takto:
+      Pod tyto závazné texty uveďte příslušný text z těchto možností:
+
+
+
+
+                                                                                                               41
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+       •   „typ HDV“ (možné uvést i tzv. zažitý název – např. muvka, pantograf apod.) nebo
+       •   „číslo HDV“ nebo
+       •   „název OJ SŽ“ nebo
+       •   „název OS SŽ“ nebo
+       •   „název odborné správy“ nebo
+       •   „název střediska“;
+       •   v případě potřeby použijte pro specifikaci místa výkonu práce další vhodný text.
+       Dále uveďte text:
+       V případě HDV bez přiděleného čísla vlaku (PMD) musí strojvedoucí uvést i číslo (označení)
+       koleje/úseku mezi dopravnami, na které / ve kterém se HDV aktuálně nachází.
+       Dále uveďte text:
+       „Vzorové příklady sestavení volací značky pro strojvedoucí, např. takto:“
+       •   „strojvedoucí muvky na páté koleji v Benešově“;
+       •   „strojvedoucí správy tratí na vyloučené druhé koleji v Doksanech“;
+       •   „strojvedoucí pluhu na záhlaví směr Blatno v Táboře“.
+       nebo uveďte text:
+       „Vzorové příklady volacích značek strojvedoucích jsou uvedeny v Příloze A předpisu SŽ Z11.“
+
+6.4.4. Radiostanice jiných OS, dopravců nebo CPS
+       Uveďte text:
+       Volací značky provozních operatérů jiných OS, dopravců a CPS musí být vytvořeny a používány
+       v souladu s předpisem SŽ Z11. Pracovní zařazení zaměstnanců musí být uvedena v příslušném
+       Provozním řádu rádiových sítí těchto organizací.
+
+6.5.   Záznamová zařízení
+       Zpracovatel PŘ MRS PO uvede text:
+       Všechny ZR v obvodu PO jsou připojeny na záznamová zařízení, podrobnosti jsou uvedeny v ZDD.
+       nebo text (platí v případě, že všechny ZR nejsou připojené k záznamovému zařízení):
+       ZR v obvodu PO jsou, vyjma níže uvedených, připojeny na záznamová zařízení, podrobnosti jsou
+       uvedeny v ZDD.
+       •   a uvede názvy dopraven, v nichž není ZR připojena na záznamové zařízení např. takto:
+       „ZR … (vyjmenujte dopravny) nejsou připojeny k záznamovému zařízení.“
+
+7      NÁVODY K OBSLUZE RÁDIOVÝCH ZAŘÍZENÍ
+       Uveďte v tabulce 4:
+       •   seznam rádiových zařízení (včetně jejich ovládacích terminálů);
+       •   do sloupce „druh zařízení“ ZR, PR, VR (pouze v majetku SŽ) a dotykové terminály pro ovládání ZR;
+           uvádějte jen ty druhy, které jsou skutečně k dispozici (řádek pro nepoužívaný druh zařízení
+           vymažte);
+       •   do sloupce „typ zařízení“ typové označení radiostanice nebo terminálu podle výrobce
+           (např. Motorola GM 360, HYT–700, TOP1, VS 67, VS 47 apod.);
+       •   do sloupce „používá“ vyjmenujte pracovní zařazení provozních operatérů, kteří uvedené zařízení
+           používají (např. výpravčí, výhybkář, traťový dispečer apod.); pokud se přehled provozních
+           operatérů pro příslušný druh a typ (typy) radiostanic přesně shoduje se seznamem uvedeným
+           v článku 3, použijte odkaz na tento článek;
+       •   řádek s nepoužívanými druhy zařízení z tabulky vymažte;
+       •   číslo tabulky upravte podle skutečného počtu použitých tabulek.
+                             tabulka 4 – Návody k obsluze rádiových zařízení
+
+ druh zařízení                         typ zařízení                                     používá
+
+ ZR
+
+ PR
+
+ VR (HDV SŽ)
+
+ DT
+
+       Pod tabulku v samostatném odstavci uveďte text a doplňte z výběru možností:
+       Návody k obsluze příslušného typu rádiového zařízení uvedeného v seznamu jsou uloženy:
+       •   „v elektronické verzi … (doplňte místo jejich uložení podle skutečnosti)“;
+
+
+
+
+42
+SŽ D5-3                                                                               účinnost od 14. prosince 2025
+
+
+
+
+        •   „v tištěné verzi … (doplňte podle skutečnosti)“.
+
+8       ULOŽENÍ DOKUMENTACE
+        Uveďte v tabulce 5:
+        •   pouze dokumentaci související s rádiovým provozem, nepoužívané dokumenty (dle vzoru)
+            neuvádějte;
+        •   elektronickou adresu místa uložení PŘ na PPD (odkaz uveďte pouze v textové podobě);
+        •   číslo tabulky upravte podle skutečného počtu použitých tabulek.
+                                      tabulka 5 – Uložení dokumentace
+
+             název dokumentu                                            místo uložení
+
+    OVKS a OZR
+
+    PŘ MRS … (uveďte název OJ nebo OS)
+
+    Záznamník poruch
+
+9       MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE
+        Uveďte pouze text:
+        Místní opatření pro MRS dle čl. 2 je uvedeno v samostatných článcích 9.1 až 9. … (doplňte
+        podle skutečného počtu MRS).
+        Zásady pro zpracování článků 9.1 až 9.x:
+        •   pro zachování přehlednosti uvádějte každou síť vždy na nové straně, počínaje čl. 9.1;
+        •   v obsahu článků nepoužívejte citaci z ustanovení předpisů SŽ, jejichž znalost je příslušným
+            zaměstnancům v těchto předpisech jednoznačně stanovena;
+        •   název sítě musí odpovídat OZR, resp. OVKS;
+        •   pro STE specifikujte přesné označení (pokud je stanoveno, např. číslem) a název dopravny
+            (obvodu) pro kterou platí (v jejímž obvodu je povoleno síť používat);
+        •   ustanovení místního významu pro sítě, které jsou ve výhradním používání příslušného dopravce,
+            musí být uvedena v souladu s PŘ dopravce; dopravce (zpravidla KOD) je odpovědný za dodání
+            všech souvisejících podkladů do tohoto článku, včetně případných změn.
+
+9.1.    Místní opatření technologie práce pro rádiovou síť …
+        Název článku doplňte takto:
+        •   pro celostátní (národní) sítě použijte název zkratkou (např. VOS);
+        •   pro sítě STE použijte přesný název (např. STE 1) a název dopravny (obvodu), pro kterou platí
+            (dle OVKS, resp. OZR).
+
+9.1.1. Technické a technologické specifikace sítě
+        Uveďte text a doplňte jej podle skutečnosti:
+        Kmitočet:                     … (uveďte dle OVKS, resp. OZR);
+        Simplexní kanál:              … (uveďte číslo kanálu);
+        Může využívat:                …
+        •   pro VOS, TOS, SMV a SMV 2 uveďte text organizace, která je držitelem platného OVKS, resp. OZR;
+        •   pro TSH použijte text HZS SŽ;
+        •   pro STE SŽG použijte text SŽG;
+        •   pro STE uveďte název dopravce (CPS) nebo OS SŽ, která je držitelem oprávnění pro používání sítě
+            v dopravně nebo obvodu takto dopravce … (název dopravce);
+        •   pro STE, které využívá řízení provozu SŽ uveďte text řízení provozu SŽ;
+        •   pro STE, jejich držitelem je SŽ a na základě platného OVKS ji mohou využívat i ostatní dopravci
+            (mimo SŽ) nebo CPS uveďte text SŽ a na základě platného OVKS i příslušný dopravce (CPS)3;
+        Použití sítě:                 … (stručně popište základní použití sítě);
+        •   pro celostátní sítě VOS, TOS, SMV a SMV 2 uveďte text dle předpisu SŽ Z11;
+        •   pro STE vyberte text „provádění posunu“ nebo „provádění posunu v obvodu dopravny a na vlečce
+            … (doplňte název vlečky, pokud ji má dopravce uvedenou v OVKS)“ nebo „technologické činnosti
+            SŽ“ (platí pro STE SŽ).
+
+
+
+
+3
+  Seznam oprávněných dopravců (CPS) je uveden jako samostatná příloha PŘ MRS (samostatný soubor) na PPD (na stejné
+elektronické adrese místa uložení jako příslušný PŘ MRS)
+
+
+
+
+                                                                                                                43
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+9.1.2. Řídící radiostanice
+      Uveďte:
+      •   označení druhu radiostanice (ZR, PR nebo VR) a pracovní zařazení zaměstnance, který je
+          odpovědný za provoz sítě v řízeném obvodu své působnosti;
+      •   pro STE dopravců musí být v souladu s PŘ dopravce.
+
+9.1.3. Uložení PR a systém jejich předávky
+      Uveďte:
+      •   kde jsou PR uloženy a jakým způsobem jsou mezi provozními operátory předávány nebo kdo je
+          provozním operatérům vydává.
+
+9.1.4. Uložení náhradních radiostanic
+      Uveďte:
+      •   kde jsou náhradní (záložní) PR uloženy, pokud jsou takové PR k dispozici, např. pro případ poruchy
+          apod;
+      •   použijte případně tento text:
+          „Náhradní PR pro použití v síti … (název sítě) jsou uloženy u … (název nadřízeného operatéra),
+          který zajišťuje jejich vydávání v případě potřeby“.
+
+9.1.5. Technologická opatření
+      Uveďte:
+      •   každou specifickou zásadu či opatření v samostatném odstavci;
+      •   nepoužívejte citaci ustanovení předpisů pro obsluhu, jejichž znalost je těmito předpisy všem
+          účastníkům rádiového provozu stanovena;
+      •   pro lepší odlišení odstavců použijte buď číselné označení (9.1.5.1 až 9.1.5.x) nebo stejný typ
+          odrážek textového editoru.
+      Pro VOS použijte text:
+      ZR výpravčího je v základním stavu zapnutá na rádiové síti VOS. Na jiné rádiové sítě, které jsou
+      k dispozici na ZR, se výpravčí (dispečer) přepíná jen na požádání, pokud se nedohodne s požadujícím
+      uživatelem takové sítě jinak. Po ukončení potřebné komunikace na jiné síti musí výpravčí (dispečer)
+      opětovně naladit ZR na síti VOS.
+      • výjimku z ustanovení tohoto textu schvaluje KOR po dohodě s KOO.
+      Pro TOS použijte text v odrážkách takto:
+          -    ZR výpravčího je v základním stavu nastavena na VOS;
+          -    před zahájením požadované činnosti na TOS, sdělí příslušný uživatel výpravčímu
+               prostřednictvím VOS nebo jiným vhodným telekomunikačním zařízením důvod použití TOS
+               a sjedná s ním podmínky dorozumívání;
+          -    bezprostředně po ohlášení ukončení práce na zařízení, přepne výpravčí ZR zpět na VOS.
+      •   výjimku z ustanovení tohoto textu schvaluje KOR po dohodě s KOO.
+      Pro SMV a SMV 2 použijte text v odrážkách takto:
+          -    rádiová síť je na ZR výpravčího v základním stavu nastavena na VOS. Na … (název sítě)
+               se přepíná na požádání dopravce, a to prostřednictvím sítě VOS nebo jiným vhodným
+               telekomunikačním zařízením;
+          -    pokud není … (název sítě) aktuálně využívána jiným dopravcem, sjedná výpravčí, v rámci
+               projednání podmínek posunu, její použití se zaměstnancem řídícím posun;
+          -    v případě, že je … (název sítě) obsazena jiným dopravcem a pro provedení požadovaného
+               posunu není k dispozici jiná vhodná rádiová síť, kterou je dopravce oprávněn používat, nelze
+               posun prostřednictvím rádiové sítě SŽ uskutečnit;
+          -    ukončení používání … (název sítě) musí zaměstnanec řídící posun vždy neprodleně oznámit
+               výpravčímu;
+          -    po ohlášení o ukončení používání … (název sítě) dopravcem, přepne výpravčí ZR na VOS“.
+      •   výjimku z ustanovení tohoto textu schvaluje KOR po dohodě s KOO.
+      Pro STE dopravců použijte text v odrážkách takto:
+          -    rádiová síť je na ZR výpravčího v základním stavu nastavena na VOS. Na … (název sítě)
+               se přepíná na požádání dopravce, a to prostřednictvím sítě VOS nebo jiným vhodným
+               telekomunikačním zařízením;
+          -    po ukončení posunu a ohlášení zaměstnance řídícího posun o ukončení používání … (název
+               sítě) dopravcem, přepne výpravčí ZR na VOS;
+          -    používat síť … (název sítě) mimo výše stanovený obvod nebo jiným dopravcem je přísně
+               zakázáno!
+      •   výjimku z ustanovení tohoto textu schvaluje KOR po dohodě s KOO.
+
+
+
+
+44
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+                                                                     Příloha D (informativní)
+
+
+      Vzorový příklad zpracovaného provozního řádu místních rádiových sítí
+
+D.1 Vysvětlující podmínky při zpracování vzorového příkladu PŘ MRS
+
+(1)    Jedná se o PŘ MRS PO Kolín, který je zpracován pouze jako vzorový příklad a údaje
+       v něm uvedené nemusí odpovídat skutečnosti.
+
+(2)    Z důvodu zachování co nejvěrnějšího vzorového příkladu zpracovaného DU jsou příslušné
+       části PŘ uvedeny na jednotlivých stranách tak, aby odpovídaly podmínkám zpracování
+       dle tohoto předpisu a zásadám uvedených v Příloze C.
+
+(3)    Vzorový příklad záhlaví jednotlivých stránek (kromě titulní strany) je formou obrázku
+       uveden pouze na druhé straně PŘ (na straně se záznamy o opravách a změnách PŘ).
+       Ostatní strany vzorového příkladu PŘ tento obrázek neobsahují a při zpracování záhlaví
+       stránek PŘ MRS je nutné postupovat v souladu se zásadami dle tohoto předpisu.
+
+(4)    Samostatné číslování stránek vzorového příkladu PŘ není ve vzoru k dispozici. Stránky jsou
+       ve vzoru číslovány průběžně, a to výhradně pro účely tohoto předpisu.
+
+(5)    Textový obsah PŘ, vytvořený černou barvou písma, je ve vzorovém příkladu
+       zpracovaného DU pro zpracovatele závazný.
+
+(6)    Textový obsah PŘ, vytvořený modrou barvou písma, byl vytvořen v souladu se zásadami
+       pro vytvoření DU dle tohoto předpisu a je pouze příkladem, jak lze DU zpracovat.
+
+D.2 Vzorový příklad zpracovaného PŘ MRS
+
+
+
+
+                                                                                                   45
+SŽ D5-3                                                           účinnost od 14. prosince 2025
+
+
+
+
+          obr. D.1 – Vzorový příklad titulní strany zpracovaného PŘ MRS PO
+
+
+
+
+46
+SŽ D5-3                                                                       účinnost od 14. prosince 2025
+
+
+
+
+                    obr. D.2 – Vzorový příklad záhlaví zpracovaného PŘ MRS PO
+
+                            ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav
+a změn a za provedení příslušného záznamu.
+
+      oprava/změna                                                                 opravu/změnu
+                                    číslo jednací             účinnost od
+   a její pořadové číslo                                                             zapracoval
+
+
+
+
+                                                                                                        47
+SŽ D5-3                                                              účinnost od 14. prosince 2025
+
+
+
+
+                                              OBSAH
+                                                                                           strana
+
+ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH                                                                  3
+
+ROZSAH ZNALOSTÍ                                                                               4
+
+ZKRATKY A ZNAČKY                                                                              5
+
+1         VŠEOBECNÉ ORGANIZAČNÍ ZÁSADY                                                        6
+
+2         PROVOZOVANÉ RÁDIOVÉ SÍTĚ                                                            6
+
+3         ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ                            6
+
+4         ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ                                                           7
+
+5         PORUCHY RÁDIOVÉHO ZAŘÍZENÍ                                                          7
+
+6         ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ                                                   8
+
+7         NÁVODY K OBSLUZE RÁDIOVÝCH ZAŘÍZENÍ                                                 10
+
+8         ULOŽENÍ DOKUMENTACE                                                                 10
+
+9         MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE                                        10
+
+
+
+
+48
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+                                        ROZSAH ZNALOSTÍ
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci)
+nebo činnost, přičemž:
+
+   •    informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+        dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen
+        se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+    • úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+        dokumentu, zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen
+        se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+    • doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který je
+        v příslušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu
+        do příslušného ustanovení samostatně reprodukovat.
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+
+          pracovní činnost nebo zařazení (funkce)                       znalost ustanovení
+
+
+  kontrolní operatér (KOR, KOT)                            úplná: celý předpis
+
+
+  hlavní operatér (HLO)                                    úplná: celý předpis
+
+
+  odpovědný operatér (ODO)                                 úplná: celý předpis
+
+
+  provozní operatér (PRO)                                  úplná: v rozsahu své působnosti
+
+  zaměstnanci SŽ pověření kontrolní činností
+                                                           úplná: v rozsahu své působnosti
+  na úseku provozování dráhy a drážní dopravy
+
+  CPS nebo útvar odpovědný za dodání podkladů
+                                                           úplná: v rozsahu své působnosti
+  pro ZDD nebo ROV
+
+                                                           úplná: čl. 2, 3, 6.1, 6.4, 9.1 až 9.5 (dle
+  kontrolní operatér dopravce (KOD) *)                     vlastního OVKS)
+                                                           informativní: ostatní neuvedené čl.
+
+                                                           úplná: čl. 2, 3, 6.1, 6.4, 9.1 až 9.5 (dle
+  provozní operatér (PRO) dopravce *)                      vlastního OVKS)
+                                                           informativní: ostatní neuvedené čl.
+
+
+  ostatní určení zaměstnanci dopravce *)                   dle vnitřního opatření dopravce
+
+
+    *) platí pro dopravce, kteří používají ŽDC provozovanou SŽ v uvedené lokalitě dle působnosti PŘ
+
+
+
+
+                                                                                                            49
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+                                              ZKRATKY A ZNAČKY
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto dokumentu. V seznamu se neuvádějí
+legislativní zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích nebo
+v příkladech.
+
+CDP .............    centrální dispečerské pracoviště
+CPS .............    cizí právní subjekt
+CTD .............    Centrum techniky a diagnostiky (dříve TÚDC)
+DAP .............    dokumenty a předpisy
+DOZ .............    dálkové ovládání zabezpečovacího zařízení
+GŘ ...............   generální ředitelství
+HLO .............    hlavní operatér
+KOR .............    kontrolní operatér regionu
+KOD .............    kontrolní operatér dopravce
+MRS .............    místní rádiové sítě
+ODO ............     odpovědný operatér
+OŘ ...............   oblastní ředitelství
+OS ...............   organizační složka
+OVKS ...........     Oprávnění k využívání kmitočtů a sítí
+OZR .............    Oprávnění ke zřízení radiostanic
+PO ...............   provozní obvod
+PR ...............   přenosná radiostanice
+PŘ ...............   provozní řád
+PRO .............    provozní operatér
+SMV .............    síť manipulace vlaku
+STE..............    síť technologická
+SŽ ...............   Správa železnic, státní organizace
+SŽDC ...........     Správa železniční dopravní cesty, státní organizace (předchozí název SŽ)
+TOS .............    technická operativní síť
+TÚDC ...........     Technická ústředna dopravní cesty (předchozí název CTD)
+VOS .............    všeobecná operativní síť
+VR ...............   vozidlová radiostanice
+ZDD .............    základní dopravní dokumentace
+ZR ...............   základnová radiostanice
+ŽDC .............    železniční dopravní cesta
+ŽST .............    železniční stanice
+
+
+
+
+50
+SŽ D5-3                                                                        účinnost od 14. prosince 2025
+
+
+
+
+1   VŠEOBECNÉ ORGANIZAČNÍ ZÁSADY
+1.1.      Úvodní ustanovení
+          Provozní řád místních rádiových sítí řeší organizaci rádiového provozu simplexních sítí
+          na pracovištích v obvodu PO Kolín, je zpracován ve smyslu předpisu SŽ T7 a SŽ Z11
+          v platném znění a dalších vztažných obecně právních a rezortních předpisů, a je závazný
+          pro všechny uživatele těchto rádiových sítí, včetně zaměstnanců dopravců a CPS.
+1.2.      Obvod působnosti PŘ
+          PŘ je vypracován souhrnně pro obvod PO Kolín, který tvoří dopravny:
+          Bakov nad Jizerou, Čáslav, Český Brod, Kolín, Kutná Hora hl. n., Kutná Hora město, Lysá
+          nad Labem, Mladá Boleslav, Mladá Boleslav město, Nymburk hl. n., výhybna Straky.
+1.3.      Jiná závazná opatření
+          Tento PŘ je vydán na základě OZR a OVKS, které vydalo CTD pod evidenčním číslem 2897
+          dne 5.5.2025.
+          Dnem účinnosti tohoto PŘ se ruší Provozní řád místních rádiových sítí PO Kolín vydaný
+          pod čj. 13987/2022-SŽ-OŘ PHA-PO KON dne 2.dubna 2022.
+
+2   PROVOZOVANÉ RÁDIOVÉ SÍTĚ
+          V níže uvedené tabulce jsou abecedně uvedeny dopravny v obvodu PO Kolín, v nichž je
+          příslušné pracoviště zaměstnance řízení provozu vybaveno ZR s MRS, a to na základě
+          platného OZR. Podrobná specifikace pro každou síť je uvedena v čl. 9.1 až 9.5;
+                                  tabulka 1 – Seznam rádiových sítí
+
+                                                                 název sítě:
+                                     VOS       TOS        SMV       SMV 2
+                                                                                       STE *)
+ lokalita/dopravna                   9.1       9.2         9.3       9.4
+ Bakov nad Jizerou                   (A)        (A)        (A)         x                   x
+ Čáslav                              (A)        (A)        (A)         x                   x
+ Český Brod                          (A)        (A)        (A)         x                   x
+ Kolín                               (A)        (A)        (A)        (A)           (P) STE1 – 9.5
+ Kutná Hora hl.n.                    (A)        (A)        (A)         x                   x
+ Kutná Hora město                    (A)        (A)        (A)         x                   x
+ Lysá nad Labem                      (A)        (A)        (A)         x                   x
+ Mladá Boleslav hl.n.                (A)        (A)        (A)         x                   x
+ Mladá Boleslav město                (A)        (A)        (A)         x                   x
+ Nymburk hl.n.                       (A)        (A)        (A)        (A)                  x
+ výhybna Straky                      (A)         x          x          x                   x
+ Poznámky k tabulce 1:
+     •  podrobná specifikace pro každou síť je uvedena v článcích 9.1 až 9.5 místních opatření.
+
+3   ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ
+          Kontrolní operatér regionu (KOR) OŘ Praha.
+          Hlavní operatér (HLO) PO Kolín.
+          Odpovědný operatér (ODO) PO Kolín.
+          Jmenovitý seznam KOR, HLO a ODO, včetně kontaktů, je k dispozici na Portálu
+          provozování dráhy (PPD) ve složce RÁDIOVÝ PROVOZ.
+          Provozní operatér (PRO):
+          •   výpravčí, dirigující dispečer, traťový dispečer, signalista, dozorce výhybek;
+          •   zaměstnanci dopravců a CPS dle pracovního zařazení uvedených v příslušném PŘ
+              rádiových sítí dopravce nebo CPS.
+
+
+
+
+                                                                                                         51
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+4    ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ
+4.1.      Specifikace servisní organizace ZR
+          ZR udržuje a opravy provádí servisní organizace na základě smluvního vztahu uzavřeného
+          se správcem zařízení.
+4.2.      Specifikace servisní organizace PR
+          PR udržuje a opravy provádí servisní organizace na základě smluvního vztahu uzavřeného
+          se správcem zařízení.
+4.3.      Specifikace servisní organizace VR
+          Neobsazeno.
+
+5    PORUCHY RÁDIOVÉHO ZAŘÍZENÍ
+5.1.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch ZR
+          Poruchu na ZR nebo rádiové sítě zaznamená obsluhující zaměstnanec v souladu
+          s ustanovením předpisu SŽ Z11 a předpisu SŽ T100 do určeného Záznamníku poruch
+          na sdělovacím a zabezpečovacím zařízení.
+          Obsluhující zaměstnanec nebo zaměstnanec určený ZDD ohlásí příslušnou poruchu
+          na telefonní linku 972 110 000.
+          Hlášení poruchy musí obsahovat:
+          •   jméno a příjmení ohlašovatele;
+          •   přesný čas volání;
+          •   lokalitu umístění techniky;
+          •   kontaktní telefonní číslo ohlašovatele (telefonní kontakt na lokalitu umístění
+              techniky);
+          •   podrobný popis poruchy zařízení.
+5.2.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch PR
+          V případě poruchy PR uvede PRO typ radiostanice (např. Motorola P040), výrobní číslo
+          a lokalitu umístění radiostanice.
+          Poruchu ohlásí PRO v pracovní den příslušnému HLO nebo ODO, který po ověření,
+          zda se nejedná o závadu při obsluze radiostanice, zajistí jejich opravu a případné vydání
+          náhradní PR.
+5.3.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch VR
+          Neobsazeno.
+6    ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ
+6.1.      Všeobecné zásady
+          •   rádiový provoz se kromě ustanovení předpisů SŽ pro rádiový provoz a jeho obsluhu
+              řídí i ustanovením tohoto PŘ;
+          •   pokud není v textu PŘ uvedeno jinak, jsou ustanovení uvedená pro pracovní zařazení
+              výpravčí platná i pro pracovní zařazení dirigující dispečer nebo traťový dispečer;
+          •   výpravčí nesmí, bez písemného souhlasu držitele sítě STE, jejímž držitelem je
+              výhradně jeden dopravce, dovolit nebo nařídit používat rádiovou komunikaci v této
+              síti jiným OS nebo dopravcům, a to ani v případě jejich momentálního nevyužívání!
+              V případě, že výpravčí zjistí, že takovou síť používá jiná organizace než držitel, je
+              povinen, v mezích svých kompetencí, zjednat nápravu (např. zastavit posun
+              prováděný na takové síti, ohlásit tuto skutečnost neprodleně HLO apod.)
+              a zaměstnance, který ji používá neoprávněně, na tuto skutečnost ihned upozornit.
+              Při opakovaném zneužívání této sítě oznámí výpravčí tuto skutečnost HLO a ten
+              zajistí nápravu písemným upozorněním, které zašle příslušnému dopravci nebo OS,
+              jejichž zaměstnanci se porušení OVKS a PŘ dopustili a v kopii i KOR.
+
+
+
+
+52
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+6.2.      Napájení radiostanic a zařízení, která je ovládají
+          Základní napájení ZR je zajištěno z centrálního napájecího zdroje 230V/50Hz. Náhradní
+          napájení je zajištěno bezobslužně po dobu minimálně 6 hodin. V případě vzniku požáru je
+          vypínač základního napájení ZR umístěn v rozvodné skříni. Ohlášení požáru se řídí
+          dokumentací požární ochrany.
+          PR provozních operatérů jsou napájené z bateriových zdrojů, které jsou jejich součástí.
+          Dobíjení a provozuschopnost zdrojů zajišťují PRO, kterým byly radiostanice přiděleny.
+6.3.      Provozní ošetřování
+          Provozní ošetřování radiostanic v majetku SŽ provádí obsluhující zaměstnanec ve službě.
+          Pokud není stanoveno jinak, provádí se provozní ošetření radiostanice minimálně
+          1× za směnu, zpravidla na jejím konci. Pokyny pro provozní ošetřování radiostanic jsou
+          uvedeny v návodu pro obsluhu.
+6.4.      Seznam volacích značek a kombinace selektivní volby
+6.4.1. Základnové radiostanice
+                                 tabulka 2 – Základnové radiostanice
+
+                                                                                                 selektivní
+    název dopravny            obsluhuje         ovládání            volací značka
+                                                                                                   volba
+ Bakov nad Jizerou        výpravčí               místní    výpravčí Bakov                            není
+
+ Čáslav                   dirigující dispečer    místní    dirigující dispečer Čáslav                BAA
+
+                          výpravčí               místní    výpravčí Brod
+
+ Český Brod               traťový dispečer      dálkové    CDP Praha                                 BBB
+
+                          výpravčí PPV          dálkové    výpravčí Kolín
+
+                          výpravčí               místní    výpravčí Kolín
+                                                                                                     CAB
+ Kolín                    traťový dispečer      dálkové    CDP Praha
+
+                          signalista St. 4       místní    stavědlo čtyři Kolín                      BBA
+
+ Kutná Hora hl.n.         výpravčí               místní    výpravčí Kutná Hora                       CAC
+
+                          výpravčí DOZ          dálkové    výpravčí Kutná Hora
+ Kutná Hora město                                                                                    BAB
+                          výpravčí               místní    výpravčí Kutná Hora město
+
+ Lysá nad Labem           výpravčí               místní    výpravčí Lysá                             AAB
+
+ Mladá Boleslav hl.n.     výpravčí               místní    výpravčí Boleslav                         ACA
+
+                          výpravčí               místní    výpravčí Mladá Boleslav město
+ Mladá Boleslav město                                                                                BBC
+                          výpravčí DOZ          dálkové    výpravčí Boleslav
+
+                          výpravčí os.n.         místní    výpravčí Nymburk osobní                   není
+
+ Nymburk hl.n.            signalista St. 2       místní    stavědlo dva Nymburk                      není
+
+                          výpravčí St. 4         místní    výpravčí Nymburk stavědlo čtyři           není
+
+ výhybna Straky           výpravčí               místní    výpravčí Straky                           není
+
+
+
+
+                                                                                                            53
+SŽ D5-3                                                                          účinnost od 14. prosince 2025
+
+
+
+
+6.4.2. Přenosné radiostanice SŽ
+                                     tabulka 3 – Přenosné radiostanice
+
+       pracovní zařazení
+                                              volací značka                 případný rozlišující znak
+         zaměstnance
+ výpravčí                                                                                 x
+
+ dirigující dispečer               v souladu s čl. 6.4.1                                  x
+
+ signalista                                                                               x
+
+ dozorce výhybek                   dozorce výhybek …                      řadová číslovka nebo příjmení
+
+ HLO                               hlavní operatér PO …                                   x
+
+ ODO                               odpovědný operatér …                               příjmení
+
+ Vysvětlivky k tabulce 3:
+ •    … - zaměstnanec doplní název příslušné dopravny (úseku) v souladu s předpisem SŽ Z11 dle aktuální
+      provozní situace.
+
+            Použití volacích značek zaměstnanců obsluhujících PR pro navázání spojení, musí být
+            provedeno před zahájením jejich související pracovní činnosti nebo před vstupem tohoto
+            zaměstnance do provozované dopravní cesty. V případě, že by obsluhující zaměstnanec
+            musel navázat spojení s použitím volacích značek v průběhu již prováděné pracovní
+            činnosti (po vstupu do provozované dopravní cesty), musí tuto pracovní činnost nejprve
+            přerušit a zaujmout takovou pozici (místo), v souladu s ustanovením příslušných
+            dokumentů a předpisů, aby nemohlo dojít při navazování spojení k ohrožení jeho
+            bezpečnosti.
+6.4.3. Vozidlové radiostanice dopravce SŽ
+            Neobsazeno.
+6.4.4. Radiostanice jiných OS, dopravců nebo CPS
+            Volací značky provozních operatérů jiných OS, dopravců a CPS musí být vytvořeny
+            a používány v souladu s předpisem SŽ Z11. Pracovní zařazení zaměstnanců musí být
+            uvedena v příslušném Provozním řádu rádiových sítí těchto organizací.
+6.5.        Záznamová zařízení
+            Všechny ZR v obvodu PO jsou připojeny na záznamová zařízení, podrobnosti jsou uvedeny
+            v ZDD.
+
+7     NÁVODY K OBSLUZE RÁDIOVÝCH ZAŘÍZENÍ
+                               tabulka 4 – Návody k obsluze rádiových zařízení
+
+     druh
+                                      typ zařízení                                    používá
+    zařízení
+
+       ZR       RB 248/1H, Motorola GM 360, HYT – TM800                  výpravčí, dirigující dispečer
+
+                                                                         výpravčí, dirigující dispečer,
+      PR        Motorola CP 340, CP 040, GP 340, HYT – TC700P            signalista, dozorce výhybek,
+                                                                         HLO, ODO
+
+      DT        IPTC-K, TOP1                                             výpravčí, traťový dispečer
+
+            Návody k obsluze příslušného typu rádiového zařízení uvedeného v seznamu jsou
+            uloženy:
+            •   v elektronické verzi na PPD jakou součást ZDD;
+            •   v tištěné verzi na pracovištích signalistů a dozorců výhybek.
+
+
+
+
+54
+SŽ D5-3                                                                      účinnost od 14. prosince 2025
+
+
+
+
+8   ULOŽENÍ DOKUMENTACE
+                                 tabulka 5 – Uložení dokumentace
+
+      název dokumentu                                      místo uložení
+
+ OVKS a OZR                     OŘ Praha – KOR
+
+                                příloha č. 21 SŘ; PPD -
+ PŘ MRS PO Kolín
+                                https://provoz.spravazeleznic.cz/Portal/ViewArticle.aspx?oid=1958762
+
+ Záznamník poruch               pracoviště výpravčích
+
+9   MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE
+          Místní opatření pro MRS dle čl. 2 je uvedeno v samostatných čl.9.1 až 9.5.
+
+
+
+
+                                                                                                       55
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+9.1.      Místní opatření technologie práce pro rádiovou síť VOS
+9.1.1. Technické a technologické specifikace sítě
+          Kmitočet:             148,7125
+          Simplexní kanál:      12
+          Může využívat:        organizace, která je držitelem platného OVKS, resp. OZR
+          Použití sítě:         dle předpisu SŽ Z11
+9.1.2. Řídící radiostanice
+          ZR výpravčího.
+9.1.3. Uložení PR a systém jejich předávky
+          PR pro použití v síti VOS v obvodu PO Kolín jsou uloženy u příslušného PRO a jsou
+          předávány v „Odevzdávce dopravní služby“ podle platné ZDD.
+9.1.4. Uložení náhradních radiostanic
+          Náhradní PR pro použití v síti VOS jsou uloženy u HLO, který zajišťuje jejich vydávání
+          v případě potřeby.
+9.1.5. Technologická opatření
+          ZR výpravčího je v základním stavu zapnutá na rádiové síti VOS. Na jiné rádiové sítě,
+          které jsou k dispozici na ZR, se výpravčí (dispečer) přepíná jen na požádání, pokud
+          se nedohodne s požadujícím uživatelem takové sítě jinak. Po ukončení potřebné
+          komunikace na jiné síti musí výpravčí (dispečer) opětovně naladit ZR na síti VOS.
+
+
+
+
+56
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+9.2.      Místní opatření technologie práce pro rádiovou síť TOS
+9.2.1. Technické a technologické specifikace sítě
+          Kmitočet:             148,8375
+          Simplexní kanál:      13
+          Může využívat:        organizace, která je držitelem platného OVKS, resp. OZR
+          Použití sítě:         dle předpisu SŽ Z11
+9.2.2. Řídící radiostanice
+          ZR výpravčího nebo PR vedoucího prací.
+9.2.3. Uložení PR a systém jejich předávky
+          PR pro použití v síti TOS v obvodu PO Kolín jsou uloženy u příslušného PRO a jsou
+          předávány v „Odevzdávce dopravní služby“ podle platné ZDD.
+9.2.4. Uložení náhradních radiostanic
+          Náhradní PR pro použití v síti TOS jsou uloženy u HLO, který zajišťuje jejich vydávání
+          v případě potřeby.
+9.2.5. Technologická opatření
+          •    ZR výpravčího je v základním stavu nastavena na VOS;
+          •    před zahájením požadované činnosti na TOS, sdělí příslušný uživatel výpravčímu
+               prostřednictvím VOS nebo jiným vhodným telekomunikačním zařízením důvod použití
+               TOS a sjedná s ním podmínky dorozumívání;
+          •    bezprostředně po ohlášení ukončení práce na zařízení, přepne výpravčí ZR zpět
+               na VOS.
+
+
+
+
+                                                                                                   57
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+9.3.      Místní opatření technologie práce pro rádiovou síť SMV
+9.3.1. Technické a technologické specifikace sítě
+          Kmitočet:              153,4875
+          Simplexní kanál:       21
+          Může využívat:         organizace, která je držitelem platného OVKS, resp. OZR
+          Použití sítě:          dle předpisu SŽ Z11
+9.3.2. Řídící radiostanice
+          Radiostanice zaměstnance řídícího posun.
+9.3.3. Uložení PR a systém jejich předávky
+          PR pro použití v síti SMV v obvodu PO Kolín jsou uloženy u příslušného PRO a jsou
+          předávány v „Odevzdávce dopravní služby“ podle platné ZDD.
+9.3.4. Uložení náhradních radiostanic
+          Náhradní PR (pro zaměstnance řízení provozu SŽ) pro použití v síti SMV jsou uloženy
+          u HLO, který zajišťuje jejich vydávání v případě potřeby.
+9.3.5. Technologická opatření
+          •    rádiová síť je na ZR výpravčího v základním stavu nastavena na VOS. Na SMV
+               se přepíná na požádání dopravce, a to prostřednictvím sítě VOS nebo jiným vhodným
+               telekomunikačním zařízením;
+          •    pokud není SMV aktuálně využívána jiným dopravcem, sjedná výpravčí, v rámci
+               projednání podmínek posunu, její použití se zaměstnancem řídícím posun;
+          •    v případě, že je SMV obsazena jiným dopravcem a pro provedení požadovaného
+               posunu není k dispozici jiná vhodná rádiová síť, kterou je dopravce oprávněn
+               používat, nelze posun prostřednictvím rádiové sítě SŽ uskutečnit;
+          •    ukončení používání SMV musí zaměstnanec řídící posun vždy neprodleně oznámit
+               výpravčímu;
+          •    po ohlášení o ukončení používání SMV dopravcem, přepne výpravčí ZR zpět na VOS.
+
+
+
+
+58
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+9.4.      Místní opatření technologie práce pro rádiovou síť SMV 2
+9.4.1. Technické a technologické specifikace sítě
+          Kmitočet:              152,9250
+          Simplexní kanál:       68
+          Může využívat:         organizace, která je držitelem platného OVKS, resp. OZR
+          Použití sítě:          dle předpisu SŽ Z11
+9.4.2. Řídící radiostanice
+          Radiostanice zaměstnance řídícího posun.
+9.4.3. Uložení PR a systém jejich předávky
+          PR pro použití v síti SMV 2 v obvodu PO Kolín jsou uloženy u příslušného PRO a jsou
+          předávány v „Odevzdávce dopravní služby“ podle platné ZDD.
+9.4.4. Uložení náhradních radiostanic
+          Náhradní PR (pro zaměstnance řízení provozu SŽ) pro použití v síti SMV 2 jsou uloženy
+          u HLO, který zajišťuje jejich vydávání v případě potřeby.
+9.4.5. Technologická opatření
+          •    rádiová síť je na ZR výpravčího v základním stavu nastavena na VOS. Na SMV 2
+               se přepíná na požádání dopravce, a to prostřednictvím sítě VOS nebo jiným vhodným
+               telekomunikačním zařízením;
+          •    pokud není SMV 2 aktuálně využívána jiným dopravcem, sjedná výpravčí, v rámci
+               projednání podmínek posunu, její použití se zaměstnancem řídícím posun;
+          •    v případě, že je SMV 2 obsazena jiným dopravcem a pro provedení požadovaného
+               posunu není k dispozici jiná vhodná rádiová síť, kterou je dopravce oprávněn
+               používat, nelze posun prostřednictvím rádiové sítě SŽ uskutečnit;
+          •    ukončení používání SMV 2 musí zaměstnanec řídící posun vždy neprodleně oznámit
+               výpravčímu;
+          •    po ohlášení o ukončení používání SMV 2 dopravcem, přepne výpravčí ZR zpět na VOS.
+
+
+
+
+                                                                                                   59
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+9.5.      Místní opatření technologie práce pro rádiovou síť STE1 v ŽST Kolín
+9.5.1. Technické a technologické specifikace sítě
+          Kmitočet:              153,5125
+          Simplexní kanál:       30
+          Může využívat:         dopravce ČD, a.s.
+          Použití sítě:          provádění posunu
+9.5.2. Řídící radiostanice
+          Radiostanice zaměstnance řídícího posun.
+9.5.3. Uložení PR a systém jejich předávky
+          PR pro použití v síti STE1 v ŽST Kolín jsou uloženy u příslušného PRO a jsou předávány
+          v „Odevzdávce dopravní služby“ podle platné ZDD.
+9.5.4. Uložení náhradních radiostanic
+          Náhradní PR (pro zaměstnance řízení provozu SŽ) pro použití v síti STE1 jsou uloženy
+          u HLO, který zajišťuje jejich vydávání v případě potřeby.
+9.5.5. Technologická opatření
+          •    rádiová síť je na ZR výpravčího v základním stavu nastavena na VOS. Na STE1
+               se přepíná na požádání dopravce, a to prostřednictvím sítě VOS nebo jiným vhodným
+               telekomunikačním zařízením;
+          •    po ukončení posunu a ohlášení zaměstnance řídícího posun o ukončení používání
+               STE1 dopravcem, přepne výpravčí ZR na VOS;
+          •    používat síť STE1 mimo výše stanovený obvod nebo jiným dopravcem je přísně
+               zakázáno!
+
+
+
+
+60
+SŽ D5-3                                                                   účinnost od 14. prosince 2025
+
+
+
+
+                                                                        Příloha E (normativní)
+
+
+           Zásady pro zpracování provozních řádů traťových rádiových sítí
+
+E.1 Všeobecné zásady pro zpracování PŘ TRS
+
+(1)   Jednotlivé části PŘ jsou popsány v čl. E.2 a jejich pořadí je při zpracování nutné vždy
+      dodržet.
+
+(2)   Názvy nadpisů a názvy jednotlivých článků, které jsou uvedeny v těchto zásadách
+      kurzívou, je nutné je při zpracování přesně dodržet. Do zpracovaného PŘ se tyto názvy
+      uvádějí tučně a bez kurzívy.
+
+(3)   Texty obsahové části PŘ TRS, které jsou pevně stanoveny, jsou v těchto zásadách
+      uvedeny kurzívou se šedivě podbarveným písmem a zpracovatel je musí při zpracování
+      uvést v doslovném znění. Pokud je dovoleno tyto závazné texty upravovat nebo měnit, je
+      to v příslušné části zásad uvedeno. Do zpracovaného PŘ se tyto závazné texty uvádějí
+      standardním písmem a bez podbarvení.
+
+(4)   Grafická a textová podoba titulní strany a samostatných stránek pro záznamy o opravách
+      a změnách, obsah, rozsah znalostí a zkratky a značky je uvedena ve vzorovém příkladu
+      zpracovaného PŘ TRS v Příloze F.
+
+(5)   Pro zpracování PŘ TRS je vydávána šablona, kterou je zpracovatel povinen použít.
+
+E.2 Zásady pro zpracování jednotlivých částí PŘ TRS
+
+(1)   Titulní strana PŘ TRS:
+
+      •      textová část titulní strany musí být zpracována v souladu s čl. 3.
+
+(2)   Záhlaví, zápatí a označování jednotlivých stránek PŘ TRS
+
+      •      záhlaví každé stránky PŘ (vyjma titulní strany) musí být zpracováno v souladu s čl. 3;
+
+      •      v zápatí každé stránky musí být uvedeno její číslo, počínaje stranou 2.
+
+(3)   Každá část DU dle tohoto odstavce se při zpracování uvádí na samostatnou stranu a jejich
+      pořadí dle odrážek a) až e) musí být dodrženo.
+
+      a)     záznamy o opravách a změnách:
+
+             •     záznamy o opravách a změnách se uvádějí vždy na první stranu za titulní list.
+
+      b)     obsah PŘ TRS;
+
+      c)     rozsah znalostí;
+
+      d)     zkratky a značky:
+
+             •     seznam značek a zkratek se řadí abecedně (i v případě pozdějších změn
+                   nebo doplnění);
+
+             •     zkratky cizích slov nebo v cizím jazyce popište v českém překladu a v závorce
+                   doplňte jejich popis v původním jazyce, a to v uvozovkách a kurzívou.
+
+             Vzorový příklad zápisu zkratky cizích slov:
+
+             HTML …… hypertextový značkovací jazyk (z angl. „Hypertext Markup Language“)
+
+
+
+
+                                                                                                    61
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+       e)      členění a obsahová část PŘ TRS:
+
+               •      číselné členění jednotlivých článků a odstavců PŘ TRS dle níže uvedených
+                      zásad je nutné vždy dodržet;
+
+               •      do obsahové části PŘ TRS uveďte postupně tyto články a obsah:
+
+1      VŠEOBECNÉ ORGANIZAČNÍ ZÁSADY
+1.1.   Úvodní ustanovení
+       Uveďte text:
+       Provozní řád sítě … (název sítě) pro úsek trati … (název úsek trati; specifikace úseku musí být shodná
+       s popisem na titulní straně) je zpracován ve smyslu předpisu SŽ T7 a SŽ Z11 v platném znění a dalších
+       vztažných obecně právních a resortních předpisů, a je závazný pro všechny uživatele této rádiové sítě,
+       včetně zaměstnanců dopravců a CPS.
+
+1.2.   Obvod působnosti PŘ
+       Uveďte text:
+       Číslo tratě dle TTP / traťový úsek:
+       • v seznamu pod sebou uveďte pod výše uvedený text (v lomítku) přesnou specifikaci tratí dle TTP
+           a jejich příslušných úseků, kterých se PŘ týká;
+       • specifikace úseku musí být shodná s popisem na titulní straně.
+
+1.3.   Jiná závazná opatření
+       Uveďte text:
+       … (název sítě) pro tratě (úseky) dle čl. 1.2, je provozována na základě OZR a OVKS vydaným CTD
+       pod evidenčním č. 8616/2022 s platností od 6. června 2022.
+       Dále uveďte:
+       •    seznam vztažných dokumentů ke zrušení ke dni účinnosti PŘ (údaje o zrušení předchozí verze PŘ
+            uvádějte pouze v případě novelizace PŘ).
+
+2      PROVOZOVANÉ RÁDIOVÉ SÍTĚ
+       Uveďte:
+       •    stručnou charakteristiku sítě;
+       •    jakým systémem je provozována (dle výrobce a předpisů SŽ T7 a SŽ Z11);
+       •    zda je vybavena selektivní volbou (v případě SRV);
+       •    zda se jedná o stuhovou nebo ostrůvkovou síť (v případě SRD);
+       •    pro jaké spojení a jeho typy je určena.
+
+3      ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ
+       Uveďte:
+       Kontrolní operatér regionu (KOR) OŘ … (uveďte název).
+       Hlavní operatér (HLO) PO … (uveďte název).
+       Odpovědný operatér (ODO) PO … (pokud je ustanoven uveďte název).
+       • jména a kontakty KOR, HLO a ODO neuvádějte;
+       • pokud ODO nejsou ustanoveni, příslušnou zkratku neuvádějte;
+       • pod seznam těchto operatérů uveďte dále text:
+       Aktuální jmenovitý seznam KOR, HLO a ODO, včetně kontaktů, je k dispozici na Portálu provozování
+       dráhy ve složce RÁDIOVÝ PROVOZ.
+       •    text výše uvedené věty upravte podle aktuální výčtu nadřízených operatérů v obvodu TRS.
+       Dále uveďte text:
+       Provozní operatér (PRO):
+       • pod tímto textem uveďte pracovní zařazení zaměstnanců obslužně využívající rádiový provoz
+          v obvodu TRS (např. výpravčí, dirigující dispečer, traťový dispečer, strojvedoucí);
+       • jednotlivé profese oddělujte čárkou.
+
+4      ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ
+4.1.   Specifikace servisní organizace ZR
+       Uveďte text:
+       ZR udržuje a opravy provádí servisní organizace na základě smluvního vztahu uzavřeného se správcem
+       zařízení.
+
+
+
+
+62
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+4.2.   Specifikace servisní organizace PR
+       Uveďte:
+       •   specifikaci organizace provádějící servis rádiového zařízení v obvodu působnosti PŘ, včetně rozsahu
+           její působnosti a způsobu spolupráce;
+       •   pokud nejsou PR pro tuto síť na pracovištích řízení provozu a dopravce SŽ k dispozici uvádějte
+           pouze tento text:
+       Podmínky pro údržbu a servis PR dopravců nebo CPS, které splňují podmínky pro jejich použití v této
+       síti, jsou uvedeny v PŘ rádiových sítí těchto organizací.
+
+4.3.   Specifikace servisní organizace VR
+       Uveďte text:
+       Údržba a opravy VR v majetku SŽ jsou prováděny dle interních opatření příslušné OS SŽ.
+       Pro servis a údržbu VR dopravců (mimo SŽ) platí ustanovení PŘ RS příslušného dopravce.
+
+5      PORUCHY RÁDIOVÉHO ZAŘÍZENÍ
+5.1.   Specifikace zásad ve vztahu k ohlašování a odstraňování poruch ZR
+       Uveďte text:
+       Poruchu na ZR nebo rádiové sítě zaznamená určený obsluhující zaměstnanec v souladu s ustanovením
+       předpisu SŽ Z11 a předpisu SŽ T100 do určeného Záznamníku poruch na sdělovacím a zabezpečovacím
+       zařízení a ohlásí ji na telefonní linku 972 110 000.
+       Hlášení poruchy musí obsahovat:
+       •   jméno a příjmení ohlašovatele;
+       •   přesný čas volání;
+       •   lokalitu umístění techniky;
+       •   kontaktní telefonní číslo ohlašovatele (telefonní kontakt na lokalitu umístění techniky);
+       •   podrobný popis poruchy zařízení.
+
+5.2.   Specifikace zásad ve vztahu k ohlašování a odstraňování poruch PR
+       Uveďte:
+       •   sjednané zásady pro ohlašování a odstraňování poruch PR;
+       •   odkaz na předpis SŽ Z11, případně stručně popište (v případě potřeby místní specifikace), jak má
+           provozní operatér v případě poruchy postupovat;
+       •   pokud nejsou PR pro tuto síť na pracovištích řízení provozu a dopravce SŽ k dispozici uvádějte
+           pouze tento text:
+       Podmínky pro ohlašování a odstraňování poruch PR dopravců nebo CPS, které splňují podmínky
+       pro jejich použití v této síti, jsou uvedeny v PŘ rádiových sítí těchto organizací.
+
+5.3.   Specifikace zásad ve vztahu k ohlašování a odstraňování poruch VR
+       Uveďte text:
+       Poruchu VR ohlásí strojvedoucí v souladu s ustanovením předpisu SŽ Z11 výpravčímu a zaznamená ji
+       do „Záznamníku poruch na hnacím vozidle“. Pro další jízdu vlaku platí ustanovení předpisu SŽ Z11.
+       Poruchu ohlásí strojvedoucí také příslušnému zaměstnanci, a to dle vnitřních opatření dopravce (mimo
+       SŽ) nebo OS SŽ (HV SŽ). Odstranění poruchy VR zajišťuje dopravce nebo OS SŽ na základě vnitřního
+       opatření.
+
+6      ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ
+6.1.   Všeobecné zásady
+       Uveďte text:
+       Rádiový provoz se kromě ustanovení předpisů SŽ T7 a SŽ Z11 pro rádiový provoz a jeho obsluhu řídí
+       i ustanovením tohoto PŘ.
+       Seznam odborně způsobilých zaměstnanců (provozních operatérů) dopravců nebo CPS, kteří mohou
+       tuto síť na základě OVKS využívat, musí být uveden v příslušném PŘ rádiových sítí těchto organizací.
+
+6.2.   Napájení rádiových stanic a zařízení, která je ovládají
+       Pro ZR uveďte text:
+       Základní napájení ZR je zajištěno z centrálního napájecího zdroje 230V/50Hz. Náhradní napájení je
+       zajištěno bezobslužně po dobu minimálně 6 hodin. V případě vzniku požáru je vypínač základního
+       napájení ZR umístěn v rozvodné skříni. Ohlášení požáru se řídí dokumentací požární ochrany.
+       •   v případě, že pro napájení ZR a pro vznik požáru nelze uvedený text plnohodnotně použít, upravte
+           text podle místních specifik nebo uveďte případný popis obsluhy zařízení, která je po provozním
+           operatérovi požadována.
+
+
+
+
+                                                                                                              63
+SŽ D5-3                                                                             účinnost od 14. prosince 2025
+
+
+
+
+       Pro PR uveďte text:
+       PR provozních operatérů jsou napájené z bateriových zdrojů, které jsou jejich součástí. Dobíjení
+       a provozuschopnost zdrojů zajišťují PRO, kterým byly radiostanice přiděleny.
+       •   tento text uvádějte bez ohledu na to, zda jsou na pracovišti řízení provozu a dopravce SŽ k dispozici
+           PR pro příslušnou TRS.
+       Pro VR uveďte text:
+       VR jsou napájené z napájecího zdroje příslušného vozidla. Provozuschopnost zdroje a opatření
+       pro odpojení napájecího zdroje v případě vzniku požáru zajišťuje PRO.
+       •   v případě, že pro napájení VR a pro vznik požáru nelze uvedený text plnohodnotně použít, upravte
+           text podle místních specifik nebo uveďte případný popis obsluhy zařízení, která je po provozním
+           operatérovi požadována.
+
+6.3.   Provozní ošetřování
+       Uveďte text:
+       Provozní ošetřování radiostanic v majetku SŽ provádí obsluhující zaměstnanec ve službě. Pokud není
+       stanoveno jinak, provádí se provozní ošetření radiostanice minimálně 1× za směnu, zpravidla na jejím
+       konci. Případné pokyny pro provozní ošetřování radiostanic jsou uvedeny v návodu pro obsluhu.
+       •   v případě, že pro konkrétní typ radiostanice je výrobcem specifikováno provozní ošetření
+           radiostanice odlišným způsobem, než je uvedeno v textu výše, uveďte popis provozního ošetření
+           v souladu s návodem pro obsluhu nebo dle doporučení výrobce.
+
+6.4.   Seznam volacích značek a kombinace selektivní volby
+6.4.1. Základnové radiostanice
+       Uveďte:
+       •   formou tabulky 1 dle typu sítě (SRD nebo SRV); v PŘ GSM-R CZ se tabulka 1 nepoužívá;
+       •   seznam lokalit (dopraven) s umístěním ZR řaďte v tabulce vždy podle specifikace příslušné tratě
+           dle čl. 1.2 PŘ, tedy zpravidla od začátku ke konci tratě;
+       •   pokud lze ZR ovládat místně i dálkově, použijte pro příslušnou dopravnu tolik řádků, kolik je
+           aktuálních možností ovládání a obslužných pracovišť; umístění ZR (dopravnu/lokalitu) poté slučte
+           pro všechny řádky dohromady;
+       •   do sloupce „obsluhuje“ uvádějte pouze pracovní zařazení obsluhujícího zaměstnance (výpravčí,
+           výpravčí PPV, výpravčí RDP, dirigující dispečer, traťový dispečer) s případným doplněním o místní
+           název dle ZDD (ve zkratce);
+       •   do sloupce „ovládání“ uveďte slovo „místní“ nebo „dálkové“ podle druhu ovládání ZR
+           pro příslušného zaměstnance;
+       •   volací značky uvádějte v souladu s předpisem SŽ Z11;
+       •   pro SRV se ZR bez kombinace selektivní volby uveďte slovo „není“;
+       •   pro SRD uveďte v souladu s předpisem SŽ Z11 do sloupce „způsob obsluhy“ údaj „výpravčí“
+           nebo „dispečer“, a to dle způsobu obsluhy, možnosti spojení a rozsahu ovládání;
+       •   v případě potřeby doplňte tabulku vhodnou poznámkou, kterou popište pod tabulkou.
+       Pro SRD použijte tabulku 1 takto:
+                                   tabulka 1 - Základnové radiostanice
+
+                                                                                                    způsob
+       umístění ZR              obsluhuje         ovládání             volací značka
+                                                                                                    obsluhy
+
+
+       Pro SRV použijte tabulku 1 takto:
+                                   tabulka 1 - Základnové radiostanice
+
+                                                                                                   selektivní
+       umístění ZR              obsluhuje         ovládání             volací značka
+                                                                                                     volba
+
+
+6.4.2. Přenosné radiostanice SŽ
+       Uveďte:
+       •   formou tabulky dle vzoru tabulky 2;
+       •   tabulku použijte pouze v případě, že jsou na pracovištích řízení provozu nebo dopravce SŽ tyto
+           radiostanice k dispozici;
+       •   do seznamu uveďte všechna pracovní zařazení zaměstnanců SŽ (v samostatných řádcích), kteří
+           jsou oprávněni obsluhovat PR ve vašem obvodu;
+
+
+
+
+64
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+       •   volací značky uvádějte v souladu s předpisem SŽ Z11, a to zpravidla bez názvu příslušné dopravny
+           (pokud se jedná o zaměstnance bez trvalého pracoviště);
+       •   název dopravny (úseku) u příslušných volacích značek nahraďte třemi tečkami (vysvětlení tohoto
+           zápisu musí být závazně uvedeno vysvětlivkou dle vzoru v tabulce);
+       •   v případě, že lze předpokládat, že ve stejné lokalitě a ve stejné rádiové síti bude PR současně
+           používat více zaměstnanců se stejným pracovním zařazením, uveďte ve sloupci „případný rozlišující
+           znak“ slovo/slova, která budou obsluhující zaměstnanci v takovém případě muset ve volací značce
+           používat (např. příjmení, pořadová číslovka, název útvaru, název OJ, název střediska apod);
+       •   tabulku doplňte vhodnou poznámkou, kterou popište pod tabulkou.
+                                   tabulka 2 – Přenosné radiostanice
+
+       pracovní zařazení
+                                            volací značka                    případný rozlišující znak
+         zaměstnance
+
+
+ Vysvětlivky k tabulce 2:
+ •    … - zaměstnanec doplní název příslušné dopravny (úseku) v souladu s předpisem SŽ Z11 dle aktuální
+      provozní situace.
+
+6.4.3. Vozidlové radiostanice dopravce SŽ
+       Uveďte:
+       •   seznam pracovních zařazení zaměstnanců, kteří jsou oprávněni obsluhovat VR;
+       •   volací značky uvádějte v souladu s předpisem SŽ Z11;
+       Pro strojvedoucí HDV SŽ uveďte tyto texty:
+       Strojvedoucí vlaku (PMD) dopravce SŽ s přiděleným číslem používá volací značku v souladu
+       s předpisem SŽ Z11.
+       Strojvedoucí na HDV dopravce SŽ bez přiděleného čísla vlaku (PMD) použije místo výkonu práce
+       ve volací značce takto:
+       A pod tento závazný text uveďte vhodný text z těchto možností:
+       •   „typ HDV“ (možné uvést i tzv. zažitý název – např. muvka) nebo
+       •   „číslo HDV“ nebo
+       •   „název OJ SŽ“ nebo
+       •   „název OS SŽ“ nebo
+       •   „název odborné správy SŽ“ nebo
+       •   „název střediska“;
+       •   v případě potřeby použijte pro specifikaci místa výkonu práce další vhodný text.
+       Dále uveďte text:
+       V případě HDV bez přiděleného čísla vlaku (PMD) dopravce SŽ musí strojvedoucí uvést i číslo (označení)
+       koleje/úseku mezi dopravnami, na které / ve kterém se HDV aktuálně nachází.
+       Dále uveďte text:
+       Vzorové příklady volacích značek strojvedoucích jsou uvedeny v Příloze A předpisu SŽ Z11.
+
+6.4.4. Radiostanice dopravců nebo CPS
+       Uveďte text:
+       Volací značky provozních operatérů dopravců a CPS musí být vytvořeny a používány v souladu
+       s ustanovením předpisu SŽ Z11. Pracovní zařazení zaměstnanců musí být uvedena v příslušném
+       Provozním řádu rádiových sítí těchto organizací.
+
+6.5.   Záznamová zařízení
+       Uveďte text:
+       Všechny ZR jsou připojeny na záznamová zařízení, podrobnosti jsou uvedeny v ZDD.
+       •   v případě, že uvedený text nelze plnohodnotně použít, doplňte jej nebo upravte podle místních
+           specifikací pro příslušnou ZR nebo celou síť.
+
+7      NÁVODY K OBSLUZE RÁDIOVÝCH ZAŘÍZENÍ
+       Uveďte v tabulce 3:
+       •   seznam rádiových zařízení (včetně jejich ovládacích terminálů);
+       •   do sloupce „druh zařízení“ radiostanice (pouze v majetku SŽ) a dotykové terminály pro ovládání
+           ZR; uvádějte jen ty druhy, které jsou skutečně k dispozici (řádek pro nepoužívaný druh zařízení
+           vymažte);
+
+
+
+
+                                                                                                            65
+SŽ D5-3                                                                              účinnost od 14. prosince 2025
+
+
+
+
+        •   do sloupce „typ zařízení“ typové označení radiostanice nebo terminálu podle výrobce (např. ZO47,
+            Motorola GM360, TOP1, VS 67 apod.); pro VR HDV SŽ lze použít i všeobecný text „dle schváleného
+            typu zařízení používaných příslušnou OS SŽ“;
+        •   do sloupce „používá“ vyjmenujte pracovní zařazení provozních operatérů, kteří uvedené zařízení
+            používají (např. výpravčí, traťový dispečer, strojvedoucí apod.); pokud se přehled provozních
+            operatérů pro příslušný druh a typ (typy) radiostanic přesně shoduje se seznamem uvedeným
+            v článku 3 těchto zásad, použijte odkaz na tento článek;
+        •   číslo tabulky upravte podle skutečného počtu použitých tabulek.
+                              tabulka 3 – Návody k obsluze rádiových zařízení
+
+ druh zařízení                          typ zařízení                                     používá
+
+ ZR
+
+ PR
+
+ VR (HDV SŽ)
+
+ DT
+
+        Pod tabulku v samostatném odstavci uveďte text a doplňte jej podle výběru možností:
+        Návody k obsluze příslušného typu rádiového zařízení uvedeného v seznamu jsou uloženy:
+        •   „v elektronické verzi … (doplňte místo jejich uložení podle skutečnosti)“;
+        •   „v tištěné verzi … (doplňte podle skutečnosti)“.
+
+8       ULOŽENÍ DOKUMENTACE
+        Uveďte v tabulce 4:
+        •   pouze dokumentaci související s rádiovým provozem, nepoužívané dokumenty (nejsou uvedeny
+            ve vzoru) neuvádějte;
+        •   elektronickou adresu místa uložení PŘ na PPD (odkaz uveďte pouze v textové podobě);
+        •   číslo tabulky upravte podle skutečného počtu použitých tabulek.
+                                     tabulka 4 – Uložení dokumentace
+
+       název dokumentu                                          místo uložení
+
+ OZR a OVKS
+
+ PŘ … (uveďte typ sítě)
+
+ Záznamník poruch
+
+9       MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE
+        Zásady pro zpracování článků 9.1 až 9.5:
+        •   v obsahu článků nepoužívejte citaci z ustanovení nebo obsahu předpisů SŽ, jejichž znalost je
+            příslušným zaměstnancům v těchto předpisech jednoznačně stanovena.
+
+9.1.    Technické specifikace sítě
+        Uveďte:
+        •   formou tabulky 5 dle typu sítě (SRD nebo SRV); v PŘ GSM-R CZ se tabulka 5 nepoužívá;
+        •   číslo simplexního (pro SRV) nebo číslo sdruženého kanálu (pro SRD);
+        •   názvy traťových úseků (pro každý traťový úsek s jiným číslem kanálu použijte samostatný řádek;
+            specifikace traťových úseků musí být v souladu s čl. 1.2 PŘ;
+        •   použité kmitočty (pro SRV) nebo kanálovou čtveřici (pro SRD); řádky s nevyužitými kmitočty (A, B
+            nebo C) v kanálové čtveřici vymažte;
+        •   pro SRD uveďte kmitočty kanálové čtveřice pod sebou dle vzoru v tabulce;
+        •   výčet všech dopraven, pro které kanál (kmitočty) platí, a to bez další specifikace (dopravny
+            nerozlišujte podle kmitočtů z kanálové čtveřice); dopravny oddělte pro přehlednost středníkem;
+        •   případné místní specifikace uveďte do poznámky;
+        •   číslo tabulky upravte podle skutečného počtu použitých tabulek.
+        Pro SRD použijte tabulku:
+
+
+
+
+66
+SŽ D5-3                                                                               účinnost od 14. prosince 2025
+
+
+
+
+                                         tabulka 5 – Technické specifikace
+
+    sdružený
+                        trať (úsek)               kmitočet                    platí pro             poznámka
+      kanál
+
+                                             A=
+
+                                             B=
+
+                                             C=
+
+                                             D=                                 HDV
+
+          Pro SRV použijte tabulku:
+                                         tabulka 5 – Technické specifikace
+
+    simplexní
+                        trať (úsek)               kmitočet                    platí pro             poznámka
+      kanál
+
+
+
+9.2.      Řídící radiostanice
+          Uveďte:
+          •   označení radiostanice a pracovní zařazení zaměstnance, který je odpovědný za provoz sítě
+              v řízeném obvodu své působnosti;
+          •   v případě, že síť umožňuje více typů spojení uveďte řídící radiostanici a typ spojení samostatně
+              pod sebe.
+
+9.3.      Uložení PR a systém jejich předávky
+          Uveďte:
+          •   kde jsou PR uloženy a jakým způsobem jsou mezi provozními operátory předávány nebo kdo je
+              provozním operatérům vydává.
+
+9.4.      Uložení náhradních radiostanic
+          Uveďte:
+          •   kde jsou náhradní (záložní) PR uloženy, pokud jsou takové PR k dispozici, např. pro případ poruchy
+              apod.
+
+9.5.      Technologická opatření
+          Podmínky pro zpracování obsahu tohoto článku:
+          •   každou specifickou zásadu či opatření uveďte v samostatném odstavci;
+          •   pro lepší odlišení odstavců použijte buď číselné označení (9.5.1 až 9.5.x) nebo stejný typ odrážek;
+          •   nepoužívejte citaci ustanovení předpisů pro obsluhu, jejichž znalost je těmito předpisy všem
+              účastníkům rádiového provozu stanovena;
+          •   nepopisujte podmínky obsluhy zařízení, které jsou stanoveny v předpisu SŽ Z11 (např. zkouška
+              spojení, typy spojení, jízda PMD apod) a nejsou od ustanovení tohoto předpisu odlišné.
+          Uveďte:
+          •   místní podmínky pro příslušnou TRS, pro které je to stanoveno předpisem SŽ Z11;
+          •   specifikace dosahu ZR SRD podle technických specifikací, a to především v případě dálkového
+              ovládání a použití příkazu G-STOP;
+          •   opatření pro využití rádiového spojení pro posun, a to zvlášť pro posun bez posunové čety
+              a s posunovou četou;
+          •   v souladu s předpisem SŽ Z114 popište podmínky pro SRD, týkající se nastavení poslední pozice
+              ve volacích číslech HDV (s rozlišovací číslicí „4“), a to v příslušných dopravnách pokrytých SRD
+              s trvalým posunem prostřednictvím MRS;
+          •   opatření pro úseky, které nejsou na základě technických specifikací a měření dostatečně pokryté
+              příslušnou TRS (např. tunely);
+          •   opatření vyplývající z udělení výjimky5 pro použití základního rádiového spojení při vjezdu
+              do dopraven, které splňují podmínku předpisu SŽ Z11.
+
+
+
+
+4
+    Článek 30 předpisu SŽ Z11 v aktuálním znění
+5
+    Článek 62 předpisu SŽ Z11 v aktuálním znění
+
+
+
+
+                                                                                                                67
+SŽ D5-3                                                                 účinnost od 14. prosince 2025
+
+
+
+
+                                                                    Příloha F (informativní)
+
+
+          Vzorový příklad zpracovaného provozního řádu traťové rádiové sítě
+
+F.1 Vysvětlující podmínky při zpracování vzorového příkladu PŘ TRS
+
+(1)   Jedná se o PŘ SRD, který je zpracován pouze jako vzorový příklad a údaje v něm uvedené
+      jsou pouze ilustrativní a nemusí odpovídat skutečnosti.
+
+(2)   Z důvodu zachování co nejvěrnějšího vzorového příkladu zpracovaného PŘ jsou příslušné
+      části uvedeny na jednotlivých stranách tak, aby odpovídaly podmínkám zpracování
+      dle tohoto předpisu a zásadám uvedených v Příloze E.
+
+(3)   Vzorový příklad záhlaví jednotlivých stránek (kromě titulní strany) je formou obrázku
+      uveden pouze na druhé straně PŘ (na straně se záznamy o opravách a změnách PŘ).
+      Ostatní strany vzorového příkladu PŘ tento obrázek neobsahují a při zpracování záhlaví
+      stránek PŘ TRS je nutné postupovat v souladu se zásadami dle tohoto předpisu.
+
+(4)   Samostatné číslování stránek vzorového příkladu PŘ není ve vzoru k dispozici. Stránky jsou
+      ve vzoru číslovány průběžně, a to výhradně pro účely tohoto předpisu.
+
+(5)   Textový obsah PŘ, vytvořený černou barvou písma, je ve vzorovém příkladu
+      zpracovaného DU pro zpracovatele závazný.
+
+(6)   Textový obsah PŘ, vytvořený modrou barvou písma, byl vytvořen v souladu se zásadami
+      pro vytvoření PŘ dle tohoto předpisu a je pouze příkladem, jak lze PŘ zpracovat.
+
+F.2 Vzorový příklad zpracovaného PŘ TRS
+
+
+
+
+68
+SŽ D5-3                                                          účinnost od 14. prosince 2025
+
+
+
+
+          obr. F.1 – Vzorový příklad titulní strany zpracovaného PŘ SRD
+
+
+
+
+                                                                                           69
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+              obr. F.2 – Vzorový příklad záhlaví každé strany zpracovaného PŘ SRD
+
+
+
+
+                          ZÁZNAMY O OPRAVÁCH A ZMĚNÁCH
+Držitel listinné podoby tohoto dokumentu je odpovědný za včasné a správné zapracování účinných oprav
+a změn a za provedení příslušného záznamu.
+
+     oprava/změna                                                               opravu/změnu
+                                 číslo jednací            účinnost od
+  a její pořadové číslo                                                           zapracoval
+
+
+
+
+70
+SŽ D5-3                                                      účinnost od 14. prosince 2025
+
+
+
+
+                                         OBSAH
+
+                                                                                  strana
+
+ROZSAH ZNALOSTÍ                                                                       4
+ZKRATKY A ZNAČKY                                                                      5
+1 ZÁKLADNÍ USTANOVENÍ                                                                 6
+2 PROVOZOVANÉ RÁDIOVÉ SÍTĚ                                                            6
+3 ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ                            6
+4 ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ                                                           6
+5 PORUCHY RÁDIOVÉHO PROVOZU A ZAŘÍZENÍ                                                6
+6 ZÁSADY POUŽITÍ RÁDIOVÝCH SÍTÍ                                                       7
+7 NÁVODY K OBSLUZE RÁDIOVÉHO ZAŘÍZENÍ                                                 8
+8 ULOŽENÍ DOKUMENTACE                                                                 9
+9 MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE                                        9
+
+
+
+
+                                                                                       71
+SŽ D5-3                                                                           účinnost od 14. prosince 2025
+
+
+
+
+                                         ROZSAH ZNALOSTÍ
+Níže uvedená tabulka stanovuje rozsah znalostí tohoto dokumentu pro pracovní zařazení (funkci)
+nebo činnost, přičemž:
+
+     •  informativní znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+        dokumentu, zná předmět jeho úpravy a při náhledu do příslušného ustanovení je schopen
+        se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+    • úplnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec má povědomí o tomto
+        dokumentu, zná předmět jeho úpravy a bez náhledu do příslušného ustanovení je schopen
+        se podle takového ustanovení samostatně řídit nebo podle něj samostatně konat;
+    • doslovnou znalostí se rozumí taková znalost, při které příslušný zaměstnanec zná text, který je
+        v příslušném ustanovení napsán v uvozovkách kurzivou, přesně a je schopen jej bez náhledu
+        do příslušného ustanovení samostatně reprodukovat.
+Není-li rozsah znalostí pro pracovní zařazení (funkci) nebo činnost stanoven, stanoví rozsah znalostí, pokud
+je tak třeba učinit, příslušný vedoucí zaměstnanec.
+
+                   pracovní činnost nebo
+                                                                         znalost ustanovení
+                     zařazení (funkce)
+
+     kontrolní operatér (KOO, KOR, KOT)                     úplná: celý předpis
+
+
+     hlavní operatér (HLO)                                  úplná: v rozsahu své působnosti
+
+
+     provozní operatér (PRO)                                úplná: v rozsahu své působnosti
+
+     zaměstnanci SŽ pověření kontrolní činností na
+                                                            úplná: v rozsahu své působnosti
+     úseku provozování dráhy a drážní dopravy
+
+     CPS nebo útvar odpovědný za dodání podkladů
+                                                            úplná: v rozsahu své působnosti
+     pro ZDD nebo ROV
+
+     kontrolní operatér dopravce (KOD) *)                   úplná: v rozsahu své působnosti
+
+
+     provozní operátor (PRO) dopravce *)                    úplná: v rozsahu své působnosti
+
+
+     ostatní určení zaměstnanci dopravce *)                 dle vnitřního opatření dopravce
+
+
+      *) platí pro dopravce, kteří používají ŽDC provozovanou SŽ v obvodu působnosti tohoto PŘ
+
+
+
+
+72
+SŽ D5-3                                                                     účinnost od 14. prosince 2025
+
+
+
+
+                                               ZKRATKY A ZNAČKY
+Níže uvedený seznam obsahuje zkratky a značky použité v tomto dokumentu. V seznamu se neuvádějí
+legislativní zkratky, zkratky a značky obecně známé, zavedené právními předpisy, uvedené v obrázcích
+nebo v příkladech.
+
+CPS ............. cizí právní subjekt
+CTD ............. Centrum techniky a diagnostiky
+ČD ............... České dráhy, akciová společnost
+ČD-T ............ ČD – Telematika (organizace udržující rádiové zařízení)
+DOZ ............. dálkové ovládání zabezpečovacích zařízení
+DT ............... dotykový terminál
+G-STOP ........ generální stop
+GŘ ............... generální ředitelství
+HLO ............. hlavní operatér
+HV ............... hnací vozidlo
+IPTC-K ......... zapojovač typu IP TouchCall řady K
+KOR ............. kontrolní operatér regionu
+KOT ............. kontrolní operatér techniky
+MRS ............. místní rádiové sítě
+OŘ ............... oblastní ředitelství
+OVKS ........... Oprávnění k využívání kmitočtů a sítí
+OZR ............. Oprávnění ke zřízení radiostanic
+PMD ............. posun mezi dopravnami
+PR ............... přenosná radiostanice
+PRO ............. provozní operatér
+PŘ ............... provozní řád
+ROV ............. rozkaz o výluce
+RS ............... rádiová síť nebo rádiové sítě
+SHV ............. speciální hnací vozidlo
+SRD ............. síť radiodispečerská v pásmu 450 MHz
+SŽ ............... Správa železnic, státní organizace
+TRS ............. traťové rádiové sítě nebo traťová rádiová síť
+TTP .............. tabulky traťových poměrů
+VR ............... vozidlová radiostanice
+ZR ............... základnová radiostanice
+ZDD ............. základní dopravní dokumentace
+ZO ............... ovládací zařízení základnové radiostanice ZR 47
+ŽDC ............. železniční dopravní cesta
+ŽST ............. železniční stanice
+ŽSTS............ železniční služební telekomunikační síť (972 XXX XXX)
+
+
+
+
+                                                                                                      73
+SŽ D5-3                                                                    účinnost od 14. prosince 2025
+
+
+
+
+1         VŠEOBECNÉ ORGANIZAČNÍ ZÁSADY
+1.1.      Úvodní ustanovení
+          Provozní řád sítě radiodispečerské (dále jen „SRD“) pro úsek trati Ústí nad Labem hl. n.
+          os. n. (mimo) – Chomutov je zpracován ve smyslu předpisů SŽ T7 a SŽ Z11 v platném
+          znění a dalších vztažných obecně právních a resortních předpisů, a je závazný pro všechny
+          uživatele této rádiové sítě, včetně zaměstnanců dopravců a CPS.
+1.2.      Obvod působnosti PŘ
+          Číslo tratě dle TTP / traťový úsek:
+          504A / Ústí nad Labem hl. n. os. n. (mimo) – Chomutov
+1.3.      Jiná závazná opatření
+          SRD pro tratě (úseky) dle čl. 1.2, je provozována na základě OZR a OVKS vydaným CTD
+          pod evidenčním č. 8616/2022 s platností od 6. června 2022.
+          Dnem účinnost tohoto PŘ se ruší Provozní řád 504A_SRD_Ústí nad Labem hl. n.
+          (mimo) - Chomutov (mimo) vydaný pod čj. 95642/2013-OŘ Ústí nad Labem ze dne
+          15. prosince 2013.
+
+2         PROVOZOVANÉ RÁDIOVÉ SÍTĚ
+          SRD je provozovaná systémem TRS-TESLA. Jedná se o síť stuhovou, která je určena
+          pro duplexní spojení dispečera nebo výpravčího se strojvedoucím HV (SHV) a opačně
+          nebo pro simplexní spojení mezi strojvedoucími hnacích vozidel.
+
+3         ZAMĚSTNANCI ŘÍDÍCÍ A OBSLUŽNĚ VYUŽÍVAJÍCÍ RÁDIOVÝ PROVOZ
+          Kontrolní operatér regionu (KOR) OŘ Ústí nad Labem.
+          Hlavní operatér (HLO) PO Ústí nad Labem a PO Most.
+          Aktuální jmenovitý seznam KOR a HLO, včetně kontaktů, je k dispozici na Portálu
+          provozování dráhy (PPD) ve složce RÁDIOVÝ PROVOZ.
+          Provozní operatér (PRO):
+          •   výpravčí, dispečer, strojvedoucí HV nebo SHV.
+
+4         ÚDRŽBA RÁDIOVÉHO ZAŘÍZENÍ
+4.1.      Specifikace servisní organizace ZR
+          ZR udržuje a opravy provádí servisní organizace na základě smluvního vztahu uzavřeného
+          se správcem zařízení.
+4.2.      Specifikace servisní organizace PR
+          Na pracovištích zaměstnanců SŽ nejsou PR k dispozici.
+          Podmínky pro údržbu a servis PR dopravců nebo CPS, které splňují podmínky pro jejich
+          použití v této síti, jsou uvedeny v PŘ rádiových sítí těchto organizací.
+4.3.      Specifikace servisní organizace VR
+          Údržba a opravy VR v majetku SŽ jsou prováděny dle interních opatření příslušné OS SŽ.
+          Pro servis a údržbu VR dopravců (mimo SŽ) platí ustanovení PŘ RS příslušného dopravce.
+
+5         PORUCHY RÁDIOVÉHO ZAŘÍZENÍ
+5.1.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch ZR
+          Poruchu na ZR nebo rádiové sítě zaznamená určený obsluhující zaměstnanec v souladu
+          s ustanovením předpisu SŽ Z11 a předpisu SŽ T100 do určeného Záznamníku poruch
+          na sdělovacím a zabezpečovacím zařízení a ohlásí ji na telefonní linku 972 110 000.
+          Hlášení poruchy musí obsahovat:
+          •   jméno a příjmení ohlašovatele;
+          •   přesný čas volání;
+          •   lokalitu umístění techniky;
+
+
+
+
+74
+SŽ D5-3                                                                        účinnost od 14. prosince 2025
+
+
+
+
+          •    kontaktní telefonní číslo ohlašovatele (telefonní kontakt na lokalitu umístění
+               techniky);
+          •    podrobný popis poruchy zařízení.
+5.2.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch PR
+          Podmínky pro ohlašování a odstraňování poruch PR dopravců nebo CPS, které splňují
+          podmínky pro jejich použití v této síti, jsou uvedeny v PŘ rádiových sítí těchto organizací.
+5.3.      Specifikace zásad ve vztahu k ohlašování a odstraňování poruch VR
+          Poruchu VR ohlásí strojvedoucí v souladu s ustanovením předpisu SŽ Z11 výpravčímu
+          a zaznamená ji do „Záznamníku poruch na hnacím vozidle“. Pro další jízdu vlaku platí
+          ustanovení předpisu SŽ Z11.
+          Poruchu ohlásí strojvedoucí také příslušnému zaměstnanci, a to dle vnitřních opatření
+          dopravce (mimo SŽ) nebo OS SŽ (HV SŽ).
+          Odstranění poruchy VR zajišťuje dopravce nebo OS SŽ na základě vnitřního opatření.
+
+6         ZÁSADY PRO POUŽITÍ RÁDIOVÝCH SÍTÍ
+6.1.      Všeobecné zásady
+          Rádiový provoz se kromě ustanovení předpisů SŽ T7 a SŽ Z11 pro rádiový provoz a jeho
+          obsluhu řídí i ustanovením tohoto PŘ.
+          Seznam odborně způsobilých zaměstnanců (provozních operatérů) dopravců nebo CPS,
+          kteří mohou tuto síť na základě OVKS využívat, musí být uveden v příslušném PŘ
+          rádiových sítí těchto organizací.
+6.2.      Napájení radiostanic a zařízení, která je ovládají
+          Základní napájení ZR je zajištěno z centrálního napájecího zdroje 230V/50Hz. Náhradní
+          napájení je zajištěno bezobslužně po dobu minimálně 4 hodin. V případě vzniku požáru je
+          vypínač základního napájení ZR umístěn v rozvodné skříni. Ohlášení požáru se řídí
+          dokumentací požární ochrany.
+          PR provozních operatérů jsou napájené z bateriových zdrojů, které jsou jejich součástí.
+          Dobíjení a provozuschopnost zdrojů zajišťují PRO, kterým byly radiostanice přiděleny.
+          VR jsou napájené z napájecího zdroje příslušného vozidla. Provozuschopnost zdroje
+          a opatření pro odpojení napájecího zdroje v případě vzniku požáru zajišťuje PRO.
+6.3.      Provozní ošetřování
+          Provozní ošetřování radiostanic v majetku SŽ provádí obsluhující zaměstnanec ve službě.
+          Pokud není stanoveno jinak, provádí se provozní ošetření radiostanice minimálně
+          1× za směnu, zpravidla na jejím konci. Případné pokyny pro provozní ošetřování
+          radiostanic jsou uvedeny v návodu pro obsluhu.
+6.4.      Seznam volacích značek a kombinace selektivní volby
+6.4.1. Základnové radiostanice
+                                 tabulka 1 - Základnové radiostanice
+
+                                                                                               způsob
+        umístění ZR           obsluhuje       ovládání            volací značka
+                                                                                               obsluhy
+ Ústí nad Labem západ      výpravčí St. 1       místní    výpravčí západ stavědlo jedna        výpravčí
+ Chabařovice               výpravčí             místní    výpravčí Chabařovice                 výpravčí
+ Teplice v Čechách         výpravčí             místní    výpravčí Teplice                     výpravčí
+                           výpravčí             místní    výpravčí Oldřichov                   výpravčí
+ Oldřichov u Duchcova
+                           výpravčí DOZ V3     dálkové    výpravčí Teplice                     dispečer
+ Most                      výpravčí             místní    výpravčí Most                        výpravčí
+ Třebušice                 výpravčí             místní    výpravčí Třebušice                   výpravčí
+ Chomutov                  výpravčí             místní    výpravčí Chomutov                    výpravčí
+
+
+
+
+                                                                                                          75
+SŽ D5-3                                                                         účinnost od 14. prosince 2025
+
+
+
+
+6.4.2. Přenosné radiostanice SŽ
+          Neobsazeno.
+6.4.3. Vozidlové radiostanice dopravce SŽ
+          Strojvedoucí vlaku (PMD) dopravce SŽ s přiděleným číslem používá volací značku
+          v souladu s předpisem SŽ Z11.
+          Strojvedoucí na HDV dopravce SŽ bez přiděleného čísla vlaku (PMD) použije místo výkonu
+          práce ve volací značce takto:
+          •   typ HDV (pro SHV je možné použít i označení „muvka“, „pantograf“) nebo
+          •   číslo HDV nebo
+          •   název OJ SŽ nebo
+          •   název OS SŽ nebo
+          •   název odborné správy SŽ nebo
+          •   název střediska.
+          V případě HDV dopravce SŽ bez přiděleného čísla vlaku (PMD) musí strojvedoucí uvést
+          i číslo (označení) koleje / úseku mezi dopravnami, na které / ve kterém se HDV aktuálně
+          nachází.
+          Vzorové příklady volacích značek strojvedoucích jsou uvedeny v Příloze A předpisu SŽ
+          Z11.
+6.4.4. Radiostanice dopravců nebo CPS
+          Volací značky provozních operatérů dopravců a CPS musí být vytvořeny a používány
+          v souladu s ustanovením předpisu SŽ Z11. Pracovní zařazení zaměstnanců musí být
+          uvedena v příslušném Provozním řádu rádiových sítí těchto organizací.
+6.5.      Záznamová zařízení
+          Všechny ZR jsou připojeny na záznamová zařízení, podrobnosti jsou uvedeny v ZDD.
+
+7         NÁVODY K OBSLUZE RÁDIOVÝCH ZAŘÍZENÍ
+                          tabulka 2 – Návody k obsluze rádiových zařízení
+
+ druh zařízení                        typ zařízení                                   používá
+
+ ZR               ZO 47                                                  výpravčí
+
+                  dle schváleného typu zařízení používaných příslušnou
+ VR (HDV SŽ)                                                             strojvedoucí
+                  OS SŽ
+
+ DT               IP TouchCall-K                                         výpravčí
+
+          Návody k obsluze příslušného typu rádiového zařízení uvedeného v seznamu jsou
+          uloženy:
+          •   v elektronické verzi na PPD jako součást ZDD a ve složce RÁDIOVÝ PROVOZ;
+
+8         ULOŽENÍ DOKUMENTACE
+                                   tabulka 3 – Uložení dokumentace
+
+       název dokumentu                                      místo uložení
+
+ OZR a OVKS                    KOR OŘ Ústí nad Labem
+
+                               PPD na adrese:
+ PŘ SRD
+                               https://provoz.spravazeleznic.cz/Portal/ViewArticle.aspx?oid=4574801
+
+ Záznamník poruch              na pracovištích výpravčích
+
+
+
+
+76
+SŽ D5-3                                                                        účinnost od 14. prosince 2025
+
+
+
+
+9           MÍSTNÍ OPATŘENÍ Z HLEDISKA TECHNOLOGIE PRÁCE
+9.1.        Technické specifikace sítě
+                                    tabulka 4 – Technické specifikace
+
+    sdružený
+                      trať (úsek)             kmitočet                  platí pro            poznámka
+      kanál
+
+                                        A = 468,150
+                                                               Ústí n. L. západ St. 1;
+                                                               Chabařovice; Teplice
+                                        B = 468,200
+                 Ústí nad Labem hl.n.                          v Č.; Oldřichov u D.;
+       66                                                                                   -
+                 os.n. (mimo) – Most                           Most
+                                        C = 468,250
+
+                                        D = 458,200            HDV
+
+                                        A = 467,450
+
+                                        B = 467,500            Třebušice; Chomutov
+                 Most (mimo) –
+       60                                                                                   -
+                 Chomutov
+                                        C = 467,550
+
+                                        D = 457,500            HDV
+
+9.2.        Řídící radiostanice
+            ZR výpravčího (dispečera) – pro spojení výpravčí (dispečer) / strojvedoucí a opačně.
+            VR strojvedoucího – pro spojení strojvedoucí / strojvedoucí.
+9.3.        Uložení PR a systém jejich předávky
+            Neobsazeno.
+9.4.        Uložení náhradních radiostanic
+            Neobsazeno.
+9.5.        Technologická opatření
+9.5.1. Návěsti „Přepněte kanálovou skupinu“ jsou v jednotlivých traťových úsecích osazeny
+       v souladu s ustanovením DAP a TTP.
+9.5.2. ZR v Oldřichově u Duchcova je možno ovládat ze dvou míst – dálkově z pracoviště DOZ
+       v ŽST Teplice v Čechách (V3) a místně z dopravní kanceláře v Oldřichově u Duchcova.
+       Dopravní kancelář v Oldřichově u Duchcova je obsazena výpravčím pouze při poruše DOZ,
+       nařizuje-li to ROV, při mimořádnostech apod. Přepínání ovládání (z dálkového na místní
+       a opačně) není na těchto pracovištích k dispozici. Ovládání ZR je na těchto pracovištích
+       stále aktivní, obsazené výpravčím je však vždy jen jedno z nich.
+9.5.3. Opatření pro nastavení poslední pozice ve volacím čísle pro trvalý posun:
+            obvod ŽST Ústí nad Labem západ:
+            •   strojvedoucí 1. zálohy (dopravce ČD Cargo) nastavuje na poslední pozici číslo 1;
+            •   strojvedoucí ostatních dopravců provádějící trvalý posun v obvodu ŽST UNL západ
+                nastaví na poslední pozici číslo (počínaje číslem dva), které jim podle aktuální
+                provozní situace přidělí výpravčí při sjednání podmínek posunu.
+9.5.4. Opatření pro využití rádiového spojení posun:
+            Posun bez posunové čety
+            •   v případě posunu bez posunové čety může být ke komunikaci mezi strojvedoucím
+                a výpravčím využita SRD, a to při splnění podmínek stanovených předpisem SŽ D1
+                pro takový posun.
+            Posun s posunovou četou
+            •   zaměstnanec řídící posun sjedná všechny podmínky pro posun dle předpisu SŽ D1;
+
+
+
+
+                                                                                                         77
+SŽ D5-3                                                                  účinnost od 14. prosince 2025
+
+
+
+
+          •   po udělení „svolení k posunu“ a pokynu k přepnutí režimu VR výpravčím strojvedoucí
+              nastaví na VR příslušný kanál MRS (dle OVKS dopravce a PŘ MRS v příslušné
+              dopravně);
+          •   před zahájením posunu zaměstnanec řídící posun provede zkoušku spojení
+              na přidělené síti s výpravčím, popř. členem posunové čety;
+          •   po ukončení posunu zaměstnanec řídící posun oznámí výpravčímu na MRS,
+              kde probíhal posun „ukončení posunu“, včetně všech náležitostí dle předpisu SŽ D1
+              a vrácení MRS výpravčímu pro další využití;
+          •   poté strojvedoucí, na základě pokynu zaměstnance řídícího posun, přepne režim VR
+              zpět na síť SRD.
+9.5.5. Obsluhu VR – strojvedoucí volá výpravčího (dispečera) provádějte výhradně jako žádost
+       o hovor s přenosem čísla vlaku.
+
+
+
+
+78
+

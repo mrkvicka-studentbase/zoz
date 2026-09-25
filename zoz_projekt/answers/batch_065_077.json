@@ -1,0 +1,387 @@
+[
+  {
+    "n": 65,
+    "otazka": "Jaká je nejvyšší dovolená rychlost vlaku jedoucím v režimu nouzového spojení pomocí mobilního telefonu?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 64 odst. (3)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 64 odst. (4)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 64 odst. (1)"
+      }
+    ],
+    "odpoved": "Je-li nouzové spojení (mobil veřejného operátora) jediným dostupným spojením na HDV, nesmí strojvedoucí překročit rychlost 100 km/h.",
+    "plne_zneni": "SŽ Z11 čl. 64 odst. (1): Nouzovým spojením na dráze se rozumí jakékoliv hlasové spojení včetně nouzového rádiového spojení, které umožní uskutečnění hlasové komunikace bez prostředníka mezi strojvedoucím a výpravčím příslušné řízené oblasti v případě vzniku poruchy nebo mimořádnosti v průběhu jízdy HDV na trati se základním rádiovým spojením.\n\nSŽ Z11 čl. 64 odst. (3): Při použití nouzového spojení, jako jediného dostupného spojení na HDV, nesmí strojvedoucí překročit rychlost 100 km/h.\n\nSŽ Z11 čl. 64 odst. (4): Nouzovým spojením může být: • všeobecná operativní síť (VOS); • mobilní spojení strojvedoucího prostřednictvím veřejného operátora.\n\nSŽ Z11 čl. 64 odst. (5): Nouzové spojení je uvedeno pro příslušnou trať nebo její část v TTP.",
+    "distraktory": [
+      "Je-li nouzové spojení (mobil veřejného operátora) jediným dostupným spojením na HDV, nesmí strojvedoucí překročit rychlost 60 km/h.",
+      "Nouzové spojení rychlost vlaku neomezuje; strojvedoucí smí jet traťovou rychlostí, musí však jeho použití ohlásit výpravčímu."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 66,
+    "otazka": "Může být vystaveno na pravidelný výkon na trati vybavené signálem GSM-R vlakové HV pouze s nouzovým spojením pomocí mobilního telefonu?",
+    "obrazky": [],
+    "tema": "GSM-R a rádio",
+    "predpis": "SŽ Z11",
+    "zdroje": [
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 64 odst. (2)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 61 odst. (2)"
+      },
+      {
+        "predpis": "SŽ Z11",
+        "clanek": "čl. 64 odst. (6)"
+      }
+    ],
+    "odpoved": "Ne – nouzové spojení nesmí být nikdy trvalou náhradou základního (náhradního) rádiového spojení; HV musí mít funkční mobilní část GSM-R.",
+    "plne_zneni": "SŽ Z11 čl. 64 odst. (2): Nouzové spojení nesmí být nikdy použito jako trvalá náhrada základního nebo náhradního rádiového spojení.\n\nSŽ Z11 čl. 61 odst. (2): Na tratích nebo části tratě, vybavených základním rádiovým spojením, musí dopravce použít HDV, které je vybavené kompatibilní funkční mobilní částí zařízení pro takové rádiové spojení.\n\nSŽ Z11 čl. 61 odst. (4) a (5): Základním rádiovým spojením může být traťová rádiová síť: GSM-R; SRD; SRV. […] Základní rádiové spojení (typ sítě) je uvedeno pro příslušnou trať nebo její část v TTP.\n\nSŽ Z11 čl. 64 odst. (6): Nouzové spojení musí mít k dispozici každý vlak a PMD bez výjimky, a to i na tratích, kde není k dispozici základní (náhradní) rádiové spojení nebo na takovém vlaku (PMD) nemůže být v souladu s tímto předpisem základní rádiové spojení k dispozici.",
+    "distraktory": [
+      "Ano – vystavit je lze, pokud strojvedoucí nepřekročí rychlost 100 km/h a nouzové spojení je pro danou trať uvedeno v TTP.",
+      "Ano – ale jen u vlaků bez přepravy cestujících a po zpravení strojvedoucího písemným rozkazem o náhradním rádiovém spojení."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 67,
+    "otazka": "Jaký je název této návěsti?",
+    "obrazky": [
+      "img/q067_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 115 odst. (9)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (8) c)"
+      }
+    ],
+    "odpoved": "Rychlost 40 km/h a opakování návěsti Výstraha – přikazuje jet nejvýše 40 km/h k následujícímu hlavnímu návěstidlu, kde je návěst Stůj.",
+    "plne_zneni": "SŽ D1 čl. 115 (Návěsti světelných hlavních návěstidel umístěných na nedostatečnou zábrzdnou vzdálenost) odst. (9): Rychlost 40 km/h a opakování návěsti Výstraha – žluté světlo, nad ním bílé světlo a nad bílým světlem žluté světlo\n• dovoluje jízdu vlaku\n• přikazuje strojvedoucímu vlaku jet k následujícímu hlavnímu návěstidlu, umístěnému na nedostatečnou zábrzdnou vzdálenost, rychlostí nejvýše 40 km/h a\n• dále tato návěst předvěstí na hlavním návěstidle, umístěném na nedostatečnou zábrzdnou vzdálenost, návěst Stůj\n\nSŽ D1 čl. 113 odst. (8) c): Při poruše návěstních obvodů […] může být jednosvětlová nebo dvousvětlová návěst dovolující jízdu vlaku doplněna stálým bílým světlem (např. návěst Rychlost 80 km/h a očekávejte rychlost 40 km/h se změní na návěst Rychlost 80 km/h a opakování návěsti Očekávejte rychlost 40 km/h).",
+    "distraktory": [
+      "Rychlost 40 km/h a opakování návěsti Výstraha – přikazuje jet nejvýše 40 km/h jen v obvodu výhybek přilehlých k návěstidlu, dál platí traťová rychlost.",
+      "Rychlost 40 km/h a opakování návěsti Očekávejte rychlost 40 km/h – přikazuje jet nejvýše 40 km/h a předvěstí rychlost 40 km/h od následujícího návěstidla."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 68,
+    "otazka": "Uskutečňuje se tímto návěstidlem výprava vlaku?",
+    "obrazky": [
+      "img/q068_1.png"
+    ],
+    "tema": "Výprava a odjezd",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 119"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 356 odst. (4)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 356 odst. (5) a)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 101 odst. (3)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 362 odst. (6) a)"
+      }
+    ],
+    "odpoved": "Ne – je to samostatná opakovací předvěst (štítek „OPřL3“), neplní funkci hlavního návěstidla; jen informuje, že hlavní návěstidlo dovoluje jízdu.",
+    "plne_zneni": "SŽ D1 čl. 101 odst. (3): Samostatné opakovací předvěsti se označují zkratkou „OPř“ a označením hlavního návěstidla, ke kterému patří (např. „OPřL3“).\n\nSŽ D1 čl. 119: Samostatná světelná předvěst a samostatná opakovací světelná předvěst je závislá na hlavním návěstidle a neplní funkci hlavního návěstidla.\n\nSŽ D1 čl. 356 odst. (4): Výprava vlaku se uskutečňuje: a) oprávněním k jízdě (MA) nebo b) návěstí hlavního návěstidla dovolující jízdu vlaku nebo c) návěstí DNS stop značky dovolující jízdu vlaku nebo d) výpravkou nebo e) písemným rozkazem.\n\nSŽ D1 čl. 356 odst. (5): Strojvedoucí může obdržet informaci o skutečnosti, že: a) hlavní návěstidlo dovoluje jízdu i následovně: 1. návěstí předchozího hlavního návěstidla nebo 2. návěstí samostatné předvěsti nebo 3. návěstí samostatné opakovací předvěsti nebo 4. návěstí návěstního napodobovače nebo 5. přenosem kódu národního vlakového zabezpečovače nebo 6. telekomunikačním zařízením […]\n\nSŽ D1 čl. 362 odst. (6) a): […] vidí-li strojvedoucí, že hlavní návěstidlo platné pro dopravní kolej, na které stojí čelo vlaku, dovoluje jízdu vlaku (nebo tuto skutečnost zjistil z návěsti předchozího hlavního návěstidla, samostatné předvěsti, samostatné opakovací předvěsti, návěstního napodobovače nebo z vlakového zabezpečovače), uvede po provedení dopravcem předepsaných úkonů vlak do pohybu.",
+    "distraktory": [
+      "Ano – návěstí tohoto návěstidla se výprava vlaku uskutečňuje stejně jako návěstí odjezdového návěstidla, stojí-li vlak na koleji jako první.",
+      "Ne – je to samostatná opakovací předvěst, a proto z ní strojvedoucí nesmí usuzovat na návěst následujícího hlavního návěstidla."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je pod zeleným (pomalu přerušovaným) světlem bílé světlo, tedy návěst „Opakování návěsti Očekávejte rychlost 80 km/h“ podle čl. 121 odst. (7); pro odpověď je rozhodující druh návěstidla (opakovací předvěst), ne konkrétní návěst."
+  },
+  {
+    "n": 69,
+    "otazka": "Jakou informaci zaměstnanci dává tato návěst?",
+    "obrazky": [
+      "img/q069_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 307 odst. (11)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 307 odst. (2) d)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 307 odst. (4)"
+      }
+    ],
+    "odpoved": "Je to denní návěst Vlak vjel celý – informuje o tom, že stanovený vlak vjel do stanice celý (uvolnil zadní námezník).",
+    "plne_zneni": "SŽ D1 čl. 307 odst. (11): Vlak vjel celý – denní návěst: opisování pravoúhlého trojúhelníku, tvořeného pohyby shora dolů, dále kolmo ke koleji, na které je vlak, o němž je návěst dávána, a pak šikmo vzhůru rukou; noční návěst: […] ruční svítilnou s bílým světlem\n• informuje o tom, že stanovený vlak vjel celý\n\nSŽ D1 čl. 307 odst. (2): Hlášení, že vlak vjel celý, se provádí: a) obsluhou zabezpečovacího zařízení; b) telekomunikačním zařízením; c) ústně; d) návěstí Vlak vjel celý.\n\nSŽ D1 čl. 307 odst. (4): Zaměstnanec zúčastněný na přípravě vlakové cesty nebo jiný zaměstnanec stanovený ZDD může výpravčímu ohlásit, že vlak vjel celý za těchto podmínek: a) zjistil-li, že vlak vjel celý podle odst. (1) tohoto článku a b) vjíždějící vlak uvolnil zadní námezník minimálně na 20 m (odhadem).",
+    "distraktory": [
+      "Je to denní návěst Konec vlaku – informuje o tom, že vlak má předepsané označení konce a že uvolnil zadní námezník nejméně na 20 m.",
+      "Je to denní návěst Souhlas k odjezdu – informuje strojvedoucího o tom, že vlak je připraven k odjezdu ze stanice."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 70,
+    "otazka": "Jakou rychlostí bude vjíždět strojvedoucí do žst. Brno-Horní Heršpice, pokud bude na vjezdovém návěstidle tato návěst?",
+    "obrazky": [
+      "img/q070_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 138 odst. (1)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 23 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 499"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 116 odst. (4)"
+      }
+    ],
+    "odpoved": "Podle rozhledových poměrů; v obvodu výhybek přilehlých k vjezdovému návěstidlu nejvýše 30 km/h (značka „3>“ v TJŘ), dále nejvýše 40 km/h.",
+    "plne_zneni": "SŽ D1 čl. 138 odst. (1): Přivolávací návěst – přerušované bílé světlo […] strojvedoucímu ostatních vlaků • dovoluje jízdu kolem návěstidla, u kterého nelze rozsvítit návěsti dovolující jízdu vlaku • nařizuje jízdu podle rozhledových poměrů (viz odst. (6), (7) a (13) tohoto článku) • nařizuje jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše rychlostí 30 km/h: 1. pokud je návěstidlo označeno indikátorovou tabulkou s číslicí „3“ nebo 2. je-li v TJŘ u příslušné stanice značka „3>“.\n\nSŽ D1 čl. 23 odst. (2): Pokud je strojvedoucímu nařízena jízda podle rozhledových poměrů, musí pokračovat opatrně v další jízdě a kontrolovat rychlost s přihlédnutím k délce tratě, na kterou před sebou vidí […], aby byl schopen na volné viditelné části tratě zastavit před jakýmkoliv drážním vozidlem, návěstí Stůj nebo překážkou na trati […], přičemž však nesmí být překročena rychlost 40 km/h.\n\nSŽ D1 čl. 499: Ve stanicích, kde je snížení rychlosti návěstěno indikátorem, musí být v TJŘ všech vlaků příslušného směru jízdy (bez ohledu na určenou vjezdovou nebo odjezdovou kolej) u této stanice značka „3>“, která udává vjezdovou (odjezdovou) rychlost 30 km/h, jež nesmí strojvedoucí překročit při jízdě na PN a při jízdě kolem neobsluhovaného návěstidla.\n\nSŽ D1 čl. 116 odst. (4): Pokud je jízda vlaku dovolena PN (písemným rozkazem), strojvedoucí nesmí překročit v obvodu výhybek přilehlých k hlavnímu návěstidlu s indikátorovou tabulkou s číslicí „5“ rychlost 40 km/h.",
+    "distraktory": [
+      "Podle rozhledových poměrů; v obvodu výhybek přilehlých k vjezdovému návěstidlu nejvýše 50 km/h (indikátorová tabulka „5“), dále nejvýše 40 km/h.",
+      "Podle rozhledových poměrů nejvýše 40 km/h v celém obvodu stanice; indikátorová tabulka „5“ ani značka v TJŘ rychlost při jízdě na PN neovlivňují."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na návěstidle je Přivolávací návěst (přerušované bílé světlo) a indikátorová tabulka s číslicí „5“; ta rychlost při jízdě na PN nezvyšuje (čl. 116 odst. (4) – strop 40 km/h). Ve sloupci 2 TJŘ je u Brno-Horní Heršpice značka „3>“, která podle čl. 138 odst. (1) snižuje rychlost v obvodu výhybek přilehlých na 30 km/h."
+  },
+  {
+    "n": 71,
+    "otazka": "Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?",
+    "obrazky": [
+      "img/q071_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 115 odst. (1)"
+      }
+    ],
+    "odpoved": "Nejvýše traťovou rychlostí až k následujícímu hlavnímu návěstidlu – vjezdové návěstidlo má návěst Opakování návěsti Výstraha, tam očekávat Stůj.",
+    "plne_zneni": "SŽ D1 čl. 115 odst. (1): Opakování návěsti Výstraha – bílé světlo a nad ním žluté světlo\n• dovoluje jízdu vlaku\n• přikazuje strojvedoucímu vlaku jet nejvýše traťovou rychlostí až k následujícímu hlavnímu návěstidlu a\n• předvěstí návěst Stůj na následujícím hlavním návěstidle, umístěném na nedostatečnou zábrzdnou vzdálenost\n\nSŽ D1 čl. 115 (název článku): Návěsti světelných hlavních návěstidel umístěných na nedostatečnou zábrzdnou vzdálenost.",
+    "distraktory": [
+      "Nejvýše 40 km/h až k následujícímu hlavnímu návěstidlu – vjezdové návěstidlo má návěst Opakování návěsti Výstraha, tam očekávat Stůj.",
+      "Nejvýše 60 km/h až k následujícímu hlavnímu návěstidlu – vjezdové návěstidlo má návěst Opakování návěsti Výstraha, tam očekávat návěst dovolující jízdu."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 72,
+    "otazka": "Jakou maximální rychlostí může vjíždět strojvedoucí do stanice?",
+    "obrazky": [
+      "img/q072_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 116 odst. (2)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 115 odst. (9)"
+      }
+    ],
+    "odpoved": "Nejvýše 50 km/h v obvodu výhybek přilehlých k vjezdovému návěstidlu (tabulka „5“), dále nejvýše 40 km/h k návěstidlu s návěstí Stůj.",
+    "plne_zneni": "SŽ D1 čl. 115 odst. (9): Rychlost 40 km/h a opakování návěsti Výstraha – žluté světlo, nad ním bílé světlo a nad bílým světlem žluté světlo\n• dovoluje jízdu vlaku\n• přikazuje strojvedoucímu vlaku jet k následujícímu hlavnímu návěstidlu, umístěnému na nedostatečnou zábrzdnou vzdálenost, rychlostí nejvýše 40 km/h a\n• dále tato návěst předvěstí na hlavním návěstidle, umístěném na nedostatečnou zábrzdnou vzdálenost, návěst Stůj\n\nSŽ D1 čl. 116 odst. (1) a (2): Indikátorová tabulka s číslicí 5 nebo indikátorová tabulka s číslicí 3 je černá, na kratší straně postavená obdélníková deska s bílým okrajem, s bílou číslicí „5” nebo „3”. […] Hlavní návěstidlo, označené indikátorovou tabulkou s číslicí „5“, dovoluje při návěstění rychlosti 40 km/h jet strojvedoucímu vlaku v obvodu výhybek přilehlých k hlavnímu návěstidlu rychlostí nejvýše 50 km/h.\n\nSŽ D1 čl. 116 odst. (8): Indikátorovou tabulku s číslicí „5“ nebo „3“ lze umístit v dopravně s kolejovým rozvětvením i na hlavní návěstidla, která nemají obvod výhybek přilehlý k tomuto návěstidlu. Strojvedoucí musí pak jet rychlostí 50 km/h (popř. 30 km/h) až k následujícímu hlavnímu návěstidlu.",
+    "distraktory": [
+      "Nejvýše 40 km/h v obvodu výhybek přilehlých k vjezdovému návěstidlu, dále traťovou rychlostí k následujícímu hlavnímu návěstidlu s návěstí Stůj.",
+      "Nejvýše 50 km/h až k následujícímu hlavnímu návěstidlu; indikátorová tabulka „5“ platí v celém obvodu stanice a na návěstidle lze očekávat návěst Volno."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 73,
+    "otazka": "Na jakou maximální rychlost smí strojvedoucí rozjet vlak, pokud se jedná o vlak výchozí?",
+    "obrazky": [
+      "img/q073_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 502 odst. (3) d)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 502 odst. (1)"
+      }
+    ],
+    "odpoved": "Nejvýše na 40 km/h – strojvedoucí výchozího vlaku neviděl návěst předchozího návěstidla a na následujícím hlavním návěstidle musí očekávat Stůj.",
+    "plne_zneni": "SŽ D1 čl. 502 odst. (1) a (2): Jízda vlaku dovolena – pomalu přerušované modré světlo • dovoluje jízdu vlaku za podmínek stanovených v odst. (3) tohoto článku. Návěst Jízda vlaku dovolena může být: a) na cestovém návěstidle […]; b) na DNS stop značky […].\n\nSŽ D1 čl. 502 odst. (3) d): Pokud strojvedoucí návěst předcházejícího hlavního návěstidla neviděl (např. u výchozího vlaku) nebo byla jízda kolem předcházejícího hlavního návěstidla dovolena návěstí PN nebo písemným rozkazem, smí jet kolem návěstidla s návěstí Jízda vlaku dovolena rychlostí nejvýše 40 km/h a na následujícím hlavním návěstidle, které může být umístěno i na nedostatečnou zábrzdnou vzdálenost, musí očekávat návěst Stůj. Jakmile strojvedoucí rozpozná návěst následujícího hlavního návěstidla dovolující jízdu vlaku, jedná jako při odjezdu z koleje před tímto návěstidlem.",
+    "distraktory": [
+      "Nejvýše na 60 km/h – strojvedoucí výchozího vlaku neviděl návěst předchozího návěstidla a na následujícím hlavním návěstidle musí očekávat Stůj.",
+      "Nejvýše na traťovou rychlost – návěst Jízda vlaku dovolena rychlost neomezuje a předvěstí na následujícím návěstidle návěst dovolující jízdu."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Pro kolej, na které stojí výchozí vlak, platí trpasličí cestové návěstidlo Lc 102 s návěstí Jízda vlaku dovolena (pomalu přerušované modré světlo); návěstidlo Lc 101 s návěstí Stůj platí pro sousední kolej."
+  },
+  {
+    "n": 74,
+    "otazka": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+    "obrazky": [
+      "img/q074_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 502 odst. (3) a)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (13)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (1)"
+      }
+    ],
+    "odpoved": "Nejvýše 80 km/h – stejnou rychlostí jako kolem vjezdového návěstidla (Rychlost 80 km/h a výstraha); na návěstidle L2 musí očekávat Stůj.",
+    "plne_zneni": "SŽ D1 čl. 113 odst. (13): Rychlost 80 km/h a výstraha – žluté světlo doplněné pod ním vodorovným zeleným pruhem a nad ním žluté světlo.\n\nSŽ D1 čl. 113 odst. (1): Návěsti vyjádřené dvěma světly dovolují jízdu vlaku a: a) Dolním světlem, případně doplněný indikátorem […] přikazují strojvedoucímu jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše návěstěnou rychlostí. […] b) Horním světlem […] předvěstí návěst následujícího hlavního návěstidla […].\n\nSŽ D1 čl. 502 odst. (3) a): Pokud předchozí návěstidlo předvěstilo návěst Stůj, smí jet kolem návěstidla s návěstí Jízda vlaku dovolena stejnou rychlostí jako kolem předcházejícího návěstidla a na následujícím hlavním návěstidle, které může být umístěno i na nedostatečnou zábrzdnou vzdálenost, musí očekávat návěst Stůj.",
+    "distraktory": [
+      "Nejvýše 40 km/h – kolem cestového návěstidla s návěstí Jízda vlaku dovolena se jede vždy nejvýše 40 km/h; na návěstidle L2 musí očekávat Stůj.",
+      "Nejvýše traťovou rychlostí – omezení 80 km/h platilo jen v obvodu výhybek přilehlých k vjezdovému návěstidlu; na návěstidle L2 musí očekávat Stůj."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Vjezdové návěstidlo L návěstí Rychlost 80 km/h a výstraha, cestové návěstidlo Lc 2a návěst Jízda vlaku dovolena; červený úsek je mezi Lc 2a a odjezdovým návěstidlem L2 s návěstí Stůj."
+  },
+  {
+    "n": 75,
+    "otazka": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+    "obrazky": [
+      "img/q075_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 502 odst. (3) b)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (35)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (19)"
+      }
+    ],
+    "odpoved": "Nejvýše 100 km/h – stejnou rychlostí jako kolem vjezdového návěstidla (Rychlost 100 km/h a očekávejte rychlost 60 km/h); od L2 pak 60 km/h.",
+    "plne_zneni": "SŽ D1 čl. 113 odst. (35): Rychlost 100 km/h a očekávejte rychlost 60 km/h – žluté světlo doplněné pod ním dvěma vodorovnými zelenými pruhy a nad ním rychle přerušované žluté světlo.\n\nSŽ D1 čl. 113 odst. (19): Rychlost 60 km/h a volno – (žluté světlo doplněné pod ním vodorovným žlutým pruhem a nad ním zelené světlo).\n\nSŽ D1 čl. 502 odst. (3) b): Pokud předchozí návěstidlo předvěstilo stejnou rychlost, jaká byla dovolována dolním světlem, nebo předvěstilo snižování rychlosti, smí jet kolem návěstidla s návěstí Jízda vlaku dovolena stejnou rychlostí, jako kolem předcházejícího návěstidla.",
+    "distraktory": [
+      "Nejvýše 60 km/h – předvěstěná rychlost platí už od cestového návěstidla s návěstí Jízda vlaku dovolena; od návěstidla L2 pak traťovou rychlostí.",
+      "Nejvýše 40 km/h – kolem cestového návěstidla s návěstí Jízda vlaku dovolena se jede nejvýše 40 km/h; od návěstidla L2 pak rychlostí 60 km/h."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Vjezdové návěstidlo L návěstí Rychlost 100 km/h a očekávejte rychlost 60 km/h, odjezdové L2 návěst Rychlost 60 km/h a volno; červený úsek je mezi cestovým návěstidlem Lc 2a (Jízda vlaku dovolena) a návěstidlem L2."
+  },
+  {
+    "n": 76,
+    "otazka": "Jakou maximální rychlostí smí strojvedoucí jet v červeně vyznačené části vlakové cesty?",
+    "obrazky": [
+      "img/q076_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 502 odst. (3) c)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (40)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (20)"
+      }
+    ],
+    "odpoved": "Nejvýše 80 km/h, tj. předvěstěnou rychlostí (vjezdové návěstidlo návěstilo Rychlost 60 km/h a očekávejte rychlost 80 km/h); zvyšovat smí až za obvodem výhybek.",
+    "plne_zneni": "SŽ D1 čl. 113 odst. (40): Rychlost 60 km/h a očekávejte rychlost 80 km/h – žluté světlo doplněné pod ním vodorovným žlutým pruhem a nad ním pomalu přerušované zelené světlo.\n\nSŽ D1 čl. 113 odst. (20): Rychlost 80 km/h a volno – žluté světlo doplněné pod ním vodorovným zeleným pruhem a nad ním zelené světlo.\n\nSŽ D1 čl. 502 odst. (3) c): Pokud předchozí návěstidlo předvěstilo zvyšování rychlosti, smí jet kolem návěstidla s návěstí Jízda vlaku dovolena předvěstěnou rychlostí. Rychlost však smí zvyšovat, až když celý vlak minul obvod výhybek přilehlý k předchozímu hlavnímu návěstidlu.",
+    "distraktory": [
+      "Nejvýše 60 km/h – kolem návěstidla s návěstí Jízda vlaku dovolena se jede stejnou rychlostí jako kolem vjezdového návěstidla; od L2 pak 80 km/h.",
+      "Nejvýše 40 km/h – kolem cestového návěstidla s návěstí Jízda vlaku dovolena se jede nejvýše 40 km/h; rychlost smí zvýšit až od návěstidla L2."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Vjezdové návěstidlo L návěstí Rychlost 60 km/h a očekávejte rychlost 80 km/h, odjezdové L2 návěst Rychlost 80 km/h a volno; červený úsek je mezi cestovým návěstidlem Lc 2a (Jízda vlaku dovolena) a návěstidlem L2, tedy až za obvodem výhybek přilehlých k návěstidlu L."
+  },
+  {
+    "n": 77,
+    "otazka": "Jakou rychlost předvěstí tato návěst?",
+    "obrazky": [
+      "img/q077_1.png"
+    ],
+    "tema": "Návěsti",
+    "predpis": "SŽ D1",
+    "zdroje": [
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (33)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 112 odst. (5)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 113 odst. (1) b)"
+      }
+    ],
+    "odpoved": "Předvěstí rychlost 60 km/h (popř. 70 km/h) od následujícího hlavního návěstidla – jde o návěst Rychlost 60 km/h a očekávejte rychlost 60 km/h.",
+    "plne_zneni": "SŽ D1 čl. 113 odst. (33): Rychlost 60 km/h a očekávejte rychlost 60 km/h – žluté světlo doplněné pod ním vodorovným žlutým pruhem a nad ním rychle přerušované žluté světlo.\n\nSŽ D1 čl. 113 odst. (1): Návěsti vyjádřené dvěma světly dovolují jízdu vlaku a: a) Dolním světlem, případně doplněný indikátorem […] přikazují strojvedoucímu jet v obvodu výhybek přilehlých k hlavnímu návěstidlu nejvýše návěstěnou rychlostí. Není-li obvod výhybek přilehlých k hlavnímu návěstidlu, přikazují strojvedoucímu jet nejvýše návěstěnou rychlostí až k následujícímu hlavnímu návěstidlu […]. b) Horním světlem, příp. doplněný indikátorem […] předvěstí návěst následujícího hlavního návěstidla. Předvěstění je vyjádřeno druhou částí názvu návěsti: … a výstraha, … a volno, … a očekávejte rychlost 120 (100, 80, 60, 40) km/h. Pokyn, dávaný horním světlem, je shodný jako pokyn, dávaný návěstí vyjádřenou jedním světlem.\n\nSŽ D1 čl. 112 odst. (5): Očekávejte rychlost 60 km/h – rychle přerušované žluté světlo\n• dovoluje jízdu vlaku\n• předvěstí rychlost 60 km/h nebo 70 km/h od následujícího hlavního návěstidla, umístěného nejméně na zábrzdnou vzdálenost\n\nSŽ D1 čl. 113 odst. (3): Je-li rychlost předvěstěná horním světlem menší než rychlost návěstěná dolním světlem, je návěstidlo, jehož návěst se předvěstí, umístěno nejméně na zábrzdnou vzdálenost.",
+    "distraktory": [
+      "Předvěstí rychlost 40 km/h, 30 km/h nebo 50 km/h od následujícího hlavního návěstidla – jde o návěst Rychlost 60 km/h a očekávejte rychlost 40 km/h.",
+      "Předvěstí rychlost 80 km/h nebo 90 km/h od následujícího hlavního návěstidla – jde o návěst Rychlost 60 km/h a očekávejte rychlost 80 km/h."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Na obrázku je horní žluté světlo s paprsky a dolní stálé žluté světlo s panelem s vodorovnou řadou žlutých bodů; barva pruhu byla ověřena z pixelů obrázku jako žlutá (RGB ≈ 200/200/40), tedy vodorovný žlutý pruh = Rychlost 60 km/h. Horní světlo je vykresleno osmi paprsky, což v těchto obrázcích značí rychle přerušované světlo (pomalu přerušované má jen čtyři paprsky) = Očekávejte rychlost 60 km/h. Dolní světlo navíc přikazuje jet v obvodu výhybek přilehlých k návěstidlu nejvýše 60 km/h."
+  }
+]

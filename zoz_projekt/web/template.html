@@ -1,0 +1,409 @@
+<title>ZOZ Trenažér</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --bg:#f3f4f2; --panel:#ffffff; --panel2:#e9ebe7; --line:#cfd4cc; --line2:#e2e5df;
+  --ink:#1b2320; --ink2:#4c5751; --ink3:#7a857f;
+  --accent:#1f4e79; --accent-ink:#ffffff; --accent-soft:#dfe9f3;
+  --ok:#1f7a3a; --ok-soft:#dcefe1; --bad:#b3261e; --bad-soft:#f7dcda; --warn:#a05e00; --warn-soft:#f8e8c9;
+  --shadow:0 1px 2px rgba(20,30,25,.08),0 6px 18px rgba(20,30,25,.06);
+  --r:10px;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#151a18; --panel:#1e2522; --panel2:#262e2a; --line:#3a453f; --line2:#2e3733;
+    --ink:#e8ece9; --ink2:#b4bdb8; --ink3:#7f8a84;
+    --accent:#7fb3e6; --accent-ink:#0f1a26; --accent-soft:#233648;
+    --ok:#5fcf7f; --ok-soft:#1d3a27; --bad:#f28b82; --bad-soft:#4a2320; --warn:#f0b64a; --warn-soft:#42320f;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 18px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151a18; --panel:#1e2522; --panel2:#262e2a; --line:#3a453f; --line2:#2e3733;
+  --ink:#e8ece9; --ink2:#b4bdb8; --ink3:#7f8a84;
+  --accent:#7fb3e6; --accent-ink:#0f1a26; --accent-soft:#233648;
+  --ok:#5fcf7f; --ok-soft:#1d3a27; --bad:#f28b82; --bad-soft:#4a2320; --warn:#f0b64a; --warn-soft:#42320f;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 18px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,select:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+img{max-width:100%;height:auto}
+h1,h2,h3{margin:0;line-height:1.2;text-wrap:balance}
+.mono{font-family:var(--mono)}
+
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--panel);border-bottom:1px solid var(--line);}
+.top-in{max-width:1080px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:baseline;gap:10px}
+.brand h1{font-size:18px;font-weight:700;letter-spacing:.01em}
+.brand .sub{font-family:var(--mono);font-size:12px;color:var(--ink3)}
+.tabs{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
+.tab{border:1px solid transparent;background:transparent;padding:7px 12px;border-radius:8px;font-weight:500;color:var(--ink2)}
+.tab[aria-selected="true"]{background:var(--accent);color:var(--accent-ink)}
+.tab:hover:not([aria-selected="true"]){background:var(--panel2)}
+
+main{max-width:1080px;margin:0 auto;padding:18px 16px 60px}
+.view[hidden]{display:none}
+
+/* controls */
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+.toolbar input[type=search],.toolbar select,.field select,.field input{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
+.toolbar input[type=search]{flex:1 1 220px}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:8px 14px;font-weight:500}
+.btn:hover{background:var(--panel2)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn.primary:hover{filter:brightness(1.08)}
+.btn.small{padding:5px 10px;font-size:13px}
+.btn[disabled]{opacity:.5;cursor:default}
+.count{font-family:var(--mono);font-size:12px;color:var(--ink3)}
+
+/* question cards */
+.qlist{display:flex;flex-direction:column;gap:10px}
+.q{background:var(--panel);border:1px solid var(--line2);border-radius:var(--r);box-shadow:var(--shadow)}
+.q-head{display:flex;gap:12px;padding:12px 14px;align-items:flex-start;cursor:pointer;width:100%;text-align:left;background:none;border:0;border-radius:var(--r)}
+.q-num{font-family:var(--mono);font-size:13px;color:var(--ink3);min-width:34px;padding-top:2px}
+.q-text{flex:1;font-weight:500}
+.q-meta{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.chip{display:inline-block;font-size:11.5px;padding:2px 8px;border-radius:999px;background:var(--panel2);color:var(--ink2);font-family:var(--mono);letter-spacing:.01em}
+.chip.tema{background:var(--accent-soft);color:var(--accent)}
+.chip.j-vysoká{background:var(--ok-soft);color:var(--ok)}
+.chip.j-střední{background:var(--warn-soft);color:var(--warn)}
+.chip.j-nízká{background:var(--bad-soft);color:var(--bad)}
+.q-body{padding:0 14px 14px 60px;border-top:1px dashed var(--line2)}
+.q-body[hidden]{display:none}
+@media (max-width:600px){.q-body{padding-left:14px}}
+.ans{margin-top:12px;padding:12px 14px;border-left:3px solid var(--ok);background:var(--ok-soft);border-radius:0 8px 8px 0}
+.ans b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ok);margin-bottom:4px}
+.src{margin-top:10px;font-family:var(--mono);font-size:13px;color:var(--ink2)}
+.src span{display:inline-block;margin-right:10px}
+.full{margin-top:10px}
+.full summary{cursor:pointer;font-weight:500;color:var(--accent);font-size:14px}
+.full pre{white-space:pre-wrap;font-family:var(--sans);font-size:13.5px;line-height:1.55;background:var(--panel2);padding:12px 14px;border-radius:8px;margin:8px 0 0;color:var(--ink)}
+.note{margin-top:10px;font-size:13px;color:var(--warn);background:var(--warn-soft);padding:8px 12px;border-radius:8px}
+.qimg{margin-top:12px;background:#fff;border:1px solid var(--line2);border-radius:8px;padding:6px;display:inline-block;max-width:100%}
+.distr{margin-top:10px;font-size:13px;color:var(--ink3)}
+.distr li{margin:2px 0}
+.stat-inline{font-family:var(--mono);font-size:12px;color:var(--ink3);margin-top:8px}
+
+/* flash cards */
+.card{background:var(--panel);border:1px solid var(--line2);border-radius:14px;box-shadow:var(--shadow);padding:22px 22px 18px;max-width:760px;margin:0 auto}
+.card .q-num{margin-bottom:6px}
+.card .qtext{font-size:19px;font-weight:600;line-height:1.35}
+.card-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px;justify-content:space-between;align-items:center}
+.card-actions .grp{display:flex;gap:8px;flex-wrap:wrap}
+.progress{height:4px;background:var(--panel2);border-radius:2px;margin:0 auto 14px;max-width:760px;overflow:hidden}
+.progress i{display:block;height:100%;background:var(--accent);width:0}
+
+/* test setup */
+.setup{background:var(--panel);border:1px solid var(--line2);border-radius:14px;box-shadow:var(--shadow);padding:22px;max-width:760px;margin:0 auto}
+.setup h2{font-size:20px;margin-bottom:6px}
+.setup p{margin:0 0 16px;color:var(--ink2)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.field{display:flex;flex-direction:column;gap:6px}
+.field label{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3);font-weight:600}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:7px 12px;font-family:var(--mono);font-size:13px}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.check{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink2)}
+.setup-actions{display:flex;gap:10px;align-items:center;margin-top:20px;flex-wrap:wrap}
+
+/* test run */
+.run-head{display:flex;justify-content:space-between;align-items:center;max-width:760px;margin:0 auto 10px;font-family:var(--mono);font-size:13px;color:var(--ink2)}
+.timer{font-size:18px;font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums}
+.timer.low{color:var(--bad)}
+.opts{display:flex;flex-direction:column;gap:8px;margin-top:16px}
+.opt{display:flex;gap:12px;align-items:flex-start;text-align:left;border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:12px 14px;width:100%}
+.opt:hover{background:var(--panel2)}
+.opt .k{font-family:var(--mono);font-weight:600;color:var(--accent);min-width:18px}
+.opt[aria-checked="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.opt.right{border-color:var(--ok);background:var(--ok-soft)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt[disabled]{cursor:default}
+.feedback{margin-top:12px}
+
+/* results */
+.score{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:16px}
+.tile{background:var(--panel);border:1px solid var(--line2);border-radius:12px;padding:14px 18px;min-width:140px;flex:1 1 140px;box-shadow:var(--shadow)}
+.tile .v{font-size:30px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.1}
+.tile .l{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3);margin-top:4px}
+.tile.ok .v{color:var(--ok)}.tile.bad .v{color:var(--bad)}
+.res-q{border-left:3px solid var(--line);padding-left:12px;margin:10px 0}
+.res-q.ok{border-color:var(--ok)}.res-q.bad{border-color:var(--bad)}
+.res-q .t{font-weight:500}
+.res-q .a{font-size:13.5px;color:var(--ink2);margin-top:3px}
+.res-q .a.wrong{color:var(--bad);text-decoration:line-through}
+.res-q .a.right{color:var(--ok)}
+table.hist{width:100%;border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
+table.hist th,table.hist td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line2)}
+table.hist th{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3)}
+.tablewrap{overflow-x:auto}
+.section{background:var(--panel);border:1px solid var(--line2);border-radius:12px;padding:16px 18px;margin-bottom:14px;box-shadow:var(--shadow)}
+.section h2{font-size:16px;margin-bottom:10px}
+.empty{color:var(--ink3);font-style:italic}
+.weak{display:flex;gap:8px;align-items:center;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--line2);flex-wrap:wrap}
+.weak:last-child{border-bottom:0}
+.bar{height:6px;background:var(--panel2);border-radius:3px;width:120px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--bad)}
+kbd{font-family:var(--mono);font-size:11px;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px;color:var(--ink2)}
+@media (prefers-reduced-motion:no-preference){.progress i{transition:width .25s}}
+</style>
+
+<div class="top"><div class="top-in">
+  <div class="brand"><h1>ZOZ Trenažér</h1><span class="sub" id="brandSub">strojvedoucí ČD · prosinec 2026</span></div>
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" data-view="prehled" aria-selected="true">Přehled</button>
+    <button class="tab" role="tab" data-view="karty" aria-selected="false">Kartičky</button>
+    <button class="tab" role="tab" data-view="test" aria-selected="false">Test</button>
+    <button class="tab" role="tab" data-view="vysledky" aria-selected="false">Výsledky</button>
+  </div>
+</div></div>
+
+<main>
+<!-- PŘEHLED -->
+<section class="view" id="view-prehled">
+  <div class="toolbar">
+    <input type="search" id="q-search" placeholder="Hledat v otázkách, odpovědích, článcích… (např. „40 km/h“, „čl. 138“)">
+    <select id="f-tema"><option value="">Všechna témata</option></select>
+    <select id="f-predpis"><option value="">Všechny předpisy</option></select>
+    <select id="f-jistota"><option value="">Jistota: vše</option><option value="vysoká">vysoká</option><option value="střední">střední</option><option value="nízká">nízká</option></select>
+    <button class="btn small" id="btn-expand">Rozbalit vše</button>
+    <span class="count" id="q-count"></span>
+  </div>
+  <div class="qlist" id="qlist"></div>
+</section>
+
+<!-- KARTIČKY -->
+<section class="view" id="view-karty" hidden>
+  <div class="toolbar">
+    <select id="k-tema"><option value="">Všechna témata</option></select>
+    <select id="k-predpis"><option value="">Všechny předpisy</option></select>
+    <label class="check"><input type="checkbox" id="k-shuffle" checked> náhodně</label>
+    <label class="check"><input type="checkbox" id="k-weak"> jen chybované</label>
+    <button class="btn small" id="k-restart">Znovu od začátku</button>
+    <span class="count" id="k-count"></span>
+  </div>
+  <div class="progress"><i id="k-prog"></i></div>
+  <div class="card" id="k-card"></div>
+</section>
+
+<!-- TEST -->
+<section class="view" id="view-test" hidden>
+  <div id="t-setup" class="setup">
+    <h2>Nový test</h2>
+    <p>Otázky se losují náhodně, možnosti A/B/C se míchají. Výsledky se ukládají v tomto prohlížeči.</p>
+    <div class="grid">
+      <div class="field"><label>Počet otázek</label>
+        <div class="seg" id="t-n"><button aria-pressed="false" data-v="10">10</button><button aria-pressed="true" data-v="20">20</button><button aria-pressed="false" data-v="30">30</button><button aria-pressed="false" data-v="50">50</button><button aria-pressed="false" data-v="all">vše</button></div></div>
+      <div class="field"><label>Časový limit</label>
+        <div class="seg" id="t-time"><button aria-pressed="true" data-v="0">bez limitu</button><button aria-pressed="false" data-v="5">5 min</button><button aria-pressed="false" data-v="10">10 min</button><button aria-pressed="false" data-v="15">15 min</button><button aria-pressed="false" data-v="30">30 min</button></div></div>
+      <div class="field"><label>Téma</label><select id="t-tema"><option value="">Všechna témata</option></select></div>
+      <div class="field"><label>Předpis</label><select id="t-predpis"><option value="">Všechny předpisy</option></select></div>
+    </div>
+    <div style="display:flex;gap:18px;flex-wrap:wrap;margin-top:16px">
+      <label class="check"><input type="checkbox" id="t-feedback" checked> ukázat správnou odpověď hned po volbě</label>
+      <label class="check"><input type="checkbox" id="t-weak"> jen otázky, ve kterých jsem chyboval</label>
+    </div>
+    <div class="setup-actions"><button class="btn primary" id="t-start">Spustit test</button><span class="count" id="t-avail"></span></div>
+  </div>
+
+  <div id="t-run" hidden>
+    <div class="run-head"><span id="t-pos"></span><span class="timer" id="t-timer"></span><button class="btn small" id="t-abort">Ukončit</button></div>
+    <div class="progress"><i id="t-prog"></i></div>
+    <div class="card" id="t-card"></div>
+  </div>
+
+  <div id="t-result" hidden></div>
+</section>
+
+<!-- VÝSLEDKY -->
+<section class="view" id="view-vysledky" hidden>
+  <div class="score" id="v-tiles"></div>
+  <div class="section"><h2>Slabá místa</h2><div id="v-weak"></div>
+    <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap"><button class="btn primary small" id="v-weaktest">Test z chybovaných otázek</button><button class="btn small" id="v-reset">Smazat historii</button></div></div>
+  <div class="section"><h2>Historie testů</h2><div class="tablewrap" id="v-hist"></div></div>
+</section>
+</main>
+
+<script>
+const DATA = __DATA__;
+const IMG = __IMG__;
+const BUILD = "__BUILD__";
+</script>
+<script>
+(function(){
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const byN=Object.fromEntries(DATA.map(q=>[q.n,q]));
+document.getElementById('brandSub').textContent=`strojvedoucí ČD · ${DATA.length} otázek · ${BUILD}`;
+
+/* ---------- storage ---------- */
+const KEY='zoz-stats-v1';
+function load(){try{return JSON.parse(localStorage.getItem(KEY))||{q:{},hist:[]}}catch(e){return {q:{},hist:[]}}}
+function save(s){try{localStorage.setItem(KEY,JSON.stringify(s))}catch(e){}}
+let ST=load();
+function stat(n){return ST.q[n]||{ok:0,bad:0}}
+function isWeak(n){const s=stat(n);return s.bad>0 && s.bad>=s.ok}
+
+/* ---------- helpers ---------- */
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+const temata=[...new Set(DATA.map(q=>q.tema))].sort((a,b)=>a.localeCompare(b,'cs'));
+const predpisy=[...new Set(DATA.map(q=>q.predpis))].sort((a,b)=>a.localeCompare(b,'cs'));
+function fillSel(sel,arr){arr.forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;sel.appendChild(o)})}
+['#f-tema','#k-tema','#t-tema'].forEach(s=>fillSel($(s),temata));
+['#f-predpis','#k-predpis','#t-predpis'].forEach(s=>fillSel($(s),predpisy));
+function filterQs(tema,predpis,weak){return DATA.filter(q=>(!tema||q.tema===tema)&&(!predpis||q.predpis===predpis)&&(!weak||isWeak(q.n)))}
+function imgHtml(q){return (q.obrazky||[]).map(p=>IMG[p]?`<div class="qimg"><img src="${IMG[p]}" alt="obrázek k otázce ${q.n}" loading="lazy"></div>`:'').join('')}
+function srcHtml(q){return `<div class="src">${(q.zdroje||[]).map(z=>`<span>§ ${esc(z.predpis)} ${esc(z.clanek)}</span>`).join('')}</div>`}
+function answerBlock(q,withDistr){
+  return `<div class="ans"><b>Správná odpověď</b>${esc(q.odpoved)}</div>${srcHtml(q)}
+  <details class="full"><summary>Plné znění článku</summary><pre>${esc(q.plne_zneni)}</pre></details>
+  ${withDistr?`<div class="distr">Nesprávné možnosti v testu:<ul>${q.distraktory.map(d=>`<li>${esc(d)}</li>`).join('')}</ul></div>`:''}
+  ${q.poznamka?`<div class="note">Poznámka: ${esc(q.poznamka)}</div>`:''}`;
+}
+
+/* ---------- tabs ---------- */
+$$('.tab').forEach(t=>t.addEventListener('click',()=>showView(t.dataset.view)));
+function showView(v){
+  $$('.tab').forEach(t=>t.setAttribute('aria-selected',String(t.dataset.view===v)));
+  $$('.view').forEach(s=>s.hidden=(s.id!=='view-'+v));
+  if(v==='vysledky')renderResults();
+  if(v==='karty'&&!K.list.length)kRestart();
+  if(v==='test')updateAvail();
+  try{localStorage.setItem('zoz-view',v)}catch(e){}
+}
+
+/* ---------- PŘEHLED ---------- */
+let expandAll=false;
+function renderList(){
+  const s=$('#q-search').value.trim().toLowerCase(), tema=$('#f-tema').value, pred=$('#f-predpis').value, jist=$('#f-jistota').value;
+  const rows=DATA.filter(q=>(!tema||q.tema===tema)&&(!pred||q.predpis===pred)&&(!jist||q.jistota===jist)&&(!s||[q.n,q.otazka,q.odpoved,q.plne_zneni,(q.zdroje||[]).map(z=>z.predpis+' '+z.clanek).join(' ')].join(' ').toLowerCase().includes(s)));
+  $('#q-count').textContent=`${rows.length} / ${DATA.length}`;
+  $('#qlist').innerHTML=rows.map(q=>{const st=stat(q.n);return `<article class="q" id="q${q.n}">
+    <button class="q-head" aria-expanded="${expandAll}" data-n="${q.n}"><span class="q-num">${q.n}.</span><span class="q-text">${esc(q.otazka)}
+      <span class="q-meta"><span class="chip tema">${esc(q.tema)}</span><span class="chip">${esc(q.predpis)}</span><span class="chip j-${esc(q.jistota)}">jistota ${esc(q.jistota)}</span>${(st.ok+st.bad)?`<span class="chip">${st.ok}✓ ${st.bad}✗</span>`:''}</span></span></button>
+    <div class="q-body" ${expandAll?'':'hidden'}>${imgHtml(q)}${answerBlock(q,true)}</div></article>`}).join('')||'<p class="empty">Nic nenalezeno.</p>';
+}
+$('#qlist').addEventListener('click',e=>{const h=e.target.closest('.q-head');if(!h)return;const b=h.nextElementSibling;b.hidden=!b.hidden;h.setAttribute('aria-expanded',String(!b.hidden))});
+['#q-search','#f-tema','#f-predpis','#f-jistota'].forEach(s=>$(s).addEventListener('input',renderList));
+$('#btn-expand').addEventListener('click',()=>{expandAll=!expandAll;$('#btn-expand').textContent=expandAll?'Sbalit vše':'Rozbalit vše';renderList()});
+
+/* ---------- KARTIČKY ---------- */
+const K={list:[],i:0,flipped:false};
+function kRestart(){
+  let l=filterQs($('#k-tema').value,$('#k-predpis').value,$('#k-weak').checked);
+  if($('#k-shuffle').checked)l=shuffle(l);
+  K.list=l;K.i=0;K.flipped=false;renderCard();
+}
+['#k-tema','#k-predpis','#k-shuffle','#k-weak'].forEach(s=>$(s).addEventListener('change',kRestart));
+$('#k-restart').addEventListener('click',kRestart);
+function renderCard(){
+  const c=$('#k-card');$('#k-count').textContent=K.list.length?`${K.i+1} / ${K.list.length}`:'0';
+  $('#k-prog').style.width=K.list.length?`${(K.i/K.list.length)*100}%`:'0';
+  if(!K.list.length){c.innerHTML='<p class="empty">Pro tento výběr nejsou žádné otázky.</p>';return}
+  const q=K.list[K.i];
+  c.innerHTML=`<div class="q-num">Otázka ${q.n} · ${esc(q.tema)} · ${esc(q.predpis)}</div><div class="qtext">${esc(q.otazka)}</div>${imgHtml(q)}
+    <div id="k-ans" ${K.flipped?'':'hidden'}>${answerBlock(q,false)}</div>
+    <div class="card-actions">
+      <div class="grp"><button class="btn" id="k-prev" ${K.i===0?'disabled':''}>← Předchozí</button><button class="btn primary" id="k-flip">${K.flipped?'Skrýt odpověď':'Ukázat odpověď'} <kbd>mezerník</kbd></button><button class="btn" id="k-next" ${K.i>=K.list.length-1?'disabled':''}>Další →</button></div>
+      <div class="grp" ${K.flipped?'':'hidden'}><button class="btn small" id="k-bad">✗ Nevěděl jsem</button><button class="btn small" id="k-ok">✓ Věděl jsem</button></div>
+    </div>`;
+  $('#k-flip').onclick=()=>{K.flipped=!K.flipped;renderCard()};
+  $('#k-prev').onclick=()=>{if(K.i>0){K.i--;K.flipped=false;renderCard()}};
+  $('#k-next').onclick=kNext;
+  $('#k-ok').onclick=()=>{mark(q.n,true);kNext()};
+  $('#k-bad').onclick=()=>{mark(q.n,false);kNext()};
+}
+function kNext(){if(K.i<K.list.length-1){K.i++;K.flipped=false;renderCard()}else{K.i=K.list.length-1;renderCard();$('#k-prog').style.width='100%'}}
+function mark(n,ok){const s=stat(n);ok?s.ok++:s.bad++;ST.q[n]=s;save(ST)}
+document.addEventListener('keydown',e=>{
+  if(e.target.matches('input,select,textarea'))return;
+  const inK=!$('#view-karty').hidden, inT=!$('#view-test').hidden&&!$('#t-run').hidden;
+  if(inK){if(e.key===' '){e.preventDefault();$('#k-flip')?.click()}else if(e.key==='ArrowRight')$('#k-next')?.click();else if(e.key==='ArrowLeft')$('#k-prev')?.click()}
+  if(inT){const m={a:0,b:1,c:2,'1':0,'2':1,'3':2}[e.key.toLowerCase()];if(m!==undefined)$$('#t-card .opt')[m]?.click();if(e.key==='Enter'||e.key===' '){const b=$('#t-next');if(b){e.preventDefault();b.click()}}}
+});
+
+/* ---------- TEST ---------- */
+const T={qs:[],i:0,answers:[],timer:null,end:0,feedback:true,limit:0};
+function segVal(id){return $(`#${id} [aria-pressed="true"]`).dataset.v}
+$$('.seg').forEach(seg=>seg.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;seg.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed','false'));b.setAttribute('aria-pressed','true');updateAvail()}));
+['#t-tema','#t-predpis','#t-weak'].forEach(s=>$(s).addEventListener('change',updateAvail));
+function updateAvail(){const n=filterQs($('#t-tema').value,$('#t-predpis').value,$('#t-weak').checked).length;$('#t-avail').textContent=`k dispozici ${n} otázek`;$('#t-start').disabled=n===0}
+$('#t-start').addEventListener('click',()=>startTest());
+function startTest(opts){
+  let pool=filterQs($('#t-tema').value,$('#t-predpis').value,$('#t-weak').checked);
+  if(opts&&opts.weakOnly)pool=DATA.filter(q=>isWeak(q.n));
+  if(!pool.length)return;
+  const nv=segVal('t-n');const n=nv==='all'?pool.length:Math.min(+nv,pool.length);
+  T.qs=shuffle(pool).slice(0,n).map(q=>{const opts=shuffle([{t:q.odpoved,ok:true},...q.distraktory.map(d=>({t:d,ok:false}))]);return {q,opts}});
+  T.i=0;T.answers=[];T.feedback=$('#t-feedback').checked;T.limit=+segVal('t-time');
+  $('#t-setup').hidden=true;$('#t-result').hidden=true;$('#t-run').hidden=false;
+  clearInterval(T.timer);
+  if(T.limit){T.end=Date.now()+T.limit*60000;tick();T.timer=setInterval(tick,500)}else{$('#t-timer').textContent='';$('#t-timer').classList.remove('low')}
+  renderTestQ();
+}
+function tick(){const ms=T.end-Date.now();if(ms<=0){clearInterval(T.timer);finishTest(true);return}const s=Math.ceil(ms/1000);$('#t-timer').textContent=`${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;$('#t-timer').classList.toggle('low',s<=60)}
+function renderTestQ(){
+  const {q,opts}=T.qs[T.i];
+  $('#t-pos').textContent=`Otázka ${T.i+1} / ${T.qs.length}`;
+  $('#t-prog').style.width=`${(T.i/T.qs.length)*100}%`;
+  $('#t-card').innerHTML=`<div class="q-num">Otázka ${q.n} · ${esc(q.tema)}</div><div class="qtext">${esc(q.otazka)}</div>${imgHtml(q)}
+    <div class="opts" role="radiogroup">${opts.map((o,i)=>`<button class="opt" role="radio" aria-checked="false" data-i="${i}"><span class="k">${'ABC'[i]}</span><span>${esc(o.t)}</span></button>`).join('')}</div>
+    <div class="feedback" id="t-fb"></div>
+    <div class="card-actions"><span class="count">klávesy <kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>, dál <kbd>Enter</kbd></span><div class="grp"><button class="btn primary" id="t-next" disabled>${T.i===T.qs.length-1?'Vyhodnotit':'Další →'}</button></div></div>`;
+  $$('#t-card .opt').forEach(b=>b.addEventListener('click',()=>choose(+b.dataset.i)));
+  $('#t-next').addEventListener('click',()=>{if(T.answers[T.i]===undefined)return;if(T.i<T.qs.length-1){T.i++;renderTestQ()}else finishTest(false)});
+}
+function choose(i){
+  const {q,opts}=T.qs[T.i];const btns=$$('#t-card .opt');
+  if(T.feedback&&T.answers[T.i]!==undefined)return;
+  T.answers[T.i]=i;btns.forEach((b,k)=>b.setAttribute('aria-checked',String(k===i)));
+  if(T.feedback){btns.forEach((b,k)=>{b.disabled=true;if(opts[k].ok)b.classList.add('right');else if(k===i)b.classList.add('wrong')});
+    $('#t-fb').innerHTML=(opts[i].ok?'':'')+srcHtml(q)+`<details class="full"><summary>Plné znění článku</summary><pre>${esc(q.plne_zneni)}</pre></details>`;}
+  $('#t-next').disabled=false;
+}
+$('#t-abort').addEventListener('click',()=>{if(T.answers.some(a=>a!==undefined))finishTest(false);else{clearInterval(T.timer);$('#t-run').hidden=true;$('#t-setup').hidden=false}});
+function finishTest(timeout){
+  clearInterval(T.timer);
+  let ok=0;const rows=T.qs.map(({q,opts},k)=>{const a=T.answers[k];const right=a!==undefined&&opts[a].ok;if(a!==undefined){mark(q.n,right)}if(right)ok++;return {q,opts,a,right}});
+  const answered=rows.filter(r=>r.a!==undefined).length;
+  ST.hist.unshift({d:Date.now(),n:T.qs.length,ok,answered,limit:T.limit,tema:$('#t-tema').value||'',timeout});ST.hist=ST.hist.slice(0,200);save(ST);
+  const pct=Math.round(ok/T.qs.length*100);
+  $('#t-run').hidden=true;$('#t-result').hidden=false;
+  $('#t-result').innerHTML=`<div class="setup"><h2>${timeout?'Čas vypršel':'Výsledek testu'}</h2>
+    <div class="score"><div class="tile ${pct>=80?'ok':'bad'}"><div class="v">${pct} %</div><div class="l">úspěšnost</div></div><div class="tile ok"><div class="v">${ok}</div><div class="l">správně</div></div><div class="tile bad"><div class="v">${answered-ok}</div><div class="l">špatně</div></div><div class="tile"><div class="v">${T.qs.length-answered}</div><div class="l">nezodpovězeno</div></div></div>
+    ${rows.map(r=>`<div class="res-q ${r.a===undefined?'':(r.right?'ok':'bad')}"><div class="t">${r.q.n}. ${esc(r.q.otazka)}</div>
+      ${r.a!==undefined&&!r.right?`<div class="a wrong">${esc(r.opts[r.a].t)}</div>`:''}
+      ${r.right?'':`<div class="a right">${esc(r.q.odpoved)}</div>`}
+      ${srcHtml(r.q)}</div>`).join('')}
+    <div class="setup-actions"><button class="btn primary" id="t-again">Nový test</button><button class="btn" id="t-again-wrong" ${answered-ok?'':'disabled'}>Opakovat jen chybné</button></div></div>`;
+  $('#t-again').onclick=()=>{$('#t-result').hidden=true;$('#t-setup').hidden=false;updateAvail()};
+  $('#t-again-wrong').onclick=()=>{const wrong=rows.filter(r=>!r.right).map(r=>r.q);T.qs=shuffle(wrong).map(q=>({q,opts:shuffle([{t:q.odpoved,ok:true},...q.distraktory.map(d=>({t:d,ok:false}))])}));T.i=0;T.answers=[];T.limit=0;$('#t-timer').textContent='';$('#t-result').hidden=true;$('#t-run').hidden=false;renderTestQ()};
+}
+
+/* ---------- VÝSLEDKY ---------- */
+function renderResults(){
+  const all=Object.entries(ST.q);const tot=all.reduce((a,[,s])=>a+s.ok+s.bad,0), okc=all.reduce((a,[,s])=>a+s.ok,0);
+  const seen=all.length, weak=all.filter(([n])=>isWeak(+n));
+  $('#v-tiles').innerHTML=`<div class="tile"><div class="v">${seen}<span style="font-size:14px;color:var(--ink3)"> / ${DATA.length}</span></div><div class="l">otázek procvičeno</div></div>
+    <div class="tile ${tot&&okc/tot>=.8?'ok':''}"><div class="v">${tot?Math.round(okc/tot*100):0} %</div><div class="l">celková úspěšnost</div></div>
+    <div class="tile bad"><div class="v">${weak.length}</div><div class="l">slabých otázek</div></div>
+    <div class="tile"><div class="v">${ST.hist.length}</div><div class="l">testů</div></div>`;
+  $('#v-weak').innerHTML=weak.length?weak.sort((a,b)=>(b[1].bad-b[1].ok)-(a[1].bad-a[1].ok)).slice(0,40).map(([n,s])=>{const q=byN[n];if(!q)return '';const r=s.bad/(s.ok+s.bad);return `<div class="weak"><span><span class="q-num">${n}.</span> ${esc(q.otazka.slice(0,110))}${q.otazka.length>110?'…':''}</span><span style="display:flex;gap:10px;align-items:center"><span class="count">${s.ok}✓ ${s.bad}✗</span><span class="bar"><i style="width:${r*100}%"></i></span><button class="btn small" data-goto="${n}">otevřít</button></span></div>`}).join(''):'<p class="empty">Zatím žádné chybované otázky – spusť test nebo kartičky.</p>';
+  $('#v-weaktest').disabled=!weak.length;
+  $('#v-hist').innerHTML=ST.hist.length?`<table class="hist"><tr><th>Datum</th><th>Otázek</th><th>Správně</th><th>Úspěšnost</th><th>Limit</th><th>Téma</th></tr>${ST.hist.map(h=>`<tr><td>${new Date(h.d).toLocaleString('cs-CZ',{day:'numeric',month:'numeric',hour:'2-digit',minute:'2-digit'})}</td><td>${h.n}</td><td>${h.ok}</td><td>${Math.round(h.ok/h.n*100)} %</td><td>${h.limit?h.limit+' min'+(h.timeout?' (vypršel)':''):'–'}</td><td>${esc(h.tema||'vše')}</td></tr>`).join('')}</table>`:'<p class="empty">Zatím žádný test.</p>';
+}
+$('#v-weak').addEventListener('click',e=>{const b=e.target.closest('[data-goto]');if(!b)return;showView('prehled');$('#q-search').value=b.dataset.goto;$('#f-tema').value='';$('#f-predpis').value='';renderList();const h=document.querySelector(`#q${b.dataset.goto} .q-head`);if(h){h.click();h.scrollIntoView({block:'start'})}$('#q-search').value='';});
+$('#v-weaktest').addEventListener('click',()=>{showView('test');$('#t-weak').checked=true;updateAvail();startTest({weakOnly:true})});
+$('#v-reset').addEventListener('click',()=>{ST={q:{},hist:[]};save(ST);renderResults()});
+
+/* ---------- init ---------- */
+renderList();updateAvail();
+let v='prehled';try{v=localStorage.getItem('zoz-view')||v}catch(e){}
+showView(v);
+})();
+</script>

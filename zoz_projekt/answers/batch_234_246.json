@@ -1,0 +1,368 @@
+[
+  {
+    "n": 234,
+    "otazka": "Jak bude označeno HV při zavedení aktivního odstavení?",
+    "obrazky": [],
+    "tema": "Vozidla a VZ",
+    "predpis": "ČD V2",
+    "zdroje": [
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 13"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 173 odst. (5)"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 399 odst. (14)"
+      }
+    ],
+    "odpoved": "Návěstí Obsazené hnací vozidlo – jedním bílým světlem na přední i zadní straně hnacího vozidla.",
+    "plne_zneni": "ČD V2 čl. 13: Aktivní odstavení je varianta odstavení přiděleného vozidla, při kterém je hnací vozidlo odstavené a je napájené z trolejového vedení nebo je v chodu spalovací motor, pomocné pohony mohou být v činnosti a může být v činnosti centrální napájení vozidel. Podrobnosti stanoví příslušný checklist dle přílohy 4 tohoto předpisu. […] Aktivně odstavené vozidlo musí být označeno dle ustanovení předpisu provozovatele dráhy návěstí Obsazené hnací vozidlo.\n\nSŽ D1 čl. 173 odst. (5): Obsazené hnací vozidlo – jedno bílé světlo na přední i zadní straně hnacího vozidla – upozorňuje na: 1. odstavené hnací vozidlo, obsazené strojvedoucím nebo 2. na aktivní odstavení hnacího vozidla [viz čl. 399 odst. (14)].\n\nSŽ D1 čl. 399 odst. (14): Odstavení vozidla závislé trakce bez lokomotivní čety se zvednutým sběračem (tzv. aktivní odstavení vozidla) je na dráhách provozovaných SŽ povoleno jen tehdy, pokud to dovolují schválené technické podmínky příslušného vozidla závislé trakce a je-li systém umožňující aktivní odstavení vozidla technicky zcela v pořádku (odpovídá dopravce). V opačném případě musí mít odstavené vozidlo závislé trakce stažené všechny své sběrače.",
+    "distraktory": [
+      "Návěstí Obsazené hnací vozidlo – jedním červeným světlem na přední i zadní straně hnacího vozidla.",
+      "Návěstí Obsazeno osobami – žlutým světlem s modrým svislým pruhem na obou čelech hnacího vozidla."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 235,
+    "otazka": "Vlak Lv je veden samostatným HV řady 754. Smí strojvedoucí pro brzdění za běžných provozních podmínek použít přímočinnou brzdu?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 258 písm. c)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 256"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 261"
+      }
+    ],
+    "odpoved": "Ano – jde o vlak tvořený jediným samostatným HV, které není vybaveno dynamickou brzdou a jehož přímočinná brzda působí na všechna dvojkolí.",
+    "plne_zneni": "ČD V15/I čl. 258: Strojvedoucí reguluje rychlost vlaku: […] c) použitím neprůběžné přímočinné (přídavné) brzdy HV (pokud návod na obsluhu daného vozidla nestanoví jinak): ca) jen u vlaků tvořených jediným samostatným HV, pokud není vybaveno DB a přímočinná brzda působí na všechna dvojkolí vozidla, v opačném případě musí být vlak brzděn samočinnou průběžnou brzdou; cb) u samostatných HV vybavených DB jen v rozmezí rychlostí, v němž má větší účinek než DB; cc) v případě nouze nebo pro odvrácení nebezpečí je dovoleno použití přímočinné brzdy i v těch situacích, kdy by jinak bylo její použití zakázáno.\n\nČD V15/I čl. 256: Vlak sestavený z více než jednoho vozidla musí být brzděn průběžnou brzdou.\n\nČD V15/I čl. 261: Při brzdění vlaku s využitím účinku DB je strojvedoucí vždy povinen počítat s možností výpadku DB a nutností jejího nahrazení samočinnou nebo přímočinnou (jen u vlaků dle čl. 258 písm. c) výše) tlakovou brzdou.",
+    "distraktory": [
+      "Ne – přímočinnou brzdu smí použít jen v případě nouze nebo pro odvrácení hrozícího nebezpečí, jinak musí být Lv brzděn samočinnou průběžnou brzdou.",
+      "Ano, ale jen v rozmezí rychlostí, v němž má přímočinná brzda větší brzdný účinek než dynamická brzda hnacího vozidla."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Předpis podmínku váže na konkrétní vozidlo: HV nesmí mít DB a přímočinná brzda musí působit na všechna dvojkolí (ČD V15/I čl. 258 písm. c) bod ca)). Citace je jednoznačná; vozidlový údaj pro řadu 754 (přenos výkonu elektrický, bez dynamické brzdy; přímočinná brzda na všechna dvojkolí) není v dodaných předpisech tabelován – technologické postupy v ČD OŘ O18 č. 34/2022 u této řady dynamickou brzdu neuvádějí. Ověřit lze v tabulkách technických údajů HV (MAPSIS)."
+  },
+  {
+    "n": 236,
+    "otazka": "Je použití vysokotlakého plnicího švihu při zkoušce brzdy dovoleno?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 67"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "příl. 3 čl. 440 písm. a)"
+      }
+    ],
+    "odpoved": "Ne – při zkoušce brzdy ani při ověření činnosti brzdy se švih k rychlejšímu odbrzdění vozidel používat nesmí, hrozí přebití brzdy vlaku.",
+    "plne_zneni": "ČD V15/I čl. 67: Při zkoušce brzdy nebo ověření činnosti brzdy je zakázáno, s ohledem na možnost přebití brzdy vlaku, používat vysokotlakého plnícího švihu k rychlejšímu odbrzdění vozidel.\n\nČD V15/I příl. 3 čl. 440 písm. a): plnění brzdy: aa) v poloze plnicí, příp. provozní odbrzďování nebo vysokotlaký švih, po dosažení tlaku v hlavním potrubí cca o 0,1 baru pod provozní hodnotou (zpravidla 4,9 bar) musí být vždy plnění brzdy dokončeno v poloze jízdní, aby se zamezilo přebití brzdy; aaa) polohu vysokotlaký švih je doporučeno používat pouze při zahájení plnění souprav vlaků s úplně odvětraným potrubím.\n\nČD V15/I, Základní pojmy: Přebití brzdy – stav, kdy prostory brzdy byly naplněny tlakem vyšším než provozním, takže po přestavení brzdiče do jízdní polohy došlo k jejich zaúčinkování (částečnému zabrzdění). Zpravidla je způsobeno ponecháním rukojeti brzdiče příliš dlouho v plnící poloze nebo v poloze vysokotlakého plnícího švihu.",
+    "distraktory": [
+      "Ano, je dovoleno, ale nejvýše po dobu cca 5 sekund a jen při odbrzďování vozidel na pokyn Odbrzděte daný OZZ.",
+      "Ano, je dovoleno u souprav delších než 20 vozů, aby se zkrátila doba odbrzdění; u kratších souprav se švih použít nesmí."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 237,
+    "otazka": "Strojvedoucí přivěšuje lokomotivu k soupravě vlaku, jejíž první vůz je vybaven napájecím potrubím. Spojí spolu s ostatními předepsanými vedeními také napájecí potrubí?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 37 písm. b)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 37 písm. c)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "příl. 8 čl. 505"
+      }
+    ],
+    "odpoved": "Ano – při svěšování se vždy propojí tlakové spojky hlavního i napájecího potrubí a oba spojkové kohouty se zcela otevřou (u vlaků s nákladními vozy je to naopak zakázáno).",
+    "plne_zneni": "ČD V15/I čl. 37: Při svěšování vozidel se vždy provede: […] b) propojení tlakovými spojkami hlavního a napájecího potrubí (s výjimkou vozidel jimi nevybavených nebo se závadou). Před spojením tlakových spojek se překontroluje stav pryžového těsnění v jejich hlavicích, vadné se vymění, chybějící dosadí. Nepoužité tlakové spojky se zavěsí na závěsy nebo jalová hrdla a jejich spojkové kohouty zůstanou zavřené. Před propojením HV se soupravou se odstraní případné nečistoty a kondenzát z potrubí krátkodobým otevřením spojkového kohoutu příslušného potrubí na HV; c) úplné otevření spojkových kohoutů hlavního a napájecího potrubí tak, že se po propojení tlakových spojek zcela otevřou současně oba spojkové kohouty na čelech spojovaných vozidel […]. Úplné otevření spojkových kohoutů hlavního potrubí se smí provést až po spojení vozidel šroubovkou.\n\nČD V15/I příl. 8 čl. 505: Ve vlaku s nákladními vozy je zakázáno propojit napájecí potrubí mezi HV a soupravou tažených vozidel.",
+    "distraktory": [
+      "Ne – napájecí potrubí se mezi HV a soupravou nepropojuje nikdy, spojí se jen hlavní potrubí a spojky centrálního napájení vozidel.",
+      "Ano – napájecí potrubí propojí, jeho spojkové kohouty však otevře jen částečně, a to až po naplnění hlavního potrubí na provozní tlak."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 238,
+    "otazka": "Jaký úkon provede strojvedoucí vlaku sestaveného z osobních vozů klasické stavby (např. řady A, B apod.) na pokyn „Zabrzděte“ daný od vozmistra kontrolujícího účinek brzdy vozidel:",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 100"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 105"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 66"
+      }
+    ],
+    "odpoved": "Po naplnění hlavního potrubí na provozní tlak sníží tlak v hlavním potrubí o cca 0,5 bar (zabrzdění na zkoušku).",
+    "plne_zneni": "ČD V15/I čl. 100: Po naplnění hlavního potrubí na provozní tlak sníží strojvedoucí na pokyn Zabrzděte daný OZZ tlak v hlavním potrubí o cca 0,5 bar.\n\nČD V15/I čl. 105: U vlaků se zařazenými vozidly vybavenými elektromagnetickou brzdou (dále také Mg-brzda) s nastavenou polohou přestavovače R+Mg provede OZZ také vyzkoušení její správné funkce následujícím způsobem. Po provedení kontroly zabrzdění u jednotlivých vozidel v soupravě vlaku dle čl. 100 - 103 tohoto oddílu, dá OZZ strojvedoucímu pokyn k zabrzdění na zkoušku Mg-brzdy (opakuje návěst Zabrzděte) a strojvedoucí zavede rychločinné brzdění.",
+    "distraktory": [
+      "Po naplnění hlavního potrubí na provozní tlak sníží tlak v hlavním potrubí o cca 1,0 bar (zabrzdění na zkoušku).",
+      "Zavede úplné provozní zabrzdění na zkoušku, tj. sníží tlak v hlavním potrubí z provozní hodnoty na 3,5 bar."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Rychločinné brzdění strojvedoucí zavede až na opakovanou návěst Zabrzděte, a to jen u vozidel s Mg-brzdou v režimu R+Mg (čl. 105); u vozů klasické stavby bez Mg-brzdy jde jen o snížení tlaku o cca 0,5 bar."
+  },
+  {
+    "n": 239,
+    "otazka": "Započítává se elektrodynamická brzda u lokomotiv?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 174"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 180"
+      }
+    ],
+    "odpoved": "Ne – u lokomotiv se započítá jen brzdicí váha nejvyššího nastaveného režimu bez dynamické brzdy; režimy s DB (P+E, R+E) se do brzdicí váhy vlaku nezapočítávají.",
+    "plne_zneni": "ČD V15/I čl. 174: U lokomotiv se vždy započítá jen brzdící váha nejvyššího režimu brzdění bez dynamické brzdy (uvažuje se např. jen hodnota P, vč. P+Mg, R, R+Mg), je-li tento nastaven. Brzdící váhy režimů brzdění s dynamickou brzdou (např. P+E, R+E apod.) se u lokomotiv do celkové brzdící váhy vlaku nezapočítávají. U elektrických nebo motorových jednotek se brzdící váha započítá vždy včetně dynamické brzdy (je-li zapnutá). […] Strojvedoucí vždy musí OZZ vystavujícímu ZOB ohlásit, který režim je možno na HV započítat, pokud není možno do brzdicí váhy vlaku započítat hodnotu dle prvního odstavce tohoto článku.",
+    "distraktory": [
+      "Ano – u lokomotiv se brzdicí váha započítá vždy včetně dynamické brzdy, je-li zapnutá; režimy P+E, R+E se započítávají plnou hodnotou.",
+      "Ne – u lokomotiv se brzdicí váha režimu brzdění s dynamickou brzdou (P+E, R+E) započítá nejvýše hodnotou 0,75 vyznačené brzdicí váhy."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 240,
+    "otazka": "Započítává se elektrodynamická brzda u elektrických jednotek?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 174"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 180"
+      }
+    ],
+    "odpoved": "Ano – u elektrických (i motorových) jednotek se brzdicí váha započítá vždy včetně dynamické brzdy, je-li zapnutá.",
+    "plne_zneni": "ČD V15/I čl. 174: U lokomotiv se vždy započítá jen brzdící váha nejvyššího režimu brzdění bez dynamické brzdy (uvažuje se např. jen hodnota P, vč. P+Mg, R, R+Mg), je-li tento nastaven. Brzdící váhy režimů brzdění s dynamickou brzdou (např. P+E, R+E apod.) se u lokomotiv do celkové brzdící váhy vlaku nezapočítávají. U elektrických nebo motorových jednotek se brzdící váha započítá vždy včetně dynamické brzdy (je-li zapnutá). […] Režim brzdění bez dynamické brzdy závislý na dosažení určené rychlosti (např. R160 apod.) lze započítat pouze u vlaku, který smí dosáhnout rychlost odpovídající hodnotě uvedené v indexu označení režimu brzdění.",
+    "distraktory": [
+      "Ne – i u elektrických jednotek se započítá jen brzdicí váha nejvyššího režimu brzdění bez dynamické brzdy.",
+      "Ano, ale jen tehdy, je-li dynamická brzda ovládána tlakem v hlavním potrubí a jednotka jede rychlostí vyšší než 85 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 241,
+    "otazka": "Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q241_1.png"
+    ],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 200"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 291 odst. (17)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 203"
+      }
+    ],
+    "odpoved": "Skutečná brzdicí procenta (105) dosahují potřebné hodnoty ze sloupce 8 TJŘ, vlak je dostatečně brzděn – rychlost nesnižuje a pojede stanovenou rychlostí 100 km/h.",
+    "plne_zneni": "ČD V15/I čl. 200: Skutečné brzdící procento vlaku stanovené dle čl. 199 této kapitoly musí mít stejnou nebo vyšší hodnotu než hodnota potřebných brzdících procent tohoto vlaku (viz však čl. 202 a 203 tohoto oddílu).\n\nSŽ D1 čl. 291 odst. (17): Skutečné brzdící procento vlaku musí být vyšší nebo alespoň rovno potřebnému brzdícímu procentu, které je pro konkrétní traťový úsek a pro konkrétní vlak uvedeno ve sloupci 8 TJŘ, popř. v jiném dokumentu Správy železnic (např. v elektronické depeši). […]\n\nČD V15/I čl. 203: Není-li u vlaku nejedoucího pod dohledem ETCS v módu Plný dohled (FS), ve výchozí nebo nácestné stanici dosažena hodnota předepsaných brzdících procent a pro rychlost stanovenou v TJŘ vlaku pro následující traťový úsek skutečná brzdící procenta nedostačují, je strojvedoucí povinen před uvedením vlaku do pohybu stanovit nejvyšší rychlost vlaku odpovídající skutečnému brzdícímu procentu v předmětném úseku tratě. […]",
+    "distraktory": [
+      "Skutečná brzdicí procenta odpovídají potřebným, vlak proto může jet až rychlostí uvedenou v rubrice Max. rychlost Zprávy o brzdění, tj. 120 km/h.",
+      "Skutečná brzdicí procenta (105) nedostačují pro stanovenou rychlost, proto sníží rychlost v následujícím úseku o 5 km/h na 95 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 242,
+    "otazka": "Vlak R 299 stojící v ŽST Kolejov má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude další postup strojvedoucího?",
+    "obrazky": [
+      "img/q242_1.png"
+    ],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 203"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 200"
+      },
+      {
+        "predpis": "SŽ D1",
+        "clanek": "čl. 291 odst. (20)"
+      }
+    ],
+    "odpoved": "Chybí 15 brzdicích procent (95 ku 110), proto před uvedením vlaku do pohybu sníží rychlost ze sloupce 8 TJŘ o 15 km/h – pojede nejvýše 85 km/h.",
+    "plne_zneni": "ČD V15/I čl. 203: Není-li u vlaku nejedoucího pod dohledem ETCS v módu Plný dohled (FS), ve výchozí nebo nácestné stanici dosažena hodnota předepsaných brzdících procent a pro rychlost stanovenou v TJŘ vlaku pro následující traťový úsek skutečná brzdící procenta nedostačují, je strojvedoucí povinen před uvedením vlaku do pohybu stanovit nejvyšší rychlost vlaku odpovídající skutečnému brzdícímu procentu v předmětném úseku tratě. Novou nejvyšší rychlost vlaku strojvedoucí stanoví použitím alternativního postupu výpočtu rychlostního omezení tak, že: a) provede porovnání hodnoty skutečných brzdících procent s hodnotami uvedenými pro jednotlivé traťové úseky ve sloupci 8 TJŘ daného vlaku; b) pro úseky s nedostatkem brzdících procent stanoví rozdíl předepsaných a skutečných brzdících procent a o tuto hodnotu sníží rychlost uvedenou ve sloupci 8 TJŘ pro dotčený traťový úsek; […] d) je-li hodnota skutečných brzdících procent 45 nebo nižší, sníží strojvedoucí rychlost uvedenou ve sloupci 8 TJŘ pro traťový úsek s nedostatkem brzdících procent o dvojnásobek rozdílu předepsaných a skutečných brzdících procent dle bodu b) tohoto článku.\n\nSŽ D1 čl. 291 odst. (20): Dopravce svým vnitřním předpisem musí stanovit postup pro zajištění bezpečného brzdění v případě, že je vlak nedostatečně brzděn (např. snížení rychlosti vlaku, odstavení vozidel apod.).",
+    "distraktory": [
+      "Chybí 15 brzdicích procent, proto sníží rychlost ze sloupce 8 TJŘ o dvojnásobek rozdílu, tj. o 30 km/h – pojede nejvýše 70 km/h.",
+      "Rozloží zábrzdnou dráhu do dvou zábrzdných vzdáleností a u návěstidla s návěstí Výstraha sníží rychlost o 20 km/h; nejvyšší rychlost vlaku zůstává 100 km/h."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 243,
+    "otazka": "Jak se strojvedoucí na elektrické jednotce seznámí se zprávou o brzdění:",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 221"
+      },
+      {
+        "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+        "clanek": "čl. 126"
+      },
+      {
+        "predpis": "ČD Opatření ředitele O18 č. 38/2020",
+        "clanek": "čl. 124"
+      }
+    ],
+    "odpoved": "ZOB je vystavena vždy elektronicky a zpřístupní se mu na služebním tabletu (aplikace ETD); seznámení potvrdí stiskem tlačítka „ano“, což je analogie podpisu tištěné ZOB.",
+    "plne_zneni": "ČD V15/I čl. 221: ZOB se pro všechny vlaky vždy vystaví pouze elektronicky a strojvedoucímu se zpřístupní pomocí elektronického zobrazovacího zařízení dostupného na stanovišti strojvedoucího. Strojvedoucí vždy potvrdí zobrazení ZOB v příslušné aplikaci (nevystavoval-li ZOB sám) a vede vlak podle údajů uvedených v ZOB. V případě zjištění nesprávných údajů musí být vždy vystavena opravená ZOB. Výjimečně, např. nelze-li vystavit nebo včas zpřístupnit ZOB elektronicky, lze vystavit ZOB v tištěné verzi (ZOB POP nebo MZOB). […]\n\nČD Opatření ředitele O18 č. 38/2020 (Provozní aplikace pro strojvedoucí) čl. 126: Strojvedoucí je povinen potvrdit seznámení se s daty ZOB stiskem tlačítka „ano“ v dialogu zobrazeném při zavření ZOB. Strojvedoucí tímto úkonem potvrzuje, že se s daty ZOB seznámil a takto udělené potvrzení je považováno za analogii podpisu tištěné verze ZOB. Výjimku z tohoto ustanovení má strojvedoucí, který VD vytváří sám. V tomto případě potvrzení seznámení se s daty ZOB vyžadováno není, jako potvrzení správnosti těchto dat je považováno uložení vytvořené VD.\n\nČD Opatření ředitele O18 č. 38/2020 čl. 124: Modul vlakové dokumentace (dále jen VD) v aplikaci ETD představuje nástroj, kterým je možné vytvořit novou VD k danému vlaku, editovat VD již vytvořenou nebo se seznámit s daty Zprávy o brzdění a Výkazu vozidel v souladu se zněním předpisu ČD V 15/I.",
+    "distraktory": [
+      "ZOB je vystavena vždy elektronicky a zpřístupní se mu na služebním tabletu (aplikace ETD); seznámení potvrdí zápisem do Knihy předávky HV.",
+      "Tištěnou ZOB mu před odjezdem předá vedoucí obsluhy vlaku, u vlaku bez obsluhy výpravčí výchozí stanice, a strojvedoucí ji podepíše v rubrice Podpis strojvedoucího."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Vytváří-li strojvedoucí vlakovou dokumentaci sám (typicky u jednotky ve vlaku bez obsluhy vlaku), potvrzení seznámení se nevyžaduje – za potvrzení správnosti dat se považuje uložení vytvořené VD."
+  },
+  {
+    "n": 244,
+    "otazka": "Vlak sestavený z lokomotivy a soupravy 5 vozů vjíždí do ŽST Kolejov s pobytem pro nástup a výstup cestujících. Jakým způsobem zastaví strojvedoucí vlak?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 260"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 256"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 258 písm. c)"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 151"
+      }
+    ],
+    "odpoved": "Brzdou, která účinkuje na všech vozidlech soupravy (průběžnou tlakovou, popř. ep-brzdou); současné využití dynamické brzdy HV je dovoleno. Zastaví plynule a bez rázů.",
+    "plne_zneni": "ČD V15/I čl. 260: Pro zastavení vlaku na požadovaném místě strojvedoucí vždy použije brzdu, která účinkuje na všech vozidlech v soupravě vlaku (průběžná tlaková brzda, ep-brzda apod.). Současné využití brzdného účinku DB jím řízených HV je dovoleno.\n\nČD V15/I čl. 256: Vlak sestavený z více než jednoho vozidla musí být brzděn průběžnou brzdou.\n\nČD V15/I čl. 258 písm. c) ca): použitím neprůběžné přímočinné (přídavné) brzdy HV […] jen u vlaků tvořených jediným samostatným HV, pokud není vybaveno DB a přímočinná brzda působí na všechna dvojkolí vozidla, v opačném případě musí být vlak brzděn samočinnou průběžnou brzdou.\n\nČD V2 čl. 151: Při vjezdu do železniční stanice nebo zastávky vede lokomotivní četa vlak tak, aby bezpečně, plynule a bez rázů zastavila na stanoveném místě.",
+    "distraktory": [
+      "Přednostně dynamickou brzdou hnacího vozidla a dobrzdí přímočinnou brzdou lokomotivy; průběžnou brzdu použije jen při nedostatečném účinku.",
+      "Průběžnou brzdou, kterou těsně před zastavením úplně odbrzdí, aby vlak dojel na stanovené místo bez rázů; poté soupravu zajistí přímočinnou brzdou."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 245,
+    "otazka": "Při jízdě vlaku nastanou zhoršené adhezní podmínky a vlak má zastavit na zastávce. Jak bude postupovat strojvedoucí, aby toto zastavení zajistil?",
+    "obrazky": [],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 287"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 285"
+      },
+      {
+        "predpis": "ČD V2",
+        "clanek": "čl. 151"
+      }
+    ],
+    "odpoved": "Neprodleně přizpůsobí rychlost, počítá s prodloužením zábrzdné dráhy a začne brzdit tak včas, aby zastavil na místě nižším brzdicím stupněm; odvalování kol podpoří pískováním.",
+    "plne_zneni": "ČD V15/I čl. 287: Nastanou-li zhoršené adhezní nebo klimatické podmínky je strojvedoucí povinen neprodleně přizpůsobit těmto okolnostem rychlost vlaku a při brzdění předpokládat prodloužení brzdné, resp. zábrzdné, dráhy a možnost zablokování kol. Začne brzdit tak včas, aby zastavení nebo snížení rychlosti dosáhl na požadovaném místě použitím nižšího brzdícího stupně, příp. podpoří odvalování kol použitím pískování.\n\nČD V15/I čl. 285: Zhoršené adhezní podmínky nastávají zpravidla při: a) zvýšeném výskytu opadaného listí na kolejích; b) začínajícím dešti po delším suchu; c) rose, mlze a jinovatce; d) vlhku na úsecích tratí s působením průmyslového spadu a prachu; e) vlhku a teplotách okolo bodu mrazu (nižších než cca 2 °C); f) silně znečištěných hlavách kolejnic […].",
+    "distraktory": [
+      "Přizpůsobí rychlost, začne brzdit později, zato vyšším brzdicím stupněm, aby kola nezůstala zablokovaná; pískování při brzdění nepoužije.",
+      "Zastavení zajistí včasným zavedením rychločinného brzdění a účinkem elektromagnetické kolejnicové brzdy; pískování použije až po zastavení vlaku."
+    ],
+    "jistota": "vysoká"
+  },
+  {
+    "n": 246,
+    "otazka": "Za jízdy vlaku Os 8189 se stanovenou rychlostí 100 km/h v úseku Kolejov – Zarážedlice hustě sněží a dochází k víření sněhu. Vlak má ve Zprávě o brzdění a TJŘ uvedeny hodnoty dle obrázku. Jaký bude postup strojvedoucího za uvedených podmínek?",
+    "obrazky": [
+      "img/q246_1.png"
+    ],
+    "tema": "Brzdy",
+    "predpis": "ČD V15/I",
+    "zdroje": [
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 288 písm. c)"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 286"
+      },
+      {
+        "predpis": "ČD V15/I",
+        "clanek": "čl. 288 písm. a) a e)"
+      }
+    ],
+    "odpoved": "Přebytek skutečných brzdicích procent je jen 5 % (105 ku 100), proto musí mít u návěstidla s návěstí Výstraha rychlost nejméně o 10 % nižší, tj. nejvýše 90 km/h.",
+    "plne_zneni": "ČD V15/I čl. 286: Za zhoršené klimatické podmínky je považován stav, kdy při teplotách nižších než 2 °C hustě prší, sněží nebo dochází k víření sněhu tak, že nastává snížená viditelnost.\n\nČD V15/I čl. 288: Nastanou-li během jízdy vlaku zhoršené klimatické podmínky, strojvedoucí: a) pokud není třeba za jízdy použít průběžnou brzdu, provádí každých cca 20 km ověření jejího účinku; […] c) při brzdění vlaku (mimo dohled ETCS) bez přebytku skutečných brzdících procent oproti předepsané výměře nebo jen s jeho malým přebytkem (do 10 % včetně z hodnoty potřebného brzdícího procenta) upraví rychlost jízdy vlaku tak, aby i za daných klimatických podmínek bylo možno dosáhnout snížení rychlosti, popř. zastavení, na požadovaném místě: ca) při jízdě na trati s přenosem návěstí na HV při převzetí pokynů s významem Výstraha nebo Očekávejte snížení rychlosti na návěstním opakovači jedná tak, aby již u návěstidla s takovou návěstí byla rychlost vlaku nižší nejméně o 10 % z jeho stanovené rychlosti […]; cb) při jízdě na trati bez přenosu návěstí na HV při spatření návěsti Výstraha zavede provozní brzdění již při zpozorování této návěsti […]; cc) při brzdění do zastavení s vlakem vybaveným kotoučovými brzdami nebo brzdami vystrojenými nekovovými špalíky zavede první brzdící stupeň razantním snížením tlaku vzduchu v hlavním potrubí nejméně o 0,8 bar; […] e) […] pravidelně v krátkých intervalech zavádí, výhradně použitím pneumatické brzdy, nízký stupeň zabrzdění ve formě čistícího přítlaku brzdových špalíků […]. Brzdění vlaku pouze účinkem dynamické brzdy HV je v těchto případech zakázáno!",
+    "distraktory": [
+      "Přebytek skutečných brzdicích procent je vyšší než 10 %, proto postačí, zavede-li provozní brzdění již při zpozorování návěsti Výstraha; rychlost dále snižovat nemusí.",
+      "Rychlost u návěstidla s návěstí Výstraha musí být nejméně o 20 km/h nižší než stanovená, tj. nejvýše 80 km/h, a brzdit smí výhradně dynamickou brzdou hnacího vozidla."
+    ],
+    "jistota": "vysoká",
+    "poznamka": "Ze ZOB: potřebná 100, skutečná 105 brzdicích procent, tj. přebytek 5 % (do 10 % včetně) – platí režim čl. 288 písm. c). Uvedená hodnota platí pro trať s přenosem návěstí na HV (písm. ca)); na trati bez přenosu návěstí (písm. cb)) zavede strojvedoucí provozní brzdění již při zpozorování návěsti Výstraha. Dále každých cca 20 km ověřuje účinek průběžné brzdy a zavádí čisticí přítlak; brzdění pouze dynamickou brzdou je zakázáno."
+  }
+]

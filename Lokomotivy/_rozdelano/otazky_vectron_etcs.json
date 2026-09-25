@@ -1,0 +1,725 @@
+[
+ {
+  "n": 1141,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu nejsou po aktivaci stanoviště zapnuté displeje DMI ETCS. Kde zapneš jejich jističe?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.2, str. 1"}
+  ],
+  "odpoved": "Zapnu jističe „Display ETCS“ v levé noze pultu – jsou na každém stanovišti.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.2: Pokud nejsou zapnuté DMI ETCS, zapni jističe „Display ETCS“ v levé noze pultu na každém stanovišti.",
+  "distraktory": [
+   "Zapnu jističe „Display ETCS“ na zadní stěně stanoviště vedle jističů výpočetních jednotek.",
+   "Zapnu jističe „Display ETCS“ vpravo na panelu jističů ve vstupní uličce na stanovišti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1142,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Kde jsou na Vectronu se sw F jištěny výpočetní jednotky pro displeje CCD a TDD (LSS -JC-F05, -JC-F09, -JC-F10, -JC-F11)?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.2, str. 1"}
+  ],
+  "odpoved": "Jističe jsou na zadní stěně každého stanoviště; samotné výpočetní jednotky jsou v prostoru zadní mezistěny stanoviště.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.2: Lokomotivy se sw F a ŘV CJ mají dodatečně nainstalovány výpočetní jednotky pro displeje CCD (je sloučen s DMI) a TDD, které jsou nově v provedení SIL2. Výpočetní jednotky, které jsou na lokomotivě umístěné v prostoru zadní mezistěny stanoviště, mají vlastní jištění (LSS -JC-F05, -JC-F09, -JC-F10, -JC-F11). Jističe jsou umístěny na zadní stěně každého stanoviště. Jističe pro výpočetní jednotky na ŘV CJ jsou umístěny vpravo na panelu jističů ve vstupní uličce na stanovišti.",
+  "distraktory": [
+   "Jističe jsou v levé noze pultu každého stanoviště, hned vedle jističů „Display ETCS“.",
+   "Jističe jsou vpravo na panelu jističů ve vstupní uličce na stanovišti."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Druhý distraktor (panel jističů ve vstupní uličce) platí pro řídicí vůz ComfortJet (Afmpz 80-90), ne pro lokomotivu."
+ },
+ {
+  "n": 1143,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Uvádíš na Vectronu ETCS do provozu. Co zkontroluješ na panelu brzdových zařízení lokomotivy?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.3, str. 2"}
+  ],
+  "odpoved": "Přestavení žlutého kohoutu B08/2 – musí být v poloze „I“; případně jej do polohy „I“ přestavím.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.3: Na panelu brzdových zařízení lokomotivy zkontroluj přestavení, případně přestav žlutý kohout B08/2 do polohy „I“.\n\nNa ŘV CJ zkontroluj na pneumatickém panelu otevření kohoutů ETCS [K125-S01] a [K135-S117]. [K135 - S117] Uzavírací kohout Brzdová skupina 1 - ETCS, DK-STM, MIREL, SHP, RADIO STOP. [K125 – S01] Uzavírací kohout Brzdová skupina 2 - ETCS, DK-STM, MIREL.",
+  "distraktory": [
+   "Přestavení žlutého kohoutu B08/2 – musí být v poloze „0“; případně jej do polohy „0“ přestavím.",
+   "Otevření uzavíracích kohoutů ETCS [K125-S01] a [K135-S117] na pneumatickém panelu."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Kohouty K125-S01 a K135-S117 platí pro řídicí vůz ComfortJet (Afmpz 80-90), na lokomotivě je to kohout B08/2."
+ },
+ {
+  "n": 1144,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Do jaké polohy přepneš na Vectronu „Poruchový spínač ETCS“ CEA při uvádění ETCS do provozu a v jaké poloze mají být ovladače vedle něj?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.4, str. 2"}
+  ],
+  "odpoved": "CEA do polohy „√“; ovladač pro výběr ventilů nouzového brzdění svisle, případné ovladače SCMT, ATC nebo ATB vodorovně („vypnuto“).",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.4: Přepni „Poruchový spínač ETCS“ CEA do polohy „√“. Ovladač pro výběr ventilů nouzového brzdění musí být ve svislé poloze. Případné ovladače pro zabezpečovače SCMT, ATC nebo ATB musejí být ve vodorovné poloze, tedy „vypnuto“.",
+  "distraktory": [
+   "CEA do polohy „X“; ovladač pro výběr ventilů nouzového brzdění svisle, případné ovladače SCMT, ATC nebo ATB vodorovně („vypnuto“).",
+   "CEA do polohy „√“; ovladač pro výběr ventilů nouzového brzdění vodorovně, případné ovladače SCMT, ATC nebo ATB svisle („zapnuto“)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1145,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron je vybaven vlakovým zabezpečovačem pro Itálii. V jaké poloze musí být ovladač na žluté skříni ve strojovně při provozu ETCS a co je podmínkou manipulace s ním?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.4, str. 3"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod C.1, str. 27"}
+  ],
+  "odpoved": "Ve vodorovné poloze „INSERITO“; manipulovat s ním lze vždy jen s úplně odvětraným hlavním potrubím.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.4 (str. 3): Na lokomotivách vybavených vlakovým zabezpečovačem pro Itálii musí být navíc ve strojovně lokomotivy ovladač na žluté skříni zabezpečovacího zařízení pro Itálii ve vodorovné poloze – „INSERITO“! Případnou manipulaci s tímto ovladačem je nutno provádět vždy s úplně odvětraným hlavním potrubím!\n\nPokyn 5/2024 Vectron ETCS, bod C.1: Na lokomotivách vybavených vlakovým zabezpečovačem pro Itálii musí být navíc ve strojovně lokomotivy ovladač na žluté skříni zabezpečovacího zařízení pro Itálii přestaven do svislé polohy – „DISINSERITO“! Případnou manipulaci s tímto ovladačem je nutno provádět vždy s úplně odvětraným hlavním potrubím!",
+  "distraktory": [
+   "Ve svislé poloze „DISINSERITO“; manipulovat s ním lze vždy jen s úplně odvětraným hlavním potrubím.",
+   "Ve vodorovné poloze „INSERITO“; manipulovat s ním lze vždy jen s naplněným hlavním potrubím a zrušeným závěrem brzdiče."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Svislá poloha „DISINSERITO“ je správná při deaktivaci ETCS (bod C.1) – proto je jako distraktor."
+ },
+ {
+  "n": 1146,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se chystáš spustit denní testy vlakových zabezpečovačů (ETCS, MIREL, PZB/LZB, SHP). Co musí být splněno před zahájením testování?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.9, str. 5"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.3, str. 21"}
+  ],
+  "odpoved": "Musí být navolen směr „Vpřed“, zrušen závěr brzdiče a naplněno hlavní potrubí.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.9: Proveď testy potřebných vlakových zabezpečovacích systémů pro jízdu příslušného vlaku. Před zahájením testování musí být navolen směr „Vpřed“, zrušen závěr brzdiče a naplněno hlavní potrubí.\n\nPokyn 5/2024 Vectron ETCS, bod A.19.3: Proveď denní testy vlakových zabezpečovacích systémů potřebných pro další nasazení lokomotivy. Před zahájením testování musí být navolen směr „Vpřed“, zrušen závěr brzdiče a naplněno hlavní potrubí. […]",
+  "distraktory": [
+   "Musí být navolen směr „Vpřed“, proveden závěr brzdiče a úplně odvětráno hlavní potrubí.",
+   "Musí být zadáno číslo vlaku a data vlaku, zrušen závěr brzdiče a stažený sběrač."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Stejná podmínka je uvedena pro všechny verze SW (body A.9, A.17.3, A.18.2, A.19.3)."
+ },
+ {
+  "n": 1147,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Při spouštění ETCS nebo během testů se na Vectronu zobrazí chybové hlášení národního zabezpečovače (NTC/STM), který na lokomotivě vůbec není osazen. Co uděláš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.9, str. 5"}
+  ],
+  "odpoved": "Chybovou zprávu potvrdím a dále se jí nezabývám – hlášení se může zobrazit i pro zabezpečovače, které ve vozidle nejsou osazeny.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.9: Během spouštění jednotky ETCS nebo v rámci testů může být zobrazen jeden nebo více národních zabezpečovačů (NTC (STM)) s chybovým hlášením, i když nejsou ve vozidle osazeny. Tyto chybové zprávy musí být potvrzeny, ale není třeba se s nimi dále zabývat.",
+  "distraktory": [
+   "Provedu reset ETCS (Reset EVC) a testy spustím znovu – hlášení neosazeného zabezpečovače nesmí zůstat aktivní.",
+   "Vypnu a po chvíli znovu zapnu řízení; pokud hlášení trvá, izoluji ETCS a jedu pod dohledem NTC."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1148,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw E (ETCS 3.4.0) provádíš test VZ MIREL z nabídky denních testů. Co musíš nastavit ještě před potvrzením provedení testu tlačítkem „OK“?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.9.3, str. 6"}
+  ],
+  "odpoved": "Nastavit režim provozu „PRE“ a maximální rychlost (případně dokončit test D1). Výsledek testu pak potvrdím tlačítkem „NOK“ nebo „OK“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.9.3 Test VZ MIREL: Stiskni tlačítko „4 – MIREL“ a případně dokonči test D1. Před potvrzením provedení testu tlačítkem „OK“ nastav režim provoz „PRE“ a nastav maximální rychlost. Výsledek testu MIREL VZ musíš potvrdit tlačítky „NOK“ nebo „OK“.",
+  "distraktory": [
+   "Nastavit režim provozu „Závěs“ a maximální rychlost (případně dokončit test D1). Výsledek testu pak potvrdím tlačítkem „NOK“ nebo „OK“.",
+   "Nic – nastavení režimu a rychlosti MIREL je během testu zablokované a provede se až po přechodu MIREL do módu STB."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Druhý distraktor odpovídá chování na sw F2/F3 (bod A.19.3.3), ne na sw E."
+ },
+ {
+  "n": 1149,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Čím se na Vectronu provádí test zabezpečovače SHP z nabídky denních testů?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.9.4, str. 6"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.3.5, str. 22"}
+  ],
+  "odpoved": "Pomocí ovladače „Wachsamtaste“ (na sw F3 jej držet stisknutý až do odvětrání hlavního potrubí); výsledek testu potvrdím „NOK“ nebo „OK“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.9.4 Test SHP (pokud je zabezpečovač nutný pro další nasazení lokomotivy): Stiskni tlačítko „5 – SHP“ a proveď test pomocí ovladače „Wachsamtaste“. Výsledek testu SHP musíš potvrdit tlačítky „NOK“ nebo „OK“. Testy se ukonči stisknutím tlačítka „X“.\n\nPokyn 5/2024 Vectron ETCS, bod A.19.3.5 Test SHP: SW F3 - na obrazovce „Zvolit test“ vyber volbu „SHP“. Test proveď pomocí ovladače „Wachsamtaste“. Ovladač „Wachsamtaste“ je nutno držet stisknuté do doby odvětrání hlavního potrubí. SW F2 – volba „SHP“ není na obrazovce „Zvolit test“ dostupná. Test SHP lze vykonat pouze po zahájení mise v NTC SHP.",
+  "distraktory": [
+   "Sešlápnutím pedálu SIFA (na sw F3 jej držet sešlápnutý až do odvětrání hlavního potrubí); výsledek testu potvrdím „NOK“ nebo „OK“.",
+   "Tlačítkem na páce tahu (na sw F3 jej držet stisknuté až do odvětrání hlavního potrubí); výsledek testu potvrdím „NOK“ nebo „OK“."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na sw F2 není volba SHP v nabídce „Zvolit test“ – test lze provést až po zahájení mise v NTC SHP."
+ },
+ {
+  "n": 1150,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Zadáváš na Vectronu se sw E (ETCS 3.4.0) data vlaku do ETCS. V jakém rozsahu lze zadat délku vlaku a brzdící procenta a co zadáš, když jsou skutečná brzdící procenta např. 213?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.11, str. 7"}
+  ],
+  "odpoved": "Délka 20–1500 m zaokrouhlená na desítky nahoru, brzdící procenta 30–210; je-li skutečná hodnota vyšší (např. 213), zadám horní hranici 210.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.11: Data vlaku do ETCS – na obrazovce „Hlavní“ stiskni tlačítko „3 – Data vlaku“. Chceš-li změnit přednastavené hodnoty, musíš šipkami nastavit odpovídající pole, změnit hodnotu nastavení a poté potvrdit tlačítkem „E“. Lokomotiva vyhovuje maximálnímu nedostatku převýšení 150 mm. Tato hodnota nedostatku převýšení odpovídá technickému označení PASS 3. Délka (m) - délka vlaku zaokrouhlená na desítky metrů nahoru v intervalu 20 až 1500, Procento brzdy – skutečná brzdící procenta v intervalu 30 až 210. Je-li skutečný údaj o skutečných brzdicích procentech vyšší než horní hranice intervalu (např. 213), zadej hodnotu horní hranice intervalu (tj. 210). Pro jízdu na DB InfraGO (zadávání dat v ŽST Děčín) platí nastavovací tabulka ETCS uvedená v bodu B.13. […] Lokomotiva vyhovuje hodnotě třídy traťového zatížení/nápravového tlaku „D4“. Zadej/potvrď všechna data vlaku a poté stiskni tlačítko „3 - Ano“, pak tlačítko „8 - Ano“ a poté tlačítko „E“.",
+  "distraktory": [
+   "Délka 20–750 m zaokrouhlená na desítky nahoru, brzdící procenta 30–250; je-li skutečná hodnota vyšší (např. 213), zadám skutečných 213.",
+   "Délka 20–1500 m zaokrouhlená na desítky dolů, brzdící procenta 30–200; je-li skutečná hodnota vyšší (např. 213), zadám horní hranici 200."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Rozsahy se liší podle verze SW: 2.3.0.d (ELL 193.289–298) brzdící procenta 30–200 (bod A.17.4); sw F1 délka 20–750 a procenta 30–210 (bod A.18.4); sw F2/F3 procenta 30–250 (bod A.19.4)."
+ },
+ {
+  "n": 1151,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jakou hodnotu zadáš na Vectronu do pole „Max. rychlost“ v datech vlaku ETCS a čím se musíš při jízdě řídit?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.11, str. 7"}
+  ],
+  "odpoved": "Rychlost vlaku dle eZOB; při jízdě se ale vždy řídím hodnotou „Nejvyšší stanovené rychlosti“ z Tabulek brzdících procent pro vlaky ETCS pro pojížděný úsek.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.11: Max. rychlost (km/h) – rychlost vlaku dle eZOB. Strojvedoucí se musí vždy řídit hodnotou „Nejvyšší stanovené rychlosti“ z „Tabulek brzdících procent pro vlaky ETCS“ pro pojížděný úsek trasy vlaku!",
+  "distraktory": [
+   "Hodnotu „Nejvyšší stanovené rychlosti“ z Tabulek brzdících procent pro vlaky ETCS; rychlostí vlaku dle eZOB se při jízdě řídit nemusím.",
+   "Rychlost vlaku dle eZOB; při jízdě se řídím hodnotou VMZ, kterou jsem zadal v datech PZB/LZB na displeji CCD."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1152,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw E potřebuješ po zadání dat do ETCS zadat data vlaku i do PZB/LZB. Kde a jak je zadáš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.12, str. 7"}
+  ],
+  "odpoved": "Na displeji CCD (ne na DMI!): stisknu tlačítko „Data“ na CCD a šipkou vpravo zvolím „PZB/LZB“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.12: Data vlaku do PZB/LZB – Pozor, data se zadávají na displeji CCD! Stiskni tlačítko „Data“ na CCD a poté zvol šipkou vpravo „PZB/LZB“.",
+  "distraktory": [
+   "Na DMI ETCS: na obrazovce „Hlavní“ stisknu tlačítko „3 – Data vlaku“ a šipkou přejdu na tabulku PZB/LZB.",
+   "Na displeji TDD: stisknu tlačítko „Data“ a šipkou vpravo zvolím „PZB/LZB“."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1153,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jaké hodnoty se na lokomotivě Vectron nastavují ve vlakových datech PZB/LZB a jak se zadaná data potvrzují?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.12, str. 7"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.5, str. 24"}
+  ],
+  "odpoved": "BRA 9, BRH skutečná brzdící procenta dle tabulky PZB/LZB, ZL délka na desítky nahoru, VMZ max. rychlost; potvrdit 2× na displeji a nakonec ovladačem „Wachsamtaste“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.12: Nastavení vlakových dat PZB/LZB: BRA – 9, BRH – skutečná brzdící procenta dle zadávací tabulky PZB/LZB, ZL – délka vlaku zaokrouhlená na desítky metrů nahoru, VMZ – maximální rychlost vlaku - rychlost vlaku dle eZOB. Nastavená data je nutno potvrdit 2 x na displeji a nakonec ještě ovladačem „Wachsamtaste“.\n\nPokyn 5/2024 Vectron ETCS, bod A.19.5: Nastavení vlakových dat LZB/PZB: BRA – 9 pro lokomotivu, BRA – 7 pro řídicí vůz Comfortjet, BRH – skutečná brzdící procenta dle zadávací tabulky PZB/LZB, ZL – délka vlaku zaokrouhlená na desítky metrů nahoru, VMZ – maximální rychlost vlaku. Nastavená data je nutno dvakrát potvrdit na displeji a jedenkrát ovladačem „Wachsamtaste“.",
+  "distraktory": [
+   "BRA 7, BRH skutečná brzdící procenta dle tabulky PZB/LZB, ZL délka na desítky nahoru, VMZ max. rychlost; potvrdit 2× na displeji a nakonec ovladačem „Wachsamtaste“.",
+   "BRA 9, BRH skutečná brzdící procenta dle tabulky PZB/LZB, ZL délka na desítky nahoru, VMZ max. rychlost; potvrdit 1× na displeji a 2× ovladačem „Wachsamtaste“."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "BRA 7 platí pouze pro řídicí vůz ComfortJet (Afmpz 80-90); pro lokomotivu je vždy BRA 9."
+ },
+ {
+  "n": 1154,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jsi na Vectronu ELL 193.289–193.298 (ETCS verze 2.3.0.d). Co musíš udělat ještě před zapnutím, testováním a nastavením ETCS?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.17, str. 9"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.17.3.2, str. 11–12"}
+  ],
+  "odpoved": "Nejprve provést test a nastavení VZ MIREL – teprve poté zapnout, otestovat a nastavit ETCS.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.17 Obsluha ETCS verze 2.3.0.d: Před zapnutím, testováním a nastavením ETCS proveď nejprve test a nastavení VZ MIREL!\n\nPokyn 5/2024 Vectron ETCS, bod A.17.3.2 Test VZ MIREL: Tlačítkem „Šipka dolů“ vyber VZ MIREL a stiskni tlačítko „Test“. Test, který byl již vykonán před zapnutím ETCS, nyní potvrď na displeji. Ukončení testu MIREL VZ potvrď tlačítkem „2“.",
+  "distraktory": [
+   "Nejprve provést test PZB/LZB na displeji CCD – teprve poté zapnout, otestovat a nastavit ETCS.",
+   "Nejprve zadat data RBC (číslo sítě 23098) – teprve poté zapnout, otestovat a nastavit ETCS."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1155,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu s ETCS 2.3.0.d (ELL 193.289–298) volíš úroveň 2. Jaké číslo sítě zadáš a jak zadáš data RBC?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.17.2, str. 10"}
+  ],
+  "odpoved": "Číslo sítě „23098“; na spodní liště zvolím „9 – man. vstup“ a data RBC zadám ručně – přednastavené volby nepoužívám!",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.17.2: Vyber požadovanou úroveň ETCS a potvrď ji. V úrovni 2 je nutno provést spojení s RBC. Zadej požadované číslo sítě „23098“. Na spodní liště tlačítek zvol tlačítkem „9 – man. vstup“, tj. manuální zadání dat RBC. Přednastavené volby nepoužívej!",
+  "distraktory": [
+   "Číslo sítě „23098“; na spodní liště zvolím přednastavenou volbu RBC (např. 513-11) – ruční zadání nepoužívám!",
+   "Číslo sítě „513“; na spodní liště zvolím „9 – man. vstup“ a data RBC zadám ručně – přednastavené volby nepoužívám!"
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1156,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Zadáváš na Vectronu s ETCS 2.3.0.d ručně data RBC. Telefonní číslo RBC je 79004199. Co zadáš do polí „ID“, „Stát“ a „Tel.č.“?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.17.2, str. 11"}
+  ],
+  "odpoved": "ID = krátká hodnota NID_RBC „41“ (z tabulky RBC nebo z tel. čísla), Stát = „513“, Tel.č. = „79004199“ bez předvolby 00420.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.17.2 (str. 11), Zadej data RBC: Do pole „ID“ zadej krátkou hodnotu RBC (NID_RBC). Tu lze zjistit z tabulky seznamu RBC nebo z telefonního čísla RBC. Příklad: telefonní číslo RBC je „79004199“ – NID_RBC je „41“. Do pole „Stát“ zadej hodnotu „513“. Telefonní číslo RBC musí být zadáno bez předvolby „00420“, např. „79004199“.",
+  "distraktory": [
+   "ID = „79004199“, Stát = „513“, Tel.č. = „0042079004199“ včetně předvolby.",
+   "ID = krátká hodnota NID_RBC „41“, Stát = „23098“, Tel.č. = „79004199“ bez předvolby 00420."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1157,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu s ETCS 2.3.0.d jsi zadal a potvrdil data vlaku a zjistíš, že potřebuješ změnit úroveň ETCS. Jde to?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.17.6, str. 15"}
+  ],
+  "odpoved": "Ne – po potvrzení dat není volba úrovně přístupná. Změnu lze provést pouze v módu SB nebo SH a poté data vždy znovu zkontrolovat a potvrdit.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.17.6: Zadej data do AFB. Proveď start jízdy – na DMI stiskni tlačítko „Start“. Na další obrazovce můžeš být vyzván k potvrzení zvolené úrovně ETCS. Pozor – po zadání a potvrzení dat již nelze změnit úroveň ETCS (volba není přístupná). Změnu lze provést pouze v módu SB nebo SH. Pak je nutno data znovu vždy zkontrolovat a potvrdit!",
+  "distraktory": [
+   "Ne – po potvrzení dat není volba úrovně přístupná. Změnu lze provést pouze v módu NL nebo SH a poté data vždy znovu zkontrolovat a potvrdit.",
+   "Ano – úroveň lze změnit kdykoli tlačítkem „Úroveň“ na obrazovce „Hlavní“; zadaná data vlaku zůstávají v platnosti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1158,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F1 provádíš test EVM. Během testu se na TDD objeví porucha „3280 Porucha SIFA LS“. Čím se test provádí a co s tou poruchou?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.18.2.5, str. 18"}
+  ],
+  "odpoved": "Test EVM se provádí sešlápnutím pedálu SIFA; porucha 3280 je signalizována jen do potvrzení provedení testu – není třeba na ni brát zřetel.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.18.2.5 Test EVM: Na CCD stiskni tlačítko „Denní testy“ a vyber volbu „EVM test“. Dokončení testu je nutno na displeji potvrdit. Test proveď pomocí sešlápnutí pedálu SIFA. Do potvrzení provedení testu je na TDD signalizována porucha „3280 Porucha SIFA LS“, na kterou není třeba brát zřetel.",
+  "distraktory": [
+   "Test EVM se provádí ovladačem „Wachsamtaste“; porucha 3280 znamená neúspěšný test – test EVM musím zopakovat.",
+   "Porucha 3280 znamená přerušení smyčky rychločinného brzdění – zabrzdím střadačovou brzdu, naplním HP a zavedu rychločinné brzdění."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1159,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F2/F3 se po aktivaci vozidla (nebo kdykoli za provozu) objeví na TDD porucha „207 – Porucha uzavření smyčky rychločinného brzdění“. Co uděláš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19, str. 20"}
+  ],
+  "odpoved": "Zabrzdím střadačovou brzdu, naplním HP, zavedu rychločinné brzdění a po chvíli opět naplním HP.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.19: Na vozidlech se sw F jsou použity dotykové displeje – potvrzování zadaných hodnot se provede poklepem do zadávaného pole! Vozidlo aktivujte, pokud je to možné již se zapnutým ETCS. Pokud se po aktivaci nebo kdykoli jindy objeví na TDD porucha „207 - Porucha uzavření smyčky rychločinného brzdění“, je nutno zabrzdit střadačovou brzdu, naplnit HP, zavést rychločinné brzdění a po chvíli opět naplnit HP.",
+  "distraktory": [
+   "Vypnu a po chvíli znovu zapnu řízení; v případě neúspěchu provedu reset ETCS (Reset EVC).",
+   "Deaktivuji stanoviště, přestavím „poruchový spínač ETCS“ do polohy „X“ a dál jedu pod dohledem NTC."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1160,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jak se na Vectronu se sw F2/F3 (ETCS 3.6.0) dostaneš na obrazovku denních testů zabezpečovačů „Zvolit test“?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.3, str. 21"}
+  ],
+  "odpoved": "Stisknu „X“, na základní obrazovce DMI vyberu symbol klíče a tlačítko „Testy komponentů“. (Na sw F2 není funkční volba „Reset EVC“.)",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.19.3: Proveď denní testy vlakových zabezpečovacích systémů potřebných pro další nasazení lokomotivy. Před zahájením testování musí být navolen směr „Vpřed“, zrušen závěr brzdiče a naplněno hlavní potrubí. Pro zobrazení obrazovky testů je nutno stisknout „X“, dále na základní obrazovce DMI vybrat symbol klíče a tlačítko „Testy komponentů“. […] Na lokomotivách se sw F2 není funkční volba „Reset EVC“.",
+  "distraktory": [
+   "Na obrazovce „Hlavní“ stisknu tlačítko „4 – Denní testy“ a vyberu požadovaný zabezpečovač („1 – ETCS“, „4 – MIREL“ …).",
+   "Na displeji CCD stisknu tlačítko „Denní testy“ a vyberu volbu „Testy EVC“, „LS test“, „PZB/LZB test“ nebo „SHP test“."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "První distraktor je postup pro sw E (bod A.9.1), druhý pro sw F1 (bod A.18.2)."
+ },
+ {
+  "n": 1161,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F2/F3 skončil test LS (MIREL) a MIREL přešel do stavu STB. Jak a dokdy nastavíš maximální rychlost MIREL?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.3.3, str. 21"}
+  ],
+  "odpoved": "Do 5 minut od testu jeho novým spuštěním – zadání rychlosti se uvolní jen na cca 10 s; po 5 minutách už data nejdou nastavit a spustí se znovu test D1.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.19.3.3 Test VZ MIREL: Na obrazovce „Zvolit test“ vyber volbu „LS“. Vlastní test se provede standardním postupem. Ukončení testu je provedeno automaticky (Mirel přejde do módu STB). Po ukončení testu je na obrazovce zobrazen datum, a čas provedení testu. Pozor – v rámci tohoto testu není možno provádět žádná nastavení MIRELu (režim a rychlost). Toto je možné až po přechodu MIREL do módu STB níže pospaným postupem!\nPostup nastavení VZ MIREL:\n• po ukončení testu MIREL přejde tento do stavu STB,\n• po ukončení testu lze do 5 minut jeho novým spuštěním zadat maximální rychlost (MIREL se aktivuje). Druh provozu není v této fázi nutné nastavovat (za jízdy a přechodu z L2 do LS se nastaví automaticky do módu „PRE“). Systém uvolní zadání rychlosti pouze na cca 10 vteřin a poté přepne MIREL zpět do stavu STB! Když požadované nastavení nestihnete, lze zadání opět na 10 vteřin vyvolat spuštěním testu,\n• při zahájení mise v módu LS je nutné po zadání „Start“ nastavit druh provozu MIREL na „PRE“,\n• po uplynutí 5 minut od posledního vyvolání testu již nejdou data nastavit a spustí se opět test D1 (je zaveden cca po 10 vteřinách vyvolání testu).",
+  "distraktory": [
+   "Do 10 minut od testu jeho novým spuštěním – zadání rychlosti se uvolní jen na cca 5 s; po 10 minutách už data nejdou nastavit a spustí se znovu test D1.",
+   "Během testu LS na obrazovce „Zvolit test“ – po přechodu MIREL do STB už nastavení rychlosti není možné a musí se zopakovat celý test."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Při zahájení mise v módu LS je nutné po zadání „Start“ nastavit druh provozu MIREL na „PRE“ (na sw F2/F3 se tedy PRE nastavuje až po startu, na rozdíl od sw E)."
+ },
+ {
+  "n": 1162,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F2/F3 chceš provést test EVM. Co musíš udělat před ním a čím potvrdíš odvětrání hlavního potrubí?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.3.6, str. 22"}
+  ],
+  "odpoved": "Před testem EVM vykonat test MIREL; odvětrání HP lze potvrdit buď pedálem, nebo tlačítkem na páce tahu.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.19.3.6 Test EVM: Před testem EVM vykonej test MIREL! Na obrazovce „Zvolit test“ vyber volbu „EVM“. Potvrzení odvětrání hlavního potrubí lze provést buď pedálem nebo tlačítkem na páce tahu. Po ukončení testu je na obrazovce zobrazen datum a provedení testu.",
+  "distraktory": [
+   "Před testem EVM vykonat test PZB/LZB; odvětrání HP lze potvrdit pouze ovladačem „Wachsamtaste“.",
+   "Před testem EVM zadat data vlaku; odvětrání HP lze potvrdit pouze sešlápnutím pedálu SIFA."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1163,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F2/F3 (ETCS 3.6.0) zadáváš brzdící procenta do dat vlaku ETCS. Jaký je povolený interval a co zadáš při skutečných 255 %?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod A.19.4, str. 23"}
+  ],
+  "odpoved": "Interval 30–250; při vyšší skutečné hodnotě (např. 255) zadám horní hranici 250. Vždy je nutno respektovat požadavky národního nastavení.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod A.19.4: Data vlaku do ETCS – na displeji CCD „Hlavní“ stiskni tlačítko „Vlaková data“. Postupně zadej všechny požadované údaje. Zadávanou hodnotu je nutno vždy potvrdit klepnutím do zadávacího pole. Kategorie vlaku – zadání dle údaje v eZOB (např. PASS 3), Délka (m) – délka vlaku zaokrouhlená na desítky metrů nahoru, Brzdící procenta – skutečná brzdící procenta, Maximální rychlost (km/h) – rychlost vlaku dle eZOB, Traťová třída zatížení – D4. […] Údaje o brzdicích procentech lze zadat v intervalu 30–250. Je-li skutečný údaj o skutečných brzdicích procentech vyšší než horní hranice intervalu (např. 255), zadej hodnotu horní hranice intervalu (tj. 250). Vždy je nutno respektovat požadavky národního nastavení! Pro jízdu na DB InfraGO (zadávání dat v ŽST Děčín) platí nastavovací tabulka ETCS uvedená v bodu B.13. […] Pro ukončení zadání je nutno zadaná data dvakrát potvrdit.",
+  "distraktory": [
+   "Interval 30–210; při vyšší skutečné hodnotě (např. 255) zadám horní hranici 210. Vždy je nutno respektovat požadavky národního nastavení.",
+   "Interval 30–250; při vyšší skutečné hodnotě (např. 255) zadám skutečných 255 – ETCS si hodnotu samo omezí podle národního nastavení."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1164,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron není vedoucím vozidlem vlaku a chceš aktivovat mód NL (nevedoucí). Jaké jsou předpoklady pro jeho korektní aktivaci?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.1, str. 24"}
+  ],
+  "odpoved": "Obsazené a aktivované stanoviště, proveden závěr brzdiče a zvolen příslušný směr jízdy (sw F3 dovolí NL i bez směru – pozor, pak hrozí nouzové brzdění).",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.1 Provozní mód NL (nikoli vedoucí): Pokud není vozidlo vedoucí vozidlo vlaku, musí být aktivován mód NL, případně ETCS vypnuto. Předpoklady pro korektní aktivaci provozního mód NL: • obsazené a aktivované stanoviště strojvedoucího, • proveden závěr brzdiče, • zvolen příslušný směr jízdy. SW F3 umožňuje zavedení módu NL i při nezvoleném směru jízdy. POZOR – pokud nebude nastaven správný směr jízdy, dojde při uvedení vozidla do pohybu k nouzovému brzdění!",
+  "distraktory": [
+   "Obsazené a aktivované stanoviště, zrušen závěr brzdiče a naplněné hlavní potrubí (sw F3 dovolí NL i bez směru – pozor, pak hrozí nouzové brzdění).",
+   "Deaktivované stanoviště, proveden závěr brzdiče a zvolen příslušný směr jízdy; na sw F3 musí být navíc vypnut VZ MIREL."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1165,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron jede jako nevedoucí vozidlo vlaku v úrovni 2. Jak na DMI aktivuješ mód NL?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.1 a), str. 24"}
+  ],
+  "odpoved": "V módu SB stisknu „Hlavní“ a poté dlouze (5 s) „Nevedoucí“. Pokud byl už zahájen start jízdy, nastavím nejdříve „Posun“ a teprve pak „Nevedoucí“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.1, Provozní situace: a) Vlak v úrovni 2: v módu SB, stiskni na DMI tlačítko „Hlavní“ a poté dlouze (5 sec) tlačítko „Nevedoucí“. Pokud byl již zahájen start jízdy, nastav nejdříve mód „Posun“ a poté „Nevedoucí“.",
+  "distraktory": [
+   "V módu SB stisknu „Hlavní“ a poté dlouze (5 s) „Nevedoucí“. Pokud byl už zahájen start jízdy, nastavím nejdříve „Zachovat posun“ a pak „Nevedoucí“.",
+   "V úrovni 2 mód NL na DMI není dostupný – nejprve zvolím „Posun“, následně opět „Hlavní“ a mód NL se po splnění podmínek aktivuje sám."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1166,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron jede jako nevedoucí vozidlo v úrovni STM (LS) a mód NL není na DMI dostupný ani po splnění podmínek. Jak postupuješ?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.1 b), str. 24–25"}
+  ],
+  "odpoved": "Na DMI nejprve zvolím „Posun“, poté opět „Hlavní“ – NL je pak aktivní i v LS. Samotný režim Závěs na MIRELu nestačí, ETCS se jím neřídí.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.1, Provozní situace: b) Vlak v úrovni STM (LS): mód NL nebude na DMI dostupný ani po splnění podmínek (závěr, směr, nastavení na diagnostickém displeji). Na VZ Mirel lze nastavit režim Závěs. Pozor, pokud vozidlo přejede přechod do L2 (načte balízu s informací o vstupu do L2), tak dojde i na nevedoucím vozidle k přechodu do L2, což není žádoucí (ETCS se neřídí režimem Závěs na Mirelu). Doporučený postup: v úrovni STM (LS) na DMI nejprve zvol „Posun“, následně opět zvol „Hlavní“. Po splnění podmínek (závěr, směr, nastavení na diagnostickém displeji) se je aktivní mód NL i v úrovni STM (LS).",
+  "distraktory": [
+   "Na VZ MIREL nastavím režim Závěs – ETCS se jím řídí a při přejetí přechodu do L2 zůstane nevedoucí vozidlo v LS.",
+   "Na DMI nejprve zvolím „Hlavní“ a poté dlouze (5 s) „Nevedoucí“ – v úrovni LS se tím mód NL aktivuje bez dalších podmínek."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1167,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jak na Vectronu ukončíš mód NL (nevedoucí) a co musíš během jízdy v módu NL obsluhovat?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.1, str. 25"}
+  ],
+  "odpoved": "Zruším závěr brzdiče nebo deaktivuji na cca 10 s stanoviště (ve verzi 2.3.0.d tlačítkem na displeji). Během NL obsluhuji kontrolu bdělosti (MIREL, příp. Sifa).",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.1: Během jízdy v módu „NL“ je nutno obsluhovat zařízení kontroly bdělosti (MIREL, případně Sifa). Pro ukončení módu „NL“ zruš závěr brzdiče nebo deaktivuj na cca 10 sec stanoviště. Ve verzi 2.3.0.d je nutno zrušit mód „NL“ pomocí tlačítka na displeji!",
+  "distraktory": [
+   "Provedu závěr brzdiče nebo deaktivuji na cca 10 s stanoviště (ve verzi 2.3.0.d tlačítkem na displeji). Během NL se kontrola bdělosti neobsluhuje.",
+   "Stisknu na DMI dlouze (5 s) „Nevedoucí“ (ve verzi 2.3.0.d zruším závěr brzdiče). Během NL obsluhuji kontrolu bdělosti (MIREL, příp. Sifa)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1168,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Po zapnutí řízení na Vectronu není na DMI dostupná volba „Main“ nebo „Data“. Co uděláš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.5, str. 25"}
+  ],
+  "odpoved": "Vypnu a po chvíli znovu zapnu řízení; v případě neúspěchu provedu reset ETCS.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.5: Pokud není po zapnutí řízení na DMI dostupná volba „Main“ nebo „Data“, je nutno vypnout a po chvíli zapnout řízení. V případě neúspěchu proveď reset ETCS.",
+  "distraktory": [
+   "Provedu reset ETCS; v případě neúspěchu deaktivuji stanoviště a přestavím poruchový spínač ETCS do polohy „X“.",
+   "Zkontroluji přes prohlížení dat, zda jsou zadány číslo vlaku a vlaková data – bez nich tyto volby nejsou dostupné."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1169,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu není po zapnutí ETCS dostupná funkce zahájení jízdy (Start mise). Co to znamená a co uděláš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.6, str. 25"}
+  ],
+  "odpoved": "Nejsou splněny všechny podmínky, např. chybí číslo vlaku nebo vlaková data – zkontroluji je přes prohlížení dat.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.6: Pokud není po zapnutí dostupná funkce zahájení (Start mise) nejsou splněny všechny podmínky, např. číslo vlaku, vlaková data apod. Kontrola přes prohlížení dat.",
+  "distraktory": [
+   "Došlo k poruše DMI – vypnu a po chvíli znovu zapnu řízení, v případě neúspěchu provedu reset ETCS.",
+   "Není navázáno spojení s RBC – zkontroluji nastavení Network-ID a provedu reboot EVC (Main → Test → Reset EVC)."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1170,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Mobilní část ETCS na Vectronu je v aktivním (zapnutém) stavu. Jaké omezení platí pro pohyb osob u vozidla?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.8, str. 25"}
+  ],
+  "odpoved": "Balízová anténa a dopplerův radar vysílají vysokofrekvenční záření – je zakázáno se k nim přibližovat na vzdálenost menší než 1 m.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.8: Pozor – pokud je mobilní část ETCS v aktivním (zapnutém) stavu, balízová anténa a dopplerův radar vysílají vysokofrekvenční záření. Je zakázáno se přibližovat k balízové anténě a radaru do vzdálenosti menší než 1 m!",
+  "distraktory": [
+   "Balízová anténa a dopplerův radar vysílají vysokofrekvenční záření – je zakázáno se k nim přibližovat na vzdálenost menší než 2 m.",
+   "Balízová anténa a radar vysílají záření jen při zvednutém sběrači a zapnutém hlavním vypínači – po jejich vypnutí je přiblížení bez omezení."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1171,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F je pro potvrzování pokynů ETCS doporučeno používat nové hardwarové tlačítko. Co jím naopak provést nelze?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.9, str. 25"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.2, str. 25"}
+  ],
+  "odpoved": "Nelze jím zvolit funkci „Potlačení“ (override) ani potvrdit „TAF“.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.9: Na vozidlech se sw F je doporučeno pro potvrzování pokynů ETCS používat nově hardwarové tlačítko. POZOR – tímto tlačítkem nelze zvolit funkci „Potlačení“ a potvrdit „TAF“!\n\nPokyn 5/2024 Vectron ETCS, bod B.2: Funkce / tlačítko „override“ – „potlačení“ je na lokomotivách ř. 193 se SW Exx verze 3.4.0 přeloženo jako pojem „vyřadit“. Funkce tlačítka není tímto nijak ovlivněna.",
+  "distraktory": [
+   "Nelze jím potvrdit zvolenou úroveň ETCS ani zahájit jízdu („Start“).",
+   "Nelze jím potvrdit výsledek denních testů („NOK“/„OK“) ani zadaná vlaková data."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Na str. 26 je fotka tlačítek na pultu – hardwarové tlačítko je modré s nápisem ETCS (označeno šipkou)."
+ },
+ {
+  "n": 1172,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron se zařízením ALSTOM přijíždí se zapnutým ETCS do pohraniční stanice a dál pokračuje pod Level 2, resp. byl více než 2 hodiny mimo oblast GSM-R. Co máš podle upozornění Siemens udělat?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.10, str. 26"}
+  ],
+  "odpoved": "Provést reboot EVC (Main → Test → Reset EVC), zkontrolovat Network-ID (Main → Level → Level 2 → Network-ID), dokončit zadání vlakových dat a zahájit jízdu.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.10 Provoz pod ETCS Level 2 (upozornění SIEMENS – platí pro lokomotivy se zařízením ALSTOM): pokud lokomotiva přijíždí do pohraniční stanice, ETCS je zapnuto a na dalším úseku cesty je oblast provozu pod Level 2 nebo je lokomotiva v provozu více než 2 hodiny mimo oblast GSM-R a vstupuje do oblasti GSM-R proveďte reboot EVC - Vyberte Main -> Test -> Reset EVC. Zkontrolujte nastavení Network-ID - vyberte Main -> Level -> Level 2 -> Network-ID. Dokončete zadání vlakových dat a začněte jízdu.",
+  "distraktory": [
+   "Vypnout a po chvíli zapnout řízení, zkontrolovat Network-ID (Main → Level → Level 2 → Network-ID), dokončit zadání vlakových dat a zahájit jízdu.",
+   "Provést reboot EVC (Main → Test → Reset EVC) a znovu ručně zadat data RBC přes „9 – man. vstup“; vlaková data zůstávají v platnosti."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1173,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Za jízdy Vectronu se na DMI krátce zobrazí ikona „System Failure“ a obraz displeje se obnoví. Co uděláš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.12, str. 26"},
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.11, str. 26"}
+  ],
+  "odpoved": "Nic – zobrazení DMI je monitorováno systémem ETCS; při obnově spojení mezi systémy se obraz během několika sekund stabilizuje, reakce strojvedoucího není třeba.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.12: Zobrazení na displeji DMI je neustále monitorováno systémem ETCS. Pokud je třeba spojení mezi systémy obnovit, zobrazí se krátce ikona „System Failure“ a obraz na displeji se obnoví. Zobrazení se zpravidla během několika sekund stabilizuje a obnoví se původní stav; od strojvedoucího není zapotřebí žádná reakce.\n\nPokyn 5/2024 Vectron ETCS, bod B.11: Plánovací oblast – chybějící profil tratě v nejvzdálenějším úseku. V provozu v režimu ETCS Level 2 může nastat situace, kde se v plánovací oblasti po krátkou dobu nezobrazí nejvzdálenější úsek tratě. Od strojvedoucího není zapotřebí žádná reakce.",
+  "distraktory": [
+   "Provedu reset ETCS (Reset EVC) – ikona „System Failure“ signalizuje poruchu EVC a bez resetu se zobrazení neobnoví.",
+   "Vypnu a po chvíli znovu zapnu řízení; pokud se ikona objeví znovu, deaktivuji ETCS a dál jedu pod dohledem NTC."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Obdobně bez reakce strojvedoucího je i krátkodobě chybějící profil tratě v nejvzdálenějším úseku plánovací oblasti (bod B.11)."
+ },
+ {
+  "n": 1174,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Jedeš s Vectronem na síť DB InfraGO. Kde zkontroluješ/upravíš vlaková data podle nastavovací tabulky DB a jaká je traťová třída pro Baseline 2 (193 ELL) a pro Baseline 3?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod B.13, str. 27"}
+  ],
+  "odpoved": "V ŽST Děčín pro oba směry jízdy; traťová třída D/22 pro Baseline 2 (193 ELL – navíc Brh nad 200 zadat „200“), D4 pro Baseline 3; kategorie PASS 3.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod B.13: Nastavení vlakových dat při jízdě vlaku na DB InfraGO se řídí nastavovací tabulkou DB pro ETCS příslušného vozidla. Strojvedoucí zkontroluje, případně upraví nastavení dat pro oba směry jízdy vlaku v ŽST Děčín.\nVýběr / Hodnota: EVC - ETCS – Baseline 2 (193 ELL) / Baseline 3; Vlaky osobní dopravy v režimu R/P – PASS 3 (2064) / PASS 3; Brh – Skutečná brzdící procenta; Délka vlaku (ZL) – Délka celého vlaku zaokrouhlená na nejbližší desítky metrů; VMZ – Maximální dovolená rychlost vlaku *); Traťová třída – D/22 / D4.\n*) Platnost pro lokomotivy s vozidlovou částí ETCS Baseline 2 (193 ELL) – pokud je hodnota Brh více než 200, musí se zadat hodnota „200“!",
+  "distraktory": [
+   "V ŽST Děčín pro oba směry jízdy; traťová třída D4 pro Baseline 2 (193 ELL – navíc Brh nad 200 zadat „200“), D/22 pro Baseline 3; kategorie PASS 3.",
+   "V pohraniční stanici až po přechodu do Level 2; traťová třída D/22 pro Baseline 2 (193 ELL), D4 pro Baseline 3; Brh se zadává vždy skutečná bez omezení."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1175,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Potřebuješ na Vectronu se sw E deaktivovat ETCS (uvést je do izolace). Jak to provedeš?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod C.1, str. 27"}
+  ],
+  "odpoved": "Deaktivuji stanoviště a přestavím „poruchový spínač ETCS“ do polohy „X“; ovladač ventilů nouzového brzdění nechám svisle, ovladače SCMT a ATB vodorovně.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod C.1: Na lokomotivách se sw E deaktivuj stanoviště a přestav „poruchový spínač ETCS“ do polohy „X“. Ovladač pro výběr ventilů nouzového brzdění ponechej ve svislé poloze. Případné ovladače pro zabezpečovače SCMT a ATB musí být ve vodorovné poloze. Na lokomotivách vybavených vlakovým zabezpečovačem pro Itálii musí být navíc ve strojovně lokomotivy ovladač na žluté skříni zabezpečovacího zařízení pro Itálii přestaven do svislé polohy – „DISINSERITO“! Případnou manipulaci s tímto ovladačem je nutno provádět vždy s úplně odvětraným hlavním potrubím!",
+  "distraktory": [
+   "Deaktivuji stanoviště a přestavím „poruchový spínač ETCS“ do polohy „√“; ovladač ventilů nouzového brzdění přestavím vodorovně, ovladače SCMT a ATB svisle.",
+   "Vypnu hlavní vypínač, stáhnu sběrač, deaktivuji stanoviště a vypnu ETCS příslušným vypínačem; ovladač ventilů nouzového brzdění nechám svisle."
+  ],
+  "jistota": "vysoká",
+  "poznamka": "Druhý distraktor je začátek postupu izolování ETCS pro sw F2/F3 (bod C.2.1), ne pro sw E."
+ },
+ {
+  "n": 1176,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Na Vectronu se sw F2/F3 musíš izolovat ETCS a pokračovat v jízdě pod dohledem národního zabezpečovače (NTC). Jaký postup je nutno dodržet?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod C.2.1, str. 27–28"}
+  ],
+  "odpoved": "Vypnu HV, stáhnu sběrač, deaktivuji stanoviště; vypnu ETCS, LZB/PZB (Haupt), SHP i MIREL; po chvíli zapnu jen požadovaný NTC (přejde ze STB do provozu), otestuji a nastavím.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod C.2.1: V případě nutnosti izolování ETCS a další jízdy pod dohledem NTC je nutno postupovat takto (postup je nutno dodržet):\n• Vypni hlavní vypínač,\n• Stáhni sběrač,\n• Deaktivuj stanoviště,\n• Vypni: o Příslušným vypínačem ETCS, o Hlavním vypínačem LZB/PZB – Haupt, o Poruchovým vypínačem SHP, o Poruchovým vypínačem VZ MIREL, o Po chvíli znovu zapni vypínač požadovaného národního zabezpečovače! Jen tímto postupem přejde požadovaný zabezpečovač ze stavu STB do provozu!\n• Proveď test a nastavení zvoleného zabezpečovače.",
+  "distraktory": [
+   "Deaktivuji stanoviště a přestavím „poruchový spínač ETCS“ do polohy „X“; požadovaný NTC ponechám zapnutý a provedu jeho test a nastavení.",
+   "Vypnu HV, stáhnu sběrač, deaktivuji stanoviště; vypnu pouze ETCS příslušným vypínačem – ostatní zabezpečovače ponechám zapnuté a požadovaný NTC otestuji a nastavím."
+  ],
+  "jistota": "vysoká"
+ },
+ {
+  "n": 1177,
+  "kategorie": "lokomotivy",
+  "rada": "Vectron",
+  "otazka": "Vectron jede s izolovaným ETCS pod dohledem NTC a dojde k obratu vlaku (změně místa řízení). Na co nesmíš zapomenout na nevedoucím vozidle?",
+  "obrazky": [],
+  "tema": "ETCS",
+  "predpis": "Pokyn 5/2024 Vectron ETCS",
+  "zdroje": [
+   {"predpis": "Pokyn 5/2024 Vectron ETCS", "clanek": "bod C.2.2, str. 28"}
+  ],
+  "odpoved": "Na nevedoucím vozidle izolovat používaný národní zabezpečovač – jinak dojde po rozjezdu k odvětrání hlavního potrubí.",
+  "plne_zneni": "Pokyn 5/2024 Vectron ETCS, bod C.2.2: V případě izolace ETCS a jízdy pod dohledem NTC je nutno vždy při změně místa řízení vlaku (obrat vlaku) na nevedoucím vozidle izolovat používaný národní zabezpečovač, jinak dojde po rozjezdu k odvětrání hlavního potrubí.",
+  "distraktory": [
+   "Na nevedoucím vozidle aktivovat mód NL (nevedoucí) – jinak dojde po rozjezdu k odvětrání hlavního potrubí.",
+   "Na nevedoucím vozidle znovu zapnout ETCS příslušným vypínačem – jinak dojde po rozjezdu k odvětrání hlavního potrubí."
+  ],
+  "jistota": "vysoká"
+ }
+]

@@ -1,0 +1,2699 @@
+ČD
+1/D 17
+
+
+
+
+                        Prováděcí opatření
+ k předpisu pro ohlašování a šetření mimořádných událostí
+
+
+
+
+     Schváleno rozhodnutím Ředitele odboru interního auditu a kontroly GŘ ČD
+     Č.j.: 0125/2022-O17
+     Dne 25.03.2022
+     Změna č. 1 s účinností od 31.05.2022 – č.j. 0239/2022-O17
+
+
+
+
+                                Účinnost od 28.03.2022
+
+
+
+                                  Úroveň přístupu „A“
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                                     OBSAH
+OBSAH ....................................................................................................................................2
+ZÁZNAM O ZMĚNÁCH ..............................................................................................................3
+OBSAH ZMĚN ..........................................................................................................................4
+ROZSAH ZNALOSTÍ ..................................................................................................................5
+SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK .................................................................................6
+ČÁST PRVNÍ ZÁKLADNÍ USTANOVENÍ .......................................................................................7
+  KAPITOLA I ÚVODNÍ USTANOVENÍ .................................................................................................7
+  KAPITOLA II VYMEZENÍ ZÁKLADNÍCH POJMŮ ......................................................................................8
+     A. POJMY STANOVENÉ PRO POTŘEBU TOHOTO PROVÁDĚCÍHO OPATŘENÍ................................................................. 8
+
+ČÁST DRUHÁ OBSAH A TERMÍNY OHLAŠOVÁNÍ MIMOŘÁDNÝCH UDÁLOSTÍ .............................9
+ČÁST TŘETÍ ŠETŘENÍ A EVIDENCE MIMOŘÁDNÝCHUDÁLOSTÍ .................................................10
+  KAPITOLA I ČINNOST NA MÍSTĚ MIMOŘÁDNÉ UDÁLOSTI .....................................................................10
+  KAPITOLA II POSTUP PŘI ŠETŘENÍ MIMOŘÁDNÉ UDÁLOSTI ................................................................... 10
+     A. OHLEDÁNÍ MÍSTA MIMOŘÁDNÉ UDÁLOSTI ......................................................................... 10
+     B. SHROMAŽĎOVÁNÍ DOKUMENTACE A ZÁZNAMŮ……………………………………………………………………………..11
+     C. MĚŘENÍ NA MÍSTĚ MIMOŘÁDNÉ UDÁLOSTI, KOMISIONÁLNÍ PROHLÍDKY A ZÁPISY.……………………………………..12
+     D. ZJIŠTĚNÍ ŠKODY ……………………………………………..………………………..……………………………………………………..12
+     E. VYHODNOCENÍ ZÁZNAMŮ …..……………………………………………………………………………………………………..13
+     F. STANOVENÍ PŘÍČINY A ODPOVĚDNOSTI…………………………………………………………………………………...13
+     G. DISTRIBUCE VYHODNOCENÍ PŘÍČIN A OKOLNOSTÍ VZNIKU MIMOŘÁDNÝCH UDÁLOSTÍ…….………………………….13
+  KAPITOLA III EVIDENCE MIMOŘÁDNÝCH UDÁLOSTÍ ............................................................................................. 14
+  KAPITOLA IV VYHODNOCENÍ ODKLIZOVACÍCH A NAKOLEJOVACÍCH PRACÍ ........................................................... 14
+ČÁST ČTVRTÁ ZMOCŇOVACÍ A ZÁVĚREČNÁ USTANOVENÍ ......................................................15
+  KAPITOLA I ZMOCŇOVACÍ USTANOVENÍ ............................................................................................................ 15
+  KAPITOLA II ZÁVĚREČNÁ USTANOVENÍ................................................................................................................. 15
+SOUVISEJÍCÍ PŘEDPISY A NORMY ...........................................................................................16
+PŘÍLOHY ...............................................................................................................................19
+  PŘÍLOHA Č. 1 POKYNY K ŠETŘENÍ MIMOŘÁDNÝCH UDÁLOSTÍ DLE POJMŮ ......................................21
+  PŘÍLOHA Č. 2 RYCHLOMĚRY A MANIPULACE SE ZÁZNAMY PO MIMOŘÁDNÉ UDÁLOSTI ....................27
+  PŘÍLOHA Č. 3 ZJIŠŤOVÁNÍ STAVU ŽELEZNIČNÍHO SVRŠKU, SPODKU A UMĚLÝCH STAVEB................... 31
+  PŘÍLOHA Č. 4 ZJIŠŤOVÁNÍ STAVU SDĚLOVACÍHO A ZABEZPEČOVACÍHO ZAŘÍZENÍ A TRAKČNÍHO VEDENÍ .37
+  PŘÍLOHA Č. 5 SKUPINY MIMOŘÁDNÝCH UDÁLOSTÍ A JEJICH KATEGORIZACE PRO STATISTICKÉ ÚČELY ČD 43
+  PŘÍLOHA Č. 6/1a OHLAŠOVACÍ ROZVRH – MU VZNIKLÉ NA DRÁZE PROVOZOVANÉ SŽ .......................45
+  PŘÍLOHA Č. 6/1b SVOLÁVACÍ ROZVRH – MU VZNIKLÉ NA DRÁZE PROVOZOVANÉ SŽ ..........................46
+  PŘÍLOHA Č. 6/2a OHLAŠOVACÍ ROZVRH – MU VZNIKLÉ NA DRÁZE PROVOZOVANÉ ČD ......................47
+  PŘÍLOHA Č. 6/2b SVOLÁVACÍ ROZVRH – MU VZNIKLÉ NA DRÁZE PROVOZOVANÉ ČD .........................48
+  PŘÍLOHA Č. 7 ROZSAH OHLAŠOVÁNÍ MIMOŘÁDNÝCH UDÁLOSTÍ ................................................ 49
+  PŘÍLOHA Č. 8 ZÁPIS O OHLEDÁNÍ MÍSTA MIMOŘÁDNÉ UDÁLOSTI ................................................51
+  PŘÍLOHA Č. 9 HLÁŠENKA MIMOŘÁDNÉ UDÁLOSTI.....................................................................53
+  PŘÍLOHA Č. 10 KOMISIONÁLNÍ ZÁPIS ........................................................................................55
+  PŘÍLOHA Č. 11 ZÁPIS Z KOMISIONÁLNÍ PROHLÍDKY TECHNICKÉHO STAVU DRÁŽNÍHO VOZIDLA
+                (DRÁŽNÍHO ZAŘÍZENÍ) ....................................................................................... 57
+  PŘÍLOHA Č. 12 ZÁPIS SE ZAMĚSTNANCEM .................................................................................59
+  PŘÍLOHA Č. 13 ZÁPIS O KONFRONTACI .....................................................................................61
+  PŘÍLOHA Č. 14 ZÁPIS O PROVEDENÍ OVĚŘOVACÍHO POKUSU .......................................................63
+  PŘÍLOHA Č. 15 POVĚŘENÍ OSOB ŠETŘENÍM MU ..........................................................................65
+  PŘÍLOHA Č. 16 ROZHODNUTÍ O POKRAČOVÁNÍ PRACOVNÍ ČINNOSTI............................................67
+  PŘÍLOHA Č. 17 SDĚLENÍ O NEDODRŽENÍ (NEZNALOSTI) PŘEDPISŮ.................................................69
+
+
+
+                                                                         2
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                     ZÁZNAM O ZMĚNÁCH
+  (Držitel tohoto dokumentu je odpovědný za včasné a správné provedení a zapracování účinných
+                     změn a za provedení záznamu o provedených změnách.)
+
+                     Změna                                         Předpis
+                                                                             Podpis
+Poř.
+     Číslo jednací             Účinnost od   Opravil         Dne             (v případě tiskové
+č.
+                                                                             podoby předpisu)
+
+
+
+
+                                             3
+  ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                      OBSAH ZMĚN
+
+Změna
+                                 Obsah změny 1                                   Účinnost od             Změnu provedl2
+  č.
+
+
+
+
+  1) Uvést výčet ustanovení předpisu, u kterých proběhla změna (např. změna v ČÁSTl. …. v Kap. …apod.).
+  2) Gestor předpisu
+
+
+                                                                  4
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      ROZSAH ZNALOSTÍ
+
+   Organizační
+                                       Funkce                                Znalost
+     složka
+
+      GŘ ČD         generální ředitel ČD,                       informativní
+                    náměstkové generálního ředitele ČD,
+                    ředitel kanceláře GŘ ČD, ředitelé odborů,
+                    zaměstnanci určení řediteli odborů
+
+                    zaměstnanci na ohlašovacím pracovišti       úplná: Část první, druhá,
+                                                                přílohy č. 6/1, č. 6/2 a č. 7
+                    dispečerský aparát provádějící ohlašování
+                    MU
+
+    Oddělení        vedoucí oddělení BŽD                        úplná: Celý předpis včetně
+      BŽD           specialista BŽD                             příloh
+
+        OJ          zaměstnanci na ohlašovacím pracovišti       úplná: Část první, druhá,
+                                                                přílohy č. 6/1, č. 6/2 a č. 7
+
+                    zaměstnanci zařazení do systému             úplná: Celý předpis včetně
+                    nehodových pohotovostí (pověřené osoby      příloh
+                    prvotním šetřením MU)
+                    vyšetřovatelé OJ
+
+                    ostatní výše neuvedení zaměstnanci ČD       úplná: přílohy č. 6/1 a č. 6/2
+
+
+
+
+Zaměstnancům, kteří mají předepsanou úplnou znalost celého předpisu, bude předpis zapůjčen
+do osobního užívání.
+Zaměstnanci, kteří mají předepsanou úplnou znalost pouze části tohoto předpisu, a zaměstnanci,
+kteří mají předepsanou znalost informativní, musí mít předpis na pracovišti.
+
+
+
+
+                                                5
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                    SEZNAM POUŽITÝCH ZNAČEK A ZKRATEK
+
+BK…………………….…….               Bezstyková kolej
+BŽD………………….…….               Bezpečnost železniční dopravy
+CDP………………….…….               Centrální dispečerské pracoviště
+CHV………………….…….               Centrum historických vozidel Lužná u Rakovníka
+CIS………………….………               Centrum interních služeb
+ČD………………….………                České dráhy, akciová společnost
+ČSN………………………..               Česká státní norma
+DI…………………………..               Drážní inspekce
+DV………………………….                Drážní vozidlo
+GŘ…………..…………....             Generální ředitelství
+GVD…………………..…..              Grafikon vlakové dopravy
+HDV……………………….                Hnací drážní vozidlo
+HZS……………………..…               Hasičská záchranná služba
+IZS…………………………                Integrovaný záchranný systém
+JOP………………………..               Jednotné obslužné pracoviště
+MU………………………..                Mimořádná událost
+NP…………………………                 Nehodová pohotovost
+OBŽD…………………….                Oddělení bezpečnosti železniční dopravy
+OJ………………………….                Organizační jednotka
+OPT……………………….                Odúčtovna přepravních tržeb
+OS…………………………                 Organizační složka
+PB%……………………….                Potřebná brzdící procenta
+PMD……………………...               Posun mezi dopravnami
+PČR…………………….…                Policie České republiky
+PZM……………………….                Přejezdové zabezpečovací zařízení mechanické
+PZS………………………..               Přejezdové zabezpečovací zařízení světelné
+PZZ………………………..               Přejezdové zabezpečovací zařízení
+RP……………………….…                Rychloměrový proužek
+RSM……………………...               Regionální správa majetku
+SB%……………………….                Skutečná brzdící procenta
+SŽ………………………….                Správa železnic, s.o.
+
+
+
+
+                                                  6
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                     ČÁST PRVNÍ
+                                ZÁKLADNÍ USTANOVENÍ
+
+                                        Kapitola I
+                                     Úvodní ustanovení
+
+1.   „Prováděcí opatření k předpisu pro ohlašování a šetření mimořádných událostí“ (ČD 1/D17)
+     je vnitřním předpisem ČD, který schvaluje a vydává ředitel odboru interního auditu
+     a kontroly na základě čl. 1 předpisu ČD D 17; obsahuje ohlašovací a svolávací rozvrhy, vzory
+     a návody ke konkrétnímu šetření MU ve smyslu zákona č. 266/1994 Sb., o dráhách,
+     v platném znění a vyhlášky Ministerstva dopravy č. 376/2006 Sb., o systému bezpečnosti
+     provozování dráhy a drážní dopravy a postupech při vzniku mimořádných událostí na
+     dráhách, v platném znění.
+2. – 4. Neobsazeno.
+
+
+
+
+                                               7
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                  Kapitola II
+                                           Vymezení základních pojmů
+
+             A. POJMY STANOVENÉ PRO POTŘEBU TOHOTO PROVÁDĚCÍHO OPATŘENÍ 3)
+
+5.     Bod nula: při vykolejení DV je pro potřeby měření železničního svršku nutné určit počátek
+       měření – Bod nula. Je to místo, kde kolo DV poprvé zanechalo stopu, ze které je zřejmé, že
+       styčná plocha kola DV přestala být v dotyku s temenem hlavy kolejnice.
+6.     Složky IZS jsou:
+         a) jednotky požární ochrany HZS SŽ a jednotky požární ochrany, zařazené do plošného
+            pokrytí okresu jednotkami požární ochrany4,
+         b) HZS5),
+         c) zdravotnická záchranná služba,
+         d) Policie ČR (PČR).
+       Ostatními složkami IZS jsou vyčleněné síly a prostředky ozbrojených sil, ostatní ozbrojené
+       bezpečnostní sbory, ostatní záchranné sbory, orgány ochrany veřejného zdraví, havarijní,
+       pohotovostní, odborné a jiné služby, zařízení civilní ochrany a ostatní složky.
+7.     Základní složky IZS ze zákona zajišťují nepřetržitou pohotovost pro příjem ohlášení vzniku
+       MU, její vyhodnocení a neodkladný zásah v místě MU.
+8. – 10. Neobsazeno.
+
+
+
+
+3) Z uvedených definic ještě nevyplývá, že se jedná o MU. Pro posouzení, zda se o MU jedná, je nutné vycházet z definice MU a dalších
+
+ustanovení tohoto předpisu, včetně ČD 1/D17.
+4) § 4 zákona č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů a § 65 zákona č. 133/1985 Sb.,
+
+   o požární ochraně, ve znění pozdějších předpisů
+5) Hasičská záchranná služba ČR nebo SŽ
+
+
+                                                                 8
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                         ČÁST DRUHÁ
+      OBSAH A TERMÍNY OHLAŠOVÁNÍ MIMOŘÁDNÝCH UDÁLOSTÍ
+
+11.    Při vzniku MU při provozování dráhy a drážní dopravy na dráze ČD je osoba určená
+       k provádění zajišťovacích úkonů (osoba pověřená prvotním šetřením) povinna zjištěné
+       skutečnosti dle čl. 104 ČD předpisu D 17 (tj. např. fotodokumentaci, náčrtky, zápisy se
+       zaměstnanci, zápis o ohledání apod.) včetně sepsaného Hlášení mimořádné události (dále
+       jen Hlášenky), předat nejpozději následující pracovní den pověřené osobě OBŽD určené
+       k šetření předmětné MU, a to způsobem určeným pověřenou osobou OBŽD (např.
+       elektronickou poštou, osobně, písemně apod.).
+12.    Prvopis Hlášenky (v psané podobě) založí pověřená osoba OBŽD do vlastního spisu
+       vedeného k MU. Opis Hlášenky rozešle:
+         a) O10 GŘ ČD (dojde-li při MU k pracovnímu úrazu),
+         b) všem OJ (případně dalším složkám ČD), které jsou účastníky šetření,
+         c) subjektům, které na základě smlouvy přijaly závaznost tohoto předpisu,
+         d) územně příslušné jednotce požární ochrany HZS v případě, že na místě MU
+            zasahovala,
+         e) bezpečnostní poradci ČD (v případě MU, v nichž jsou účastny nebezpečné věci).
+13.    Při vzniku MU při provozování drážní dopravy ČD na dráze SŽ, kde na základě Smlouvy6
+       provádí šetření pověřené osoby SŽ, je osoba pověřená prvotním šetřením taktéž povinna
+       shromažďovat zjištěné skutečnosti (dle čl. 104 předpisu ČD D 17) tak, aby bylo možné
+       šetření pověřené osoby SŽ doplnit, a tuto dokumentaci předat nejpozději následující
+       pracovní den pověřené osobě OBŽD určené k šetření předmětné MU, a to způsobem
+       určeným pověřenou osobou OBŽD (např. elektronickou poštou, osobně, písemně apod.).
+14.    V případě potřeby požádá pověřená osoba vedoucí zaměstnance OJ (případně dalších složek
+       ČD), o poskytnutí údajů nebo úkonů potřebných k dalšímu šetření MU. Například stanovení
+       výše škody, prohlídku zařízení, sepsání vyjádření se zaměstnanci, svolání komise a podobně.
+       Vedoucí zaměstnanci OS, jsou povinni dožádání vyhovět v době co nejkratší.
+15.    Hlášenka se rozesílá vždy s rozdělovníkem.
+       Hlášenka se rozesílá v elektronické podobě s tím, že ve spisu MU bude doklad, komu byla
+       rozeslána.
+16. – 20. Neobsazeno.
+
+
+
+
+6) Smlouva o spolupráci při šetření mimořádných událostí a v případech smrtelných pracovních úrazů (uzavřená mezi SŽ a ČD)
+
+
+                                                                9
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                             ČÁST TŘETÍ
+             ŠETŘENÍ A EVIDENCE MIMOŘÁDNÝCH UDÁLOSTÍ
+
+                                       Kapitola I
+                          Činnost na místě mimořádné události
+
+21.   Na místo MU se dostaví osoba pověřená prvotním šetřením MU (nehodová pohotovost ČD),
+      která musí být o MU bezodkladně vyrozuměna dle ohlašovacího rozvrhu.
+      Na místě vzniku MU započne s šetřením a provádí činnosti dle čl. 104 předpisu ČD D17.
+      Pořadí úkonů je dáno okolnostmi a stanoví si ho sama pověřená osoba dle vlastního
+      uvážení, případně je uloží další pověřené osobě.
+22.   Na místo MU, kde došlo k úplnému přerušení provozování dráhy nebo drážní dopravy, nebo
+      ke zranění cestujících, nebo zaměstnanců ČD, se musí dostavit vedoucí zaměstnanec ČD.
+      Vedoucí zaměstnanec územně příslušné OJ rozhodne, zda se na místo dostaví osobně nebo
+      pověří jiného zaměstnance ČD. Tento zaměstnanec ČD, který se dostaví na místo MU, je
+      odpovědný za organizační zajištění všech opatření vedoucích k obnovení provozování dráhy
+      a drážní dopravy.
+23.   V případě, že při MU je potřeba zajistit ochranu majetku ČD, majetku cestujících,
+      přepravovaného zboží, pošty a podobně, požádá vedoucí zaměstnanec OJ Policii ČR
+      o ochranu na dobu nezbytně nutnou.
+24.   V případě potřeby je kterýkoliv z vedoucích zaměstnanců ČD oprávněn si vyžádat
+      přítomnost specialistů.
+25.   Po vzájemné domluvě mezi Policií ČR a dalšími orgány, podílejícími se na šetření předmětné
+      MU, je možné provést některé úkony při šetření společně a případnou dokumentaci zařadit
+      do spisu MU.
+26.   Pověřená osoba je oprávněna i k nařízení úkonů, které nejsou obsaženy v ČD 1/D17, ale
+      směřují ke zjištění příčiny a okolnosti MU.
+27.   Pro potřeby šetření vzniklé MU využívá nehodová pohotovost OŘOD/OCÚ (osoba pověřená
+      prvotním šetřením) služební vozidlo ČD a podle okolností rozhoduje o trase jízdy k MU.
+28.   Při činnostech na místě MU je nutno dodržovat zásady bezpečné práce.
+29. – 39. Neobsazeno.
+
+                                        Kapitola II
+                          Postup při šetření mimořádné události
+
+
+                          A. OHLEDÁNÍ MÍSTA MIMOŘÁDNÉ UDÁLOSTI
+
+
+40.   Při ohledání místa MU se postupuje zásadně ve směru jízdy drážního vozidla před MU
+      a veškeré zjištěné údaje se v tomto pořadí zapisují a dokumentují (nákres, fotografie,
+      videozáznam, zvukový záznam, apod.) tak, aby byla zajištěna jednoznačná orientace
+      a vypovídací schopnost zjištěných údajů.
+      K označování důležitých míst a detailů lze použít čísla nebo písmena abecedy nebo jiné
+      vhodné symboly.
+41.   Při ohledání místa vykolejení se klade důraz na místo před první stopou vykolejení a na
+      místo vykolejení. Je nutné popsat a zdokumentovat veškeré zjištěné skutečnosti byť
+      i zdánlivě nepodstatné. Situace za místem vykolejení je důležitá pro zdokumentování
+      následků MU.
+
+
+                                               10
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+42.   Pro potřeby měření železničního svršku při vykolejení DV musí být vždy stanoven Bod nula.
+      Bod nula určí pověřená osoba, po předchozím vyjádření zaměstnance, se kterým na místě
+      MU provádí měření. Bližší podrobnosti jsou uvedeny ve vzoru č. 1 k příloze č. 3.
+43.   Při ohledání železničního svršku je třeba zjistit a zdokumentovat zejména místo vykolejení,
+      stav upevňovadel, chybějící části upevňovadel, stav výhybky, její polohu, zajištění, stav
+      a zaklesnutí závěru a další.
+44.   Při ohledání vykolejeného drážního vozidla je nutné popsat co nejpodrobněji stav, který je
+      v rozporu s normovým stavem. To znamená zdokumentovat poškozené a hlavně chybějící
+      části drážního vozidla a pokusit se je nalézt před místem vykolejení.
+45.   Dle charakteru MU je třeba zdokumentovat stav a polohu veškerých přestavovačů
+      a kohoutů a správné propojení brzdových spojek. Na hnacím drážním vozidle
+      zdokumentovat stav ovládacích prvků, kohoutů vlakového zabezpečovače a hodnoty na
+      všech ukazatelích.
+46.   Při ohledání zabezpečovacího zařízení zdokumentovat druh a jeho stav, stav počitadel,
+      bezpečnostních závěrů, návěstní znaky návěstidel, polohy pák, polohy řadičů, klíčů, stav
+      drátovodů, hradlových závěrů, závěrů jízdní cesty včetně světelné indikace, druh a stav
+      kolejových obvodů, stav světelné signalizace a polohu závor PZZ včetně indikace.
+47.   Součástí ohledání místa MU může být i komisionální vyjádření účastníků šetření ke stavu
+      zařízení, činnosti zaměstnanců a podobně.
+48.   Vzor zápisu o ohledání místa MU je uveden v příloze č. 8.
+49. – 55. Neobsazeno.
+
+
+                        B. SHROMAŽĎOVÁNÍ DOKUMENTACE A ZÁZNAMŮ
+
+
+56.   Z písemné dokumentace (dopravní deníky, veškeré zápisníky, záznamníky, kontrolní knihy,
+      předávky resp. odevzdávky dopravní služby, písemné rozkazy aj.) se odebírají celé listy tak,
+      aby byla dostatečně časově zachycena i doba před MU. Jsou-li vedeny v elektronické
+      podobě, provede se uložení záznamu z archivu na přenosné medium, popř. se údaje
+      vytisknou.
+      Na vyjmutí listů je nutné předem upozornit zaměstnance vykonávající dopravní službu, aby
+      si včas a v klidu mohli přepsat důležité dopravní údaje na čisté listy. O vyjmutí se provede
+      zápis na přední stranu obalu dokumentace.
+57.   Pověřená osoba nebo osoba pověřená prováděním zajišťovacích úkonů vyhotoví fotokopii
+      dokumentace o vlaku nebo zajistí jiný vhodný způsob jejího vyhotovení.
+      Pro potřebu šetření se vyhotoví kopie (fotokopie) nákladních listů od vykolejených nebo
+      odstavených vozů.
+58.   Vyjmutí záznamů z technických zařízení provádí vždy minimálně dva zaměstnanci
+      (pověřená osoba a ten, který je odborně způsobilý k vyjmutí záznamů z příslušného
+      technického zařízení). Při vyjímání nesmí být záznam znehodnocen. Ve složitých případech
+      je lépe záznam nebo zařízení zapečetit, případně uzamknout a přivolat odborníka.
+59.   O vyjmutí se musí vždy vyhotovit zápis. Bližší podrobnosti jsou vždy uvedeny přímo
+      u zařízení nebo v interním předpisu.
+60.   Konkrétní postupy pro manipulaci s rychloměrovými záznamy jsou uvedeny v příloze č. 2,
+      případně v návodu od výrobce.
+61.   Dokumentaci, kterou nemohou OJ (případně další složky ČD) předložit v době vzniku MU,
+      zašlou na základě dohody do 5 pracovních dní od vzniku MU pověřené osobě.
+62. – 70. Neobsazeno.
+
+                                                11
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+      C. MĚŘENÍ NA MÍSTĚ MIMOŘÁDNÉ UDÁLOSTI, KOMISIONÁLNÍ PROHLÍDKY A ZÁPISY
+
+
+71.   Při měření železničního svršku se zejména zjišťuje: rozchod, vzájemná výšková poloha
+      kolejnicových pásů, vzepětí oblouku, podélná výška koleje, míry ve výhybce, případně další
+      potřebné údaje.
+      Měření provádí odborně způsobilá osoba; o rozsahu a způsobu měření rozhodne pověřená
+      osoba. Použitá měřidla nesmí mít povahu orientačního měřidla. Bližší podrobnosti jsou
+      uvedeny v příloze č. 3.
+72.   Ověření technického stavu DV je činnost náročná na měřidla a pomůcky, které většinou
+      nejsou v místě MU k dispozici. Na místě MU se proto obvykle provádí pouze ověření –
+      přezkoušení činnosti některých zařízení (např. brzd, apod.) a další zjišťování technického
+      stavu DV se provádí komisionálně, ve vztahu ke zjištění příčiny mimořádné události. Provádí
+      se formou komisionálních zjištění k posouzení, naměření, vyhodnocení parametrů, hodnot
+      a technického stavu drážního vozidla, jeho částí ve smyslu zákona o dráhách, dopravního
+      řádu drah a služebních předpisů ČD, platných pro posouzení technického stavu DV.
+      Komise současně posuzuje rozsah škody.
+      Komise pracuje ve složení:
+       a)   odpovědný zástupce provozovatele (vlastníka) drážního vozidla,
+       b)   pověřený zaměstnanec věcně příslušného úseku,
+       c)   pověřená osoba OBŽD, která MU šetří nebo je provedením prohlídky pověřena,
+       d)   případně další pověřený odborník.
+      Zápis z prohlídky obdrží vždy pověřená osoba a zástupci všech zúčastněných složek.
+      Komisi svolává z pověření provozovatele DV věcně nebo územně příslušné OŘOD. Komise
+      může být též svolána na žádost pověřené osoby, a to i do jiné lokality než je obvyklé.
+73.   V rámci přezkoušení zabezpečovacího a sdělovacího zařízení je u výhybek vždy nutné
+      provést opakovaně přezkoušení stavu výhybky. Pověřená osoba musí být střídavě přítomna
+      jak přímo u výhybky a sledovat pohyb a zaklesnutí háku, tak v místě ovládání, kde sleduje
+      ovládací prvek.
+      U složitějších zařízení se přezkoušení provádí vždy komisionálně, ale vždy za přítomnosti
+      pověřené osoby. Kromě zaměstnance ČD, který sdělovací a zabezpečovací zařízení
+      obsluhuje a zaměstnance, který zařízení udržuje, musí být vždy přítomen další vedoucí
+      zaměstnanec OJ, jehož zaměstnanec zařízení udržuje.
+      V závažných případech je třeba přizvat vedoucího zaměstnance ČD a nezúčastněného
+      svědka nebo Policii ČR.
+74.   Funkčnost veškerých zařízení je třeba vždy přezkoušet a o výsledku vyhotovit zápis. Toto
+      provádí odborně způsobilá osoba provozovatele dráhy.
+75.   V každém komisionálním zápisu o stavu drážního zařízení musí být uvedeno, zda naměřené
+      hodnoty jsou v povolených tolerancích. V případě, že naměřené hodnoty jsou mimo
+      povolené tolerance, musí být v zápisu uvedeno, o kolik a v čem se tyto hodnoty liší. Ve
+      složitých případech je možné zápis o předepsané hodnoty doplnit dodatečně.
+      Bližší podrobnosti jsou uvedeny v příloze č. 11.
+76. – 80. Neobsazeno.
+
+
+                                         D. ZJIŠTĚNÍ ŠKODY
+
+
+81.   Povinností vedoucích zaměstnanců OJ (případně další složky ČD) je na požádání pověřené
+      osoby:
+       a) na místě MU provést prvotní odhad škody a ústně jej sdělit pověřené osobě,
+
+
+                                                 12
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+       b) písemně vyčíslit dle platných předpisů škodu, která jeho OJ (případně další složce ČD)
+          při MU vznikla. Učinit tak bezodkladně, nejpozději do 20 dnů od vzniku MU. Vedoucí
+          zaměstnanec OJ (případně další složky ČD) si ve věci může sám ustanovit komisi
+          odborníků.
+      Do zápisu podrobně popíše rozsah poškození, kvalifikovaně odhadne materiálové náklady,
+      pracnost v normohodinách potřebných pro opravu, uvede amortizaci, materiálový výzisk,
+      a další důležité údaje dle přílohy č. 11.
+82. – 85. Neobsazeno.
+
+
+
+                                     E. VYHODNOCENÍ ZÁZNAMŮ
+
+
+86.   Odborně způsobilí zaměstnanci jsou odpovědni za objektivitu provedeného vyhodnocení
+      (posouzení).
+87.   Záznamy záznamového zařízení se pro potřeby šetření převádějí do písemné podoby, včetně
+      uvedení časových údajů.
+      Za přesnost a správnost přepisu je odpovědný zaměstnanec, který ho vyhotovil.
+      Originál záznamu se trvale uschová ve spisu vedeném k předmětné MU.
+88.   Ostatní záznamy zabezpečovacího zařízení, výstupy měřicích zařízení železničního svršku,
+      vlakografy a další, vyhodnocuje pověřená osoba, v případě potřeby dle oddílu F. této
+      kapitoly.
+89.   Konkrétní postupy při manipulaci se záznamovými zařízeními musí být uloženy přímo
+      u zařízení a odborně způsobilí zaměstnanci ČD se s nimi prokazatelně seznámí.
+90.   Postup při manipulaci s rychloměrovými záznamy drážních hnacích vozidel je uveden
+      v příloze č. 2.
+91. – 95. Neobsazeno.
+
+
+                              F. STANOVENÍ PŘÍČINY A ODPOVĚDNOSTI
+
+
+96.   Vyžaduje-li to povaha a složitost šetření MU, může pověřená osoba provozovatele dráhy
+      nebo drážní dopravy přizvat ke konzultaci další odborníky a specialisty. Ty nejprve seznámí
+      se všemi doposud zjištěnými skutečnostmi a položí jim otázky vedoucí k objasnění příčiny a
+      stanovení odpovědnosti. (K výkladu vnitřního předpisu, směrnice, TNŽ či jiného DAP je
+      oprávněn pouze gestor příslušného dokumentu).
+97.   Odborníci, kteří se vyjádřili k položeným otázkám a zjištěné skutečnosti vyhodnotili, jsou
+      plně osobně odpovědni za objektivnost svého stanoviska. Stanovisko, které musí být
+      vyhotoveno písemně, je součástí Spisu.
+98. – 100. Neobsazeno.
+
+
+                   G. DISTRIBUCE VYHODNOCENÍ PŘÍČIN A OKOLNOSTÍ VZNIKU MU
+
+
+101. Vyhodnocení příčin a okolností vzniku MU se doručuje okamžitě po vyhotovení v elektronické
+     podobě:
+       a)   OJ zúčastněné na MU, bez ohledu na vzniklou škodu,
+       b)   Drážní inspekci, prostřednictvím DS,
+       c)   Drážnímu úřadu, prostřednictvím DS (dle čl. 169 předpisu ČD D17),
+       d)   Policii ČR (byla-li přítomna na místě MU),
+
+                                               13
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+       e) O1 GŘ ČD,
+       f) CIS,
+       g) O10 GŘ ČD, (dojde-li při MU k pracovnímu úrazu),
+       h) O12 GŘ ČD,
+       i) O17 GŘ ČD (evidence MU),
+       j) O18 GŘ ČD,
+       k) O25 GŘ ČD, (na případné vyžádání),
+       l) O30 GŘ ČD
+       m) O32 GŘ ČD, (v případě ekologické havárie nebo ohrožení životního prostředí),
+       n) SŽ,
+       o) odborová organizace zaměstnance, odpovědného (spoluodpovědného) za vznik MU.
+102. – 103. Neobsazeno.
+
+
+
+                                        Kapitola III
+                               Evidence mimořádné události
+
+104. OJ mohou vést pro svoji potřebu různé formy evidenčních přehledů MU.
+105. OBŽD vede centrální evidenci MU a veškeré potřebné statistické přehledy. Jejich obsah
+     a formu určí ředitel interního auditu a kontroly vlastním opatřením na základě požadavků
+     vznesených vedením ČD. Tímto opatřením určené statistické přehledy průběžně
+     zpřístupňuje ve veřejných složkách Intranetu ČD.
+106. – 120. Neobsazeno.
+
+
+
+                                     Kapitola IV
+                   Vyhodnocení odklizovacích a nakolejovacích prací
+
+121. Pokud při MU byly použity pomocné a odklizovací prostředky, musí být provedeno
+     vyhodnocení odklizovacích prací.
+122. Vedoucí zaměstnanci OJ, jejichž prostředky či zaměstnanci prováděli odklizovací práce,
+     provedou písemné vyhodnocení. V něm uvedou, které prostředky byly nasazeny a jakým
+     způsobem, časové údaje o objednání, vystavení, přistavení, odjezdu, příjezdu na místo,
+     zahájení, průběhu a ukončení prací, sjízdnost kolejí, podmínky sjízdnosti, jména
+     zaměstnanců a jejich vedoucích, kteří se na odklizovacích pracích podíleli a další potřebné
+     údaje.
+     Došlo-li k závadám, vedoucí zaměstnanci je projednají, a ve zhodnocení oznámí opatření
+     k zamezení jejich opakování
+123. Písemná vyhodnocení odklizovacích prací budou do pěti pracovních dnů zaslána pověřené
+     osobě a budou součástí nehodového spisu.
+124. – 127. Neobsazeno.
+
+
+
+
+                                              14
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                             ČÁST ČVRTÁ
+                  ZMOCŇOVACÍ A ZÁVĚREČNÁ USTANOVENÍ
+
+                                          Kapitola I
+                                     Zmocňovací ustanovení
+
+128. Výjimky z tohoto vnitřního předpisu schvaluje ředitel odboru interního auditu a kontroly,
+     není-li u příslušných ustanovení uvedeno jinak. Z ustanovení, která vyplývají z obecně
+     závazných právních předpisů, není možno výjimky udělovat.
+129. Pro povolování výjimek z tohoto vnitřního předpisu a zpracování žádostí o výjimky platí
+     v plném rozsahu vztažná ustanovení Předpisu pro vnitřní normotvorbu společnosti České
+     dráhy, a.s.
+130. Ředitelé OŘOD, OCÚ, CHV a RSM provedou prokazatelné seznámení všech v úvahu
+     přicházejících jimi řízených zaměstnanců s přílohami č. 6/1 a č. 6/2 tohoto předpisu.
+     Ředitel O18 provede prokazatelné seznámení všech v úvahu přicházejících jimi řízených
+     zaměstnanců s přílohou č. 7 (Rozsah ohlašování MU), případně s dalšími ustanoveními
+     tohoto předpisu, které na základě jejich rozhodnutí musí tito zaměstnanci znát.
+
+
+                                          Kapitola II
+                                     Závěrečná ustanovení
+
+131. Dnem účinnosti tohoto vnitřního předpisu se zrušují:
+      a) ČD 1/D17 – Prováděcí opatření k předpisu pro hlášení a šetření mimořádných událostí,
+         účinnost od 01.01.2007,
+      b) Opatření NOD č. 4/2011-KNOD k postupu při ohlašování a šetření mimořádných
+         událostí, závažných a smrtelných pracovních úrazů ČD, a.s., č.j. 70710/2011 – 18, 12,
+         ze dne 17.08.2011.
+132. Tento vnitřní předpis nabývá účinnost dne 28.03.2022.
+133. – 140. Neobsazeno.
+
+
+
+
+                                              15
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     16
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                          SOUVISEJÍCÍ PŘEDPISY A NORMY
+
+                                 Obecně závazné právní předpisy
+-   Nařízení komise v přenesené pravomoci (EU) 2018/762, kterým se stanoví společné
+    bezpečnostní metody týkající se požadavků na systém zajišťování bezpečnosti
+-   Prováděcí nařízení komise (EU) 2019/773, o technické specifikaci pro interoperabilitu týkající
+    se subsystému „provoz a řízení dopravy“ železničního systému v Evropské unii
+-   Směrnice Evropského parlamentu a rady (EU) 2016/797, o interoperabilitě železničního
+    systému v Evropské unii
+-   Směrnice Evropského paramentu a rady (EU) 2016/798, o bezpečnosti železnic
+-   Zákon č. 266/1994 Sb., o dráhách, v platném znění
+-   Zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých
+    zákonů, v platném znění
+-   Zákon č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů,
+    v platném znění
+-   Zákon č. 133/1985 Sb., o požární ochraně, v platném znění
+-   Zákon č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při
+    práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti
+    nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek
+    bezpečnosti a ochrany zdraví při práci), v platném znění
+-   Vyhláška Ministerstva dopravy č. 173/1995 Sb., kterou se vydává dopravní řád drah,
+    v platném znění
+-   Vyhláška Ministerstva dopravy č. 177/1995 Sb., kterou se vydává stavební a technický řád
+    drah, v platném znění
+-   Vyhláška Ministerstva dopravy č. 376/2006 Sb., o zajišťování bezpečnosti provozování dráhy
+    a drážní dopravy a postupech při vzniku mimořádných událostí na dráhách, v platném znění
+-   Vyhláška Ministerstva vnitra č. 247/2001 Sb., o organizaci a činnosti jednotek požární
+    ochrany, v platném znění
+-   Vyhláška Ministerstva vnitra č. 328/2001 Sb., o některých podrobnostech zabezpečení
+    integrovaného záchranného systému, v platném znění
+-   Vyhláška Ministerstva životního prostředí č. 450/2005 Sb., o náležitostech nakládání se
+    závadnými látkami a náležitostech havarijního plánu, způsobu a rozsahu hlášení havárií,
+    jejich zneškodňování a odstraňování jejich škodlivých následků, v platném znění
+-   Nařízení Evropského parlamentu a Rady (EU) 2016/679, o ochraně fyzických osob
+    v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+    směrnice 95/46 ES, v platném znění
+-   Zákon č. 110/2019 Sb., o zpracování osobních údajů, v platném znění
+
+
+                              České a mezinárodní technické normy
+-   ČSN 34 2650 Železniční zabezpečovací zařízení – Přejezdová zabezpečovací zařízení
+-   ČSN 73 6320 Průjezdné průřezy na dráhách celostátních, dráhách regionálních a vlečkách
+    normálního rozchodu
+-   ČSN 73 6360-2 Konstrukční a geometrické uspořádání koleje železničních drah a její
+    prostorová poloha. Část 2: Stavba a přejímka, provoz a údržba
+-   ČSN 73 6380 Železniční přejezdy a přechody
+
+
+                           Dokumenty vnitropodnikové legislativy ČD
+-   ČD D 2 Předpis pro provozování drážní dopravy dopravce České dráhy, a.s.
+
+                                               17
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+-   ČD Ok 2 Výcvikový a zkušební řád Českých drah, a.s.
+-   ČD M 32 Předpis k ochraně životního prostředí před znečištěním nebezpečnými látkami
+-   ČD D 17 – účinnost od 28.03.2022
+
+
+
+
+                                              18
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     PŘÍLOHY
+
+
+
+
+                                       19
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     20
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                               Příloha č. 1
+                            Pokyny k šetření mimořádných událostí dle pojmů
+
+     UPOZORNĚNÍ: tato příloha neobsahuje vyčerpávající návod, jak jednotlivé MU šetřit, ale slouží jako
+     vodítko a pomůcka pro práci pověřených osob a pověřených osob prvotním šetřením (pověřených
+     k provádění zajišťovacích úkonů). Dále uvedené úkony se provádějí v rozsahu potřebném dle
+     konkrétních okolností MU.
+     1. Obecně
+          Při šetření každé mimořádné události se provede ohledání místa MU (vzor Zápisu
+          v příloze č. 8 ČD 1/D17), zápisy se zaměstnanci (vzor Zápisu v příloze č. 12 ČD 1/D17).
+          Zajistí se příslušná dokumentace, rychloměrový proužek, dle možnosti pořídí
+          fotodokumentace nebo videozáznam.
+          V případech, kdy se jedná současně o pracovní úraz, postupujte při šetření též dle
+          dokumentu ČD7, vydaného k této problematice.
+     2. Srážka drážních vozidel
+          Nejprve je třeba provést veškeré zajišťovací úkony podle čl. 104 předpisu ČD D17.
+     3. Vykolejení drážního vozidla
+          A) Vykolejení drážního vozidla za jízdy vlaku a při jízdě PMD na trati:
+             Nejprve je třeba provést veškeré zajišťovací úkony podle čl. 104 předpisu ČD D17.
+          B) Vykolejení drážního vozidla při posunu a při jízdě PMD ve stanici:
+               Je nutno zjistit a zdokumentovat:
+               a) důkladné ohledání místa MU,
+               b) došlo-li k vykolejení ve výhybkách, je nutné zjistit stav zabezpečovacího zařízení,
+               c) stanovení „Bodu nula“ a následné měření železničního svršku dle přílohy č. 3 ČD
+                   1/D17,
+               d) rozdělení pracovních úkolů zaměstnancům zúčastněným při posunu,
+               e) seznámení s postupem práce, řízení prováděného posunu,
+               f) počet vozů a řadění posunujícího dílu,
+               g) rozmístění posunující čety,
+               h) jak bylo zajištěno zastavení posunujícího dílu, odražených nebo spouštěných
+                   vozidel,
+               i) rozdělení, stav a použití ručních brzd, jejich vyzkoušení,
+               j) stav a použití zarážek a podložek,
+               k) jak, kde a kdo dával pokyny, kdo a kde je přejímal, zda byly dávány včas a jak bylo
+                   na ně reagováno,
+               l) stav železničních vozidel, železničního svršku, zabezpečovacího zařízení,
+               m) způsob dorozumívání zaměstnanců oprávněných řídit posun mezi jednotlivými
+                   posunovacími obvody,
+               n) rychlost při posunu,
+               o) skutečné rozhledové poměry z posunujícího dílu a hnacího vozidla,
+               p) zda a jak se zaměstnanci zúčastnění na posunu přesvědčili o správném postavení
+                   posunové cesty,
+               q) počasí, teplotu, viditelnost, stav osvětlení.
+     4. Srážka drážního vozidla s překážkou v průjezdném průřezu
+          Nejprve je třeba provést veškeré zajišťovací úkony podle čl. 104 předpisu ČD D17.
+          V případě, kdy překážka byla na drážním vozidle, je nutné dále zajistit:
+          a) vyřazení vozu z vlaku (v nejbližší stanici),
+
+7) V době schválení tohoto Prováděcího opatření je to „Směrnice stanovující způsob a obsah evidence hlášení a zasílání záznamu
+ o úrazu a postup při šetření“, ve znění změny č. 3, účinnost od 01.09.2021.
+
+                                                                21
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+        b) číslo, řadu a vlastnickou značku vozu,
+        c) zdokladování částí vozidla nebo nákladu, které zasahovaly mimo obrys pro vozidla
+           nebo mimo obrys pro ložnou míru,
+        d) kde byl vůz naložen a kde byla provedena poslední technická a komerční prohlídka
+           a s jakým výsledkem,
+        e) kde bylo s vozem naposledy posunováno,
+        f) stav závěrných a pojistných zařízení na krytých vozech a kontejnerech (zjistit
+           komisionálně v součinnosti s dopravcem),
+        g) zda byl náklad naložen a upevněn v souladu s předpisy,
+        h) hmotnost přepravovaného nákladu,
+        i) plnopočetnost a upevnění vozových součástí,
+        j) kilometrická poloha nalezených vozových součástí a částí přepravovaného zboží.
+    5. Střetnutí drážních vozidel se silničními vozidly na úrovňovém křížení dráhy s pozemní
+       komunikací i mimo ně. Střetnutí pohybujícího se drážního vozidla s osobou. Jízda drážního
+       vozidla při otevřeném přejezdu
+        Nejprve je třeba provést veškeré zajišťovací úkony podle čl. 104 předpisu ČD D17.
+        Při střetnutí se přezkouší stav houkaček drážního vozidla, správné návěsti „Začátek
+        vlaku“ na drážním vozidle a zjistí se stav, jak bylo zajištěno brzdění drážních vozidel.
+        Přezkouší se činnost přejezdového zabezpečovacího zařízení a o výsledku se pořídí zápis.
+        Při střetnutí na úrovňovém křížení dráhy s pozemní komunikací vyhotoví vedoucí
+        zaměstnanec složky, jehož zaměstnanec zařízení udržuje „Protokol – technické údaje“
+        nebo jiný, obsahově shodný dokument, náčrtek železničního přejezdu s vyznačením
+        kilometrické polohy, výstražných křížů, výstražných návěstidel, rozhledových poměrů,
+        úhlu křížení. V případech, kdy dojde ke střetnutí mimo úrovňové křížení dráhy s pozemní
+        komunikací, zajistí vyhotovení náčrtku místa případu.
+        Dalším šetřením je nutno zjistit a zdokumentovat:
+        a) při střetnutí na železničních přejezdech zabezpečených mechanickými závorami:
+           aa) druh závor, způsob jejich obsluhy a poloha břeven,
+           ab) zda byl řádně a včas ohlášen předvídaný odjezd vlaku,
+           ac) zda byl strojvedoucí zpraven písemným rozkazem,
+           ad) čas zahájení obsluhy závor,
+           ae) rozhledové poměry,
+           af) osvětlení přejezdu,
+           ag) jsou-li břevna závor opatřena předepsaným nátěrem a odrazkami,
+           ah) je-li přejezd označen výstražnými značkami pro silniční provoz dle obecného
+                právního dokumentu,
+           ai) jsou-li závory opatřeny předzváněcím zařízením a jeho činnost,
+           aj) zda si závorář při nástupu do služby porovnal přesný čas s výpravčím,
+           ak) zda není porušen bezpečnostní závěr u pohonu dálkových závor,
+           al) u střeženého železničního přejezdu – kdo jej střežil a zda si počínal ve smyslu
+                předpisů,
+           am) počasí, teplotu, viditelnost.
+        b) při střetnutí na železničních přejezdech zabezpečených přejezdovým zabezpečovacím
+           zařízením světelným bez závor nebo se závorami:
+           ba) stav tlačítek pro místní obsluhu,
+           bb) funkce světel výstražníků,
+           bc) stav koleje (zda nedošlo k lomu kolejnice nebo k zásahu cizí osobou),
+           bd) zda zabezpečovací zařízení neindikuje poruchový stav a zda při poruše byl
+                vlakový doprovod zpraven,
+           be) zjistit izolační stav kolejových obvodů (v součinnosti s příslušnou odbornou
+                správou provozovatele dráhy),
+
+
+                                               22
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+            bf) stav náhradního zdroje,
+            bg) stav napájení,
+            bh) polohu břeven závor, jejich nátěr a označení,
+            bi) osvětlení přejezdu,
+            bj) rychlost DV a zda vlak nepřekročil rychlost,
+            bk) označení železničního přejezdu dle obecného právního dokumentu,
+            bl) počasí, teplotu, viditelnost.
+        c) při střetnutí na železničním přejezdu zabezpečeném pouze výstražnými kříži:
+           ca) zda, kolikrát a jak dlouho dával strojvedoucí návěst „Pozor“,
+           cb) zda jsou před železničním přejezdem na předepsanou vzdálenost umístěny
+                výstražné kolíky,
+           cc) zda je železniční přejezd označen dle obecného právního dokumentu,
+           cd) rozhledové poměry,
+           ce) umístění a stav rychlostníků a předvěstníků,
+           cf) technický stav přejezdu,
+           cg) počasí, teplotu, viditelnost,
+           ch) rychlost DV.
+        d) při střetnutí posunového dílu se silničním vozidlem:
+           da) je-li posunový díl SHV, zda je označeno písmenem „A“,
+           db) byla-li nařízena obsluha závor,
+           dc) způsob zpravení posunového dílu,
+           dd) rychlost jízdy,
+           de) zda byla dávána slyšitelná návěst „Pozor“,
+           df) jak byl posunový díl brzděn, účinek brzd,
+           dg) zda byl posunový díl opatřen předepsanými návěstmi,
+           dh) rozhledové poměry,
+           di) počasí, teplotu, viditelnost.
+        U všech střetnutí se silničním vozidlem je nutné pokud možno zjistit majitele silničního
+        vozidla a pojišťovnu, u které je silniční vozidlo pojištěno.
+        Při střetnutí posunového dílu se silničním vozidlem se postupuje obdobně, jako při
+        střetnutí s DV. Zvlášť se zjišťuje, zda byl přejezd střežen.
+    6. Nezajištěná jízda DV
+        Nejprve je třeba provést veškeré zajišťovací úkony podle čl. 104 předpisu ČD D17. Dále je
+        nutné:
+        a) odebrat veškeré záznamy ze záznamových zařízení jak ve stanici, tak na drážních
+           vozidlech,
+        b) sepsat zápisy se zúčastněnými zaměstnanci,
+        c) zjistit a zdokumentovat:
+           ca) stav sdělovacího a zabezpečovacího zařízení, tak jak je uvedeno v příloze č. 4
+                 ČD 1/D17,
+           cb) postavení vlakové cesty,
+           cc) zda a jak byl zúčastněným zaměstnancům ohlášen předvídaný odjezd,
+           cd) jak a kdy bylo nařízeno postavit vlakovou cestu,
+           ce) stav a činnost zabezpečovacího zařízení,
+           cf) zda rozkaz k přípravě vlakové cesty dával a přijímal oprávněný zaměstnanec
+                 a zda přitom dodržel postup stanovený ZDD,
+           cg) jak byla vlaková cesta zabezpečena,
+           ch) zda bylo zabezpečovací zařízení v pořádku a obsluhoval jej oprávněný
+                 zaměstnanec,
+           ci) zda výpravčí před výpravou vlaku přijal předepsaná hlášení o postavení vlakové
+                 cesty nebo zda se předepsaným způsobem přesvědčil o jejím zajištění,
+
+                                               23
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+            cj) jak byla provedena výprava vlaku a jeho odjezd,
+            ck) jaká byla činnost zúčastněných zaměstnanců po odjezdu vlaku,
+            cl) zda byla vlaková cesta postavena,
+            cm) zda došlo k projetí námezníku a/nebo rozříznutí výměn,
+            cn) jaká návěst byla na příslušném návěstidle,
+            co) zda nedošlo k záměně návěsti,
+            cp) činnost strojvedoucího, zaměstnanců obsluhy vlaku a dalších zaměstnanců
+                zúčastněných při mimořádné události,
+            cq) počasí, teplotu, viditelnost.
+    7. Selhání návěstních (zabezpečovacích) systémů
+        Je nutné:
+        a) provést kontrolu správného postavení vlakové cesty
+        b) provést kontrolu izolačního stavu,
+        c) provést vnější prohlídku kolejového obvodu (uzemnění, propojky),
+        d) změřit stav izolovaných styků,
+        e) provést kontrolu citlivosti kolejových obvodů na zkrat, kontrolu polarity, hodnoty
+            napětí kolejových obvodů, hodnoty napětí na žárovkách,
+        f) uvést typ a číslo měřícího přístroje,
+        g) zjistit a zdokumentovat:
+            ga) zda nedošlo k výpadku elektrického napětí,
+            gb) zda nedošlo k poruše nebo zkratu kolejových obvodů,
+            gc) zda ke změně návěstního znaku došlo úmyslným nebo neúmyslným zásahem,
+            gd) zda musela být zrušena vlaková cesta a z jakého důvodu,
+            ge) zda bylo použito náhradního (nouzového) zdroje a jeho stav,
+            gf) na kterou kolej byla vlaková cesta postavena,
+            gg) stav bezpečnostních závěrů u tlačítek PN, nouzového uvolnění úseku,
+                 nouzového přestavení výměn a stav počítadel v porovnání s údaji v odevzdávce
+                 dopravní služby,
+            gh) zda nedošlo k přepnutí v napájení,
+            gi) jaká návěst byla na předvěsti a na hlavním návěstidle,
+            gj) skutečnou viditelnost hlavního návěstidla,
+            gk) sklonové poměry,
+            gl) místo zastavení čela vlaku (km poloha a vzdálenost od návěstidla),
+            gm) počasí, teplotu, viditelnost.
+    8. Lom kolejnice (jazyku nebo srdcovky) (pokud se v dalším textu tohoto odstavce
+       pojednává o kolejnici, nutno obdobně postupovat u jazyku nebo srdcovky).
+        Je nutné zjistit a zdokumentovat:
+        a) rok výroby kolejnice, tvar kolejnice, třídu oceli,
+        b) vady kolejnice dle předpisu provozovatele dráhy,
+        c) poškození kolejnice, vzniklé provozem, jejich případné ojetí,
+        d) úplnost a držebnost upevňovadel, spojkové otvory,
+        e) stav štěrkového lože (pokles v blátivém místě může spolupůsobit při vzniku lomu
+            kolejnice),
+        f) tvar a průběh lomu,
+        g) vzdálenost konce BK od místa lomu, dilatující místa v BK.
+    9. Vybočení koleje
+        Je nutné zjistit a zdokumentovat:
+        a) stav zaštěrkování,
+        b) držebnost a úplnost upevňovadel,
+        c) stopy opravných prací, které by významnější měrou zasahovaly do stability BK,
+
+
+                                             24
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+        d) přítomnost nevstřícných kolejnicových styků ve vybočeném úseku koleje, rozebrané
+           lepené izolované styky,
+        e) funkčnost dilatačních zařízení v blízkosti místa vybočení koleje, počet a stav „opěrek
+           proti putování kolejnic a pražcových kotev“ v úseku blízkému místu vybočení,
+        f) vzdálenost konce BK od místa vybočení, přítomnost dilatujících míst.
+        V provozní dokumentaci zajistit:
+        a) kontrolou pasportu BK zjistit upínací teplotu koleje,
+        b) zjistit teplotu, za které byly prováděny v předcházejícím období všechny zásahy do
+            BK, zejména propracování automatickou strojní podbíječkou a vevařování
+            kolejnicových vložek a vyhodnotit rozdíl teplot mezi upínací teplotou a teplotou při
+            provádění zásahů do BK,
+        c) porovnat záznamy v pasportu BK se svařovacím deníkem,
+        d) porovnat záznamy v pasportu BK s denními hlášenkami v předcházejícím období,
+        e) zjistit, zda bylo provedeno opatření k zajištění bezpečnosti provozu, zavedení pomalé
+            jízdy po dobu prací a v době stabilizace štěrkového lože po opravě BK,
+        f) zda byly zaváděny teplotní pomalé jízdy v dřívějším období,
+        g) vyhodnotit výstup měřícího vozu a měřicí drezíny,
+        h) zajistit záznamy o měření denních teplot, prováděném na traťovém okrsku.
+    10. Lom kola nebo nápravy drážního vozidla
+        Je nutné zjistit a zdokumentovat:
+        a) Obručové kolo:
+           aa) výskyt trhlin, rýh, vrubů a tepelných zásahů na všech částech dvojkolí,
+           ab) ověřit poklepem zvuk dvojkolí,
+           ac) případný výskyt korodujících stop mezi vzpěrným kroužkem, obručí nebo
+               kotoučem,
+           ad) případné uvolnění, respektive pootočení obručí vůči kotouči, stav a uvolnění
+               vzpěrných kroužků,
+           ae) způsob uložení vzpěrných kroužků – zda nejsou přivařeny ke kotouči nebo k obruči,
+           af) tloušťku věnců obručí,
+           ag) výskyt případných plochých míst,
+           ah) stav opotřebení jízdního obrysu a přítomnost případných nápečí.
+        b) Celistvé kolo:
+           ba) výskyt trhlin, rýh, vrubů a tepelných zásahů na všech částech dvojkolí,
+           bb) případný výskyt stop po korozi mezi nábojem a kotoučem,
+           bc) případné stopy po posunutí na nápravě,
+           bd) výskyt případných plochých míst a nápečí,
+           be) stav opotřebení jízdního obrysu,
+           bf) tloušťku věnců,
+           bg) stav a kvalitu vyražených nápisů – označení dvojkolí – možnost výskytu trhlin,
+           bh) stav vybroušení vrubů od unášečů kolového soustruhu.
+            Vždy je nutné zajistit komisionální prohlídku celého dvojkolí.
+    11. Roztržení za jízdy vlaku osobní dopravy
+        Je nutné zjistit a zdokumentovat:
+        a) počet vozů, náprav, metrů a hmotnost vlaku,
+        b) číslo hnacího vozidla, jméno a příjmení osoby řídící DV a jeho OJ,
+        c) způsob brzdění, potřebná a skutečná brzdící procenta,
+        d) přezkoušení údajů o zapnutých (vypnutých) brzdách,
+        e) polohy přestavovačů průběžných brzd,
+        f) kdy došlo k roztržení vlaku (při rozjíždění, zastavování),
+
+
+
+                                                25
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+        g) jaký byl důvod k obsluze brzdy (regulace rychlosti, pomalá jízda, náhlá změna
+           návěstního znaku, mimořádné zastavení),
+        h) zda bylo použito záchranné brzdy,
+        i) jak byla vozidla ve vlaku svěšena, kdo prováděl technickou prohlídku,
+        j) sklonové a směrové poměry,
+        k) technický stav táhlového ústrojí při samovolném rozvěšení.
+    12. Ujetí drážního vozidla
+        Je nutné zjistit a zdokumentovat:
+        a) stav, polohu a umístění prostředků, kterým bylo (mělo být) drážní vozidlo zajištěno
+            proti ujetí,
+        b) stav, polohu a funkčnost veškerých brzd na drážních vozidlech,
+        c) sklonové poměry,
+        d) rozdělení pracovních úkolů zaměstnancům zúčastněným při posunu,
+        e) seznámení s postupem práce, řízení prováděného posunu,
+        f) počet vozů a řadění posunového dílu,
+        g) rozmístění posunové čety,
+        h) jak bylo zajištěno zastavení posunujícího dílu, odražených nebo spouštěných vozidel,
+        i) rozdělení, stav a použití ručních brzd, jejich vyzkoušení,
+        j) kdo, kde a jak dával pokyny, kdo a kde je přejímal, zda byly dávány včas a jak bylo na
+            ně reagováno,
+        k) stav železničních vozidel, železničního svršku, zabezpečovacího zařízení,
+        l) způsob dorozumívání vedoucích posunu mezi jednotlivými posunovacími obvody,
+        m) rychlost při posunu,
+        n) skutečné rozhledové poměry z posunujícího dílu a hnacího vozidla,
+        o) zda a jak se zaměstnanci zúčastnění na posunu přesvědčili o správném postavení
+            posunové cesty,
+        p) počasí, teplotu, viditelnost, stav osvětlení.
+    13. Blíže nespecifikované MU, vzniklé v souvislosti s pohybem drážního vozidla
+        Platí stejný postup jako při obdobných MU s většími následky.
+
+
+
+
+                                              26
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                          Příloha č. 2
+                   Rychloměry a manipulace se záznamy po mimořádné události
+
+                                                 A. VŠEOBECNÉ POKYNY
+
+
+Veškeré potřebné zápisy, související s manipulací se záznamy, provádí osoba oprávněná řídit
+drážní hnací vozidlo podle této přílohy, v souladu s předpisem ČD V 8/I „Předpis pro provoz
+a obsluhu rychloměrů“. U hnacích vozidel, vybavených registračními rychloměry, které nejsou
+popsány v předpisu ČD V 8/I, provádí osoba oprávněná řídit hnací vozidlo veškeré potřebné zápisy,
+související s manipulací se záznamy, podle návodu k obsluze registračního rychloměru, kterým je
+hnací vozidlo vybaveno.
+Zápis musí být proveden čitelně hůlkovým písmem, nesmí překrývat žádný registrovaný údaj, a to
+ani průpisem. K popisování musí být použit nesmazatelný fix nebo propisovací tužka jiné než
+červené barvy. Je zakázáno rychloměrový záznam přehýbat nebo skládat. Záznam je nutno
+uschovat ve svitku a uložit v chladnu.
+Žádné záznamy nesmí být, a to ani krátkodobě, vystaveny vyšším teplotám, vlhkosti,
+magnetickému poli, záření, či jinému agresivnímu prostředí.
+Za ochranu před znehodnocením odpovídá osoba oprávněná řídit drážní hnací vozidlo do doby,
+než předá záznam pověřené osobě. Dále přechází odpovědnost na tuto pověřenou osobu.
+Nejdůležitější údaje při vyjímání záznamu a při popisování jsou:
+a)    čas vyjmutí, tj. přesný čas, kdy bylo započato s posunutím rychloměrového proužku při jeho
+      vyjímání,
+b)    místo zastavení, tj. přesná kilometrická poloha (případně jiné určení místa)8 předního čela
+      drážního vozidla ve směru jízdy, ze kterého byla ovládána rychlost jízdy.
+Nebyl-li rychloměrový proužek vyjmut na místě mimořádné události9, osoba oprávněná řídit
+drážní vozidlo, která ovládala rychlost jízdy, posune po zastavení část rychloměrového proužku
+se záznamem na navíjecí cívku nejméně o 100 mm, a na volné místo proužku poznamená:
+a)    MU (mimořádná událost),
+b)    přesný čas, kdy bylo započato s posunutím rychloměrového proužku,
+c)    datum a čas, kdy došlo k mimořádné události,
+d)    přesnou kilometrickou polohu (případně jiné určení místa) předního čela drážního vozidla ve
+      směru jízdy, ze kterého byla ovládána rychlost jízdy.
+Na samostatný list alespoň formátu A5 poznamená tyto údaje:
+a)    jméno, příjmení a osobní číslo osoby oprávněné řídit drážní hnací vozidlo, název a sídlo jeho
+      zaměstnavatele (pracoviště),
+b)    číslo vlaku a zkratkou úsek, ve kterém jel, při posunu a místních výkonech příslušné označení
+      výkonu,
+c)    datum a čas, kdy k mimořádné události došlo,
+d)    číslo (tj. řada, inventární číslo a kontrolní číslice) drážního vozidla, název a sídlo majitele
+      (provozovatele) drážního vozidla,
+e)    číslo jeho registračního rychloměru a rozsah rychlostní stupnice,
+f)    přesnou kilometrickou polohu (případně jiné určení místa)10 předního čela drážního vozidla
+      ve směru jízdy, ze kterého byla ovládána rychlost jízdy
+g)    kterým stanovištěm drážní vozidlo jelo vpřed,
+h)    na kterém stanovišti (nebo kde jinde) se nacházel registrační rychloměr,
+i)    podpis osoby oprávněné řídit drážní hnací vozidlo.
+
+
+
+8) Např.: Zastaveno 10 metrů za trakční podpěrou č. 154.
+9) Např.: Po předčasné změně návěstního znaku hlavního návěstidla.
+10) Např.: Zastaveno 30 metrů před návěstidlem s návěstí Stáhněte sběrač měnírny Rostoklaty.
+
+
+                                                               27
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+Takto vyplněný list odevzdá zaměstnanec při nejbližším ukončení služby ve své domovské
+služebně, pokud jej nemusí na žádost pověřené osoby již dříve připojit k rychloměrovému
+proužku (v případě mechanických rychloměrů).
+
+
+
+                             B. DRÁŽNÍ VOZIDLA S MECHANICKÝMI RYCHLOMĚRY
+
+
+První úkon při vyjímání rychloměrového proužku po MU z mechanických rychloměrů je vždy
+posun záznamu na navíjecí cívku minimálně o 100 mm.
+Ve výjimečných případech, kdy je nutný pohyb drážního hnacího vozidla bezprostředně po MU
+z důvodů vyproštění osob, zabránění další MU, uvolnění trati a podobně, provede osoba
+oprávněná řídit drážní hnací vozidlo posun záznamu před uvedením drážního vozidla do pohybu.
+Úkon provede samostatně bez přítomnosti pověřené osoby, a to s nejvyšší opatrností tak, aby
+nebyl záznam poškozen. Na volné místo rychloměrového proužku poznamená přesný čas, kdy
+bylo započato s jeho posunutím.
+Pokud má být rychloměrový proužek vyjmut z rychloměru na místě MU, učiní tak osoba
+oprávněná řídit drážní vozidlo teprve na příkaz a za osobní přítomnosti pověřené osoby.
+Na rychloměrový proužek musí být zaznamenány tyto údaje:
+a)    jméno, příjmení a osobní číslo osoby oprávněné řídit drážní hnací vozidlo, název a sídlo jeho
+      zaměstnavatele (pracoviště),
+b)    číslo vlaku a zkratkou úsek, ve kterém jel, při posunu a místních výkonech příslušné označení
+      výkonu,
+c)    datum a čas, kdy k mimořádné události došlo,
+d)    číslo (tj. řada, inventární číslo a kontrolní číslice) drážního vozidla, název a sídlo majitele
+      (provozovatele) drážního vozidla,
+e)    číslo jeho registračního rychloměru a rozsah rychlostní stupnice,
+f)    přesnou kilometrickou polohu (případně jiné určení místa)11) předního čela drážního vozidla
+      ve směru jízdy, ze kterého byla ovládána rychlost jízdy,
+g)    kterým stanovištěm drážní vozidlo jelo vpřed,
+h)    na kterém stanovišti (nebo kde jinde) se nacházel registrační rychloměr,
+i)    přesný čas (dle zařízení, které poskytuje informace o přesném čase), kdy bylo započato
+      s vyjímáním rychloměrového proužku z rychloměru, a to i pokud je shodný s údajem hodin
+      rychloměru,
+j)    podpis osoby oprávněné řídit drážní hnací vozidlo.
+
+
+
+                 C. DRÁŽNÍ VOZIDLA S RYCHLOMĚRY GMR VÝROBCE METRA BLANSKO
+
+
+První úkon při vyjímání registračního pásu po MU z rychloměrů GMR, výrobce Metra Blansko, je
+vždy posun registračního pásu se záznamem na navíjecí cívku minimálně o 100 mm.
+Ve výjimečných případech, kdy je nutný pohyb drážního hnacího vozidla bezprostředně po MU
+z důvodů vyproštění osob, zabránění další MU, uvolnění trati a podobně, provede osoba
+oprávněná řídit drážní hnací vozidlo posun záznamu před uvedením drážního vozidla do pohybu.
+Úkon provede samostatně bez přítomnosti pověřené osoby, a to s nejvyšší opatrností tak, aby
+nebyl záznam poškozen. Na volné místo registračního pásu poznamená přesný čas, kdy bylo
+započato s jeho posunutím.
+Pokud má být kazeta s registračním pásem vyjmuta z rychloměru na místě mimořádné události,
+učiní tak osoba řídící drážní vozidlo teprve na příkaz a za osobní přítomnosti pověřené osoby.
+Na registrační pás musí být zaznamenány tyto údaje:
+
+11) Např.: Zastaveno zadním čelem hnacího vozidla v úrovni návěstidla s návěstí Konec vlakové cesty.
+
+
+
+                                                                28
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+a)    jméno, příjmení a osobní číslo osoby oprávněné řídit drážní hnací vozidlo, název a sídlo jeho
+      zaměstnavatele (pracoviště),
+b)    číslo vlaku a zkratkou úsek, ve kterém jel, při posunu a místních výkonech příslušné označení
+      výkonu,
+c)    datum a čas, kdy k mimořádné události došlo,
+d)    číslo (tj. řada, inventární číslo a kontrolní číslice) drážního vozidla, název a sídlo majitele
+      (provozovatele) drážního vozidla,
+e)    číslo jeho registračního rychloměru a rozsah rychlostní stupnice,
+f)    přesnou kilometrickou polohu (případně jiné určení místa)12) předního čela drážního vozidla
+      ve směru jízdy, ze kterého byla ovládána rychlost jízdy,
+g)    kterým stanovištěm drážní vozidlo jelo vpřed,
+h)    na kterém stanovišti (nebo kde jinde) se nacházel registrační rychloměr,
+i)    přesný čas (dle zařízení, které poskytuje informace o přesném čase), kdy bylo započato
+      s vyjímáním rychloměrového proužku z rychloměru, a to i pokud je shodný s údajem hodin
+      rychloměru,
+j)    podpis osoby oprávněné řídit drážní hnací vozidlo.
+
+
+
+                           D. DRÁŽNÍ VOZIDLA S ELEKTRONICKÝM RYCHLOMĚREM
+
+Po vzniku každé mimořádné události osoba oprávněná řídit drážní vozidlo, ze kterého je ovládána
+rychlost jízdy, a které je vybaveno elektronickým rychloměrem, je povinna, v místě prvního
+zastavení, zaznamenat na samostatný list alespoň formátu A5 tyto údaje:
+a) jméno, příjmení a osobní číslo strojvedoucího nebo řidiče drážního vozidla, název a sídlo jeho
+    zaměstnavatele (pracoviště),
+b) číslo vlaku a zkratkou úsek, ve kterém jel, při posunu a místních výkonech příslušné označení
+    výkonu,
+c) datum a čas, kdy k mimořádné události došlo,
+d) číslo (tj. řada, inventární číslo a kontrolní číslice) drážního vozidla, název a sídlo majitele
+    (provozovatele) drážního vozidla,
+e) číslo jeho registračního rychloměru a rozsah rychlostní stupnice,
+f) přesnou kilometrickou polohu (případně jiné určení místa)13) předního čela drážního vozidla
+    ve směru jízdy, ze kterého byla ovládána rychlost jízdy,
+g) kterým stanovištěm drážní vozidlo jelo vpřed,
+h) na kterém stanovišti (nebo kde jinde) se nacházel registrační rychloměr,
+i)  časový rozdíl mezi hodinami rychloměru a přesným časem (dle zařízení, které poskytuje
+    informace o přesném čase) ve vteřinách,
+j)  podpis osoby oprávněné řídit drážní hnací vozidlo.
+Je-li na místě mimořádné události přítomna pověřená osoba, odebere tento list a zabezpečí
+u provozovatele (majitele) drážního vozidla přenesení údajů z polovodičové paměti do
+vyhodnocovacího počítače. Při přenášení údajů z polovodičové paměti do vyhodnocovacího
+počítače musí být jako první úkon provedeno zjištění a zapsání časového rozdílu mezi hodinami
+rychloměru a přesným časem (dle zařízení, které poskytuje informace o přesném čase)
+v sekundách.
+Pokud se vyjímá na místě mimořádné události modul polovodičové paměti z drážního vozidla za
+účelem jeho transportu na vyhodnocovací pracoviště, transportuje se současně s ním i příslušný
+list. Modul polovodičové paměti smí z měřící a záznamové jednotky na místě mimořádné události
+vyjímat jen zaměstnanec obeznámený s touto manipulací za přítomnosti pověřené osoby.
+
+
+
+
+12) Zastaveno v úrovni vjezdového návěstidla ŽST Karlštejn z opačné strany.
+13) Např.: Zastaveno 20 metrů před portálem tunelu.
+
+
+
+                                                                 29
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+U mimořádné události, kdy nebyl příslušný list odebrán pověřenou osobou, postupuje osoba
+oprávněná k řízení drážního vozidla podle ustanovení předpisu ČD V8/I.
+
+
+
+
+                                          30
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                        Příloha č. 3
+              Zjišťování stavu železničního svršku, spodku a umělých staveb
+
+                                         A. OBECNĚ
+
+
+Při objasňování příčiny vzniku mimořádné události se provádí měření železničního svršku,
+zjišťování stavu železničního svršku, spodku a umělých staveb odborně způsobilým
+zaměstnancem vždy za přítomnosti pověřené osoby.
+Pověřená osoba, spolu se zaměstnancem odborné správy nejméně odborně způsobilým pro
+činnosti vrchního traťmistra, zjišťují a vyhodnocují:
+1. stav železničního svršku (jeho stáří a opotřebování provozem, držebnost upevňovadel, stav
+    pražců a kolejového lože),
+2. odstranění závad zjištěných poslední jízdou měřicích prostředků pro měření geometrických
+    parametrů koleje a výhybek,
+3. odstranění závad zjištěných kontrolou stavu železničního svršku, dohlédací činnost
+    zaměstnanců odborné správy,
+4. dodržení technologických postupů prací při posledním odstraňování závad zaměstnanci
+    odborné správy nebo zhotovitelské firmy,
+5. stav bezstykové koleje a vedení technické dokumentace (např. měření teploty kolejnic,
+    záznamy o zřízení bezstykové koleje, záznamy o provedení vevaření kolejnicových vložek
+    a lepených izolovaných styků, provedení úpravy upínací teploty, veškeré zásahy ovlivňující
+    stabilitu bezstykové koleje apod.),
+6. dodržení podmínek smluv sepsaných s dodavateli stavebně-udržovacích prací v souladu
+    s obecně platnými předpisy, případně vztažnými DAP ČD,
+7. dodržování vytyčovacích plánů, vzorových listů, prováděcích projektů apod.,
+8. stav mostních provizorií, dilatačních zařízení, pojistných úhelníků přídržných a ochranných
+    kolejnic apod.,
+9. další údaje podle závažnosti mimořádné události.
+Po vykolejení drážního vozidla příslušná odborná správa dle požadavku pověřené osoby zajistí:
+a) sepsání tiskopisu „Výsledky technického vyšetření železničního svršku při vykolejení“ včetně
+    grafického znázornění nebo jiného obdobného tiskopisu stejného rozsahu,
+b) písemné vyhodnocení naměřených geometrických parametrů koleje a výhybek zjištěných
+    měřením ručními měřícími prostředky při šetření mimořádné události,
+c) kopii tištěného výpisu a grafického záznamu výsledků měření geometrických parametrů
+    koleje a výhybek z poslední jízdy měřicích prostředků s kontinuálním záznamem (měřící vůz
+    a měřící drezína), včetně jejich vyhodnocení,
+d) kopii Nákresného přehledu stavu železničního svršku,
+e) kopii Nákresného a psaného přehledu bezstykové koleje,
+f) kopie zápisů o provedených prohlídkách kolejí a výhybek stanovených předpisem
+    provozovatele dráhy,
+g) kopie příslušného úseku jednotné železniční mapy,
+h) jiné požadované materiály.
+
+
+
+                               B. MĚŘENÍ ŽELEZNIČNÍHO SVRŠKU
+
+Měření železničního svršku nařizuje pověřená osoba. Používané měřicí prostředky a pomůcky
+(např. ruční rozchodka s libelou, elektronická měřidla, měřidla k měření ojetí kolejnic, žlábků
+přídržnic a žlábků v srdcovkách) musí být kontrolovány v souladu s ustanovením Metrologického
+řádu provozovatele dráhy. Před vlastním použitím měřidel zkontroluje pověřená osoba, jejich
+použitelnost a platnost.
+Měření železničního svršku k objasnění příčiny vzniku mimořádné události se provádí
+
+                                              31
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+v nezatíženém stavu vždy. V zatíženém stavu se provede měření v odůvodněných případech, a to
+na základě rozhodnutí Drážní inspekce, odborně způsobilé osoby infrastruktury nebo pověřené
+osoby. O způsobu provedení měření v zatíženém stavu rozhodne odborně způsobilá osoba
+infrastruktury. Naměřené hodnoty se zapisují do pracovního tiskopisu dle vzoru č. 1 a ve výhybce
+dle vzoru č. 2 této přílohy. Správnost naměřených hodnot potvrdí svým podpisem zaměstnanci,
+kteří byli měření přítomni.
+Měření železničního svršku se nemusí automaticky provádět v případech, kdy došlo k vykolejení
+drážního vozidla při střetnutí se silničním vozidlem nebo po srážce drážního vozidla s překážkou
+v průjezdném průřezu (např. spadlým stromem, kamením, zvířetem apod.) nebo najetí na
+zarážku nebo výkolejku nebo zarážedlo kusé koleje nebo při srážce drážních vozidel14). Ve věci
+rozhodne pověřená osoba.
+Měření geometrických parametrů koleje a výhybek
+Měření geometrických parametrů koleje a výhybek se provádí po stanovení místa vykolejení.
+Nejprve je nutno nalézt první stopu vykolejení, tj. určit „Bod nula“. Od tohoto místa se po 1 metru
+naměří a na kolejnici označí 30 bodů před „Bodem nula“ a 10 bodů za „Bodem nula“ ve směru jízdy
+drážních vozidel. V takto označených bodech se provádí vlastní měření schválenými měřícími
+prostředky. Uvedené měření se podle potřeby doplní o grafické vyhodnocení měření
+geometrických parametrů koleje a výhybek.
+V jednotlivých bodech se měří:
+a) rozchod koleje (zapisují se naměřené odchylky – u),
+b) vzájemná výšková poloha kolejnicových pásů (D),
+c) vzepětí (f) nad tětivou délky 10 m pro rychlostní pásmo RP0 – RP3,
+d) ojetí kolejnic (s) – pouze v bezprostřední blízkosti „Bodu nula“.
+Dále je možno využít kontinuálního měření (ručním měřicím vozíkem).
+Pověřená osoba může nařídit další měření.
+Měření výhybek
+Měření geometrických parametrů výhybek se provádí obdobným způsobem jako měření
+geometrických parametrů koleje v rozsahu podle vzoru č. 1, č. 2 a č. 3. Ve výhybce se křivost
+vnějšího kolejnicového pásu metodou zjišťování vzepětí neměří, pokud i jen jeden ze tří
+měřičských bodů je v oblasti mezi výměnovým stykem výhybky a koncem opracované části jazyka
+nebo v místě přerušené pojížděné hrany v srdcovce. V místě, kde je přerušena pojízdná hrana
+(mezi hrotem srdcovky a křídlovou kolejnicí), se neměří vzepětí, převýšení a rozchod. Měření se
+může provést jiným vhodným způsobem (např. podle vzorových listů, po odstranění součásti
+znemožňujících měření apod.). Pověřená osoba může nařídit další měření, např.:
+a) svislé ojetí srdcovky,
+b) odrolení hrotu jazyka
+c) nadvýšení přídržnice nad temenem pojížděné kolejnice,
+d) šířka žlábků u přídržnic a u srdcovek,
+e) přilehání jazyka k opornici,
+f) zákles háku,
+g) zdvih spojovací tyče,
+h) přestavný odpor výměny,
+i)  přestavná síla elektromotorického přestavníku,
+j)  přestavná doba elektromotorického přestavníku.
+Vyhodnocení výsledků měření
+Vlastní vyhodnocení měření se provádí porovnáním skutečně naměřených hodnot s hodnotami
+stanovenými (včetně povolených odchylek). Odborně způsobilý zaměstnanec provozovatele
+dráhy posoudí vliv dosažených odchylek na vykolejení drážního vozidla. Toto posouzení uvede do
+
+
+
+14) I v tomto případě je nutné před obnovením provozu provést měření železničního svršku dle platných předpisů provozovatele dráhy.
+
+
+                                                                32
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+hodnocení stavu železničního svršku. Rozhodnutí o příčině vzniku MU však vždy náleží pověřené
+osobě.
+
+
+
+                         C. ZJIŠŤOVÁNÍ STAVU ŽELEZNIČNÍHO SPODKU
+
+V rámci prvotního šetření mimořádné události se měření železničního spodku nepožaduje,
+provádí se pouze prohlídka technického stavu, zda jsou dodrženy vzorové listy a technické
+parametry železničního spodku podle předpisu provozovatele dráhy. Dle potřeby a nařízení
+pověřené osoby se měří šířka železniční pláně a vzdálenost hran pláně od osy koleje a další míry
+pro potřeby šetření mimořádné události.
+
+
+
+                     D. ZJIŠŤOVÁNÍ STAVU STAVEB ŽELEZNIČNÍHO SPODKU
+
+Měření jednotlivých technických parametrů stavu staveb železničního spodku se provádí po
+provedené prohlídce objektu a po konzultaci se zaměstnancem odborné správy. Pověřená osoba
+upřesní rozsah a způsob měření, včetně požadavků na vyhodnocení naměřených hodnot.
+
+
+
+
+                                              33
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                            Zápis o měření železničního svršku po MU….. dne...
+                                                        (Vzor č. 1 k příloze 3)
+
+
+
+    bod           u            D              f            Poznámka                 bod           u             D             f
+    30                                                                                 9
+    29                                                                                 8
+    28                                                                                 7
+    27                                                                                 6
+    26                                                                                 5
+    25                                                                                 4
+    24                                                                                 3
+    23                                                                                 2
+    22                                                                                 1
+    21                                                                                 0
+    20                                                                                -1
+    19                                                                                -2
+    18                                                                                -3
+    17                                                                                -4
+    16                                                                                -5
+    15                                                                                -6
+    14                                                                                -7
+    13                                                                                -8
+    12                                                                                -9
+    11                                                                               -10
+    10
+
+
+
+Km ............ R oblouku .......... rychlost ........... sklonové poměry ...............................................
+Kolejnice ................... pražce .................. rozdělení ......... upevňovadla ...................................
+ZP .............. ZO ................ KO ................ KP ...................
+1. vykolejené drážní vozidlo číslo ....................... rozvor ........... revize ......................................
+Poznámky: .............................................................................................................................
+
+
+
+
+Měřil dne: .................. ……………………...Podpisy: ..................…..…………………………………
+
+
+Za odbornou správu:..................................................podpisy: ................................................
+Pověřená osoba: ......................................................................................................................
+Ostatní přítomní:.....................................................................................................................
+
+
+
+
+                                                                  34
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                     Zápis o měření výhybky
+                                                           (Vzor č. 2 k příloze 3)
+
+
+
+               Místo                                     Naměřené hodnoty                                        Poznámka:
+           ve výhybce15)                     rozchodu (mm)                 převýšení (mm)
+na výměnovém styku
+na hrotu jazyka
+u kořene jazyka
+ve střední části
+v srdcovce
+na styku na konci výhybky
+
+
+
+       Ostatní měření ve výhybce:                              L                   P                           Poznámka
+ západková zkouška16)
+ rozevření jazyků
+ šířka žlábků u přídržnice
+ šířka žlábků v srdcovce
+ zákles háku (čelisti)
+ vzdálenost vedoucí hrany
+ přídržnice
+ a pojížděné hrany srdcovky
+ vzdálenost vedoucí hrany
+ přídržnice
+ ve dvojité srdcovce
+
+Poznámky: .............................................................................................................................
+...............................................................................................................................................
+...............................................................................................................................................
+
+
+Měření za odbornou správu:...................................... provedl: .................................................
+Pověřená osoba: ......................................................................................................................
+Ostatní přítomní: ....................................................................................................................
+
+
+
+
+15) Podle potřeby se měří jedna nebo dvě větve.
+16) Uvede se vyhověla nebo nevyhověla.
+
+
+                                                                      35
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     36
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                       Příloha č. 4
+       Zjišťování stavu sdělovacího a zabezpečovacího zařízení a trakčního vedení
+
+                                     A. ZABEZPEČOVACÍ ZAŘÍZENÍ
+
+
+1.   Všeobecně
+     a) zjistit druh zabezpečovacího zařízení,
+     b) zjistit číslo a platnost Průkazu způsobilosti,
+     c) zjistit, zda byla jízdní cesta postavena obvyklou obsluhou nebo nouzovým způsobem,
+     d) zjistit, zda je jízdní cesta po MU pod závěrem nebo ne, pokud ano, tak zda jsou pod
+        závěrem všechny výhybky a výkolejky, určené závěrovou tabulkou,
+     e) zjistit polohu ovládacích prvků (pák, řadičů) optických kontrol (barva clonek hradlových
+        závěrů, barva světel a jejich stav (stálé, přerušované) na řídícím stavědle a závislých
+        stavědlech,
+     f) zjistit stav bezpečnostních závěrů a jejich neporušenost (zjistit, zda není možno použít
+        zajištěných prvků bez porušení bezpečnostního závěru),
+     g) zjistit stav všech počítadel (nouzových vybavovacích zařízení, přivolávacích návěstí,
+        jiných obsluh a podobně) a jejich stav porovnat s dopravní dokumentací,
+     h) zamezit vstupu zaměstnanců do reléových místností a reléových skříní,
+     i) prověřit záznamy v Záznamníku poruch na sdělovacím a zabezpečovacím zařízení (dále
+        jen „záznamník poruch“) a Knize prohlídek železniční stanice (kniha K3), zda není
+        evidována porucha a jak byla odstraněna,
+     j) zjistit stav zabezpečovacího zařízení v kolejišti (přestavníky, závorníky, jejich upevnění,
+        nastavení třecí spojky, stav pružiny u přestavníku s pružinou, stav kontrolních
+        a spojovacích tyčí, stav elektromagnetických zámků), zjistit zda výhybka nebyla násilně
+        přestavena, u elektrických přestavníků zjistit stav klikového vypínače, provést kontrolu
+        správného přiléhání jazyka k opornici, provést kontrolu samovratného zařízení
+        u výhybek se samovratnými přestavníky,
+     k) změřit izolační stav zabezpečovacího zařízení,
+     l) prověřit stav izolovaných kolejí a izolovaných úseků, počítačů náprav, kolejových
+        obvodů, izolovaných styků, čistotu hlav kolejnic (koroze, tráva apod.), stav propojek
+        a lanových propojení, šuntovou citlivost, hodnoty napětí a proudu podle regulačních
+        tabulek,
+     m) zjistit označení návěstidel, jejich umístění, viditelnost, správnost návěstí podle závěrové
+        tabulky, hodnoty napětí na objímkách žárovek. Zkontrolovat, zda v předepsané
+        vzdálenosti není viditelnost narušena vegetací, trakčními vzpěrami nebo jinou
+        překážkou, zda v oblouku nemůže dojít k záměně návěstidel nebo jejich návěstních
+        znaků a zda správné vnímání návěstí není ničím rušeno,
+     n) prověřit jiné úkony podle místních podmínek, situace při vzniku mimořádné události,
+        specifické konstrukce zabezpečovacího zařízení, výluky zabezpečovacího zařízení apod.,
+     o) pokud zabezpečovací zařízení má záznamové zařízení, tak zajistit stažení dat a jejich
+        bezpečné uložení pro analýzu stavů zařízení. Vyhodnocení dat ze záznamových zařízení
+        provede příslušná SSZT ve spolupráci se zaměstnancem, který MU šetří,
+     p) zaznamenat časový rozdíl mezi časem záznamového zařízení a skutečným časem (dle
+        zařízení, které poskytuje informace o přesném čase) ve vteřinách.
+2.   Staniční mechanické a elektromechanické zabezpečovací zařízení
+     a) prověřit stav a správnou funkci směrových, kolejových závěrníků a kolejových číselníků,
+     b) prověřit stav a správnou funkci hradlových závěrů a samočinných závěrů výměn,
+     c) prověřit stav a správnou činnost zvonkových tlačítek a hradlových zvonků,
+     d) prověřit osazení úsmyčných kolíčků na rozřezných pákách, jejich stav, zda jsou opatřeny
+        neporušeným závěrem na drátu a řádně označeny „na hlavě” raznicí. Zjistit, zda počet
+        náhradních úsmyčných kolíčků souhlasí s počtem uvedeným v odevzdávce dopravní
+        služby,
+
+                                                37
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+     e) prověřit stav drátovodů, jejich délku, správnost napnutí drátových táhel, stav napínacích
+        a vyrovnávacích zařízení,
+     f) u výměn, vybavených výměnovým zámkem, prověřit správné upevnění zámku k patě
+        kolejnice, neporušenost háku, správnost uzamčení, označení, a zda tvar a popis štítku
+        odpovídá poloze výhybky, stav hlavních a náhradních klíčů. V případě, že byla výhybka
+        uzamčena přenosným výměnovým zámkem, ověřit jeho montáž a zajištění.
+3.   Staniční elektrodynamické zabezpečovací zařízení
+     a) zjistit a zaznamenat si polohy souhlasových, návěstních, směrových, kolejových,
+        závěrných a výhybkových řadičů, jejich stupeň přeložení, správnost barev kontrolních
+        clonek dle funkce řadiče,
+     b) přezkoušet funkci kontrolního a závěrného relé u návěstního řadiče podle stupně
+        překládání řadiče do konečné polohy o 90 stupňů.
+4.   Staniční reléové zabezpečovací zařízení podle jednotlivých typů
+     a) zaznamenat světelnou kontrolu polohy výhybek,
+     b) provést kontrolu časových souborů,
+     c) prověřit činnost pomocných stavědel,
+     d) prověřit, zda jsou na ovládacím panelu vyznačeny neprofilové izolované styky.
+5.   Systémy elektronických zabezpečovacích zařízení
+     a) zajistit stažení dat z paměti systému elektronických zabezpečovacích zařízení a jejich
+         bezpečné uložení pro analýzu stavů zařízení. Vyhodnocení dat z paměti systému
+         elektronických zabezpečovacích zařízení provede příslušná odborná správa ve spolupráci
+         se zaměstnancem, který MU šetří,
+     b) zaznamenat časový rozdíl mezi časem počítače JOP a skutečným časem (dle zařízení,
+         které poskytuje informace o přesném čase) ve vteřinách,
+     c) zaznamenat časový rozdíl mezi časem technologického počítače a skutečným časem (dle
+         zařízení, které poskytuje informace o přesném čase) ve vteřinách.
+6.   Traťové zabezpečovací zařízení
+     a) prověřit činnost předřadného hradla, návěstního hradla a počátečního traťového hradla
+         na řídícím přístroji,
+     b) prověřit splnění podmínek pro odhlášku,
+     c) prověřit činnost hradlové zarážky, návěstního hradla a náhradní západky na stavědle,
+     d) prověřit činnost hradlové zarážky, mezilehlého traťového hradla a náhradní západky,
+     e) prověřit činnost souhlasového hradla nebo reléového souhlasu a jejich součinnost
+         s obsazením tratě.
+7.   Vlakový zabezpečovač
+     a) prověřit, zda vlakový zabezpečovač (dále jen VZ) byl zapnut a zda je záznam na
+         rychloměrovém záznamu.
+     b) prověřit zápisy v Záznamníku poruch na hnacím vozidle a Záznamníku poruch ve stanici,
+     c) přezkoušet správnost přenosu návěstí na kontrolní smyčce,
+     d) podle povahy mimořádné události provést kontrolu funkčnosti jednotlivých prvků VZ na
+         měřícím a zkušebním stole pracoviště opravny VZ,
+     e) prověřit správnou činnost při přenosu návěstí v traťové části zabezpečovacího zařízení
+         v místě mimořádné události.
+8.   Přejezdová zabezpečovací zařízení
+     a) zjistit druh přejezdového zabezpečovacího zařízení (PZM, PZS), km polohu a číslo přejezdu,
+         zda bylo v činnosti, druh drážního vozidla, zda jelo samostatně a čím je prováděna anulace,
+     b) zjistit umístění kontrolní skříně, stav optických kontrol,
+     c) provést kontrolu viditelnosti světel výstražníků a výstražných křížů z pozemní
+         komunikace, prověřit funkci zvukové výstrahy a její slyšitelnost,
+     d) prověřit dodržení stanovené předzváněcí doby, přibližovací doby a stanovené doby
+         anulace,
+
+                                                38
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+    e) prověřit šuntovou citlivost kolejových obvodů a případných úprav k zamezení ztráty
+       šuntu,
+    f) u zařízení s počítači náprav, prověřit jejich stav a funkčnost,
+    g) prověřit vybavení přejezdu (výstražné kříže, nápisy, nátěry, odrazky a další),
+    h) zjistit datum a výsledek provedené poslední prohlídky dle předpisu provozovatele dráhy,
+       ha) kontrola a plnění Plánu údržby,
+       hb) kontrola naměřených hodnot v Knize měření,
+       hc) kontrola zápisů v Záznamníku poruch,
+    i) provést kontrolu činnosti přejezdníků, jsou-li zřízeny; zjistit viditelnosti kmenového
+       přejezdníku a opakovacího přejezdníku a jejich návěstí,
+    j) zajistit stažení dat z paměti systémů elektronických PZS a bezpečné uložení pro analýzu
+       stavů zařízení. Vyhodnocení dat z paměti systému elektronických PZS provede příslušná
+       SSZT ve spolupráci se zaměstnancem, který MU šetří,
+    k) zaznamenat časový rozdíl mezi časem záznamového zařízení PZS a skutečným časem
+       (dle zařízení, které poskytuje informace o přesném čase) ve vteřinách.
+
+
+
+                                     B. TRAKČNÍ VEDENÍ
+
+   a) zjistit druh trakční proudové soustavy (25 kV, 15 kV, 3 kV, 1,5kV),
+   b) prověřit výsledek měření trakčního vedení, zjištěné závady a jejich odstranění,
+   c) zjistit opotřebování trolejového drátu,
+   d) prověřit stav trolejového vedení, závěsů, izolátorů, lan kotvení, proudového propojení
+      a dalších trakčních zařízení,
+   e) prověřit umístění návěstidel pro elektrický provoz a jejich viditelnost,
+   f) prověřit způsob vyrozumění lokomotivní čety o mimořádnostech,
+   g) zjistit druh a stav sběračů hnacích vozidel,
+   h) prověřit stav železničního svršku, směrovou a výškovou polohu v místě mimořádné
+      události (důležité v případech poškození sběrače hnacího vozidla),
+   i) provést vyhodnocení záznamů u elektrodispečera.
+
+
+
+
+                                             39
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                     Zápis o ohledání PZZ po MU
+                               (Vzor č. 1 k příloze 4 – vyplní pověřená osoba)
+
+
+                                   Údaje o mimořádné události
+Železniční trať:                              Mezi ŽST:
+Kilometrická poloha a číslo přejezdu          Odborná správa:
+Datum střetnutí:                              Čas:
+   Vlak:                                         Silniční vozidlo:
+Směr jízdy:                                   SPZ:
+Strojvedoucí                                  Jméno řidiče:
+Jméno a příjmení:                             Adresa:
+
+
+Provozovatel drážní dopravy, příp. jeho             Pojišťovna:
+organizační složka:
+Jiné záznamy:                                       Směr jízdy:
+                                                    Silniční dopravní značení:
+
+
+
+                                          Přejezdové zařízení
+Typ:
+Viditelnost červených světel výstrahy:
+Slyšitelnost akustické výstrahy:
+Zápisy v Záznamníku poruch na PZS (datum, výsledek):
+
+Kontrola Plánu údržby (plněn, neplněn):
+Kontrola Knihy měření (hodnoty v tolerancích):
+
+Stažení dat z archivu elektronických PZS:
+Čas záznamového zařízení:                   Odchylka od přesného času:
+Zápisy v Záznamníku poruch obsluhy (poruchovost):
+
+
+Stav kontrolních prvků obsluhy:
+Stav ovládacích prvků obsluhy:
+Na základě přezkoušení činnosti přejezdového zařízení účastníci šetření konstatují, že
+zařízení je* není* uváděno spolehlivě a včas ovlivněním spouštěcích prvků do výstrahy.
+
+                                             Složení komise
+           Organizace                        Jméno a příjmení                    Podpis
+
+  Policie ČR
+
+  ČD
+
+  Odborná správa
+
+
+
+* nehodící se škrtne
+
+
+
+
+                                                    40
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                           Zápis o komisionálním přezkoušení PZZ po MU
+                               (Vzor č. 2 k příloze 4 – vyplní příslušná odborná správa)
+                                               Přejezdové zařízení
+Železniční trať (dle TTP):                            Kilometrická poloha: na tři desetinná místa
+                                                      Číslo přejezdu: P
+Datum přezkoušení:                                    Odborná správa:
+Typ přej. zařízení:                                   Datum uvedení zařízení do provozu:
+Kategorie podle ČSN 34 2650:
+Průkaz způsobilosti přejezdového zařízení
+Číslo:                                       Platnost do: datum
+Předzváněcí / přibližovací doba: s/s         Anulační doba: s
+Počet kmitů červených světel: cykl. / min.   Počet kmitů bílých světel: cykl. / min.
+Napětí na žárovkách výstražníků (červená světla / bílá světla)
+              označení výstražníku
+předeps.: č. s.      č. s.   b. s.
+naměřeno:
+
+předeps.:
+naměřeno:
+                            Měření kolejových obvodů (nebo bodových prvků)
+Název KO:                                                                    ASE - název
+předeps. napětí: Un:            Uk:                                          UA:          UAŠ:
+naměř. napětí       Un:         Uk:                                          U B:         UBŠ:
+Izol. stav:         Nk:         Rk:                                          necitlivost:
+                         Měření ventilových kolejových obvodů u PZS typu VÚD
+              VKO-1         kmit. sig. PSS-1         sig. PSS-1 PST-1        zk. PST-1    zk. PST-1
+předeps.: 20 – 21 V 12 – 18 c             7 – 30 V   < 0,05 V     7 – 30 V   12 s         < 0,05 V
+naměřeno:
+                                    Šuntová zkouška kolejových obvodů
+Název KO:
+Napájecí konec: vyhov./nevyh.
+Reléový konec: vyhov./nevyh.
+Stav nátěrů dle TNŽ 34 2605:
+                    Přezkoušení a činnost ovládacích a kontrolních prvků obsluhy
+tlačítka místní obsluhy, dálkové obsluhy,
+kontrolní skříň a pod. – stav, funkčnost
+Závislost na návěstidle: ano – stav/ne              Kontrola termínů výměnných dílů: vyhov./nevyh.
+Stav břeven závor:                                  Stav technické dokumentace: vyhov./nevyh.
+KSU a TP: ano – stav/není                           Kontrola činnosti přejezdníků:
+Napájení: síť               měnič        baterie    název:
+napětí                                              viditelnost (m):
+izol. stav                                          činnost:
+Škoda na zařízení ve správě:
+Komise konstatuje, že přejezdové zabezpečovací zařízení vyhovuje* nevyhovuje*                 technickým
+normám a předpisům SŽ a nemohlo* mohlo* být příčinou nehodové události.
+                                              Složení komise
+Organizace                       Jméno a příjmení                              Podpis
+
+ČD ……………………
+
+Odborná správa ………….
+*) nehodící se škrtne,
+  příslušná odborná správa přiloží situační schéma a tabulku přejezdu dle ČSN 34 2650.
+
+
+                                                         41
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                  Zápis o ohledání přejezdu zabezpečeného výstražnými kříži
+                                       (Vzor č. 3 k příloze 4)
+
+
+
+
+Dne:
+
+
+Měření provedl:
+
+
+Zápis provedl:
+
+
+Přítomni:
+
+
+
+
+                                                42
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                     Příloha č. 5
+       Skupiny mimořádných událostí a jejich kategorizace pro statistické účely ČD
+
+1.   Po ukončení šetření mimořádné události ve smyslu zákona o dráhách se tato kategorizuje
+     podle vzniklých následků a závažnosti následovně:
+     a) mimořádné události s odpovědností (spoluodpovědností) ČD se označí pouze níže
+        uvedeným alfanumerickým znakem (např. A3, B5, C17),
+     b) u mimořádných událostí s odpovědností mimo ČD se před shodné alfanumerické
+        označení předřadí písmeno „N“ (není ČD), (např. NA4, NB6, NC19),
+     Ve Vyhodnocení příčin a okolností vzniku MU se uvede v úvodním oddílu:
+     a) druh MU (vážná nehoda, nehoda nebo incident),
+     b) kategorizace MU, dále se uvede datum, čas a místo vzniku MU.
+2.   MU skupiny A – Vážná nehoda – nehoda způsobená srážkou nebo vykolejením drážních
+     vozidel, jejímž následkem je smrt, újma na zdraví alespoň 5 osob nebo škoda na drážním
+     vozidle, dráze nebo životním prostředí ve výši nejméně 2 000 000 EUR, nebo jiná nehoda
+     s obdobnými následky.
+     Za „jinou nehodu s obdobnými následky“ se považuje:
+     a) střetnutí drážního vozidla se silničním vozidlem na úrovňovém křížení dráhy s pozemní
+          komunikací, které se označuje výstražným křížem, jehož následkem je smrt nebo újma
+          na zdraví alespoň 5 osob přepravovaných v drážním vozidle nebo škoda velkého rozsahu
+          podle trestního zákoníku na drážním vozidle, dráze nebo životním prostředí,
+     b) srážka drážního vozidla s překážkou na dopravní cestě dráhy, zařízením dráhy, nebo se
+          silničním vozidlem mimo úrovňové křížení dráhy s pozemní komunikací, které se
+          označuje výstražným křížem, jejímž následkem je smrt, újma na zdraví alespoň 5 osob
+          přepravovaných v drážním vozidle nebo škoda velkého rozsahu podle trestního zákoníku
+          na drážním vozidle, dráze nebo životním prostředí.
+     Za újmu na zdraví osoby se považují MU, kdy dojde k újmě na zdraví osoby uvnitř drážního
+     vozidla nebo při nástupu/výstupu do/z drážního vozidla, resp. při pokusu o nástup/výstup
+     v souvislosti s provozováním drážní dopravy bez ohledu na to, zda bylo drážní vozidlo
+     v pohybu, či nikoliv. Za újmu na zdraví osob se považuje i případ, kdy je osoba zasažena
+     elektrickým proudem z troleje nebo napájecí kolejnice, pokud se jednalo o provozování
+     drážní dopravy
+     Vážné nehody kategorizujeme:
+     A1 – srážka drážních vozidel s následkem smrti, újmy na zdraví alespoň 5 osob nebo škody
+             ve výši nejméně 2 000 000 EUR,
+     A2 – vykolejení drážního vozidla s následkem smrti, újmy na zdraví alespoň 5 osob nebo
+             škody ve výši nejméně 2 000 000 EUR,
+     A3 – srážka drážního vozidla s překážkou v průjezdném průřezu s následkem smrti, újmy
+             na zdraví alespoň 5 osob nebo škody ve výši nejméně 2 000 000 EUR,
+     A4 – střetnutí drážního vozidla se silničním vozidlem nebo chodcem na úrovňovém křížení
+             dráhy s pozemní komunikací s následkem smrti, újmy na zdraví alespoň 5 osob nebo
+             škody ve výši nejméně 2 000 000 EUR,
+     A5 – střetnutí drážního vozidla se silničním vozidlem mimo úrovňové křížení dráhy
+             s pozemní komunikací s následkem smrti, újmy na zdraví alespoň 5 osob nebo škody
+             ve výši nejméně 2 000 000 EUR.
+3.   MU skupiny B – Nehoda – událost, jejímž následkem je smrt, újma na zdraví nebo jiná újma
+     (značná škoda).
+     Nehody kategorizujeme:
+     B1 – srážka drážních vozidel s následky menšími než u vážné nehody,
+     B2 – vykolejení drážního vozidla s následky menšími než u vážné nehody,
+     B3 – srážka drážního vozidla s překážkou v průjezdném průřezu s následky menšími než
+            u vážné nehody,
+
+                                              43
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+      B4 – střetnutí drážního vozidla se silničním vozidlem nebo chodcem na úrovňovém křížení
+            dráhy s pozemní komunikací s následky menšími než u vážné nehody,
+      B5 – střetnutí drážního vozidla se silničním vozidlem mimo úrovňové křížení dráhy
+            s pozemní komunikací s následky menšími než u vážné nehody,
+      B6 – střetnutí pohybujícího se drážního vozidla s osobou mimo úrovňové křížení dráhy
+            s pozemní komunikací mající za následek smrt nebo újmu na zdraví,
+      B7 – požár nebo exploze v drážním vozidle s následkem nejméně značné škody,
+      B8 – poškození sběrače drážního vozidla nebo trakčního vedení při vzájemném působení
+            s následkem nejméně značné škody,
+      B9 – blíže nespecifikované MU, vzniklé v souvislosti s pohybem drážního vozidla nebo
+            provozováním drážní dopravy s následkem smrti nebo újmy na zdraví,
+      B10 – blíže nespecifikované MU, vzniklé v souvislosti s pohybem drážního vozidla nebo
+            provozováním drážní dopravy s následkem nejméně značné škody.
+4.    MU skupiny C – Incident – událost, jejímž následkem je jiná újma než u vážné nehody nebo
+      nehody.
+      Incidenty kategorizujeme:
+      C1 – srážka drážních vozidel s následky menšími než u vážné nehody a nehody,
+      C2 – vykolejení DV s následky menšími než u závažné nehody a nehody,
+      C3 – srážka drážního vozidla s překážkou v průjezdném průřezu s následky menšími než
+             u vážné nehody a nehody,
+      C4 – střetnutí drážního vozidla se silničním vozidlem nebo chodcem na úrovňovém křížení
+             dráhy s pozemní komunikací s následky menšími než u vážné nehody a nehody,
+      C5 – střetnutí drážního vozidla se silničním vozidlem mimo úrovňové křížení dráhy
+             s pozemní komunikací s následky menšími než u nehody,
+      C6 – nedovolená jízda drážního vozidla za návěstidlo zakazující jízdu s následky menšími
+             než u nehody,
+      C7 – požár nebo exploze v drážním vozidle s následky menšími než u nehody,
+      C8 – poškození sběrače drážního vozidla nebo trakčního vedení při vzájemném působení
+             s následky menšími než u nehody,
+      C9 – lom kolejnice, při kterém bylo ohroženo pohybující se drážní vozidlo,
+      C10 – vybočení koleje, při kterém bylo ohroženo pohybující se drážní vozidlo,
+      C11 – lom kola nebo nápravy drážního vozidla, při kterém bylo ohroženo pohybující se
+             drážní vozidlo,
+      C12 – nezajištěná jízda drážního vozidla s následky menšími než u nehody,
+      C13 – ujetí drážního vozidla s následky menšími než u nehody,
+      C14 – jízda drážního vozidla při otevřeném přejezdu s následky menšími než u nehody,
+      C15 – roztržení vlaku osobní dopravy s následky menšími než u nehody,
+      C16 – selhání návěstních (zabezpečovacích) systémů s následky menšími než u nehody,
+      C17 – únik nebezpečné věci při její přepravě s následky menšími než u nehody,
+      C18 – ohrožení bezprostředním rizikem úniku nebezpečné věci při její přepravě s následky
+             menšími než u nehody,
+      C19 – blíže nespecifikované MU, vzniklé v souvislosti s pohybem drážního vozidla s následky
+             menšími než u nehody.
+5.    O konečném přiřazení kategorie MU ve vedené statistice rozhodne vedoucí OBŽD.
+6.    Při ohlašování vážné nehody a nehody Policii ČR je nutno do ohlašované škody a újmy na
+      zdraví osob započítat i škody a újmy na zdraví všech zúčastněných (tedy i škody na silničních
+      vozidlech a újmu na zdraví osob v silničních vozidlech, škoda třetích stran apod.).
+      Poznámka: Policii ČR se musí ohlásit i vznik nehody, při které vznikla jen značná škoda podle
+      trestního zákoníku17) (tj. 1 000 000,- Kč).
+
+
+
+17) § 138 zákona č. 40/2009 Sb., v platném znění.
+
+
+                                                    44
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      Příloha č. 6/1a
+                                     Ohlašovací rozvrh
+
+Při vzniku MU na dráze SŽ (při provozování drážní dopravy, kde šetření MU pro ČD na základě
+Smlouvy zajišťuje SŽ)
+
+
+
+
+Součástí ohlašovacího rozvrhu je přehled nejdůležitějších telefonních
+čísel, kterými jsou:
+Hasičský záchranný sbor……………………………………… 150
+Zdravotnická záchranná služba……………………………. 155
+Policie ČR……………………………………………………………. 158
+Jednotné evropské číslo tísňového volání………………. 112
+
+Pokud došlo k mimořádné události na vícekolejné trati nebo souběhu
+tratí a následky zasahují do jiné koleje, informuje zaměstnanec
+dispečera nebo výpravčího.
+Prvořadá je vlastní bezpečnost a zabránění dalším škodám.
+Jednotlivé subjekty se volají v pořadí podle důležitosti.
+
+
+
+                                            45
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      Příloha č. 6/1b
+                                     Svolávací rozvrh
+
+Při vzniku MU na dráze SŽ (při provozování drážní dopravy, kde šetření MU pro ČD na základě
+Smlouvy zajišťuje SŽ)
+
+
+
+
+                                            46
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      Příloha č. 6/2a
+                                     Ohlašovací rozvrh
+
+Při vzniku MU na dráze ČD (při provozování dráhy a drážní dopravy v obvodech OCÚ, na vlečkách
+ČD, na tratích jiných vlastníků dráhy, kde ČD provozují dráhu a drážní dopravu, apod.)
+
+
+
+
+Součástí ohlašovacího rozvrhu je přehled nejdůležitějších telefonních
+čísel, kterými jsou:
+Hasičský záchranný sbor……………………………………… 150
+Zdravotnická záchranná služba……………………………. 155
+Policie ČR……………………………………………………………. 158
+Jednotné evropské číslo tísňového volání………………. 112
+
+Pokud došlo k mimořádné události na vícekolejné trati nebo souběhu
+tratí a následky zasahují do jiné koleje, informuje zaměstnanec
+dispečera nebo výpravčího.
+Prvořadá je vlastní bezpečnost a zabránění dalším škodám.
+Jednotlivé subjekty se volají v pořadí podle důležitosti.
+
+
+
+                                             47
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      Příloha č. 6/2b
+                                     Svolávací rozvrh
+
+Při vzniku MU na dráze ČD (při provozování dráhy a drážní dopravy v obvodech OCÚ, na vlečkách
+ČD, na tratích jiných vlastníků dráhy, kde ČD provozují dráhu a drážní dopravu, apod.)
+
+
+
+
+                                             48
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                        Příloha č. 7
+                          Rozsah ohlašování mimořádných událostí
+
+   1. Dispečerské pracoviště ČD (síťový nebo regionální dispečer) neprodleně informuje
+      zaměstnance územně příslušné nehodové pohotovosti ČD (pověřenou osobu prvotním
+      šetřením) o všech mimořádných událostech.
+       V ohlášení MU se uvede datum, čas a místo vzniku MU, popis jejího průběhu a následky,
+       tj. počet usmrcených a zraněných osob, předběžný odhad škody a předpokládaná doba
+       omezení nebo zastavení drážní dopravy, jméno a kontaktní údaje ohlašovatele.
+   2. Pověřená osoba prvotním šetřením (zaměstnanec územně příslušné nehodové
+      pohotovosti ČD) v případě, že k mimořádné události v drážní dopravě došlo na dráze
+      provozované Českými dráhami, a.s., ohlásí její vznik způsobem stanoveným v článku 62
+      předpisu ČD D17 bez zbytečného odkladu na Centrální ohlašovací pracoviště Drážní
+      inspekce s nepřetržitým provozem (telefon: 736 521 001).
+   3. Síťový nebo regionální dispečer ČD po obdržení prvotní informace o vzniku MU od
+      ohlašovatele okamžitě vyrozumí:
+      a) zaměstnance územně příslušné nehodové pohotovosti ČD (pověřenou osobu
+          prvotním šetřením),
+      b) územně příslušného strojmistra,
+      c) pohotovost dispečinku ČD (která v případě vzniku vážných MU informuje tiskového
+          mluvčího ČD a vedení ČD)
+       o mimořádných událostech, kdy došlo:
+       1)  ke srážce drážních vozidel,
+       2)  k vykolejení drážního vozidla,
+       3)  ke srážce drážního vozidla s překážkou v průjezdném průřezu,
+       4)  ke střetnutí drážního vozidla se silničním vozidlem, včetně střetnutí drážního vozidla
+           s chodcem na úrovňovém křížení dráhy s pozemní komunikací,
+       5) ke střetnutí drážního vozidla se silničním vozidlem mimo úrovňové křížení dráhy
+           s pozemní komunikací,
+       6) ke střetnutí pohybujícího se drážního vozidla s osobou mimo úrovňové křížení dráhy
+           s pozemní komunikací,
+       7) k projetí návěstidla zakazujícího jízdu,
+       8) k požáru nebo explozi drážního vozidla,
+       9) k mimořádné události, která vznikla při přepravě nebezpečných věcí,
+       10) k mimořádné události týkající se i jiného provozovatele dráhy,
+       11) k mimořádné události s účastí jiného provozovatele drážní dopravy,
+       12) k ekologické havárii,
+       13) k umístění nástražných a výbušných systémů,
+       14) ke smrtelným pracovním úrazům zaměstnanců ČD nebo organizací zajišťujících
+           činnosti na dráze či zařízeních ČD,
+       15) k ostatním MU majícím za následek smrt nebo újmu na zdraví byť jediné osoby nebo
+           značnou škodu na majetku (1 000 000,- Kč), přitom skutečnost, zda k MU došlo
+           v souvislosti s pohybem drážního vozidla či nikoliv není rozhodující.
+
+
+
+
+                                              49
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     50
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                Příloha č. 8
+                                Zápis o ohledání místa mimořádné události
+                                                             (vzor)
+
+
+
+Účel ohledání: .................................. (MU – vykolejení při posunu)
+
+
+Místo: ............................................. (ŽST ............., 5. manipulační kolej)
+
+
+Datum a čas ohledání: ...................... (dne ......... od ...... do ...... hodin)
+
+
+Postup při ohledání: ......................... (od St1 směrem ke staniční budově)
+
+
+Podmínky ohledání: ......................... (umělé osvětlení, mlha, viditelnost 20 m, teplota +5 °C)
+
+
+Použité technické prostředky: ........... (pořízen videozáznam a situační nákres)
+
+
+Ohledání provedli: ............................
+
+
+Ohledání přítomni: ..........................
+
+                                                  Ohledáním zjištěno:
+
+
+A) Stav koleje a výhybek:
+
+
+B) Stav drážních vozidel:
+
+
+C) Stav zabezpečovacího zařízení:
+
+
+D) ..................
+
+
+E)   ..................
+
+
+
+
+Podpisy:
+
+
+
+
+                                                              51
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     52
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                  Příloha č. 9
+                                         Hlášenka mimořádné události
+                                                       (tiskopis/vzor)
+S tímto dokumentem je nutno nakládat v souladu s Nařízením evropského parlamentu a rady (EU) 2016/679 o ochraně fyzických osob
+v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46 ES, dále ve smyslu zákona
+č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+                             V případě nedostatku místa uveďte údaje na přiložený list papíru.
+Skupina MU:
+Datum, čas vzniku
+MU:
+Místo vzniku:     (Dráha, trať dle prohlášení o dráze, dle TTP, OŘ, PO, mezi dopravnami – ve směru jízdy vlaku,
+                  km, druh zabezpečovacího zařízení)
+
+Stručný popis MU:
+Provozovatel dráhy /
+dopravce:
+Vlakové (posunové) náležitosti:            (první vlak / druhý vlak)
+HDV č.:                                                         Provozovat
+                                                                el:
+Strojvedoucí:                                                   Dopravce:
+Obsluha vlaku:                                                  Dopravce:
+Vlak (posun) měl              metrů:                náprav:           tun:                    PB%        / /
+DV:                                                                                           SB%:
+Postrk HDV                    Provozovat                          Strojvedou                           Dopravc
+č.:                           el:                                 cí:                                  e:
+Zúčastnění: (zaměstnanci provozovatele dráhy, dopravce / ostatní, např. řidič silničního vozidla, ...)
+
+Následky: (SŽ/ dopravce / ostatní)
+Usmrceno:       -/-/-          újma        na - / - / -    ošetřeno:         -/-/-
+                               zdraví:
+Vykolejilo      -/-/-          ostatních DV: - / - / -     poškozeno         - / - / - ostatních    -/-/-
+HDV:                                                       HDV:                        DV:
+Při MU bylo poškozeno DV: (Uvést celá čísla všech poškozených a vykolejených DV, prázdný / ložený včetně
+vlastníků)
+
+Byla přepravována nebezpečná věc ? ANO – NE. Došlo k úniku nebezpečné věci ? ANO – NE
+Došlo k ohrožení bezprostředním rizikem úniku nebezpečné věci? ANO - NE
+Údaje o silničním        (RZ, majitel, pojišťovna)
+vozidle:
+Prvotní odhady škody: ČD: xxx,- Kč / ostatní: xxx,- Kč
+Zastavení a omezení drážní dopravy: (od – do, trvá, …)
+Narušení GVD:
+Prvotní šetření provedl:
+Na místě MU přítomni:
+
+Vyhodnocení příčin a okolností                       Za provozovatele dráhy:
+vzniku MU vydá:                                      Za dopravce:
+Různé:     (Počasí, orientační dechová zkouška, zastavení čela HDV a kterým stanovištěm v čele vlaku, odchylka záznamových
+           zařízení od přesného času, kdo prováděl odklizovací práce, čas ohlášení MU DI a čas svolení s obnovením provozu
+           (zahájením odklizovacích prací), zda případ šetří DI Policie České republiky a pod jakým č.j., …)
+
+Hlášenku zpracoval:                                     :                         , Email:
+
+
+                                                             53
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     54
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                       Příloha č. 10
+                                                     Komisionální zápis
+                                                           (vzor)
+
+
+
+Podle Části třetí, kapitoly II, oddílu F) předpisu ČD 1/D17 ustanovila pověřená osoba
+...................……....… komisi za účelem zjištění:
+
+*objasnění příčiny MU,
+*posouzení, zda zjištěné skutečnosti jsou v příčinné souvislosti se vznikem MU nebo mají vztah
+ k určení odpovědnosti za vznik MU,
+*výše škody z MU.
+
+
+Složení komise: (jména, příjmení a funkce, OJ SŽ, případně označení jiné složky SŽ)
+
+
+Zadání otázek: (otázky pro objasnění příčiny MU a posouzení odpovědnosti za vznik MU předloží předseda
+komise pro členy komise dle jejich odbornosti.)
+
+
+Vyjádření členů komise: (v odpovědích na otázky uvést, zda zjištěné skutečnosti jsou v souladu
+s předpisovým nebo normovým stavem, uvést citace předpisu a jejich porušení, nebo správné hodnoty
+a zjištěné odchylky. Posoudit, zda zjištěné skutečnosti jsou v příčinné souvislosti se vznikem MU nebo mají
+vztah k určení odpovědnosti.)
+
+
+Závěry jednání komise: (vypracuje předseda komise)
+
+
+
+
+V .............................. dne .............
+
+
+
+
+    *uveďte, co je předmětem posouzení
+
+
+
+
+                                                            55
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     56
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                      Příloha č. 11
+   Zápis z komisionální prohlídky technického stavu drážní vozidla (drážního zařízení)
+                                                  (vzor)
+
+
+
+Datum a předmět prohlídky: datum a označení drážního vozidla
+
+Důvod prohlídky: po MU... ze dne ....v .....
+
+Přítomni: jména a příjmení, funkce a OJ SŽ, případně složek SŽ či složek ostatních zúčastněných členů
+komise
+
+Provozně technická data drážního vozidla: rok výroby, výrobní číslo, výrobce, rok dodání, technicko-
+bezpečnostní zkouška, pořizovací hodnota, zůstatková hodnota, amortizace, data technických prohlídek
+a jednotlivé druhy periodických prohlídek (předepsaná a skutečná), vlastník nebo provozovatel drážního
+vozidla.
+
+Rozsah poškození: popis, uvést zda je součást opravitelná či nikoli. Zde možno uvádět i výsledky měření.
+
+Odhad škody: materiálové náklady, pracnost normohodin, od výsledku nutno odečíst amortizaci a případný
+materiálový výzisk.
+
+Zprovoznění: zde uvést, zda bude drážní vozidlo zrušeno, či odhad data jeho zprovoznění, způsob a místo
+provedení oprav.
+
+Závěr: uvést, zda zjištěné skutečnosti jsou v souladu s normovým stavem, nebo uvést správné hodnoty
+a odchylky. Pro zapisování naměřených hodnot lze používat tiskopisy dle předpisů SŽ, případně dopravce
+(vlastníka). Ty pak tvoří nedílnou přílohu zápisu.
+
+Prohlídka ukončena: datum a podpisy členů komise
+
+
+
+
+                                                   57
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     58
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                    Příloha č. 12
+                                              Zápis se zaměstnancem
+                                                       (tiskopis/vzor)
+S tímto dokumentem je nutno nakládat v souladu s Nařízením evropského parlamentu a rady (EU) 2016/679
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+směrnice 95/46 ES, dále ve smyslu zákona č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+
+Ve věci ………………………………………………………..............................................................................
+Sepsaný dne ....................... v .......................... hodin
+Jméno a příjmení zaměstnance ..................................................................................................
+Datum a místo narození …………………….......................................................................................
+Bydliště ……………………………………………… ....................................................................................
+Zaměstnavatel: ………………………….. .............. Funkce ……………………………………………………………….
+U ČD od roku …………………… ......................... Ve funkci od roku ..................................................
+Ve směně od ............................................... Odpočinek před směnou .......................................
+Užívané léky ……….………….……. .................... Požití alkoholu před směnou…………..……………………
+Jméno a příjmení, funkce a OJ či složka ČD zaměstnance provádějícího zápis ................................
+
+                                                          Poučení:
+Zaměstnanec je povinen podávat potřebná vysvětlení o průběhu plnění svých pracovních povinností svému
+nadřízenému, případně dalším dozorčím a kontrolním orgánům SŽ, které jsou oprávněné takové vysvětlení požadovat,
+vyjma případů, kdy se zaměstnanec v přímé souvislosti s mimořádnou událostí necítí schopen vysvětlení poskytnout.
+********************************************************************************************************************
+S ohledem na požadavky uvedené ve vyhlášce 376/2006 Sb., v platném znění, jaký byl Váš zdravotní stav
+a osobní situace (včetně působení fyzického a psychického stresu) před vznikem MU?
+Jmenovaný uvádí: (Souvislý popis události z pohledu zaměstnance. Po skončení položit doplňující
+a případné rozpory objasňující otázky).
+
+
+
+
+Na závěr vždy položit následující otázky:
+1) Chcete k uvedenému případu ještě něco dodat?
+2) Požadujete po přečtení zápisu opravy?
+
+
+Závěrečná formulace:
+Se zněním zápisu souhlasím.
+
+
+Zápis ukončen v ..........… hodin
+
+
+
+   ......................................                                        ......................................
+       podpis zaměstnance                                                             podpis zapisovatele
+
+
+Přítomni:
+
+                                                                                 ......................................
+                                                                                               podpis
+
+
+                                                             59
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     60
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                          Příloha č. 13
+                                                       Zápis o konfrontaci
+                                                                   (vzor)
+S tímto dokumentem je nutno nakládat v souladu s Nařízením evropského parlamentu a rady (EU) 2016/679
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+směrnice 95/46 ES, dále ve smyslu zákona č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+
+Sepsaný dne .…................ v …........... hodin
+Ve věci šetření mimořádné události ..........................................................................................
+Vzniklé dne ....….………... v …...…….. hodin
+Konfrontovaní:           .................................................................................................
+                       (zaměstnanec č. 1 - jméno a příjmení, narozen, funkce, OJ či jiná složka)
+                         .................................................................................................
+                       (zaměstnanec č. 2 - jméno a příjmení, narozen, funkce, OJ či jiná složka)
+Konfrontaci provádí: ...........................................................................................
+                                        (Jméno a příjmení, funkce a OJ)
+
+Poučení:
+Zaměstnanec je povinen podávat potřebná vysvětlení o průběhu plnění svých pracovních povinností svému
+nadřízenému, případně dalším dozorčím a kontrolním orgánům SŽ, které jsou oprávněné takové vysvětlení
+požadovat, vyjma případů, kdy se zaměstnanec v přímé souvislosti s mimořádnou událostí necítí schopen
+vysvětlení poskytnout.
+                                                      S konfrontací souhlasím:
+
+    …………………………………... …………………………………...
+    podpis zaměstnance. č. 1 podpis zaměstnance č. 2
+
+
+Otázka pro zaměstnance č. 1:
+Odpověď:
+Otázka pro zaměstnance č. 2:
+Odpověď:
+Další otázky:
+
+
+Na závěr vždy položit následující otázky:
+1) Chcete k uvedenému případu ještě něco dodat?
+2) Požadujete po přečtení zápisu opravy?
+
+
+Závěrečná formulace:
+Se zněním zápisu souhlasím.
+
+Konfrontace ukončena v ..........… hodin
+
+
+   ......................................          ......................................           ......................................
+   podpisy konfrontovaných                           podpis přítomné osoby                               podpis zapisovatele
+
+
+                                                                     61
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     62
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                                Příloha č. 14
+                                   Zápis o provedení ověřovacího pokusu
+                                                          (vzor)
+
+
+
+Ve věci šetření příčiny MU skupiny ........, vzniklé dne …………...... v ……….…... hodin
+v km ...,.... trati (ŽST)....................................
+
+Jméno, funkce a OJ či jiné složky zaměstnance, který pokus řídí:
+.......................................... .....................................
+
+Jména, funkce a OJ či jiné složky zaměstnanců zúčastněných při ověřovacím pokusu:
+.......................................... .....................................
+.......................................... .....................................
+.......................................... .....................................
+
+Vnější podmínky pokusu: (datum a čas započetí s pokusem, počasí, viditelnost, rozhledové poměry, …)
+
+Technické podmínky pokusu: (Zde popsat řady a čísla použitých DV, zab. zař., pracovní pomůcky, …)
+
+Účel a cíl ověřovacího pokusu: ...........................
+
+Ověřovací pokus: (Podrobný popis jednotlivých dílčích pokusů a jejich výsledek)
+
+Závěr: (vyhodnocení pokusu, návrh na další postup)
+
+Vyjádření účastníků: (zde možno uvést případný nesouhlas některého z účastníků)
+
+Ukončeno dne: .......... v ........ hodin
+
+
+Podpisy:
+
+
+
+
+                                                            63
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     64
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                            Příloha č. 15
+                                     Pověření osob šetřením MU
+
+    1. Osoby pověřené šetřením MU jsou zaměstnanci oddělení bezpečnosti železniční dopravy
+       GŘ ČD, které jsou osobami odborně způsobilými ke zjišťování příčin a okolností vzniku
+       MU při provozování dráhy a drážní dopravy pro ČD.
+       Osoby pověřené šetřením MU jsou držiteli POVĚŘENÍ představenstva společnosti ČD ,
+       aby za ni a jejím jménem jednali před drážními správními úřady a Drážní inspekcí a činili
+       za ni a jejím jménem právní úkony spojené s řízením ve věcech upravených zákonem
+       č. 266/1994 Sb., o dráhách, v platném znění.
+       Osoby pověřené šetřením MU jsou za statutárního zástupce provozovatele drážní
+       dopravy pověřeny k podpisu Vyhodnocení příčin a okolnosti vzniku ČD. Toto pověření se
+       vztahuje pouze na MU, kde jsou ČD zúčastněny a nemají žádný podíl odpovědnosti za její
+       vznik.
+       Vyhodnocení příčin a okolnosti vzniku ČD s podílem nebo s celkovou odpovědností ČD
+       podepisuje dle vedoucí oddělení bezpečnosti železniční dopravy GŘ ČD (s výjimkou MU
+       kategorie A1, A2, A3 a B1, B2, B3).
+       Vyhodnocení příčin a okolnosti vzniku ČD kategorie A1, A2, A3 a B1, B2, B3 podepisuje za
+       statutárního zástupce ČD ředitel odboru interního auditu a kontroly.
+    2. Pověřené osoby prvotním šetřením MU jsou zaměstnanci jednotlivých OŘOD / OCÚ
+       zařazení do nehodových pohotovostí, a kteří mají potřebnou odbornou způsobilost,
+       kterou je Zkouška způsobilosti pro výkon pracovní činnosti:
+        a) pověřené osoby šetřením MU,
+        b) pověřené osoby prvotním šetřením MU.
+       K vykonání zkoušky způsobilosti je požadována znalost v rozsahu předpisu ČD D 17 a ČD
+       1/D17.
+       Zkoušku způsobilosti, ve smyslu předpisu ČD Ok 2, organizuje Odbor interního auditu
+       a kontroly. Činnost předsedy zkušební komise vykonává vedoucí oddělení bezpečnosti
+       železniční dopravy.
+    3. Pro pověřené osoby a pověřené osoby prvotním šetřením MU je požadovaným
+       předpokladem a požadavkem k vykonání zkoušky způsobilosti alespoň střední vzdělání
+       s maturitní zkouškou a alespoň 5 let odborné praxe v oblasti zajišťování bezpečnosti při
+       provozování dráhy nebo drážní dopravy.
+    4. Pověřené osoby šetřením a pověřené osoby prvotním šetřením MU jsou při výkonu své
+       činnosti na místě MU označeny služebním identifikačním štítkem se jménem a číslem
+       svého pověření.
+    5. Odborně způsobilé osoby na ohlašovacím pracovišti ČD jsou zaměstnanci dispečinku
+       osobní dopravy a zaměstnanci, kteří mají potřebnou odbornou způsobilost, kterou je
+       odborná zkouška VD-09 pro výkon pracovní činnosti dispečer.
+       K vykonání odborné zkoušky je třeba znalost stanovená v rozsahu předpisu ČD 17, ČD
+       1/D17 a přílohy č. 4 předpisu OK 2.
+       Odbornou zkoušku, ve smyslu předpisu OK 2, organizuje Odbor provozu osobní dopravy.
+
+
+
+
+                                                65
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+
+                                     66
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                             Příloha č. 16
+                               Rozhodnutí o pokračování pracovní činnosti
+                                                           (vzor)
+S tímto dokumentem je nutno nakládat v souladu s Nařízením evropského parlamentu a rady (EU) 2016/679
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+směrnice 95/46 ES, dále ve smyslu zákona č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+
+
+V souladu s ust. § 9 odst. 4 písm. i) vyhlášky č. 376/2006 Sb., o zajišťování bezpečnosti
+provozování dráhy a drážní dopravy a postupech při vzniku mimořádných událostí
+na dráhách, rozhodla pověřená osoba, že:
+
+Jméno a příjmení zaměstnance ................ …………………….
+Datum a místo narození ................................................
+Bydliště ........................................................................
+Zaměstnavatel ..............................................................
+Funkce .........................................................................
+
+nebude pokračovat v pracovní činnosti.
+
+Důvodem je skutečnost, že dne ……………… v ……… hodin došlo k mimořádné události
+……….
+(uvést místo vzniku mimořádné události, stručný popis mimořádné události)
+
+
+
+
+1)*)
+V průběhu zjišťování příčin a okolností vzniku mimořádné události bylo pověřenou
+osobou zjištěno, že zaměstnanec (pan/paní*)) …………………………………… nar. …………….. je
+prokazatelně rozrušen vznikem mimořádné události a není z tohoto důvodu schopen
+dále vykonávat sjednaný druh práce a musí být vystřídán jiným zaměstnancem
+provozovatele dráhy*) provozovatele drážní dopravy*).
+Toto rozhodnutí je časově omezené do konce směny zaměstnance provozovatele
+dráhy*) – provozovatele drážní dopravy*).
+
+2)*)
+Z dosavadních výsledků a průběhu zjišťování příčin a okolností vzniku mimořádné
+události bylo pověřenou osobou zjištěno, že u zaměstnance provozovatele dráhy*) –
+provozovatele drážní dopravy*) (pan/paní*)) …………………………………… nar. …………….. lze
+důvodně předpokládat odpovědnost nebo spoluodpovědnost za vznik mimořádné
+události.**)
+
+Toto „Rozhodnutí o pokračování v pracovní činnosti“ je časově omezené do doby, než
+provozovatel dráhy*) – provozovatel drážní dopravy*) v souladu se svým vnitřním
+předpisem rozhodne o postupu ve věci zaměstnancovy odborné a v případech
+stanovených provozovatelem dráhy*) – provozovatelem drážní dopravy*) i psychické
+způsobilosti * nebo do doby uzavření dohody o změně sjednaného druhu práce*).
+
+
+                                                            67
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+Tímto rozhodnutím není předjímán výsledek vyhodnocení příčin a okolností vzniku
+mimořádné události a nezakládá odpovědnost nebo spoluodpovědnost zaměstnance za
+vznik mimořádné události.
+
+
+V ………..............……… dne ……… předal       V ……….............. dne ……… převzal
+
+
+
+
+       ……….……….……….……….……….                        ……….……….……….……….……….
+                jméno, příjmení                             jméno, příjmení
+               pověřená osoba                    pověřený zaměstnanec provozovatele
+                    (podpis)                   dráhy * – provozovatele drážní dopravy *)
+                                                              (podpis)
+
+
+
+
+                                            V………..............……… dne ……… převzal
+
+
+                                                   ……….……….……….……….……….
+                                                           jméno, příjmení
+                                                zaměstnanec provozovatele dráhy *)-
+                                                  provozovatele drážní dopravy *)
+                                                              (podpis)
+
+
+Zaměstnanec provozovatele dráhy *) – provozovatele drážní dopravy *) …………………………
+odmítl dne …………… převzetí Rozhodnutí o pokračování v pracovní činnosti doručované
+zaměstnavatelem *).
+
+
+Poznámka:
+Pokud zaměstnanec provozovatele dráhy*) – provozovatele drážní dopravy*) odmítá
+převzetí písemnosti doručované zaměstnavatelem, postupuje zaměstnavatel podle
+ustanovení § 334 odst. 3 Zákoníku práce. Tato skutečnost musí být zaznamenána.
+
+
+*) nehodící se škrtněte
+**) v případě mimořádné události s následkem smrti, újmy na zdraví nebo značné škody na
+    majetku a nejedná-li se o práce záchranné
+
+
+
+
+                                          68
+ČD 1/D 17 – Účinnost od 28.03.2022
+
+
+
+                                              Příloha č. 17
+                                Sdělení o nedodržení (neznalosti) předpisů
+                                                           (vzor)
+S tímto dokumentem je nutno nakládat v souladu s Nařízením evropského parlamentu a rady (EU) 2016/679
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+směrnice 95/46 ES, dále ve smyslu zákona č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+
+Dne ……………… v ……… hodin došlo k mimořádné události ……….
+(uvést místo vzniku mimořádné události, stručný popis mimořádné události)
+
+
+
+
+V průběhu zjišťování příčin a okolností vzniku MU bylo pověřenou osobou zjištěno, že
+zaměstnanec (pan/paní*)):
+
+Jméno a příjmení zaměstnance ................ …………………….
+Datum a místo narození ................................................
+Bydliště ........................................................................
+Zaměstnavatel ..............................................................
+Funkce .........................................................................
+
+při výkonu pracovní činnosti nedodržel interní normy či předpisy provozovatele dráhy
+a provozovatele drážní dopravy, vztahující se k jím vykonané práci.
+
+Na základě uvedených skutečností postupujte v souladu s vnitřním předpisem
+provozovatele dráhy a drážní dopravy týkajícího se odborné způsobilosti zaměstnanců.
+
+Tímto sdělením není předjímán výsledek vyhodnocení příčin a okolností vzniku MU.
+
+
+V ………..............……… dne ……… předal                          V ……….............. dne ……… převzal
+
+
+
+
+         ……….……….……….……….……….                                           ……….……….……….……….……….
+                    jméno, příjmení                                                 jméno, příjmení
+                   pověřená osoba                                     pověřený zaměstnanec provozovatele
+                         (podpis)                                   dráhy * – provozovatele drážní dopravy *)
+                                                                                      (podpis)
+
+
+
+
+*) nehodící se škrtněte
+
+
+
+
+                                                            69
+
