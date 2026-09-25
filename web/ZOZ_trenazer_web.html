@@ -740,6 +740,53 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .zn-ok{color:var(--ok)}
 .zn-miss{color:var(--bad);text-decoration:underline wavy;text-underline-offset:3px}
 .zn-got{background:var(--panel2);border-radius:8px;padding:8px 12px;font-size:14.5px}
+/* posunová pomůcka */
+.ps-hint{background:var(--accent-soft);border-radius:10px;padding:10px 12px;margin:0 0 10px}
+.ps-wrap{overflow-x:auto;background:var(--panel2);border-radius:12px;padding:6px;-webkit-overflow-scrolling:touch}
+.ps-svg{display:block;width:100%;min-width:680px;height:auto}
+.ps-u{fill:none;stroke:var(--ink3);stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.ps-u.tr{stroke-dasharray:8 6}
+.ps-u.k{stroke:var(--ink2);stroke-width:4.5}
+.ps-u.on{stroke:#f08a00;stroke-width:7}
+.ps-u.from{stroke:var(--ok);stroke-width:8}
+.ps-u.to{stroke:var(--accent);stroke-width:8}
+.ps-hit{fill:none;stroke:transparent;stroke-width:26;cursor:pointer;pointer-events:stroke}
+.ps-kl{font:700 13px var(--mono);fill:var(--ink);text-anchor:middle;cursor:pointer;paint-order:stroke;stroke:var(--panel2);stroke-width:4px}
+.ps-kl.from{fill:var(--ok)}.ps-kl.to{fill:var(--accent)}
+.ps-v{fill:var(--panel);stroke:var(--ink2);stroke-width:1.5}
+.ps-vc{font:10px var(--mono);fill:var(--ink3);text-anchor:middle}
+.ps-z{fill:var(--bad)}
+.ps-tr{font:italic 11px var(--sans);fill:var(--ink3)}
+.ps-n line{stroke:var(--ink3);stroke-width:1.2}
+.ps-n text{font:600 10.5px var(--mono);fill:var(--ink2)}
+.ps-n.se rect{fill:#2f6fd6;stroke:#fff;stroke-width:1}
+.ps-n.hl circle{fill:#333;stroke:#fff;stroke-width:1}
+.ps-n.on text{fill:#f08a00;font-weight:800}
+.ps-n.on rect,.ps-n.on circle{stroke:#f08a00;stroke-width:2.5}
+.ps-leg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--ink2);margin:8px 0}
+.ps-leg i{display:inline-block;width:18px;height:5px;border-radius:3px;margin-right:5px;vertical-align:2px}
+.ps-leg .lf{background:var(--ok)}.ps-leg .lt{background:var(--accent)}.ps-leg .lr{background:#f08a00}
+.ps-leg b{display:inline-block;width:9px;height:9px;margin-right:5px;vertical-align:-1px}
+.ps-leg .lse{background:#2f6fd6}.ps-leg .lhl{background:#333;border-radius:50%}
+.ps-sel{display:flex;gap:12px;flex-wrap:wrap;margin:6px 0 10px}
+.ps-sel label,.ps-fg label{display:flex;flex-direction:column;gap:3px;font-size:12.5px;color:var(--ink2)}
+.ps-sel select,.ps-fg select,.ps-fg input{font:inherit;font-size:15px;padding:8px 10px;border:1.5px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-width:150px}
+.ps-f{border:1px solid var(--line2);border-radius:10px;padding:8px 12px;margin:8px 0}
+.ps-f summary{cursor:pointer;font-weight:600;color:var(--accent)}
+.ps-fg{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:10px 0}
+.ps-dlg{display:flex;flex-direction:column;gap:8px}
+.ps-l{display:flex;gap:10px;align-items:flex-start;border-radius:12px;padding:10px 12px}
+.ps-l.ty{background:var(--ok-soft)}
+.ps-l.on{background:var(--panel2)}
+.ps-w{flex:0 0 66px;font:700 11px var(--mono);text-transform:uppercase;color:var(--ink3);padding-top:4px}
+.ps-l.ty .ps-t{font-size:17.5px;font-weight:600;line-height:1.45}
+.ps-t small{display:block;color:var(--ink3);font-size:12px;font-weight:400}
+.ps-rt{margin:6px 0 12px;padding-left:22px;display:flex;flex-direction:column;gap:6px}
+.ps-rt li.nav{display:list-item}
+.ps-rt li.nav span{vertical-align:middle}
+.ps-ni{height:44px;vertical-align:middle;margin-right:8px;background:#fff;border-radius:4px;padding:2px}
+.ps-rt li.uv{color:var(--warn);font-weight:600}
+.ps-rt li.vy{color:var(--ink3);font-size:13.5px}
 .kr-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;z-index:50;max-width:90vw}
 .refresh-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
 .optstat{margin-top:12px;padding:10px 12px;background:var(--panel2);border-radius:8px}
@@ -979,6 +1026,11 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
   <div id="pl-root"></div>
 </section>
 
+<!-- POSUNOVÁ POMŮCKA -->
+<section class="view" id="view-posun" hidden>
+  <div id="ps-root"></div>
+</section>
+
 <!-- NÁVĚSTNÍ ATLAS -->
 <section class="view" id="view-navesti" hidden>
   <div id="nv-root"></div>
@@ -1146,7 +1198,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 04:10";
+const BUILD = "26.09.2026 05:30";
 </script>
 <script>
 (function(){
@@ -2617,6 +2669,181 @@ $('#zn-root').addEventListener('click',e=>{const b=e.target.closest('[data-zn]')
 $('#zn-root').addEventListener('change',e=>{if(e.target.id==='zn-ja'){ZNT.ja=e.target.checked;renderZneni()}});
 document.addEventListener('keydown',e=>{if($('#view-zneni').hidden||e.target.closest('textarea,input'))return;if(e.key==='Enter'&&ZNT.res){e.preventDefault();znAct('next')}});
 
+/* =================== POSUNOVÁ POMŮCKA =================== */
+/* Plánky stanic jsou v web/posun.json (formát popisuje web/POSUN_FORMAT.md). Trasa se hledá po
+   grafu kolejí: výhybkou se jede jen z kmene do větve nebo z větve do kmene, úvrať (změna směru)
+   jen na koleji s "uvrat": true. Posunový díl stojí/obrací uprostřed koleje. */
+const PS={data:null,busy:null,err:'',st:null,from:null,to:null,dir:null};
+let PF={dil:'posunový díl od vlaku',cislo:'',dopr:'České dráhy',prij:'',ceta:false,zavisla:true,obsadit:false};
+try{Object.assign(PF,JSON.parse(localStorage.getItem('zoz-posun-v1')||'{}'))}catch(e){}
+const pfSave=()=>{try{localStorage.setItem('zoz-posun-v1',JSON.stringify(PF))}catch(e){}};
+function psLoad(){
+  if(PS.data||PS.busy)return PS.busy||Promise.resolve(PS.data);
+  PS.busy=(async()=>{let d=null;
+    try{const r=await fetch('posun.json',{cache:'no-cache'});if(!r.ok)throw new Error(r.status);d=await r.json();IDB.set('posun',d)}
+    catch(e){d=await IDB.get('posun');if(!d)PS.err='Plánky stanic se nepodařilo stáhnout. Otevři pomůcku jednou s připojením, pak půjde i bez signálu.'}
+    PS.data=d;PS.busy=null;return d})();
+  return PS.busy;
+}
+const psSt=()=>PS.data&&PS.data.stanice.find(s=>s.id===PS.st);
+/* hledání trasy: Dijkstra nad stavy (úsek, směr); úvrať je drahá, ať se volí jen když je nutná */
+function psRoute(S,fromK,toK){
+  const U=Object.fromEntries(S.useky.map(u=>[u.id,u])),at={};
+  S.useky.forEach(u=>{(at[u.a]=at[u.a]||[]).push(u.id);(at[u.b]=at[u.b]||[]).push(u.id)});
+  const kolejU=k=>S.useky.filter(u=>u.kolej===k).map(u=>u.id);
+  const end=(u,d)=>d==='ab'?U[u].b:U[u].a;
+  const next=(u,d)=>{const n=end(u,d),N=S.uzly[n]||{},segs=(at[n]||[]).filter(x=>x!==u);
+    if(N.typ==='vyhybka')return (u===N.kmen?segs.filter(x=>x!==N.kmen):[N.kmen]).map(x=>[x,U[x].a===n?'ab':'ba']);
+    return segs.map(x=>[x,U[x].a===n?'ab':'ba'])};
+  const canRev=u=>{const k=U[u].kolej;return k&&S.koleje[k]&&S.koleje[k].uvrat!==false};
+  const starts=kolejU(fromK),goal=new Set(kolejU(toK));
+  const dist=new Map(),prev=new Map(),Q=[];
+  const push=(k,c,p)=>{if(dist.has(k)&&dist.get(k)<=c)return;dist.set(k,c);prev.set(k,p);Q.push([c,k])};
+  starts.forEach(u=>{push(u+'|ab',0,null);push(u+'|ba',0,null)});
+  let best=null;
+  while(Q.length){Q.sort((a,b)=>a[0]-b[0]);const [c,k]=Q.shift();if(c>dist.get(k))continue;
+    const [u,d]=k.split('|');
+    if(goal.has(u)&&prev.get(k)!==null){best=k;break}
+    if(U[u].trat&&prev.get(k)!==null)continue;   // na trať za vjezdové návěstidlo se posun nevede
+    for(const [x,dx] of next(u,d))push(x+'|'+dx,c+1,k);
+    if(canRev(u)&&prev.get(k)!==null&&!goal.has(u))push(u+'|'+(d==='ab'?'ba':'ab'),c+50,k);
+  }
+  if(!best)return null;
+  const path=[];for(let k=best;k;k=prev.get(k))path.unshift(k.split('|'));
+  // krok = [úsek, směr, druh: start | projet | uvrat | cil]
+  const steps=[];path.forEach(([u,d],i)=>{
+    if(i===0){steps.push({u,d,t:'start'});return}
+    if(path[i-1][0]===u){steps[steps.length-1].t=steps[steps.length-1].t==='start'?'start':'uvrat';steps.push({u,d,t:'poUvrati'});return}
+    steps.push({u,d,t:i===path.length-1?'cil':'projet'})});
+  // návěstidla a výhybky v pořadí jízdy
+  const inPart=(s,from,to)=>{const lo=Math.min(from,to),hi=Math.max(from,to);return s.pos>=lo&&s.pos<=hi};
+  const out=[];let lastRev=false;
+  steps.forEach((st,i)=>{
+    const ab=st.d==='ab',nextSt=steps[i+1];
+    let from=ab?0:1,to=ab?1:0;
+    if(st.t==='start'||st.t==='poUvrati')from=.5;
+    if(st.t==='cil'||(nextSt&&nextSt.t==='poUvrati'))to=.5;
+    const sg=S.navestidla.filter(n=>n.usek===st.u&&n.smer===st.d&&inPart(n,from,to)).sort((a,b)=>ab?a.pos-b.pos:b.pos-a.pos);
+    sg.forEach(n=>out.push({k:'nav',n}));
+    if(nextSt&&nextSt.t==='poUvrati'){out.push({k:'uvrat',kolej:S.useky.find(x=>x.id===st.u).kolej});return}
+    if(to!==.5){const n=end(st.u,st.d),N=S.uzly[n];if(N&&N.typ==='vyhybka')out.push({k:'vyh',c:N.c})}
+  });
+  // po sobě jdoucí výhybky do jednoho řádku
+  const out2=[];out.forEach(x=>{const l=out2[out2.length-1];if(x.k==='vyh'&&l&&l.k==='vyh')l.c+=', '+x.c;else out2.push({...x})});
+  return {steps,out:out2,uvrat:out2.filter(x=>x.k==='uvrat').length};
+}
+const PS_NAVEST={odjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',vjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',cestove:'Posun dovolen na hlavním návěstidle (bílé světlo)',seradovaci:'Posun dovolen (bílé světlo)'};
+function psVeta(S,R){
+  const K=S.koleje,f=K[PS.from],t=K[PS.to];
+  const dil=[PF.dil,PF.cislo].filter(Boolean).join(' ').trim()||'posunového dílu';
+  // 2. pád pro volací značku „strojvedoucí …“
+  const dilGen=dil.replace(/^posunový díl/i,'posunového dílu').replace(/^samostatné hnací vozidlo/i,'samostatného hnacího vozidla').replace(/^záloha/i,'zálohy').replace(/^PMD/,'PMD');
+  const uv=R&&R.uvrat?R.out.filter(x=>x.k==='uvrat').map(x=>K[x.kolej]?'přes '+K[x.kolej].acc:'').filter(Boolean):[];
+  const zadost=[`${PF.dopr||'(dopravce)'}, strojvedoucí ${PF.prij||'(příjmení)'}.`,
+    `Žádám o souhlas k posunu${PF.ceta?' s posunovou četou':' bez posunové čety'} ${f.z||(/^(s|z|š|ž|dr|tř|čt|vš|kd|mn)/i.test(f.gen)?'ze':'z')} ${f.gen} na ${t.acc}${uv.length?' '+uv.join(' a ')+' s úvratí':''}.`,
+    S.elektrizovana?(PF.zavisla?'Posun s vozidly závislé trakce.':'Posun s vozidly nezávislé trakce.'):'',
+    PF.obsadit?`Po posunu vozidla odstavím ${t.loc}.`:'','Příjem.'].filter(Boolean).join(' ');
+  return [
+    {kdo:'ty',t:`${S.vypravci}, zde je strojvedoucí ${dilGen} ${f.loc} ${S.v}.`},
+    {kdo:'výpravčí',t:`${S.vypravci}.`,pozn:'nebo „Příjem.“ – spojení je navázané'},
+    {kdo:'ty',t:zadost},
+    {kdo:'výpravčí',t:'Udělí souhlas k posunu – návěstí Posun dovolen, ústně nebo telekomunikačním zařízením (D1 čl. 236).'},
+    {kdo:'ty',t:'Pokyn zopakuješ a potvrdíš: „Rozumím.“ Hovor ukončí kterýkoliv z vás: „Konec.“ – „Rozumím. Konec.“'}];
+}
+function psSvg(S,R){
+  const [W,H]=S.rozmer,sel=new Set((R?R.steps:[]).map(s=>s.u));
+  const pl=b=>b.map(p=>p.join(',')).join(' ');
+  const K=u=>u.kolej;
+  let g='';
+  S.useky.forEach(u=>{const k=K(u),on=sel.has(u.id),cls=['ps-u',u.trat?'tr':'',k?'k':'',on?'on':'',k===PS.from?'from':'',k===PS.to?'to':''].join(' ');
+    g+=`<polyline class="${cls}" points="${pl(u.body)}"/>`;
+    if(k)g+=`<polyline class="ps-hit" data-psk="${esc(k)}" points="${pl(u.body)}"/>`});
+  // popisky kolejí
+  const seen=new Set();S.useky.forEach(u=>{const k=K(u);if(!k||seen.has(k))return;seen.add(k);const b=u.body,m=b[Math.floor((b.length-1)/2)],n=b[Math.ceil((b.length-1)/2)];
+    const x=(m[0]+n[0])/2,y=(m[1]+n[1])/2;g+=`<text class="ps-kl${k===PS.from?' from':''}${k===PS.to?' to':''}" x="${x}" y="${y-7}" data-psk="${esc(k)}">${esc(S.koleje[k]&&S.koleje[k].nazev.length<=6?S.koleje[k].nazev:k)}</text>`});
+  Object.entries(S.uzly).forEach(([id,n])=>{
+    if(n.typ==='vyhybka')g+=`<circle class="ps-v" cx="${n.x}" cy="${n.y}" r="3.5"/><text class="ps-vc" x="${n.x}" y="${n.y+15}">${esc(n.c)}</text>`;
+    else if(n.typ==='zarazedlo')g+=`<rect class="ps-z" x="${n.x-2}" y="${n.y-7}" width="4" height="14"/>`;
+    else if(n.typ==='trat')g+=`<text class="ps-tr" x="${n.x<W/2?n.x+4:n.x-4}" y="${n.y+22}" text-anchor="${n.x<W/2?'start':'end'}">${esc(n.popis||'trať')}</text>`});
+  const passed=new Set((R?R.out:[]).filter(x=>x.k==='nav').map(x=>x.n.id));
+  S.navestidla.forEach(n=>{const u=S.useky.find(x=>x.id===n.usek);if(!u)return;
+    const p=psAt(u.body,n.pos),side=n.smer==='ab'?1:-1,ox=p[0],oy=p[1]+(n.smer==='ab'?11:-11);
+    const cls='ps-n '+(n.typ==='seradovaci'?'se':'hl')+(passed.has(n.id)?' on':'');
+    g+=`<g class="${cls}"><line x1="${ox}" y1="${p[1]}" x2="${ox}" y2="${oy}"/>${n.typ==='seradovaci'?`<rect x="${ox-4}" y="${oy-4}" width="8" height="8"/>`:`<circle cx="${ox}" cy="${oy}" r="4.5"/>`}
+      <text x="${ox+7*side}" y="${oy+4}" text-anchor="${side>0?'start':'end'}">${esc(n.id)}</text></g>`});
+  return `<svg class="ps-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Plánek stanice ${esc(S.nazev)}">${g}</svg>`;
+}
+function psAt(b,t){   // bod v poměru t po délce lomené čáry
+  const L=[];let tot=0;for(let i=1;i<b.length;i++){const d=Math.hypot(b[i][0]-b[i-1][0],b[i][1]-b[i-1][1]);L.push(d);tot+=d}
+  let r=t*tot;for(let i=1;i<b.length;i++){if(r<=L[i-1]){const f=L[i-1]?r/L[i-1]:0;return [b[i-1][0]+(b[i][0]-b[i-1][0])*f,b[i-1][1]+(b[i][1]-b[i-1][1])*f]}r-=L[i-1]}
+  return b[b.length-1];
+}
+function psNavImg(typ){   // obrázek návěsti Posun dovolen z návěstního atlasu, je-li stažený
+  if(!NV.data)return '';const n=NV.data.navesti.find(x=>hNorm(x.nazev)===(typ==='seradovaci'?'posun dovolen':'posun dovolen')&&(typ==='seradovaci'?x.cl===220:x.cl===221))||NV.data.navesti.find(x=>hNorm(x.nazev)==='posun dovolen');
+  return n?`<img class="ps-ni" src="${n.img[0]}" alt="Posun dovolen">`:'';
+}
+function renderPosun(){
+  const root=$('#ps-root');if(!root)return;
+  if(!PS.data){root.innerHTML=`<div class="setup"><h2>Posunová pomůcka</h2><p class="empty">${PS.err?esc(PS.err):'Načítám plánky…'}</p></div>`;
+    if(!PS.err)psLoad().then(()=>{if(!$('#view-posun').hidden)renderPosun()});return}
+  if(!NV.data)nvLoad().then(()=>{if(!$('#view-posun').hidden&&PS.to)renderPosun()});
+  const S=psSt();
+  if(!S){root.innerHTML=`<div class="setup"><h2>Posunová pomůcka <span class="beta">BETA</span></h2>
+      <p class="hint">Vyber stanici, klepni na kolej, kde stojíš, a na kolej, kam chceš. Pomůcka sestaví, co řekneš výpravčímu, a ukáže, kolem kterých návěstidel pojedeš a kde je úvrať.</p>
+      <div class="kr-grid">${PS.data.stanice.map(s=>`<button class="rada" data-psst="${esc(s.id)}"><b>${esc(s.nazev)}</b><small>${s.ukazka?'ukázka – vymyšlená stanice':esc(s.zdroj||'')}</small></button>`).join('')}</div></div>`;return}
+  const R=PS.from&&PS.to&&PS.from!==PS.to?psRoute(S,PS.from,PS.to):null;
+  const K=S.koleje;
+  const hint=!PS.from?'1. Klepni na kolej, <b>kde stojíš</b>.':!PS.to?`Stojíš: <b>${esc(K[PS.from].nazev)}</b>. 2. Klepni na kolej, <b>kam chceš posunovat</b>.`:'';
+  let h=`<div class="kr-top"><button class="btn small" data-psact="st">← Stanice</button><b>${esc(S.nazev)}</b>${S.ukazka?'<span class="chip zn-vz">ukázka</span>':''}
+    ${PS.from||PS.to?'<button class="btn small ghost" data-psact="reset">Začít znovu</button>':''}${PS.from&&PS.to?'<button class="btn small ghost" data-psact="swap">⇄ Prohodit</button>':''}</div>
+    <div class="setup ps">${hint?`<p class="ps-hint">${hint}</p>`:''}
+    <div class="ps-wrap">${psSvg(S,R)}</div>
+    <div class="ps-leg"><span><i class="lf"></i>stojím</span><span><i class="lt"></i>cíl</span><span><i class="lr"></i>trasa</span><span><b class="lse"></b>seřaďovací</span><span><b class="lhl"></b>hlavní</span></div>
+    <div class="ps-sel"><label>Stojím <select id="ps-from"><option value="">–</option>${Object.entries(K).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.from?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label>
+      <label>Cíl <select id="ps-to"><option value="">–</option>${Object.entries(K).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.to?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label></div>`;
+  if(PS.from&&PS.to){
+    if(!R)h+=`<p class="empty">Mezi těmito kolejemi jsem v plánku nenašel posunovou cestu.</p>`;
+    else{
+      const V=psVeta(S,R);
+      h+=`<details class="ps-f" ${PF.prij?'':'open'}><summary>Údaje do hlášení</summary>
+        <div class="ps-fg"><label>Posunový díl<select id="pf-dil">${['posunový díl od vlaku','posunový díl','záloha','samostatné hnací vozidlo','PMD'].map(x=>`<option ${PF.dil===x?'selected':''}>${x}</option>`).join('')}</select></label>
+        <label>Číslo / označení<input id="pf-cislo" value="${esc(PF.cislo)}" placeholder="např. 24503"></label>
+        <label>Dopravce<input id="pf-dopr" value="${esc(PF.dopr)}"></label>
+        <label>Příjmení<input id="pf-prij" value="${esc(PF.prij)}" placeholder="tvoje příjmení"></label></div>
+        <label class="check"><input type="checkbox" id="pf-ceta" ${PF.ceta?'checked':''}> s posunovou četou</label>
+        ${S.elektrizovana?`<label class="check"><input type="checkbox" id="pf-zav" ${PF.zavisla?'checked':''}> vozidla závislé trakce</label>`:''}
+        <label class="check"><input type="checkbox" id="pf-obs" ${PF.obsadit?'checked':''}> po posunu cílovou kolej obsadím (odstavím)</label></details>
+        <h3 class="subh">Co řekneš</h3><div class="ps-dlg">${V.map(x=>`<div class="ps-l ${x.kdo==='ty'?'ty':'on'}"><span class="ps-w">${x.kdo==='ty'?'ty':esc(x.kdo)}</span><span class="ps-t">${x.kdo==='ty'&&!/^Pokyn/.test(x.t)?`„${esc(x.t)}“`:esc(x.t)}${x.pozn?`<small>${esc(x.pozn)}</small>`:''}</span></div>`).join('')}</div>
+        <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button></div>
+        <h3 class="subh">Trasa</h3><ol class="ps-rt"><li><b>Start:</b> ${esc(K[PS.from].nazev)}</li>
+        ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b> nebo jiný souhlas k posunu</span></li>`
+          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${esc(K[x.kolej]?K[x.kolej].loc:'')} – zastav, změň směr, pokračuj zpět</li>`
+          :`<li class="vy">přes ${x.c.includes(',')?'výhybky':'výhybku'} č. ${esc(x.c)}</li>`).join('')}
+        <li><b>Cíl:</b> ${esc(K[PS.to].nazev)}</li></ol>
+        <p class="hint">Žádost je sestavená podle SŽ D1 čl. 229 odst. (5) (co musíš výpravčímu oznámit) a navazování spojení podle SŽ Z11 – slovní podoba žádosti není závazné znění. Rozhodují ZDD stanice, pokyny výpravčího a skutečné návěsti; posun vždy podle rozhledových poměrů (D1 čl. 237).</p>`;
+    }
+  }
+  h+=`${S.zdroj?`<p class="hint">Plánek: ${esc(S.zdroj)}</p>`:''}</div>`;
+  root.innerHTML=h;
+  const on=(id,fn)=>{const e=$(id);if(e)e.onchange=e.oninput=fn};
+  on('#ps-from',e=>{PS.from=e.target.value||null;renderPosun()});on('#ps-to',e=>{PS.to=e.target.value||null;renderPosun()});
+  const upd=()=>{PF.dil=$('#pf-dil').value;PF.cislo=$('#pf-cislo').value.trim();PF.dopr=$('#pf-dopr').value.trim();PF.prij=$('#pf-prij').value.trim();PF.ceta=$('#pf-ceta').checked;
+    const z=$('#pf-zav');if(z)PF.zavisla=z.checked;PF.obsadit=$('#pf-obs').checked;pfSave();
+    const V=psVeta(S,R);$$('.ps-dlg .ps-l.ty .ps-t').forEach((el,i)=>{const ty=V.filter(x=>x.kdo==='ty')[i];if(ty&&!/^Pokyn/.test(ty.t))el.textContent=`„${ty.t}“`})};
+  ['#pf-dil','#pf-cislo','#pf-dopr','#pf-prij','#pf-ceta','#pf-zav','#pf-obs'].forEach(id=>{const e=$(id);if(e)e.addEventListener(e.tagName==='INPUT'&&e.type!=='checkbox'?'input':'change',upd)});
+}
+$('#ps-root').addEventListener('click',e=>{
+  const s=e.target.closest('[data-psst]');if(s){PS.st=s.dataset.psst;PS.from=PS.to=null;renderPosun();window.scrollTo(0,0);return}
+  const k=e.target.closest('[data-psk]');if(k){const id=k.dataset.psk;
+    if(!PS.from||(PS.from&&PS.to))PS.from=id,PS.to=null;else if(id!==PS.from)PS.to=id;renderPosun();return}
+  const a=e.target.closest('[data-psact]');if(!a)return;const S=psSt();
+  if(a.dataset.psact==='st'){PS.st=null;renderPosun()}
+  else if(a.dataset.psact==='reset'){PS.from=PS.to=null;renderPosun()}
+  else if(a.dataset.psact==='swap'){[PS.from,PS.to]=[PS.to,PS.from];renderPosun()}
+  else if(a.dataset.psact==='read'){const R=psRoute(S,PS.from,PS.to);const t=psVeta(S,R).filter(x=>x.kdo==='ty').slice(0,2).map(x=>x.t).join(' … ');
+    try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='cs-CZ';const v=kbVoice();if(v)u.voice=v;speechSynthesis.speak(u)}catch(err){toast('Předčítání tenhle prohlížeč neumí.')}}
+});
+
 /* =================== PŘÍPRAVA DO ZOZ: plán a chytré opakování =================== */
 /* Každá otázka je v „přihrádce“ 0–5. Správná odpověď ji posune výš a vrátí se později
    (za 1, 3, 7, 14, 30 dní), chyba ji vrátí na začátek a přijde zítra znovu. Nové otázky se
@@ -3241,23 +3468,24 @@ const ICONS={
   gsmr:'<path d="M12 21v-9"/><circle cx="12" cy="10" r="2"/><path d="M8.5 13.5a5 5 0 0 1 0-7M15.5 6.5a5 5 0 0 1 0 7M5.6 16.4a9 9 0 0 1 0-12.8M18.4 3.6a9 9 0 0 1 0 12.8"/>',
   navesti:'<rect x="8" y="2.5" width="8" height="14" rx="2.5"/><circle cx="12" cy="6.5" r="1.6"/><circle cx="12" cy="12" r="1.6"/><path d="M12 16.5V21.5M8.5 21.5h7"/>',
   zneni:'<path d="M4 5.5h16v10H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/>',
+  posun:'<path d="M3 17h18M3 12h7l3-5h8"/><circle cx="7" cy="20" r="1.3"/><circle cx="17" cy="20" r="1.3"/>',
   hledat:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5l5 5"/>',
   vice:'<circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/>'
 };
 const ico=k=>`<svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[k]||''}</svg>`;
 function buildTabs(adm){
-  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),['hledat','Hledat „Co teď?“','Hledat'],['gsmr','GSM-R zkrácené volby','GSM-R'],['navesti','Návěstní atlas','Návěsti'],['zneni','Závazná slovní znění','Znění'],...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
+  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),['hledat','Hledat „Co teď?“','Hledat'],['gsmr','GSM-R zkrácené volby','GSM-R'],['navesti','Návěstní atlas','Návěsti'],['posun','Posunová pomůcka','Posun'],['zneni','Závazná slovní znění','Znění'],...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
   const admin=adm?[['prehled','Přehled'],['admin','Admin']]:[];
   const all=[...main,...admin];
   // na mobilu se vejde 5 položek; zbytek schovat pod „Více“
   const nPrim=all.length<=5?all.length:4;
   const html=all.map(([v,l,short],i)=>{const cls=['tab'];if(i>=main.length)cls.push('adm');if(i===main.length)cls.push('sep');if(i>=nPrim)cls.push('sec');
-    return `<button class="${cls.join(' ')}" role="tab" data-view="${v}" aria-selected="false" title="${l}">${ico(v)}${v==='krize'||v==='smenar'?'<span class="beta tabbeta">BETA</span>':''}<span class="lbl">${short?`<span class="lbl-long">${l}</span><span class="lbl-short">${short}</span>`:l}</span></button>`}).join('');
+    return `<button class="${cls.join(' ')}" role="tab" data-view="${v}" aria-selected="false" title="${l}">${ico(v)}${v==='krize'||v==='smenar'||v==='posun'?'<span class="beta tabbeta">BETA</span>':''}<span class="lbl">${short?`<span class="lbl-long">${l}</span><span class="lbl-short">${short}</span>`:l}</span></button>`}).join('');
   const rest=all.slice(nPrim);
   $('#tabs').innerHTML=html+(rest.length?`<button class="tab more" id="tab-more" aria-haspopup="true" aria-expanded="false">${ico('vice')}<span class="lbl">Více</span></button>`:'');
   // krátký popisek „Krize“ na úzkém displeji
   let sheet=$('#more-sheet');if(!sheet){sheet=document.createElement('div');sheet.id='more-sheet';sheet.className='more-sheet';document.body.appendChild(sheet)}
-  sheet.innerHTML=rest.map(([v,l])=>`<button data-view="${v}" aria-selected="false">${ico(v)}${l}${v==='krize'||v==='smenar'?' <span class="beta">BETA</span>':''}</button>`).join('');
+  sheet.innerHTML=rest.map(([v,l])=>`<button data-view="${v}" aria-selected="false">${ico(v)}${l}${v==='krize'||v==='smenar'||v==='posun'?' <span class="beta">BETA</span>':''}</button>`).join('');
   $$('#tabs .tab[data-view], #more-sheet [data-view]').forEach(t=>t.addEventListener('click',()=>{sheet.classList.remove('open');showView(t.dataset.view)}));
   const mb=$('#tab-more');if(mb)mb.addEventListener('click',e=>{e.stopPropagation();const o=sheet.classList.toggle('open');mb.setAttribute('aria-expanded',String(o))});
 }
@@ -3290,6 +3518,7 @@ function showView(v){
     if(v==='hledat')renderHledat();
     if(v==='gsmr')renderGsmr();
     if(v==='navesti')renderNavesti();
+    if(v==='posun')renderPosun();
     if(v==='zneni')renderZneni();
     if(v==='plan'){markTab('zoz');renderPlan()}
   }

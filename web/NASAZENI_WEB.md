@@ -1,5 +1,17 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – Posunová pomůcka (BETA, zatím jen ukázková stanice)
+
+Nahraj `index.html`, `sw.js` a **nový soubor `posun.json`** (plánky stanic) z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v26`.
+
+- **Posunová pomůcka** (záložka Posun, na mobilu pod „Více“): vybereš stanici, v plánku klepneš na kolej, kde stojíš, a na kolej, kam chceš. Pomůcka:
+  - sestaví, **co řekneš výpravčímu** – ohlášení („Výpravčí …, zde je strojvedoucí posunového dílu od vlaku … na čtvrté koleji v …“) a žádost o souhlas k posunu s náležitostmi podle **D1 čl. 229 odst. (5)** (dopravce, příjmení, s/bez posunové čety, závislá trakce, odstavení na cílové koleji), navazování spojení podle **Z11**; umí to i přečíst nahlas;
+  - ukáže **trasu**: kolem kterých návěstidel pojedeš (a že potřebuješ Posun dovolen – bílé světlo, s obrázkem z návěstního atlasu), přes které výhybky a **kde je úvrať**.
+- Údaje (číslo vlaku, dopravce, příjmení) si pamatuje.
+- Zatím je v ní jen **vymyšlená „Ukázková Lhota“**. Skutečné stanice se doplňují do `posun.json` podle `web/POSUN_FORMAT.md` – kód se nemění.
+
+---
+
 ## ⬆ Aktualizace – Návěstní atlas a trenažér závazných slovních znění
 
 Nahraj `index.html`, `sw.js` a **nový soubor `navesti.json`** (1,8 MB, obrázky návěstí) z `na_web.zip` – všechny tři vedle sebe do kořene webu. Databáze se nemění. Offline režim je `shell-zoz-v25`.
