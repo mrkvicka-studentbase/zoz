@@ -1,5 +1,18 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – kabinový režim, hledání „Co teď?“, plán přípravy do ZOZ
+
+1. **SQL editor → `cast7_plan.sql` → Run** (přidá k profilu sloupec pro plán – ať platí na mobilu i na počítači; bez něj plán funguje jen v zařízení).
+2. Nahraj `index.html` a `sw.js` z `na_web.zip` (offline režim `shell-zoz-v24`).
+
+- **Kabinový režim krizových postupů:** v postupu tlačítko **☾ Kabinový režim** – jeden úkon přes celou obrazovku, velké **✓ HOTOVO** / **ANO** / **NE**, noční červené barvy (☀/☾ přepne na denní), **A− / A+** velikost písma, **🔊** předčítání česky, displej nezhasíná, **↶ Zpět** vrátí poslední úkon. V seznamu poruch jde zaškrtnout „Otevírat postupy rovnou v kabinovém režimu“.
+- **Bez signálu:** u výběru řady je vidět „Připraveno na jízdu bez signálu“ – postupy i fotky k nim se uloží do telefonu (fotky se stáhnou samy). Aplikace se bez signálu už **nepřepne na přihlášení** – jede z uloženého účtu, profilu a statistik a po návratu signálu je obnoví.
+- **Hledat „Co teď?“** (lupa v hlavičce, na počítači klávesa `/`): napíšeš, co se děje, a hned vidíš otázky, zkrácené odpovědi, články předpisů i krizové postupy tvých řad. Nevadí chybějící háčky, jiný pád ani překlep; zkratky HV, PN, VZ, MU, GSM-R. Funguje i bez signálu.
+- **Příprava do ZOZ** (nahoře v záložce ZOZ): nastavíš datum ZOZ a kolik minut denně. Aplikace každý den připraví **denní dávku** – otázky, které je potřeba zopakovat (správně → vrátí se za 1, 3, 7, 14, 30 dní; chyba → zítra znovu) a k nim nové tak, aby bylo všechno probrané týden před ZOZ. Ukazuje odpočet, **připravenost v %** (předpisy / lokomotivy), dny v řadě a co tě čeká zítra. Co už kdo procvičoval, se do plánu převezme. Odpovědi se počítají i do Statistik.
+- Nadpis a upozornění těsně před bodem, na který rozhodnutí v krizovém postupu skočí (např. „Vstupuješ-li do strojovny, zavři kohoutky…“), se už neschovávají.
+
+---
+
 ## ⬆ Aktualizace – krizové postupy pro všechny (BETA)
 
 1. Nahraj `index.html`, `sw.js` a `.htaccess` z `na_web.zip`.

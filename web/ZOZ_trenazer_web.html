@@ -616,6 +616,45 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .h-body .ans{margin-top:0}
 .h-snip2{margin-top:8px;font-size:13px;color:var(--ink2);background:var(--panel2);border-radius:8px;padding:8px 12px}
 .h-more{margin-top:8px}
+/* příprava do ZOZ */
+.pl-card{display:flex;gap:14px;align-items:center;width:100%;max-width:760px;margin:0 auto 14px;text-align:left;font:inherit;color:var(--ink);background:var(--accent-soft);border:1.5px solid var(--accent);border-radius:14px;padding:14px 16px;cursor:pointer}
+.pl-card .pl-ci svg{width:28px;height:28px;fill:none;stroke:var(--accent);stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+.pl-card .pl-ct{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.pl-card small{color:var(--ink2);font-size:13px}
+.pl-card .pl-cgo{font-weight:700;color:var(--accent);white-space:nowrap}
+.pl-set{display:flex;gap:14px 22px;flex-wrap:wrap;align-items:flex-end;margin:6px 0 6px}
+.pl-f{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--ink2)}
+.pl-f input{font:inherit;font-size:15px;padding:8px 10px;border:1.5px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
+.pl-mins{display:flex;gap:6px;flex-wrap:wrap}
+.pl-loko{font-size:13.5px}
+.pl-kpi{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:16px 0 12px}
+.pl-kpi>div{background:var(--panel2);border-radius:12px;padding:12px 10px;text-align:center}
+.pl-kpi b{display:block;font-size:28px;line-height:1.1;font-family:var(--mono)}
+.pl-kpi small{color:var(--ink2);font-size:12.5px}
+.pl-bar{display:flex;height:12px;border-radius:6px;overflow:hidden;background:var(--panel2)}
+.pl-bar i{display:block;height:100%}
+.pl-bar .k,.pl-leg .k{background:var(--ok)}.pl-bar .l,.pl-leg .l{background:var(--warn)}.pl-bar .u,.pl-leg .u{background:var(--line)}
+.pl-leg{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--ink2);margin:6px 0 12px}
+.pl-leg i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.pl-today{border:1.5px solid var(--accent);border-radius:12px;padding:12px 14px;margin:14px 0 10px}
+.pl-today.done{border-color:var(--ok);background:var(--ok-soft)}
+.pl-today h3{margin:0 0 4px;font-size:15px}
+.pl-today p{margin:0}
+.pl-days{display:grid;grid-template-columns:repeat(14,1fr);gap:4px;margin:10px 0}
+.pl-days i{height:14px;border-radius:4px;background:var(--panel2)}
+.pl-days i.half{background:var(--warn-soft)}
+.pl-days i.on{background:var(--ok)}
+.pl-days i.now{box-shadow:0 0 0 2px var(--accent)}
+.pl-sync{font-size:12.5px}
+.pl-link{color:var(--accent);text-decoration:underline;cursor:pointer}
+.pl-run{max-width:760px;margin:0 auto}
+.pl-k{font-family:var(--sans);font-size:11px;margin-left:6px}
+.pl-k.n{background:var(--accent-soft);color:var(--accent)}
+.pl-k.z{background:var(--warn-soft);color:var(--warn)}
+.pl-fb{font-weight:700;padding:8px 12px;border-radius:8px}
+.pl-fb.ok{background:var(--ok-soft);color:var(--ok)}
+.pl-fb.bad{background:var(--bad-soft);color:var(--bad)}
+.pl-bad{border-top:1px solid var(--line2);padding:10px 0}
 .kr-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;z-index:50;max-width:90vw}
 .refresh-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
 .optstat{margin-top:12px;padding:10px 12px;background:var(--panel2);border-radius:8px}
@@ -850,6 +889,11 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
   <div id="kr-root"></div>
 </section>
 
+<!-- PŘÍPRAVA DO ZOZ -->
+<section class="view" id="view-plan" hidden>
+  <div id="pl-root"></div>
+</section>
+
 <!-- HLEDÁNÍ -->
 <section class="view" id="view-hledat" hidden>
   <div id="h-root"></div>
@@ -1002,7 +1046,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 00:30";
+const BUILD = "26.09.2026 01:40";
 </script>
 <script>
 (function(){
@@ -1272,6 +1316,7 @@ async function onSessionInner(session,uid){
   // když účet výběr řad ještě nemá, uloží se ten z tohoto zařízení
   if(!loadRadyAccount()&&!OFFLINE&&(MY_RADY.length||(ZRADY&&ZRADY.length)))saveRadyAccount();
   await loadSmenarPub();
+  plLoad();
   buildTabs(!!PROFILE.is_admin);
   $('#brandSub').textContent='načítám otázky…';
   let res={ok:false};
@@ -2060,6 +2105,213 @@ document.addEventListener('keydown',e=>{
   e.preventDefault();showView('hledat');setTimeout(()=>{const i=$('#h-q');if(i)i.focus()},0);
 });
 
+/* =================== PŘÍPRAVA DO ZOZ: plán a chytré opakování =================== */
+/* Každá otázka je v „přihrádce“ 0–5. Správná odpověď ji posune výš a vrátí se později
+   (za 1, 3, 7, 14, 30 dní), chyba ji vrátí na začátek a přijde zítra znovu. Nové otázky se
+   rozloží tak, aby byly probrané týden před ZOZ – poslední týden je jen na opakování. */
+const PL_INT=[0,1,3,7,14,30];
+const PL_M=[0,.25,.5,.75,1,1];        // jak moc otázku „umíš“ – z toho je připravenost
+const PL_UMIM=4;                       // od téhle přihrádky se otázka počítá jako naučená
+const dayOf=d=>Math.round(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/864e5);
+const plToday=()=>dayOf(new Date());
+const isoDay=s=>{const m=/^(\d{4})-(\d{2})-(\d{2})$/.exec(s||'');return m?Math.round(Date.UTC(+m[1],+m[2]-1,+m[3])/864e5):null};
+const dayIso=n=>new Date(n*864e5).toISOString().slice(0,10);
+const dayCz=n=>{const d=new Date(n*864e5);return `${d.getUTCDate()}. ${d.getUTCMonth()+1}.${d.getUTCFullYear()!==new Date().getFullYear()?' '+d.getUTCFullYear():''}`};
+const plural=(n,a,b,c)=>n===1?a:n>=2&&n<=4?b:c;
+let PLAN=null,PL_SYNC=false,PL_ERR='';
+const plKey=()=>'zoz-plan-v1:'+(USER?USER.id:'');
+const plEmpty=()=>({v:1,date:null,min:10,loko:true,s:{},days:{},seeded:false,upd:0,sess:null});
+function plMerge(a,b){
+  if(!a&&!b)return null;
+  if(!a||!b)return Object.assign(plEmpty(),a||b,{sess:a?a.sess||null:null});
+  const o=Object.assign(plEmpty(),(a.upd||0)>=(b.upd||0)?a:b);
+  // po otázkách vyhrává novější hodnocení (poslední den), při shodě vyšší přihrádka
+  o.s=Object.assign({},b.s||{});
+  for(const [n,v] of Object.entries(a.s||{})){const w=o.s[n];if(!w||v[2]>w[2]||(v[2]===w[2]&&v[0]>w[0]))o.s[n]=v}
+  o.days=Object.assign({},b.days||{});
+  for(const [d,v] of Object.entries(a.days||{})){const w=o.days[d];o.days[d]=w?{done:Math.max(v.done||0,w.done||0),goal:Math.max(v.goal||0,w.goal||0)}:v}
+  o.seeded=!!(a.seeded||b.seeded);o.sess=a.sess||null;   // rozdělaná dávka jen z tohoto zařízení
+  return o;
+}
+function plLoad(){
+  let loc=null;try{loc=JSON.parse(localStorage.getItem(plKey())||'null')}catch(e){}
+  // sloupec profiles.plan přidává cast7_plan.sql – bez něj plán zůstává jen v zařízení
+  PL_SYNC=!!(PROFILE&&Object.prototype.hasOwnProperty.call(PROFILE,'plan'));
+  const rem=PL_SYNC&&PROFILE.plan&&typeof PROFILE.plan==='object'?PROFILE.plan:null;
+  PLAN=plMerge(loc,rem)||plEmpty();
+  plSaveLocal();
+}
+function plSaveLocal(){try{localStorage.setItem(plKey(),JSON.stringify(PLAN))}catch(e){}}
+let plT=null;
+function plSave(){PLAN.upd=Date.now();plSaveLocal();clearTimeout(plT);plT=setTimeout(plPush,3000)}
+async function plPush(){
+  clearTimeout(plT);plT=null;
+  if(!PL_SYNC||!SB||!USER||!PLAN)return;
+  const rest=Object.assign({},PLAN);delete rest.sess;
+  try{const {error}=await SB.from('profiles').update({plan:rest}).eq('id',USER.id);if(error)throw error;PL_ERR='';if(PROFILE)PROFILE.plan=rest}
+  catch(e){PL_ERR=String(e.message||e);plT=setTimeout(plPush,60000)}
+}
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&plT)plPush()});
+window.addEventListener('online',()=>{if(PLAN&&PL_SYNC&&plT)plPush()});
+function plPool(){const rady=zRady();return DATA.filter(q=>!isLoko(q)||(PLAN.loko&&isZavady(q)&&rady.includes(q.rada)))}
+// co už kdo procvičoval, se do plánu převezme (jednou), ať nezačíná od nuly
+function plSeed(){
+  if(PLAN.seeded||!DATA.length)return;
+  const t=plToday();
+  DATA.forEach(q=>{if(PLAN.s[q.n])return;const s=ST.q[q.n];if(!s||!(s.ok+s.bad))return;
+    const net=s.ok-s.bad,box=net>=3?3:net>=1?2:1;
+    PLAN.s[q.n]=[box,t+(box===1?0:Math.floor(Math.random()*(PL_INT[box]+1))),t-1]});
+  PLAN.seeded=true;plSave();
+}
+function plStats(){
+  const t=plToday(),pool=plPool();let due=0,unseen=0,learn=0,know=0,mP=0,nP=0,mL=0,nL=0,tomorrow=0;
+  pool.forEach(q=>{const s=PLAN.s[q.n],m=s?PL_M[Math.min(s[0],5)]:0;
+    if(isLoko(q)){mL+=m;nL++}else{mP+=m;nP++}
+    if(!s)unseen++;else{if(s[1]<=t)due++;else if(s[1]===t+1)tomorrow++;if(s[0]>=PL_UMIM)know++;else learn++}});
+  const exam=isoDay(PLAN.date),left=exam!=null?exam-t:null;
+  const goal=Math.round(PLAN.min*2.5);           // ~ 24 s na otázku
+  const learnDays=left==null?30:Math.max(1,left-7);
+  const newPer=unseen?Math.min(goal,Math.max(3,Math.ceil(unseen/learnDays))):0;
+  // nové otázky: aspoň tolik, aby se stihlo tempo; volný čas dávky se doplní dalšími novými
+  const newToday=Math.min(unseen,Math.max(newPer,goal-due));
+  const finish=unseen?t+Math.ceil(unseen/Math.max(1,newPer)):t;
+  const d=PLAN.days[dayIso(t)]||{done:0,goal:0};
+  const tomorrowTodo=Math.min(goal,tomorrow+Math.min(unseen,Math.max(newPer,goal-tomorrow)));
+  return {tomorrowTodo,t,pool,due,unseen,learn,know,tomorrow,left,exam,goal,newPer,newToday,finish,ready:pct(mP+mL,nP+nL),rP:pct(mP,nP),rL:nL?pct(mL,nL):null,nP,nL,today:d,
+    doneToday:d.goal>0&&d.done>=d.goal};
+}
+function plStreak(){
+  const t=plToday(),ok=x=>{const d=PLAN.days[dayIso(x)];return !!d&&d.done>0&&d.done>=Math.min(d.goal||10,10)};
+  let n=0,x=ok(t)?t:t-1;while(ok(x)){n++;x--}return n;
+}
+function plMake(extra){
+  const S=plStats(),t=S.t,sv=q=>PLAN.s[q.n];
+  const fresh=shuffle(S.pool.filter(q=>!sv(q)));
+  let list;
+  if(extra){   // navíc: nejslabší otázky, které ještě nejsou na řadě
+    list=S.pool.filter(q=>sv(q)&&sv(q)[1]>t&&sv(q)[2]!==t).sort((a,b)=>sv(a)[0]-sv(b)[0]||sv(a)[1]-sv(b)[1]).slice(0,10);
+    if(list.length<10)list=list.concat(fresh.slice(0,10-list.length));
+    list=shuffle(list);
+  }else{
+    const due=S.pool.filter(q=>sv(q)&&sv(q)[1]<=t).sort((a,b)=>sv(a)[1]-sv(b)[1]||sv(a)[0]-sv(b)[0]);
+    list=shuffle(due.slice(0,Math.max(0,S.goal-S.newToday)).concat(fresh.slice(0,S.newToday)));
+    const d=PLAN.days[dayIso(t)]||(PLAN.days[dayIso(t)]={done:0,goal:0});d.goal=Math.max(d.goal,d.done+list.length);
+  }
+  if(!list.length){toast(extra?'Nic dalšího k procvičení – všechno máš naplánované.':'Na dnešek nic není na řadě.');return}
+  PLAN.sess={day:t,list:list.map(q=>q.n),nw:list.filter(q=>!sv(q)).map(q=>q.n),i:0,res:{},re:[],ord:null,ans:null,extra:!!extra};
+  plSave();renderPlan();window.scrollTo(0,0);
+}
+function plGrade(n,ok){
+  const t=plToday(),s=PLAN.s[n];
+  if(s&&s[2]===t)return;           // dnes už hodnocená – přihrádka se mění jen jednou denně
+  const box=ok?(s?Math.min(5,s[0]+1):2):1;
+  PLAN.s[n]=[box,t+(ok?PL_INT[box]:1),t];
+  const d=PLAN.days[dayIso(t)]||(PLAN.days[dayIso(t)]={done:0,goal:0});d.done++;
+}
+function plAnswer(k){
+  const S=PLAN.sess;if(!S||S.ans!=null||!S.ord)return;
+  const n=S.list[S.i],q=byN[n];if(!q)return;
+  const orig=S.ord[k],ok=orig===0,first=!(n in S.res);S.ans=orig;
+  if(first){S.res[n]=ok;pushAttempt(q,ok,'plan',orig);plGrade(n,ok);
+    if(!ok&&!S.re.includes(n)){S.re.push(n);S.list.push(n)}}   // chybu ještě jednou na konci dávky
+  plSave();renderPlan();
+}
+function plNext(){const S=PLAN.sess;if(!S||S.ans==null)return;S.i++;S.ans=null;S.ord=null;plSave();renderPlan();window.scrollTo(0,0)}
+function plCardHtml(){   // shrnutí nahoře v Simulaci ZOZ
+  if(!PLAN||!DATA.length)return '';
+  const S=plStats(),todo=S.due+S.newToday;
+  return `<button class="pl-card" data-goto="plan"><span class="pl-ci">${ico('smenar')}</span><span class="pl-ct">
+    <b>Příprava do ZOZ</b><small>${S.left!=null&&S.left>=0?`zbývá ${S.left} ${plural(S.left,'den','dny','dní')} · `:''}připraven ${S.ready} %${S.doneToday?' · dnešní dávka hotová ✓':todo?` · dnes ${todo} ${plural(todo,'otázka','otázky','otázek')}`:''}</small>
+    ${S.left==null?'<small>Nastav si datum ZOZ a aplikace ti rozplánuje učení den po dni.</small>':''}</span><span class="pl-cgo">${S.doneToday?'Plán →':'Začít →'}</span></button>`;
+}
+function renderPlan(){
+  const root=$('#pl-root');if(!root)return;
+  if(!DATA.length||!PLAN){root.innerHTML='<p class="empty">Otázky se ještě načítají…</p>';return}
+  plSeed();
+  const S=PLAN.sess;
+  if(S&&S.day!==plToday()){PLAN.sess=null;plSave()}   // včerejší nedokončená dávka propadá
+  if(PLAN.sess&&PLAN.sess.i<PLAN.sess.list.length)return plRenderQ(root);
+  if(PLAN.sess)return plRenderDone(root);
+  const st=plStats(),streak=plStreak(),rady=zRady(),N=st.pool.length||1;
+  const seg=(v,c)=>v?`<i class="${c}" style="width:${v/N*100}%"></i>`:'';
+  const days=[...Array(14)].map((_,k)=>{const x=st.t-13+k,d=PLAN.days[dayIso(x)];const on=d&&d.done>0&&d.done>=Math.min(d.goal||10,10);
+    return `<i class="${on?'on':d&&d.done?'half':''}${x===st.t?' now':''}" title="${dayCz(x)}${d?` · ${d.done} ${plural(d.done,'otázka','otázky','otázek')}`:''}"></i>`}).join('');
+  const todo=st.due+st.newToday;
+  root.innerHTML=`<div class="setup pl">
+    <h2>Příprava do ZOZ</h2>
+    <div class="pl-set">
+      <label class="pl-f"><span>Datum ZOZ</span><input type="date" id="pl-date" value="${esc(PLAN.date||'')}" min="${dayIso(st.t)}"></label>
+      <div class="pl-f"><span>Denně</span><div class="pl-mins">${[5,10,15,20].map(m=>`<button class="h-t" data-plmin="${m}" aria-pressed="${PLAN.min===m}">${m} min</button>`).join('')}</div></div>
+    </div>
+    <label class="check pl-loko"><input type="checkbox" id="pl-loko" ${PLAN.loko?'checked':''} ${rady.length?'':'disabled'}> I lokomotivy – Závady v kostce řad s autorizací${rady.length?` (${esc(rady.join(', '))})`:' – nejdřív je vyber v Simulaci ZOZ'}</label>
+    <div class="pl-kpi">
+      <div><b>${st.left!=null?(st.left>=0?st.left:'–'):'?'}</b><small>${st.left!=null?(st.left>=0?plural(st.left,'den','dny','dní')+' do ZOZ':'ZOZ už proběhla'):'nastav datum'}</small></div>
+      <div><b>${st.ready} %</b><small>připraven</small></div>
+      <div><b>${streak}</b><small>${plural(streak,'den','dny','dní')} v řadě</small></div>
+    </div>
+    <div class="pl-bar" title="umím / učím se / nové">${seg(st.know,'k')}${seg(st.learn,'l')}${seg(st.unseen,'u')}</div>
+    <div class="pl-leg"><span><i class="k"></i>umím ${st.know}</span><span><i class="l"></i>učím se ${st.learn}</span><span><i class="u"></i>nové ${st.unseen}</span></div>
+    <div class="arearow"><span class="nm">Předpisy <span class="count">${st.nP} otázek</span></span><span class="bar"><i style="width:${st.rP}%"></i></span><span class="p">${st.rP} %</span></div>
+    ${st.rL!=null?`<div class="arearow"><span class="nm">Lokomotivy <span class="count">${st.nL} otázek</span></span><span class="bar"><i style="width:${st.rL}%"></i></span><span class="p">${st.rL} %</span></div>`:''}
+    <div class="pl-today ${st.doneToday?'done':''}">
+      <h3>Dnes</h3>
+      ${st.doneToday
+        ?`<p><b>✓ Dnešní dávka je hotová</b> (${st.today.done} ${plural(st.today.done,'otázka','otázky','otázek')}). Zítra tě čeká asi ${st.tomorrowTodo} ${plural(st.tomorrowTodo,'otázka','otázky','otázek')}.</p>
+          <div class="setup-actions"><button class="btn" id="pl-extra">Přidat 10 navíc</button></div>`
+        :todo?`<p>${st.due?`<b>${st.due}</b> k opakování`:''}${st.due&&st.newToday?' + ':''}${st.newToday?`<b>${st.newToday}</b> ${plural(st.newToday,'nová','nové','nových')}`:''} · asi ${Math.max(1,Math.round(Math.min(todo,st.goal)*.4))} min${st.due>st.goal?` <span class="count">(${st.due-(st.goal-st.newToday)} opakování se přesune na zítra)</span>`:''}</p>
+          <div class="setup-actions"><button class="btn primary" id="pl-go">Začít denní dávku</button></div>`
+        :`<p>Na dnešek nic není na řadě – všechno máš naplánované na další dny.</p><div class="setup-actions"><button class="btn" id="pl-extra">Procvičit 10 navíc</button></div>`}
+    </div>
+    <div class="pl-days" aria-label="Posledních 14 dní">${days}</div>
+    <p class="hint">${st.unseen?`Tempo <b>${st.newPer}</b> ${plural(st.newPer,'nová otázka','nové otázky','nových otázek')} denně → všechno probereš nejpozději <b>${dayCz(st.finish)}</b>${st.exam!=null&&st.finish>st.exam-7?' – to je těsně před ZOZ, zvaž víc minut denně.':''} `:'Všechny otázky už máš probrané – teď jen opakuješ. '}Poslední týden před ZOZ si udělej i <a data-goto="zoz" role="button" tabindex="0" class="pl-link">Simulaci ZOZ</a>.</p>
+    <p class="hint pl-sync">${PL_SYNC?'Plán se ukládá k účtu – platí na mobilu i na počítači.':isAdmin()?'Plán je zatím jen v tomto zařízení. Pro přenos mezi zařízeními spusť v Supabase <code>cast7_plan.sql</code>.':'Plán je uložený v tomto zařízení.'}${PL_ERR&&PL_SYNC?' <span class="count">(čeká na spojení)</span>':''}</p>
+  </div>`;
+  $('#pl-date').onchange=e=>{PLAN.date=e.target.value||null;plSave();renderPlan()};
+  $('#pl-loko').onchange=e=>{PLAN.loko=e.target.checked;plSave();renderPlan()};
+  root.querySelectorAll('[data-plmin]').forEach(b=>b.onclick=()=>{PLAN.min=+b.dataset.plmin;plSave();renderPlan()});
+  const g=$('#pl-go');if(g)g.onclick=()=>plMake(false);
+  const x=$('#pl-extra');if(x)x.onclick=()=>plMake(true);
+}
+function plRenderQ(root){
+  const S=PLAN.sess,n=S.list[S.i],q=byN[n];
+  if(!q){S.i++;plSave();return renderPlan()}
+  if(!S.ord){S.ord=shuffle([0,1,2]);plSave()}
+  const txt=[q.odpoved,...(q.distraktory||[])],a=S.ans,s=PLAN.s[n];
+  const kind=S.list.indexOf(n)!==S.i?'znovu':(S.nw||[]).includes(n)?'nová':'opakování';
+  const opts=S.ord.map((o,k)=>{let c='opt';if(a!=null){if(o===0)c+=' right';else if(o===a)c+=' wrong'}
+    return `<button class="${c}" data-plk="${k}" ${a!=null?'disabled':''} aria-checked="${a===o}"><span class="k">${'ABC'[k]}</span><span>${esc(txt[o]||'–')}</span></button>`}).join('');
+  root.innerHTML=`<div class="pl-run"><div class="z-head"><span class="ph">${S.extra?'Procvičení navíc':'Denní dávka'}</span><span class="count">otázka ${S.i+1} / ${S.list.length}</span><button class="btn small ghost" id="pl-stop" style="margin-left:auto">Přerušit</button></div>
+    <div class="progress"><i style="width:${S.i/S.list.length*100}%"></i></div>
+    <div class="card"><div class="q-num">Otázka ${q.n} · ${esc(q.tema)}${kind?` <span class="chip pl-k ${kind==='nová'?'n':kind==='znovu'?'z':''}">${kind}</span>`:''}</div>
+      <div class="qtext">${esc(q.otazka)}</div>${imgHtml(q)}
+      <div class="opts" role="radiogroup">${opts}</div>
+      <div class="feedback">${a!=null?`<div class="pl-fb ${a===0?'ok':'bad'}">${a===0?'✓ Správně':'✗ Špatně – správně je '+'ABC'[S.ord.indexOf(0)]}${a===0&&s?` · vrátí se za ${PL_INT[s[0]]} ${plural(PL_INT[s[0]],'den','dny','dní')}`:a!==0?' · přijde znovu na konci a zítra':''}</div>
+        ${srcHtml(q)}<details class="full"><summary>Plné znění článku</summary><pre>${esc(q.plne_zneni)}</pre></details>${q.poznamka?`<div class="note">Poznámka: ${esc(q.poznamka)}</div>`:''}`:''}</div>
+      <div class="card-actions"><span class="count">klávesy <kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>, dál <kbd>Enter</kbd></span><div class="grp"><button class="btn small ghost" data-report="${q.n}" data-ctx="plan">⚑ Nahlásit chybu</button><button class="btn primary" id="pl-next" ${a==null?'disabled':''}>${S.i===S.list.length-1?'Dokončit':'Další →'}</button></div></div>
+    </div></div>`;
+  root.querySelectorAll('[data-plk]').forEach(b=>b.onclick=()=>plAnswer(+b.dataset.plk));
+  $('#pl-next').onclick=plNext;
+  $('#pl-stop').onclick=()=>{if(!Object.keys(S.res).length)PLAN.sess=null;else{S.i=S.list.length;S.stopped=true}plSave();renderPlan();window.scrollTo(0,0)};
+}
+function plRenderDone(root){
+  const S=PLAN.sess,ns=Object.keys(S.res),ok=ns.filter(n=>S.res[n]).length,st=plStats(),streak=plStreak();
+  const bad=ns.filter(n=>!S.res[n]).map(n=>byN[n]).filter(Boolean);
+  root.innerHTML=`<div class="pl-run"><div class="z-verdict ${ok>=ns.length*.8?'ok':'bad'}"><div class="big">${S.stopped?'Dávka přerušená':S.extra?'Procvičení hotové':'Dávka hotová'}</div>
+      <div class="sm">${ok} z ${ns.length} správně napoprvé${streak?` · ${streak} ${plural(streak,'den','dny','dní')} v řadě`:''}</div></div>
+    <div class="setup"><p>Připraven <b>${st.ready} %</b>${st.left!=null&&st.left>=0?` · do ZOZ ${st.left} ${plural(st.left,'den','dny','dní')}`:''}. Zítra tě čeká asi ${st.tomorrowTodo} ${plural(st.tomorrowTodo,'otázka','otázky','otázek')}.</p>
+      ${bad.length?`<h3 class="subh">Dnešní chyby – vrátí se zítra</h3>${bad.map(q=>`<div class="pl-bad"><b>${q.n}.</b> ${esc(q.otazka)}<div class="ans"><b>Správná odpověď</b>${esc(q.odpoved)}</div>${srcHtml(q)}</div>`).join('')}`:''}
+      <div class="setup-actions"><button class="btn primary" id="pl-back">Zpět na plán</button>${st.doneToday||S.extra?'<button class="btn" id="pl-extra">Přidat 10 navíc</button>':''}</div></div></div>`;
+  $('#pl-back').onclick=()=>{PLAN.sess=null;plSave();renderPlan();window.scrollTo(0,0)};
+  const x=$('#pl-extra');if(x)x.onclick=()=>{PLAN.sess=null;plMake(true)};
+}
+document.addEventListener('keydown',e=>{
+  if($('#view-plan').hidden||!PLAN||!PLAN.sess||e.target.closest('input,textarea,select')||e.ctrlKey||e.metaKey||e.altKey)return;
+  const S=PLAN.sess;if(S.i>=S.list.length)return;
+  const k='abc'.indexOf(e.key.toLowerCase()),d='123'.indexOf(e.key);
+  if(S.ans==null&&(k>=0||d>=0)){e.preventDefault();plAnswer(k>=0?k:d)}
+  else if(S.ans!=null&&e.key==='Enter'){e.preventDefault();plNext()}
+});
+
 /* =================== SMĚNÁŘ → KALENDÁŘ =================== */
 let SMENAR_PUB=false;
 function canSmenar(){return isAdmin()||SMENAR_PUB}
@@ -2360,7 +2612,7 @@ function renderZoz(){
   const need=Math.ceil(ZOZ.N*ZOZ.PASS);
   if(Z.phase==='setup'){
     const rady=zRady(), nL=DATA.filter(q=>isZavady(q)&&rady.includes(q.rada)).length;
-    root.innerHTML=`<div class="setup"><h2>Simulace ZOZ</h2>
+    root.innerHTML=`${plCardHtml()}<div class="setup"><h2>Simulace ZOZ</h2>
       <p>Zkouška nanečisto ve stejném formátu jako ostrá ZOZ.</p>
       <ol class="z-rules">
         <li><b>Písemná část:</b> ${ZOZ.N} otázek z předpisů, <b>${ZOZ.MIN} minut</b>. Správnost se neukazuje průběžně – vyhodnocení až po odevzdání. Projdeš s nejméně <b>${need} správnými (80 %)</b>.</li>
@@ -2521,6 +2773,7 @@ function showView(v){
     if(v==='zoz')renderZoz();
     if(v==='smenar')renderSmenar();
     if(v==='hledat')renderHledat();
+    if(v==='plan'){markTab('zoz');renderPlan()}
   }
   try{localStorage.setItem('zoz-view',v)}catch(e){}
 }
