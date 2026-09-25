@@ -398,6 +398,60 @@ html.lb-lock,html.lb-lock body{overflow:hidden}
 .lb-dots{display:flex;gap:6px;justify-content:center;margin-top:10px}
 .lb-dots i{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.3)}
 .lb-dots i.on{background:#fff}
+/* ===== kabinový režim krizových postupů: jeden úkon na obrazovku, velká tlačítka, noční barvy ===== */
+html.kb-lock,html.kb-lock body{overflow:hidden}
+html.kb-lock .kr-toast{z-index:1100;top:calc(120px + env(safe-area-inset-top));bottom:auto;background:#1a0806;color:#ff7a5c;border:1px solid #5a1a10;font-size:16px}
+.kb{position:fixed;inset:0;z-index:900;display:none;flex-direction:column;background:var(--kb-bg);color:var(--kb-ink);font-size:calc(20px * var(--kb-z,1));line-height:1.4;
+  --kb-bg:#000;--kb-ink:#f2512f;--kb-ink2:#b3412a;--kb-line:#4a1a12;--kb-btn:#140504;--kb-strong:#4d1006;--kb-strong-ink:#ff6a4a;--kb-strong-line:#f2512f;
+  --kb-ano:#ffab40;--kb-ne:#ff5b3d;--kb-pozor-bg:#2a0703;--kb-info-bg:#120604}
+.kb.den{--kb-bg:#0e1311;--kb-ink:#f2f5f3;--kb-ink2:#aab5af;--kb-line:#35403a;--kb-btn:#1b2320;--kb-strong:#5fcf7f;--kb-strong-ink:#07140c;--kb-strong-line:#5fcf7f;
+  --kb-ano:#5fcf7f;--kb-ne:#f28b82;--kb-pozor-bg:#4a1d1a;--kb-info-bg:#1b2320}
+.kb.on{display:flex}
+.kb button{font:inherit;color:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.kb-top{display:flex;align-items:center;gap:8px;padding:calc(8px + env(safe-area-inset-top)) 10px 8px;border-bottom:1px solid var(--kb-line)}
+.kb-top .sp{flex:1}
+.kb-ttl{padding:8px 16px 0;font-size:15px;font-weight:700;color:var(--kb-ink2);line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.kb-ib{flex:0 0 auto;min-width:46px;height:46px;border-radius:12px;border:1.5px solid var(--kb-line);background:var(--kb-btn);font-size:17px!important;font-weight:700;display:flex;align-items:center;justify-content:center;padding:0 8px}
+.kb-ib[aria-pressed="true"]{border-color:var(--kb-ink);box-shadow:inset 0 0 0 1px var(--kb-ink)}
+.kb-prog{display:flex;align-items:center;gap:10px;padding:8px 14px;font-size:14px;color:var(--kb-ink2)}
+.kb-prog .bar{flex:1;height:6px;border-radius:3px;background:var(--kb-line);overflow:hidden}
+.kb-prog .bar i{display:block;height:100%;background:var(--kb-ink)}
+.kb-prog .wl{font-size:12px;white-space:nowrap}
+.kb-body{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px 18px 18px}
+.kb-inner{max-width:720px;margin:0 auto}
+.kb-misto{font-size:.72em;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--kb-ink2);margin:6px 0 10px}
+.kb-pozor{background:var(--kb-pozor-bg);border:2px solid var(--kb-ne);border-radius:12px;padding:10px 14px;margin:0 0 12px;font-weight:700;font-size:.9em}
+.kb-info{background:var(--kb-info-bg);border:1px solid var(--kb-line);border-radius:12px;padding:10px 14px;margin:0 0 12px;font-size:.82em;color:var(--kb-ink2)}
+.kb-num{font-family:var(--mono);font-size:.8em;font-weight:700;color:var(--kb-ink2);margin:10px 0 2px}
+.kb-num b{font-size:2em;color:var(--kb-ink);margin-right:6px}
+.kb-txt{font-size:1.25em;font-weight:600;line-height:1.35;margin:4px 0 14px;overflow-wrap:anywhere}
+.kb-q .kb-txt:before{content:"?";display:inline-flex;align-items:center;justify-content:center;width:1.4em;height:1.4em;border-radius:50%;border:2px solid currentColor;font-size:.75em;margin-right:.4em;vertical-align:.12em}
+.kb-foto{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 12px}
+.kb-foto button{width:96px;height:96px;border-radius:10px;border:1.5px solid var(--kb-line);background:var(--kb-btn) center/cover no-repeat;padding:0;font-size:12px!important;color:var(--kb-ink2)}
+.kb-end{font-size:1.3em;font-weight:700;border:2px solid var(--kb-strong-line);border-radius:14px;padding:16px;margin:10px 0 14px;text-align:center}
+.kb-read{border:1.5px solid var(--kb-line);background:var(--kb-btn);border-radius:10px;padding:8px 14px;font-size:14px!important;font-weight:600}
+.kb-foot{padding:10px 12px calc(12px + env(safe-area-inset-bottom));border-top:1px solid var(--kb-line);display:flex;flex-direction:column;gap:10px}
+.kb-row{display:flex;gap:10px}
+.kb-back{flex:0 0 auto;min-width:88px;min-height:72px;border-radius:16px;border:2px solid var(--kb-line);background:var(--kb-btn);font-size:17px!important;font-weight:700;padding:0 12px}
+.kb-back:disabled{opacity:.3;cursor:default}
+.kb-go{flex:1;min-height:72px;border-radius:16px;border:2px solid var(--kb-strong-line);background:var(--kb-strong);color:var(--kb-strong-ink)!important;font-size:22px!important;font-weight:800;letter-spacing:.02em}
+.kb-opt{display:flex;align-items:center;gap:12px;width:100%;min-height:68px;text-align:left;border-radius:16px;border:2.5px solid var(--kb-line);background:var(--kb-btn);padding:10px 16px;font-size:.9em!important;font-weight:600}
+.kb-opt .l{flex:0 0 auto;font-size:1.05em;font-weight:900;min-width:2.6em}
+.kb-opt.ano{border-color:var(--kb-ano)}.kb-opt.ano .l{color:var(--kb-ano)}
+.kb-opt.ne{border-color:var(--kb-ne)}.kb-opt.ne .l{color:var(--kb-ne)}
+.kb-opt .t{display:flex;flex-direction:column;gap:3px}
+.kb-opt small{font-size:.74em;font-weight:500;color:var(--kb-ink2);line-height:1.3}
+.kb-opts{display:flex;flex-direction:column;gap:10px;max-height:46vh;overflow-y:auto}
+.kb-disc{font-size:11.5px;color:var(--kb-ink2);text-align:center;line-height:1.35}
+.kb-2{flex:1;min-height:60px;border-radius:14px;border:2px solid var(--kb-line);background:var(--kb-btn);font-size:17px!important;font-weight:700}
+@media (min-width:900px){.kb-foot{align-items:center}.kb-foot>*{width:100%;max-width:720px}.kb-ttl,.kb-prog{width:100%;max-width:756px;margin-left:auto;margin-right:auto}}
+.kr-kb{background:#000;color:#ff6a4d;border-color:#000;font-weight:700}
+.kr-kb:hover{background:#1a0806}
+.kr-off{display:flex;gap:10px;align-items:flex-start;background:var(--ok-soft);color:var(--ink);border-radius:10px;padding:10px 12px;font-size:13.5px;margin:10px 0 0}
+.kr-off.warn{background:var(--warn-soft)}
+.kr-off .oi{flex:0 0 auto;font-weight:800;color:var(--ok)}
+.kr-off.warn .oi{color:var(--warn)}
+.kr-off .btn{margin-top:6px}
 @media (max-width:600px){.lb-nav{display:none}.lb-img{max-width:calc(100% - 8px)}.lb-cap{font-size:14px}}
 /* směnář → kalendář */
 .sm-start p{color:var(--ink2)}
@@ -918,7 +972,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "25.09.2026 21:53";
+const BUILD = "26.09.2026 00:30";
 </script>
 <script>
 (function(){
@@ -955,6 +1009,7 @@ if(!CONFIG.SUPABASE_URL || CONFIG.SUPABASE_URL.indexOf('__')===0){
 }
 let USER=null, PROFILE=null;
 let ST={q:{},area:{tema:{},predpis:{}},hist:[]};
+let STATS_OFF=false;   // statistiky jsou jen z uložené kopie – po návratu signálu se stáhnou znovu
 
 const QKEY='zoz-queue-v1';
 function qget(){try{return JSON.parse(localStorage.getItem(QKEY))||[]}catch(e){return []}}
@@ -1019,7 +1074,8 @@ const IDB={
     r.onupgradeneeded=()=>{try{r.result.createObjectStore('kv')}catch(e){}};
     r.onsuccess=()=>res(r.result);r.onerror=()=>rej(r.error)})},
   async get(k){try{const db=await IDB.open();return await new Promise((res,rej)=>{const t=db.transaction('kv').objectStore('kv').get(k);t.onsuccess=()=>res(t.result);t.onerror=()=>rej(t.error)})}catch(e){return null}},
-  async set(k,v){try{const db=await IDB.open();await new Promise((res,rej)=>{const t=db.transaction('kv','readwrite').objectStore('kv').put(v,k);t.onsuccess=()=>res();t.onerror=()=>rej(t.error)})}catch(e){}},
+  async set(k,v){try{const db=await IDB.open();await new Promise((res,rej)=>{const t=db.transaction('kv','readwrite').objectStore('kv').put(v,k);t.onsuccess=()=>res();t.onerror=()=>rej(t.error)});return true}catch(e){return false}},
+  async keys(){try{const db=await IDB.open();return await new Promise(res=>{const t=db.transaction('kv').objectStore('kv').getAllKeys();t.onsuccess=()=>res(t.result||[]);t.onerror=()=>res([])})}catch(e){return []}},
   async del(k){try{const db=await IDB.open();await new Promise(res=>{const t=db.transaction('kv','readwrite').objectStore('kv').delete(k);t.onsuccess=()=>res();t.onerror=()=>res()})}catch(e){}}
 };
 
@@ -1055,35 +1111,51 @@ async function fetchContent(){
       zdroje:r.zdroje||[],distraktory:r.distraktory||[],obrazky:r.obrazky||[]}}), images:imgs, postupy};
 }
 
+let CONTENT_SAVED=false;   // obsah (otázky, postupy) je uložený v zařízení a půjde i bez signálu
 async function loadContent(){
   let version=null;
   try{const {data}=await SB.from('app_meta').select('value').eq('key','content_version').maybeSingle();version=data?data.value:null}catch(e){}
   const cached=await IDB.get('content');
   if(cached&&cached.questions&&cached.questions.length&&cached.fmt===2&&(!version||cached.version===version)){
-    POSTUPY=cached.postupy||[];initData(cached.questions,cached.images);return {ok:true,cached:true};
+    POSTUPY=cached.postupy||[];initData(cached.questions,cached.images);CONTENT_SAVED=true;return {ok:true,cached:true};
   }
   const c=await fetchContent();
   if(!c.questions.length)return {ok:false,empty:true};
   POSTUPY=c.postupy||[];
   initData(c.questions,c.images);
-  await IDB.set('content',{fmt:2,version:version||'',questions:c.questions,images:c.images,postupy:POSTUPY});
+  CONTENT_SAVED=await IDB.set('content',{fmt:2,version:version||'',questions:c.questions,images:c.images,postupy:POSTUPY});
   return {ok:true,cached:false};
 }
 
 async function loadStats(){
   ST={q:{},area:{tema:{},predpis:{}},hist:[]};
   if(!SB||!USER)return;
+  const skey='stats:'+USER.id;
   try{
     const [qs,ar,tr]=await Promise.all([
       SB.rpc('my_question_stats'),
       SB.rpc('my_area_stats'),
       SB.from('test_runs').select('*').order('created_at',{ascending:false}).limit(200)
     ]);
+    if(qs.error||ar.error||tr.error)throw (qs.error||ar.error||tr.error);
+    IDB.set(skey,{q:qs.data||[],a:ar.data||[],t:tr.data||[]});STATS_OFF=false;
     (qs.data||[]).forEach(r=>ST.q[r.question_n]={ok:r.ok,bad:r.bad,c:[r.c0||0,r.c1||0,r.c2||0]});
     (ar.data||[]).forEach(r=>{ST.area[r.kind][r.name]={ok:r.ok,bad:r.bad}});
     ST.hist=(tr.data||[]).map(r=>({created_at:r.created_at,total:r.total,answered:r.answered,correct:r.correct,limit:r.time_limit_min,timeout:r.timed_out,tm:r.tema,p:r.predpis}));
     setSync(true);
-  }catch(e){setSync(false)}
+  }catch(e){
+    setSync(false);STATS_OFF=true;
+    // bez spojení poslední stažené statistiky + to, co ještě čeká ve frontě na odeslání
+    const c=await IDB.get(skey);if(!c)return;
+    c.q.forEach(r=>ST.q[r.question_n]={ok:r.ok,bad:r.bad,c:[r.c0||0,r.c1||0,r.c2||0]});
+    c.a.forEach(r=>{if(ST.area[r.kind])ST.area[r.kind][r.name]={ok:r.ok,bad:r.bad}});
+    ST.hist=c.t.map(r=>({created_at:r.created_at,total:r.total,answered:r.answered,correct:r.correct,limit:r.time_limit_min,timeout:r.timed_out,tm:r.tema,p:r.predpis}));
+    qget().forEach(x=>{
+      if(x.t==='a'){const s=ST.q[x.n]||(ST.q[x.n]={ok:0,bad:0,c:[0,0,0]});x.c?s.ok++:s.bad++;if(x.ch!=null){s.c=s.c||[0,0,0];s.c[x.ch]=(s.c[x.ch]||0)+1}
+        [['tema',x.tm],['predpis',x.p]].forEach(([kd,nm])=>{const a=ST.area[kd][nm]||(ST.area[kd][nm]={ok:0,bad:0});x.c?a.ok++:a.bad++})}
+      else if(x.t==='r')ST.hist.unshift({created_at:new Date(x.d).toISOString(),total:x.total,answered:x.answered,correct:x.correct,limit:x.limit,timeout:x.timeout,tm:x.tm,p:x.p});
+    });
+  }
 }
 function stat(n){return ST.q[n]||{ok:0,bad:0}}
 function isWeak(n){const s=stat(n);return s.bad>0 && s.bad>=s.ok}
@@ -1135,7 +1207,15 @@ $('#btn-out').addEventListener('click',async()=>{
 });
 
 let sessionInitedFor, sessionBusy=false;
+/* Bez signálu knihovna přihlášení nedokáže obnovit prošlý token a hlásí „nepřihlášen“,
+   i když relace v zařízení dál leží (maže ji jen při skutečném odhlášení). Pak se jede
+   z uložené relace a z dat v zařízení – aplikace nesmí v tunelu spadnout na přihlášení. */
+let OFFLINE=false;
+function storedUser(){try{for(const k of Object.keys(localStorage)){if(k.indexOf('sb-')===0&&/-auth-token$/.test(k)){
+  const s=JSON.parse(localStorage.getItem(k)||'null');const u=s&&(s.user||(s.currentSession&&s.currentSession.user));if(u&&u.id)return u}}}catch(e){}return null}
 async function onSession(session){
+  if(!session){const u=storedUser();if(u){session={user:u};OFFLINE=true}}
+  else OFFLINE=false;
   const uid=(session&&session.user&&session.user.id)||null;
   if(sessionBusy)return;
   if(sessionInitedFor!==undefined && uid===sessionInitedFor)return;
@@ -1148,12 +1228,18 @@ async function onSessionInner(session,uid){
   if(!USER){ $('#app').hidden=true; $('#gate').hidden=false; $('#g-go').disabled=false; return }
   $('#gate').hidden=true; $('#app').hidden=false;
   try{
-    const {data}=await SB.from('profiles').select('*').eq('id',USER.id).maybeSingle();
+    const {data,error}=await SB.from('profiles').select('*').eq('id',USER.id).maybeSingle();
+    if(error)throw error;
     PROFILE=data||{email:USER.email,display_name:USER.email.split('@')[0],is_admin:false};
-  }catch(e){PROFILE={email:USER.email,is_admin:false}}
+    try{localStorage.setItem('zoz-profile-v1',JSON.stringify(Object.assign({uid:USER.id},PROFILE)))}catch(e){}
+  }catch(e){
+    // bez spojení profil z minula (jen když patří stejnému účtu)
+    let c=null;try{c=JSON.parse(localStorage.getItem('zoz-profile-v1')||'null')}catch(_){}
+    PROFILE=(c&&c.uid===USER.id)?c:{email:USER.email,display_name:(USER.email||'').split('@')[0],is_admin:false};
+  }
   $('#whoMail').textContent=PROFILE.display_name||USER.email;
   // když účet výběr řad ještě nemá, uloží se ten z tohoto zařízení
-  if(!loadRadyAccount()&&(MY_RADY.length||(ZRADY&&ZRADY.length)))saveRadyAccount();
+  if(!loadRadyAccount()&&!OFFLINE&&(MY_RADY.length||(ZRADY&&ZRADY.length)))saveRadyAccount();
   await loadSmenarPub();
   buildTabs(!!PROFILE.is_admin);
   $('#brandSub').textContent='načítám otázky…';
@@ -1170,6 +1256,7 @@ async function onSessionInner(session,uid){
     document.querySelector('main').insertAdjacentHTML('afterbegin',`<div class="section" id="noContent"><h2>Otázky nejsou k dispozici</h2><p class="hint" style="margin:0">${hint}</p></div>`);
   }else{
     $('#brandSub').innerHTML=brandSubText();
+    if(OFFLINE)toast('Bez signálu – jedeš z dat uložených v telefonu.');
   }
   buildTabs(!!PROFILE.is_admin);
   let v='predpisy';try{v=localStorage.getItem('zoz-view')||v}catch(e){}
@@ -1368,7 +1455,9 @@ function krChoose(i,oi){
   const d=m.dale||'';
   if(d.startsWith('#')){
     const t=krIdx(p,d.slice(1));
-    if(t>i){for(let x=i+1;x<t;x++){st.skip.add(x);st.done.delete(x)} for(let x=t;x<p.kroky.length;x++)st.skip.delete(x);krCutSiblings(p,st,t)}
+    // nadpis a upozornění těsně před cílovým bodem patří k němu – neschovávat („Vstupuješ-li do strojovny…“)
+    let t0=t;while(t0-1>i&&(p.kroky[t0-1].typ==='misto'||p.kroky[t0-1].typ==='pozor'))t0--;
+    if(t>i){for(let x=i+1;x<t0;x++){st.skip.add(x);st.done.delete(x)} for(let x=t0;x<p.kroky.length;x++)st.skip.delete(x);krCutSiblings(p,st,t)}
     else if(t>=0){for(let x=t;x<p.kroky.length;x++){if(x!==i){st.done.delete(x);st.skip.delete(x);if(p.kroky[x].typ==='rozhodnuti')delete st.ch[x]}}}
     krSave();renderKrize(true);
   }else if(d&&krById(d)){
@@ -1409,6 +1498,7 @@ async function krFotoLoad(p){
     else if(KF.fail.has(f.src))el.className='kf-th err';
   });
   if(LB.el&&LB.items)lbShow();
+  if(KB.on&&KR.id===p.id)kbRender();
 }
 /* prohlížeč */
 const LB={el:null,items:null,i:0,title:'',zoom:false};
@@ -1501,8 +1591,9 @@ function renderKrize(scroll){
   if(!KR.rada||!KR.id&&!radyWithP.some(r=>r.id===KR.rada)){
     const ord=[...RADY].sort((a,b)=>(MY_RADY.includes(b.id)-MY_RADY.includes(a.id)));
     root.innerHTML=`${KR_DISC_SHORT}<div class="setup"><h2>Krizové postupy <span class="beta">BETA</span></h2><p>Na jaké mašině jsi?</p>${isAdmin()?'<p class="hint" id="kr-note"></p>':''}
-      <div class="kr-grid">${ord.map(r=>{const n=POSTUPY.filter(p=>p.rada===r.id).length;return `<button class="rada" data-krrada="${esc(r.id)}" ${n?'':'disabled'}><b>${esc(r.nazev)}</b><small>${n?n+' postupů':'zatím bez postupů'}</small></button>`}).join('')}</div></div>`;
-    krizeNote();return;
+      <div class="kr-grid">${ord.map(r=>{const n=POSTUPY.filter(p=>p.rada===r.id).length;return `<button class="rada" data-krrada="${esc(r.id)}" ${n?'':'disabled'}><b>${esc(r.nazev)}</b><small>${n?n+' postupů':'zatím bez postupů'}</small></button>`}).join('')}</div>
+      <div id="kr-off"></div></div>`;
+    krizeNote();krOffline();return;
   }
   // 2) výběr poruchy
   if(!KR.id){
@@ -1515,7 +1606,9 @@ function renderKrize(scroll){
       ${KR_DISC_SHORT}
       <div class="setup"><h2>Jakou máš poruchu?</h2>
       <input type="search" class="kr-search" id="kr-q" placeholder="Hledej: sběrač, kompresor, hlavní vypínač, dveře…" value="${esc(KR.q)}">
+      <label class="check"><input type="checkbox" id="kr-auto" ${KB.auto?'checked':''}> Otevírat postupy rovnou v kabinovém režimu (velká tlačítka, noční barvy)</label>
       ${cats.map(c=>`<div class="kr-cat">${esc(c)}</div>${f.filter(p=>(p.kategorie||'Ostatní')===c).map(p=>`<button class="kr-item" data-krid="${esc(p.id)}"><b>${esc(p.nazev)}</b>${p.podnadpis?`<small>${esc(p.podnadpis)}</small>`:''}</button>`).join('')}`).join('')||'<p class="empty">Nic nenalezeno.</p>'}</div>`;
+    $('#kr-auto').onchange=e=>{KB.auto=e.target.checked;kbPref()};
     const inp=$('#kr-q');inp.addEventListener('input',()=>{KR.q=inp.value;const pos=inp.selectionStart;renderKrize();const n=$('#kr-q');n.focus();try{n.setSelectionRange(pos,pos)}catch(e){}});
     return;
   }
@@ -1559,7 +1652,7 @@ function renderKrize(scroll){
     html+=`<button class="mm-k${dn?' done':''}${cur?' cur':''}${locked?' locked':''}" data-krk="${i}"><span class="box">${dn?'✓':esc(k.c??'')}</span><span class="t">${esc(k.text)}${krFotoHtml(i,k)}</span></button>`;
   }
   if(finished)html+=`<div class="mm-end on big">✓ Postup dokončen</div>`;
-  root.innerHTML=`<div class="kr-top"><button class="btn small" data-krback="list">${back}</button><button class="btn small ghost" id="kr-reset">Začít znovu</button></div>
+  root.innerHTML=`<div class="kr-top"><button class="btn small" data-krback="list">${back}</button><button class="btn small ghost" id="kr-reset">Začít znovu</button><button class="btn small kr-kb" id="kr-kb" title="Jeden úkon přes celou obrazovku, velká tlačítka, noční barvy">☾ Kabinový režim</button></div>
     <div class="kr-head"><h2>${esc(p.nazev)}</h2>${p.podnadpis?`<div class="hint">${esc(p.podnadpis)}</div>`:''}
     <div class="kr-src">${esc(z.predpis||'')}${z.clanek?' · '+esc(z.clanek):''}${z.ucinnost?' · účinnost od '+esc(z.ucinnost):''}</div>
     ${p.uvod&&!(p.zavazne_poradi&&/pořadí úkonů je závazné/i.test(p.uvod))?`<div class="kr-info" style="margin-top:8px">${esc(p.uvod)}</div>`:''}
@@ -1568,6 +1661,7 @@ function renderKrize(scroll){
     <div class="mm"><div class="mm-root">${esc(p.nazev)}</div>${p.zavazne_poradi?'<div class="mm-zavazne"><span class="zi">!</span><span>Pořadí úkonů je závazné!</span><span class="zi">!</span></div>':''}${html}</div>
     ${KR_DISC_SHORT}`;
   $('#kr-reset').onclick=krReset;
+  $('#kr-kb').onclick=kbOpen;
   krFotoLoad(p);
   if(scroll&&ptr!==-1){const el=root.querySelector(`[data-krk="${ptr}"],.mm-q[data-i="${ptr}"]`);if(el)el.scrollIntoView({behavior:'smooth',block:'center'})}
 }
@@ -1577,17 +1671,195 @@ $('#kr-root').addEventListener('click',e=>{
     if(b.dataset.krback==='rada'){KR.rada=null;KR.id=null}
     else if(KR.stack.length){KR.id=KR.stack.pop()}else{KR.id=null}
     krSave();renderKrize();window.scrollTo(0,0);return}
-  const it=e.target.closest('[data-krid]');if(it){KR.id=it.dataset.krid;KR.stack=[];krSave();renderKrize();window.scrollTo(0,0);return}
+  const it=e.target.closest('[data-krid]');if(it){KR.id=it.dataset.krid;KR.stack=[];krSave();renderKrize();window.scrollTo(0,0);if(KB.auto)kbOpen();return}
+  if(e.target.closest('[data-kroff]')){KOFF.tried=false;krOffline();return}
   const f=e.target.closest('[data-krfoto]');if(f){e.preventDefault();e.stopPropagation();const [i,j]=f.dataset.krfoto.split('|').map(Number);krFotoOpen(i,j);return}
   const k=e.target.closest('[data-krk]');if(k){krClickKrok(+k.dataset.krk);return}
   const c=e.target.closest('[data-krch]');if(c){const [i,oi]=c.dataset.krch.split('|').map(Number);krChoose(i,oi)}
 });
 
+/* ===== připravenost na jízdu bez signálu: postupy i fotky k nim musí být uložené v zařízení ===== */
+const KOFF={busy:false,done:0,tot:0,tried:false};
+async function krOffline(){
+  if(!$('#kr-off'))return;
+  const src=[...new Set(POSTUPY.flatMap(p=>(p.kroky||[]).flatMap(k=>(k.foto||[]).map(f=>f.src))))];
+  const keys=new Set((await IDB.keys()).filter(k=>typeof k==='string'&&k.indexOf('kimg:')===0).map(k=>k.slice(5)));
+  const miss=src.filter(s=>!keys.has(s));
+  if(miss.length&&CONTENT_SAVED&&navigator.onLine&&SB&&!KOFF.busy&&!KOFF.tried){KOFF.tried=true;krOffDownload(miss);return}
+  const el=$('#kr-off');if(!el)return;
+  const swHint=location.protocol==='https:'&&'serviceWorker' in navigator&&!navigator.serviceWorker.controller;
+  const box=(warn,t)=>`<div class="kr-off${warn?' warn':''}"><span class="oi">${warn?'!':'✓'}</span><span>${t}</span></div>`;
+  const nf=n=>n===1?'1 fotka':n<5?n+' fotky':n+' fotek';
+  if(!CONTENT_SAVED)el.innerHTML=box(1,'Tenhle prohlížeč nedovolil uložit data do zařízení (anonymní okno?) – <b>bez signálu krizové postupy nepůjdou</b>.');
+  else if(KOFF.busy)el.innerHTML=box(1,`Stahuji fotky pro jízdu bez signálu… ${KOFF.done} / ${KOFF.tot}`);
+  else if(miss.length)el.innerHTML=box(1,`Postupy jsou uložené v telefonu, ale ${nf(miss.length)} ještě ne – stáhnou se, až budeš online.${navigator.onLine?'<br><button class="btn small" data-kroff>Stáhnout teď</button>':''}`);
+  else el.innerHTML=box(0,`<b>Připraveno na jízdu bez signálu.</b> ${POSTUPY.length} postupů${src.length?' a '+nf(src.length):''} je uložených v telefonu – krizové postupy i kabinový režim fungují i v tunelu.`);
+  if(swHint)el.insertAdjacentHTML('beforeend',box(1,'Aplikace se ještě neuložila pro spuštění bez signálu – otevři ji jednou znovu, dokud máš připojení.'));
+}
+async function krOffDownload(miss){
+  KOFF.busy=true;KOFF.tot=miss.length;KOFF.done=0;krOffline();
+  try{
+    for(let x=0;x<miss.length;x+=4){
+      const {data,error}=await SB.from('question_images').select('path,data').in('path',miss.slice(x,x+4));
+      if(error)throw error;
+      for(const r of data||[]){IMG[r.path]=r.data;KF.fail.delete(r.path);await IDB.set('kimg:'+r.path,r.data)}
+      KOFF.done=Math.min(miss.length,x+4);krOffline();
+    }
+  }catch(e){}
+  KOFF.busy=false;krOffline();
+}
+
+/* ===== kabinový režim: jeden úkon přes celou obrazovku, velká tlačítka, noční (červené) barvy,
+   předčítání nahlas a displej, který nezhasne. Stav sdílí s myšlenkovou mapou (KR.st). ===== */
+const KB={el:null,on:false,hist:[],lock:null,said:'',key:'',theme:'noc',tts:false,z:1,auto:false};
+try{const o=JSON.parse(localStorage.getItem('zoz-kabina-v1')||'{}');
+  KB.theme=o.theme==='den'?'den':'noc';KB.tts=!!o.tts;KB.auto=!!o.auto;KB.z=(+o.z>=.8&&+o.z<=1.8)?+o.z:1}catch(e){}
+function kbPref(){try{localStorage.setItem('zoz-kabina-v1',JSON.stringify({theme:KB.theme,tts:KB.tts,z:KB.z,auto:KB.auto}))}catch(e){}}
+function kbSnap(){const st={};Object.entries(KR.st).forEach(([k,v])=>st[k]={done:[...v.done],skip:[...v.skip],ch:{...v.ch}});return {id:KR.id,stack:KR.stack.slice(),st}}
+function kbRestore(s){KR.id=s.id;KR.stack=s.stack;KR.st={};
+  Object.entries(s.st).forEach(([k,v])=>KR.st[k]={done:new Set(v.done),skip:new Set(v.skip),ch:{...v.ch}});krSave()}
+const kbKind=m=>/^ano\b/i.test(m.text||'')?'ano':/^ne\b/i.test(m.text||'')?'ne':'jine';
+const kbLab=m=>(m.text||'').replace(/^(Ano|Ne)\b\s*[–—:-]?\s*/i,'');
+function kbOpts(k){const o={ano:0,jine:1,ne:2};return (k.moznosti||[]).map((m,oi)=>({m,oi,kd:kbKind(m),lab:kbLab(m)})).sort((a,b)=>o[a.kd]-o[b.kd])}
+function kbPreview(p,m){const d=m.dale||'';
+  if(d.startsWith('#')){const t=krIdx(p,d.slice(1));let k=p.kroky[t];if(k&&k.typ==='misto')k=p.kroky[t+1];return k?`→ ${k.c!=null?k.c+'. ':''}${k.text}`:''}
+  const q=krById(d);return q?`→ otevře postup: ${q.nazev}`:''}
+/* co je vidět: aktuální úkon + nadpisy, upozornění a informace mezi ním a posledním splněným úkonem */
+function kbView(p,st){
+  const K=p.kroky,vis=i=>!st.skip.has(i),ptr=krPtr(p,st),end=ptr===-1?K.length:ptr;
+  let j=end-1;while(j>=0&&!(ACT(K[j].typ)&&vis(j)))j--;
+  const ctx=[];for(let x=j+1;x<end;x++)if(vis(x))ctx.push(K[x]);
+  const nK=K.filter((k,i)=>k.typ==='krok'&&vis(i)).length,nD=K.filter((k,i)=>k.typ==='krok'&&vis(i)&&st.done.has(i)).length;
+  return {ptr,ctx,nK,nD,first:j<0};
+}
+function kbSayText(p,v){
+  const k=v.ptr>=0?p.kroky[v.ptr]:null,out=[];
+  v.ctx.forEach(c=>{if(c.typ==='pozor')out.push('Pozor! '+c.text);else if(c.typ==='misto')out.push(c.text+'.')});
+  if(!k)out.push('Postup dokončen.');
+  else if(k.typ==='krok')out.push((k.c!=null?'Bod '+k.c+'. ':'')+k.text);
+  else{out.push(k.text);kbOpts(k).forEach((o,x)=>out.push((o.kd==='ano'?'Ano':o.kd==='ne'?'Ne':'Možnost '+(x+1))+(o.lab?': '+o.lab:'')+'.'))}
+  return out.join(' ').replace(/!{2,}/g,'!');
+}
+function kbVoice(){try{return speechSynthesis.getVoices().find(v=>/^cs([-_]|$)/i.test(v.lang))||null}catch(e){return null}}
+function kbSpeak(t){
+  try{if(!window.speechSynthesis)return;speechSynthesis.cancel();if(!KB.tts||!t)return;
+    const u=new SpeechSynthesisUtterance(t);u.lang='cs-CZ';const v=kbVoice();if(v)u.voice=v;speechSynthesis.speak(u)}catch(e){}
+}
+async function kbWake(){
+  try{if(KB.on&&!KB.lock&&navigator.wakeLock){KB.lock=await navigator.wakeLock.request('screen');
+    KB.lock.addEventListener('release',()=>{KB.lock=null;kbWakeUi()})}}catch(e){KB.lock=null}
+  kbWakeUi();
+}
+function kbWakeUi(){const w=KB.el&&KB.el.querySelector('.wl');if(w)w.textContent=KB.lock?'☀ displej nezhasne':''}
+document.addEventListener('visibilitychange',()=>{if(KB.on&&document.visibilityState==='visible')kbWake()});
+function kbBuild(){
+  const d=document.createElement('div');d.className='kb';d.setAttribute('role','dialog');d.setAttribute('aria-modal','true');d.setAttribute('aria-label','Kabinový režim');
+  d.innerHTML=`<div class="kb-top"><button class="kb-ib" data-kb="close" aria-label="Zavřít kabinový režim">✕</button><span class="sp"></span>
+      <button class="kb-ib" data-kb="tts" aria-label="Předčítání nahlas"></button><button class="kb-ib" data-kb="zm" aria-label="Menší písmo">A−</button>
+      <button class="kb-ib" data-kb="zp" aria-label="Větší písmo">A+</button><button class="kb-ib" data-kb="theme" aria-label="Přepnout noční a denní barvy"></button></div>
+    <div class="kb-ttl"></div><div class="kb-prog"></div><div class="kb-body"><div class="kb-inner"></div></div><div class="kb-foot"></div>`;
+  document.body.appendChild(d);KB.el=d;
+  d.addEventListener('click',e=>{const b=e.target.closest('[data-kb]');if(!b||b.disabled)return;kbAct(b.dataset.kb,b.dataset.v)});
+  document.addEventListener('keydown',e=>{
+    if(!KB.on||(LB.el&&LB.el.classList.contains('on'))||e.target.closest('input,textarea,select'))return;
+    const p=krById(KR.id);if(!p)return;const st=krState(p.id),ptr=krPtr(p,st),k=ptr>=0?p.kroky[ptr]:null;
+    if(e.key==='Escape'){e.preventDefault();kbClose()}
+    else if(e.key==='Backspace'||e.key==='ArrowLeft'){e.preventDefault();kbAct('back')}
+    else if((e.key==='Enter'||e.key===' '||e.key==='ArrowRight')&&k&&k.typ==='krok'){e.preventDefault();kbAct('go')}
+    else if(/^[1-9]$/.test(e.key)&&k&&k.typ==='rozhodnuti'){const o=kbOpts(k)[+e.key-1];if(o){e.preventDefault();kbAct('ch',String(o.oi))}}
+  });
+  window.addEventListener('popstate',()=>{const s=history.state;if(KB.on&&!(s&&(s.kb||s.lb)))kbClose(true)});
+}
+function kbOpen(){
+  if(!KR.id||!krById(KR.id))return;
+  if(!KB.el)kbBuild();
+  KB.on=true;KB.hist=[];KB.key='';
+  document.documentElement.classList.add('kb-lock');
+  try{history.pushState({kb:1},'')}catch(e){}
+  kbWake();kbRender();
+}
+function kbClose(fromPop){
+  if(!KB.on)return;
+  KB.on=false;KB.el.classList.remove('on');document.documentElement.classList.remove('kb-lock');
+  try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
+  if(KB.lock){try{KB.lock.release()}catch(e){};KB.lock=null}
+  if(!fromPop){try{if(history.state&&history.state.kb)history.back()}catch(e){}}
+  renderKrize(true);
+}
+function kbAct(a,val){
+  const p=krById(KR.id);if(!p){kbClose();return}
+  const st=krState(p.id),ptr=krPtr(p,st);
+  if(a==='close'){kbClose();return}
+  if(a==='theme'){KB.theme=KB.theme==='noc'?'den':'noc';kbPref();kbRender();return}
+  if(a==='zm'||a==='zp'){KB.z=Math.round(Math.min(1.8,Math.max(.8,KB.z+(a==='zp'?.15:-.15)))*100)/100;kbPref();kbRender();return}
+  if(a==='tts'){
+    if(!window.speechSynthesis){toast('Tenhle prohlížeč neumí předčítat nahlas.');return}
+    KB.tts=!KB.tts;kbPref();KB.said='';
+    if(KB.tts)setTimeout(()=>{const vs=speechSynthesis.getVoices();if(vs.length&&!kbVoice())toast('V telefonu chybí český hlas – doinstaluj ho v nastavení (Převod textu na řeč).')},400);
+    else kbSpeak('');
+    kbRender();return}
+  if(a==='read'){KB.said='';kbRender();return}
+  if(a==='foto'){const k=p.kroky[ptr];const F=(k&&k.foto)||[];if(F.length)lbOpen(F.map(f=>({...f,krok:k.c})),+val||0);return}
+  if(a==='back'){if(!KB.hist.length)return;kbRestore(KB.hist.pop());renderKrize();kbRender();return}
+  KB.hist.push(kbSnap());if(KB.hist.length>200)KB.hist.shift();
+  if(a==='go'&&ptr>=0&&p.kroky[ptr].typ==='krok'){krClickKrok(ptr)}
+  else if(a==='ch'&&ptr>=0&&p.kroky[ptr].typ==='rozhodnuti'){krChoose(ptr,+val);if(KR.id!==p.id){const q=krById(KR.id);if(q)toast('Pokračuje postup: '+q.nazev)}}
+  else if(a==='reset'){krReset()}
+  else if(a==='parent'&&KR.stack.length){KR.id=KR.stack.pop();krSave();renderKrize()}
+  else{KB.hist.pop();return}
+  kbRender();
+}
+function kbRender(){
+  if(!KB.on)return;
+  const p=krById(KR.id);if(!p){kbClose();return}
+  const st=krState(p.id),v=kbView(p,st),k=v.ptr>=0?p.kroky[v.ptr]:null,d=KB.el;
+  d.className='kb on'+(KB.theme==='den'?' den':'');d.style.setProperty('--kb-z',KB.z);
+  d.querySelector('.kb-ttl').textContent=p.nazev;
+  const tb=d.querySelector('[data-kb="tts"]');tb.textContent=KB.tts?'🔊':'🔇';tb.setAttribute('aria-pressed',String(KB.tts));
+  d.querySelector('[data-kb="theme"]').textContent=KB.theme==='noc'?'☀':'☾';
+  d.querySelector('[data-kb="zm"]').disabled=KB.z<=.8;d.querySelector('[data-kb="zp"]').disabled=KB.z>=1.8;
+  d.querySelector('.kb-prog').innerHTML=`<span class="bar"><i style="width:${v.nK?v.nD/v.nK*100:v.ptr===-1?100:0}%"></i></span>${v.nK?`<span>${v.nD} / ${v.nK}</span>`:''}<span class="wl"></span>`;
+  kbWakeUi();
+  let h='';
+  if(v.first&&p.zavazne_poradi)h+=`<div class="kb-pozor">! Pořadí úkonů je závazné !</div>`;
+  if(v.first&&p.uvod&&!(p.zavazne_poradi&&/pořadí úkonů je závazné/i.test(p.uvod)))h+=`<div class="kb-info">${esc(p.uvod)}</div>`;
+  let ended=false;
+  v.ctx.forEach(c=>{
+    if(c.typ==='misto')h+=`<div class="kb-misto">${esc(c.text)}</div>`;
+    else if(c.typ==='pozor')h+=`<div class="kb-pozor">⚠ ${esc(c.text)}</div>`;
+    else if(c.typ==='info')h+=`<div class="kb-info">${esc(c.text)}</div>`;
+    else if(c.typ==='konec'){if(k)h+=`<div class="kb-info">✓ ${esc(c.text)}</div>`;else{h+=`<div class="kb-end">✓ ${esc(c.text)}</div>`;ended=true}}
+  });
+  if(k&&k.typ==='krok'){
+    h+=`${k.c!=null?`<div class="kb-num">bod <b>${esc(k.c)}</b></div>`:''}<div class="kb-txt">${esc(k.text)}</div>`;
+    const F=k.foto||[];
+    if(F.length)h+=`<div class="kb-foto">${F.map((f,j)=>`<button data-kb="foto" data-v="${j}" aria-label="${esc(f.popis||'Fotka')}" style="${IMG[f.src]?`background-image:url('${IMG[f.src]}')`:''}">${IMG[f.src]?'':KF.fail.has(f.src)?'bez fotky':'načítám…'}</button>`).join('')}</div>`;
+  }else if(k)h+=`<div class="kb-q"><div class="kb-txt">${esc(k.text)}</div></div>`;
+  else if(!ended)h+=`<div class="kb-end">✓ Postup dokončen</div>`;
+  if(KB.tts)h+=`<button class="kb-read" data-kb="read">🔊 Přečíst znovu</button>`;
+  d.querySelector('.kb-inner').innerHTML=h;
+  const back=`<button class="kb-back" data-kb="back" ${KB.hist.length?'':'disabled'} aria-label="Vrátit poslední úkon">↶ Zpět</button>`;
+  let f='';
+  if(k&&k.typ==='krok')f=`<div class="kb-row">${back}<button class="kb-go" data-kb="go">✓ HOTOVO</button></div>`;
+  else if(k)f=`<div class="kb-opts">${kbOpts(k).map(o=>{const pv=kbPreview(p,o.m);
+      return `<button class="kb-opt ${o.kd}" data-kb="ch" data-v="${o.oi}">${o.kd!=='jine'?`<span class="l">${o.kd==='ano'?'ANO':'NE'}</span>`:''}<span class="t">${o.lab?esc(o.lab):''}${pv?`<small>${esc(pv.length>90?pv.slice(0,89)+'…':pv)}</small>`:''}</span></button>`}).join('')}</div><div class="kb-row">${back}</div>`;
+  else{const par=KR.stack.length?krById(KR.stack[KR.stack.length-1]):null;
+    f=`${par?`<button class="kb-go" data-kb="parent">← Zpět do postupu<br><small style="font-size:14px;font-weight:600">${esc(par.nazev)}</small></button>`:''}
+      <div class="kb-row">${back}<button class="kb-2" data-kb="reset">Začít znovu</button><button class="kb-2" data-kb="close">Zavřít</button></div>`}
+  d.querySelector('.kb-foot').innerHTML=f+`<div class="kb-disc">Jen doporučený postup ze Závad v kostce – nezávazný. Za manipulace odpovídá strojvedoucí. Rozhoduje platný dokument v tabletu.</div>`;
+  const key=p.id+'|'+v.ptr+'|'+v.nD;
+  if(key!==KB.key){KB.key=key;d.querySelector('.kb-body').scrollTop=0}
+  if(KB.tts&&KB.said!==key){KB.said=key;kbSpeak(kbSayText(p,v))}
+  if(k&&(k.foto||[]).some(f=>!IMG[f.src]&&!KF.fail.has(f.src)))krFotoLoad(p);   // po načtení kabinu překreslí sám
+}
+
 /* =================== SMĚNÁŘ → KALENDÁŘ =================== */
 let SMENAR_PUB=false;
 function canSmenar(){return isAdmin()||SMENAR_PUB}
 async function loadSmenarPub(){
-  try{const {data}=await SB.from('app_meta').select('value').eq('key','smenar_verejne').maybeSingle();SMENAR_PUB=!!(data&&data.value==='true')}catch(e){SMENAR_PUB=false}
+  try{const {data,error}=await SB.from('app_meta').select('value').eq('key','smenar_verejne').maybeSingle();if(error)throw error;
+    SMENAR_PUB=!!(data&&data.value==='true');try{localStorage.setItem('zoz-smenar-pub',SMENAR_PUB?'1':'0')}catch(e){}}
+  catch(e){try{SMENAR_PUB=localStorage.getItem('zoz-smenar-pub')==='1'}catch(_){SMENAR_PUB=false}}
 }
 const SM_DNY=['ne','po','út','st','čt','pá','so'];
 const SM_MES=['ledna','února','března','dubna','května','června','července','srpna','září','října','listopadu','prosince'];
@@ -2599,7 +2871,10 @@ if(!SB){
 }else{
   SB.auth.getSession().then(({data})=>onSession(data.session));
   SB.auth.onAuthStateChange((_e,session)=>{setTimeout(()=>onSession(session),0)});
-  window.addEventListener('online',flushQueue);
+  window.addEventListener('online',async()=>{
+    await flushQueue();
+    if(STATS_OFF&&USER){await loadStats();if(!$('#view-statistiky').hidden)renderStats()}
+  });
 }
 renderInstallBox();
 if('serviceWorker' in navigator && (location.protocol==='https:'||location.hostname==='localhost'||location.hostname==='127.0.0.1')){

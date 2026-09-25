@@ -1,7 +1,7 @@
 /* ZOZ Trenažér – service worker
    Umožňuje instalaci na plochu telefonu a spuštění i bez signálu.
    Verzi zvyš při každé nové verzi index.html, ať se lidem stáhne. */
-const VERSION = 'zoz-v23';
+const VERSION = 'zoz-v24';
 const SHELL   = 'shell-' + VERSION;
 const RUNTIME = 'runtime-' + VERSION;
 
@@ -13,7 +13,9 @@ const SHELL_FILES = [
   './icon-192.png',
   './icon-512.png',
   './icon-512-maskable.png',
-  './apple-touch-icon.png'
+  './apple-touch-icon.png',
+  // knihovna přihlášení – bez ní se aplikace bez signálu nespustí; uložit hned při instalaci
+  'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js'
 ];
 
 self.addEventListener('install', e => {
