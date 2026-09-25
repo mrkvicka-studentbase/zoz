@@ -1,5 +1,17 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – Návěstní atlas a trenažér závazných slovních znění
+
+Nahraj `index.html`, `sw.js` a **nový soubor `navesti.json`** (1,8 MB, obrázky návěstí) z `na_web.zip` – všechny tři vedle sebe do kořene webu. Databáze se nemění. Offline režim je `shell-zoz-v25`.
+
+- **Návěstní atlas** (záložka Návěsti, na mobilu pod „Více“): 275 návěstí z SŽ D1 s obrázkem, vzhledem (kurzívou z předpisu), významem a odkazem na článek a stranu. Hledání („přerušované bílé“, „rychlostník“), filtr podle skupin (hlavní návěstidla, předvěsti, posun, elektrický provoz, přejezdy…), detail s listováním a odkazem na otázky, kde se návěst objevuje.
+- **Kvíz návěstí**: 10 otázek – obrázek → název, nebo název → vyber obrázek; možnosti ze stejné skupiny, po odpovědi vzhled a význam. Přednostně dává návěsti, ve kterých chybuješ; filtr „Chybuji“.
+- **Závazná slovní znění** (záložka Znění): 16 znění ze Z11, D1, D2 a ObŘ (G-STOP, horké ložisko STOP/K, nouzové hlášení, informace o návěsti telefonem, odvolání výpravy a tvoje potvrzení, souhlas k posunu, sunutý vlak, ohlášení a zkouška spojení) + 10 výrazů terminologie Z11 přílohy O. Aplikace zadá situaci s konkrétním číslem vlaku a stanicí, ty znění napíšeš nebo **nadiktuješ** (🎤, česky – diktování potřebuje připojení) a uvidíš, která slova chyběla. Režim Kartičky a Přehled všech znění. Znění, která předpis uvádí jen jako příklad, jsou označená „vzor“.
+- Hledání „Co teď?“ nabídne odkaz do atlasu, když dotaz odpovídá názvu návěsti.
+- Atlas se po přihlášení stáhne na pozadí a uloží do telefonu – funguje i bez signálu. Nová verze D1: vyměň `D1.pdf` a spusť `python3 web/tools/navesti.py` (vyžaduje `pip install pymupdf`).
+
+---
+
 ## ⬆ Aktualizace – GSM-R zkrácené volby s vyhledáváním
 
 Stačí nahrát `index.html` a `sw.js` z `na_web.zip`. Databáze se nemění.

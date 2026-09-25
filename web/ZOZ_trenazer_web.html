@@ -686,6 +686,60 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .h-gz svg{width:22px;height:22px;fill:none;stroke:var(--accent);stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
 .h-gz>span:nth-child(2){flex:1;min-width:0}
 .h-gz .h-go{color:var(--accent);font-weight:700;font-size:13.5px}
+/* návěstní atlas */
+.nv-kats{display:flex;gap:6px;overflow-x:auto;padding:6px 0 2px;scrollbar-width:thin}
+.nv-kats .h-t{white-space:nowrap;flex:0 0 auto}
+.nv-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(132px,1fr));gap:10px;margin-top:12px}
+.nv-c{display:flex;flex-direction:column;align-items:stretch;gap:6px;font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line2);border-radius:12px;padding:8px;cursor:pointer;text-align:left}
+.nv-c:hover{border-color:var(--accent)}
+.nv-im{height:118px;background:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.nv-im img{max-width:100%;max-height:110px;object-fit:contain}
+.nv-nm{font-size:13px;font-weight:600;line-height:1.3}
+.nv-nm mark{background:var(--warn-soft);color:inherit;border-radius:3px}
+.nv-dlg{position:fixed;inset:0;z-index:950;background:rgba(8,10,9,.6);display:none;align-items:flex-end;justify-content:center}
+.nv-dlg.on{display:flex}
+.nv-box{background:var(--panel);color:var(--ink);width:100%;max-width:640px;max-height:92vh;overflow-y:auto;border-radius:16px 16px 0 0;padding:14px 18px calc(18px + env(safe-area-inset-bottom))}
+@media (min-width:700px){.nv-dlg{align-items:center}.nv-box{border-radius:16px}}
+.nv-top{display:flex;justify-content:space-between;align-items:center}
+.nv-x{background:var(--panel2)!important;color:var(--ink)!important}
+.nv-imgs{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;background:#fff;border-radius:12px;padding:12px;margin:10px 0}
+.nv-imgs img{max-height:220px;max-width:100%;object-fit:contain}
+.nv-box h2{margin:6px 0 4px}
+.nv-vz{font-style:italic;color:var(--ink2);margin:4px 0 8px}
+.nv-vy{margin:6px 0 10px;padding-left:20px}
+.nv-vy li{margin:3px 0}
+.nv-nav{display:flex;gap:8px;justify-content:space-between;flex-wrap:wrap;margin-top:12px}
+.nv-qimg{display:flex;gap:14px;justify-content:center;background:#fff;border-radius:12px;padding:14px;margin:10px 0}
+.nv-qimg img{max-height:200px;max-width:100%;object-fit:contain}
+.nv-qi{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:14px}
+.nv-o{position:relative;display:flex;align-items:center;justify-content:center;height:150px;background:#fff;border:2px solid var(--line);border-radius:12px;cursor:pointer;padding:8px}
+.nv-o img{max-height:130px;max-width:100%;object-fit:contain}
+.nv-o .k{position:absolute;left:6px;top:4px;font-family:var(--mono);font-weight:700;color:var(--accent);background:var(--panel);border-radius:6px;padding:0 5px}
+.nv-o.right{border-color:var(--ok);box-shadow:0 0 0 3px var(--ok-soft)}
+.nv-o.wrong{border-color:var(--bad);box-shadow:0 0 0 3px var(--bad-soft)}
+/* závazná slovní znění */
+.zn-lh{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:8px}
+.zn-vz{background:var(--warn-soft);color:var(--warn)}
+.zn-zv{background:var(--ok-soft);color:var(--ok)}
+.zn-list{display:flex;flex-direction:column;gap:10px;margin-top:10px}
+.zn-li{border:1px solid var(--line2);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:4px}
+.zn-li small{color:var(--ink3);font-size:12px}
+.zn-li .zn-p{color:var(--ink2)}
+.zn-q{font-size:16px;font-weight:600;line-height:1.45}
+.zn-var{font-weight:500;color:var(--accent)}
+.zn-inw{position:relative;margin-top:14px}
+.zn-inw textarea{width:100%;font:inherit;font-size:16px;padding:12px 56px 12px 14px;border:1.5px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);resize:vertical}
+.zn-inw textarea:focus{outline:none;border-color:var(--accent)}
+.zn-mic{position:absolute;right:8px;top:8px;width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--panel2);font-size:19px;cursor:pointer}
+.zn-mic.on{background:var(--bad);border-color:var(--bad);animation:znp 1s infinite}
+@keyframes znp{50%{box-shadow:0 0 0 6px var(--bad-soft)}}
+.zn-res{margin-top:14px;padding:10px 12px;border-radius:8px;font-size:15px}
+.zn-res.ok{background:var(--ok-soft);color:var(--ok)}.zn-res.bad{background:var(--bad-soft);color:var(--bad)}
+.zn-cmp{margin-top:10px;display:flex;flex-direction:column;gap:4px}
+.zn-cmp small{color:var(--ink3);font-size:12px;margin-top:4px}
+.zn-ok{color:var(--ok)}
+.zn-miss{color:var(--bad);text-decoration:underline wavy;text-underline-offset:3px}
+.zn-got{background:var(--panel2);border-radius:8px;padding:8px 12px;font-size:14.5px}
 .kr-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;z-index:50;max-width:90vw}
 .refresh-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
 .optstat{margin-top:12px;padding:10px 12px;background:var(--panel2);border-radius:8px}
@@ -925,6 +979,16 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
   <div id="pl-root"></div>
 </section>
 
+<!-- NÁVĚSTNÍ ATLAS -->
+<section class="view" id="view-navesti" hidden>
+  <div id="nv-root"></div>
+</section>
+
+<!-- ZÁVAZNÁ SLOVNÍ ZNĚNÍ -->
+<section class="view" id="view-zneni" hidden>
+  <div id="zn-root"></div>
+</section>
+
 <!-- GSM-R ZKRÁCENÉ VOLBY -->
 <section class="view" id="view-gsmr" hidden>
   <div id="gz-root"></div>
@@ -1082,7 +1146,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 02:30";
+const BUILD = "26.09.2026 04:10";
 </script>
 <script>
 (function(){
@@ -2002,7 +2066,7 @@ function hBuild(){
   SI={voc,by,docs,src:DATA,psrc:POSTUPY,cache:new Map()};
 }
 // index se sestaví na pozadí hned po načtení obsahu, ať je hledání okamžitě připravené
-function hPrebuild(){const go=()=>{if(DATA.length&&(!SI||SI.src!==DATA||SI.psrc!==POSTUPY))hBuild()};
+function hPrebuild(){const go=()=>{if(DATA.length&&(!SI||SI.src!==DATA||SI.psrc!==POSTUPY))hBuild();if(navigator.onLine)nvLoad()};   // atlas do zařízení pro jízdu bez signálu
   if(window.requestIdleCallback)requestIdleCallback(go,{timeout:8000});else setTimeout(go,1500)}
 function hDist(a,b,max){   // Damerau-Levenshtein s ořezem
   if(Math.abs(a.length-b.length)>max)return max+1;
@@ -2108,7 +2172,9 @@ function hResults(){
   const list=pool.filter(r=>H.f==='vse'||cat(r)===H.f);
   // odkaz na zkrácené volby GSM-R, když dotaz odpovídá stanici / trati
   const gz=GSMR?gzSearch(q):null,gzn=gz?gz.rows.length:0;
-  const gzl=gzn||(gz&&gz.op.length)?`<button class="h-gz" data-hgz>${ico('gsmr')}<span><b>GSM-R zkrácené volby</b> – ${gzn?`${gzn} ${plural(gzn,'volba','volby','voleb')}`:'místní opatření'} pro „${esc(q)}“</span><span class="h-go">Otevřít →</span></button>`:'';
+  const nvn=NV.data?(()=>{const t=gzTerms(q);return t.length?NV.data.navesti.filter(n=>t.every(x=>hNorm(n.nazev).includes(x))).length:0})():0;
+  const nvl=nvn?`<button class="h-gz" data-hnv>${ico('navesti')}<span><b>Návěstní atlas</b> – ${nvn} ${plural(nvn,'návěst','návěsti','návěstí')} pro „${esc(q)}“</span><span class="h-go">Otevřít →</span></button>`:'';
+  const gzl=nvl+(gzn||(gz&&gz.op.length)?`<button class="h-gz" data-hgz>${ico('gsmr')}<span><b>GSM-R zkrácené volby</b> – ${gzn?`${gzn} ${plural(gzn,'volba','volby','voleb')}`:'místní opatření'} pro „${esc(q)}“</span><span class="h-go">Otevřít →</span></button>`:'');
   if(!list.length){box.innerHTML=gzl+`<p class="empty">Nic nenalezeno${H.moje&&res.length>pool.length?' u tvých řad – zkus vypnout „jen moje řady“':''}. Zkus jiné slovo nebo kratší dotaz.</p>`;return}
   const show=list.slice(0,H.lim);
   let apx=false;
@@ -2135,6 +2201,7 @@ function hClick(e){
   const s=e.target.closest('[data-hs]');if(s){H.q=s.dataset.hs;$('#h-q').value=H.q;H.lim=30;H.open.clear();hRemember(H.q);hResults();return}
   const f=e.target.closest('[data-hf]');if(f){H.f=f.dataset.hf;H.lim=30;hPref();hResults();return}
   if(e.target.closest('[data-hlim]')){H.lim+=30;hResults();return}
+  if(e.target.closest('[data-hnv]')){NV.q=H.q;NV.kat='';NV.quiz=null;hRemember(H.q);showView('navesti');window.scrollTo(0,0);return}
   if(e.target.closest('[data-hgz]')){GZS.q=H.q;hRemember(H.q);showView('gsmr');window.scrollTo(0,0);return}
   const n=e.target.closest('[data-hn]');if(n){const k=+n.dataset.hn;H.open.has(k)?H.open.delete(k):H.open.add(k);hRemember(H.q);hResults();return}
   const p=e.target.closest('[data-hp]');if(p){const pp=krById(p.dataset.hp);if(!pp)return;hRemember(H.q);
@@ -2240,6 +2307,316 @@ function gzResults(){
         ${r.obvod?`<small>${hl(r.obvod)}</small>`:''}${r.pozn&&r.typ!=='ppv'?`<small class="gz-pz">${esc(r.pozn)}</small>`:''}</span><span class="gz-s">str. ${r.str}</span></div>`).join('')}</div>`}).join('');
   box.innerHTML=h+gzObecne();
 }
+/* =================== NÁVĚSTNÍ ATLAS =================== */
+/* Data (web/navesti.json) vyrábí web/tools/navesti.py z D1.pdf. Soubor se stáhne až při prvním
+   otevření (nebo na pozadí po načtení obsahu), uloží se do zařízení a pak jde bez signálu. */
+const NV={data:null,busy:null,err:'',q:'',kat:'',open:null,quiz:null};
+let NS={};try{NS=JSON.parse(localStorage.getItem('zoz-navesti-v1')||'{}')}catch(e){}
+function nvMark(id,ok){const s=NS[id]||(NS[id]={ok:0,bad:0});ok?s.ok++:s.bad++;try{localStorage.setItem('zoz-navesti-v1',JSON.stringify(NS))}catch(e){}}
+function nvLoad(){
+  if(NV.data||NV.busy)return NV.busy||Promise.resolve(NV.data);
+  NV.busy=(async()=>{
+    let d=null;
+    try{const r=await fetch('navesti.json',{cache:'no-cache'});if(!r.ok)throw new Error('HTTP '+r.status);d=await r.json();IDB.set('navesti',d)}
+    catch(e){d=await IDB.get('navesti');if(!d)NV.err='Návěstní atlas se nepodařilo stáhnout. Otevři ho jednou s připojením k internetu, pak půjde i bez signálu.'}
+    if(d&&d.navesti){d.navesti.forEach(n=>n._s=hNorm([n.nazev,n.vzhled,n.kat,...(n.vyznam||[])].join(' ')));NV.data=d}
+    NV.busy=null;return NV.data;
+  })();
+  return NV.busy;
+}
+function nvList(){
+  const d=NV.data;if(!d)return [];const terms=gzTerms(NV.q);
+  const ok=n=>(!NV.kat||n.kat===NV.kat||(NV.kat==='_slabe'&&NS[n.id]&&NS[n.id].bad>NS[n.id].ok));
+  if(!terms.length)return d.navesti.filter(ok);
+  return d.navesti.filter(ok).map(n=>{const nz=hNorm(n.nazev);let v=0;
+      for(const t of terms){if(!n._s.includes(t)&&!(t.length>=5&&n._s.includes(t.slice(0,-2))))return null;v+=nz.includes(t)?3:1}
+      return {n,v}}).filter(Boolean).sort((a,b)=>b.v-a.v).map(x=>x.n);
+}
+function renderNavesti(){
+  const root=$('#nv-root');if(!root)return;
+  if(!NV.data){root.innerHTML=`<div class="setup"><h2>Návěstní atlas</h2><p class="empty">${NV.err?esc(NV.err):'Načítám návěsti…'}</p></div>`;
+    if(!NV.err)nvLoad().then(()=>{if(!$('#view-navesti').hidden)renderNavesti()});return}
+  if(NV.quiz)return nvRenderQuiz(root);
+  const d=NV.data;
+  if(!$('#nv-q')){
+    root.innerHTML=`<div class="setup nv"><h2>Návěstní atlas</h2>
+      <p class="hint" style="margin:0 0 6px">${d.navesti.length} návěstí z ${esc(d.zdroj)}${d.meta&&d.meta.ucinnost?` (účinnost od ${esc(d.meta.ucinnost)})`:''} – obrázek, vzhled a význam. Klepni pro detail.</p>
+      <input type="search" class="kr-search h-inp" id="nv-q" placeholder="Hledej: výstraha, přerušované bílé, sběrač, rychlostník…" autocomplete="off" spellcheck="false">
+      <div class="nv-kats" id="nv-kats"></div>
+      <div class="setup-actions" style="margin-top:6px"><button class="btn primary" data-nv="quiz">Kvíz: 10 návěstí</button><span class="count" id="nv-n"></span></div>
+      <div class="nv-grid" id="nv-grid"></div></div>`;
+    let tm=null;$('#nv-q').addEventListener('input',e=>{NV.q=e.target.value;clearTimeout(tm);tm=setTimeout(nvGrid,90)});
+  }
+  if($('#nv-q').value!==NV.q)$('#nv-q').value=NV.q;
+  nvGrid();
+}
+function nvGrid(){
+  const d=NV.data,list=nvList(),weak=d.navesti.filter(n=>NS[n.id]&&NS[n.id].bad>NS[n.id].ok).length;
+  $('#nv-kats').innerHTML=[['','Vše'],...d.kategorie.map(k=>[k,k]),...(weak?[['_slabe',`Chybuji (${weak})`]]:[])].map(([k,l])=>`<button class="h-t" data-nvk="${esc(k)}" aria-pressed="${NV.kat===k}">${esc(l)}</button>`).join('');
+  $('#nv-n').textContent=`${list.length} ${plural(list.length,'návěst','návěsti','návěstí')}`;
+  const terms=gzTerms(NV.q);
+  $('#nv-grid').innerHTML=list.map(n=>`<button class="nv-c" data-nvo="${esc(n.id)}"><span class="nv-im"><img src="${n.img[0]}" alt="" loading="lazy"></span><span class="nv-nm">${terms.length?gzHl(n.nazev,terms):esc(n.nazev)}</span></button>`).join('')||'<p class="empty">Nic nenalezeno.</p>';
+}
+function nvDetail(id){
+  const list=nvList(),i=list.findIndex(n=>n.id===id),n=list[i]||NV.data.navesti.find(x=>x.id===id);if(!n)return;
+  NV.open=n.id;
+  let dl=$('#nv-dlg');
+  if(!dl){dl=document.createElement('div');dl.id='nv-dlg';dl.className='nv-dlg';dl.setAttribute('role','dialog');dl.setAttribute('aria-modal','true');document.body.appendChild(dl);
+    dl.addEventListener('click',e=>{if(e.target===dl||e.target.closest('[data-nvx]')){nvClose();return}
+      const g=e.target.closest('[data-nvgo]');if(g){nvDetail(g.dataset.nvgo);return}
+      const h=e.target.closest('[data-nvh]');if(h){nvClose();H.q=h.dataset.nvh;showView('hledat');window.scrollTo(0,0)}});
+    document.addEventListener('keydown',e=>{if(!dl.classList.contains('on'))return;if(e.key==='Escape')nvClose();
+      else if(e.key==='ArrowRight'||e.key==='ArrowLeft'){const b=dl.querySelector(e.key==='ArrowRight'?'.nx':'.pv');if(b&&!b.disabled)b.click()}});
+    window.addEventListener('popstate',()=>{if(dl.classList.contains('on'))nvClose(true)});}
+  const qs=DATA.filter(q=>!isLoko(q)&&hNorm(q.otazka+' '+q.odpoved).includes(hNorm(n.nazev))).length;
+  const prev=list[i-1],next=list[i+1],s=NS[n.id];
+  dl.innerHTML=`<div class="nv-box"><div class="nv-top"><span class="chip tema">${esc(n.kat)}</span><button class="lb-x nv-x" data-nvx aria-label="Zavřít">✕</button></div>
+    <div class="nv-imgs">${n.img.map(src=>`<img src="${src}" alt="${esc(n.nazev)}">`).join('')}</div>
+    <h2>${esc(n.nazev)}</h2>${n.vzhled?`<p class="nv-vz">${esc(n.vzhled)}</p>`:''}
+    ${n.vyznam&&n.vyznam.length?`<ul class="nv-vy">${n.vyznam.map(v=>`<li>${esc(v)}</li>`).join('')}</ul>`:''}
+    <div class="src"><span>§ SŽ D1 čl. ${n.cl} odst. (${n.odst}) – ${esc(n.clanek)}</span><span>str. ${n.str}</span></div>
+    ${s?`<p class="count">v kvízu ✓${s.ok} ✗${s.bad}</p>`:''}
+    <div class="nv-nav"><button class="btn pv" data-nvgo="${prev?esc(prev.id):''}" ${prev?'':'disabled'}>‹ Předchozí</button>
+      ${qs?`<button class="btn ghost" data-nvh="${esc(n.nazev)}">Otázky k návěsti (${qs})</button>`:''}
+      <button class="btn nx" data-nvgo="${next?esc(next.id):''}" ${next?'':'disabled'}>Další ›</button></div></div>`;
+  if(!dl.classList.contains('on')){dl.classList.add('on');document.documentElement.classList.add('lb-lock');try{history.pushState({nv:1},'')}catch(e){}}
+  dl.querySelector('.nv-box').scrollTop=0;
+}
+function nvClose(fromPop){const dl=$('#nv-dlg');if(!dl||!dl.classList.contains('on'))return;dl.classList.remove('on');document.documentElement.classList.remove('lb-lock');NV.open=null;
+  if(!fromPop){try{if(history.state&&history.state.nv)history.back()}catch(e){}}}
+/* kvíz: obrázek → vyber název, nebo název → vyber obrázek; možnosti přednostně ze stejné kategorie */
+function nvQuiz(){
+  const pool=nvList();if(pool.length<3){toast('Na kvíz je potřeba aspoň 3 návěsti ve výběru.');return}
+  const w=n=>{const s=NS[n.id];return (s?s.bad-s.ok:1)+Math.random()*2};
+  const qs=pool.slice().sort((a,b)=>w(b)-w(a)).slice(0,10).map(n=>{
+    const same=NV.data.navesti.filter(x=>x.kat===n.kat&&hNorm(x.nazev)!==hNorm(n.nazev));
+    const other=NV.data.navesti.filter(x=>x.kat!==n.kat&&hNorm(x.nazev)!==hNorm(n.nazev));
+    const ds=[];for(const x of shuffle(same).concat(shuffle(other))){if(ds.length>=2)break;if(!ds.some(y=>hNorm(y.nazev)===hNorm(x.nazev)))ds.push(x)}
+    return {n,opts:shuffle([n,...ds]),rev:Math.random()<.35,a:null}});
+  NV.quiz={qs,i:0};renderNavesti();window.scrollTo(0,0);
+}
+function nvRenderQuiz(root){
+  const Q=NV.quiz;
+  if(Q.i>=Q.qs.length){const ok=Q.qs.filter(x=>x.a===x.n.id).length,bad=Q.qs.filter(x=>x.a!==x.n.id);
+    root.innerHTML=`<div class="pl-run"><div class="z-verdict ${ok>=8?'ok':'bad'}"><div class="big">${ok} z ${Q.qs.length} správně</div><div class="sm">Kvíz návěstí</div></div>
+      ${bad.length?`<div class="setup"><h3 class="subh">Chyby</h3><div class="nv-grid">${bad.map(x=>`<button class="nv-c" data-nvo="${esc(x.n.id)}"><span class="nv-im"><img src="${x.n.img[0]}" alt=""></span><span class="nv-nm">${esc(x.n.nazev)}</span></button>`).join('')}</div></div>`:''}
+      <div class="setup-actions"><button class="btn primary" data-nv="quiz">Další kvíz</button><button class="btn" data-nv="atlas">Zpět do atlasu</button></div></div>`;return}
+  const x=Q.qs[Q.i],done=x.a!=null;
+  const cls=o=>done?(o.id===x.n.id?' right':o.id===x.a?' wrong':''):'';
+  root.innerHTML=`<div class="pl-run"><div class="z-head"><span class="ph">Kvíz návěstí</span><span class="count">${Q.i+1} / ${Q.qs.length}</span><button class="btn small ghost" data-nv="atlas" style="margin-left:auto">Ukončit</button></div>
+    <div class="progress"><i style="width:${Q.i/Q.qs.length*100}%"></i></div>
+    <div class="card">${x.rev?`<div class="q-num">Která je to návěst?</div><div class="qtext">${esc(x.n.nazev)}</div>
+        <div class="nv-qi">${x.opts.map((o,k)=>`<button class="nv-o${cls(o)}" data-nva="${esc(o.id)}" ${done?'disabled':''}><span class="k">${'ABC'[k]}</span><img src="${o.img[0]}" alt="možnost ${'ABC'[k]}"></button>`).join('')}</div>`
+      :`<div class="q-num">Jak se jmenuje tato návěst?</div><div class="nv-qimg">${x.n.img.slice(0,2).map(s=>`<img src="${s}" alt="">`).join('')}</div>
+        <div class="opts">${x.opts.map((o,k)=>`<button class="opt${cls(o)}" data-nva="${esc(o.id)}" ${done?'disabled':''}><span class="k">${'ABC'[k]}</span><span>${esc(o.nazev)}</span></button>`).join('')}</div>`}
+      ${done?`<div class="feedback"><div class="pl-fb ${x.a===x.n.id?'ok':'bad'}">${x.a===x.n.id?'✓ Správně':'✗ Špatně – je to „'+esc(x.n.nazev)+'“'}</div>
+        ${x.n.vzhled?`<p class="nv-vz">${esc(x.n.vzhled)}</p>`:''}${x.n.vyznam&&x.n.vyznam.length?`<ul class="nv-vy">${x.n.vyznam.map(v=>`<li>${esc(v)}</li>`).join('')}</ul>`:''}
+        <div class="src"><span>§ SŽ D1 čl. ${x.n.cl} odst. (${x.n.odst})</span></div></div>`:''}
+      <div class="card-actions"><span class="count">klávesy <kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>, dál <kbd>Enter</kbd></span><div class="grp"><button class="btn primary" data-nv="next" ${done?'':'disabled'}>${Q.i===Q.qs.length-1?'Vyhodnotit':'Další →'}</button></div></div></div></div>`;
+}
+function nvAnswer(id){const x=NV.quiz.qs[NV.quiz.i];if(x.a!=null)return;x.a=id;nvMark(x.n.id,id===x.n.id);renderNavesti()}
+$('#nv-root').addEventListener('click',e=>{
+  const o=e.target.closest('[data-nvo]');if(o){nvDetail(o.dataset.nvo);return}
+  const k=e.target.closest('[data-nvk]');if(k){NV.kat=k.dataset.nvk;nvGrid();return}
+  const a=e.target.closest('[data-nva]');if(a){nvAnswer(a.dataset.nva);return}
+  const b=e.target.closest('[data-nv]');if(!b||b.disabled)return;
+  if(b.dataset.nv==='quiz')nvQuiz();
+  else if(b.dataset.nv==='atlas'){NV.quiz=null;$('#nv-root').innerHTML='';renderNavesti();window.scrollTo(0,0)}
+  else if(b.dataset.nv==='next'){NV.quiz.i++;renderNavesti();window.scrollTo(0,0)}
+});
+document.addEventListener('keydown',e=>{
+  if($('#view-navesti').hidden||!NV.quiz||e.target.closest('input,textarea')||($('#nv-dlg')&&$('#nv-dlg').classList.contains('on')))return;
+  const x=NV.quiz.qs[NV.quiz.i];if(!x)return;const k='abc'.indexOf(e.key.toLowerCase());
+  if(x.a==null&&k>=0&&x.opts[k]){e.preventDefault();nvAnswer(x.opts[k].id)}
+  else if(x.a!=null&&e.key==='Enter'){e.preventDefault();NV.quiz.i++;renderNavesti()}
+});
+
+/* =================== ZÁVAZNÁ SLOVNÍ ZNĚNÍ – TRENAŽÉR =================== */
+/* Znění jsou doslovně z předpisů (kurzívou v uvozovkách = závazné). {…} jsou proměnné části,
+   které předpis dovoluje měnit (číslo vlaku, stanice, kolej, příjmení…) – doplní se náhodně. */
+const ZN_ST=[   // název, 2. pád … pro „mezi X a Y“ (7. pád) a „v X“ (6. pád)
+  {n:'Luh',i:'Luhem',l:'Luhu'},{n:'Bor',i:'Borem',l:'Boru'},{n:'Les',i:'Lesem',l:'Lese'},{n:'Hořetín',i:'Hořetínem',l:'Hořetíně'},
+  {n:'Bečov',i:'Bečovem',l:'Bečově'},{n:'Kočov',i:'Kočovem',l:'Kočově'},{n:'Řepín',i:'Řepínem',l:'Řepíně'},{n:'Kájov',i:'Kájovem',l:'Kájově'},
+  {n:'Jevíčko',i:'Jevíčkem',l:'Jevíčku'},{n:'Olše',i:'Olší',l:'Olši'},{n:'Řevnice',i:'Řevnicemi',l:'Řevnicích'},{n:'Třebaň',i:'Třebaní',l:'Třebani'}];
+const ZN_KOL=[['z první'],['ze druhé'],['ze třetí'],['ze čtvrté'],['z páté'],['ze šesté']];
+const ZN_NAV=['Lc3','S3','L2','S1','Sc5','L4','S2'];
+const ZN_PRIJ=['Bára','Novák','Topinka','Sokol','Krejčí','Vávra','Liška'];
+const ZN_NAVEST=['Výstraha','Volno','Stůj','Očekávejte rychlost 40 km/h','Rychlost 40 km/h a výstraha','Rychlost 40 km/h a volno'];
+const ZN_ZAL=['První záloha','Druhá záloha','Třetí záloha'];
+const ZNENI=[
+ {id:'gstop',kat:'Zastavení a nebezpečí',kdo:'výpravčí / dispečer',typ:'z',
+  sit:'Výpravčí potřebuje rádiem okamžitě zastavit všechny vlaky, posun i PMD v dosahu radiostanice – dává návěst Stůj, zastavte všemi prostředky. Jak zní pokyn?',
+  zn:'Pozor, pozor, všechny vlaky na příjmu, stop, stop.',zdroj:'SŽ Z11 čl. 4 odst. (19), tab. 1',
+  pozn:'Týká se všech HDV v dosahu radiostanice. Strojvedoucí zahájí rychločinné brzdění, i když uslyší jen část pokynu.'},
+ {id:'ihl-stop',kat:'Zastavení a nebezpečí',kdo:'výpravčí',typ:'z',
+  sit:'Diagnostika (ASDEK) indikovala u vlaku {vlak} horké ložisko stupně STOP. Jak tě výpravčí závazně vyrozumí?',
+  zn:'Vlak {vlak}, indikováno horké ložisko stupně STOP, okamžitě zastavte!',zdroj:'Pokyny pro vyhodnocovací zařízení (ObŘ, příloha pro ŽST/ODB) čl. 4.1 a)',
+  pozn:'Po zastavení ti výpravčí oznámí stranu vlaku a číslo nápravy; ložisko prohlédneš a nález mu ohlásíš do diagnostické zprávy.'},
+ {id:'ihl-k',kat:'Zastavení a nebezpečí',kdo:'výpravčí',typ:'v',
+  sit:'Diagnostika indikovala u vlaku {vlak} horké ložisko stupně K. Výpravčí ti nařídí zastavit v ŽST {st}. Jak to zní?',
+  zn:'Vlak {vlak}, indikováno horké ložisko stupně K, zastavte v ŽST {st}!',zdroj:'Pokyny pro vyhodnocovací zařízení (ObŘ, příloha pro ŽST/ODB) čl. 4.2.1 a)',
+  pozn:'Předpis uvádí „například takto“ – jde o vzor, ne o závazné znění.'},
+ {id:'nouz-hlas',kat:'Zastavení a nebezpečí',kdo:'ty – strojvedoucí',typ:'v',
+  sit:'Jedeš s vlakem {vlak} mezi {st.i} a {st2.i} a musíš vyslat nouzové hlášení se zvoláním „pozor nebezpečí“; ohlásíš se výpravčímu stanice {st2}. Jak zní hlášení podle vzoru pro strojvedoucí?',
+  zn:'Zde strojvedoucí vlaku {vlak} mezi {st.i} a {st2.i}, pozor nebezpečí. Ukončete hovor, strojvedoucí vlaku {vlak} se ohlásí výpravčímu stanice {st2}.',
+  zdroj:'SŽ Z11 čl. 38 odst. (2) – vzor hlášení pro strojvedoucí',
+  pozn:'Náležitosti: vlastní identifikace, zvolání (naléhavá výzva, pozor nebezpečí, mayday mayday), koho se hlášení týká, požadovaný postup; případně důvod. Nepodaří-li se hlášení předat do přerušení nouzového spojení (cca 20 s), nouzové spojení zopakuj a pokračuj.'},
+ {id:'nav-tel',kat:'Informace o návěsti telefonem',kdo:'výpravčí',typ:'z',
+  sit:'Odjíždíš s vlakem {vlak} ve stanici {st}, ale na cestové návěstidlo {nav}, které dovoluje jízdu, nevidíš. Jak tě výpravčí telekomunikačním zařízením informuje?',
+  zn:'Cestové návěstidlo {nav} ve stanici {st} dovoluje jízdu vlaku {vlak}.',zdroj:'SŽ D1 čl. 358 odst. (2) a)'},
+ {id:'nav-tel-pn',kat:'Informace o návěsti telefonem',kdo:'výpravčí',typ:'z',
+  sit:'Na odjezdové návěstidlo {nav} ve stanici {st} nevidíš. Jízda vlaku {vlak} je dovolena přivolávací návěstí. Jak tě výpravčí informuje?',
+  zn:'Odjezdové návěstidlo {nav} ve stanici {st} dovoluje jízdu vlaku {vlak} přivolávací návěstí.',zdroj:'SŽ D1 čl. 358 odst. (2) b)'},
+ {id:'nav-tel-sz',kat:'Informace o návěsti telefonem',kdo:'výpravčí',typ:'z',
+  sit:'Na DNS stop značky {nav} ve stanici {st} nevidíš. Jízda vlaku {vlak} je dovolena návěstí Stop značka ETCS a PN. Jak tě výpravčí informuje?',
+  zn:'Stop značka {nav} ve stanici {st} dovoluje jízdu vlaku {vlak} přivolávací návěstí.',zdroj:'SŽ D1 čl. 358 odst. (2) b)'},
+ {id:'nav-tel-roz',kat:'Informace o návěsti telefonem',kdo:'výpravčí',typ:'z',
+  sit:'Na cestové návěstidlo {nav} ve stanici {st} nevidíš. Návěstidlo dovoluje jízdu vlaku {vlak} návěstí Jízda podle rozhledových poměrů. Jak tě výpravčí informuje?',
+  zn:'Cestové návěstidlo {nav} ve stanici {st} nařizuje jízdu vlaku {vlak} podle rozhledových poměrů.',zdroj:'SŽ D1 čl. 358 odst. (2) c)'},
+ {id:'vyp-zrus',kat:'Odvolání výpravy',kdo:'výpravčí',typ:'z',
+  sit:'Výpravčí {prij} musí odvolat výpravu vlaku {vlak} ve stanici {st} {kol} koleje do stanice {st2}. Jak ti to oznámí?',
+  zn:'Ruším výpravu vlaku {vlak} ve stanici {st} {kol} koleje do stanice {st2}. {prij}',zdroj:'SŽ D1 čl. 360 odst. (7) a)',
+  pozn:'Potom ti sdělí důvod odvolání a jak budeš znovu vypraven.'},
+ {id:'vyp-potvrz',kat:'Odvolání výpravy',kdo:'ty – strojvedoucí',typ:'z',
+  sit:'Výpravčí ti oznámil: „Ruším výpravu vlaku {vlak} ve stanici {st} {kol} koleje do stanice {st2}. {prij}“ Jak musíš potvrdit, že pokynu rozumíš?',
+  zn:'Zrušena výprava vlaku {vlak} ve stanici {st} {kol} koleje do stanice {st2}. Rozumí strojvedoucí vlaku {vlak}',zdroj:'SŽ D1 čl. 360 odst. (7) b)',
+  pozn:'Teprve po tvém potvrzení smí výpravčí přestavit návěst na zakazující jízdu (nehrozí-li nebezpečí z prodlení).'},
+ {id:'posun-souhlas',kat:'Posun',kdo:'výhybkář',typ:'z',
+  sit:'Výhybkář dává rádiem souhlas k posunu (návěst Souhlas k jízdě): {zal}, stanice {st}, {kol} koleje, k návěstidlu {nav}. Jak zní pokyn?',
+  zn:'{zal} ve stanici {st} {kol} koleje k návěstidlu {nav} posun dovolen.',zdroj:'SŽ Z11 čl. 4 odst. (19), tab. 1',
+  pozn:'Znění pro návěst Souhlas k jízdě je určeno jen pro souhlas k posunu daný výhybkářem. Místo „k návěstidlu …“ může být „směrem …“ nebo „za návěstidlo …“.'},
+ {id:'sun-hl',kat:'Sunutý vlak',kdo:'zaměstnanec v čele (ty zopakuješ)',typ:'z',
+  sit:'Vlak {vlak} je sunutý. Zaměstnanec v čele ti přenosnou radiostanicí hlásí, že na návěstidle {nav} je návěst {navest}. Jak zní jeho hlášení? (Ty ho musíš zopakovat a převzetí potvrdit.)',
+  zn:'Vlak {vlak} na návěstidle {nav} je návěst {navest}.',zdroj:'ČD D2 čl. 393'},
+ {id:'sun-pred',kat:'Sunutý vlak',kdo:'zaměstnanec v čele (ty zopakuješ)',typ:'z',
+  sit:'Vlak {vlak} je sunutý. Zaměstnanec v čele hlásí návěst {navest} na samostatné předvěsti. Jak zní hlášení?',
+  zn:'Vlak {vlak} na samostatné předvěsti je návěst {navest}.',zdroj:'ČD D2 čl. 393'},
+ {id:'d3-ohl',kat:'Navazování spojení',kdo:'ty – strojvedoucí',typ:'v',
+  sit:'Na trati D3 jsi s vlakem {vlak} dojel do dopravny {st} v {cas}. Spojení s dirigujícím dispečerem už je navázané – jak splníš ohlašovací povinnost (a připojíš příjmení {prij})?',
+  zn:'Vlak {vlak} v dopravně {st} v {cas}. {prij}',zdroj:'SŽ Z11 příloha C.1 (vzorový příklad)',
+  pozn:'Dispečer zopakuje a potvrdí „Rozuměl“ se svým příjmením, pak „Konec“ – ty odpovíš „Rozumím“, „Konec“.'},
+ {id:'zk-spoj',kat:'Navazování spojení',kdo:'ty – strojvedoucí',typ:'v',
+  sit:'Na návěst radiovníku přepínáš na SRV bez selektivní volby a děláš zkoušku spojení s dirigujícím dispečerem {st2}. Jedeš s vlakem {vlak} mezi {st.i} a dopravnou {st2}.',
+  zn:'Dirigující dispečer {st2}, zde je strojvedoucí vlaku {vlak} mezi {st.i} a dopravnou {st2}. Zkouška spojení. Jak mne slyšíte? Příjem.',zdroj:'SŽ Z11 příloha C.2 (vzorový příklad)',
+  pozn:'Závazné jsou výrazy „zde je“, „příjem“, „rozumím“, „konec“; zbytek je vzor.'},
+ {id:'sv-ohl',kat:'Navazování spojení',kdo:'ty – strojvedoucí',typ:'v',
+  sit:'Výpravčí stanice {st} tě volá selektivní volbou; stojíš s vlakem {vlak} ve stanici {st}. Jak se ohlásíš svou volací značkou?',
+  zn:'Strojvedoucí vlaku {vlak} v {st.l}.',zdroj:'SŽ Z11 příloha D.1 (vzorový příklad)',
+  pozn:'Výpravčí odpoví „Výpravčí {st}“. Stejně se postupuje i v síti GSM-R CZ.'},
+ // terminologie – SŽ Z11 příloha O, tab. O.1
+ ...[['příjem','Výraz, kterým se druhé straně dává možnost hovořit.'],['přijato','Výraz, kterým se potvrzuje, že odeslaná zpráva byla přijata.'],
+   ['opakujte','Výraz, když má být zpráva opakována (špatná slyšitelnost nebo kontrola správného pochopení); také „opakujte pomalu“.'],
+   ['správně','Výraz, když opakování zprávy souhlasí se zaslanou zprávou.'],['chyba','Výraz, když opakování zprávy přesně nesouhlasí se zaslanou zprávou; také „chyba opakuji“.'],
+   ['konec','Výraz, kterým se ukončuje předávání zprávy.'],['čekejte','Výraz, kterým se dočasně přerušuje předávání zprávy – spojení se nepřerušuje, druhá strana počká.'],
+   ['zavolám znovu','Výraz, kterým se sděluje, že komunikace bude přerušena, ale později obnovena.'],['hláskujte','Výraz, kterým se žádá o hláskování slova nebo části zprávy.'],
+   ['rozumím','Výraz, kterým účastník potvrzuje, že zprávu správně převzal (také „rozuměl“).']]
+   .map(([t,v],k)=>({id:'term-'+k,kat:'Terminologie',kdo:'kdokoliv',typ:'z',sit:v+' Jaký je to výraz?',zn:t,zdroj:'SŽ Z11 příloha O, tab. O.1'}))
+];
+function znFill(it){   // doplní proměnné náhodnými, ale gramaticky správnými hodnotami
+  const pick=a=>a[Math.floor(Math.random()*a.length)];
+  const st=pick(ZN_ST);let st2=pick(ZN_ST);while(st2===st)st2=pick(ZN_ST);
+  const h=Math.floor(Math.random()*20)+4,m=Math.floor(Math.random()*60);
+  const v={vlak:String(pick([Math.floor(Math.random()*900)+100,Math.floor(Math.random()*9000)+1000,Math.floor(Math.random()*90000)+10000])),
+    st:st.n,'st.i':st.i,'st.l':st.l,st2:st2.n,'st2.i':st2.i,kol:pick(ZN_KOL)[0],nav:pick(ZN_NAV),prij:pick(ZN_PRIJ),navest:pick(ZN_NAVEST),zal:pick(ZN_ZAL),cas:`${h}:${String(m).padStart(2,'0')}`};
+  const f=s=>(s||'').replace(/\{([\w.]+)\}/g,(_,k)=>v[k]??'');
+  return {sit:f(it.sit),zn:f(it.zn),pozn:f(it.pozn)};
+}
+const znShow=s=>esc(s||'').replace(/\{([\w.]+)\}/g,(_,k)=>`<i class="zn-var">(${{vlak:'číslo vlaku',st:'stanice',st2:'stanice','st.i':'místo','st2.i':'místo','st.l':'místo',kol:'kolej',nav:'návěstidlo',prij:'příjmení',navest:'návěst',zal:'posunový díl',cas:'čas'}[k]||k})</i>`);
+// porovnání po slovech (bez diakritiky a interpunkce, čísla s mezerami spojená)
+const znTok=s=>hNorm(String(s||'').replace(/(\d)\s+(?=\d)/g,'$1')).match(/[\p{L}\p{N}:]+/gu)||[];
+function znDiff(exp,got){
+  const E=znTok(exp),G=znTok(got),n=E.length,m=G.length,L=Array.from({length:n+1},()=>new Int16Array(m+1));
+  for(let i=n-1;i>=0;i--)for(let j=m-1;j>=0;j--)L[i][j]=E[i]===G[j]?L[i+1][j+1]+1:Math.max(L[i+1][j],L[i][j+1]);
+  const okE=new Set(),okG=new Set();for(let i=0,j=0;i<n&&j<m;){if(E[i]===G[j]){okE.add(i);okG.add(j);i++;j++}else if(L[i+1][j]>=L[i][j+1])i++;else j++}
+  const GO=String(got||'').replace(/(\d)\s+(?=\d)/g,'$1').match(/[\p{L}\p{N}:]+/gu)||[];   // stejná slova v původní podobě (s diakritikou)
+  const extra=G.map((t,j)=>GO[j]||t).filter((_,j)=>!okG.has(j));
+  // zvýraznění v původním textu znění (slova v pořadí odpovídají tokenům)
+  let k=0;const html=esc(exp).replace(/[\p{L}\p{N}:]+(?:\s+(?=\d)\d+)*/gu,w=>{const t=znTok(w);const ok=t.map(()=>okE.has(k++)).every(Boolean);return `<span class="${ok?'zn-ok':'zn-miss'}">${w}</span>`});
+  return {score:n?Math.round(okE.size/n*100):0,html,extra};
+}
+let ZS={};try{ZS=JSON.parse(localStorage.getItem('zoz-zneni-v1')||'{}')}catch(e){}
+function znMark(id,ok){const s=ZS[id]||(ZS[id]={ok:0,bad:0});ok?s.ok++:s.bad++;s.t=Date.now();try{localStorage.setItem('zoz-zneni-v1',JSON.stringify(ZS))}catch(e){}}
+const ZNT={mode:'home',kat:'',ja:false,list:[],i:0,cur:null,res:null,flip:false,ok:0};
+function znPool(){return ZNENI.filter(z=>(!ZNT.kat||z.kat===ZNT.kat)&&(!ZNT.ja||/^ty/.test(z.kdo)))}
+function znStart(mode){
+  const w=z=>{const s=ZS[z.id];return s?(s.bad-s.ok)+Math.random():1+Math.random()};   // slabší a neprocvičená dřív
+  ZNT.mode=mode;ZNT.list=znPool().sort((a,b)=>w(b)-w(a)).slice(0,mode==='karty'?50:10);ZNT.i=0;ZNT.ok=0;znNext(true);
+}
+function znNext(first){if(!first)ZNT.i++;ZNT.res=null;ZNT.flip=false;const it=ZNT.list[ZNT.i];ZNT.cur=it?{it,...znFill(it)}:null;renderZneni();window.scrollTo(0,0)}
+let ZN_REC=null;
+function znDictate(){
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;const b=$('#zn-mic'),ta=$('#zn-in');
+  if(!SR){toast('Diktování tenhle prohlížeč neumí – napiš znění.');return}
+  if(ZN_REC){try{ZN_REC.stop()}catch(e){}return}
+  const r=new SR();ZN_REC=r;r.lang='cs-CZ';r.interimResults=true;r.continuous=false;const base=ta.value?ta.value+' ':'';
+  r.onresult=e=>{let t='';for(const x of e.results)t+=x[0].transcript;ta.value=base+t};
+  r.onend=()=>{ZN_REC=null;if(b)b.classList.remove('on')};r.onerror=e=>{ZN_REC=null;if(b)b.classList.remove('on');if(e.error==='not-allowed')toast('Mikrofon není povolený.');else if(e.error==='network')toast('Diktování potřebuje připojení k internetu.')};
+  b.classList.add('on');try{r.start()}catch(e){ZN_REC=null;b.classList.remove('on')}
+}
+function renderZneni(){
+  const root=$('#zn-root');if(!root)return;
+  const kats=[...new Set(ZNENI.map(z=>z.kat))],pool=znPool();
+  if(ZNT.mode==='home'||(!ZNT.cur&&ZNT.mode!=='prehled'&&ZNT.mode!=='done')){
+    if(ZNT.mode!=='home'&&ZNT.list.length){ZNT.mode='done'}
+  }
+  if(ZNT.mode==='done'){
+    root.innerHTML=`<div class="setup"><div class="z-verdict ${ZNT.ok>=ZNT.list.length*.8?'ok':'bad'}"><div class="big">${ZNT.ok} z ${ZNT.list.length} správně</div><div class="sm">Závazná slovní znění</div></div>
+      <div class="setup-actions"><button class="btn primary" data-zn="cvic">Znovu 10</button><button class="btn" data-zn="home">Zpět</button></div></div>`;return}
+  if(ZNT.mode==='home'||ZNT.mode==='prehled'){
+    const st=ZNENI.filter(z=>ZS[z.id]&&ZS[z.id].ok>ZS[z.id].bad).length;
+    root.innerHTML=`<div class="setup zn"><h2>Závazná slovní znění</h2>
+      <p class="hint" style="margin:0 0 8px">Dostaneš situaci a řekneš nebo napíšeš přesné znění – proměnné (číslo vlaku, stanici) máš v zadání. Aplikace ukáže, co chybělo. Na ústní ZOZ se znění ptají doslova.</p>
+      <div class="h-tabs"><button class="h-t" data-znk="" aria-pressed="${!ZNT.kat}">Vše</button>${kats.map(k=>`<button class="h-t" data-znk="${esc(k)}" aria-pressed="${ZNT.kat===k}">${esc(k)}</button>`).join('')}</div>
+      <label class="check" style="margin-top:8px"><input type="checkbox" id="zn-ja" ${ZNT.ja?'checked':''}> jen co říkám já (strojvedoucí)</label>
+      <div class="setup-actions"><button class="btn primary" data-zn="cvic" ${pool.length?'':'disabled'}>Procvičit ${Math.min(10,pool.length)}</button><button class="btn" data-zn="karty" ${pool.length?'':'disabled'}>Kartičky</button>
+        <button class="btn ghost" data-zn="${ZNT.mode==='prehled'?'home':'prehled'}">${ZNT.mode==='prehled'?'Skrýt přehled':'Přehled všech znění'}</button></div>
+      <p class="count">${pool.length} znění · umíš ${st} z ${ZNENI.length}</p>
+      ${ZNT.mode==='prehled'?`<div class="zn-list">${pool.map(z=>{const s=ZS[z.id];return `<div class="zn-li"><div class="zn-lh"><span class="chip">${esc(z.kdo)}</span>${z.typ==='v'?'<span class="chip zn-vz">vzor</span>':'<span class="chip zn-zv">závazné</span>'}${s?`<span class="count">✓${s.ok} ✗${s.bad}</span>`:''}</div>
+        <div class="zn-q">„${znShow(z.zn)}“</div><small>${esc(z.zdroj)}</small>${z.pozn?`<small class="zn-p">${znShow(z.pozn)}</small>`:''}</div>`}).join('')}</div>`:''}</div>`;
+    return;
+  }
+  const {it,sit,zn}=ZNT.cur,last=ZNT.i===ZNT.list.length-1;
+  const head=`<div class="z-head"><span class="ph">${ZNT.mode==='karty'?'Kartičky':'Procvičování'}</span><span class="count">${ZNT.i+1} / ${ZNT.list.length}</span><button class="btn small ghost" data-zn="home" style="margin-left:auto">Ukončit</button></div>
+    <div class="progress"><i style="width:${ZNT.i/ZNT.list.length*100}%"></i></div>`;
+  const meta=`<div class="zn-lh"><span class="chip tema">${esc(it.kat)}</span><span class="chip">mluví: ${esc(it.kdo)}</span>${it.typ==='v'?'<span class="chip zn-vz">vzor</span>':''}</div>`;
+  const src=`<div class="src"><span>§ ${esc(it.zdroj)}</span></div>${ZNT.cur.pozn?`<div class="note">${esc(ZNT.cur.pozn)}</div>`:''}`;
+  if(ZNT.mode==='karty'){
+    root.innerHTML=`<div class="pl-run">${head}<div class="card">${meta}<div class="qtext">${esc(sit)}</div>
+      ${ZNT.flip?`<div class="ans"><b>Znění</b>„${esc(zn)}“</div>${src}
+        <div class="card-actions"><span class="count">Věděl jsi to?</span><div class="grp"><button class="btn" data-zn="kbad">✗ Nevěděl</button><button class="btn primary" data-zn="kok">✓ Věděl</button></div></div>`
+      :`<div class="card-actions"><span class="count">Řekni si znění nahlas, pak otoč.</span><div class="grp"><button class="btn primary" data-zn="flip">Ukázat znění</button></div></div>`}</div></div>`;
+    return;
+  }
+  const R=ZNT.res;
+  root.innerHTML=`<div class="pl-run">${head}<div class="card">${meta}<div class="qtext">${esc(sit)}</div>
+    ${R?`<div class="zn-res ${R.score>=90?'ok':'bad'}"><b>${R.score>=90?'✓ Správně':R.score>=60?'Skoro':'✗ Ještě ne'}</b> – shoda ${R.score} %</div>
+      <div class="zn-cmp"><small>Přesné znění (červeně co chybělo):</small><div class="zn-q">„${R.html}“</div>
+      ${R.got?`<small>Tvoje znění:</small><div class="zn-got">${esc(R.got)}</div>`:''}${R.extra.length?`<small>Navíc: <s>${esc(R.extra.join(' '))}</s></small>`:''}</div>${src}
+      <div class="card-actions"><span class="count">dál <kbd>Enter</kbd></span><div class="grp"><button class="btn primary" data-zn="next">${last?'Vyhodnotit':'Další →'}</button></div></div>`
+    :`<div class="zn-inw"><textarea id="zn-in" rows="3" placeholder="Napiš nebo nadiktuj přesné znění…" autocapitalize="sentences"></textarea>
+      <button class="zn-mic" id="zn-mic" data-zn="mic" title="Diktovat (česky)" aria-label="Diktovat">🎤</button></div>
+      <div class="card-actions"><button class="btn small ghost" data-zn="nevim">Nevím – ukázat</button><div class="grp"><button class="btn primary" data-zn="check">Vyhodnotit</button></div></div>`}
+    </div></div>`;
+  const ta=$('#zn-in');if(ta){ta.focus();ta.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();znAct('check')}})}
+}
+function znAct(a){
+  if(a==='home'){ZNT.mode='home';ZNT.cur=null;ZNT.list=[];renderZneni();return}
+  if(a==='prehled'){ZNT.mode='prehled';renderZneni();return}
+  if(a==='cvic'){znStart('cvic');return}
+  if(a==='karty'){znStart('karty');return}
+  if(a==='mic'){znDictate();return}
+  if(a==='flip'){ZNT.flip=true;renderZneni();return}
+  if(a==='kok'||a==='kbad'){znMark(ZNT.cur.it.id,a==='kok');if(a==='kok')ZNT.ok++;ZNT.i===ZNT.list.length-1?(ZNT.mode='done',ZNT.cur=null,renderZneni()):znNext();return}
+  if(a==='check'||a==='nevim'){if(ZNT.res)return;const got=a==='nevim'?'':($('#zn-in')||{}).value||'';if(a==='check'&&!got.trim()){toast('Napiš nebo nadiktuj znění, nebo dej „Nevím“.');return}
+    if(ZN_REC){try{ZN_REC.stop()}catch(e){}}
+    const d=znDiff(ZNT.cur.zn,got);ZNT.res={...d,got};const ok=d.score>=90;znMark(ZNT.cur.it.id,ok);if(ok)ZNT.ok++;renderZneni();return}
+  if(a==='next'){ZNT.i===ZNT.list.length-1?(ZNT.mode='done',ZNT.cur=null,renderZneni()):znNext();return}
+}
+$('#zn-root').addEventListener('click',e=>{const b=e.target.closest('[data-zn]');if(b&&!b.disabled){znAct(b.dataset.zn);return}
+  const k=e.target.closest('[data-znk]');if(k){ZNT.kat=k.dataset.znk;renderZneni()}});
+$('#zn-root').addEventListener('change',e=>{if(e.target.id==='zn-ja'){ZNT.ja=e.target.checked;renderZneni()}});
+document.addEventListener('keydown',e=>{if($('#view-zneni').hidden||e.target.closest('textarea,input'))return;if(e.key==='Enter'&&ZNT.res){e.preventDefault();znAct('next')}});
+
 /* =================== PŘÍPRAVA DO ZOZ: plán a chytré opakování =================== */
 /* Každá otázka je v „přihrádce“ 0–5. Správná odpověď ji posune výš a vrátí se později
    (za 1, 3, 7, 14, 30 dní), chyba ji vrátí na začátek a přijde zítra znovu. Nové otázky se
@@ -2862,12 +3239,14 @@ const ICONS={
   admin:'<circle cx="12" cy="12" r="3"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/>',
   smenar:'<rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4M8 14h2M12 14h2M16 14h.01M8 17.5h2M12 17.5h2"/>',
   gsmr:'<path d="M12 21v-9"/><circle cx="12" cy="10" r="2"/><path d="M8.5 13.5a5 5 0 0 1 0-7M15.5 6.5a5 5 0 0 1 0 7M5.6 16.4a9 9 0 0 1 0-12.8M18.4 3.6a9 9 0 0 1 0 12.8"/>',
+  navesti:'<rect x="8" y="2.5" width="8" height="14" rx="2.5"/><circle cx="12" cy="6.5" r="1.6"/><circle cx="12" cy="12" r="1.6"/><path d="M12 16.5V21.5M8.5 21.5h7"/>',
+  zneni:'<path d="M4 5.5h16v10H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/>',
   hledat:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5l5 5"/>',
   vice:'<circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/>'
 };
 const ico=k=>`<svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[k]||''}</svg>`;
 function buildTabs(adm){
-  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),['hledat','Hledat „Co teď?“','Hledat'],['gsmr','GSM-R zkrácené volby','GSM-R'],...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
+  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),['hledat','Hledat „Co teď?“','Hledat'],['gsmr','GSM-R zkrácené volby','GSM-R'],['navesti','Návěstní atlas','Návěsti'],['zneni','Závazná slovní znění','Znění'],...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
   const admin=adm?[['prehled','Přehled'],['admin','Admin']]:[];
   const all=[...main,...admin];
   // na mobilu se vejde 5 položek; zbytek schovat pod „Více“
@@ -2910,6 +3289,8 @@ function showView(v){
     if(v==='smenar')renderSmenar();
     if(v==='hledat')renderHledat();
     if(v==='gsmr')renderGsmr();
+    if(v==='navesti')renderNavesti();
+    if(v==='zneni')renderZneni();
     if(v==='plan'){markTab('zoz');renderPlan()}
   }
   try{localStorage.setItem('zoz-view',v)}catch(e){}
