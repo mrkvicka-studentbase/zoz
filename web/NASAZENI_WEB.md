@@ -1,5 +1,19 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – GSM-R zkrácené volby s vyhledáváním
+
+Stačí nahrát `index.html` a `sw.js` z `na_web.zip`. Databáze se nemění.
+
+- **Nová záložka GSM-R** (na mobilu pod „Více“): napíšeš stanici, trať nebo pracoviště (např. „Ústí“, „Chomutov“, „504A“, „Brno hl. n.“) a hned vidíš **adresné zkrácené volby** výpravčích a dispečerů z **PŘ GSM-R CZ, Příloha B** (229 voleb), seskupené po tratích, uzlech a oblastech CDP. Hledaná stanice je v rámci trati nahoře.
+- Rozumí zkratkám předpisu („Ústí nad Labem“ najde „Ústí n.L.“, „Karlovy Vary“ najde „K. Vary“), nevadí chybějící diakritika.
+- Když pro stanici platí **místní opatření z Přílohy C** (např. „v ŽST Protivín nelze využít 1300 – použij 1335“), ukáže se nahoře žlutě.
+- Pracoviště PPV (platí jen při poruše DOZ a zpravování písemným rozkazem) jsou označená a řazená až za tratěmi.
+- Dole vždy obecné volby: ZV1 1200, ZV2 1300, ZV3 1400, SKP 200 (SŽ Z11, tab. K.1).
+- Hledání „Co teď?“ nabídne odkaz na zkrácené volby, když dotaz odpovídá stanici.
+- Data jsou přímo v aplikaci, takže fungují i bez signálu. Při nové verzi PŘ GSM-R stačí vyměnit `GSMR.pdf` a spustit `python3 web/tools/gsmr_zv.py` (vyžaduje `pip install pdfplumber`) – data se vytáhnou do `web/gsmr_zv.json` a vloží do aplikace.
+
+---
+
 ## ⬆ Aktualizace – kabinový režim, hledání „Co teď?“, plán přípravy do ZOZ
 
 1. **SQL editor → `cast7_plan.sql` → Run** (přidá k profilu sloupec pro plán – ať platí na mobilu i na počítači; bez něj plán funguje jen v zařízení).
