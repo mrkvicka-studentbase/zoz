@@ -591,6 +591,31 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .tab[data-view="krize"]{position:relative}
 .tabbeta{position:absolute;top:6px;right:-2px;font-size:8.5px;padding:1px 4px}
 @media (max-width:900px){.tabbeta{top:1px;right:calc(50% - 26px);font-size:8px}}
+/* hledání „Co teď?“ */
+.h-inp{font-size:17px;padding:14px 16px;border-width:2px}
+.h-inp:focus{outline:none;border-color:var(--accent)}
+.h-f{margin:8px 0 4px}
+.h-tabs{display:flex;gap:6px;flex-wrap:wrap}
+.h-t{font:inherit;font-size:13.5px;border:1px solid var(--line);background:var(--panel);color:var(--ink2);border-radius:999px;padding:6px 12px;cursor:pointer}
+.h-t[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.h-t[aria-pressed="true"] .count{color:inherit;opacity:.8}
+.h-moje{margin-top:8px;font-size:13.5px}
+.h-sugg{display:flex;gap:6px;flex-wrap:wrap}
+.h-s{cursor:pointer;border:1px solid var(--line);font-size:13px;padding:6px 11px;font-family:var(--sans)}
+.h-s:hover{border-color:var(--accent)}
+#h-res{margin-top:12px;display:flex;flex-direction:column;gap:10px}
+#h-res mark{background:var(--warn-soft);color:inherit;border-radius:3px;padding:0 1px;box-shadow:0 0 0 1px var(--warn-soft)}
+.h-p{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;font:inherit;color:var(--ink);background:var(--bad-soft);border:1.5px solid var(--bad);border-radius:var(--r);padding:12px 14px;cursor:pointer;flex-wrap:wrap}
+.h-p .h-pi svg{width:22px;height:22px;fill:none;stroke:var(--bad);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.h-p .h-pt{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.h-p small{color:var(--ink2);font-size:12.5px}
+.h-p .h-snip{color:var(--ink);font-size:13px;margin-top:3px}
+.h-p .h-go{flex-basis:100%;text-align:right;font-size:13.5px;font-weight:700;color:var(--bad);margin-top:2px}
+.h-body{padding:0 14px 14px 60px}
+@media (max-width:600px){.h-body{padding-left:14px}}
+.h-body .ans{margin-top:0}
+.h-snip2{margin-top:8px;font-size:13px;color:var(--ink2);background:var(--panel2);border-radius:8px;padding:8px 12px}
+.h-more{margin-top:8px}
 .kr-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;z-index:50;max-width:90vw}
 .refresh-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
 .optstat{margin-top:12px;padding:10px 12px;background:var(--panel2);border-radius:8px}
@@ -724,7 +749,7 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 <div class="top"><div class="top-in">
   <div class="brand"><h1>ZOZ Trenažér</h1><span class="sub" id="brandSub"></span></div>
   <nav class="tabs" role="tablist" id="tabs" aria-label="Hlavní menu"></nav>
-  <div class="who"><span class="syncdot" id="syncDot" title="synchronizováno"></span><span id="whoMail"></span><button class="btn small primary" id="btn-install" hidden>Instalovat</button><button class="btn small iconbtn" id="btn-out" title="Odhlásit" aria-label="Odhlásit"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 4h3a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-3"/><path d="M10 8l-4 4 4 4M6 12h11"/></svg><span class="lbl">Odhlásit</span></button></div>
+  <div class="who"><span class="syncdot" id="syncDot" title="synchronizováno"></span><span id="whoMail"></span><button class="btn small primary" id="btn-install" hidden>Instalovat</button><button class="btn small iconbtn" id="btn-search" title="Hledat „Co teď?“ (klávesa /)" aria-label="Hledat"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5l5 5"/></svg><span class="lbl">Hledat</span></button><button class="btn small iconbtn" id="btn-out" title="Odhlásit" aria-label="Odhlásit"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 4h3a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-3"/><path d="M10 8l-4 4 4 4M6 12h11"/></svg><span class="lbl">Odhlásit</span></button></div>
 </div></div>
 
 <main>
@@ -823,6 +848,11 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 <!-- KRIZOVÝ POSTUP -->
 <section class="view" id="view-krize" hidden>
   <div id="kr-root"></div>
+</section>
+
+<!-- HLEDÁNÍ -->
+<section class="view" id="view-hledat" hidden>
+  <div id="h-root"></div>
 </section>
 
 <!-- SMĚNÁŘ -->
@@ -1197,6 +1227,7 @@ $('#gateForm').addEventListener('submit',async e=>{
   }finally{$('#g-go').disabled=false}
 });
 
+$('#btn-search').addEventListener('click',()=>{showView('hledat');window.scrollTo(0,0);setTimeout(()=>{const i=$('#h-q');if(i&&!H.q)i.focus()},0)});
 $('#btn-out').addEventListener('click',async()=>{
   const b=$('#btn-out');b.disabled=true;b.textContent='Odhlašuji…';
   try{await flushQueue()}catch(e){}
@@ -1265,6 +1296,7 @@ async function onSessionInner(session,uid){
   if(v==='admin'&&!PROFILE.is_admin)v='statistiky';
   if(!res.ok&&PROFILE.is_admin)v='admin';
   renderList();updateAvail();showView(v);
+  if(res.ok)hPrebuild();
 }
 
 /* =================== OKRUHY: PŘEDPISY / LOKOMOTIVY / KRIZOVÉ POSTUPY =================== */
@@ -1853,6 +1885,181 @@ function kbRender(){
   if(k&&(k.foto||[]).some(f=>!IMG[f.src]&&!KF.fail.has(f.src)))krFotoLoad(p);   // po načtení kabinu překreslí sám
 }
 
+/* =================== HLEDÁNÍ „CO TEĎ?“ =================== */
+/* Jedno pole přes otázky, odpovědi, plná znění článků i krizové postupy. Bez diakritiky,
+   se skloňováním (společný základ slova) a s tolerancí jednoho překlepu. Vše v zařízení – jde i bez signálu. */
+const hNorm=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+const H_WRE=/[\p{L}\p{N}]+/gu;
+// „GSM-R“ → gsm, r i gsmr; dotaz „gsm-r“ → gsmr
+const H_HYP=/[\p{L}\p{N}]+(?:[-/][\p{L}\p{N}]+)+/gu;
+function hWords(s,query){
+  const t=hNorm(s);
+  if(query)return t.replace(H_HYP,m=>m.replace(/[-/]/g,'')).match(H_WRE)||[];
+  return [...(t.match(H_WRE)||[]),...(t.match(H_HYP)||[]).map(w=>w.replace(/[-/]/g,''))];
+}
+const H_STOP=new Set('a i v ve na se si je co jak kdy k ke s z ze do o u po pri pro za to ten ta te ty by byt jsou nebo ani ale jaky jake jaka jakou ktery ktera ktere kterou mam mi me muj moje kdyz tak jen uz tom od pred pod nad jako jeho jej jsem jsi musi muze smi lze'.split(' '));
+// zkratky: když dokument obsahuje celé sousloví, dostane i zkratku (a dotaz na zkratku ho najde)
+const H_ABBR=[['hv',['hlavn','vypin']],['hv',['hnac','vozid']],['pn',['privolav','navest']],['vz',['vlakov','zabezpec']],['mu',['mimoradn','udalost']],
+  ['ihl',['hork','lozisk']],['iho',['hork','obruc']],['ptn',['prenosn','telefon']],['ssz',['staniceni','zabezpec']],['ohv',['odstaven','hnac']]];
+const H_SUGG=['přivolávací návěst','horké ložisko','porucha VZ','výpadek napětí v troleji','nejde zapnout HV','sběrač','nouzové volání GSM-R','zkouška brzdy','posun','Stůj'];
+let SI=null;
+const H_ABBR1={};H_ABBR.forEach(([ab,[a,b]])=>(H_ABBR1[a[0]]=H_ABBR1[a[0]]||[]).push([ab,a,b]));
+function hBuild(){
+  const voc=new Map(),docs=[];
+  const put=(t,di,w)=>{let m=voc.get(t);if(!m)voc.set(t,m=new Map());if((m.get(di)||0)<w)m.set(di,w)};
+  const add=(di,text,w)=>{if(!text)return;const ws=hWords(text);
+    for(let x=0;x<ws.length;x++){const t=ws[x];put(t,di,w);
+      const ab=H_ABBR1[t[0]];if(ab&&x+1<ws.length)for(const [z,a,b] of ab)if(t.startsWith(a)&&ws[x+1].startsWith(b))put(z,di,w)}};
+  DATA.forEach(q=>{const di=docs.push({k:'q',q})-1;
+    add(di,q.otazka,5);add(di,q.odpoved,3);add(di,(q.tema0||q.tema)+' '+q.predpis+' '+(q.rada||''),2);
+    add(di,(q.zdroje||[]).map(z=>z.clanek).join(' '),2);add(di,q.plne_zneni,1);if(q.poznamka)add(di,q.poznamka,1)});
+  POSTUPY.forEach(p=>{const di=docs.push({k:'p',p})-1;
+    add(di,p.nazev,6);add(di,p.podnadpis,4);add(di,(p.kategorie||'')+' '+(p.rada||''),2);add(di,p.uvod,2);
+    add(di,(p.kroky||[]).map(k=>[k.text,...(k.moznosti||[]).map(m=>m.text)].join(' ')).join(' '),1)});
+  // slovník po počátečním písmenu – všechna pravidla shody vyžadují stejné první písmeno
+  const by={};for(const e of voc)(by[e[0][0]]=by[e[0][0]]||[]).push(e);
+  SI={voc,by,docs,src:DATA,psrc:POSTUPY,cache:new Map()};
+}
+// index se sestaví na pozadí hned po načtení obsahu, ať je hledání okamžitě připravené
+function hPrebuild(){const go=()=>{if(DATA.length&&(!SI||SI.src!==DATA||SI.psrc!==POSTUPY))hBuild()};
+  if(window.requestIdleCallback)requestIdleCallback(go,{timeout:8000});else setTimeout(go,1500)}
+function hDist(a,b,max){   // Damerau-Levenshtein s ořezem
+  if(Math.abs(a.length-b.length)>max)return max+1;
+  let p2=null,p=Array.from({length:b.length+1},(_,i)=>i);
+  for(let i=1;i<=a.length;i++){const c=[i];let mn=i;
+    for(let j=1;j<=b.length;j++){let v=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));
+      if(p2&&i>1&&j>1&&a[i-1]===b[j-2]&&a[i-2]===b[j-1])v=Math.min(v,p2[j-2]+1);c[j]=v;if(v<mn)mn=v}
+    if(mn>max)return max+1;p2=p;p=c}
+  return p[b.length];
+}
+function hMatch(q,t){
+  if(t===q)return 1;
+  if(q.length<3)return 0;                       // krátké dotazy (hv, pn, vz) jen přesně
+  if(t.startsWith(q))return .9;
+  if(q.length>=5){let cp=0;while(cp<q.length&&cp<t.length&&q[cp]===t[cp])cp++;
+    if(cp>=4&&q.length-cp<=2&&t.length-cp<=3)return .75;    // skloňování: návěstidla ~ návěstidlo, brzda ~ brzdami
+    if(t[0]===q[0]&&hDist(q,t,q.length>=9?2:1)<=(q.length>=9?2:1))return .6}   // překlep
+  return 0;
+}
+function hTermHits(q){
+  let r=SI.cache.get(q);if(r)return r;
+  r=new Map();
+  for(const [t,m] of (SI.by[q[0]]||[])){const s=hMatch(q,t);if(!s)continue;for(const [di,w] of m){const v=w*s;if((r.get(di)||0)<v)r.set(di,v)}}
+  SI.cache.set(q,r);return r;
+}
+function hTerms(s){return [...new Set(hWords(s,true))].filter(w=>!H_STOP.has(w)&&(w.length>1||/\d/.test(w)))}
+function hSearch(s){
+  if(!SI||SI.src!==DATA||SI.psrc!==POSTUPY)hBuild();
+  const terms=hTerms(s);if(!terms.length)return {terms,res:[],approx:false};
+  const hits=terms.map(hTermHits),sc=new Map(),cnt=new Map();
+  hits.forEach(h=>{for(const [di,v] of h){sc.set(di,(sc.get(di)||0)+v);cnt.set(di,(cnt.get(di)||0)+1)}});
+  // sousloví: slova dotazu jdou v textu po sobě (i ve skloňovaném tvaru) → výrazně výš
+  const phr=terms.length>1?new RegExp(terms.map(t=>t.slice(0,Math.max(3,t.length-2)).replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'[\\p{L}\\p{N}]*').join('[^\\p{L}\\p{N}]+(?:[\\p{L}\\p{N}]+[^\\p{L}\\p{N}]+)?'),'u'):null;
+  const score=(di,approx)=>{const d=SI.docs[di];let v=sc.get(di);
+    const rada=d.k==='p'?d.p.rada:d.q.rada;
+    if(phr){const F=d.k==='p'?[[d.p.nazev,6],[d.p.podnadpis,3]]:[[d.q.otazka,5],[d.q.odpoved,3],[d.q.plne_zneni,1]];
+      for(const [txt,w] of F)if(txt&&phr.test(hNorm(txt))){v+=w*terms.length;break}}
+    if(d.k==='p')v*=1.25;
+    if(rada)v+=MY_RADY.includes(rada)?2:-1;
+    return {d,v,rada,approx}};
+  const all=[...sc.keys()];
+  let res=all.filter(di=>cnt.get(di)>=terms.length).map(di=>score(di,false)).sort((a,b)=>b.v-a.v);
+  // málo přesných výsledků → doplnit ty, kterým chybí jedno slovo
+  if(res.length<5&&terms.length>1)res=res.concat(all.filter(di=>cnt.get(di)===terms.length-1).map(di=>score(di,true)).sort((a,b)=>b.v-a.v));
+  return {terms,res,approx:res.length>0&&res[0].approx};
+}
+function hHl(text,terms){
+  const s=String(text||'');let out='',last=0;
+  for(const m of s.matchAll(H_WRE)){const n=hNorm(m[0]);
+    if(terms.some(q=>hMatch(q,n))){out+=esc(s.slice(last,m.index))+'<mark>'+esc(m[0])+'</mark>';last=m.index+m[0].length}}
+  return out+esc(s.slice(last));
+}
+function hSnippet(text,terms){
+  const s=String(text||'');
+  for(const m of s.matchAll(H_WRE)){if(terms.some(q=>hMatch(q,hNorm(m[0])))){
+    const a=Math.max(0,m.index-90),b=Math.min(s.length,m.index+160);
+    return (a?'…':'')+hHl(s.slice(a,b),terms)+(b<s.length?'…':'')}}
+  return '';
+}
+const H={q:'',f:'vse',moje:true,lim:30,open:new Set()};
+try{const o=JSON.parse(localStorage.getItem('zoz-hledat-v1')||'{}');if(o.f)H.f=o.f;if(o.moje===false)H.moje=false}catch(e){}
+function hHist(){try{return JSON.parse(localStorage.getItem('zoz-hledat-hist')||'[]').filter(x=>typeof x==='string')}catch(e){return []}}
+function hRemember(s){s=s.trim();if(s.length<2)return;const a=[s,...hHist().filter(x=>hNorm(x)!==hNorm(s))].slice(0,8);try{localStorage.setItem('zoz-hledat-hist',JSON.stringify(a))}catch(e){}}
+function hPref(){try{localStorage.setItem('zoz-hledat-v1',JSON.stringify({f:H.f,moje:H.moje}))}catch(e){}}
+function renderHledat(){
+  const root=$('#h-root');if(!root)return;
+  if(!$('#h-q')){
+    root.innerHTML=`<div class="setup hl"><h2>Co teď?</h2>
+      <p class="hint" style="margin:0 0 6px">Napiš, co se děje – najdu odpověď, článek předpisu i krizový postup. Funguje i bez signálu.</p>
+      <input type="search" class="kr-search h-inp" id="h-q" placeholder="Např. přivolávací návěst, horké ložisko, nejde HV…" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+      <div class="h-f" id="h-f"></div><div id="h-res"></div></div>`;
+    let tm=null;
+    $('#h-q').addEventListener('input',e=>{H.q=e.target.value;H.lim=30;H.open.clear();clearTimeout(tm);tm=setTimeout(hResults,110)});
+    $('#h-q').addEventListener('keydown',e=>{if(e.key==='Enter'){hRemember(H.q);e.target.blur()}});
+    root.addEventListener('click',hClick);
+    root.addEventListener('change',e=>{if(e.target.id==='h-moje'){H.moje=e.target.checked;hPref();hResults()}});
+  }
+  if($('#h-q').value!==H.q)$('#h-q').value=H.q;
+  if(!SI||SI.src!==DATA||SI.psrc!==POSTUPY){$('#h-res').innerHTML='<p class="empty">Připravuji hledání…</p>';setTimeout(()=>{hBuild();hResults()},30)}
+  else hResults();
+}
+function hResults(){
+  const box=$('#h-res'),fb=$('#h-f');if(!box)return;
+  const q=H.q.trim();
+  if(!q){
+    const hist=hHist();fb.innerHTML='';
+    box.innerHTML=`${hist.length?`<div class="kr-cat">Naposledy hledané</div><div class="h-sugg">${hist.map(s=>`<button class="chip h-s" data-hs="${esc(s)}">${esc(s)}</button>`).join('')}</div>`:''}
+      <div class="kr-cat">Zkus třeba</div><div class="h-sugg">${H_SUGG.map(s=>`<button class="chip h-s" data-hs="${esc(s)}">${esc(s)}</button>`).join('')}</div>
+      <p class="hint" style="margin-top:14px">Nevadí chybějící háčky ani čárky, jiný pád nebo drobný překlep. Zkratky HV, PN, VZ, MU, GSM-R taky.</p>`;
+    return;
+  }
+  const {terms:t0,res,approx}=hSearch(q);
+  // zvýraznit i části slov se spojovníkem („GSM-R“ hledá gsmr, v textu se zvýrazní gsm)
+  const terms=[...new Set([...t0,...hWords(q).filter(w=>w.length>1&&!H_STOP.has(w))])];
+  const inR=r=>!r.rada||!H.moje||!MY_RADY.length||MY_RADY.includes(r.rada);
+  const pool=res.filter(inR);
+  const cat=r=>r.d.k==='p'?'krize':r.d.q.kategorie==='lokomotivy'?'loko':'predpisy';
+  const n={vse:pool.length,predpisy:0,loko:0,krize:0};pool.forEach(r=>n[cat(r)]++);
+  const F=[['vse','Vše'],['predpisy','Předpisy'],['loko','Lokomotivy'],['krize','Krizové postupy']].filter(([k])=>k!=='krize'||n.krize||H.f==='krize');
+  const hasRady=res.some(r=>r.rada);
+  fb.innerHTML=`<div class="h-tabs">${F.map(([k,l])=>`<button class="h-t" data-hf="${k}" aria-pressed="${H.f===k}">${l} <span class="count">${n[k]}</span></button>`).join('')}</div>
+    ${hasRady&&MY_RADY.length?`<label class="check h-moje"><input type="checkbox" id="h-moje" ${H.moje?'checked':''}> jen moje řady (${esc(MY_RADY.join(', '))})</label>`:''}`;
+  const list=pool.filter(r=>H.f==='vse'||cat(r)===H.f);
+  if(!list.length){box.innerHTML=`<p class="empty">Nic nenalezeno${H.moje&&res.length>pool.length?' u tvých řad – zkus vypnout „jen moje řady“':''}. Zkus jiné slovo nebo kratší dotaz.</p>`;return}
+  const show=list.slice(0,H.lim);
+  let apx=false;
+  box.innerHTML=(approx?'<p class="hint">Přesná shoda pro všechna slova není – ukazuji nejbližší výsledky.</p>':'')+show.map(r=>{
+    const sep=r.approx&&!apx&&!approx?(apx=true,'<div class="kr-cat">Přibližné výsledky (chybí jedno ze slov)</div>'):'';
+    return sep+hCard(r,terms)}).join('')
+    +(list.length>show.length?`<div class="setup-actions"><button class="btn" data-hlim>Zobrazit další (${list.length-show.length})</button></div>`:'');
+}
+function hCard(r,terms){
+    if(r.d.k==='p'){const p=r.d.p;const hit=(p.kroky||[]).find(k=>terms.some(t=>hWords(k.text).some(w=>hMatch(t,w))));
+      return `<button class="h-p" data-hp="${esc(p.id)}"><span class="h-pi">${ico('krize')}</span><span class="h-pt"><b>${hHl(p.nazev,terms)}</b>
+        <small>${esc(p.rada)} · ${esc(p.kategorie||'')}${p.podnadpis?' · '+hHl(p.podnadpis,terms):''}</small>
+        ${hit?`<small class="h-snip">${hit.c!=null?esc(hit.c)+'. ':''}${hHl(hit.text.length>150?hit.text.slice(0,149)+'…':hit.text,terms)}</small>`:''}</span><span class="h-go">Otevřít postup →</span></button>`}
+    const x=r.d.q,op=H.open.has(x.n);
+    const inFull=!terms.every(t=>hWords(x.otazka+' '+x.odpoved).some(w=>hMatch(t,w)));
+    return `<div class="q h-qc"><button class="q-head" data-hn="${x.n}" aria-expanded="${op}"><span class="q-num">${x.n}.</span><span class="q-text">${hHl(x.otazka,terms)}
+        <span class="q-meta"><span class="chip tema">${esc(x.tema0||x.tema)}</span>${x.rada?`<span class="chip">${esc(x.rada)}</span>`:''}</span></span></button>
+      <div class="h-body"><div class="ans"><b>Odpověď</b>${hHl(x.odpoved,terms)}</div>${srcHtml(x)}
+        ${inFull&&!op?`<div class="h-snip2">${hSnippet(x.plne_zneni,terms)}</div>`:''}
+        ${op?`${imgHtml(x)}<div class="full"><pre>${hHl(x.plne_zneni,terms)}</pre></div>${x.poznamka?`<div class="note">Poznámka: ${esc(x.poznamka)}</div>`:''}`:''}
+        <button class="btn small ghost h-more" data-hn="${x.n}">${op?'Skrýt plné znění':'Plné znění článku'}</button></div></div>`;
+}
+function hClick(e){
+  const s=e.target.closest('[data-hs]');if(s){H.q=s.dataset.hs;$('#h-q').value=H.q;H.lim=30;H.open.clear();hRemember(H.q);hResults();return}
+  const f=e.target.closest('[data-hf]');if(f){H.f=f.dataset.hf;H.lim=30;hPref();hResults();return}
+  if(e.target.closest('[data-hlim]')){H.lim+=30;hResults();return}
+  const n=e.target.closest('[data-hn]');if(n){const k=+n.dataset.hn;H.open.has(k)?H.open.delete(k):H.open.add(k);hRemember(H.q);hResults();return}
+  const p=e.target.closest('[data-hp]');if(p){const pp=krById(p.dataset.hp);if(!pp)return;hRemember(H.q);
+    KR.rada=pp.rada;KR.id=pp.id;KR.stack=[];krSave();showView('krize');window.scrollTo(0,0);if(KR_OK&&KB.auto)kbOpen()}
+}
+document.addEventListener('keydown',e=>{
+  if(e.key!=='/'||e.ctrlKey||e.metaKey||e.altKey||e.target.closest('input,textarea,select')||KB.on||$('#app').hidden)return;
+  e.preventDefault();showView('hledat');setTimeout(()=>{const i=$('#h-q');if(i)i.focus()},0);
+});
+
 /* =================== SMĚNÁŘ → KALENDÁŘ =================== */
 let SMENAR_PUB=false;
 function canSmenar(){return isAdmin()||SMENAR_PUB}
@@ -2267,11 +2474,12 @@ const ICONS={
   prehled:'<path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/>',
   admin:'<circle cx="12" cy="12" r="3"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/>',
   smenar:'<rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4M8 14h2M12 14h2M16 14h.01M8 17.5h2M12 17.5h2"/>',
+  hledat:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5l5 5"/>',
   vice:'<circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/>'
 };
 const ico=k=>`<svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[k]||''}</svg>`;
 function buildTabs(adm){
-  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
+  const main=[['predpisy','Předpisy'],['loko','Lokomotivy'],['zoz','Simulace ZOZ','ZOZ'],...(canKrize()?[['krize','Krizové postupy','Krize']]:[]),['hledat','Hledat „Co teď?“','Hledat'],...(canSmenar()?[['smenar','Směnář do kalendáře','Směnář']]:[]),['statistiky','Statistiky'],['podpora','Podpořit']];
   const admin=adm?[['prehled','Přehled'],['admin','Admin']]:[];
   const all=[...main,...admin];
   // na mobilu se vejde 5 položek; zbytek schovat pod „Více“
@@ -2312,6 +2520,7 @@ function showView(v){
     if(v==='krize')renderKrize();
     if(v==='zoz')renderZoz();
     if(v==='smenar')renderSmenar();
+    if(v==='hledat')renderHledat();
   }
   try{localStorage.setItem('zoz-view',v)}catch(e){}
 }
