@@ -752,7 +752,8 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .ps-ki{font-size:12.5px;color:var(--ink2)}
 .ps-komu{background:var(--accent-soft);border-radius:10px;padding:10px 12px;margin:10px 0 4px;display:flex;flex-direction:column;gap:4px}
 .ps-komu small{color:var(--ink2);font-size:12.5px}
-.ps-komu .mono{font-family:var(--mono)}
+.ps-komu .mono{font-family:var(--mono);white-space:nowrap}
+.ps-komu .ps-of{font-weight:400;color:var(--ink2);font-size:13px}
 .ps-u.k{stroke:var(--ink2);stroke-width:4.5}
 .ps-u.on{stroke:#f08a00;stroke-width:7}
 .ps-u.from{stroke:var(--ok);stroke-width:8}
@@ -1205,7 +1206,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 09:00";
+const BUILD = "26.09.2026 11:00";
 </script>
 <script>
 (function(){
@@ -2707,7 +2708,9 @@ function psRoute(S,fromK,toK){
       return o&&(o[1][0]*vi[0]+o[1][1]*vi[1])<-.8?[[o[0],U[o[0]].a===n?'ab':'ba']]:[]}   // křížení: jen rovně
     return segs.map(x=>[x,U[x].a===n?'ab':'ba'])};
   // úvrať: na koleji, kde je dovolena (výtažné koleje nejlevněji), nebo na traťové koleji jen k označníku
-  const revCost=u=>{const k=U[u].kolej,K=k&&S.koleje[k];if(K)return K.uvrat===false?0:(/výtažn/i.test(K.pozn||'')?30:50);return U[u].trat?90:0};
+  const dz=n=>{const N=S.uzly[n];return !!N&&(N.typ==='zarazedlo'||N.typ==='konec')};
+  // na kusé koleji (úsek končí zarážedlem) se otáčí až u zarážedla – zpátky pak projede i návěstidla pro opačný směr
+  const revCost=(u,d)=>{if((dz(U[u].a)||dz(U[u].b))&&!dz(end(u,d)))return 0;const k=U[u].kolej,K=k&&S.koleje[k];if(K)return K.uvrat===false?0:(/výtažn/i.test(K.pozn||'')?30:50);return U[u].trat?90:0};
   const starts=kolejU(fromK),goal=new Set(kolejU(toK));
   const dist=new Map(),prev=new Map(),Q=[];
   const push=(k,c,p)=>{if(dist.has(k)&&dist.get(k)<=c)return;dist.set(k,c);prev.set(k,p);Q.push([c,k])};
@@ -2717,7 +2720,7 @@ function psRoute(S,fromK,toK){
     const [u,d]=k.split('|');
     if(goal.has(u)&&prev.get(k)!==null){best=k;break}
     for(const [x,dx] of next(u,d))push(x+'|'+dx,c+1,k);
-    const rc=revCost(u);if(rc&&prev.get(k)!==null&&!goal.has(u))push(u+'|'+(d==='ab'?'ba':'ab'),c+rc,k);
+    const rc=revCost(u,d);if(rc&&prev.get(k)!==null&&!goal.has(u))push(u+'|'+(d==='ab'?'ba':'ab'),c+rc,k);
   }
   if(!best)return null;
   const path=[];for(let k=best;k;k=prev.get(k))path.unshift(k.split('|'));
@@ -2732,11 +2735,13 @@ function psRoute(S,fromK,toK){
   steps.forEach((st,i)=>{
     const ab=st.d==='ab',nextSt=steps[i+1];
     let from=ab?0:1,to=ab?1:0;
-    if(st.t==='start'||st.t==='poUvrati')from=.5;
-    if(st.t==='cil'||(nextSt&&nextSt.t==='poUvrati'))to=.5;
+    if(st.t==='start')from=.5;
+    if(st.t==='poUvrati')from=dz(end(steps[i-1].u,steps[i-1].d))?(ab?0:1):.5;
+    if(st.t==='cil')to=.5;
+    if(nextSt&&nextSt.t==='poUvrati')to=dz(end(st.u,st.d))?(ab?1:0):.5;
     const sg=S.navestidla.filter(n=>n.usek===st.u&&n.smer===st.d&&inPart(n,from,to)).sort((a,b)=>ab?a.pos-b.pos:b.pos-a.pos);
     sg.forEach(n=>out.push({k:'nav',n}));
-    if(nextSt&&nextSt.t==='poUvrati'){const us=S.useky.find(x=>x.id===st.u);out.push({k:'uvrat',kolej:us.kolej,trat:us.trat?(S.uzly[us.a].popis||S.uzly[us.b].popis||'trať'):null});return}
+    if(nextSt&&nextSt.t==='poUvrati'){const us=S.useky.find(x=>x.id===st.u);out.push({k:'uvrat',kolej:us.kolej,vytah:!!(us.kolej&&/výtažn/i.test((S.koleje[us.kolej]||{}).pozn||'')),trat:us.trat?(S.uzly[us.a].popis||S.uzly[us.b].popis||'trať'):null});return}
     if(to!==.5){const n=end(st.u,st.d),N=S.uzly[n];if(N&&N.typ==='vyhybka')out.push({k:'vyh',c:N.c})}
   });
   // po sobě jdoucí výhybky do jednoho řádku
@@ -2761,8 +2766,8 @@ function psVeta(S,R){
     S.elektrizovana?(PF.zavisla?'Posun s vozidly závislé trakce.':'Posun s vozidly nezávislé trakce.'):'',
     PF.obsadit?`Po posunu vozidla odstavím ${t.loc}.`:'','Příjem.'].filter(Boolean).join(' ');
   return [
-    {kdo:'ty',t:`${psKomu(S).nazev}, zde je strojvedoucí ${dilGen} ${f.loc} ${S.v}.`},
-    {kdo:'výpravčí',t:`${psKomu(S).nazev}.`,pozn:'nebo „Příjem.“ – spojení je navázané'},
+    {kdo:'ty',t:`${psKomu(S).volaci||psKomu(S).nazev}, zde je strojvedoucí ${dilGen} ${f.loc} ${S.v}.`},
+    {kdo:'výpravčí',t:`${psKomu(S).volaci||psKomu(S).nazev}.`,pozn:'nebo „Příjem.“ – spojení je navázané'},
     {kdo:'ty',t:zadost},
     {kdo:'výpravčí',t:'Udělí souhlas k posunu – návěstí Posun dovolen, ústně nebo telekomunikačním zařízením (D1 čl. 236).'},
     {kdo:'ty',t:'Pokyn zopakuješ a potvrdíš: „Rozumím.“ Hovor ukončí kterýkoliv z vás: „Konec.“ – „Rozumím. Konec.“'}];
@@ -2833,13 +2838,13 @@ function renderPosun(){
         ${S.elektrizovana?`<label class="check"><input type="checkbox" id="pf-zav" ${PF.zavisla?'checked':''}> vozidla závislé trakce</label>`:''}
         <label class="check"><input type="checkbox" id="pf-obs" ${PF.obsadit?'checked':''}> po posunu cílovou kolej obsadím (odstavím)</label></details>
         ${(()=>{const W=psKomu(S);if(!W.id)return '';const o=W.obvod;
-          return `<div class="ps-komu"><b>Voláš: ${esc(W.nazev)}</b>${W.gsmr?` · GSM-R <span class="mono">${esc(W.gsmr)}</span>`:''}${W.tel?` · tel. <span class="mono">${esc(W.tel)}</span>`:''}
+          return `<div class="ps-komu"><div><b>Voláš: ${esc(W.volaci||W.nazev)}${W.volaci?` <span class="ps-of">(oficiálně ${esc(W.nazev)})</span>`:''}</b>${W.gsmr?` · GSM-R <span class="mono">${esc(W.gsmr)}</span>`:''}${W.tel?` · tel. <span class="mono">${esc(W.tel)}</span>`:''}</div>
           ${o?`<small>Cílová kolej je v posunovacím obvodu ${o.c} (${esc(o.prideleno)}); souhlas s obsazením koleje uděluje ${esc(o.souhlas)}.${o.pozn?' '+esc(o.pozn):''}</small>`:''}${S.posunPozn?`<small>${esc(S.posunPozn)}</small>`:''}</div>`})()}
         <h3 class="subh">Co řekneš</h3><div class="ps-dlg">${V.map(x=>`<div class="ps-l ${x.kdo==='ty'?'ty':'on'}"><span class="ps-w">${x.kdo==='ty'?'ty':esc(x.kdo)}</span><span class="ps-t">${x.kdo==='ty'&&!/^Pokyn/.test(x.t)?`„${esc(x.t)}“`:esc(x.t)}${x.pozn?`<small>${esc(x.pozn)}</small>`:''}</span></div>`).join('')}</div>
         <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button></div>
         <h3 class="subh">Trasa</h3><ol class="ps-rt"><li><b>Start:</b> ${esc(K[PS.from].nazev)}</li>
         ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b> nebo jiný souhlas k posunu</span></li>`
-          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')} – zastav, změň směr, pokračuj zpět</li>`
+          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')+(x.vytah?' (výtažná kolej – „výtah“)':'')} – zastav, změň směr, pokračuj zpět</li>`
           :`<li class="vy">přes ${x.c.includes(',')?'výhybky':'výhybku'} č. ${esc(x.c)}</li>`).join('')}
         <li><b>Cíl:</b> ${esc(K[PS.to].nazev)}</li></ol>
         <p class="hint">Žádost je sestavená podle SŽ D1 čl. 229 odst. (5) (co musíš výpravčímu oznámit) a navazování spojení podle SŽ Z11 – slovní podoba žádosti není závazné znění. Rozhodují ZDD stanice, pokyny výpravčího a skutečné návěsti; posun vždy podle rozhledových poměrů (D1 čl. 237).</p>`;

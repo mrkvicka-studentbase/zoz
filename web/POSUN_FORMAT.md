@@ -9,7 +9,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 | `id`, `nazev` | identifikátor a název („Chomutov“) |
 | `v` | 6. pád s předložkou pro větu („v Chomutově“) |
 | `vypravci` | jak se volá výpravčí, když stanice nemá `pracoviste` („Výpravčí Lhota“) |
-| `pracoviste` | u více výpravčích/signalistů: `{"v1":{"nazev":"Výpravčí 1 Chomutov","gsmr":"7 53 489 02","tel":"972 062 431"},…}` |
+| `pracoviste` | u více výpravčích/signalistů: `{"v1":{"nazev":"Výpravčí 1 Chomutov","volaci":"Doprava Chomutov","gsmr":"7 53 489 02","tel":"972 062 431"},…}` – `nazev` je oficiální název ze SŘ, `volaci` jak se v praxi volá (použije se ve větě, oficiální název se ukáže v závorce) |
 | `vychozi` | id pracoviště, které se volá, když cílová kolej nemá obvod (`"v1"`) |
 | `obvody` | posunovací obvody ze SŘ: `[{"c":0,"prideleno":"posunovač ČD (vlečka)","souhlas":"výpravčí 1","volat":"v1","pozn":"…"},…]` – komu volat se určí podle obvodu **cílové** koleje |
 | `posunPozn` | obecné poznámky k posunu ze SŘ (zobrazí se pod „Voláš“) |

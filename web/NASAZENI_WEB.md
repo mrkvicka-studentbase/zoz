@@ -5,9 +5,9 @@
 Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v27`.
 
 - **Chomutov** podle SŘ ŽST Chomutov: 64 kolejí, 105 výhybek, 56 návěstidel, vlečka NTM a Průmyslová kolej. Na velkém plánku se posouvá do stran.
-- **Komu voláš** se řídí posunovacím obvodem cílové koleje (SŘ čl. 52–53): Výpravčí 1, Výpravčí St.2 nebo Signalista St.1 – s GSM-R číslem a telefonem ze SŘ. U vlečky NTM i posunovač ČD (tel. 725 817 925, rádio STE 4 kanál 19).
+- **Komu voláš** se řídí posunovacím obvodem cílové koleje (SŘ čl. 52–53): volá se, jak je zvykem – **Doprava Chomutov**, **Stavidlo 2 Chomutov**, **Stavidlo 1 Chomutov** (oficiální název ze SŘ v závorce) – s GSM-R číslem a telefonem ze SŘ. U vlečky NTM i posunovač ČD (tel. 725 817 925, rádio STE 4 kanál 19).
 - U vybrané koleje se ukáže typ, užitečná délka a poznámka ze SŘ. Koleje se zákazem jízdy (v SŘ červeně) nejdou vybrat a trasa přes ně nevede.
-- Úvrať: přednostně na výtažné koleji; nikdy na účelových kolejích OSPD. Když jinak nejde, pomůcka změní směr na traťové koleji **před označníkem** a výslovně to napíše („posun jen k označníku, za něj ne“).
+- Úvrať: přednostně na výtažné koleji („výtah“, např. 4c) – dojede se až ke kusé koleji, takže trasa ukáže i seřaďovací návěstidlo pro jízdu zpět (4 → NTM: S4 a Se1, dvakrát Posun dovolen); nikdy na účelových kolejích OSPD. Když jinak nejde, pomůcka změní směr na traťové koleji **před označníkem** a výslovně to napíše („posun jen k označníku, za něj ne“).
 - Ukázková Lhota zůstává jako druhá stanice.
 
 ## ⬆ Aktualizace – Posunová pomůcka (BETA, zatím jen ukázková stanice)
