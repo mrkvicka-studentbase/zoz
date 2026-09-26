@@ -746,6 +746,13 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .ps-svg{display:block;width:100%;min-width:680px;height:auto}
 .ps-u{fill:none;stroke:var(--ink3);stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
 .ps-u.tr{stroke-dasharray:8 6}
+.ps-u.dash{stroke-dasharray:7 4}
+.ps-u.zk{stroke:#d9534f;opacity:.55}
+.ps-kis{display:flex;flex-direction:column;gap:4px;margin:4px 0 8px}
+.ps-ki{font-size:12.5px;color:var(--ink2)}
+.ps-komu{background:var(--accent-soft);border-radius:10px;padding:10px 12px;margin:10px 0 4px;display:flex;flex-direction:column;gap:4px}
+.ps-komu small{color:var(--ink2);font-size:12.5px}
+.ps-komu .mono{font-family:var(--mono)}
 .ps-u.k{stroke:var(--ink2);stroke-width:4.5}
 .ps-u.on{stroke:#f08a00;stroke-width:7}
 .ps-u.from{stroke:var(--ok);stroke-width:8}
@@ -1198,7 +1205,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 05:30";
+const BUILD = "26.09.2026 09:00";
 </script>
 <script>
 (function(){
@@ -2692,10 +2699,15 @@ function psRoute(S,fromK,toK){
   S.useky.forEach(u=>{(at[u.a]=at[u.a]||[]).push(u.id);(at[u.b]=at[u.b]||[]).push(u.id)});
   const kolejU=k=>S.useky.filter(u=>u.kolej===k).map(u=>u.id);
   const end=(u,d)=>d==='ab'?U[u].b:U[u].a;
-  const next=(u,d)=>{const n=end(u,d),N=S.uzly[n]||{},segs=(at[n]||[]).filter(x=>x!==u);
-    if(N.typ==='vyhybka')return (u===N.kmen?segs.filter(x=>x!==N.kmen):[N.kmen]).map(x=>[x,U[x].a===n?'ab':'ba']);
+  const blok=x=>U[x].zakaz||(U[x].kolej&&S.koleje[U[x].kolej]&&S.koleje[U[x].kolej].zakaz);
+  const vec=(x,n)=>{const b=U[x].a===n?U[x].body:U[x].body.slice().reverse();const q=b[Math.min(b.length-1,1)];const v=[q[0]-b[0][0],q[1]-b[0][1]],L=Math.hypot(v[0],v[1])||1;return [v[0]/L,v[1]/L]};
+  const next=(u,d)=>{const n=end(u,d),N=S.uzly[n]||{},segs=(at[n]||[]).filter(x=>x!==u&&!blok(x));
+    if(N.typ==='vyhybka')return (u===N.kmen?segs.filter(x=>x!==N.kmen):segs.filter(x=>x===N.kmen)).map(x=>[x,U[x].a===n?'ab':'ba']);
+    if(N.typ==='krizeni'){const vi=vec(u,n);const o=segs.map(x=>[x,vec(x,n)]).sort((p,q)=>(p[1][0]*vi[0]+p[1][1]*vi[1])-(q[1][0]*vi[0]+q[1][1]*vi[1]))[0];
+      return o&&(o[1][0]*vi[0]+o[1][1]*vi[1])<-.8?[[o[0],U[o[0]].a===n?'ab':'ba']]:[]}   // křížení: jen rovně
     return segs.map(x=>[x,U[x].a===n?'ab':'ba'])};
-  const canRev=u=>{const k=U[u].kolej;return k&&S.koleje[k]&&S.koleje[k].uvrat!==false};
+  // úvrať: na koleji, kde je dovolena (výtažné koleje nejlevněji), nebo na traťové koleji jen k označníku
+  const revCost=u=>{const k=U[u].kolej,K=k&&S.koleje[k];if(K)return K.uvrat===false?0:(/výtažn/i.test(K.pozn||'')?30:50);return U[u].trat?90:0};
   const starts=kolejU(fromK),goal=new Set(kolejU(toK));
   const dist=new Map(),prev=new Map(),Q=[];
   const push=(k,c,p)=>{if(dist.has(k)&&dist.get(k)<=c)return;dist.set(k,c);prev.set(k,p);Q.push([c,k])};
@@ -2704,9 +2716,8 @@ function psRoute(S,fromK,toK){
   while(Q.length){Q.sort((a,b)=>a[0]-b[0]);const [c,k]=Q.shift();if(c>dist.get(k))continue;
     const [u,d]=k.split('|');
     if(goal.has(u)&&prev.get(k)!==null){best=k;break}
-    if(U[u].trat&&prev.get(k)!==null)continue;   // na trať za vjezdové návěstidlo se posun nevede
     for(const [x,dx] of next(u,d))push(x+'|'+dx,c+1,k);
-    if(canRev(u)&&prev.get(k)!==null&&!goal.has(u))push(u+'|'+(d==='ab'?'ba':'ab'),c+50,k);
+    const rc=revCost(u);if(rc&&prev.get(k)!==null&&!goal.has(u))push(u+'|'+(d==='ab'?'ba':'ab'),c+rc,k);
   }
   if(!best)return null;
   const path=[];for(let k=best;k;k=prev.get(k))path.unshift(k.split('|'));
@@ -2725,7 +2736,7 @@ function psRoute(S,fromK,toK){
     if(st.t==='cil'||(nextSt&&nextSt.t==='poUvrati'))to=.5;
     const sg=S.navestidla.filter(n=>n.usek===st.u&&n.smer===st.d&&inPart(n,from,to)).sort((a,b)=>ab?a.pos-b.pos:b.pos-a.pos);
     sg.forEach(n=>out.push({k:'nav',n}));
-    if(nextSt&&nextSt.t==='poUvrati'){out.push({k:'uvrat',kolej:S.useky.find(x=>x.id===st.u).kolej});return}
+    if(nextSt&&nextSt.t==='poUvrati'){const us=S.useky.find(x=>x.id===st.u);out.push({k:'uvrat',kolej:us.kolej,trat:us.trat?(S.uzly[us.a].popis||S.uzly[us.b].popis||'trať'):null});return}
     if(to!==.5){const n=end(st.u,st.d),N=S.uzly[n];if(N&&N.typ==='vyhybka')out.push({k:'vyh',c:N.c})}
   });
   // po sobě jdoucí výhybky do jednoho řádku
@@ -2733,19 +2744,25 @@ function psRoute(S,fromK,toK){
   return {steps,out:out2,uvrat:out2.filter(x=>x.k==='uvrat').length};
 }
 const PS_NAVEST={odjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',vjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',cestove:'Posun dovolen na hlavním návěstidle (bílé světlo)',seradovaci:'Posun dovolen (bílé světlo)'};
+/* komu volat: podle posunovacího obvodu cílové koleje (SŘ stanice), jinak výpravčí stanice */
+function psKomu(S){
+  if(!S.pracoviste)return {nazev:S.vypravci};
+  const k=S.koleje[PS.to]||{},o=(S.obvody||[]).find(x=>x.c===k.obvod),id=(o&&o.volat)||S.vychozi;
+  return Object.assign({id},S.pracoviste[id],{obvod:o});
+}
 function psVeta(S,R){
   const K=S.koleje,f=K[PS.from],t=K[PS.to];
   const dil=[PF.dil,PF.cislo].filter(Boolean).join(' ').trim()||'posunového dílu';
   // 2. pád pro volací značku „strojvedoucí …“
   const dilGen=dil.replace(/^posunový díl/i,'posunového dílu').replace(/^samostatné hnací vozidlo/i,'samostatného hnacího vozidla').replace(/^záloha/i,'zálohy').replace(/^PMD/,'PMD');
-  const uv=R&&R.uvrat?R.out.filter(x=>x.k==='uvrat').map(x=>K[x.kolej]?'přes '+K[x.kolej].acc:'').filter(Boolean):[];
+  const uv=R&&R.uvrat?R.out.filter(x=>x.k==='uvrat').map(x=>K[x.kolej]?'přes '+K[x.kolej].acc:x.trat?'přes kolej k označníku ('+x.trat.replace(/^traťová kolej \d – |^trať – /,'směr ')+')':'').filter(Boolean):[];
   const zadost=[`${PF.dopr||'(dopravce)'}, strojvedoucí ${PF.prij||'(příjmení)'}.`,
     `Žádám o souhlas k posunu${PF.ceta?' s posunovou četou':' bez posunové čety'} ${f.z||(/^(s|z|š|ž|dr|tř|čt|vš|kd|mn)/i.test(f.gen)?'ze':'z')} ${f.gen} na ${t.acc}${uv.length?' '+uv.join(' a ')+' s úvratí':''}.`,
     S.elektrizovana?(PF.zavisla?'Posun s vozidly závislé trakce.':'Posun s vozidly nezávislé trakce.'):'',
     PF.obsadit?`Po posunu vozidla odstavím ${t.loc}.`:'','Příjem.'].filter(Boolean).join(' ');
   return [
-    {kdo:'ty',t:`${S.vypravci}, zde je strojvedoucí ${dilGen} ${f.loc} ${S.v}.`},
-    {kdo:'výpravčí',t:`${S.vypravci}.`,pozn:'nebo „Příjem.“ – spojení je navázané'},
+    {kdo:'ty',t:`${psKomu(S).nazev}, zde je strojvedoucí ${dilGen} ${f.loc} ${S.v}.`},
+    {kdo:'výpravčí',t:`${psKomu(S).nazev}.`,pozn:'nebo „Příjem.“ – spojení je navázané'},
     {kdo:'ty',t:zadost},
     {kdo:'výpravčí',t:'Udělí souhlas k posunu – návěstí Posun dovolen, ústně nebo telekomunikačním zařízením (D1 čl. 236).'},
     {kdo:'ty',t:'Pokyn zopakuješ a potvrdíš: „Rozumím.“ Hovor ukončí kterýkoliv z vás: „Konec.“ – „Rozumím. Konec.“'}];
@@ -2755,9 +2772,9 @@ function psSvg(S,R){
   const pl=b=>b.map(p=>p.join(',')).join(' ');
   const K=u=>u.kolej;
   let g='';
-  S.useky.forEach(u=>{const k=K(u),on=sel.has(u.id),cls=['ps-u',u.trat?'tr':'',k?'k':'',on?'on':'',k===PS.from?'from':'',k===PS.to?'to':''].join(' ');
+  S.useky.forEach(u=>{const k=K(u),on=sel.has(u.id),zk=u.zakaz||(k&&S.koleje[k]&&S.koleje[k].zakaz),cls=['ps-u',u.trat?'tr':'',u.carkovane?'dash':'',zk?'zk':'',k?'k':'',on?'on':'',k===PS.from?'from':'',k===PS.to?'to':''].join(' ');
     g+=`<polyline class="${cls}" points="${pl(u.body)}"/>`;
-    if(k)g+=`<polyline class="ps-hit" data-psk="${esc(k)}" points="${pl(u.body)}"/>`});
+    if(k&&!zk)g+=`<polyline class="ps-hit" data-psk="${esc(k)}" points="${pl(u.body)}"/>`});
   // popisky kolejí
   const seen=new Set();S.useky.forEach(u=>{const k=K(u);if(!k||seen.has(k))return;seen.add(k);const b=u.body,m=b[Math.floor((b.length-1)/2)],n=b[Math.ceil((b.length-1)/2)];
     const x=(m[0]+n[0])/2,y=(m[1]+n[1])/2;g+=`<text class="ps-kl${k===PS.from?' from':''}${k===PS.to?' to':''}" x="${x}" y="${y-7}" data-psk="${esc(k)}">${esc(S.koleje[k]&&S.koleje[k].nazev.length<=6?S.koleje[k].nazev:k)}</text>`});
@@ -2771,7 +2788,7 @@ function psSvg(S,R){
     const cls='ps-n '+(n.typ==='seradovaci'?'se':'hl')+(passed.has(n.id)?' on':'');
     g+=`<g class="${cls}"><line x1="${ox}" y1="${p[1]}" x2="${ox}" y2="${oy}"/>${n.typ==='seradovaci'?`<rect x="${ox-4}" y="${oy-4}" width="8" height="8"/>`:`<circle cx="${ox}" cy="${oy}" r="4.5"/>`}
       <text x="${ox+7*side}" y="${oy+4}" text-anchor="${side>0?'start':'end'}">${esc(n.id)}</text></g>`});
-  return `<svg class="ps-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Plánek stanice ${esc(S.nazev)}">${g}</svg>`;
+  return `<svg class="ps-svg" viewBox="0 0 ${W} ${H}" style="min-width:${Math.round(W*(S.meritko||.68))}px" role="img" aria-label="Plánek stanice ${esc(S.nazev)}">${g}</svg>`;
 }
 function psAt(b,t){   // bod v poměru t po délce lomené čáry
   const L=[];let tot=0;for(let i=1;i<b.length;i++){const d=Math.hypot(b[i][0]-b[i-1][0],b[i][1]-b[i-1][1]);L.push(d);tot+=d}
@@ -2799,10 +2816,12 @@ function renderPosun(){
     <div class="setup ps">${hint?`<p class="ps-hint">${hint}</p>`:''}
     <div class="ps-wrap">${psSvg(S,R)}</div>
     <div class="ps-leg"><span><i class="lf"></i>stojím</span><span><i class="lt"></i>cíl</span><span><i class="lr"></i>trasa</span><span><b class="lse"></b>seřaďovací</span><span><b class="lhl"></b>hlavní</span></div>
-    <div class="ps-sel"><label>Stojím <select id="ps-from"><option value="">–</option>${Object.entries(K).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.from?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label>
-      <label>Cíl <select id="ps-to"><option value="">–</option>${Object.entries(K).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.to?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label></div>`;
+    <div class="ps-sel"><label>Stojím <select id="ps-from"><option value="">–</option>${Object.entries(K).filter(([k,v])=>!v.zakaz).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.from?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label>
+      <label>Cíl <select id="ps-to"><option value="">–</option>${Object.entries(K).filter(([k,v])=>!v.zakaz).map(([k,v])=>`<option value="${esc(k)}" ${k===PS.to?'selected':''}>${esc(v.nazev)}</option>`).join('')}</select></label></div>`;
+  const kinfo=k=>{const v=K[k];if(!v)return '';const x=[v.typ,v.uzitecna?`užitečná délka ${v.uzitecna} m`:'',v.pozn||''].filter(Boolean).join(' · ');return x?`<div class="ps-ki"><b>${esc(v.nazev)}</b> ${esc(x)}</div>`:''};
+  if(PS.from||PS.to)h+=`<div class="ps-kis">${PS.from?kinfo(PS.from):''}${PS.to&&PS.to!==PS.from?kinfo(PS.to):''}</div>`;
   if(PS.from&&PS.to){
-    if(!R)h+=`<p class="empty">Mezi těmito kolejemi jsem v plánku nenašel posunovou cestu.</p>`;
+    if(!R)h+=`<p class="empty">Mezi těmito kolejemi jsem v plánku nenašel posunovou cestu (koleje se zákazem jízdy drážních vozidel a trať za označníkem se nepoužívají).</p>`;
     else{
       const V=psVeta(S,R);
       h+=`<details class="ps-f" ${PF.prij?'':'open'}><summary>Údaje do hlášení</summary>
@@ -2813,18 +2832,25 @@ function renderPosun(){
         <label class="check"><input type="checkbox" id="pf-ceta" ${PF.ceta?'checked':''}> s posunovou četou</label>
         ${S.elektrizovana?`<label class="check"><input type="checkbox" id="pf-zav" ${PF.zavisla?'checked':''}> vozidla závislé trakce</label>`:''}
         <label class="check"><input type="checkbox" id="pf-obs" ${PF.obsadit?'checked':''}> po posunu cílovou kolej obsadím (odstavím)</label></details>
+        ${(()=>{const W=psKomu(S);if(!W.id)return '';const o=W.obvod;
+          return `<div class="ps-komu"><b>Voláš: ${esc(W.nazev)}</b>${W.gsmr?` · GSM-R <span class="mono">${esc(W.gsmr)}</span>`:''}${W.tel?` · tel. <span class="mono">${esc(W.tel)}</span>`:''}
+          ${o?`<small>Cílová kolej je v posunovacím obvodu ${o.c} (${esc(o.prideleno)}); souhlas s obsazením koleje uděluje ${esc(o.souhlas)}.${o.pozn?' '+esc(o.pozn):''}</small>`:''}${S.posunPozn?`<small>${esc(S.posunPozn)}</small>`:''}</div>`})()}
         <h3 class="subh">Co řekneš</h3><div class="ps-dlg">${V.map(x=>`<div class="ps-l ${x.kdo==='ty'?'ty':'on'}"><span class="ps-w">${x.kdo==='ty'?'ty':esc(x.kdo)}</span><span class="ps-t">${x.kdo==='ty'&&!/^Pokyn/.test(x.t)?`„${esc(x.t)}“`:esc(x.t)}${x.pozn?`<small>${esc(x.pozn)}</small>`:''}</span></div>`).join('')}</div>
         <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button></div>
         <h3 class="subh">Trasa</h3><ol class="ps-rt"><li><b>Start:</b> ${esc(K[PS.from].nazev)}</li>
         ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b> nebo jiný souhlas k posunu</span></li>`
-          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${esc(K[x.kolej]?K[x.kolej].loc:'')} – zastav, změň směr, pokračuj zpět</li>`
+          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')} – zastav, změň směr, pokračuj zpět</li>`
           :`<li class="vy">přes ${x.c.includes(',')?'výhybky':'výhybku'} č. ${esc(x.c)}</li>`).join('')}
         <li><b>Cíl:</b> ${esc(K[PS.to].nazev)}</li></ol>
         <p class="hint">Žádost je sestavená podle SŽ D1 čl. 229 odst. (5) (co musíš výpravčímu oznámit) a navazování spojení podle SŽ Z11 – slovní podoba žádosti není závazné znění. Rozhodují ZDD stanice, pokyny výpravčího a skutečné návěsti; posun vždy podle rozhledových poměrů (D1 čl. 237).</p>`;
     }
   }
   h+=`${S.zdroj?`<p class="hint">Plánek: ${esc(S.zdroj)}</p>`:''}</div>`;
+  const ow=root.querySelector('.ps-wrap'),sx=ow&&PS.sxSt===S.id?ow.scrollLeft:null;
   root.innerHTML=h;
+  const w=root.querySelector('.ps-wrap');
+  if(w&&w.scrollWidth>w.clientWidth)w.scrollLeft=sx!=null?sx:(S.pohled||S.rozmer[0]/2)/S.rozmer[0]*w.scrollWidth-w.clientWidth/2;
+  PS.sxSt=S.id;
   const on=(id,fn)=>{const e=$(id);if(e)e.onchange=e.oninput=fn};
   on('#ps-from',e=>{PS.from=e.target.value||null;renderPosun()});on('#ps-to',e=>{PS.to=e.target.value||null;renderPosun()});
   const upd=()=>{PF.dil=$('#pf-dil').value;PF.cislo=$('#pf-cislo').value.trim();PF.dopr=$('#pf-dopr').value.trim();PF.prij=$('#pf-prij').value.trim();PF.ceta=$('#pf-ceta').checked;
