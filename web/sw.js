@@ -1,7 +1,7 @@
 /* ZOZ Trenažér – service worker
    Umožňuje instalaci na plochu telefonu a spuštění i bez signálu.
    Verzi zvyš při každé nové verzi index.html, ať se lidem stáhne. */
-const VERSION = 'zoz-v27';
+const VERSION = 'zoz-v28';
 const SHELL   = 'shell-' + VERSION;
 const RUNTIME = 'runtime-' + VERSION;
 

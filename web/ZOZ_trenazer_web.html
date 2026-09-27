@@ -750,6 +750,21 @@ h2 .beta{font-size:12px;margin-left:6px;transform:rotate(-6deg)}
 .ps-u.zk{stroke:#d9534f;opacity:.55}
 .ps-kis{display:flex;flex-direction:column;gap:4px;margin:4px 0 8px}
 .ps-ki{font-size:12.5px;color:var(--ink2)}
+.p3{position:fixed;inset:0;z-index:1000;background:#0e1114;color:#fff;font-family:var(--sans,system-ui)}
+.p3 canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+body.p3-open{overflow:hidden}
+.p3-top{position:absolute;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;padding-top:max(10px,env(safe-area-inset-top));background:linear-gradient(rgba(0,0,0,.6),transparent)}
+.p3-top span{display:block;font-size:13px;opacity:.85}
+.p3-x,.p3-b{background:rgba(0,0,0,.5);color:#fff;border:1px solid rgba(255,255,255,.3);border-radius:10px;min-width:42px;height:38px;font-size:17px;cursor:pointer}
+.p3-msg{position:absolute;left:12px;right:12px;bottom:66px;padding:12px 14px;background:rgba(12,14,17,.8);border-radius:12px;max-width:640px;margin:0 auto}
+.p3-m1{font-weight:700;font-size:16px;line-height:1.35}.p3-m2{font-size:13.5px;opacity:.85;margin-top:3px}.p3-m2:empty{display:none}
+.p3-bar{position:absolute;left:0;right:0;bottom:0;display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap;padding:10px;padding-bottom:max(10px,env(safe-area-inset-bottom));background:linear-gradient(transparent,rgba(0,0,0,.65))}
+.p3-seg{display:inline-flex;border:1px solid rgba(255,255,255,.3);border-radius:10px;overflow:hidden}
+.p3-seg button{background:rgba(0,0,0,.45);color:#fff;border:0;padding:0 10px;height:36px;font-size:13px;cursor:pointer}
+.p3-seg button.on{background:#ff8a00;color:#111;font-weight:700}
+.p3-v{font-family:var(--mono);font-weight:700;min-width:64px;text-align:right}
+.p3-end{display:flex;gap:8px;margin-top:10px}
+@media (max-width:560px){.p3-msg{bottom:104px}}
 .ps-komu{background:var(--accent-soft);border-radius:10px;padding:10px 12px;margin:10px 0 4px;display:flex;flex-direction:column;gap:4px}
 .ps-komu small{color:var(--ink2);font-size:12.5px}
 .ps-komu .mono{font-family:var(--mono);white-space:nowrap}
@@ -1206,7 +1221,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "26.09.2026 11:00";
+const BUILD = "27.09.2026 12:00";
 </script>
 <script>
 (function(){
@@ -2710,7 +2725,7 @@ function psRoute(S,fromK,toK){
   // úvrať: na koleji, kde je dovolena (výtažné koleje nejlevněji), nebo na traťové koleji jen k označníku
   const dz=n=>{const N=S.uzly[n];return !!N&&(N.typ==='zarazedlo'||N.typ==='konec')};
   // na kusé koleji (úsek končí zarážedlem) se otáčí až u zarážedla – zpátky pak projede i návěstidla pro opačný směr
-  const revCost=(u,d)=>{if((dz(U[u].a)||dz(U[u].b))&&!dz(end(u,d)))return 0;const k=U[u].kolej,K=k&&S.koleje[k];if(K)return K.uvrat===false?0:(/výtažn/i.test(K.pozn||'')?30:50);return U[u].trat?90:0};
+  const revCost=(u,d)=>{if((dz(U[u].a)||dz(U[u].b))&&!dz(end(u,d)))return 0;const k=U[u].kolej,K=k&&S.koleje[k];if(K)return K.uvrat===false?0:(/výtažn/i.test(K.pozn||'')?30:50);if(U[u].trat)return 90;return psZhl(S,U[u])?15:0};
   const starts=kolejU(fromK),goal=new Set(kolejU(toK));
   const dist=new Map(),prev=new Map(),Q=[];
   const push=(k,c,p)=>{if(dist.has(k)&&dist.get(k)<=c)return;dist.set(k,c);prev.set(k,p);Q.push([c,k])};
@@ -2741,13 +2756,18 @@ function psRoute(S,fromK,toK){
     if(nextSt&&nextSt.t==='poUvrati')to=dz(end(st.u,st.d))?(ab?1:0):.5;
     const sg=S.navestidla.filter(n=>n.usek===st.u&&n.smer===st.d&&inPart(n,from,to)).sort((a,b)=>ab?a.pos-b.pos:b.pos-a.pos);
     sg.forEach(n=>out.push({k:'nav',n}));
-    if(nextSt&&nextSt.t==='poUvrati'){const us=S.useky.find(x=>x.id===st.u);out.push({k:'uvrat',kolej:us.kolej,vytah:!!(us.kolej&&/výtažn/i.test((S.koleje[us.kolej]||{}).pozn||'')),trat:us.trat?(S.uzly[us.a].popis||S.uzly[us.b].popis||'trať'):null});return}
+    if(nextSt&&nextSt.t==='poUvrati'){const us=S.useky.find(x=>x.id===st.u),z=!us.kolej&&!us.trat&&psZhl(S,us),vc=z&&(S.uzly[ab?us.a:us.b]||{}).c;
+      out.push({k:'uvrat',zhl:z?{z,c:vc,np:(S.neprofilove||{})[vc]}:null,kolej:us.kolej,vytah:!!(us.kolej&&/výtažn/i.test((S.koleje[us.kolej]||{}).pozn||'')),trat:us.trat?(S.uzly[us.a].popis||S.uzly[us.b].popis||'trať'):null});return}
     if(to!==.5){const n=end(st.u,st.d),N=S.uzly[n];if(N&&N.typ==='vyhybka')out.push({k:'vyh',c:N.c})}
   });
   // po sobě jdoucí výhybky do jednoho řádku
   const out2=[];out.forEach(x=>{const l=out2[out2.length-1];if(x.k==='vyh'&&l&&l.k==='vyh')l.c+=', '+x.c;else out2.push({...x})});
   return {steps,out:out2,uvrat:out2.filter(x=>x.k==='uvrat').length};
 }
+/* zhlaví, kde se smí otočit hned za výhybkou (za izolovaným stykem) – bez výtažné koleje */
+function psZhl(S,u){if(!S.zhlavi||u.kolej||u.trat)return null;const c=n=>(S.uzly[n]||{}).typ==='vyhybka'&&S.uzly[n].c;
+  return S.zhlavi.find(z=>z.vyhybky.includes(c(u.a))&&z.vyhybky.includes(c(u.b)))||null}
+const psPrac=(S,id)=>{const w=(S.pracoviste||{})[id];return w?(w.volaci||w.nazev):'výpravčího'};
 const PS_NAVEST={odjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',vjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',cestove:'Posun dovolen na hlavním návěstidle (bílé světlo)',seradovaci:'Posun dovolen (bílé světlo)'};
 /* komu volat: podle posunovacího obvodu cílové koleje (SŘ stanice), jinak výpravčí stanice */
 function psKomu(S){
@@ -2760,9 +2780,9 @@ function psVeta(S,R){
   const dil=[PF.dil,PF.cislo].filter(Boolean).join(' ').trim()||'posunového dílu';
   // 2. pád pro volací značku „strojvedoucí …“
   const dilGen=dil.replace(/^posunový díl/i,'posunového dílu').replace(/^samostatné hnací vozidlo/i,'samostatného hnacího vozidla').replace(/^záloha/i,'zálohy').replace(/^PMD/,'PMD');
-  const uv=R&&R.uvrat?R.out.filter(x=>x.k==='uvrat').map(x=>K[x.kolej]?'přes '+K[x.kolej].acc:x.trat?'přes kolej k označníku ('+x.trat.replace(/^traťová kolej \d – |^trať – /,'směr ')+')':'').filter(Boolean):[];
+  const uv=R&&R.uvrat?R.out.filter(x=>x.k==='uvrat').map(x=>x.zhl?'s úvratí za výhybkou číslo '+x.zhl.c:K[x.kolej]?'přes '+K[x.kolej].acc+' s úvratí':x.trat?'přes kolej k označníku ('+x.trat.replace(/^traťová kolej \d – |^trať – /,'směr ')+') s úvratí':'').filter(Boolean):[];
   const zadost=[`${PF.dopr||'(dopravce)'}, strojvedoucí ${PF.prij||'(příjmení)'}.`,
-    `Žádám o souhlas k posunu${PF.ceta?' s posunovou četou':' bez posunové čety'} ${f.z||(/^(s|z|š|ž|dr|tř|čt|vš|kd|mn)/i.test(f.gen)?'ze':'z')} ${f.gen} na ${t.acc}${uv.length?' '+uv.join(' a ')+' s úvratí':''}.`,
+    `Žádám o souhlas k posunu${PF.ceta?' s posunovou četou':' bez posunové čety'} ${f.z||(/^(s|z|š|ž|dr|tř|čt|vš|kd|mn)/i.test(f.gen)?'ze':'z')} ${f.gen} na ${t.acc}${uv.length?' '+uv.join(' a '):''}.`,
     S.elektrizovana?(PF.zavisla?'Posun s vozidly závislé trakce.':'Posun s vozidly nezávislé trakce.'):'',
     PF.obsadit?`Po posunu vozidla odstavím ${t.loc}.`:'','Příjem.'].filter(Boolean).join(' ');
   return [
@@ -2841,9 +2861,10 @@ function renderPosun(){
           return `<div class="ps-komu"><div><b>Voláš: ${esc(W.volaci||W.nazev)}${W.volaci?` <span class="ps-of">(oficiálně ${esc(W.nazev)})</span>`:''}</b>${W.gsmr?` · GSM-R <span class="mono">${esc(W.gsmr)}</span>`:''}${W.tel?` · tel. <span class="mono">${esc(W.tel)}</span>`:''}</div>
           ${o?`<small>Cílová kolej je v posunovacím obvodu ${o.c} (${esc(o.prideleno)}); souhlas s obsazením koleje uděluje ${esc(o.souhlas)}.${o.pozn?' '+esc(o.pozn):''}</small>`:''}${S.posunPozn?`<small>${esc(S.posunPozn)}</small>`:''}</div>`})()}
         <h3 class="subh">Co řekneš</h3><div class="ps-dlg">${V.map(x=>`<div class="ps-l ${x.kdo==='ty'?'ty':'on'}"><span class="ps-w">${x.kdo==='ty'?'ty':esc(x.kdo)}</span><span class="ps-t">${x.kdo==='ty'&&!/^Pokyn/.test(x.t)?`„${esc(x.t)}“`:esc(x.t)}${x.pozn?`<small>${esc(x.pozn)}</small>`:''}</span></div>`).join('')}</div>
-        <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button></div>
+        <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button><button class="btn" data-psact="sim">▶ Simulace 3D</button></div>
         <h3 class="subh">Trasa</h3><ol class="ps-rt"><li><b>Start:</b> ${esc(K[PS.from].nazev)}</li>
         ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b> nebo jiný souhlas k posunu</span></li>`
+          :x.k==='uvrat'&&x.zhl?`<li class="uv"><b>Úvrať za výhybkou č. ${esc(x.zhl.c)}</b> – zajeď celým posunovým dílem za izolovaný styk${x.zhl.np?` (<b>pozor:</b> styk ${esc(x.zhl.np)} nekontroluje volnost námezníku – zajeď i za námezník)`:''}, zastav, přejdi na druhé stanoviště a čekej na <b>Posun dovolen</b> – dá ho ${esc(psPrac(S,x.zhl.z.komu))}${x.zhl.z.souhlas?` <small>(${esc(x.zhl.z.souhlas)})</small>`:''}</li>`
           :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')+(x.vytah?' (výtažná kolej – „výtah“)':'')} – zastav, změň směr, pokračuj zpět</li>`
           :`<li class="vy">přes ${x.c.includes(',')?'výhybky':'výhybku'} č. ${esc(x.c)}</li>`).join('')}
         <li><b>Cíl:</b> ${esc(K[PS.to].nazev)}</li></ol>
@@ -2871,9 +2892,242 @@ $('#ps-root').addEventListener('click',e=>{
   if(a.dataset.psact==='st'){PS.st=null;renderPosun()}
   else if(a.dataset.psact==='reset'){PS.from=PS.to=null;renderPosun()}
   else if(a.dataset.psact==='swap'){[PS.from,PS.to]=[PS.to,PS.from];renderPosun()}
+  else if(a.dataset.psact==='sim'){const R=psRoute(S,PS.from,PS.to);if(R)p3Open(S,R)}
   else if(a.dataset.psact==='read'){const R=psRoute(S,PS.from,PS.to);const t=psVeta(S,R).filter(x=>x.kdo==='ty').slice(0,2).map(x=>x.t).join(' … ');
     try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='cs-CZ';const v=kbVoice();if(v)u.voice=v;speechSynthesis.speak(u)}catch(err){toast('Předčítání tenhle prohlížeč neumí.')}}
 });
+
+/* =================== POSUN 3D: simulace jízdy po vypočtené trase =================== */
+/* Knihovna three.js se načte až při prvním spuštění simulace (pak ji service worker drží offline).
+   Plánek je schéma, ne měřítko – souřadnice se jen natáhnou (P3S), aby koleje měly rozumné rozestupy. */
+const P3_LIB='https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js';
+const P3S={x:1.5,z:.3};             // schéma → metry: podélně ×1,5, napříč ×0,3 (osa kolejí ≈ 6 m)
+const P3={lib:null,run:null};
+function p3Lib(){
+  if(window.THREE)return Promise.resolve();
+  if(P3.lib)return P3.lib;
+  return P3.lib=new Promise((ok,ko)=>{const s=document.createElement('script');s.src=P3_LIB;s.onload=()=>ok();
+    s.onerror=()=>{P3.lib=null;s.remove();ko(new Error('3D se nepodařilo načíst. Poprvé je potřeba připojení k internetu, pak funguje i bez signálu.'))};
+    document.head.appendChild(s)});
+}
+/* lomená čára: zaoblení rohů (Chaikin, konce zůstávají) a zhuštění */
+function p3Smooth(p,it){for(let k=0;k<it;k++){if(p.length<3)return p;const o=[p[0]];
+  for(let i=0;i<p.length-1;i++){const a=p[i],b=p[i+1];o.push([a[0]*.75+b[0]*.25,a[1]*.75+b[1]*.25],[a[0]*.25+b[0]*.75,a[1]*.25+b[1]*.75])}
+  o.push(p[p.length-1]);p=o}return p}
+function p3Dense(p,step){const o=[p[0]];for(let i=1;i<p.length;i++){const a=p[i-1],b=p[i],n=Math.max(1,Math.ceil(Math.hypot(b[0]-a[0],b[1]-a[1])/step));
+  for(let k=1;k<=n;k++)o.push([a[0]+(b[0]-a[0])*k/n,a[1]+(b[1]-a[1])*k/n])}return o}
+/* cesta s délkou: at(s) → bod a směr; mimo konce se prodlouží rovně */
+function p3Path(pts){
+  const c=[0];for(let i=1;i<pts.length;i++)c.push(c[i-1]+Math.hypot(pts[i][0]-pts[i-1][0],pts[i][1]-pts[i-1][1]));
+  const L=c[c.length-1];
+  return {pts,c,L,at(s){let i;if(s<=0)i=0;else if(s>=L)i=pts.length-2;else{let lo=0,hi=pts.length-1;while(hi-lo>1){const m=(lo+hi)>>1;if(c[m]<=s)lo=m;else hi=m}i=lo}
+    const a=pts[i],b=pts[i+1]||a,d=(c[i+1]-c[i])||1,t=(s-c[i])/d;const dx=(b[0]-a[0])/d,dz=(b[1]-a[1])/d;
+    return {x:a[0]+(b[0]-a[0])*t,z:a[1]+(b[1]-a[1])*t,dx,dz}},
+   cut(s0,s1){const o=[];const A=this.at(s0);o.push([A.x,A.z]);for(let i=0;i<pts.length;i++){if(c[i]>s0+.01&&c[i]<s1-.01)o.push(pts[i])}const B=this.at(s1);o.push([B.x,B.z]);return o}};
+}
+/* pás podél čáry (štěrk, kolejnice, trasa) do společných polí */
+function p3Ribbon(g,pts,off,hw,y,vs){
+  const n=pts.length;if(n<2)return;let acc=0;const base=g.p.length/3;
+  for(let k=0;k<n;k++){const a=pts[Math.max(0,k-1)],b=pts[Math.min(n-1,k+1)];let dx=b[0]-a[0],dz=b[1]-a[1];const L=Math.hypot(dx,dz)||1;dx/=L;dz/=L;const nx=-dz,nz=dx;
+    if(k)acc+=Math.hypot(pts[k][0]-pts[k-1][0],pts[k][1]-pts[k-1][1]);
+    const cx=pts[k][0]+nx*off,cz=pts[k][1]+nz*off;
+    g.p.push(cx-nx*hw,y,cz-nz*hw,cx+nx*hw,y,cz+nz*hw);g.uv.push(0,acc/vs,1,acc/vs);
+    if(k){const q=base+2*k;g.i.push(q-2,q-1,q,q-1,q+1,q)}}
+}
+function p3Mesh(g,mat){const T=THREE,G=new T.BufferGeometry();G.setAttribute('position',new T.Float32BufferAttribute(g.p,3));G.setAttribute('uv',new T.Float32BufferAttribute(g.uv,2));
+  G.setIndex(g.i);G.computeVertexNormals();return new T.Mesh(G,mat)}
+function p3Canvas(w,h,fn){const c=document.createElement('canvas');c.width=w;c.height=h;fn(c.getContext('2d'),w,h);const t=new THREE.CanvasTexture(c);t.anisotropy=4;return t}
+function p3Text(t,o){o=o||{};const f=o.font||44,pad=f*.35,c=document.createElement('canvas'),x=c.getContext('2d');x.font=`700 ${f}px system-ui,sans-serif`;
+  const w=Math.ceil(x.measureText(t).width+pad*2);c.width=w;c.height=Math.ceil(f*1.35);x.fillStyle=o.bg||'rgba(20,24,28,.88)';
+  const r=c.height*.22;x.beginPath();x.moveTo(r,0);x.arcTo(w,0,w,c.height,r);x.arcTo(w,c.height,0,c.height,r);x.arcTo(0,c.height,0,0,r);x.arcTo(0,0,w,0,r);x.fill();
+  x.font=`700 ${f}px system-ui,sans-serif`;x.fillStyle=o.fg||'#fff';x.textAlign='center';x.textBaseline='middle';x.fillText(t,w/2,c.height/2+1);
+  const tx=new THREE.CanvasTexture(c);tx.minFilter=THREE.LinearFilter;const s=new THREE.Sprite(new THREE.SpriteMaterial({map:tx,depthWrite:false}));
+  const h=o.h||1;s.scale.set(h*w/c.height,h,1);return s}
+/* svítilna návěstidla: zhasnutá = tmavá barva, rozsvícená = jasná + záře */
+function p3Lamp(col,glowTex){const T=THREE,m=new T.Mesh(new T.CircleGeometry(.11,16),new T.MeshBasicMaterial({color:0x1b1d20}));m.rotation.y=-Math.PI/2;
+  const gl=new T.Sprite(new T.SpriteMaterial({map:glowTex,color:col,blending:T.AdditiveBlending,depthWrite:false,transparent:true}));gl.scale.set(1.1,1.1,1);gl.visible=false;
+  const grp=new T.Group();grp.add(m,gl);gl.position.x=-.05;
+  grp.set=on=>{m.material.color.setHex(on?col:0x1b1d20);gl.visible=on};return grp}
+const P3_COL={red:0xff2a1a,white:0xf4f1ff,blue:0x2f6bff,yellow:0xffc21a,green:0x19e36a};
+/* návěstidlo v místních souřadnicích: vlak jede po +x, svítilny hledí proti němu (−x) */
+function p3Signal(n,glowTex){
+  const T=THREE,g=new T.Group(),grey=new T.MeshLambertMaterial({color:0x8d9399}),black=new T.MeshLambertMaterial({color:0x15171a});
+  const main=n.typ!=='seradovaci',H=main?5.2:2.3,hh=main?2.1:.8;
+  const mast=new T.Mesh(new T.CylinderGeometry(.09,.12,H,8),grey);mast.position.y=H/2;g.add(mast);
+  const head=new T.Mesh(new T.BoxGeometry(.24,hh,.5),black);head.position.y=H+hh/2-.1;g.add(head);
+  const plate=new T.Mesh(new T.BoxGeometry(.04,hh+.3,.72),new T.MeshLambertMaterial({color:0x0b0c0e}));plate.position.set(.1,head.position.y,0);g.add(plate);
+  const L={},add=(k,col,y)=>{const l=p3Lamp(col,glowTex);l.position.set(-.13,head.position.y+y,0);g.add(l);L[k]=l};
+  if(main){add('y1',P3_COL.yellow,.78);add('g',P3_COL.green,.4);add('r',P3_COL.red,0);add('w',P3_COL.white,-.4);add('y2',P3_COL.yellow,-.78)}
+  else{add('w',P3_COL.white,.19);add('b',P3_COL.blue,-.19)}
+  const lab=p3Text(n.id,{h:.55,font:40,bg:'#f2f2f2',fg:'#111'});lab.position.set(0,H-.55,0);g.add(lab);
+  g.userData={main,L,set(st){if(main){L.r.set(true);L.w.set(st==='go')}else{L.w.set(st==='go');L.b.set(st!=='go')}}};
+  g.userData.set('stop');return g;
+}
+/* posunovací lokomotiva (kapotová, kabina mimo střed): místně +x = stanoviště 1 */
+function p3Loco(){
+  const T=THREE,g=new T.Group(),red=new T.MeshLambertMaterial({color:0xc4202b}),dark=new T.MeshLambertMaterial({color:0x26282c}),
+    cream=new T.MeshLambertMaterial({color:0xe9e2cf}),glass=new T.MeshLambertMaterial({color:0x1d2c3a}),yel=new T.MeshLambertMaterial({color:0xf2c400});
+  const box=(m,sx,sy,sz,x,y,z)=>{const b=new T.Mesh(new T.BoxGeometry(sx,sy,sz),m);b.position.set(x,y,z);g.add(b);return b};
+  box(dark,13.6,.55,2.9,0,1.25,0);                         // rám
+  box(red,6.4,1.35,2.0,-3.1,2.2,0);box(cream,6.42,.16,2.02,-3.1,1.95,0); // dlouhá kapota
+  // kabina (v pohledu z kabiny se skryje, ať nepřekáží)
+  [box(red,2.9,2.7,2.95,1.6,2.9,0),box(dark,3,.12,3.05,1.6,4.3,0),box(glass,.05,.9,2.3,3.07,3.55,0),box(glass,.05,.9,2.3,.13,3.55,0),
+   box(glass,2.1,.8,.05,1.6,3.55,1.48),box(glass,2.1,.8,.05,1.6,3.55,-1.48)].forEach(b=>b.userData.cab=true);
+  box(red,3.4,1.0,2.0,4.75,1.95,0);                         // krátká kapota
+  [-6.75,6.75].forEach(x=>{box(yel,.1,.5,2.9,x,1.25,0);[-.8,.8].forEach(z=>{const l=new T.Mesh(new T.CircleGeometry(.14,12),new T.MeshBasicMaterial({color:0xfff6d8}));l.position.set(x+Math.sign(x)*.06,1.7,z);l.rotation.y=Math.sign(x)*Math.PI/2;g.add(l)})});
+  [-3.9,3.9].forEach(x=>{box(dark,2.8,.75,2.4,x,.7,0)});    // podvozky
+  return g;
+}
+/* ---- sestavení scény ze staničního plánku a trasy ---- */
+function p3Build(S,R){
+  const T=THREE,scene=new T.Scene(),W=(p)=>[p[0]*P3S.x,p[1]*P3S.z];
+  scene.background=new T.Color(0xc9d9e6);scene.fog=new T.Fog(0xc9d9e6,160,1100);
+  scene.add(new T.HemisphereLight(0xeef5ff,0x5d6b48,.95));const sun=new T.DirectionalLight(0xffffff,.55);sun.position.set(-.4,1,.3);scene.add(sun);
+  const [RW,RH]=S.rozmer,cx=RW*P3S.x/2,cz=RH*P3S.z/2;
+  const ground=new T.Mesh(new T.PlaneGeometry(RW*P3S.x+3000,RH*P3S.z+2400),new T.MeshLambertMaterial({color:0x7f836c}));ground.rotation.x=-Math.PI/2;ground.position.set(cx,-.02,cz);scene.add(ground);
+  // úseky: zaoblené a zhuštěné čáry ve „světě“
+  const P={};S.useky.forEach(u=>{P[u.id]=p3Path(p3Dense(p3Smooth(u.body.map(W),2),2))});
+  const sleep=p3Canvas(64,64,(x,w,h)=>{x.fillStyle='#8c877f';x.fillRect(0,0,w,h);for(let i=0;i<260;i++){x.fillStyle=`rgba(${Math.random()<.5?40:230},${Math.random()<.5?40:225},40,.13)`;x.fillRect(Math.random()*w,Math.random()*h,2,2)}
+    x.fillStyle='#5b4a3b';x.fillRect(w*.1,h*.3,w*.8,h*.4)});sleep.wrapS=sleep.wrapT=T.RepeatWrapping;
+  const gB={p:[],uv:[],i:[]},gR={p:[],uv:[],i:[]},gX={p:[],uv:[],i:[]};
+  S.useky.forEach(u=>{const k=u.kolej&&S.koleje[u.kolej],zk=u.zakaz||(k&&k.zakaz);const pts=P[u.id].pts;
+    p3Ribbon(zk?gX:gB,pts,0,1.6,.02+(u.id.length%3)*.004,.62);p3Ribbon(gR,pts,-.75,.05,.2,1);p3Ribbon(gR,pts,.75,.05,.2,1)});
+  scene.add(p3Mesh(gB,new T.MeshLambertMaterial({map:sleep})));
+  scene.add(p3Mesh(gX,new T.MeshLambertMaterial({map:sleep,color:0x9a8f6c})));
+  scene.add(p3Mesh(gR,new T.MeshLambertMaterial({color:0x7c8288})));
+  // čísla kolejí (u nejdelšího úseku koleje, vlevo vedle koleje)
+  const best={};S.useky.forEach(u=>{if(u.kolej&&(!best[u.kolej]||P[u.id].L>P[best[u.kolej]].L))best[u.kolej]=u.id});
+  Object.entries(best).forEach(([k,id])=>{const a=P[id].at(P[id].L/2),s=p3Text(k,{h:1.4,font:44,bg:'rgba(255,255,255,.82)',fg:'#123'});s.position.set(a.x+a.dz*2.6,.9,a.z-a.dx*2.6);scene.add(s)});
+  // návěstidla
+  const glow=p3Canvas(64,64,(x,w,h)=>{const g=x.createRadialGradient(w/2,h/2,0,w/2,h/2,w/2);g.addColorStop(0,'rgba(255,255,255,1)');g.addColorStop(.25,'rgba(255,255,255,.6)');g.addColorStop(1,'rgba(255,255,255,0)');x.fillStyle=g;x.fillRect(0,0,w,h)});
+  const SIG={};S.navestidla.forEach(n=>{const pth=P[n.usek];if(!pth)return;const a=pth.at(n.pos*pth.L),sg=n.smer==='ab'?1:-1,tx=a.dx*sg,tz=a.dz*sg;
+    const o=p3Signal(n,glow);o.position.set(a.x-tz*2.5,0,a.z+tx*2.5);o.rotation.y=Math.atan2(-tz,tx);scene.add(o);SIG[n.id]={o,x:a.x,z:a.z,tx,tz}});
+  // trasa → úseky jízdy (mezi úvratěmi)
+  const dz=n=>{const N=S.uzly[n];return !!N&&(N.typ==='zarazedlo'||N.typ==='konec')};
+  const U=Object.fromEntries(S.useky.map(u=>[u.id,u])),endN=(u,d)=>d==='ab'?U[u].b:U[u].a,startN=(u,d)=>d==='ab'?U[u].a:U[u].b;
+  const uvr=R.out.filter(x=>x.k==='uvrat');let ui=0;
+  // s0/s1 = vzdálenost od začátku úseku po směru jízdy; úvrať ukončí jednu jízdu a začne další
+  const legs=[];let cur={pts:[],uv:null},rev=0;
+  R.steps.forEach((st,i)=>{const p=P[st.u],nx=R.steps[i+1],ab=st.d==='ab';
+    let s0=0,s1=p.L;
+    if(st.t==='start')s0=p.L/2;
+    if(st.t==='poUvrati'){s0=rev;legs.push(cur);cur={pts:[],uv:null}}
+    if(st.t==='cil')s1=p.L/2;
+    if(nx&&nx.t==='poUvrati'){const it=uvr[ui++]||{};cur.uv=it;
+      if(dz(endN(st.u,st.d)))s1=Math.max(s0+2,p.L-4);               // kusá kolej: až k zarážedlu
+      else if(it.zhl)s1=Math.min(p.L-1,Math.max(s0+2,18));           // celým dílem za izolovaný styk za výhybkou
+      else s1=Math.max(s0+2,p.L/2);
+      rev=p.L-s1}
+    const seg=ab?p.cut(s0,s1):p.cut(p.L-s1,p.L-s0).reverse();
+    seg.forEach((q,j)=>{if(j===0&&cur.pts.length)return;cur.pts.push(q)});
+  });
+  if(cur.pts.length>1)legs.push(cur);
+  legs.forEach(l=>{l.path=p3Path(p3Dense(l.pts,1.5))});
+  // zvýraznění trasy + značky úvratí a izolovaných styků
+  const gT={p:[],uv:[],i:[]};legs.forEach(l=>p3Ribbon(gT,l.path.pts,0,.85,.07,1));
+  scene.add(p3Mesh(gT,new T.MeshBasicMaterial({color:0xff8a00,transparent:true,opacity:.42,depthWrite:false})));
+  legs.forEach((l,k)=>{if(k===legs.length-1||!l.uv)return;const e=l.path.at(l.path.L);
+    const ring=new T.Mesh(new T.RingGeometry(2.2,2.8,32),new T.MeshBasicMaterial({color:0xff8a00,transparent:true,opacity:.7,side:T.DoubleSide,depthWrite:false}));ring.rotation.x=-Math.PI/2;ring.position.set(e.x,.12,e.z);scene.add(ring);
+    const t=p3Text(l.uv.zhl?'úvrať za výhybkou '+l.uv.zhl.c:'úvrať',{h:1.1,font:40,bg:'rgba(255,138,0,.92)',fg:'#111'});t.position.set(e.x,4.2,e.z);scene.add(t);
+    if(l.uv.zhl){const s=Math.max(0,l.path.L-13.6-3),a=l.path.at(s);const st=new T.Mesh(new T.BoxGeometry(.25,.1,3),new T.MeshBasicMaterial({color:0xe11d48}));
+      st.position.set(a.x,.26,a.z);st.rotation.y=Math.atan2(-a.dz,a.dx);scene.add(st);const tl=p3Text('izolovaný styk',{h:.8,font:36,bg:'rgba(225,29,72,.9)'});tl.position.set(a.x,2,a.z);scene.add(tl);l.styk=s}});
+  // výhybky na trase: čísla u země
+  R.steps.forEach((st,i)=>{if(i===R.steps.length-1)return;const n=endN(st.u,st.d),N=S.uzly[n];if(!N||N.typ!=='vyhybka')return;
+    const q=W([N.x,N.y]),t=p3Text(N.c,{h:.8,font:36,bg:'rgba(255,255,255,.9)',fg:'#333'});t.position.set(q[0],.6,q[1]+2.4);scene.add(t)});
+  // návěstidla na trase: kde leží na které jízdě
+  const sigs=[];let li=0,ls=0;
+  R.out.filter(x=>x.k==='nav').forEach(x=>{const o=SIG[x.n.id];if(!o)return;
+    for(let k=li;k<legs.length;k++){const pth=legs[k].path;let bs=-1,bd=1e9;for(let i=0;i<pth.pts.length;i++){if(k===li&&pth.c[i]<ls-1)continue;const d=Math.hypot(pth.pts[i][0]-o.x,pth.pts[i][1]-o.z);if(d>=bd)continue;
+        const q=pth.at(pth.c[i]);if(q.dx*o.tx+q.dz*o.tz<.5)continue;bd=d;bs=pth.c[i]}   // jen ve směru, pro který návěstidlo platí
+      if(bd<3){sigs.push({n:x.n,o:o.o,leg:k,s:bs,st:'stop',t:0});li=k;ls=bs;break}}});
+  const loco=p3Loco();scene.add(loco);
+  return {scene,legs,sigs,loco,SIG};
+}
+/* ---- běh simulace ---- */
+function p3Open(S,R){
+  const K=S.koleje,root=document.createElement('div');root.className='p3';
+  root.innerHTML=`<canvas></canvas><div class="p3-top"><div><b>Simulace posunu</b><span>${esc(K[PS.from].nazev)} → ${esc(K[PS.to].nazev)}</span></div><button class="p3-x" data-p3="x" aria-label="Zavřít">✕</button></div>
+    <div class="p3-msg"><div class="p3-m1">Načítám 3D…</div><div class="p3-m2"></div></div>
+    <div class="p3-bar"><button data-p3="p" class="p3-b">⏸</button><span class="p3-seg">${[1,2,4,8].map(v=>`<button data-p3s="${v}" class="${v===2?'on':''}">${v}×</button>`).join('')}</span>
+      <span class="p3-seg">${[['k','Kabina'],['z','Zvenku'],['s','Shora']].map(([k,t])=>`<button data-p3v="${k}" class="${k==='k'?'on':''}">${t}</button>`).join('')}</span><span class="p3-v">0 km/h</span></div>`;
+  document.body.appendChild(root);document.body.classList.add('p3-open');
+  const m1=root.querySelector('.p3-m1'),m2=root.querySelector('.p3-m2'),vEl=root.querySelector('.p3-v'),cv=root.querySelector('canvas');
+  const st={alive:true,pause:false,rate:2,view:'k'};P3.run=st;
+  const close=()=>{st.alive=false;P3.run=null;document.removeEventListener('keydown',key);window.removeEventListener('resize',rs);
+    if(st.ren){st.scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(o.material.map&&o.material.map.dispose());o.material.dispose()}});st.ren.dispose()}
+    root.remove();document.body.classList.remove('p3-open')};
+  const key=e=>{if(e.key==='Escape')close();else if(e.key===' '){e.preventDefault();st.pause=!st.pause;root.querySelector('[data-p3="p"]').textContent=st.pause?'▶':'⏸'}};
+  document.addEventListener('keydown',key);
+  root.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
+    if(b.dataset.p3==='x')return close();
+    if(b.dataset.p3==='p'){st.pause=!st.pause;b.textContent=st.pause?'▶':'⏸'}
+    if(b.dataset.p3==='r'){close();p3Open(S,R)}
+    if(b.dataset.p3s){st.rate=+b.dataset.p3s;root.querySelectorAll('[data-p3s]').forEach(x=>x.classList.toggle('on',x===b))}
+    if(b.dataset.p3v){st.view=b.dataset.p3v;root.querySelectorAll('[data-p3v]').forEach(x=>x.classList.toggle('on',x===b))}});
+  const rs=()=>{if(!st.ren)return;const w=root.clientWidth,h=root.clientHeight;st.ren.setSize(w,h,false);st.cam.aspect=w/h;st.cam.updateProjectionMatrix()};
+  window.addEventListener('resize',rs);
+  p3Lib().then(()=>{if(!st.alive)return;
+    const T=THREE;let B;
+    try{st.ren=new T.WebGLRenderer({canvas:cv,antialias:true});}catch(err){m1.textContent='Tenhle prohlížeč neumí 3D (WebGL).';return}
+    st.ren.setPixelRatio(Math.min(window.devicePixelRatio||1,2));
+    B=p3Build(S,R);st.scene=B.scene;st.cam=new T.PerspectiveCamera(62,1,.5,2200);rs();
+    const legs=B.legs,sigs=B.sigs,loco=B.loco;
+    const run={leg:0,s:0,v:0,ph:'start',t:0,sign:1,yaw:null};
+    const sayNav=x=>x.n.typ==='seradovaci'?(x.st==='go'?`${x.n.id}: Posun dovolen – bílé světlo. Jeď.`:`${x.n.id}: Posun zakázán – modré světlo. Čekáš na Posun dovolen…`)
+      :(x.st==='go'?`${x.n.id}: Posun dovolen – bílé světlo (červené dál platí pro vlaky). Jeď.`:`${x.n.id}: Stůj – červené světlo. Čekáš na Posun dovolen…`);
+    const cilT=`Cíl: ${K[PS.to].nazev}. Posun ukončen – zastav a zajisti vozidla, pokud je odstavuješ.`;
+    const msg=(a,b)=>{m1.textContent=a;m2.textContent=b||''};
+    const nextInfo=()=>{const sg=sigs.find(x=>x.leg===run.leg&&x.s>run.s-1);const l=legs[run.leg];
+      if(sg)return `Před tebou: ${sg.n.id} (${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[sg.n.typ]||''} návěstidlo)`;
+      return run.leg<legs.length-1?(l.uv&&l.uv.zhl?`Dál: úvrať za výhybkou č. ${l.uv.zhl.c} – celým dílem za izolovaný styk`:'Dál: úvrať – zastav, změň směr'):`Dál: ${K[PS.to].nazev}`};
+    msg(`Stojíš: ${K[PS.from].loc} ${S.v}. Máš souhlas k posunu.`,nextInfo());
+    // pohled shora na celou trasu → pak se „sklopí“ do kabiny
+    const s0=legs[0].path.at(0),intro={t:0,eye:new T.Vector3(s0.x,230,s0.z+1),look:new T.Vector3(s0.x,0,s0.z)};
+    const eye=new T.Vector3(),look=new T.Vector3(),tmpE=new T.Vector3(),tmpL=new T.Vector3();
+    const place=()=>{const l=legs[run.leg].path,a=l.at(run.s+3.9),b=l.at(run.s-3.9),c=l.at(run.s);
+      let hx=a.x-b.x,hz=a.z-b.z;const L=Math.hypot(hx,hz)||1;hx/=L;hz/=L;              // směr jízdy
+      loco.position.set(c.x,0,c.z);loco.rotation.y=Math.atan2(-hz*run.sign,hx*run.sign);  // lokomotiva se neotáčí – +x je stanoviště 1
+      return {c,hx,hz}};
+    let last=performance.now();
+    const frame=now=>{if(!st.alive)return;requestAnimationFrame(frame);
+      let dt=Math.min(.05,(now-last)/1000);last=now;const real=dt;if(st.pause)dt=0;const rt=dt;dt*=st.rate;   // rt = skutečný čas (čekání, otočení), dt = zrychlená jízda
+      intro.t+=real;const L=legs[run.leg].path;
+      // --- pohyb ---
+      if(run.ph==='start'){run.t+=dt;if(intro.t>3.2)run.ph='jizda'}
+      else if(run.ph==='jizda'){
+        const sg=sigs.find(x=>x.leg===run.leg&&x.s>run.s-1&&x.st==='stop');
+        if(sg&&sg.s-run.s<160){if(!sg.said){sg.said=1;msg(sayNav(sg),'')}sg.t+=rt;
+          if(sg.t>3){sg.st='go';sg.o.userData.set('go');msg(sayNav(sg),'')}}
+        const stopAt=sg&&sg.st==='stop'?Math.max(run.s,Math.min(L.L,sg.s-12)):L.L;
+        const vmax=25/3.6,vA=Math.sqrt(2*.55*Math.max(0,stopAt-run.s));run.v=Math.min(vmax,vA,run.v+.6*dt);
+        run.s=Math.min(stopAt,run.s+run.v*dt);
+        const done=sigs.filter(x=>x.leg===run.leg&&x.st==='go'&&!x.past&&run.s>x.s+2);done.forEach(x=>{x.past=1;msg(`Projel jsi ${x.n.id}.`,nextInfo())});
+        if(run.s>=L.L-.05&&run.v<.3){run.v=0;
+          if(run.leg===legs.length-1){run.ph='cil';msg(cilT,'');root.querySelector('.p3-msg').insertAdjacentHTML('beforeend','<div class="p3-end"><button class="btn" data-p3="r">↻ Znovu</button><button class="btn ghost" data-p3="x">Zavřít</button></div>')}
+          else{run.ph='uv';run.t=0;const u=legs[run.leg].uv;
+            msg(u&&u.zhl?`Úvrať za výhybkou č. ${u.zhl.c}: celý posunový díl je za izolovaným stykem. Zastav.`:`Úvrať${u&&u.kolej&&K[u.kolej]?' '+K[u.kolej].loc:''}: zastav.`,'Přecházíš na druhé stanoviště…')}}}
+      else if(run.ph==='uv'){run.t+=rt;if(run.t>1.6){run.ph='otoc';run.t=0;run.sign=-run.sign;run.leg++;run.s=0}}
+      else if(run.ph==='otoc'){run.t+=rt;const u=legs[run.leg-1].uv;
+        if(run.t>2.4&&run.ph==='otoc'){if(u&&u.zhl&&!run.zs){run.zs=1;msg(`${psPrac(S,u.zhl.z.komu)}: Posun dovolen – na ${K[PS.to].acc}.`,'Souhlas k posunu máš. Jeď. '+nextInfo())}
+          if(run.t>(u&&u.zhl?4.6:2.6)){run.ph='jizda';run.zs=0;if(!(u&&u.zhl))msg('Jedeš zpět.',nextInfo())}}}
+      const P=place();
+      vEl.textContent=Math.round(run.v*3.6)+' km/h';
+      // --- kamera ---
+      const up=4.05,side=run.sign>0?-.55:.55;let fx=P.hx,fz=P.hz;
+      const want=Math.atan2(fz,fx);if(run.yaw===null)run.yaw=want;let d=want-run.yaw;while(d>Math.PI)d-=2*Math.PI;while(d<-Math.PI)d+=2*Math.PI;
+      run.yaw+=d*Math.min(1,real*(run.ph==='otoc'?1.6:4));fx=Math.cos(run.yaw);fz=Math.sin(run.yaw);
+      const lx=Math.cos(loco.rotation.y),lz=-Math.sin(loco.rotation.y);   // místní +x lokomotivy ve světě
+      if(st.view==='k'){const cab=1.6;tmpE.set(P.c.x+lx*cab+fx*.75-fz*side,up,P.c.z+lz*cab+fz*.75+fx*side);tmpL.set(tmpE.x+fx*60,st.cam.aspect<1?-5:1.4,tmpE.z+fz*60)}   // na výšku víc dolů, ať není půlka obrazovky obloha
+      else if(st.view==='z'){tmpE.set(P.c.x-fx*30+fz*9,12,P.c.z-fz*30-fx*9);tmpL.set(P.c.x+fx*12,1,P.c.z+fz*12)}
+      else{tmpE.set(P.c.x,180,P.c.z+1);tmpL.set(P.c.x,0,P.c.z)}
+      const k=Math.min(1,real*(st.view==='k'?12:4));eye.lerp(tmpE,eye.lengthSq()?k:1);look.lerp(tmpL,look.lengthSq()?k:1);
+      loco.children.forEach(o=>{if(o.userData.cab)o.visible=st.view!=='k'||intro.t<3});
+      if(intro.t<3.2){const e=Math.max(0,Math.min(1,(intro.t-.8)/2.4)),f=e*e*(3-2*e);st.cam.position.lerpVectors(intro.eye,eye,f);tmpL.lerpVectors(intro.look,look,f);st.cam.up.set(0,f,f-1).normalize();st.cam.lookAt(tmpL)}
+      else{st.cam.position.copy(eye);st.cam.up.set(0,1,0);if(st.view==='s')st.cam.up.set(0,0,-1);st.cam.lookAt(look)}
+      st.ren.render(st.scene,st.cam)};
+    requestAnimationFrame(frame);
+  }).catch(err=>{m1.textContent=err.message});
+}
 
 /* =================== PŘÍPRAVA DO ZOZ: plán a chytré opakování =================== */
 /* Každá otázka je v „přihrádce“ 0–5. Správná odpověď ji posune výš a vrátí se později
