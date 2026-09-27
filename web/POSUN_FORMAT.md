@@ -14,6 +14,9 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 | `obvody` | posunovací obvody ze SŘ: `[{"c":0,"prideleno":"posunovač ČD (vlečka)","souhlas":"výpravčí 1","volat":"v1","pozn":"…"},…]` – komu volat se určí podle obvodu **cílové** koleje |
 | `zhlavi` | zhlaví bez seřaďovacích návěstidel, kde se smí otočit hned za výhybkou (celým dílem za izolovaný styk): `[{"id":"st1","vyhybky":["3",…,"27"],"komu":"st1","radio":["1",…,"28"],"souhlas":"PS1 …"}]` – úvrať se smí na spojovacím úseku mezi dvěma výhybkami z `vyhybky`; `radio` = výhybky, jejichž stavědlo (`komu`) tě na trase zastavuje a potvrzuje Posun dovolen rádiem (i u návěstidel) |
 | `neprofilove` | izolované styky, které nekontrolují volnost námezníku (SŘ čl. 19): `{"21":"mezi výhybkami č. 21 a 24"}` – u úvratě za touto výhybkou pomůcka upozorní, ať se zajede i za námezník |
+| `nastupiste` | nástupiště pro 3D: `[{"x0","y0","x1","y1","delka"}]` – obdélník ze schématu SŘ (souřadnice plánku); šířka se v 3D dopočítá z mezery mezi kolejemi |
+| `prechody` | přechody přes koleje: `[{"x","y0","y1","popis"}]` |
+| `budovy` | `[{"typ":"vb"|"stavedlo","nazev","x","y","dk":true}]` – výpravní budova / stavědlo; v 3D se posune mimo koleje, pokud by v nich stála |
 | `posunPozn` | obecné poznámky k posunu ze SŘ (zobrazí se pod „Voláš“) |
 | `pohled` | x-souřadnice, na kterou se široký plánek po otevření vycentruje (osobní nádraží) |
 | `meritko` | min. šířka plánku v px = šířka schématu × `meritko` (velké stanice se posouvají do stran; výchozí 0,68) |
@@ -53,7 +56,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 Tlačítko **▶ Simulace 3D** u trasy vykreslí stejný plánek ve 3D (knihovna three.js se stáhne při prvním spuštění, pak ji drží service worker offline).
 Posunovací lokomotiva projede vypočtenou trasu: před návěstidly na trase čeká na Posun dovolen (seřaďovací: modré → bílé; hlavní: červené + bílé),
 na úvrati zastaví, pohled se otočí o 180° (přechod na druhé stanoviště) a u úvratě v zhlaví čeká na souhlas pracoviště. Pohledy Kabina / Zvenku / Shora, rychlost 1×–8×.
-Plánek není v měřítku – souřadnice se natahují (`P3S` v kódu: podélně ×1,5, napříč ×0,3).
+Plánek není v měřítku – souřadnice se natahují (`P3S` v kódu: podélně ×0,75 – odpovídá délkám nástupišť v SŘ, napříč ×0,3).
 
 ## Chomutov – jak vznikl
 Plánek Chomutova (`id: chomutov`) je převedený automaticky z vektorového schématu v SŘ ŽST Chomutov (str. 1): čáry kolejí → graf,
