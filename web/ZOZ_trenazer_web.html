@@ -2762,11 +2762,17 @@ function psRoute(S,fromK,toK){
   });
   // po sobě jdoucí výhybky do jednoho řádku
   const out2=[];out.forEach(x=>{const l=out2[out2.length-1];if(x.k==='vyh'&&l&&l.k==='vyh')l.c+=', '+x.c;else out2.push({...x})});
+  // kdo potvrzuje rádiem: stavědlo zhlaví, kterým se pojede (podle nejbližší výhybky na trase)
+  const zOf=cs=>{for(const c of cs){const z=(S.zhlavi||[]).find(z=>(z.radio||z.vyhybky).includes(c));if(z)return z.komu}return null};
+  out2.forEach((x,i)=>{
+    if(x.k==='nav'){const v=out2.slice(i+1).find(y=>y.k==='vyh');x.radio=v?zOf(v.c.split(', ')):null}
+    if(x.k==='uvrat'){if(x.zhl)x.radio=x.zhl.z.komu;else{const v=out2.slice(0,i).reverse().find(y=>y.k==='vyh');x.radio=v?zOf(v.c.split(', ').reverse()):null}}});
   return {steps,out:out2,uvrat:out2.filter(x=>x.k==='uvrat').length};
 }
 /* zhlaví, kde se smí otočit hned za výhybkou (za izolovaným stykem) – bez výtažné koleje */
 function psZhl(S,u){if(!S.zhlavi||u.kolej||u.trat)return null;const c=n=>(S.uzly[n]||{}).typ==='vyhybka'&&S.uzly[n].c;
   return S.zhlavi.find(z=>z.vyhybky.includes(c(u.a))&&z.vyhybky.includes(c(u.b)))||null}
+const psDil=()=>'Posunový díl'+(PF.cislo?' '+PF.cislo:'');   // oslovení v rádiu
 const psPrac=(S,id)=>{const w=(S.pracoviste||{})[id];return w?(w.volaci||w.nazev):'výpravčího'};
 const PS_NAVEST={odjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',vjezdove:'Posun dovolen na hlavním návěstidle (bílé světlo)',cestove:'Posun dovolen na hlavním návěstidle (bílé světlo)',seradovaci:'Posun dovolen (bílé světlo)'};
 /* komu volat: podle posunovacího obvodu cílové koleje (SŘ stanice), jinak výpravčí stanice */
@@ -2863,9 +2869,9 @@ function renderPosun(){
         <h3 class="subh">Co řekneš</h3><div class="ps-dlg">${V.map(x=>`<div class="ps-l ${x.kdo==='ty'?'ty':'on'}"><span class="ps-w">${x.kdo==='ty'?'ty':esc(x.kdo)}</span><span class="ps-t">${x.kdo==='ty'&&!/^Pokyn/.test(x.t)?`„${esc(x.t)}“`:esc(x.t)}${x.pozn?`<small>${esc(x.pozn)}</small>`:''}</span></div>`).join('')}</div>
         <div class="setup-actions"><button class="btn" data-psact="read">🔊 Přečíst nahlas</button><button class="btn" data-psact="sim">▶ Simulace 3D</button></div>
         <h3 class="subh">Trasa</h3><ol class="ps-rt"><li><b>Start:</b> ${esc(K[PS.from].nazev)}</li>
-        ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b> nebo jiný souhlas k posunu</span></li>`
-          :x.k==='uvrat'&&x.zhl?`<li class="uv"><b>Úvrať za výhybkou č. ${esc(x.zhl.c)}</b> – zajeď celým posunovým dílem za izolovaný styk${x.zhl.np?` (<b>pozor:</b> styk ${esc(x.zhl.np)} nekontroluje volnost námezníku – zajeď i za námezník)`:''}, zastav, přejdi na druhé stanoviště a čekej na <b>Posun dovolen</b> – dá ho ${esc(psPrac(S,x.zhl.z.komu))}${x.zhl.z.souhlas?` <small>(${esc(x.zhl.z.souhlas)})</small>`:''}</li>`
-          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')+(x.vytah?' (výtažná kolej – „výtah“)':'')} – zastav, změň směr, pokračuj zpět</li>`
+        ${R.out.map(x=>x.k==='nav'?`<li class="nav">${psNavImg(x.n.typ)}<span>Kolem <b>${esc(x.n.id)}</b> <small>(${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[x.n.typ]||x.n.typ} návěstidlo)</small> – potřebuješ <b>${esc(PS_NAVEST[x.n.typ]||'Posun dovolen')}</b>${x.radio?` a potvrzení rádiem <small>(📻 ${esc(psPrac(S,x.radio))})</small>`:' nebo jiný souhlas k posunu'}</span></li>`
+          :x.k==='uvrat'&&x.zhl?`<li class="uv"><b>Úvrať za výhybkou č. ${esc(x.zhl.c)}</b> – zajeď celým posunovým dílem za izolovaný styk${x.zhl.np?` (<b>pozor:</b> styk ${esc(x.zhl.np)} nekontroluje volnost námezníku – zajeď i za námezník)`:''}. ${esc(psPrac(S,x.zhl.z.komu))} tě obvykle zastaví rádiem („${esc(psDil())}, můžeš zastavit.“). Přejdi na druhé stanoviště; <b>Posun dovolen</b> ti dá rádiem („${esc(psDil())}, posun dovolen na ${esc(K[PS.to].acc)}.“) – hned při zastavení, nebo až po přechodu. Potvrď: „Rozumím.“${x.zhl.z.souhlas?` <small>(${esc(x.zhl.z.souhlas)})</small>`:''}</li>`
+          :x.k==='uvrat'?`<li class="uv"><b>Úvrať</b> ${x.trat?`na koleji před označníkem (${esc(x.trat)}) – posun jen k označníku, za něj ne`:esc(K[x.kolej]?K[x.kolej].loc:'')+(x.vytah?' (výtažná kolej – „výtah“)':'')} – zastav, změň směr, pokračuj zpět${x.radio?` <small>(📻 zastavit tě může rádiem ${esc(psPrac(S,x.radio))})</small>`:''}</li>`
           :`<li class="vy">přes ${x.c.includes(',')?'výhybky':'výhybku'} č. ${esc(x.c)}</li>`).join('')}
         <li><b>Cíl:</b> ${esc(K[PS.to].nazev)}</li></ol>
         <p class="hint">Žádost je sestavená podle SŽ D1 čl. 229 odst. (5) (co musíš výpravčímu oznámit) a navazování spojení podle SŽ Z11 – slovní podoba žádosti není závazné znění. Rozhodují ZDD stanice, pokyny výpravčího a skutečné návěsti; posun vždy podle rozhledových poměrů (D1 čl. 237).</p>`;
@@ -3039,7 +3045,7 @@ function p3Build(S,R){
   R.out.filter(x=>x.k==='nav').forEach(x=>{const o=SIG[x.n.id];if(!o)return;
     for(let k=li;k<legs.length;k++){const pth=legs[k].path;let bs=-1,bd=1e9;for(let i=0;i<pth.pts.length;i++){if(k===li&&pth.c[i]<ls-1)continue;const d=Math.hypot(pth.pts[i][0]-o.x,pth.pts[i][1]-o.z);if(d>=bd)continue;
         const q=pth.at(pth.c[i]);if(q.dx*o.tx+q.dz*o.tz<.5)continue;bd=d;bs=pth.c[i]}   // jen ve směru, pro který návěstidlo platí
-      if(bd<3){sigs.push({n:x.n,o:o.o,leg:k,s:bs,st:'stop',t:0});li=k;ls=bs;break}}});
+      if(bd<3){sigs.push({n:x.n,o:o.o,leg:k,s:bs,st:'stop',t:0,radio:x.radio});li=k;ls=bs;break}}});
   const loco=p3Loco();scene.add(loco);
   return {scene,legs,sigs,loco,SIG};
 }
@@ -3075,6 +3081,7 @@ function p3Open(S,R){
     const run={leg:0,s:0,v:0,ph:'start',t:0,sign:1,yaw:null};
     const sayNav=x=>x.n.typ==='seradovaci'?(x.st==='go'?`${x.n.id}: Posun dovolen – bílé světlo. Jeď.`:`${x.n.id}: Posun zakázán – modré světlo. Čekáš na Posun dovolen…`)
       :(x.st==='go'?`${x.n.id}: Posun dovolen – bílé světlo (červené dál platí pro vlaky). Jeď.`:`${x.n.id}: Stůj – červené světlo. Čekáš na Posun dovolen…`);
+    const radioOK=id=>`📻 ${psPrac(S,id||S.vychozi)}: „${psDil()}, posun dovolen na ${K[PS.to].acc}.“ – Ty: „Rozumím.“`;
     const cilT=`Cíl: ${K[PS.to].nazev}. Posun ukončen – zastav a zajisti vozidla, pokud je odstavuješ.`;
     const msg=(a,b)=>{m1.textContent=a;m2.textContent=b||''};
     const nextInfo=()=>{const sg=sigs.find(x=>x.leg===run.leg&&x.s>run.s-1);const l=legs[run.leg];
@@ -3095,21 +3102,28 @@ function p3Open(S,R){
       // --- pohyb ---
       if(run.ph==='start'){run.t+=dt;if(intro.t>3.2)run.ph='jizda'}
       else if(run.ph==='jizda'){
-        const sg=sigs.find(x=>x.leg===run.leg&&x.s>run.s-1&&x.st==='stop');
+        const sg=sigs.find(x=>x.leg===run.leg&&x.s>run.s-1&&x.st==='stop'),lg=legs[run.leg],posl=run.leg===legs.length-1;
         if(sg&&sg.s-run.s<160){if(!sg.said){sg.said=1;msg(sayNav(sg),'')}sg.t+=rt;
-          if(sg.t>3){sg.st='go';sg.o.userData.set('go');msg(sayNav(sg),'')}}
+          if(sg.t>3){sg.st='go';sg.o.userData.set('go');msg(sayNav(sg),sg.radio?radioOK(sg.radio):'')}}
+        // před úvratí tě stavědlo obvykle zastaví rádiem
+        if(!posl&&lg.uv&&!lg.stopSaid&&L.L-run.s<70){lg.stopSaid=1;msg(`📻 ${psPrac(S,lg.uv.radio||S.vychozi)}: „${psDil()}, můžeš zastavit.“`,'Ty: „Rozumím.“ – brzdíš a zastavuješ.')}
         const stopAt=sg&&sg.st==='stop'?Math.max(run.s,Math.min(L.L,sg.s-12)):L.L;
         const vmax=25/3.6,vA=Math.sqrt(2*.55*Math.max(0,stopAt-run.s));run.v=Math.min(vmax,vA,run.v+.6*dt);
         run.s=Math.min(stopAt,run.s+run.v*dt);
         const done=sigs.filter(x=>x.leg===run.leg&&x.st==='go'&&!x.past&&run.s>x.s+2);done.forEach(x=>{x.past=1;msg(`Projel jsi ${x.n.id}.`,nextInfo())});
         if(run.s>=L.L-.05&&run.v<.3){run.v=0;
-          if(run.leg===legs.length-1){run.ph='cil';msg(cilT,'');root.querySelector('.p3-msg').insertAdjacentHTML('beforeend','<div class="p3-end"><button class="btn" data-p3="r">↻ Znovu</button><button class="btn ghost" data-p3="x">Zavřít</button></div>')}
-          else{run.ph='uv';run.t=0;const u=legs[run.leg].uv;
-            msg(u&&u.zhl?`Úvrať za výhybkou č. ${u.zhl.c}: celý posunový díl je za izolovaným stykem. Zastav.`:`Úvrať${u&&u.kolej&&K[u.kolej]?' '+K[u.kolej].loc:''}: zastav.`,'Přecházíš na druhé stanoviště…')}}}
+          if(posl){run.ph='cil';msg(cilT,'');root.querySelector('.p3-msg').insertAdjacentHTML('beforeend','<div class="p3-end"><button class="btn" data-p3="r">↻ Znovu</button><button class="btn ghost" data-p3="x">Zavřít</button></div>')}
+          else{run.ph='uv';run.t=0;run.said=0;const u=lg.uv||{};
+            // Posun dovolen: dá ho návěstidlo hned za úvratí (+ rádio), jinak rádio – hned při zastavení, nebo až po přechodu
+            run.dov=sigs.some(x=>x.leg===run.leg+1&&x.s<200)?'sig':(Math.random()<.5?'hned':'po');
+            const kde=u.zhl?`Úvrať za výhybkou č. ${u.zhl.c} – celý posunový díl je za izolovaným stykem.`:`Úvrať${u.kolej&&K[u.kolej]?' '+K[u.kolej].loc:''}.`;
+            if(run.dov==='hned')msg(kde+' '+radioOK(u.radio),'Přecházíš na druhé stanoviště…');else msg(kde+' Zastavil jsi.','Přecházíš na druhé stanoviště…')}}}
       else if(run.ph==='uv'){run.t+=rt;if(run.t>1.6){run.ph='otoc';run.t=0;run.sign=-run.sign;run.leg++;run.s=0}}
-      else if(run.ph==='otoc'){run.t+=rt;const u=legs[run.leg-1].uv;
-        if(run.t>2.4&&run.ph==='otoc'){if(u&&u.zhl&&!run.zs){run.zs=1;msg(`${psPrac(S,u.zhl.z.komu)}: Posun dovolen – na ${K[PS.to].acc}.`,'Souhlas k posunu máš. Jeď. '+nextInfo())}
-          if(run.t>(u&&u.zhl?4.6:2.6)){run.ph='jizda';run.zs=0;if(!(u&&u.zhl))msg('Jedeš zpět.',nextInfo())}}}
+      else if(run.ph==='otoc'){run.t+=rt;const u=legs[run.leg-1].uv||{};
+        if(run.t>2.4&&!run.said){run.said=1;
+          if(run.dov==='po')msg('Jsi na druhém stanovišti. '+radioOK(u.radio),nextInfo());
+          else msg(run.dov==='hned'?'Jsi na druhém stanovišti – Posun dovolen máš, jeď.':'Jsi na druhém stanovišti.',nextInfo())}
+        if(run.t>(run.dov==='po'?5.5:3)){run.ph='jizda'}}
       const P=place();
       vEl.textContent=Math.round(run.v*3.6)+' km/h';
       // --- kamera ---

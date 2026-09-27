@@ -5,6 +5,8 @@
 Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v28`.
 
 - **▶ Simulace 3D** (u vypočtené trasy): plánek se „sklopí“ z pohledu shora do 3D, posunovací lokomotiva projede trasu. Před návěstidly na trase čeká na **Posun dovolen** (seřaďovací modré → bílé, hlavní červené + bílé), na úvrati zastaví a pohled se otočí o 180° – přechod na druhé stanoviště. Pohled z kabiny, zvenku a shora, rychlost 1×–8×, pauza (mezerník), Esc zavře.
+- **Rádio jako v praxi:** před úvratí tě stavědlo zastaví („Posunový díl 6802, můžeš zastavit.“), Posun dovolen dá rádiem („…, posun dovolen na desátou kolej.“) – hned při zastavení, nebo až po přechodu na druhé stanoviště; u návěstidla (např. Se1) bílé světlo + potvrzení rádiem. Oslovení bere číslo z údajů do hlášení.
+- **Úvrať za izolovaným stykem i v zhlaví St.2** (výhybky 49–72 kromě 53, 55, 58, 60, 62, 68 – přístup na NTM a 4b/6b), souhlas Stavidlo 2 (PS5–PS8). Např. 2 → 9: L2 → 56, 59, 63, 64, 66 → úvrať za výhybkou 66 → 66, 61, 57, 54 → 9.
 - 3D knihovna (three.js, ~600 kB) se stáhne až při prvním spuštění simulace z cdn.jsdelivr.net; potom ji service worker drží a simulace jde i bez signálu.
 - **Chomutov – úvrať v zhlaví St.1:** v zhlaví St.1 (výhybky 3–27, bez seřaďovacích návěstidel) se už nejezdí zbytečně do výtahu 4c. Stačí zajet celým posunovým dílem za izolovaný styk za výhybkou a počkat na Posun dovolen od Stavidla 1 (souhlasy PS1–PS4). Např. 4 → 10: S4 → výhybka 21 → úvrať → 21, 24, 26, 28 → 10. U styků, které podle SŘ nekontrolují volnost námezníku (např. 21–24), pomůcka upozorní, ať se zajede i za námezník. Výhybky 1 a 2 (směr Černovice) dál vedou do výtahu 4c (SŘ čl. 54) – 4 → NTM: S4 → 4c → Se1 → NTM.
 

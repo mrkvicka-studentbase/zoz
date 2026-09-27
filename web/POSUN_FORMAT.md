@@ -12,7 +12,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 | `pracoviste` | u více výpravčích/signalistů: `{"v1":{"nazev":"Výpravčí 1 Chomutov","volaci":"Doprava Chomutov","gsmr":"7 53 489 02","tel":"972 062 431"},…}` – `nazev` je oficiální název ze SŘ, `volaci` jak se v praxi volá (použije se ve větě, oficiální název se ukáže v závorce) |
 | `vychozi` | id pracoviště, které se volá, když cílová kolej nemá obvod (`"v1"`) |
 | `obvody` | posunovací obvody ze SŘ: `[{"c":0,"prideleno":"posunovač ČD (vlečka)","souhlas":"výpravčí 1","volat":"v1","pozn":"…"},…]` – komu volat se určí podle obvodu **cílové** koleje |
-| `zhlavi` | zhlaví bez seřaďovacích návěstidel, kde se smí otočit hned za výhybkou (celým dílem za izolovaný styk): `[{"id":"st1","vyhybky":["3",…,"27"],"komu":"st1","souhlas":"PS1 …"}]` – úvrať se pak smí na spojovacím úseku mezi dvěma výhybkami ze seznamu; souhlas dává pracoviště `komu` |
+| `zhlavi` | zhlaví bez seřaďovacích návěstidel, kde se smí otočit hned za výhybkou (celým dílem za izolovaný styk): `[{"id":"st1","vyhybky":["3",…,"27"],"komu":"st1","radio":["1",…,"28"],"souhlas":"PS1 …"}]` – úvrať se smí na spojovacím úseku mezi dvěma výhybkami z `vyhybky`; `radio` = výhybky, jejichž stavědlo (`komu`) tě na trase zastavuje a potvrzuje Posun dovolen rádiem (i u návěstidel) |
 | `neprofilove` | izolované styky, které nekontrolují volnost námezníku (SŘ čl. 19): `{"21":"mezi výhybkami č. 21 a 24"}` – u úvratě za touto výhybkou pomůcka upozorní, ať se zajede i za námezník |
 | `posunPozn` | obecné poznámky k posunu ze SŘ (zobrazí se pod „Voláš“) |
 | `pohled` | x-souřadnice, na kterou se široký plánek po otevření vycentruje (osobní nádraží) |
