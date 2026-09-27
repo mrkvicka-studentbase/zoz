@@ -1223,7 +1223,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "27.09.2026 19:00";
+const BUILD = "27.09.2026 20:00";
 </script>
 <script>
 (function(){
@@ -3138,6 +3138,13 @@ function p3Build(S,R){
   const ground=new T.Mesh(new T.PlaneGeometry(RW*P3S.x+3000,RH*P3S.z+2400),new T.MeshLambertMaterial({color:0x7f836c,polygonOffset:true,polygonOffsetFactor:4,polygonOffsetUnits:4}));ground.rotation.x=-Math.PI/2;ground.position.set(cx,-.15,cz);scene.add(ground);
   // úseky: zaoblené a zhuštěné čáry ve „světě“
   const P={};S.useky.forEach(u=>{P[u.id]=p3Path(p3Dense(p3Smooth(u.body.map(W),2),2))});
+  // kusé koleje jsou ve schématu zkrácené: ve 3D je prodloužím na užitečnou délku ze SŘ (od návěstidla u koleje k zarážedlu)
+  const zar=n=>(S.uzly[n]||{}).typ==='zarazedlo';
+  S.useky.forEach(u=>{const k=u.kolej&&S.koleje[u.kolej],eB=zar(u.b),eA=zar(u.a);if(!k||!k.uzitecna||k.zakaz||(!eA&&!eB))return;
+    const p=P[u.id];let d=p.L;S.navestidla.forEach(n=>{if(n.usek===u.id){const q=n.pos*p.L;d=Math.min(d,eB?p.L-q:q)}});
+    const need=Math.min(150,k.uzitecna+4-d);if(need<=1)return;
+    const pts=p.pts.slice();if(eB){const e=p.at(p.L);pts.push([e.x+e.dx*need,e.z+e.dz*need])}else{const e=p.at(0);pts.unshift([e.x-e.dx*need,e.z-e.dz*need])}
+    const np=p3Path(p3Dense(pts,2));np.L0=p.L;np.off=eA?need:0;P[u.id]=np});
   const sleep=p3Canvas(64,64,(x,w,h)=>{x.fillStyle='#8c877f';x.fillRect(0,0,w,h);for(let i=0;i<260;i++){x.fillStyle=`rgba(${Math.random()<.5?40:230},${Math.random()<.5?40:225},40,.13)`;x.fillRect(Math.random()*w,Math.random()*h,2,2)}
     x.fillStyle='#5b4a3b';x.fillRect(w*.1,h*.3,w*.8,h*.4)});sleep.wrapS=sleep.wrapT=T.RepeatWrapping;
   const gB={p:[],uv:[],i:[]},gR={p:[],uv:[],i:[]},gX={p:[],uv:[],i:[]};
@@ -3147,12 +3154,18 @@ function p3Build(S,R){
   scene.add(p3Mesh(gX,new T.MeshLambertMaterial({map:sleep,color:0x9a8f6c})));
   scene.add(p3Mesh(gR,new T.MeshLambertMaterial({color:0x7c8288})));
   p3Scenery(S,scene,P,W);
+  // zarážedla na koncích kusých kolejí
+  const zm=new T.MeshLambertMaterial({color:0xc62828}),zb=new T.MeshLambertMaterial({color:0xf2f2f2});
+  S.useky.forEach(u=>[['a',0],['b',1]].forEach(([e,f])=>{if(!zar(u[e]))return;const p=P[u.id],q=p.at(f*p.L),r=Math.atan2(-q.dz,q.dx);
+    const g=new T.Group();[-.8,.8].forEach(z=>{const o=new T.Mesh(new T.BoxGeometry(.25,1.1,.25),zm);o.position.set(0,.75,z);g.add(o)});
+    const t=new T.Mesh(new T.BoxGeometry(.35,.45,2.2),zb);t.position.y=1.2;g.add(t);const t2=new T.Mesh(new T.BoxGeometry(.37,.15,2.22),zm);t2.position.y=1.2;g.add(t2);
+    g.position.set(q.x,0,q.z);g.rotation.y=r;scene.add(g)}));
   // čísla kolejí (u nejdelšího úseku koleje, vlevo vedle koleje)
   const best={};S.useky.forEach(u=>{if(u.kolej&&(!best[u.kolej]||P[u.id].L>P[best[u.kolej]].L))best[u.kolej]=u.id});
   Object.entries(best).forEach(([k,id])=>{const a=P[id].at(P[id].L/2),s=p3Text(k,{h:1.4,font:44,bg:'rgba(255,255,255,.82)',fg:'#123'});s.position.set(a.x+a.dz*2.6,.9,a.z-a.dx*2.6);scene.add(s)});
   // návěstidla
   const glow=p3Canvas(64,64,(x,w,h)=>{const g=x.createRadialGradient(w/2,h/2,0,w/2,h/2,w/2);g.addColorStop(0,'rgba(255,255,255,1)');g.addColorStop(.25,'rgba(255,255,255,.6)');g.addColorStop(1,'rgba(255,255,255,0)');x.fillStyle=g;x.fillRect(0,0,w,h)});
-  const SIG={};S.navestidla.forEach(n=>{const pth=P[n.usek];if(!pth)return;const a=pth.at(n.pos*pth.L),sg=n.smer==='ab'?1:-1,tx=a.dx*sg,tz=a.dz*sg;
+  const SIG={};S.navestidla.forEach(n=>{const pth=P[n.usek];if(!pth)return;const a=pth.at(n.pos*(pth.L0||pth.L)+(pth.off||0)),sg=n.smer==='ab'?1:-1,tx=a.dx*sg,tz=a.dz*sg;
     const o=p3Signal(n,glow);o.position.set(a.x-tz*2.5,0,a.z+tx*2.5);o.rotation.y=Math.atan2(-tz,tx);scene.add(o);SIG[n.id]={o,x:a.x,z:a.z,tx,tz}});
   // trasa → úseky jízdy (mezi úvratěmi)
   const dz=n=>{const N=S.uzly[n];return !!N&&(N.typ==='zarazedlo'||N.typ==='konec')};

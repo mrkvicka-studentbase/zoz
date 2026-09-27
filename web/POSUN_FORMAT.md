@@ -56,7 +56,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 Tlačítko **▶ Simulace 3D** u trasy vykreslí stejný plánek ve 3D (knihovna three.js se stáhne při prvním spuštění, pak ji drží service worker offline).
 Posunovací lokomotiva projede vypočtenou trasu: před návěstidly na trase čeká na Posun dovolen (seřaďovací: modré → bílé; hlavní: červené + bílé),
 na úvrati zastaví, pohled se otočí o 180° (přechod na druhé stanoviště) a u úvratě v zhlaví čeká na souhlas pracoviště. Pohledy Kabina / Zvenku / Shora, rychlost 1×–8×.
-Plánek není v měřítku – souřadnice se natahují (`P3S` v kódu: podélně ×0,75 – odpovídá délkám nástupišť v SŘ, napříč ×0,3).
+Kusé koleje se ve 3D prodlouží na `uzitecna` (od návěstidla u koleje k zarážedlu), protože schéma je u nich zkrácené. Plánek není v měřítku – souřadnice se natahují (`P3S` v kódu: podélně ×0,75 – odpovídá délkám nástupišť v SŘ, napříč ×0,3).
 
 ## Chomutov – jak vznikl
 Plánek Chomutova (`id: chomutov`) je převedený automaticky z vektorového schématu v SŘ ŽST Chomutov (str. 1): čáry kolejí → graf,
