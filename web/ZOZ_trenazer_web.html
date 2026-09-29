@@ -1223,7 +1223,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "29.09.2026 10:00";
+const BUILD = "29.09.2026 14:00";
 </script>
 <script>
 (function(){
@@ -3140,33 +3140,55 @@ function p3Scenery(S,scene,P,W){
       const pl=new T.Mesh(new T.PlaneGeometry(3.2,.6),new T.MeshBasicMaterial({map:sgn}));pl.position.set(x,H-.45,z+f*(D/2+.05));if(f<0)pl.rotation.y=Math.PI;scene.add(pl);
       const t=p3Text(b.nazev+(b.dk?' · DK':''),{h:1.5,font:44,bg:'rgba(255,238,140,.95)',fg:'#111'});t.position.set(x,H+5.2,z);scene.add(t)}
   });
+  // příhradová konstrukce (brány, stožáry, lávka): průhledná textura s mřížovím
+  const lat=p3Canvas(64,64,(x,w,h)=>{x.clearRect(0,0,w,h);x.strokeStyle='#707880';x.lineWidth=7;x.strokeRect(3,3,w-6,h-6);x.lineWidth=4;x.beginPath();x.moveTo(0,0);x.lineTo(w,h);x.moveTo(w,0);x.lineTo(0,h);x.stroke()});
+  lat.wrapS=lat.wrapT=T.RepeatWrapping;
+  const latM=(rx,ry)=>{const t=lat.clone();t.needsUpdate=true;t.repeat.set(rx,ry);return new T.MeshLambertMaterial({map:t,transparent:true,alphaTest:.4,side:T.DoubleSide})};
+  const plane=(w,h,m,x,y,z,ry)=>{const o=new T.Mesh(new T.PlaneGeometry(w,h),m);o.position.set(x,y,z);if(ry)o.rotation.y=ry;scene.add(o)};
   // trakční vedení: trolej nad elektrizovanými kolejemi; příhradové brány napříč kolejištěm po ~65 m, stožáry jen po krajích
   if(S.elektrizovana){const wire=[],wp=[];
     S.useky.forEach(u=>{const k=u.kolej&&S.koleje[u.kolej];if(u.zakaz||(k&&(k.zakaz||!/TV/.test(k.pozn||''))))return;
       const p=P[u.id];for(let i=1;i<p.pts.length;i++)wire.push(p.pts[i-1][0],5.6,p.pts[i-1][1],p.pts[i][0],5.6,p.pts[i][1]);p.pts.forEach(q=>wp.push(q))});
     const g=new T.BufferGeometry();g.setAttribute('position',new T.Float32BufferAttribute(wire,3));scene.add(new T.LineSegments(g,new T.LineBasicMaterial({color:0x3b3f44})));
-    const lat=p3Canvas(64,64,(x,w,h)=>{x.clearRect(0,0,w,h);x.strokeStyle='#707880';x.lineWidth=7;x.strokeRect(3,3,w-6,h-6);x.lineWidth=4;x.beginPath();x.moveTo(0,0);x.lineTo(w,h);x.moveTo(w,0);x.lineTo(0,h);x.stroke()});
-    lat.wrapS=lat.wrapT=T.RepeatWrapping;
-    const latM=(rx,ry)=>{const t=lat.clone();t.needsUpdate=true;t.repeat.set(rx,ry);return new T.MeshLambertMaterial({map:t,transparent:true,alphaTest:.4,side:T.DoubleSide})};
-    const mastM=latM(1,17),plane=(w,h,m,x,y,z,ry)=>{const o=new T.Mesh(new T.PlaneGeometry(w,h),m);o.position.set(x,y,z);if(ry)o.rotation.y=ry;scene.add(o)};
+    const mastM=latM(1,17);
     const stozar=(x,z)=>{plane(.5,8.5,mastM,x,4.25,z,0);plane(.5,8.5,mastM,x,4.25,z,Math.PI/2);add(new T.BoxGeometry(.9,.25,.9),M(0x8c8f93),x,.12,z)};
     let xmin=1e9,xmax=-1e9;wp.forEach(q=>{xmin=Math.min(xmin,q[0]);xmax=Math.max(xmax,q[0])});
     const volnoS=(X,z)=>pts.every(q=>Math.abs(q[0]-X)>4||Math.abs(q[1]-z)>3);
+    const lavky=(S.okoli||[]).filter(o=>o.typ==='lavka').map(o=>W([o.x,0])[0]);
     for(let X=xmin+18;X<xmax-5;X+=65){
+      if(lavky.some(l=>Math.abs(l-X)<9))continue;
       const zs=wp.filter(q=>Math.abs(q[0]-X)<1.2).map(q=>q[1]).sort((a,b)=>a-b),cl=[];
       zs.forEach(z=>{const c=cl[cl.length-1];if(c&&z-c[1]<16)c[1]=z;else cl.push([z,z])});
       cl.forEach(([a,b])=>{let z0=a-3.3,z1=b+3.3;for(let k=0;k<10&&!volnoS(X,z0);k++)z0-=1;for(let k=0;k<10&&!volnoS(X,z1);k++)z1+=1;
         if(b-a<1){stozar(X,z0);add(new T.BoxGeometry(.14,.14,a-z0+.6),kov,X,6.4,(z0+a+.6)/2)}       // jedna kolej: stožár s ramenem
         else{stozar(X,z0);stozar(X,z1);const l=z1-z0,bm=latM(l/.9,1);plane(l,.9,bm,X-.3,7.9,(z0+z1)/2,Math.PI/2);plane(l,.9,bm,X+.3,7.9,(z0+z1)/2,Math.PI/2)}})}
   }
-  // okolí: velké obchody (Uni Hobby, Globus) – kostky s nápisem, ať je poznat, kde jsme
-  (S.okoli||[]).forEach(o=>{const [x,z]=W([o.x,o.y]);
-    add(new T.BoxGeometry(o.d,o.v,o.s),M(parseInt(o.barva.slice(1),16)),x,o.v/2,z);
-    add(new T.BoxGeometry(o.d+.6,.6,o.s+.6),M(0xdedede),x,o.v+.3,z);
-    const cv=p3Canvas(1024,192,(c,w,h)=>{c.fillStyle=o.pozadi||'#fff';c.fillRect(0,0,w,h);if(o.pruh){c.fillStyle=o.pruh;c.fillRect(0,h-26,w,26)}
-      c.fillStyle=o.pismo||'#111';c.font='900 130px system-ui,sans-serif';c.textAlign='center';c.textBaseline='middle';c.fillText(o.nazev,w/2,h/2-6)});
-    const tw=Math.min(o.d*.8,60),pl=new T.Mesh(new T.PlaneGeometry(tw,tw*192/1024),new T.MeshBasicMaterial({map:cv}));
-    const f=o.strana||-1;pl.position.set(x,o.v-tw*192/1024/2-1,z+f*(o.s/2+.08));if(f<0)pl.rotation.y=Math.PI;scene.add(pl)});
+  // okolí pro orientaci (polohy podle místního strojvedoucího): obchody, parkoviště, pošta, muzeum, lávka
+  const napis=(t,bg,fg,pruh)=>p3Canvas(1024,192,(c,w,h)=>{c.fillStyle=bg;c.fillRect(0,0,w,h);if(pruh){c.fillStyle=pruh;c.fillRect(0,h-28,w,28)}
+    c.fillStyle=fg;c.font='900 128px system-ui,sans-serif';c.textAlign='center';c.textBaseline='middle';c.fillText(t,w/2,h/2-8)});
+  const cedule=(tex,w,x,y,z,ry)=>{const m=new T.Mesh(new T.PlaneGeometry(w,w*192/1024),new T.MeshBasicMaterial({map:tex}));m.position.set(x,y,z);m.rotation.y=ry||0;scene.add(m)};
+  const stitek=(t,x,y,z)=>{const s=p3Text(t,{h:1.8,font:44});s.position.set(x,y,z);scene.add(s)};
+  (S.okoli||[]).forEach(o=>{let [x,z]=W([o.x,o.y]);
+    if(o.typ==='lavka'){const [,z0]=W([o.x,o.y0]),[,z1]=W([o.x,o.y1]),L=z1-z0,zc=(z0+z1)/2,Y=8.4;
+      add(new T.BoxGeometry(3.2,.35,L),M(0x6f7780),x,Y,zc);add(new T.BoxGeometry(3.4,.2,L),M(0x4f565d),x,Y+2.6,zc);
+      const pm=latM(L/1.3,1);plane(L,2.4,pm,x-1.6,Y+1.3,zc,Math.PI/2);plane(L,2.4,pm,x+1.6,Y+1.3,zc,Math.PI/2);
+      [z0,z1].forEach((q,k)=>{const sg=k?1:-1;add(new T.BoxGeometry(4,Y+2.8,4),latM(3,7),x,(Y+2.8)/2,q);                       // schodišťové věže
+        const st=new T.Mesh(new T.BoxGeometry(2,.3,13),M(0x6f7780));st.position.set(x+3,Y/2,q+sg*5.5);st.rotation.x=sg*Math.atan2(Y,11);scene.add(st)});
+      stitek('lávka',x,Y+5,zc);return}
+    if(o.typ==='parkoviste'){const tx=p3Canvas(128,128,(c,w,h)=>{c.fillStyle='#55585c';c.fillRect(0,0,w,h);c.strokeStyle='#e8e8e8';c.lineWidth=3;for(let k=0;k<=8;k++){c.beginPath();c.moveTo(k*16,0);c.lineTo(k*16,52);c.moveTo(k*16,76);c.lineTo(k*16,128);c.stroke()}});
+      tx.wrapS=tx.wrapT=T.RepeatWrapping;tx.repeat.set(o.d/20,o.s/20);const pl=new T.Mesh(new T.PlaneGeometry(o.d,o.s),new T.MeshLambertMaterial({map:tx}));pl.rotation.x=-Math.PI/2;pl.position.set(x,.06,z);scene.add(pl);
+      const n=Math.round(o.d*o.s/140),im=new T.InstancedMesh(new T.BoxGeometry(4.3,1.45,1.8),new T.MeshLambertMaterial({color:0xffffff}),n),ob=new T.Object3D(),cl=new T.Color(),bar=[0xb9bec4,0x2e3a4a,0xf2f2f2,0x8b1e1e,0x33507a,0x1b1d20,0x6d6f72];
+      for(let k=0;k<n;k++){ob.position.set(x-o.d/2+4+Math.random()*(o.d-8),.75,z-o.s/2+4+Math.random()*(o.s-8));ob.rotation.set(0,Math.random()<.5?0:Math.PI/2,0);ob.updateMatrix();im.setMatrixAt(k,ob.matrix);im.setColorAt(k,cl.setHex(bar[k%bar.length]))}
+      scene.add(im);return}
+    z=najdi(x,z,o.d/2,o.s/2);const f=o.strana||-1,cz=z+f*(o.s/2+.08),ry=f<0?Math.PI:0;
+    if(o.typ==='obchod'){add(new T.BoxGeometry(o.d,o.v,o.s),M(parseInt(o.barva.slice(1),16)),x,o.v/2,z);add(new T.BoxGeometry(o.d+.6,.6,o.s+.6),M(0xd9d9d6),x,o.v+.3,z);
+      const tx=napis(o.nazev,o.pozadi||'#fff',o.pismo||'#111',o.pruh),w=Math.min(o.d*.7,55);cedule(tx,w,x,o.v-w*.1-1,cz,ry);
+      if(o.bok)cedule(tx,Math.min(o.s*.6,45),x-o.d/2-.08,o.v-5,z,-Math.PI/2)}
+    else if(o.typ==='posta'){blok(o.d,o.s,o.v,okna('#f1f0ec',2,14),2,x,z,3.4);cedule(napis('POŠTA','#f7c600','#1f3b73'),9,x,o.v-1.6,cz,ry)}
+    else if(o.typ==='muzeum'){const n=o.haly||3,hw=o.d/n;for(let k=0;k<n;k++){const hx=x-o.d/2+hw*(k+.5);add(new T.BoxGeometry(hw-3,o.v,o.s),M(0x9a5b3f),hx,o.v/2,z);
+        const r=prizma(o.s+1,hw-2,4.2,M(0x5b4a44));r.rotation.y=Math.PI/2;r.position.set(hx,o.v,z);scene.add(r)}
+      stitek('Muzeum NTM (Národní technické muzeum)',x,o.v+8,z)}
+  });
 }
 /* ---- sestavení scény ze staničního plánku a trasy ---- */
 function p3Build(S,R){
@@ -3273,7 +3295,7 @@ function p3Open(S,R){
       <span class="p3-seg">${[['k','Kabina'],['z','Zvenku'],['s','Shora']].map(([k,t])=>`<button data-p3v="${k}" class="${k==='k'?'on':''}">${t}</button>`).join('')}</span><span class="p3-v">0 km/h</span></div>`;
   document.body.appendChild(root);document.body.classList.add('p3-open');
   const m1=root.querySelector('.p3-m1'),m2=root.querySelector('.p3-m2'),vEl=root.querySelector('.p3-v'),cv=root.querySelector('canvas');
-  const st={alive:true,pause:false,rate:2,view:'k'};P3.run=st;
+  const st={alive:true,pause:false,rate:2,view:'k'};P3.run=st;if(location.hostname==='localhost')window.__p3=st;   // testy
   const close=()=>{st.alive=false;P3.run=null;document.removeEventListener('keydown',key);window.removeEventListener('resize',rs);
     if(st.ren){st.scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(o.material.map&&o.material.map.dispose());o.material.dispose()}});st.ren.dispose()}
     root.remove();document.body.classList.remove('p3-open')};
@@ -3349,7 +3371,8 @@ function p3Open(S,R){
       else if(st.view==='z'){tmpE.set(P.c.x-fx*48+fz*12,15,P.c.z-fz*48-fx*12);tmpL.set(P.c.x+fx*14,1,P.c.z+fz*14)}
       else{tmpE.set(P.c.x,180,P.c.z+1);tmpL.set(P.c.x,0,P.c.z)}
       const k=Math.min(1,real*(st.view==='k'?12:4));eye.lerp(tmpE,eye.lengthSq()?k:1);look.lerp(tmpL,look.lengthSq()?k:1);
-      if(intro.t<3.2){const e=Math.max(0,Math.min(1,(intro.t-.8)/2.4)),f=e*e*(3-2*e);st.cam.position.lerpVectors(intro.eye,eye,f);tmpL.lerpVectors(intro.look,look,f);st.cam.up.set(0,f,f-1).normalize();st.cam.lookAt(tmpL)}
+      if(st.view==='free'){}   // volná kamera (jen pro testy)
+      else if(intro.t<3.2){const e=Math.max(0,Math.min(1,(intro.t-.8)/2.4)),f=e*e*(3-2*e);st.cam.position.lerpVectors(intro.eye,eye,f);tmpL.lerpVectors(intro.look,look,f);st.cam.up.set(0,f,f-1).normalize();st.cam.lookAt(tmpL)}
       else{st.cam.position.copy(eye);st.cam.up.set(0,1,0);if(st.view==='s')st.cam.up.set(0,0,-1);st.cam.lookAt(look)}
       st.ren.render(st.scene,st.cam)};
     requestAnimationFrame(frame);

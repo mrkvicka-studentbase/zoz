@@ -11,7 +11,7 @@ Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se neměn�
 - **Návěstidla podle D1:** hlavní s červeným štítkem s bílým označením (vjezdová s červenobílým označovacím pásem), seřaďovací stožárová s modrobílým pásem a modrým štítkem s bílým okrajem, v zhlaví trpasličí.
 - **Trakční vedení** jako v Chomutově: příhradové brány napříč kolejištěm po ~65 m, stožáry jen po krajích mimo koleje (u jedné koleje stožár s ramenem).
 - **Sypané peronky** (nízký násyp, bez střech); u výpravní budovy zpevněné nástupiště s přístřeškem budovy. Posun začíná u peronu výchozí koleje.
-- **Okolí:** Uni Hobby (červená kostka) a za ním Globus s transparentem vpravo u vlečky NTM – pro orientaci.
+- **Okolí podle místní znalosti:** lávka přes kolejiště mezi výpravní budovou a St. 1, pošta východně za nástupišti, naproti budově Uni Hobby (oranžová), za ním Globus s parkovištěm, u vlečky Muzeum NTM (Národní technické muzeum); St. 2 u východního zhlaví osobního nádraží.
 - **Kusé koleje v 3D v užitečné délce ze SŘ** (schéma je u nich zkrácené), měřeno od návěstidla u koleje k zarážedlu; na koncích zarážedla. Na výtah 4c (102 m) se vejde 844 i 814 – po úvrati je Se1 dobře vidět z kabiny.
 - **Budovy podle fotek:** výpravní budova (vysoká střední budova se štítem, přízemní křídla s oblouky, koncové pavilony, červené valbové střechy, přístřešek na sloupech), St. 1 (bílé, vystouplý prosklený velín, cedule CHOMUTOV), St. 2 (žlutá věž s velínem).
 - **3D okolí stanice:** nástupiště s přístřešky a osvětlením (polohy a délky 115–300 m podle schématu SŘ), přechod v km 64,693, výpravní budova s DK, stavědla St. 1 a St. 2, trakční vedení se stožáry. Plánek je v podélném směru zkrácený na polovinu – odpovídá skutečným délkám nástupišť, posun je tak 2× kratší.

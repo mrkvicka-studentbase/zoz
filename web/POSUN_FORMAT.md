@@ -17,7 +17,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 | `nastupiste` | nástupiště pro 3D: `[{"x0","y0","x1","y1","delka"}]` – obdélník ze schématu SŘ (souřadnice plánku); šířka se v 3D dopočítá z mezery mezi kolejemi |
 | `prechody` | přechody přes koleje: `[{"x","y0","y1","popis"}]` |
 | `budovy` | `[{"typ":"vb"|"stavedlo","nazev","x","y","dk":true}]` – výpravní budova / stavědlo; v 3D se posune mimo koleje, pokud by v nich stála |
-| `okoli` | stavby pro orientaci ve 3D: `[{"nazev":"UNI HOBBY","x","y","d","s","v","barva","pozadi","pismo","pruh"}]` – kostka d×s×v m s nápisem na straně ke kolejím |
+| `okoli` | stavby pro orientaci ve 3D (souřadnice plánku, rozměry v m: d podél kolejí, s napříč, v výška): `typ` `obchod` (kostka s nápisem; `barva`, `pozadi`, `pismo`, `pruh`, `bok`), `parkoviste`, `posta`, `muzeum` (`haly`), `lavka` (`x`, `y0`, `y1` – přes kolejiště; brány trakčního vedení se jí vyhnou) |
 | `posunPozn` | obecné poznámky k posunu ze SŘ (zobrazí se pod „Voláš“) |
 | `pohled` | x-souřadnice, na kterou se široký plánek po otevření vycentruje (osobní nádraží) |
 | `meritko` | min. šířka plánku v px = šířka schématu × `meritko` (velké stanice se posouvají do stran; výchozí 0,68) |
