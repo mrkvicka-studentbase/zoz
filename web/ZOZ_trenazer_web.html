@@ -1223,7 +1223,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "29.09.2026 17:00";
+const BUILD = "29.09.2026 18:00";
 </script>
 <script>
 (function(){
@@ -3038,10 +3038,13 @@ function p3Car(){
   // čelo: světla, mřížky, kryt spřáhla, žlutý pruh
   const svetlo=new T.MeshBasicMaterial({color:0xfff7e0});
   const ext=g.userData.ext=[];   // díly čela – z kabiny by byly vidět „skrz“ skříň
-  [-.95,.95].forEach(z=>{ext.push(box(svetlo,.08,.16,.42,nose-.06,1.62,z),box(M(0xb9bec4),.1,.42,.62,nose-.08,1.08,z*1.02))});
+  const zare=p3Canvas(64,64,(x,w,h)=>{const g2=x.createRadialGradient(w/2,h/2,0,w/2,h/2,w/2);g2.addColorStop(0,'rgba(255,250,230,1)');g2.addColorStop(.3,'rgba(255,245,215,.55)');g2.addColorStop(1,'rgba(255,240,200,0)');x.fillStyle=g2;x.fillRect(0,0,w,h)});
+  [-.95,.95].forEach(z=>{ext.push(box(M(0x1c1f23),.06,.28,.56,nose-.04,1.62,z),box(svetlo,.08,.16,.42,nose-.02,1.62,z),box(M(0xb9bec4),.1,.42,.62,nose-.08,1.08,z*1.02));
+    const zr=new T.Sprite(new T.SpriteMaterial({map:zare,blending:T.AdditiveBlending,depthWrite:false,transparent:true}));zr.scale.set(1.3,1.3,1);zr.position.set(nose+.12,1.62,z);g.add(zr);ext.push(zr)});
   const koncova=new T.MeshBasicMaterial({color:0x3a1010});[-1.2,1.2].forEach(z=>ext.push(box(koncova,.08,.14,.2,nose-.1,1.62,z)));
-  ext.push(box(svetlo,.08,.12,.3,nose-1.9,4.02,0),box(M(0xd8202a),.35,.42,.52,nose+.05,1.05,0));
-  g.userData.svetla={svetlo,koncova};
+  const horni=new T.MeshBasicMaterial({color:0x77756e});
+  ext.push(box(horni,.08,.12,.3,nose-1.9,4.02,0),box(M(0xd8202a),.35,.42,.52,nose+.05,1.05,0));
+  g.userData.svetla={svetlo,koncova,horni};
   [[-4.5,5.2],[1.8,3.6]].forEach(([x,l])=>box(M(0x33373c),l,.5,2.2,x,.6,0));                    // motor, nádrž pod podlahou
   const stin=new T.Mesh(new T.PlaneGeometry(LC+1.5,4.2),new T.MeshBasicMaterial({transparent:true,depthWrite:false,opacity:.55,
     map:p3Canvas(128,32,(c,w,h)=>{const gr=c.createRadialGradient(w/2,h/2,2,w/2,h/2,w/2);gr.addColorStop(0,'rgba(0,0,0,.9)');gr.addColorStop(.7,'rgba(0,0,0,.5)');gr.addColorStop(1,'rgba(0,0,0,0)');c.fillStyle=gr;c.fillRect(0,0,w,h)})}));
@@ -3067,7 +3070,8 @@ function p3Unit(){
       put(A,s+sign*off,false);put(B,s-sign*off,true);const m=path.at(s);mech.position.x=m.x;mech.position.z=m.z;mech.rotation.y=A.rotation.y;
       const a=path.at(s+3),b=path.at(s-3);let hx=a.x-b.x,hz=a.z-b.z;const L=Math.hypot(hx,hz)||1;return {c:m,hx:hx/L,hz:hz/L}},
     // oko strojvedoucího v čelní kabině (podle směru jízdy)
-    svetla(sign){[A,B].forEach(c=>{const f=c===(sign>0?A:B),l=c.userData.svetla;l.svetlo.color.setHex(f?0xfff7e0:0x77756e);l.koncova.color.setHex(f?0x3a1010:0xff2222)})},
+    // posunový díl: dvě dolní bílá světla na obou koncích, horní a červená koncová zhasnutá
+    svetla(){[A,B].forEach(c=>{const l=c.userData.svetla;l.svetlo.color.setHex(0xfff7e0);l.horni.color.setHex(0x77756e);l.koncova.color.setHex(0x3a1010)})},
     cab(sign,on){[A,B].forEach(c=>c.userData.ext.forEach(o=>o.visible=!(on&&c===(sign>0?A:B))))},
     eye(sign,v){const car=sign>0?A:B;v.set(P3U.LC/2-3.05,3.2,0);return car.localToWorld(v)}};
 }
@@ -3429,7 +3433,7 @@ function p3Open(S,R){
       let fx=P.hx,fz=P.hz;
       const want=Math.atan2(fz,fx);if(run.yaw===null)run.yaw=want;let d=want-run.yaw;while(d>Math.PI)d-=2*Math.PI;while(d<-Math.PI)d+=2*Math.PI;
       run.yaw+=d*Math.min(1,real*4);if(run.ph==='otoc'&&run.t<1.2&&st.view==='k')run.yaw=want;   // přechod do druhé kabiny za tmoufx=Math.cos(run.yaw);fz=Math.sin(run.yaw);
-      loco.cab(run.sign,st.view==='k'&&intro.t>3);loco.svetla(run.sign);
+      loco.cab(run.sign,st.view==='k'&&intro.t>3);loco.svetla();
       if(st.view==='k'){loco.eye(run.sign,tmpE);tmpL.set(tmpE.x+fx*60,st.cam.aspect<1?-2:1.4,tmpE.z+fz*60)}   // na výšku víc dolů, ať není půlka obrazovky obloha
       else if(st.view==='z'){tmpE.set(P.c.x-fx*48+fz*12,15,P.c.z-fz*48-fx*12);tmpL.set(P.c.x+fx*14,1,P.c.z+fz*14)}
       else{tmpE.set(P.c.x,180,P.c.z+1);tmpL.set(P.c.x,0,P.c.z)}
