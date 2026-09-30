@@ -1223,7 +1223,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "29.09.2026 18:00";
+const BUILD = "30.09.2026 10:00";
 </script>
 <script>
 (function(){
@@ -3121,10 +3121,12 @@ function p3Scenery(S,scene,P,W){
     if(roofH){const r=valba(L+.8,D+.8,roofH,cervena);r.position.set(x,H,z);scene.add(r)}};
   (S.budovy||[]).forEach(b=>{let [x,z]=W([b.x,b.y]);
     // strana ke kolejím: podle nejbližší koleje
-    let nb=null,nd=1e9;pts.forEach(p=>{const d=Math.hypot(p[0]-x,p[1]-z);if(d<nd){nd=d;nb=p}});const f=nb&&nb[1]>z?1:-1;
+    let nb=null,nd=1e9;pts.forEach(p=>{const d=Math.hypot(p[0]-x,p[1]-z);if(d<nd){nd=d;nb=p}});let f=nb&&nb[1]>z?1:-1;
     if(b.typ==='vb'){
       // střední třípatrová budova se štítem, přízemní křídla s oblouky, dvoupatrové koncové pavilony, přístřešek na litinových sloupech
       const D=14,Lc=24,Lw=46,Lp=16;
+      // průčelí ke kolejím = ke straně s nástupišti (za budovou mohou být další koleje)
+      const pn=platf.filter(q=>q.x1>x-60&&q.x0<x+60).sort((a,c)=>Math.abs(a.zm-z)-Math.abs(c.zm-z))[0];if(pn)f=Math.sign(pn.zm-z)||f;
       const hr=platf.filter(q=>q.x1>x-60&&q.x0<x+60&&Math.sign(q.zm-z)===f).sort((a,c)=>Math.abs(a.zm-z)-Math.abs(c.zm-z))[0];
       if(hr)z=(f>0?hr.zt:hr.zb)-f*(D/2+4.6);else z=najdi(x,z,Lc/2+Lw+Lp,D/2);
       if(hr){hr.m.material=M(0x6d6f72);add(new T.BoxGeometry(hr.L,.06,.3),hrana,(hr.x0+hr.x1)/2,.45,f>0?hr.zb-.2:hr.zt+.2)}   // u budovy zpevněné (asfalt) s obrubou
@@ -3133,8 +3135,12 @@ function p3Scenery(S,scene,P,W){
       const sg=new T.ExtrudeGeometry(st,{depth:.5,bevelEnabled:false});const stit=new T.Mesh(sg,M(bila));stit.position.set(x,16,z+f*(D/2)-(f>0?0:.5));scene.add(stit);
       [-1,1].forEach(k=>{blok(Lw,D-3,6.2,okna('#e6dfd0',1,8,true,.18),1,x+k*(Lc/2+Lw/2),z-f*1.2,3.2);
         blok(Lp,D,10,okna('#efece6',2,4),1,x+k*(Lc/2+Lw+Lp/2),z,4.2)});
-      const Lk=Lc+2*Lw,kz=z+f*(D/2+2.2);add(new T.BoxGeometry(Lk,.25,4.4),M(0x8a2c24),x,4.3,kz);
-      for(let q=x-Lk/2+2;q<=x+Lk/2-2;q+=6)add(new T.CylinderGeometry(.09,.12,4.2,6),M(0x4a3a30),q,2.1,kz+f*1.9);
+      // přístřešek od budovy přes celé 1. nástupiště (u 5. koleje) na litinových sloupech
+      let Lk=Lc+2*Lw,sx=x;if(hr){const a=Math.max(hr.x0+2,x-Lk/2),b2=Math.min(hr.x1-2,x+Lk/2);Lk=b2-a;sx=(a+b2)/2}
+      const zA=z+f*(D/2),zB=hr?(f>0?hr.zb-.45:hr.zt+.45):z+f*(D/2+4.4),sw=Math.abs(zB-zA),kz=(zA+zB)/2;
+      add(new T.BoxGeometry(Lk,.22,sw),M(0x7a2a22),sx,4.5,kz);add(new T.BoxGeometry(Lk,.5,.12),M(0x5b1f19),sx,4.3,zB);   // střecha a čelní lišta
+      const sl=M(0x3f3a36);for(let q=sx-Lk/2+3;q<=sx+Lk/2-2;q+=7.5){[.35,.8].forEach(t=>{const zz=zA+(zB-zA)*t;add(new T.CylinderGeometry(.1,.13,4.4,8),sl,q,2.2,zz)})}
+      if(hr)ob(sx,kz,Lk/2,sw/2);
       const nap=p3Canvas(512,96,(c,w,h)=>{c.fillStyle='#1b2a3a';c.fillRect(0,0,w,h);c.fillStyle='#fff';c.font='700 62px system-ui,sans-serif';c.textAlign='center';c.textBaseline='middle';c.fillText(b.nazev,w/2,h/2+2)});
       const pl=new T.Mesh(new T.PlaneGeometry(9,1.7),new T.MeshBasicMaterial({map:nap}));pl.position.set(x,11.5,z+f*(D/2+.06));if(f<0)pl.rotation.y=Math.PI;scene.add(pl);
       const t=p3Text('výpravní budova · DK',{h:1.4,font:40});t.position.set(x,24,z);scene.add(t)}
@@ -3250,7 +3256,8 @@ function p3Nature(S,scene,P,obst){
 }
 /* ---- sestavení scény ze staničního plánku a trasy ---- */
 function p3Build(S,R){
-  const T=THREE,scene=new T.Scene(),W=(p)=>[p[0]*P3S.x,p[1]*P3S.z];
+  const T=THREE,scene=new T.Scene(),ZK=S.zkraceni3d||[],
+    W=(p)=>{let x=p[0];ZK.forEach(z=>{if(z.pred!=null&&x<z.pred)x=z.pred-(z.pred-x)*z.k});return [x*P3S.x,p[1]*P3S.z]};   // část plánku lze ve 3D zkrátit
   scene.background=new T.Color(0xdfe8ef);scene.fog=new T.Fog(0xdfe8ef,280,2100);
   scene.add(new T.HemisphereLight(0xeef5ff,0x5d6b48,.95));const sun=new T.DirectionalLight(0xffffff,.55);sun.position.set(-.4,1,.3);scene.add(sun);
   const [RW,RH]=S.rozmer,cx=RW*P3S.x/2,cz=RH*P3S.z/2;
@@ -3410,9 +3417,10 @@ function p3Open(S,R){
             if(sg.t>3){sg.st='go';sg.gt=0;sg.o.userData.set('go');msg(sayNav(sg),sg.radio?radioOK(sg.radio):'')}}
           else if(sg.st==='go'){sg.gt+=rt;if(df<-1&&sg.gt>2.5){sg.past=1;if(!lg.stopSaid)msg(`Projel jsi ${sg.n.id}.`,nextInfo())}}}
         // před úvratí tě stavědlo obvykle zastaví rádiem
-        if(!posl&&lg.uv&&!lg.stopSaid&&L.L-run.s<70){lg.stopSaid=1;msg(`📻 ${psPrac(S,lg.uv.radio||S.vychozi)}: „${psDil()}, můžeš zastavit.“`,'Ty: „Rozumím.“ – brzdíš a zastavuješ.')}
+        if(!posl&&lg.uv&&!lg.stopSaid&&L.L-run.s<230){lg.stopSaid=1;msg(`📻 ${psPrac(S,lg.uv.radio||S.vychozi)}: „${psDil()}, můžeš zastavit.“`,'Ty: „Rozumím.“ – brzdíš a zastavuješ.')}
         const stopAt=sg&&sg.st==='stop'?Math.max(run.s,Math.min(L.L,sg.s-8-HF)):L.L;
-        const vmax=25/3.6,vA=Math.sqrt(2*.55*Math.max(0,stopAt-run.s));run.v=Math.min(vmax,vA,run.v+.6*dt);
+        const vmax=40/3.6,dS=Math.max(0,stopAt-run.s),vA=dS<25?Math.sqrt(2*.16*dS):Math.sqrt(8+2*.3*(dS-25));   // 0,3 m/s² brzdění, posledních 25 m do 10 km/h
+        run.v=Math.min(vmax,vA,run.v+.4*dt);
         run.s=Math.min(stopAt,run.s+run.v*dt);
         if(run.s>=L.L-.05&&run.v<.3){run.v=0;
           if(posl){run.ph='cil';msg(cilT,'');root.querySelector('.p3-msg').insertAdjacentHTML('beforeend','<div class="p3-end"><button class="btn" data-p3="r">↻ Znovu</button><button class="btn ghost" data-p3="x">Zavřít</button></div>')}

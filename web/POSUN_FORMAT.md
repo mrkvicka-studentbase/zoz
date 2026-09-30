@@ -18,6 +18,7 @@ Plánek je **schéma**, ne měřítko – stačí, aby seděla topologie (co s �
 | `prechody` | přechody přes koleje: `[{"x","y0","y1","popis"}]` |
 | `budovy` | `[{"typ":"vb"|"stavedlo","nazev","x","y","dk":true}]` – výpravní budova / stavědlo; v 3D se posune mimo koleje, pokud by v nich stála |
 | `okoli` | stavby pro orientaci ve 3D (souřadnice plánku, rozměry v m: d podél kolejí, s napříč, v výška): `typ` `obchod` (kostka s nápisem; `barva`, `pozadi`, `pismo`, `pruh`, `bok`), `parkoviste`, `posta`, `muzeum` (`haly`), `lavka` (`x`, `y0`, `y1` – přes kolejiště; brány trakčního vedení se jí vyhnou) |
+| `zkraceni3d` | zkrácení natažené části schématu jen ve 3D: `[{"pred":880,"k":0.5}]` – vše západně od x = 880 se k tomuto bodu přiblíží na polovinu |
 | `posunPozn` | obecné poznámky k posunu ze SŘ (zobrazí se pod „Voláš“) |
 | `pohled` | x-souřadnice, na kterou se široký plánek po otevření vycentruje (osobní nádraží) |
 | `meritko` | min. šířka plánku v px = šířka schématu × `meritko` (velké stanice se posouvají do stran; výchozí 0,68) |
