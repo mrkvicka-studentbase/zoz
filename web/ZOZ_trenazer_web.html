@@ -1223,7 +1223,7 @@ const CONFIG = Object.assign({
 }, window.ZOZ_CONFIG || {});
 </script>
 <script>
-const BUILD = "30.09.2026 10:00";
+const BUILD = "30.09.2026 14:00";
 </script>
 <script>
 (function(){
@@ -3360,25 +3360,54 @@ function p3Build(S,R){
   const loco=p3Unit();scene.add(loco.g);
   return {scene,legs,sigs,loco,SIG};
 }
+/* hlasy v simulaci: nahrávky z audio/posun/ (seznam.json), jinak syntetický český hlas, jinak jen titulek */
+const P3V={on:true,list:null,ctx:null,cur:null};
+try{P3V.on=localStorage.getItem('zoz-p3-hlas')!=='0'}catch(e){}
+function p3VLoad(){if(P3V.list)return Promise.resolve(P3V.list);
+  return fetch('audio/posun/seznam.json').then(r=>r.ok?r.json():{}).catch(()=>({})).then(j=>P3V.list=new Set((j&&j.soubory)||[]))}
+function p3Squelch(){try{const c=P3V.ctx||(P3V.ctx=new(window.AudioContext||window.webkitAudioContext)());if(c.state==='suspended')c.resume();
+  const n=c.sampleRate*.14|0,b=c.createBuffer(1,n,c.sampleRate),d=b.getChannelData(0);for(let i=0;i<n;i++)d[i]=(Math.random()*2-1)*(1-i/n)*.22;
+  const src=c.createBufferSource(),f=c.createBiquadFilter();src.buffer=b;f.type='bandpass';f.frequency.value=2300;src.connect(f).connect(c.destination);src.start()}catch(e){}}
+function p3VStop(){try{speechSynthesis.cancel()}catch(e){}if(P3V.cur){try{P3V.cur.pause()}catch(e){}P3V.cur=null}}
+// kdo: 'ty' nebo id pracoviště; ids: názvy nahrávek (bez .mp3) v pořadí priority; text: celé znění (titulek a syntetický hlas)
+function p3Say(kdo,ids,text){return new Promise(res=>{const t0=Date.now(),wait=Math.max(1500,text.length*72);let done=false,tm;
+  const fin=()=>{if(done)return;const el=Date.now()-t0,min=Math.min(wait,1600);if(el<min){clearTimeout(tm);tm=setTimeout(fin,min-el);return}done=true;clearTimeout(tm);res()};
+  if(!P3V.on){tm=setTimeout(fin,wait);return}
+  tm=setTimeout(fin,wait+5000);                                  // pojistka, kdyby hlas nedohrál
+  if(kdo!=='ty')p3Squelch();
+  const tts=()=>{try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='cs-CZ';const v=kbVoice();if(v)u.voice=v;
+      if(kdo==='ty'){u.pitch=1.05;u.rate=1.08}else{u.pitch=.72;u.rate=1}u.onend=()=>setTimeout(fin,300);u.onerror=()=>{clearTimeout(tm);tm=setTimeout(fin,wait)};speechSynthesis.speak(u)}
+    catch(e){clearTimeout(tm);tm=setTimeout(fin,wait)}};
+  const f=(ids||[]).find(i=>P3V.list&&P3V.list.has(i+'.mp3'));
+  if(f){const a=new Audio('audio/posun/'+f+'.mp3');P3V.cur=a;a.onended=()=>setTimeout(fin,300);a.onerror=tts;
+    if(kdo!=='ty')try{const c=P3V.ctx;if(c){const n=c.createMediaElementSource(a),hp=c.createBiquadFilter(),lp=c.createBiquadFilter();   // zvuk vysílačky
+      hp.type='highpass';hp.frequency.value=380;lp.type='lowpass';lp.frequency.value=3300;n.connect(hp).connect(lp).connect(c.destination)}}catch(e){}
+    a.play().catch(tts)}else tts()})}
 /* ---- běh simulace ---- */
 function p3Open(S,R){
   const K=S.koleje,root=document.createElement('div');root.className='p3';
   root.innerHTML=`<canvas></canvas><div class="p3-top"><div><b>Simulace posunu</b><span>${esc(K[PS.from].nazev)} → ${esc(K[PS.to].nazev)}</span></div><button class="p3-x" data-p3="x" aria-label="Zavřít">✕</button></div>
     <div class="p3-fade"></div><div class="p3-msg"><div class="p3-m1">Načítám 3D…</div><div class="p3-m2"></div></div>
-    <div class="p3-bar"><button data-p3="p" class="p3-b">⏸</button><span class="p3-seg">${[1,2,4,8].map(v=>`<button data-p3s="${v}" class="${v===2?'on':''}">${v}×</button>`).join('')}</span>
+    <div class="p3-bar"><button data-p3="p" class="p3-b">⏸</button><button data-p3="h" class="p3-b" title="Hlasy">${P3V.on?'🔊':'🔇'}</button><span class="p3-seg">${[1,2,4,8].map(v=>`<button data-p3s="${v}" class="${v===2?'on':''}">${v}×</button>`).join('')}</span>
       <span class="p3-seg">${[['k','Kabina'],['z','Zvenku'],['s','Shora']].map(([k,t])=>`<button data-p3v="${k}" class="${k==='k'?'on':''}">${t}</button>`).join('')}</span><span class="p3-v">0 km/h</span></div>`;
   document.body.appendChild(root);document.body.classList.add('p3-open');
   const m1=root.querySelector('.p3-m1'),m2=root.querySelector('.p3-m2'),vEl=root.querySelector('.p3-v'),cv=root.querySelector('canvas');
   const st={alive:true,pause:false,rate:2,view:'k'};P3.run=st;if(location.hostname==='localhost')window.__p3=st;   // testy
-  const close=()=>{st.alive=false;P3.run=null;document.removeEventListener('keydown',key);window.removeEventListener('resize',rs);
-    if(st.ren){st.scene.traverse(o=>{if(o.geometry)o.geometry.dispose();if(o.material){(o.material.map&&o.material.map.dispose());o.material.dispose()}});st.ren.dispose()}
-    root.remove();document.body.classList.remove('p3-open')};
+  p3VLoad();
+  // zavření: nejdřív pryč z obrazovky (ať aplikace hned reaguje), pak uvolnit 3D paměť a WebGL kontext
+  const close=()=>{if(!st.alive&&!root.isConnected)return;st.alive=false;p3VStop();P3.run=null;document.removeEventListener('keydown',key);window.removeEventListener('resize',rs);
+    root.remove();document.body.classList.remove('p3-open');
+    const ren=st.ren,sc=st.scene;st.ren=st.scene=null;
+    if(ren)setTimeout(()=>{try{const done=new Set(),free=m=>{if(!m||done.has(m))return;done.add(m);try{if(m.map)m.map.dispose()}catch(e){}try{m.dispose()}catch(e){}};
+      if(sc)sc.traverse(o=>{try{if(o.geometry)o.geometry.dispose()}catch(e){}[].concat(o.material||[]).forEach(free)});
+      ren.dispose();if(ren.forceContextLoss)ren.forceContextLoss()}catch(e){}},0)};
   const key=e=>{if(e.key==='Escape')close();else if(e.key===' '){e.preventDefault();st.pause=!st.pause;root.querySelector('[data-p3="p"]').textContent=st.pause?'▶':'⏸'}};
   document.addEventListener('keydown',key);
   root.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
     if(b.dataset.p3==='x')return close();
+    if(b.dataset.p3==='h'){P3V.on=!P3V.on;b.textContent=P3V.on?'🔊':'🔇';try{localStorage.setItem('zoz-p3-hlas',P3V.on?'1':'0')}catch(e){}if(!P3V.on)p3VStop()}
     if(b.dataset.p3==='p'){st.pause=!st.pause;b.textContent=st.pause?'▶':'⏸'}
-    if(b.dataset.p3==='r'){close();p3Open(S,R)}
+    if(b.dataset.p3==='r'){close();setTimeout(()=>p3Open(S,R),60)}
     if(b.dataset.p3s){st.rate=+b.dataset.p3s;root.querySelectorAll('[data-p3s]').forEach(x=>x.classList.toggle('on',x===b))}
     if(b.dataset.p3v){st.view=b.dataset.p3v;root.querySelectorAll('[data-p3v]').forEach(x=>x.classList.toggle('on',x===b))}});
   const rs=()=>{if(!st.ren)return;const w=root.clientWidth,h=root.clientHeight;st.ren.setSize(w,h,false);st.cam.aspect=w/h;st.cam.updateProjectionMatrix()};
@@ -3399,7 +3428,24 @@ function p3Open(S,R){
     const nextInfo=()=>{const sg=nextSig();const l=legs[run.leg];
       if(sg)return `Před tebou: ${sg.n.id} (${({seradovaci:'seřaďovací',odjezdove:'odjezdové',vjezdove:'vjezdové',cestove:'cestové'})[sg.n.typ]||''} návěstidlo)`;
       return run.leg<legs.length-1?(l.uv&&l.uv.zhl?`Dál: úvrať za výhybkou č. ${l.uv.zhl.c} – celým dílem za izolovaný styk`:'Dál: úvrať – zastav, změň směr'):`Dál: ${K[PS.to].nazev}`};
-    msg(`Stojíš: ${K[PS.from].loc} ${S.v}. Máš souhlas k posunu.`,nextInfo());
+    // rádiová domluva – posun se rozjede až po souhlasu a po rozsvícení bílé na návěstidle před ním
+    const kid=psKomu(S).id||S.vychozi||'v',K1=psPrac(S,kid),fk=K[PS.from],tk=K[PS.to],osl=psDil(),dil='posunového dílu'+(PF.cislo?' '+PF.cislo:'');
+    const zeG=`${fk.z||(/^(s|z|š|ž|dr|tř|čt|vš|kd|mn)/i.test(fk.gen)?'ze':'z')} ${fk.gen}`;
+    const uvs=R.out.filter(x=>x.k==='uvrat').map(x=>x.zhl?'s úvratí za výhybkou číslo '+x.zhl.c:K[x.kolej]?'přes '+K[x.kolej].acc+' s úvratí':'s úvratí').join(' a ');
+    const DLG={
+      start:[['ty',['ty_ohlaseni_'+kid,'ty_ohlaseni'],`${K1}, zde strojvedoucí ${dil} ${fk.loc} ${S.v}. Příjem.`],
+        [kid,['st_slysim_'+kid],`${K1}, slyším. Příjem.`],
+        ['ty',['ty_zadost'],`Žádám o souhlas k posunu ${zeG} na ${tk.acc}${uvs?' '+uvs:''}. Příjem.`],
+        [kid,['st_souhlas_'+kid,'st_souhlas'],`Souhlas k posunu ${zeG} na ${tk.acc}${uvs?' '+uvs:''} dávám. Posun dovolen. Příjem.`],
+        ['ty',['ty_rozumim_souhlas'],`Rozumím, souhlas k posunu ${zeG} na ${tk.acc}. Konec.`]],
+      zastav:r=>[[r,['st_zastav_'+r,'st_zastav'],`${osl}, můžeš zastavit. Příjem.`],['ty',['ty_zastavuji'],'Rozumím, zastavuji. Konec.']],
+      dovolen:r=>[[r,['st_dovolen_'+r,'st_dovolen'],`${osl}, posun dovolen na ${tk.acc}. Příjem.`],['ty',['ty_rozumim_dovolen'],`Rozumím, posun dovolen na ${tk.acc}. Konec.`]]};
+    const dlg=async lines=>{for(const [kdo,ids,text] of lines){if(!st.alive)return;while(st.pause&&st.alive)await new Promise(r=>setTimeout(r,200));
+      msg(`${kdo==='ty'?'🎙 Ty':'📻 '+psPrac(S,kdo)}: „${text}“`,'');await p3Say(kdo,ids,text)}};
+    // po souhlasu se rozsvítí bílá na všech návěstidlech jízdy (posunová cesta je postavená) a teprve pak se jede
+    const light=leg=>{const v=sigs.filter(x=>x.leg===leg);v.forEach(x=>{x.st='go';x.gt=0;x.o.userData.set('go')});
+      msg(v.length?sayNav(v[0]):'Posun dovolen – jeď.',v.length>1?'Bílé svítí i na '+v.slice(1).map(x=>x.n.id).join(', ')+'.':nextInfo())};
+    msg(`Stojíš u peronu ${fk.loc} ${S.v}. Zvedáš vysílačku…`,'');
     // pohled shora na celou trasu → pak se „sklopí“ do kabiny
     const s0=legs[0].path.at(0),intro={t:0,eye:new T.Vector3(s0.x,230,s0.z+1),look:new T.Vector3(s0.x,0,s0.z)};
     const eye=new T.Vector3(),look=new T.Vector3(),tmpE=new T.Vector3(),tmpL=new T.Vector3();
@@ -3409,7 +3455,8 @@ function p3Open(S,R){
       let dt=Math.min(.05,(now-last)/1000);last=now;const real=dt;if(st.pause)dt=0;const rt=dt;dt*=st.rate;   // rt = skutečný čas (čekání, otočení), dt = zrychlená jízda
       intro.t+=real;const L=legs[run.leg].path;
       // --- pohyb ---
-      if(run.ph==='start'){run.t+=dt;if(intro.t>3.2)run.ph='jizda'}
+      if(run.ph==='start'){run.t+=dt;if(intro.t>3.2){run.ph='dom';dlg(DLG.start).then(()=>{if(!st.alive)return;light(0);run.ph='ceka';run.t=0})}}
+      else if(run.ph==='ceka'){run.t+=rt;if(run.t>2)run.ph='jizda'}
       else if(run.ph==='jizda'){
         const sg=nextSig(),lg=legs[run.leg],posl=run.leg===legs.length-1;
         if(sg){const df=sg.s-(run.s+HF);
@@ -3417,7 +3464,7 @@ function p3Open(S,R){
             if(sg.t>3){sg.st='go';sg.gt=0;sg.o.userData.set('go');msg(sayNav(sg),sg.radio?radioOK(sg.radio):'')}}
           else if(sg.st==='go'){sg.gt+=rt;if(df<-1&&sg.gt>2.5){sg.past=1;if(!lg.stopSaid)msg(`Projel jsi ${sg.n.id}.`,nextInfo())}}}
         // před úvratí tě stavědlo obvykle zastaví rádiem
-        if(!posl&&lg.uv&&!lg.stopSaid&&L.L-run.s<230){lg.stopSaid=1;msg(`📻 ${psPrac(S,lg.uv.radio||S.vychozi)}: „${psDil()}, můžeš zastavit.“`,'Ty: „Rozumím.“ – brzdíš a zastavuješ.')}
+        if(!posl&&lg.uv&&!lg.stopSaid&&L.L-run.s<230){lg.stopSaid=1;dlg(DLG.zastav(lg.uv.radio||kid))}
         const stopAt=sg&&sg.st==='stop'?Math.max(run.s,Math.min(L.L,sg.s-8-HF)):L.L;
         const vmax=40/3.6,dS=Math.max(0,stopAt-run.s),vA=dS<25?Math.sqrt(2*.16*dS):Math.sqrt(8+2*.3*(dS-25));   // 0,3 m/s² brzdění, posledních 25 m do 10 km/h
         run.v=Math.min(vmax,vA,run.v+.4*dt);
@@ -3426,15 +3473,15 @@ function p3Open(S,R){
           if(posl){run.ph='cil';msg(cilT,'');root.querySelector('.p3-msg').insertAdjacentHTML('beforeend','<div class="p3-end"><button class="btn" data-p3="r">↻ Znovu</button><button class="btn ghost" data-p3="x">Zavřít</button></div>')}
           else{run.ph='uv';run.t=0;run.said=0;const u=lg.uv||{};
             // Posun dovolen: dá ho návěstidlo hned za úvratí (+ rádio), jinak rádio – hned při zastavení, nebo až po přechodu
-            run.dov=sigs.some(x=>x.leg===run.leg+1&&x.s<200)?'sig':(Math.random()<.5?'hned':'po');
+            run.dov=Math.random()<.5?'hned':'po';run.dlgP=null;
             const kde=u.zhl?`Úvrať za výhybkou č. ${u.zhl.c} – celý posunový díl je za izolovaným stykem.`:`Úvrať${u.kolej&&K[u.kolej]?' '+K[u.kolej].loc:''}.`;
-            if(run.dov==='hned')msg(kde+' '+radioOK(u.radio),'Přecházíš na druhé stanoviště…');else msg(kde+' Zastavil jsi.','Přecházíš na druhé stanoviště…')}}}
+            msg(kde+' Zastavil jsi.','Přecházíš na druhé stanoviště…');
+            if(run.dov==='hned')setTimeout(()=>{if(st.alive&&!run.dlgP)run.dlgP=dlg(DLG.dovolen(u.radio||kid))},900)}}}
       else if(run.ph==='uv'){run.t+=rt;if(st.view==='k'&&run.t>1)fade.style.opacity=1;if(run.t>1.6){run.ph='otoc';run.t=0;run.sign=-run.sign;run.leg++;run.s=0}}
       else if(run.ph==='otoc'){run.t+=rt;if(run.t>1.2)fade.style.opacity=0;const u=legs[run.leg-1].uv||{};
-        if(run.t>2.4&&!run.said){run.said=1;
-          if(run.dov==='po')msg('Jsi na druhém stanovišti. '+radioOK(u.radio),nextInfo());
-          else msg(run.dov==='hned'?'Jsi na druhém stanovišti – Posun dovolen máš, jeď.':'Jsi na druhém stanovišti.',nextInfo())}
-        if(run.t>(run.dov==='po'?5.5:3)){run.ph='jizda'}}
+        if(run.t>2.4&&!run.said){run.said=1;const lg=run.leg;
+          if(!run.dlgP){msg('Jsi na druhém stanovišti.','');run.dlgP=new Promise(r=>setTimeout(r,1200)).then(()=>dlg(DLG.dovolen(u.radio||kid)))}
+          run.dlgP.then(()=>{if(!st.alive||run.leg!==lg)return;light(lg);run.ph='ceka';run.t=0})}}
       const P=place();
       vEl.textContent=Math.round(run.v*3.6)+' km/h';
       // --- kamera ---

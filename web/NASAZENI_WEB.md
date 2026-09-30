@@ -1,5 +1,13 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – Posun 3D: rádiová domluva s hlasy, bílá před rozjezdem, oprava zamrznutí
+
+Nahraj `index.html`, `sw.js`, `posun.json` a **novou složku `audio/posun/`** (zatím jen `seznam.json` a návod `NAHRAVKY.md`) z `na_web.zip`. Offline režim `shell-zoz-v29`.
+
+- **Domluva před posunem:** u peronu proběhne rádiový rozhovor (ohlášení, „slyším“, žádost o souhlas, souhlas, potvrzení). Teprve potom se rozsvítí **bílá na všech návěstidlech jízdy** a jednotka se rozjede. Před úvratí přijde „Posunový díl…, můžeš zastavit“ a po úvrati „posun dovolen“ – hned při zastavení, nebo až po přechodu na druhé stanoviště. Návěstidlo za úvratí (např. Se1) se rozsvítí až po souhlasu.
+- **Hlasy:** nahrávky z `audio/posun/` (seznam v `seznam.json`, texty k namluvení v `NAHRAVKY.md`). Nahrávky stavědel dostanou zvuk vysílačky. Co nahrané není, řekne syntetický český hlas telefonu; tlačítko 🔊/🔇 hlasy vypne (pak jen titulky).
+- **Oprava:** zavření simulace (✕, Esc) a „Znovu“ už nezamrznou aplikaci. Úklid 3D padal na jednotce 844 a překryvná vrstva zůstala viset; nově se uvolní i WebGL kontext.
+
 ## ⬆ Aktualizace – Posun: 3D simulace a úvrať za izolovaným stykem
 
 Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v28`.

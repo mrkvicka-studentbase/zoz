@@ -1,7 +1,7 @@
 /* ZOZ Trenažér – service worker
    Umožňuje instalaci na plochu telefonu a spuštění i bez signálu.
    Verzi zvyš při každé nové verzi index.html, ať se lidem stáhne. */
-const VERSION = 'zoz-v28';
+const VERSION = 'zoz-v29';
 const SHELL   = 'shell-' + VERSION;
 const RUNTIME = 'runtime-' + VERSION;
 
@@ -65,8 +65,8 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Nastavení – nejdřív síť, ať se změna klíče projeví hned; offline z cache
-  if (url.origin === location.origin && /\/config\.js$/.test(url.pathname)) {
+  // Nastavení a seznam nahrávek – nejdřív síť, ať se změna projeví hned; offline z cache
+  if (url.origin === location.origin && /\/(config\.js|audio\/posun\/seznam\.json)$/.test(url.pathname)) {
     e.respondWith(
       fetch(req, {cache: 'no-store'})
         .then(res => {
