@@ -1,0 +1,2850 @@
+{
+ "zdroj": "PŘ GSM-R CZ – Příloha B (adresné zkrácené volby) a Příloha C (místní opatření)",
+ "meta": {
+  "ucinnost": "14. prosince 2025",
+  "zmena": "změna č. 1 od 1.června 2026"
+ },
+ "obecne": [
+  {
+   "zv": "ZV1 · 1200",
+   "kdo": "provozní dispečer"
+  },
+  {
+   "zv": "ZV2 · 1300",
+   "kdo": "výpravčí / traťový dispečer (dílčí 13xx podle Přílohy B)"
+  },
+  {
+   "zv": "ZV3 · 1400",
+   "kdo": "elektrodispečer"
+  },
+  {
+   "zv": "SKP 200",
+   "kdo": "všichni strojvedoucí v oblasti (skupinové volání)"
+  }
+ ],
+ "obecne_zdroj": "SŽ Z11, příloha K, tab. K.1",
+ "zv": [
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Lichkov",
+   "obvod": "Lichkov st.hr. - Ústí n. O. (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Ústí nad Orlicí",
+   "obvod": "Česká Třebová (mimo) – Choceň (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Choceň",
+   "obvod": "Choceň – Pardubice hl.n. (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Pardubice 1",
+   "obvod": "ŽST Pardubice hl.n.",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Pardubice 2",
+   "obvod": "Pardubice hl.n. (mimo) - Kolín (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Pardubice 3",
+   "obvod": "Pardubice hl.n. (mimo) / Medlešice (mimo) – Opatovice n.L.-Pohřebačka (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Kolín",
+   "obvod": "ŽST Kolín",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Kolín pro úsek Velim – Úvaly",
+   "obvod": "Kolín (mimo) – Úvaly",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Praha–Libeň",
+   "obvod": "Úvaly (mimo) – Praha-Libeň",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Praha Masarykovo nádraží",
+   "obvod": "ŽST Praha Masarykovo nádraží – Praha-Bubny",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1361"
+   ],
+   "prac": "PPV Praha-Vršovice",
+   "obvod": "Praha-Hostivař (mimo) – Praha-Vršovice, Praha-Malešice",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 15,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1361"
+   ],
+   "prac": "PPV Praha hl. 1 PPV Praha hl. 2",
+   "obvod": "Praha-Vršovice (mimo) – Praha hl.n. – výhybna Skály",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Kralupy nad Vltavou",
+   "obvod": "Praha-Libeň (mimo) – Kralupy n/Vltavou (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Čerčany",
+   "obvod": "Čerčany – Praha-Uhříněves (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Plzeň 1 – trať + D3",
+   "obvod": "Zdice – Zbiroh – Rokycany – Ejpovice – Plzeň Doubr.",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Praha-Uhříněves",
+   "obvod": "Praha-Uhříněves – Praha-Hostivař",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Lysá nad Labem",
+   "obvod": "Lysá nad Labem (mimo) – výhybna Skály (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Plzeň 2",
+   "obvod": "Plzeň hl. n. (přidělený obvod – východ)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1361"
+   ],
+   "prac": "PPV Plzeň 3",
+   "obvod": "Plzeň hl. n. (přidělený obvod – západ)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Cheb 1",
+   "obvod": "Cheb (sever), Brod nad Tichou – Lipová u Chebu",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1361"
+   ],
+   "prac": "PPV Cheb 2",
+   "obvod": "Cheb (jih), Plzeň-Křimice – Pavlovice",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Praha-Zličín",
+   "obvod": "Praha – Smíchov (mimo) - Hostivice (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Beroun",
+   "obvod": "Beroun os. nádraží",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Tábor",
+   "obvod": "Tábor – Čerčany (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV České Budějovice (profil 2 obvod sever) - *)",
+   "obvod": "Veselí nad Lužnicí – Tábor (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV České Budějovice (profil 2 obvod jih) - *)",
+   "obvod": "Nemanice (mimo) – Veselí nad Lužnicí (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV České Budějovice (profil 1 řízení ŽST České Budějovice obvod sever)",
+   "obvod": "České Budějovice (obvod sever)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1361"
+   ],
+   "prac": "PPV České Budějovice (profil 1 řízení ŽST České Budějovice obvod jih) - *)",
+   "obvod": "České Budějovice (obvod jih)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 16,
+   "skup": "CDP Praha"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Bohumín",
+   "obvod": "Bohumín – Dolní Lutyně",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Petrovice u Karviné",
+   "obvod": "Dětmarovice – Petrovice u Karviné",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Český Těšín",
+   "obvod": "Karviná hl. n. – Český Těšín",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Návsí",
+   "obvod": "Třinec – Mosty u Jablunkova",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV St. Město u Uherského Hradiště",
+   "obvod": "Staré Město u Uherského Hradiště – Přerov (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Hranice na Moravě",
+   "obvod": "Hranice na Moravě – Přerov (mimo) – Dluhonice (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Břeclav 2",
+   "obvod": "Moravská Nová Ves – Nedakonice",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Břeclav 1",
+   "obvod": "Lanžhot – Břeclav – výhybna Hrušky",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Brno-Horní Heršpice",
+   "obvod": "Modřice – Podivín",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Olomouc hl.n.",
+   "obvod": "ŽST Olomouc hl.n.; Grygov – Dluhonice",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Zábřeh na Moravě",
+   "obvod": "Zábřeh na Moravě – Olomouc hl.n. (mimo)",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Třebovice v Čechách",
+   "obvod": "Hoštejn – Třebovice v Čechách",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "ppv",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Ostrava-Svinov",
+   "obvod": "ŽST Ostrava-Svinov; Polanka nad Odrou – Polom",
+   "pozn": "Platí pouze v případě zpravování písemným rozkazem při poruše DOZ",
+   "str": 17,
+   "skup": "CDP Přerov"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Praha hl. n. (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Praha Masarykovo n. (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Praha-Libeň (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Praha-Holešovice (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Praha-Bubny (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Praha-Vršovice (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Praha-Vysočany (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Praha-Malešice (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1359"
+   ],
+   "prac": "Praha-Malešice – pouze pro spojení posunových dílů s výpravčím místního řízení",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "Nastaveno jen na BTS Praha Malešice a BTS v navazujících mezistaničních úsecích",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Praha-Smíchov",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1341"
+   ],
+   "prac": "Praha jih vjezd – výpravčí ČD",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1342"
+   ],
+   "prac": "Praha jih odjezd – výpravčí ČD",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1380"
+   ],
+   "prac": "SS Praha-Vršovice – strojmistr",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1381"
+   ],
+   "prac": "Praha jih – strojmistr",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1382"
+   ],
+   "prac": "SS Praha-Vršovice – stanoviště „U“",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1383"
+   ],
+   "prac": "SS Praha-Vršovice – vedoucí posunu",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1384"
+   ],
+   "prac": "Praha jih St1",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1385"
+   ],
+   "prac": "PP Praha hl.n. - strojmistr",
+   "obvod": "Nastaveno na všech BTS v uzlu Praha – dovolatelnost v celém uzlu (mimo dílčí ZV 1337 a 1359)",
+   "pozn": "",
+   "str": 18,
+   "skup": "Praha"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Brno hl. n. výpravčí „A“",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Brno hl. n. výpravčí „B“",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Brno hl. n. výpravčí „C“",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Brno-Horní Heršpice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Brno dolní nádraží",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Brno-Židenice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Brno jih",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Brno-Maloměřice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Brno-Černovice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1340"
+   ],
+   "prac": "CDP Přerov – řídící dispečer 1E",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1800"
+   ],
+   "prac": "četař TSV Brno hl. n.",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "ČD, a.s.",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1801"
+   ],
+   "prac": "strojmistr Brno hl. n.",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "ČD, a.s.",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1802"
+   ],
+   "prac": "strojmistr Maloměřice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "ČD, a.s.",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1803"
+   ],
+   "prac": "strojmistr Heršpice",
+   "obvod": "z. Popovice u Rajhradu – Brno-Královo Pole / z. Bílovice nad Svitavou; Nastaveno na všech BTS v uzlu Brno – dovolatelnost v celém uzlu",
+   "pozn": "ČD, a.s.",
+   "str": 18,
+   "skup": "Brno"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1333"
+   ],
+   "prac": "CDP Přerov; úsekový dispečer 2C",
+   "obvod": "Olomouc hl. n.; Štěpánov, Grygov Nastaveno na všech BTS v uzlu Olomouc – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Olomouc"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Ostrava hl. n. (disp. výpravčí)",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Ostrava-Svinov (výpravčí – opavský dispečer)",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "použít pouze v ŽST Ostrava-Svinov",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Ostrava Střed",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Ostrava-Kunčice",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Ostrava-Vítkovice",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Ostrava hl. n. (ŘS – výpravčí-Sever)",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Ostrava hl. n. (ŘS – výpravčí-levé nádr.)",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Ostrava hl.n. - obvod báňské nádraží-výpravčí",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Ostrava hl.n. (ŘS – výpravčí – Jih)",
+   "obvod": "Ostrava Svinov – celý obvod; Ostrava hl. n.; Polanka; Ostrava Vítkovice; Ostrava Kunčičky; Nastaveno na všech BTS v uzlu Ostrava – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Ostrava"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Plzeň-Koterov",
+   "obvod": "Plzeň Doubravka; Plzeň hl. n.; Plzeň Koterov; Plzeň – Jižní předměstí; Nastaveno na všech BTS v uzlu Plzeň – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Plzeň"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Plzeň hl. n. (řízeno a směrováno na TD 512 CDP Praha)",
+   "obvod": "Plzeň Doubravka; Plzeň hl. n.; Plzeň Koterov; Plzeň – Jižní předměstí; Nastaveno na všech BTS v uzlu Plzeň – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Plzeň"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Plzeň hl. n. (řízeno a směrováno na TD 513 CDP Praha)",
+   "obvod": "Plzeň Doubravka; Plzeň hl. n.; Plzeň Koterov; Plzeň – Jižní předměstí; Nastaveno na všech BTS v uzlu Plzeň – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Plzeň"
+  },
+  {
+   "typ": "uzel",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Plzeň US Triangl – výpravčí pro místní práci",
+   "obvod": "Plzeň Doubravka; Plzeň hl. n.; Plzeň Koterov; Plzeň – Jižní předměstí; Nastaveno na všech BTS v uzlu Plzeň – dovolatelnost v celém uzlu",
+   "pozn": "",
+   "str": 19,
+   "skup": "Plzeň"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1341"
+   ],
+   "prac": "CDP Přerov řídící dispečer 1G",
+   "obvod": "Ostrava hl. n.; Bohumín Dolní Lutyně; Dětmarovice; Petrovice u Karviné",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Bohumín"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1342"
+   ],
+   "prac": "CDP Přerov úsekový dispečer 3G",
+   "obvod": "Ostrava hl. n.; Bohumín Dolní Lutyně; Dětmarovice; Petrovice u Karviné",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Bohumín"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1343"
+   ],
+   "prac": "CDP Přerov úsekový dispečer 2G",
+   "obvod": "Ostrava hl. n.; Bohumín Dolní Lutyně; Dětmarovice; Petrovice u Karviné",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Bohumín"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Dětmarovice",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná; Louky nad Olší",
+   "pozn": "",
+   "str": 20,
+   "trat": "301",
+   "usek": "Odb. Koukolná – Odb. Závada"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Petrovice u Karviné",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná; Louky nad Olší",
+   "pozn": "",
+   "str": 20,
+   "trat": "301",
+   "usek": "Odb. Koukolná – Odb. Závada"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Karviná",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná; Louky nad Olší",
+   "pozn": "",
+   "str": 20,
+   "trat": "301",
+   "usek": "Odb. Koukolná – Odb. Závada"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Louky nad Olší",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná; Louky nad Olší",
+   "pozn": "",
+   "str": 20,
+   "trat": "301",
+   "usek": "Odb. Koukolná – Odb. Závada"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Dětmarovice",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Petrovice u Karviné"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Petrovice u Karviné",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Petrovice u Karviné"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Karviná",
+   "obvod": "Dětmarovice; Petrovice u Karviné; Karviná",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Petrovice u Karviné"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Louky nad Olší",
+   "obvod": "Karviná – Český Těšín",
+   "pozn": "",
+   "str": 20,
+   "trat": "301B",
+   "usek": "Karviná – Č. Těšín"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "CDP Přerov; úsekový dispečer 3E",
+   "obvod": "Břeclav st. hr. / Lanžhot st. hr. – Podivín / Hrušky",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "CDP Přerov; úsekový dispečer 2E",
+   "obvod": "Břeclav st. hr. / Lanžhot st. hr. – Podivín / Hrušky",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "CDP Přerov; úsekový dispečer 1E",
+   "obvod": "Břeclav st. hr. / Lanžhot st. hr. – Podivín / Hrušky",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Břeclav přednádraží – venkovní výpravčí",
+   "obvod": "Břeclav st. hr. / Lanžhot st. hr. – Podivín / Hrušky",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Břeclav ÚS – pohotovostní výpravčí",
+   "obvod": "Břeclav st. hr. / Lanžhot st. hr. – Podivín / Hrušky",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1801"
+   ],
+   "prac": "Břeclav – RCC CZ koordinátor přeprav",
+   "obvod": "Břeclav st. hr. – Podivín / Hrušky;",
+   "pozn": "",
+   "str": 20,
+   "trat": "320A + 320D + 316A",
+   "usek": "Břeclav"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331",
+    "1332"
+   ],
+   "prac": "CDP Přerov – řídící dispečer 1D Dluhonice",
+   "obvod": "Prosenice",
+   "pozn": "",
+   "str": 20,
+   "trat": "305B",
+   "usek": "Prosenice - Přerov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Dluhonice",
+   "obvod": "Přerov",
+   "pozn": "",
+   "str": 20,
+   "trat": "305B",
+   "usek": "Prosenice - Přerov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "CDP Přerov – řídící dispečer 1D",
+   "obvod": "Říkovice",
+   "pozn": "",
+   "str": 20,
+   "trat": "305F",
+   "usek": "Říkovice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331",
+    "1332"
+   ],
+   "prac": "CDP Přerov – řídící dispečer 1D Dluhonice",
+   "obvod": "Rokytnice u Přerova",
+   "pozn": "",
+   "str": 20,
+   "trat": "309A",
+   "usek": "Brodek u Př. – Přerov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1360"
+   ],
+   "prac": "ZP Uničov",
+   "obvod": "Nový Malín dřevosklad – Olomouc hl.n. (mimo)",
+   "pozn": "",
+   "str": 20,
+   "trat": "311C",
+   "usek": "Nový Malín dřevosklad – Olomouc hl.n."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Výpravčí DOZ A",
+   "obvod": "zastávka Štarnov – Olomouc hl.n. (mimo)",
+   "pozn": "Podrobnosti v příloze C",
+   "str": 20,
+   "trat": "311C",
+   "usek": "Nový Malín dřevosklad – Olomouc hl.n."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "CDP Praha traťový dispečer 125",
+   "obvod": "Pardubice hl.n.- přidělený obvod",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A",
+   "usek": "Pardubice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Česká Třebová St 019 - hl. výpravčí",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Česká Třebová St 019 - výpravčí panelista sever",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Česká Třebová St 019 - výpravčí panelista jih",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Česká Třebová St 014",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Odb. Zádulka",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Třebovice v Čechách",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Česká Třebová St 039",
+   "obvod": "Třebovice v Č. (včetně) Česká Třebová; Odbočka Zádulka;",
+   "pozn": "",
+   "str": 20,
+   "trat": "501A + 501B + 309A",
+   "usek": "Česká Třebová"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Odb. Babín",
+   "obvod": "Poděbrady",
+   "pozn": "",
+   "str": 20,
+   "trat": "502A",
+   "usek": "Poděbrady"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Velký Osek",
+   "obvod": "Kolín (mimo) – Velký Osek",
+   "pozn": "",
+   "str": 21,
+   "trat": "502A",
+   "usek": "Velký Osek"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Libice nad Cidlinou",
+   "obvod": "Libice n/C.",
+   "pozn": "",
+   "str": 21,
+   "trat": "502A",
+   "usek": "Libice n/C."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1349"
+   ],
+   "prac": "Liběchov",
+   "obvod": "Mělník – Liběchov",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Mělník – Štětí"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Ústí n.L. západ St. 1",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1341"
+   ],
+   "prac": "Štětí",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1342"
+   ],
+   "prac": "Litoměřice",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1343"
+   ],
+   "prac": "Velké Žernoseky",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1344"
+   ],
+   "prac": "Sebuzín",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1345"
+   ],
+   "prac": "Ústí n/L.-Střekov St. 3",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1346"
+   ],
+   "prac": "Boletice nad Labem",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1347"
+   ],
+   "prac": "Děčín východ St. 1",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1348"
+   ],
+   "prac": "Děčín východ hor.n.",
+   "obvod": "Štětí – Děčín východ",
+   "pozn": "",
+   "str": 21,
+   "trat": "503A + 503B",
+   "usek": "Štětí – Děčín východ"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Most",
+   "obvod": "Most – Třebušice; Obrnice – Most; Most n.n. – Lom u Mostu – Litvínov",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A + 504E + 504F +529 +531D + 535C",
+   "usek": "Most Most n.n. Třebušice Louka u Litvínova Litvínov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Most n. n. St. 1",
+   "obvod": "Most – Třebušice; Obrnice – Most; Most n.n. – Lom u Mostu – Litvínov",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A + 504E + 504F +529 +531D + 535C",
+   "usek": "Most Most n.n. Třebušice Louka u Litvínova Litvínov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Most n. n. St. 5",
+   "obvod": "Most – Třebušice; Obrnice – Most; Most n.n. – Lom u Mostu – Litvínov",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A + 504E + 504F +529 +531D + 535C",
+   "usek": "Most Most n.n. Třebušice Louka u Litvínova Litvínov"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Ústí n.L. záp. St. 1",
+   "obvod": "Ústí n. L. hl. n. – Oldřichov u D.",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A",
+   "usek": "Ústí n. L. hl.n. - Oldřichov u D."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Ústí n.L. záp. St. 5",
+   "obvod": "Ústí n. L. hl. n. – Oldřichov u D.",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A",
+   "usek": "Ústí n. L. hl.n. - Oldřichov u D."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Teplice v Č. výpravčí 3",
+   "obvod": "Ústí n. L. hl. n. – Oldřichov u D.",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A",
+   "usek": "Ústí n. L. hl.n. - Oldřichov u D."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Teplice v Č. výpravčí 4",
+   "obvod": "Ústí n. L. hl. n. – Oldřichov u D.",
+   "pozn": "",
+   "str": 21,
+   "trat": "504A",
+   "usek": "Ústí n. L. hl.n. - Oldřichov u D."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Teplice v Č. výpravčí 3",
+   "obvod": "Úpořiny",
+   "pozn": "",
+   "str": 21,
+   "trat": "504C",
+   "usek": "Úpořiny"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Hradec Králové hl.n. staniční výpravčí",
+   "obvod": "Hradec Králové hl.n.",
+   "pozn": "",
+   "str": 21,
+   "trat": "505C",
+   "usek": "Hr.Králové hl.n."
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Dolní Lipka",
+   "obvod": "Dolní Lipka",
+   "pozn": "",
+   "str": 21,
+   "trat": "512B",
+   "usek": "Dolní Lipka"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Zadní Třebaň",
+   "obvod": "Řevnice – Zadní Třebaň",
+   "pozn": "",
+   "str": 21,
+   "trat": "521B",
+   "usek": "Zadní Třebaň"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Kralupy nad Vltavou",
+   "obvod": "Kralupy n/V. – Dolní Beřkovice",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Kralupy n/V. – Dolní Beřkovice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Nelahozeves",
+   "obvod": "Kralupy n/V. – Dolní Beřkovice",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Kralupy n/V. – Dolní Beřkovice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Vraňany",
+   "obvod": "Kralupy n/V. – Dolní Beřkovice",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Kralupy n/V. – Dolní Beřkovice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Dolní Beřkovice",
+   "obvod": "Kralupy n/V. – Dolní Beřkovice",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Kralupy n/V. – Dolní Beřkovice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Hněvice",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Roudnice nad Labem",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Ústí n.L. západ St. 1",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Lovosice ÚS* - ÚS V2 traťový",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Lovosice ÚS* - ÚS V1 jih",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Hrobce",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1350"
+   ],
+   "prac": "Bohušovice nad Ohří",
+   "obvod": "Hněvice – Malé Žernoseky;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A",
+   "usek": "Hněvice – Malé Žernoseky"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Ústí n/L. ÚS* 2 - trať",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Ústí n/L. ÚS* 3 - staniční",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Děčín ÚS* jih",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Děčín hl. n.",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Děčín ÚS* sever",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Ústí n.L. západ St. 1",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Děčín východ St1 – signalista",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Děčín východ St3 – signalista",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1347"
+   ],
+   "prac": "Děčín východ St1 – výpravčí",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1348"
+   ],
+   "prac": "Děčín východ hor. n.",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1349"
+   ],
+   "prac": "Dolní Žleb",
+   "obvod": "Prackovice nad Labem – Dolní Žleb;",
+   "pozn": "",
+   "str": 21,
+   "trat": "527A + 527B + 544A + 544B",
+   "usek": "Prackovice n. L. – Dolní Žleb; Ústí n.L. hl.n. jih – Ústí n.L. západ; Děčín východ – Děčín Prostřední Žleb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1344"
+   ],
+   "prac": "CDP Praha traťový dispečer TD 591, Praha Smíchov (mimo) – Hostivice (mimo)",
+   "obvod": "Praha Smíchov (mimo) – Praha Žvahov (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "528A",
+   "usek": "Praha Smíchov (mimo) – Praha Žvahov (mimo)"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Unhošť",
+   "obvod": "Unhošť – Kladno (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "528B",
+   "usek": "Unhošť – Kladno"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Chomutov město",
+   "obvod": "Chomutov – Březno u Chomutova",
+   "pozn": "",
+   "str": 22,
+   "trat": "531F",
+   "usek": "Chomutov – Březno u Chomutova"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Chomutov vnější",
+   "obvod": "Chomutov – Březno u Chomutova",
+   "pozn": "",
+   "str": 22,
+   "trat": "531F",
+   "usek": "Chomutov – Březno u Chomutova"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Chomutov seř. n.",
+   "obvod": "Chomutov – Březno u Chomutova",
+   "pozn": "",
+   "str": 22,
+   "trat": "531F",
+   "usek": "Chomutov – Březno u Chomutova"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Chomutov",
+   "obvod": "Chomutov – Březno u Chomutova",
+   "pozn": "",
+   "str": 22,
+   "trat": "531F",
+   "usek": "Chomutov – Březno u Chomutova"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Cheb výpravčí (řízeno a směrováno na DOZ CDP Praha)",
+   "obvod": "Cheb; Fr.Lázně; Podhoří",
+   "pozn": "Podrobnosti v příloze C",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Tršnice – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "K. Vary výpravčí 1",
+   "obvod": "Dalovice – Chodov; K.Vary d.n. – Stará Role",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536C",
+   "usek": "Dalovice – Chodov; K.Vary d.n. – Stará Role"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "K. Vary výpravčí 2",
+   "obvod": "Dalovice – Chodov; K.Vary d.n. – Stará Role",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536C",
+   "usek": "Dalovice – Chodov; K.Vary d.n. – Stará Role"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "K. Vary výpravčí 3",
+   "obvod": "Dalovice – Chodov; K.Vary d.n. – Stará Role",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536C",
+   "usek": "Dalovice – Chodov; K.Vary d.n. – Stará Role"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "K. Vary výpravčí 4",
+   "obvod": "Dalovice – Chodov; K.Vary d.n. – Stará Role",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536C",
+   "usek": "Dalovice – Chodov; K.Vary d.n. – Stará Role"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "K. Vary dol. n.",
+   "obvod": "Dalovice – Chodov; K.Vary d.n. – Stará Role",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536C",
+   "usek": "Dalovice – Chodov; K.Vary d.n. – Stará Role"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Nové Sedlo u Lokte",
+   "obvod": "Nové Sedlo – Sokolov (mimo); Nové Sedlo – Loket",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A + 536B",
+   "usek": "Nové Sedlo u L. – Sokolov (mimo); Nové Sedlo u L. – Loket"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Chomutov město",
+   "obvod": "Chomutov – Málkov",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Chomutov vnější",
+   "obvod": "Chomutov – Málkov",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Chomutov seř. n.",
+   "obvod": "Chomutov – Málkov",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Odb. Dubina",
+   "obvod": "Chomutov – Málkov",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Chomutov",
+   "obvod": "Chomutov – Málkov",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Kadaň-Prunéřov výpravčí 1",
+   "obvod": "Klášterec nad Ohří",
+   "pozn": "",
+   "str": 22,
+   "trat": "533A",
+   "usek": "Chomutov – Klášterec nad Ohří"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Liběšice",
+   "obvod": "Lovosice – Liběšice",
+   "pozn": "",
+   "str": 22,
+   "trat": "539B",
+   "usek": "Lovosice – Liběšice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Lovosice DOZ 2",
+   "obvod": "Lovosice – Liběšice",
+   "pozn": "",
+   "str": 22,
+   "trat": "539B",
+   "usek": "Lovosice – Liběšice"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1342"
+   ],
+   "prac": "Balkova Lhota",
+   "obvod": "",
+   "pozn": "",
+   "str": 22,
+   "trat": "702B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Hluboká nad Vltavou Zámostí",
+   "obvod": "Nemanice (mimo) – Veselí nad Lužnicí (mimo)",
+   "pozn": "platí od 15.června 2026",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Chotýčany",
+   "obvod": "Nemanice (mimo) – Veselí nad Lužnicí (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Ševětín",
+   "obvod": "Nemanice (mimo) – Veselí nad Lužnicí (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Dynín",
+   "obvod": "Nemanice (mimo) – Veselí nad Lužnicí (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Veselí nad Lužnicí",
+   "obvod": "Veselí nad Lužnicí – Tábor (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Soběslav",
+   "obvod": "Veselí nad Lužnicí – Tábor (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Planá nad Lužnicí",
+   "obvod": "Veselí nad Lužnicí – Tábor (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Tábor",
+   "obvod": "Tábor – Čerčany (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1341"
+   ],
+   "prac": "Chotoviny",
+   "obvod": "Tábor – Čerčany (mimo)",
+   "pozn": "",
+   "str": 22,
+   "trat": "704",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "České Velenice",
+   "obvod": "České Budějovice (mimo) – České Velenice",
+   "pozn": "",
+   "str": 22,
+   "trat": "705A",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Nová Ves nad Lužnicí",
+   "obvod": "České Velenice – Nová Ves nad Lužnicí",
+   "pozn": "",
+   "str": 22,
+   "trat": "705C",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Rybník",
+   "obvod": "České Budějovice (mimo) – Horní Dvořiště",
+   "pozn": "",
+   "str": 22,
+   "trat": "706A",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Horní Dvořiště",
+   "obvod": "České Budějovice (mimo) – Horní Dvořiště",
+   "pozn": "",
+   "str": 22,
+   "trat": "706A",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1343"
+   ],
+   "prac": "Včelná",
+   "obvod": "České Budějovice (mimo) – Horní Dvořiště",
+   "pozn": "",
+   "str": 22,
+   "trat": "706A",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1360"
+   ],
+   "prac": "PPV Horní Dvořiště",
+   "obvod": "České Budějovice (mimo) – Horní Dvořiště",
+   "pozn": "FN – 7 75223 02",
+   "str": 22,
+   "trat": "706A",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Plzeň-Koterov",
+   "obvod": "Plzeň hl.n. – Starý Plzenec",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Starý Plzenec",
+   "obvod": "Plzeň Koterov – Nezvěstice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Nezvěstice",
+   "obvod": "Starý Plzenec – Blovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Blovice",
+   "obvod": "Nezvěstice – Ždírec u Plzně",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Ždírec u Plzně",
+   "obvod": "Blovice – Srby",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Nepomuk",
+   "obvod": "Ždírec u Plzně – Pačejov",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Pačejov",
+   "obvod": "Nepomuk – Horažďovice předměstí",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Horažďovice předměstí",
+   "obvod": "Nepomuk – Strakonice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Střelské Hoštice",
+   "obvod": "Horažďovice předměstí – Strakonice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Katovice",
+   "obvod": "Horažďovice předměstí – Strakonice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Strakonice",
+   "obvod": "Horažďovice předměstí – Protivín",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Putim",
+   "obvod": "Ražice – Protivín",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Čejetice",
+   "obvod": "Strakonice – Protivín",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Ražice",
+   "obvod": "Strakonice – Číčenice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1335"
+   ],
+   "prac": "Protivín",
+   "obvod": "Strakonice – Dívčice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Číčenice",
+   "obvod": "Ražice – České Budějovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1337"
+   ],
+   "prac": "Dívčice",
+   "obvod": "Protivín – České Budějovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1338"
+   ],
+   "prac": "Zliv",
+   "obvod": "Protivín – České Budějovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1339"
+   ],
+   "prac": "Hluboká nad Vltavou",
+   "obvod": "Číčenice – České Budějovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1340"
+   ],
+   "prac": "Nemanice",
+   "obvod": "Záblatíčko – České Budějovice",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "PPV České Budějovice obvod jih (řízeno a směrováno na TD 714 CDP Praha)",
+   "obvod": "Nemanice – České Budějovice – Odb. Rožnov",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "PPV České Budějovice obvod sever (řízeno a směrováno na TD 713 CDP Praha)",
+   "obvod": "Nemanice – České Budějovice – Odb. Rožnov",
+   "pozn": "",
+   "str": 23,
+   "trat": "709A + 709B",
+   "usek": ""
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1331"
+   ],
+   "prac": "Cheb sever",
+   "obvod": "Cheb – Lipová (mimo)",
+   "pozn": "směrováno na TD 523 CDP",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1332"
+   ],
+   "prac": "Pňovany",
+   "obvod": "Lipová – Plzeň-Křimice",
+   "pozn": "",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1333"
+   ],
+   "prac": "Planá u M.L.",
+   "obvod": "Lipová – Plzeň-Křimice",
+   "pozn": "",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1334"
+   ],
+   "prac": "Mariánské Lázně",
+   "obvod": "Lipová – Plzeň-Křimice",
+   "pozn": "",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1336"
+   ],
+   "prac": "Plzeň Triangl – výpravčí pro místní práci",
+   "obvod": "Plzeň hl. n.",
+   "pozn": "",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  },
+  {
+   "typ": "trat",
+   "zv": [
+    "1341"
+   ],
+   "prac": "Dirigující dispečer D3 Pňovany – Bezdružice",
+   "obvod": "Pňovany",
+   "pozn": "pracoviště Plzeň hl. n.",
+   "str": 23,
+   "trat": "720A + 720B + 543A",
+   "usek": "Plzeň hl.n. – Cheb"
+  }
+ ],
+ "opatreni": [
+  {
+   "oblast": "Obvod územní správy řízení provozu západní Čechy",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 709B / 220 00",
+   "body": [
+    "při místním řízení ŽST Ždírec u Plzně nelze využít zkrácené volby 1300 z pohyblivého terminálu – volání na příslušného výpravčího. V případě místního řízení stanice výpravčím je nutné použít dílčí zkrácené volby 1335. Zkrácená volba 1300 je přesměrována trvale na výpravčího ŽST Nepomuk;",
+    "při místním řízení ŽST Plzeň-Koterov nelze využít zkrácené volby 1300 z pohyblivého terminálu – volání na příslušného výpravčího. V případě místního řízení stanice výpravčím je nutné použít dílčí zkrácené volby 1331. Zkrácená volba 1300 je trvale přesměrována na pracoviště traťového dispečera 512 CDP Praha nebo PPV Plzeň 3 – západ s ohledem na aktuální způsob řízení navazujícího obvodu ŽST Plzeň hl. n."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu západní Čechy",
+   "nadpis": "Uložení přenosných terminálů (MT) pro trať 713A / 360 00",
+   "body": [
+    "MT k zapůjčení dopravcům dle Obsluhovacího řádu Tunelu Ejpovice (pro zajištění jízd vlaků, které nemohou být vybaveny VR/PR s GSM-R nebo mají VR v poruše), jsou uloženy v počtu 2 ks v ŽST Plzeň hl. n. na pracovišti výpravčího vnější služby a v počtu 2 ks na pracovišti dozorce výhybek ŽST Rokycany."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu západní Čechy",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 533A / 120 00",
+   "body": [
+    "v úseku trati 533A mezi ŽST Tršnice a Cheb (od km 234,690 ve směru od ŽST Tršnice) nelze z technických důvodů zajistit správnou adresaci volání při použití ZV 1300 (ZV2) na pracoviště výpravčího ŽST Cheb z VR (v případě dálkového ovládání ŽST je hovor směrován na TD CDP Praha). Za tímto účelem je pracoviště výpravčího ŽST Cheb (TD CDP Praha) nově doplněno o adresnou ZV 1340, která by měla být při hlasovém spojení z VR v tomto úseku použita prioritně!"
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu severozápadní Čechy",
+   "nadpis": "Místní opatření pro provoz GSM-R na trati Čížkovice – Obrnice",
+   "body": [
+    "traťový úsek je řízen z pracoviště ŽST Lovosice DOZ1;",
+    "základním rádiovým spojením v úseku trati Čížkovice (mimo) – Obrnice, jejímž provozovatelem je společnost AŽD, je síť GSM-R CZ;",
+    "ve směru jízdy ze ŽST Čížkovice do ŽST Obrnice (trať 539C) jsou radiovníky pro síť GSM-R CZ umístěny takto:",
+    "- v km 0,955 – návěst Připravte rádiové zařízení GSM-R k registraci;",
+    "- v km 1,555 – návěst Začátek traťové rádiové sítě GSM-R.",
+    "úsek od km 33, 200 až do km 32,830 (provozovatel dráhy AŽD) není z technický důvodů pokryt sítí GSM-R CZ. Z tohoto důvodu jsou v obou směrech jízdy osazeny radiovníky takto:",
+    "ve směru jízdy vlaku z Obrnic do Čížkovic:",
+    "- km 34,530 – návěst Konec traťové rádiové sítě GSM-R",
+    "- km 33,200 – návěst Připravte rádiové zařízení GSM-R k registraci",
+    "- km 32,600 – návěst Začátek traťové rádiové sítě GSM-R",
+    "ve směru jízdy vlaku z Čížkovic do Obrnic:",
+    "- km 33,200 – návěst Konec traťové rádiové sítě GSM-R",
+    "- km 33,830 – návěst Připravte rádiové zařízení GSM-R k registraci",
+    "- km 34,530 – návěst Začátek traťové rádiové sítě GSM-R",
+    "V uvedeném úseku je možné použít pouze nouzové spojení dle TTP."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu jižní Čechy",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 709B / 220 00",
+   "body": [
+    "v ŽST Protivín nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím v ŽST Protivín je nutno použít zkrácené volby 1335;",
+    "zkrácená volba 1300 z pohyblivého terminálu – volání příslušného výpravčího pro ŽST Pačejov (oblast 60935 Mileč – Velký Bor) je trvale přesměrována na dotykový terminál IP TOP1 výpravčího v ŽST Horažďovice předměstí. V případě místního řízení ŽST Pačejov výpravčím je nutné použít zkrácené volby 1337."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu jižní Čechy",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 706A / 240 00",
+   "body": [
+    "v ŽST Horní Dvořiště nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím v ŽST Horní Dvořiště je nutno použít zkrácené volby 1334;",
+    "v ŽST Včelná nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím DOZ HD1 je nutno použít zkrácené volby 1343."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu jižní Čechy",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 715A / 363 00",
+   "body": [
+    "v ŽST Putim nelze využít zkrácené volby 1300 z pohyblivého terminálu. Pro spojení s výpravčím v ŽST Putim je nutno použít zkrácené volby 1332."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu jižní Čechy",
+   "nadpis": "Opatření místního významu pro dopravce ČD, a.s. v ŽST Tábor",
+   "body": [
+    "vlaky dopravce ČD a.s. jedoucí ve směru od Bechyně (trať 702C / 281 00) a vjíždějící v ŽST Tábor do obvodu místního nádraží nemusí u návěsti v km 5,695 „Připravte rádiové zařízení GSM-R k registraci“ zahájit její přípravu a u návěsti v km 5,280 „Začátek rádiového systému GSM-R“ provádět komunikaci v rádiové síti GSM-R;",
+    "do obvodu místního nádraží ŽST Tábor mohou tyto vlaky vjíždět s traťovým rádiovým spojením SRV pro trať Tábor – Bechyně;",
+    "po vjezdu vlaku a po dobu jeho pobytu v ŽST Tábor v obvodu místního nádraží přepne strojvedoucí VR na síť STE4 – simplexní kanál 30;",
+    "při jízdě opačným směrem, tedy po odjezdu vlaku ve směru ze ŽST Tábor z obvodu místního nádraží na trať směr Bechyně, se strojvedoucí řídí návěstí pro rádiový provoz SRV."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu střední Čechy",
+   "nadpis": "Místní opatření pro trať Kralupy nad Vltavou – Neratovice (532A/482 00) při aktivaci funkce generální STOP",
+   "body": [
+    "pracoviště výpravčích v ŽST Chvatěruby a Úžice jsou vybavena pouze mobilním terminálem (MT) bez možnosti aktivace funkce generální STOP. V případě nutnosti použít funkci generální STOP k zastavení vlaků v příslušné oblasti v souladu s ustanovením předpisu SŽ Z11 je určen pro pracoviště výpravčích ŽST Chvatěruby, Úžice, Kralupy nad Vltavou a Neratovice následující postup:",
+    "výpravčí ŽST Chvatěruby nebo ŽST Úžice",
+    "1. aktivuje na MT GSM-R v souladu s návodem k obsluze nouzové volání SKP 299,",
+    "2. v souladu s ustanovením předpisu SŽ Z11 vyzve hlasem na aktivovaném nouzovém spojení všechny vlaky k zastavení a ihned poté nařídí na tomto spojení výpravčím ŽST Neratovice a Kralupy nad Vltavou, kteří jsou vybaveni dotykovým terminálem, aktivovat funkci generální STOP pro danou oblast na dotykovém terminálu,",
+    "výpravčí ŽST Kralupy nad Vltavou a Neratovice",
+    "3. neprodleně potvrdí na vyvolaném nouzovém spojení pokyn k obsluze funkce G-STOP slovy „výpravčí stanice ………………… rozumí“,",
+    "4. obsluhou DT na záložce „GSM-R nouze“ stanoveným způsobem aktivuje funkci G-STOP, a to stlačením ovládacího prvku STOP VLAK pro tuto oblast (je nutné, aby aktivaci povelu STOP aktivoval minimálně jeden z těchto výpravčích),",
+    "výpravčí ŽST Chvatěruby nebo ŽST Úžice",
+    "5. vyčká na probíhajícím nouzovém spojení na přehrání automatického hlášení, které bylo aktivováno v rámci použití povelu G-STOP,",
+    "6. v souladu s ustanovením předpisu SŽ Z11 zajistí zpravení strojvedoucích o důvodu zastavení,",
+    "7. po provedení všech stanovených úkonů požádá výpravčí, který aktivoval nouzové volání SKP 299 na MT o jeho ukončení, a to výpravčího, který na jeho příkaz funkci generální STOP aktivoval. Výzvu provede slovy: „výpravčí stanice ……… ukončí nouzové volání.“ Převzetí pokynu potvrdí výpravčí, který byl vyzván slovy: „výpravčí stanice ……… rozumí“,",
+    "výpravčí na trati Kralupy nad Vltavou – Neratovice",
+    "8. zajistí zpravení strojvedoucích o opatřeních k další jízdě ve svém řízeném obvodu v souladu s ustanovením předpisu SŽ Z11",
+    "Poznámka: Ukončení nouzového volání z MT, aktivovaného z důvodu dle bodu 2 tohoto postupu, není dovoleno!",
+    "Kontakty pro komunikaci v síti GSM-R s výpravčím v ŽST Chvatěruby a Úžice:",
+    "ŽST Chvatěruby výpravčí MT GSM-R FN – 7 54 406 52",
+    "ŽST Úžice výpravčí MT GSM-R FN – 7 54 606 52"
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu střední Čechy",
+   "nadpis": "Používání ZV dle předpisu SŽ Z11 v trati Kralupy nad Vltavou – Neratovice",
+   "body": [
+    "ZV 1200, 1300 a 1400 fungují standardním způsobem;",
+    "z MT GSM-R výpravčích v ŽST Chvatěruby a Úžice nelze v případech, kdy se strojvedoucí při použití ZV2 dovolá na nesprávné pracoviště, přesměrovat hovor na jiné pracoviště výpravčího."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu střední Čechy",
+   "nadpis": "Místní opatření pro úsek tratě 528B (387 00) Unhošť – Kladno (mimo) při aktivaci funkce generální STOP (platí ode dne aktivace GSM-R)",
+   "body": [
+    "pracoviště výpravčího v ŽST Unhošť je vybaveno pouze mobilním terminálem (MT) bez možnosti aktivace funkce generální STOP. V případě nutnosti použít funkci generální STOP k zastavení vlaků v příslušné oblasti v souladu s ustanovením předpisu SŽ Z11 je určen pro pracoviště výpravčích ŽST Unhošť a Kladno následující postup:",
+    "výpravčí ŽST Unhošť",
+    "1. aktivuje na MT GSM-R v souladu s návodem k obsluze nouzové volání SKP 299,",
+    "2. v souladu s ustanovením předpisu SŽ Z11 vyzve hlasem na aktivovaném nouzovém spojení všechny vlaky k zastavení a ihned poté nařídí na tomto spojení výpravčímu ŽST Kladno, aktivovat funkci generální STOP pro danou oblast na svém dotykovém terminálu",
+    "výpravčí ŽST Kladno",
+    "3. neprodleně potvrdí na vyvolaném nouzovém spojení pokyn k obsluze funkce G-STOP slovy „výpravčí stanice Kladno rozumí“,",
+    "4. obsluhou DT na záložce „GSM-R nouze“ stanoveným způsobem aktivuje funkci G-STOP, a to stlačením ovládacího prvku STOP VLAK pro tuto oblast,",
+    "výpravčí ŽST Unhošť",
+    "5. vyčká na probíhajícím nouzovém spojení na přehrání automatického hlášení, které bylo aktivováno v rámci použití povelu G-STOP,",
+    "6. v souladu s ustanovením předpisu SŽ Z11 zajistí zpravení strojvedoucích o důvodu zastavení,",
+    "7. po provedení všech stanovených úkonů požádá výpravčí, který aktivoval nouzové volání SKP 299 na MT o jeho ukončení. Výzvu provede slovy: „výpravčí stanice Kladno ukončí nouzové volání“. Převzetí pokynu potvrdí výpravčí slovy: „výpravčí stanice Kladno rozumí“,",
+    "výpravčí ŽST Unhošť",
+    "8. zajistí zpravení strojvedoucích o opatřeních k další jízdě ve svém řízeném obvodu v souladu s ustanovením předpisu SŽ Z11.",
+    "Poznámka: Ukončení nouzového volání z MT, aktivovaného z důvodu dle bodu 2 tohoto postupu, není dovoleno!",
+    "Kontakty pro komunikaci v síti GSM-R s výpravčím v ŽST Unhošť:",
+    "ŽST Unhošť výpravčí MT GSM-R FN – 7 53 626 52"
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu střední Čechy",
+   "nadpis": "Používání ZV dle předpisu SŽ Z11 v trati Unhošť – Kladno (mimo)",
+   "body": [
+    "ZV 1200 a 1300 fungují standardním způsobem;",
+    "z MT GSM-R výpravčího v ŽST Unhošť nelze v případech, kdy se strojvedoucí při použití ZV2 dovolá na nesprávné pracoviště, přesměrovat hovor na jiné pracoviště výpravčího."
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu severní Čechy",
+   "nadpis": "Místní opatření pro provoz GSM-R Dolní Bousov (mimo) – Kopidlno (mimo)",
+   "body": [
+    "základním rádiovým spojením v úseku trati Dolní Bousov (mimo) – Kopidlno (mimo), jejímž provozovatelem je společnost AŽD, je síť GSM-R CZ;",
+    "ve směru jízdy ze ŽST Dolní Bousov do ŽST Kopidlno (trať 542D) jsou radiovníky pro síť GSM-R CZ umístěny takto:",
+    "- v km 22,374 – návěst Připravte rádiové zařízení GSM-R k registraci;",
+    "- v km 21,974 – návěst Začátek traťové rádiové sítě GSM-R.",
+    "ve směru jízdy ze ŽST Kopidlno do ŽST Dolní Bousov (trať 542D) jsou radiovníky pro síť GSM-R CZ umístěny takto:",
+    "- v km 0,006 – návěst Připravte rádiové zařízení GSM-R k registraci;",
+    "- v km 0,406 – návěst Začátek traťové rádiové sítě GSM-R"
+   ]
+  },
+  {
+   "oblast": "Obvod územní správy řízení provozu střední Morava",
+   "nadpis": "Místní opatření pro použití zkrácených voleb pro trať 311C / 778 00",
+   "body": [
+    "v úseku trati 311C mezi zastávkou Štarnov – Olomouc hl.n. (mimo) nelze z technických důvodů zajistit správnou adresaci volání při použití ZV 1300 (ZV2) na pracoviště výpravčího DOZ A (RDP Olomouc). Za tímto účelem je pracoviště výpravčího DOZ A nově doplněno o adresnou ZV 1340, která by měla být při hlasovém spojení z VR v tomto úseku použita prioritně! V případě, že nebude příchozí hovor prostřednictvím ZV 1340 do 10 sekund přijat výpravčím DOZ A, bude automaticky přesměrován na pracoviště výpravčího DOZ B. Ukončení tohoto místního opatření a předání pokynu o opětovném správném fungování ZV 1300 (ZV2) z VR bude na základě zprávy CTD zajištěno z OŘ Ostrava formou depeše, včetně zajištění zpravování dotčených vlaků (PMD) písemným rozkazem."
+   ]
+  }
+ ]
+}

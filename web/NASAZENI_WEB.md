@@ -1,5 +1,94 @@
 # ZOZ Trenažér – nasazení na zozstroj.eu
 
+## ⬆ Aktualizace – Posun 3D: rádiová domluva s hlasy, bílá před rozjezdem, oprava zamrznutí
+
+Nahraj `index.html`, `sw.js`, `posun.json` a **novou složku `audio/posun/`** (zatím jen `seznam.json` a návod `NAHRAVKY.md`) z `na_web.zip`. Offline režim `shell-zoz-v29`.
+
+- **Domluva před posunem:** u peronu proběhne rádiový rozhovor (ohlášení, „slyším“, žádost o souhlas, souhlas, potvrzení). Teprve potom se rozsvítí **bílá na všech návěstidlech jízdy** a jednotka se rozjede. Před úvratí přijde „Posunový díl…, můžeš zastavit“ a po úvrati „posun dovolen“ – hned při zastavení, nebo až po přechodu na druhé stanoviště. Návěstidlo za úvratí (např. Se1) se rozsvítí až po souhlasu.
+- **Hlasy:** nahrávky z `audio/posun/` (seznam v `seznam.json`, texty k namluvení v `NAHRAVKY.md`). Nahrávky stavědel dostanou zvuk vysílačky. Co nahrané není, řekne syntetický český hlas telefonu; tlačítko 🔊/🔇 hlasy vypne (pak jen titulky).
+- **Oprava:** zavření simulace (✕, Esc) a „Znovu“ už nezamrznou aplikaci. Úklid 3D padal na jednotce 844 a překryvná vrstva zůstala viset; nově se uvolní i WebGL kontext.
+
+## ⬆ Aktualizace – Posun: 3D simulace a úvrať za izolovaným stykem
+
+Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v28`.
+
+- **▶ Simulace 3D** (u vypočtené trasy): plánek se „sklopí“ z pohledu shora do 3D, posunovací lokomotiva projede trasu. Před návěstidly na trase čeká na **Posun dovolen** (seřaďovací modré → bílé, hlavní červené + bílé), na úvrati zastaví a pohled se otočí o 180° – přechod na druhé stanoviště. Pohled z kabiny, zvenku a shora, rychlost 1×–8×, pauza (mezerník), Esc zavře.
+- **Rádio jako v praxi:** před úvratí tě stavědlo zastaví („Posunový díl 6802, můžeš zastavit.“), Posun dovolen dá rádiem („…, posun dovolen na desátou kolej.“) – hned při zastavení, nebo až po přechodu na druhé stanoviště; u návěstidla (např. Se1) bílé světlo + potvrzení rádiem. Oslovení bere číslo z údajů do hlášení.
+- **Úvrať za izolovaným stykem i v zhlaví St.2** (výhybky 49–72 kromě 53, 55, 58, 60, 62, 68 – přístup na NTM a 4b/6b), souhlas Stavidlo 2 (PS5–PS8). Např. 2 → 9: L2 → 56, 59, 63, 64, 66 → úvrať za výhybkou 66 → 66, 61, 57, 54 → 9.
+- **Jednotka ř. 844 RegioShark** (Pesa Link) v barvách ČD bez log: dvě skříně na společném podvozku (44 m), žraločí čelo, kabina s pultem. Jednotka dojede čelem ke kusé koleji, za izolovaný styk zajede celá, před návěstidlem zastaví čelem; přechod na druhé stanoviště = zatmění a pohled z kabiny na druhém konci.
+- **Návěstidla podle D1:** hlavní s červeným štítkem s bílým označením (vjezdová s červenobílým označovacím pásem), seřaďovací stožárová s modrobílým pásem a modrým štítkem s bílým okrajem, v zhlaví trpasličí.
+- **Trakční vedení** jako v Chomutově: příhradové brány napříč kolejištěm po ~65 m, stožáry jen po krajích mimo koleje (u jedné koleje stožár s ramenem).
+- **Sypané peronky** (nízký násyp, bez střech); u výpravní budovy zpevněné nástupiště s přístřeškem budovy. Posun začíná u peronu výchozí koleje.
+- **Rychlost posunu až 40 km/h**, brzdění včas (0,3 m/s², posledních 25 m před úvratí/návěstidlem nejvýš 10 km/h). **Stříška nad 1. nástupištěm u 5. koleje** od výpravní budovy. **Západní zhlaví** (od lávky k výtahu 4c) je ve 3D zkrácené na polovinu (`zkraceni3d` v posun.json).
+- **Vzhled:** stromy a keře kolem kolejiště, štěrková plocha v kolejišti, kopce na obzoru (Krušné hory na severozápadě), obloha s přechodem a mraky; jednotka 844 je označená jako posunový díl – dvě bílá světla vpředu i vzadu, má výstroj pod podlahou a stín. Na slabém telefonu (pod ~20 snímků/s) se zeleň a rozlišení samy uberou.
+- **Okolí podle místní znalosti:** lávka přes kolejiště mezi výpravní budovou a St. 1, pošta východně za nástupišti, naproti budově Uni Hobby (oranžová), za ním Globus s parkovištěm, u vlečky Muzeum NTM (Národní technické muzeum); St. 2 u východního zhlaví osobního nádraží.
+- **Kusé koleje v 3D v užitečné délce ze SŘ** (schéma je u nich zkrácené), měřeno od návěstidla u koleje k zarážedlu; na koncích zarážedla. Na výtah 4c (102 m) se vejde 844 i 814 – po úvrati je Se1 dobře vidět z kabiny.
+- **Budovy podle fotek:** výpravní budova (vysoká střední budova se štítem, přízemní křídla s oblouky, koncové pavilony, červené valbové střechy, přístřešek na sloupech), St. 1 (bílé, vystouplý prosklený velín, cedule CHOMUTOV), St. 2 (žlutá věž s velínem).
+- **3D okolí stanice:** nástupiště s přístřešky a osvětlením (polohy a délky 115–300 m podle schématu SŘ), přechod v km 64,693, výpravní budova s DK, stavědla St. 1 a St. 2, trakční vedení se stožáry. Plánek je v podélném směru zkrácený na polovinu – odpovídá skutečným délkám nástupišť, posun je tak 2× kratší.
+- 3D knihovna (three.js, ~600 kB) se stáhne až při prvním spuštění simulace z cdn.jsdelivr.net; potom ji service worker drží a simulace jde i bez signálu.
+- **Chomutov – úvrať v zhlaví St.1:** v zhlaví St.1 (výhybky 3–27, bez seřaďovacích návěstidel) se už nejezdí zbytečně do výtahu 4c. Stačí zajet celým posunovým dílem za izolovaný styk za výhybkou a počkat na Posun dovolen od Stavidla 1 (souhlasy PS1–PS4). Např. 4 → 10: S4 → výhybka 21 → úvrať → 21, 24, 26, 28 → 10. U styků, které podle SŘ nekontrolují volnost námezníku (např. 21–24), pomůcka upozorní, ať se zajede i za námezník. Výhybky 1 a 2 (směr Černovice) dál vedou do výtahu 4c (SŘ čl. 54) – 4 → NTM: S4 → 4c → Se1 → NTM.
+
+## ⬆ Aktualizace – Posunová pomůcka: skutečný plánek ŽST Chomutov
+
+Nahraj `index.html`, `sw.js` a `posun.json` z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v27`.
+
+- **Chomutov** podle SŘ ŽST Chomutov: 64 kolejí, 105 výhybek, 56 návěstidel, vlečka NTM a Průmyslová kolej. Na velkém plánku se posouvá do stran.
+- **Komu voláš** se řídí posunovacím obvodem cílové koleje (SŘ čl. 52–53): volá se, jak je zvykem – **Doprava Chomutov**, **Stavidlo 2 Chomutov**, **Stavidlo 1 Chomutov** (oficiální název ze SŘ v závorce) – s GSM-R číslem a telefonem ze SŘ. U vlečky NTM i posunovač ČD (tel. 725 817 925, rádio STE 4 kanál 19).
+- U vybrané koleje se ukáže typ, užitečná délka a poznámka ze SŘ. Koleje se zákazem jízdy (v SŘ červeně) nejdou vybrat a trasa přes ně nevede.
+- Úvrať: přednostně na výtažné koleji („výtah“, např. 4c) – dojede se až ke kusé koleji, takže trasa ukáže i seřaďovací návěstidlo pro jízdu zpět (4 → NTM: S4 a Se1, dvakrát Posun dovolen); nikdy na účelových kolejích OSPD. Když jinak nejde, pomůcka změní směr na traťové koleji **před označníkem** a výslovně to napíše („posun jen k označníku, za něj ne“).
+- Ukázková Lhota zůstává jako druhá stanice.
+
+## ⬆ Aktualizace – Posunová pomůcka (BETA, zatím jen ukázková stanice)
+
+Nahraj `index.html`, `sw.js` a **nový soubor `posun.json`** (plánky stanic) z `na_web.zip`. Databáze se nemění. Offline režim `shell-zoz-v26`.
+
+- **Posunová pomůcka** (záložka Posun, na mobilu pod „Více“): vybereš stanici, v plánku klepneš na kolej, kde stojíš, a na kolej, kam chceš. Pomůcka:
+  - sestaví, **co řekneš výpravčímu** – ohlášení („Výpravčí …, zde je strojvedoucí posunového dílu od vlaku … na čtvrté koleji v …“) a žádost o souhlas k posunu s náležitostmi podle **D1 čl. 229 odst. (5)** (dopravce, příjmení, s/bez posunové čety, závislá trakce, odstavení na cílové koleji), navazování spojení podle **Z11**; umí to i přečíst nahlas;
+  - ukáže **trasu**: kolem kterých návěstidel pojedeš (a že potřebuješ Posun dovolen – bílé světlo, s obrázkem z návěstního atlasu), přes které výhybky a **kde je úvrať**.
+- Údaje (číslo vlaku, dopravce, příjmení) si pamatuje.
+- Zatím je v ní jen **vymyšlená „Ukázková Lhota“**. Skutečné stanice se doplňují do `posun.json` podle `web/POSUN_FORMAT.md` – kód se nemění.
+
+---
+
+## ⬆ Aktualizace – Návěstní atlas a trenažér závazných slovních znění
+
+Nahraj `index.html`, `sw.js` a **nový soubor `navesti.json`** (1,8 MB, obrázky návěstí) z `na_web.zip` – všechny tři vedle sebe do kořene webu. Databáze se nemění. Offline režim je `shell-zoz-v25`.
+
+- **Návěstní atlas** (záložka Návěsti, na mobilu pod „Více“): 275 návěstí z SŽ D1 s obrázkem, vzhledem (kurzívou z předpisu), významem a odkazem na článek a stranu. Hledání („přerušované bílé“, „rychlostník“), filtr podle skupin (hlavní návěstidla, předvěsti, posun, elektrický provoz, přejezdy…), detail s listováním a odkazem na otázky, kde se návěst objevuje.
+- **Kvíz návěstí**: 10 otázek – obrázek → název, nebo název → vyber obrázek; možnosti ze stejné skupiny, po odpovědi vzhled a význam. Přednostně dává návěsti, ve kterých chybuješ; filtr „Chybuji“.
+- **Závazná slovní znění** (záložka Znění): 16 znění ze Z11, D1, D2 a ObŘ (G-STOP, horké ložisko STOP/K, nouzové hlášení, informace o návěsti telefonem, odvolání výpravy a tvoje potvrzení, souhlas k posunu, sunutý vlak, ohlášení a zkouška spojení) + 10 výrazů terminologie Z11 přílohy O. Aplikace zadá situaci s konkrétním číslem vlaku a stanicí, ty znění napíšeš nebo **nadiktuješ** (🎤, česky – diktování potřebuje připojení) a uvidíš, která slova chyběla. Režim Kartičky a Přehled všech znění. Znění, která předpis uvádí jen jako příklad, jsou označená „vzor“.
+- Hledání „Co teď?“ nabídne odkaz do atlasu, když dotaz odpovídá názvu návěsti.
+- Atlas se po přihlášení stáhne na pozadí a uloží do telefonu – funguje i bez signálu. Nová verze D1: vyměň `D1.pdf` a spusť `python3 web/tools/navesti.py` (vyžaduje `pip install pymupdf`).
+
+---
+
+## ⬆ Aktualizace – GSM-R zkrácené volby s vyhledáváním
+
+Stačí nahrát `index.html` a `sw.js` z `na_web.zip`. Databáze se nemění.
+
+- **Nová záložka GSM-R** (na mobilu pod „Více“): napíšeš stanici, trať nebo pracoviště (např. „Ústí“, „Chomutov“, „504A“, „Brno hl. n.“) a hned vidíš **adresné zkrácené volby** výpravčích a dispečerů z **PŘ GSM-R CZ, Příloha B** (229 voleb), seskupené po tratích, uzlech a oblastech CDP. Hledaná stanice je v rámci trati nahoře.
+- Rozumí zkratkám předpisu („Ústí nad Labem“ najde „Ústí n.L.“, „Karlovy Vary“ najde „K. Vary“), nevadí chybějící diakritika.
+- Když pro stanici platí **místní opatření z Přílohy C** (např. „v ŽST Protivín nelze využít 1300 – použij 1335“), ukáže se nahoře žlutě.
+- Pracoviště PPV (platí jen při poruše DOZ a zpravování písemným rozkazem) jsou označená a řazená až za tratěmi.
+- Dole vždy obecné volby: ZV1 1200, ZV2 1300, ZV3 1400, SKP 200 (SŽ Z11, tab. K.1).
+- Hledání „Co teď?“ nabídne odkaz na zkrácené volby, když dotaz odpovídá stanici.
+- Data jsou přímo v aplikaci, takže fungují i bez signálu. Při nové verzi PŘ GSM-R stačí vyměnit `GSMR.pdf` a spustit `python3 web/tools/gsmr_zv.py` (vyžaduje `pip install pdfplumber`) – data se vytáhnou do `web/gsmr_zv.json` a vloží do aplikace.
+
+---
+
+## ⬆ Aktualizace – kabinový režim, hledání „Co teď?“, plán přípravy do ZOZ
+
+1. **SQL editor → `cast7_plan.sql` → Run** (přidá k profilu sloupec pro plán – ať platí na mobilu i na počítači; bez něj plán funguje jen v zařízení).
+2. Nahraj `index.html` a `sw.js` z `na_web.zip` (offline režim `shell-zoz-v24`).
+
+- **Kabinový režim krizových postupů:** v postupu tlačítko **☾ Kabinový režim** – jeden úkon přes celou obrazovku, velké **✓ HOTOVO** / **ANO** / **NE**, noční červené barvy (☀/☾ přepne na denní), **A− / A+** velikost písma, **🔊** předčítání česky, displej nezhasíná, **↶ Zpět** vrátí poslední úkon. V seznamu poruch jde zaškrtnout „Otevírat postupy rovnou v kabinovém režimu“.
+- **Bez signálu:** u výběru řady je vidět „Připraveno na jízdu bez signálu“ – postupy i fotky k nim se uloží do telefonu (fotky se stáhnou samy). Aplikace se bez signálu už **nepřepne na přihlášení** – jede z uloženého účtu, profilu a statistik a po návratu signálu je obnoví.
+- **Hledat „Co teď?“** (lupa v hlavičce, na počítači klávesa `/`): napíšeš, co se děje, a hned vidíš otázky, zkrácené odpovědi, články předpisů i krizové postupy tvých řad. Nevadí chybějící háčky, jiný pád ani překlep; zkratky HV, PN, VZ, MU, GSM-R. Funguje i bez signálu.
+- **Příprava do ZOZ** (nahoře v záložce ZOZ): nastavíš datum ZOZ a kolik minut denně. Aplikace každý den připraví **denní dávku** – otázky, které je potřeba zopakovat (správně → vrátí se za 1, 3, 7, 14, 30 dní; chyba → zítra znovu) a k nim nové tak, aby bylo všechno probrané týden před ZOZ. Ukazuje odpočet, **připravenost v %** (předpisy / lokomotivy), dny v řadě a co tě čeká zítra. Co už kdo procvičoval, se do plánu převezme. Odpovědi se počítají i do Statistik.
+- Nadpis a upozornění těsně před bodem, na který rozhodnutí v krizovém postupu skočí (např. „Vstupuješ-li do strojovny, zavři kohoutky…“), se už neschovávají.
+
+---
+
 ## ⬆ Aktualizace – krizové postupy pro všechny (BETA)
 
 1. Nahraj `index.html`, `sw.js` a `.htaccess` z `na_web.zip`.
